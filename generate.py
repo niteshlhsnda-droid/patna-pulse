@@ -182,6 +182,23 @@ def outlet_key(outlet):
     return re.sub(r"\s+", " ", o).strip()
 
 
+def type_for_url(url, declared="news"):
+    """Map a source URL to the frontend's source-type vocabulary so social
+    links render with their platform icon/label instead of a generic link."""
+    u = (url or "").lower()
+    if "facebook.com" in u or "fb.watch" in u:
+        return "facebook"
+    if "instagram.com" in u:
+        return "instagram"
+    if "youtube.com" in u or "youtu.be" in u:
+        return "youtube"
+    if "x.com" in u or "twitter.com" in u:
+        return "x"
+    if "threads.com" in u or "threads.net" in u:
+        return "threads"
+    return declared or "news"
+
+
 def genuineness(source_count):
     if source_count >= 3:
         return "verified", "Verified"
@@ -217,7 +234,9 @@ def main():
             "date": c["date"],
             "topics": c.get("topics") or tag_topics(
                 c["headline"] + " " + c["summary"]),
-            "sources": list(c["sources"]),
+            "sources": [{"outlet": s["outlet"],
+                         "type": type_for_url(s["url"], s.get("type")),
+                         "url": s["url"]} for s in c["sources"]],
             "curated_tokens": tokens(c["headline"]),
         })
 
