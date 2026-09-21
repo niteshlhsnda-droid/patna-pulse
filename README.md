@@ -1,9 +1,9 @@
-# Patna News Watch
+# Patna Pulse
 
 A static, mobile-friendly dashboard of current Patna & Bihar news, published via GitHub Pages.
 No build step, no API keys, no backend — just Python (standard library only) + static files.
 
-**Live site:** https://niteshlhsnda-droid.github.io/patna-news-watch/
+**Live site:** https://niteshlhsnda-droid.github.io/patna-pulse/
 
 ## What it shows
 
