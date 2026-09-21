@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Patna News Watch — Bihar News Tracker</title>
+<meta name="description" content="Curated Patna & Bihar news from multiple sources, with cross-source corroboration labels. Updated daily.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <h1>📰 Patna News Watch</h1>
+    <p class="tagline">Patna &amp; Bihar news from across the web — newest first, with cross-source corroboration labels.</p>
+    <p class="updated">Last updated: <strong id="last-updated">…</strong> · <span id="story-count"></span></p>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="disclaimer" aria-label="Methodology disclaimer">
+    <strong>How to read this page:</strong>
+    each story carries a genuineness badge based on <em>how many independent outlets</em> reported it —
+    <span class="badge b-verified">Verified</span> (3+ outlets),
+    <span class="badge b-corroborated">Corroborated</span> (2 outlets),
+    <span class="badge b-single">Single source</span> (1 outlet — treat with caution).
+    Corroboration means multiple outlets reported it; it is <strong>not</strong> proof the story is true.
+    Always open the source links and judge for yourself.
+    <details>
+      <summary>Methodology &amp; limitations</summary>
+      <ul>
+        <li>Stories are collected from Google News RSS (Patna/Bihar queries, English + Hindi) and a hand-verified list of web/social finds. No story is invented — every card links to real sources.</li>
+        <li>Headlines saying the same thing are grouped by keyword overlap; outlet counts use distinct outlets, not raw link counts.</li>
+        <li>Only stories from the last 7 days are shown. Auto-collected items need 2+ outlets to appear; hand-verified items always appear, even single-source.</li>
+        <li>Coverage is best-effort: some outlets block automated collection, and social platforms (Instagram, Facebook, X, YouTube) are only represented via manually collected links. X/Twitter yielded no usable public links at last check.</li>
+        <li>To regenerate: <code>python3 generate.py</code> (standard library only).</li>
+      </ul>
+    </details>
+  </section>
+
+  <section class="controls" aria-label="Filters">
+    <input id="search" type="search" placeholder="Search headlines…" aria-label="Search headlines">
+    <div class="chip-row" id="topic-chips" role="group" aria-label="Filter by topic"></div>
+    <div class="chip-row" id="badge-chips" role="group" aria-label="Filter by genuineness">
+      <button class="chip active" data-badge="all">All badges</button>
+      <button class="chip" data-badge="verified">✓ Verified</button>
+      <button class="chip" data-badge="corroborated">◐ Corroborated</button>
+      <button class="chip" data-badge="single">○ Single source</button>
+    </div>
+  </section>
+
+  <main id="stories" aria-live="polite"></main>
+  <p id="empty" class="empty" hidden>No stories match your filters.</p>
+
+  <footer class="site-footer">
+    <p>Patna News Watch · auto-generated static page · <a href="https://github.com/niteshlhsnda-droid/patna-news-watch">source on GitHub</a></p>
+    <p class="fine">News belongs to its publishers; headlines link out to the original sources. Corroboration counts are a heuristic, not fact-checking.</p>
+  </footer>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
