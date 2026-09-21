@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Patna News Watch — story collector and genuineness scorer.
+"""Patna Pulse — story collector and genuineness scorer.
 
 Collects Patna/Bihar news from:
   1. RSS feeds (Google News RSS for Patna/Bihar queries + outlet feeds) — no API key needed.
@@ -101,7 +101,7 @@ def fetch_rss():
     for feed_name, url in RSS_FEEDS:
         try:
             req = urllib.request.Request(
-                url, headers={"User-Agent": "patna-news-watch/1.0"})
+                url, headers={"User-Agent": "patna-pulse/1.0"})
             with urllib.request.urlopen(req, timeout=25) as resp:
                 root = ET.fromstring(resp.read())
             for it in root.iter("item"):
