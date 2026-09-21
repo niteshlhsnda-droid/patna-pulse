@@ -36,10 +36,22 @@
       esc(story.genuineness_label) + "</span>";
   }
 
+  function typeOf(s) {
+    if (TYPE_ICONS[s.type]) return s.type;
+    var u = (s.url || "").toLowerCase();
+    if (u.indexOf("facebook.com") !== -1 || u.indexOf("fb.watch") !== -1) return "facebook";
+    if (u.indexOf("instagram.com") !== -1) return "instagram";
+    if (u.indexOf("youtube.com") !== -1 || u.indexOf("youtu.be") !== -1) return "youtube";
+    if (u.indexOf("x.com") !== -1 || u.indexOf("twitter.com") !== -1) return "x";
+    if (u.indexOf("threads.com") !== -1 || u.indexOf("threads.net") !== -1) return "threads";
+    return "news";
+  }
+
   function cardHTML(story) {
     var srcs = story.sources.map(function (s) {
-      var icon = TYPE_ICONS[s.type] || "🔗";
-      var label = TYPE_LABELS[s.type] || s.type;
+      var t = typeOf(s);
+      var icon = TYPE_ICONS[t] || "🔗";
+      var label = TYPE_LABELS[t] || t;
       return '<li><span class="src-type" title="' + esc(label) + '">' + icon + "</span>" +
         '<a href="' + esc(s.url) + '" target="_blank" rel="noopener">' +
         esc(s.outlet) + "</a></li>";
