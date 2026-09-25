@@ -116,6 +116,7 @@
       mediaHTML(story, false) +
       '<div class="card-body">' +
       '<div class="card-meta"><span class="rel">' + esc(relDate(story.date)) + "</span>" +
+      badgeFor(story) +
       "<span>" + fmtDate(story.date) + "</span></div>" +
       "<h3>" + esc(story.headline) + "</h3>" +
       (story.summary ? '<p class="card-summary">' + esc(story.summary) + "</p>" : "") +
@@ -195,7 +196,12 @@
       frame.innerHTML = '<iframe src="' + esc(url) + '" title="Story video" ' +
         'allow="accelerometer; autoplay; encrypted-media; picture-in-picture" ' +
         'allowfullscreen></iframe>';
-      var media = btn.closest(".hero-media, .card-media");
+      var media = btn.closest(".hero-media, .card-media") ||
+        (function () {
+          var card = btn.closest(".hero-card, .card");
+          return card && card.querySelector(".hero-media, .card-media");
+        })();
+      if (!media) return;
       media.appendChild(frame);
       media.querySelectorAll(".play-btn").forEach(function (b) { b.remove(); });
     });
