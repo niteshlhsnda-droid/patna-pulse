@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Login &mdash; My Sites</title>
+<script src="/patna-pulse/auth.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:#0b1220;color:#e8edf5;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}
+.box{width:100%;max-width:420px;background:#131c31;border:1px solid #233154;border-radius:16px;padding:32px 28px;box-shadow:0 20px 60px rgba(0,0,0,.5)}
+h1{font-size:22px;margin-bottom:6px}
+.sub{color:#8fa0bd;font-size:14px;margin-bottom:22px}
+label{font-size:13px;color:#8fa0bd;display:block;margin-bottom:8px}
+input{width:100%;padding:13px 14px;border-radius:10px;border:1px solid #2c3d63;background:#0b1220;color:#fff;font-size:16px;outline:none}
+input:focus{border-color:#f59e0b}
+button{width:100%;margin-top:14px;padding:13px;border:none;border-radius:10px;background:#f59e0b;color:#1a1206;font-size:16px;font-weight:700;cursor:pointer}
+button:active{transform:scale(.98)}
+.err{display:none;margin-top:12px;color:#ff8f8f;font-size:14px;text-align:center}
+.portal{display:none}
+.grid{display:grid;gap:12px;margin-top:18px}
+.card{display:block;background:#0b1220;border:1px solid #233154;border-radius:12px;padding:16px;text-decoration:none;color:#e8edf5}
+.card:hover{border-color:#f59e0b}
+.card .t{font-weight:700;font-size:16px;display:block}
+.card .d{color:#8fa0bd;font-size:13px;display:block;margin-top:4px}
+.card .go{color:#f59e0b;font-size:13px;font-weight:700;display:block;margin-top:8px}
+.logout{display:block;text-align:center;margin-top:18px;color:#8fa0bd;font-size:13px;cursor:pointer;background:none;border:none;width:100%}
+.logout:hover{color:#ff8f8f}
+.note{margin-top:16px;font-size:12px;color:#5c6c8c;text-align:center}
+</style>
+</head>
+<body>
+<div class="box">
+  <div id="form">
+    <h1>Members login</h1>
+    <p class="sub">Enter the password to open all four sites.</p>
+    <label for="pw">Password</label>
+    <input type="password" id="pw" placeholder="••••••••" autocomplete="current-password">
+    <button onclick="doLogin()">Unlock</button>
+    <p class="err" id="err">Wrong password, try again.</p>
+  </div>
+  <div class="portal" id="portal">
+    <h1>You're in &#x1F389;</h1>
+    <p class="sub">Pick a site to open.</p>
+    <div class="grid">
+      <a class="card" href="https://niteshlhsnda-droid.github.io/current-affairs-exams/"><span class="t">Current Affairs for Exams</span><span class="d">Daily exam-ready current affairs, quizzes & one-liners</span><span class="go">Open &rarr;</span></a>
+      <a class="card" href="https://niteshlhsnda-droid.github.io/patna-pulse/"><span class="t">Patna Pulse</span><span class="d">Patna & Bihar news, newest first</span><span class="go">Open &rarr;</span></a>
+      <a class="card" href="https://niteshlhsnda-droid.github.io/bpsc-pcs-prep/"><span class="t">BPSC PCS Prep</span><span class="d">BPSC CCE syllabus, Bihar notes, books & study plan</span><span class="go">Open &rarr;</span></a>
+      <a class="card" href="https://niteshlhsnda-droid.github.io/kids-book-videos/"><span class="t">Kids Book Videos</span><span class="d">The Big Bedtime Storybook</span><span class="go">Open &rarr;</span></a>
+    </div>
+    <button class="logout" onclick="siteLogout()">Log out</button>
+  </div>
+  <p class="note">One login unlocks all four sites on this device.</p>
+</div>
+<script>
+var params = new URLSearchParams(location.search);
+var next = params.get("next");
+if (siteIsAuthed()) {
+  if (next) { location.replace(next); }
+  else { document.getElementById("form").style.display="none"; document.getElementById("portal").style.display="block"; }
+}
+function doLogin(){
+  var pw = document.getElementById("pw").value;
+  if (siteDoLogin(pw)) {
+    if (next) location.replace(next);
+    else location.replace(location.pathname + "?done=1");
+  } else {
+    var e = document.getElementById("err");
+    e.style.display = "block";
+    document.getElementById("pw").value = "";
+    document.getElementById("pw").focus();
+  }
+}
+document.getElementById("pw").addEventListener("keydown", function(ev){ if(ev.key==="Enter") doLogin(); });
+</script>
+</body>
+</html>
