@@ -26,6 +26,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
+import os
 import re
 import sys
 import urllib.request
@@ -207,6 +208,127 @@ def genuineness(source_count):
     return "single", "Single source"
 
 
+UA = {"User-Agent": "patna-pulse/1.0 (+https://niteshlhsnda-droid.github.io/patna-pulse/)"}
+IMG_DIR = "images"
+SKIP_IMG_HOSTS = ("facebook.com", "fb.watch", "instagram.com", "x.com",
+                  "twitter.com", "threads.com", "threads.net")
+
+
+def og_image_from_url(url):
+    """Fetch a page and extract its og:image. Returns absolute URL or None."""
+    if "news.google.com" in (url or ""):
+        return None  # interstitial redirect page: never carries og:image
+    try:
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=12) as resp:
+            ctype = resp.headers.get("Content-Type", "")
+            if "html" not in ctype.lower():
+                return None
+            html = resp.read(300_000).decode("utf-8", "ignore")
+        for pat in (r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)',
+                    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']'):
+            m = re.search(pat, html, re.I)
+            if m:
+                return m.group(1)
+        return None
+    except Exception as exc:  # network / parse failure -> no image
+        print(f"    og:image miss {url[:70]}: {exc}", file=sys.stderr)
+        return None
+
+
+def youtube_id(url):
+    m = re.search(
+        r"(?:youtube\.com/(?:watch\?[^#]*v=|shorts/|embed/|live/)|youtu\.be/)"
+        r"([A-Za-z0-9_-]{6,})", url or "")
+    return m.group(1) if m else None
+
+
+def youtube_thumb(video_id):
+    """oEmbed thumbnail for a YouTube video (no API key needed)."""
+    try:
+        api = ("https://www.youtube.com/oembed?url="
+               "https://www.youtube.com/watch?v=" + video_id + "&format=json")
+        req = urllib.request.Request(api, headers=UA)
+        with urllib.request.urlopen(req, timeout=12) as resp:
+            data = json.loads(resp.read(50_000).decode("utf-8", "ignore"))
+        return data.get("thumbnail_url")
+    except Exception as exc:
+        print(f"    yt oembed miss {video_id}: {exc}", file=sys.stderr)
+        return None
+
+
+def download_image(img_url, story_id):
+    """Download an image into images/<story-id>.<ext>. Returns rel path or None."""
+    try:
+        req = urllib.request.Request(img_url, headers=UA)
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            ctype = resp.headers.get("Content-Type", "").split(";")[0].strip().lower()
+            if not ctype.startswith("image/"):
+                return None
+            data = resp.read(3_000_000)
+        if len(data) < 2000:  # too small to be a real photo
+            return None
+        ext = {"image/jpeg": "jpg", "image/png": "png",
+               "image/webp": "webp", "image/gif": "gif"}.get(ctype, "jpg")
+        os.makedirs(IMG_DIR, exist_ok=True)
+        for e in ("jpg", "png", "webp", "gif"):
+            p = os.path.join(IMG_DIR, story_id + "." + e)
+            if os.path.exists(p):
+                os.remove(p)
+        with open(os.path.join(IMG_DIR, story_id + "." + ext), "wb") as fh:
+            fh.write(data)
+        return IMG_DIR + "/" + story_id + "." + ext
+    except Exception as exc:
+        print(f"    image download miss {img_url[:70]}: {exc}", file=sys.stderr)
+        return None
+
+
+def enrich_media(out_stories):
+    """Add 'image' (local path) and 'video_embed' (YouTube iframe URL) per story."""
+    for s in out_stories:
+        s["image"] = None
+        s["video_embed"] = None
+        news_srcs = [x for x in s["sources"] if x["type"] == "news"]
+        yt_ids = []
+        for x in s["sources"]:
+            vid = youtube_id(x["url"])
+            if vid and vid not in yt_ids:
+                yt_ids.append(vid)
+        if yt_ids:
+            s["video_embed"] = ("https://www.youtube-nocookie.com/embed/"
+                                + yt_ids[0])
+        tried = 0
+        for src in news_srcs:
+            if tried >= 3 or s["image"]:
+                break
+            host = (src["url"] or "").lower()
+            if any(h in host for h in SKIP_IMG_HOSTS):
+                continue
+            tried += 1
+            og = og_image_from_url(src["url"])
+            if not og:
+                continue
+            if og.startswith("//"):
+                og = "https:" + og
+            s["image"] = download_image(og, s["id"])
+        if not s["image"]:
+            for vid in yt_ids[:2]:  # fall back to a video thumbnail
+                thumb = youtube_thumb(vid)
+                if thumb:
+                    s["image"] = download_image(thumb, s["id"])
+                    if s["image"]:
+                        break
+        print(f"  media {s['id'][:44]:44} "
+              f"img={'y' if s['image'] else 'n'} vid={'y' if s['video_embed'] else 'n'}",
+              file=sys.stderr)
+    keep = {s["image"] for s in out_stories if s["image"]}
+    if os.path.isdir(IMG_DIR):
+        for f in os.listdir(IMG_DIR):
+            rel = IMG_DIR + "/" + f
+            if rel not in keep:
+                os.remove(os.path.join(IMG_DIR, f))
+
+
 def slugify(text):
     s = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
     return s[:60] or "story"
@@ -312,9 +434,23 @@ def main():
     # Drop thin RSS-only clusters; keep every hand-verified curated story.
     def outlet_count(s):
         return len({outlet_key(x["outlet"]) for x in s["sources"]})
+
+    def headline_ok(s):
+        """RSS-only headlines must look like real headlines, not outlet names."""
+        if s["is_curated"]:
+            return True
+        words = re.findall(r"[A-Za-z\u0900-\u097F]{2,}", s["headline"])
+        if len(words) < 4:
+            return False
+        outlets = {outlet_key(x["outlet"]) for x in s["sources"]}
+        if outlet_key(s["headline"]) in outlets:
+            return False
+        return True
+
     before = len(stories)
     stories = [s for s in stories
-               if s["is_curated"] or outlet_count(s) >= MIN_RSS_OUTLETS]
+               if (s["is_curated"] or outlet_count(s) >= MIN_RSS_OUTLETS)
+               and headline_ok(s)]
     print(f"  filtered {before} -> {len(stories)} stories "
           f"(RSS-only need >={MIN_RSS_OUTLETS} outlets)", file=sys.stderr)
 
@@ -342,6 +478,7 @@ def main():
         })
 
     out_stories.sort(key=lambda x: x["date"], reverse=True)
+    enrich_media(out_stories)
     data = {
         "generated_at": BASE.strftime("%Y-%m-%d %H:%M UTC"),
         "generated_at_ist": (BASE + dt.timedelta(hours=5, minutes=30)
