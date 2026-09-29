@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29 16:35 UTC",
-  "generated_at_ist": "29 Sep 2026, 10:05 PM IST",
-  "story_count": 30,
+  "generated_at": "2026-09-29 17:07 UTC",
+  "generated_at_ist": "29 Sep 2026, 10:37 PM IST",
+  "story_count": 31,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -34,7 +34,7 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYUlILUZmd19wWW0wTHJDbTFKSEZvNlFrOW5kSHF6Z3gtb05iTjBlYVhMREIzNzBCNXMzdjg4VEV3Wklua0FpdHR5WGkxeldhVlI0Vk9jN1FWY2Npem1EVTNIYVV4VVdINGJpTWVGbFhrTHlPbng0V2ZMNzAzYURZSjlRaDNscjNCc1Y3M3pzV1JEbWRZV3NMYlFTZmNBUXA3Q2kzQkdWZS1TUQ?oc=5"
         },
         {
-          "outlet": "The Hindu",
+          "outlet": "thehindu.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXRmakRuNHBncmRYd3BHUlBNaW5kT2xlclU0YXE2MVExNjUyUHdRZXVRWlY2Q1cwYnZEX0JrdWJRSHpvcXJUNlEzd1A4YkFEUXlWMHFtRXJlTWlmdEdLS3R0NlV0OTRLVkNXRWllM2Rfa3l4WkZCWnFkSzBJcDVSLWFQQnQwdHIxcWFjUVRIUGhRM251blJzTDNPdmJFbzBKM2NJWkRRMm82Ulg2bDdUei1CeWx5MTgxTU9aWGkxLUzSAccBQVVfeXFMTUU0YjN6aVJTck9MbF96R19TUFlEOEgtYUZTUUVUR01VMVAzMlp2STZUZEN2dE1VY3AwLWlDTU5NWnFwX3VTS2F0WGtEOHM2aTRIaE9nM1NmOUFhZUtPTmdZdmdCdEEwWmZHQWJ5TlF0bzF2WnBuZDNmQ2JFVXpYbDA4ZXpUWDlUUjZyLWJSQkdyckpqSHotdHhaZXlKYTFYdUREVDNvdjdDQ2FRRldpZVhyOG9yRl9vUEJsakFDQWtfX3NiS3BzNA?oc=5"
         },
@@ -46,11 +46,43 @@
       ],
       "source_count": 4,
       "genuineness": "verified",
-      "genuineness_label": "Verified"
+      "genuineness_label": "Verified",
+      "brief": "CJI Justice Surya Kant inaugurates country’s first Victims Rights Centre in Patna. A crime-related story. Covered by 4 outlets, including Live Law and News On AIR."
+    },
+    {
+      "id": "bihar-over-17-62-lakh-anaemia-cases-detected-in-screening-dr",
+      "headline": "Bihar: Over 17.62 lakh anaemia cases detected in screening drive - The Siasat Daily",
+      "summary": "",
+      "date": "2026-09-29",
+      "topics": [
+        "crime",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakIzTjhhVXVleGVubkNock1rbG5CaERPM2ZlM2ZqcnNQc05QRDVyczFoYnFBSGlpMFVtbXNSa2IwUk0yQVhtTVRuVWdHbUFyQTVvOTJweHMyUU5OSU5MZ3R2R0tSX1M1N0VDQjB4ODQ2M1lqbmhZdHZLT094Z0UxcDZhZ0xJVUJFMzNFdEQyVVRrYXJDN3l2a0RvdXk3SWpPTDB0WkVqdEZIWEJvaW5kNXlIWndJaHNaaEhGQ3UwcUZ1RDBYY2fSAcsBQVVfeXFMUFMwQkY1R1JyZU84TV9DdmRHOVBtMVozLTBNTWJ6ZDAzVjIwRjZZckdPRnBBN3h6RnI0REotVWZFMmR6V3p0dkRnelYwZ0VZRkhKb2VycC0tYnBQMTZzaWQ4RnlYQ3VNREFvQ3BRNzJEQUM5UVpkdkpDcW5KbGxSNklRWlBQclZnX1FBczc5Sk1DRWJwOWNVQjNNeU5wXzJBZ2ZIUWkzdzJ2SUZzNENhOTc0YW42bm1MeTd3bUpDT1R6M19WSmEyUVhOWHM?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONnNEaEgtMnRlTFdWM2E1QnMwV2ozdmxqSlpUQlMxU2dFMXNTcDRqRV93X2NwZjNVT1RFVV96SHE3NHJGLXFsci1uQ3RXc1U1dkZxTmU5YUxCWXM4RzR1M2l4bWpYWTg1VXVGNkVsZVJzaWN3eERGZmJlRzlWSS1ocGo4N045ZGcwdVZUSnFicW9Qb25ZRGZqYkZydGNnZEs5Zi1Uc3k0WjZDVFA5RDMwdUgwWTgxcVpFWXd2WtIBwgFBVV95cUxOSjNSejN4WVotUWhoblljVXRFQ3piMTlIbVB0Z0pGLUdVRXZtY3FkYXZqYzRXREVvV0RjX25vTzMwakx5QzcyVzFvN0dldTF2WlpkalZBaEhTdWZhRExpS1ZoazZ5SlZMbHN3MFkyYTBsRm5jUnF1dDh2aEFndTRIcVI3MUhQTXAxa3JrTk16T01XWHUybDM5ZDV6OFJoeWsxSHd0bVdBNFRjRHJ1a2NMR1hZYUxOMExyaVBIYXpKLVNndw?oc=5"
+        },
+        {
+          "outlet": "The Siasat Daily",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVGs4YXJNeXhUU3RVZmlPby1TSjlVdUd6N0QxSVNVdnA5dEFMQnhEY0JVV0JBZHgtMEtfLWdDUFp2ZkRjMURNd1V2V0JDOWxsSWNZLXVYS0N0WlpUNTh4bHh2RGhZbGRaTlBPM3JXSV9JNTNUaUVrZ3JZRnBKZFhXaDVxQlU4b3BlRWVuYnNMcHVVMkZoTktKX1JfSdIBoAFBVV95cUxQM1l1T2JBSWR0ME5EV0xyS1daeHdQLXV3TUNKa0c3MmlZSnNvajUwcFRBMXFOX0tiT2hFajk3Nm01QzVwcTFDQ0ZXLURYWWlnUHdOTHdsTnRRcl92VmZ1eVlzRFVsVFdBMkdxem93X0tCdmhDRFJqTHB6cXN0blBIX3pIMnlsTG9yUDdleG52cGhGOTg3SmQ4NW1UTWhVN1M0?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar: Over 17.62 lakh anaemia cases detected in screening drive. A crime-related story. Covered by The Times of India and The Siasat Daily."
     },
     {
       "id": "bjp-announces-candidates-for-bihar-and-up-mlc-polls-fields-1",
-      "headline": "BJP announces candidates for Bihar and UP MLC polls, fields 10 candidates across constituencies - ANI News",
+      "headline": "BJP announces candidates for Bihar and UP MLC polls, fields 10 candidates across constituencies - aninews.in",
       "summary": "",
       "date": "2026-09-29",
       "topics": [
@@ -58,17 +90,12 @@
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTU9Nd2d5TGdYSllGd2FxTGdnTFYxbVQzR3VzRFNHTHRLNDRuVU5zVFlpeXFVdHVXajZWYWtTU2NzVGRSckRXRW5qdm4yUXVJOGxOZDFwQTRzTlJ3enNlbUtfUEVrVGlyQWdJdElQNXY5R0daaXQ4a0Rab2hlTThkUEZYNkdERUlQSUNwYTZwX2lnUEdsUUVqcnRNbkNpZjJfWjgxUVpLdWgzWGVvTG83c0lHSVRxeHlXU1pNN0N3MVdKTGJralpPWmZuNmctNmd5NlJRSjd30gHcAUFVX3lxTE5HLVBUeS1oWlNHaFdRajA3dHFVdGgxUzU4eUhkUExXdnZRQXNGUDJKZnhvZTBQUVVRYjFYbHRONzZCMGFDaFlXelpEUWU0UkNjbVNDOFBWMmtmLWFTLXFSRjFtSEVSX3JfVkYzQjZQQUR0Z0FLbXZSMXZObDVxZDc5MGtINXJxNWZPMmY1aWhYWXp5NWl4YTJhQ3A0ejE3QzNoenQtT0tCeTdTQUhKWHBiVmhmMzhaLXRHZzg1T00ta2ZYY0V2QnlRQV96M0NJREYyT2psMGVaT0dwR2w?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMzZPWHlNdXh0MXJsTGVNTkpESGd3dElDWS1RNHFwXzdrMVI0WHZJZnJpSzctRXFTYW1SSVdZXzVZejFHbnAwM0YtS1NxZmtKQTNUT0JLN0JjejJ3Y1lnWk40YjNtalEwX2ViWHk3akRqWDM5Q2lnVlNZb3ZLenVicVowM2RuWUotdDd3czJ3VkVYOUhacTN3RVF1TFhJdWZUM3h0bjA0M1puT0xLS1g4dlptVjJXVGFzTWNOMjljaWxJaDh0Q0HSAcsBQVVfeXFMT1pXUWViYlIyMk9OMWEwS1pGX2VBLWZkN3NmZmE2WDZCVjR5LTJxV0pfVzRnNjYyOTlLTlBGcXBWRGFteHItRmZSTFdsNkhGdlpwTUZOS0x4VGJEbEhvUHVBUUozU3Jod0NWeExTUS1nSXVvdU4xMG95ZEY2THFaVGNUOC1ha190U0JjZHc1WEp5UmtkRmtDNEpERFVSYlZDa0ozcGJXY082UzNNdnZqN083M3ZoSTROenRVWVo3eW43MzNGN0FvalhQRTA?oc=5"
         },
         {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOThiWjF0NDJTODViU3N2c0JUMjctd1FYTllQSV9Fak9DRnJXenl4Rmplckw0OTdlQi1ScUFLTFVLWGFuV3RybnI4MW55aXpySnBQTGwtTldhOXk0SjduLWFyOENGdzQySWZOWDI1eVZjWW50NHRpTnByd0JBUnRGYWpIa0xidVNSXzU2RnBsbmJhVk5RZ0FfOVNqU2Y5M2hIOTVhRzlVeWhNcW51bnfSAbMBQVVfeXFMTXRocEhfczRBcDl0TkVIZHJsUDJLcjkyaDd4bEhvOUFNdEEtUmMyUmVqMGFTUVp5c0dRYzZhVjdDVndZaW9ZVVVxdElRdmxVVmVlRjFRODlOWV9ud3NXZDhQdUYyWTZqQnFCems3X1FBdHI3QmE4MjlpQnN4MlN1bzYtcUNTU0FhcVZQS19jMm03cWtpdkkyVWdCRkRJVGdXd2lHQmQyczNXZlFuSzYtRXVEelE?oc=5"
-        },
-        {
-          "outlet": "economictimes.com",
+          "outlet": "The Economic Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOM1ZzcEhRUzJHSkdGSHJ4aXkwMWl5d2dLTEYtbkZTNW9jTUpkYjQ4MmRMS3otc3BjWjNZRnA4WDBXTXFqSGtwZ1R5XzVlTHFHS1pCalRocFh5Y25QcVZiSHdiR3NnMC0yYmpkc2tOdlQyZEU5elFzN3JEUzlhVHNNNExyRlJGZ0E1cGJQZWJEMk1MdGloQmxMSDZ0SnhhWkE5SVhWLVRPMC1heUtsendCVXpuSmRfQ1Q0SUlMS04zbm05Njg3SlJCdDlVSWo5M3U4ZmI5bmZUckVMb3dDb05FZmtkMEtCR0Z6SWdRUDh5cWtzOVB6TTZSbnBVeDFuUE1GNXfSAYcCQVVfeXFMUDJZX0pZWWg0bFRfT1B3UFJYb2ZEVzBJY1ZwSUExWURDajkyMU1IMXNRN1VKZ182SEoxSklwU3kyUHFsRzNLcHB1SnQxLXprZUVnbVJwOEpkVnlna3lNbGhLa3BQajd1M2xsdFJPNWRlakF1TlY2UTJGdE5TYjQ0eUtGdlhEWThUUzAtWlN3VC1LbU90N3R2QWQ3ZUpXWVd6eEsxakhMdndBNmxYbFJzOXRDTEF1eHlYT1lNWTZhX3lkbVFKb2dmTjBibEJseW5OVkdpMTEyUlZGdjVMOWx2ZHR0Z3I3ODI3ZlNiOEhIUGtjS1lqRmRpQzNSelg3RFJpM2tPcVZ6cmM?oc=5"
         },
@@ -78,14 +105,25 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2hjOFNMX1M2VGJ5dmloOU80bV9qckpiZThXcUlLSGs4Z0V4WUdMaEw5cVBWM3N6bG9RNnhnX1A0QjBuUE80REFxS3ZkeENweW1mOC02TlZneTVRcTZienZlR1VMR0U1QTJ2TmlBUVItR2FjRTRMaEl3TUFRTXhFLXVqNGNUcnFLNWRuM1RUTUdOcEgwejJmeFFaQ0NnOFl6RkE?oc=5"
         },
         {
-          "outlet": "ANI News",
+          "outlet": "thehindu.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTU9Nd2d5TGdYSllGd2FxTGdnTFYxbVQzR3VzRFNHTHRLNDRuVU5zVFlpeXFVdHVXajZWYWtTU2NzVGRSckRXRW5qdm4yUXVJOGxOZDFwQTRzTlJ3enNlbUtfUEVrVGlyQWdJdElQNXY5R0daaXQ4a0Rab2hlTThkUEZYNkdERUlQSUNwYTZwX2lnUEdsUUVqcnRNbkNpZjJfWjgxUVpLdWgzWGVvTG83c0lHSVRxeHlXU1pNN0N3MVdKTGJralpPWmZuNmctNmd5NlJRSjd30gHcAUFVX3lxTE5HLVBUeS1oWlNHaFdRajA3dHFVdGgxUzU4eUhkUExXdnZRQXNGUDJKZnhvZTBQUVVRYjFYbHRONzZCMGFDaFlXelpEUWU0UkNjbVNDOFBWMmtmLWFTLXFSRjFtSEVSX3JfVkYzQjZQQUR0Z0FLbXZSMXZObDVxZDc5MGtINXJxNWZPMmY1aWhYWXp5NWl4YTJhQ3A0ejE3QzNoenQtT0tCeTdTQUhKWHBiVmhmMzhaLXRHZzg1T00ta2ZYY0V2QnlRQV96M0NJREYyT2psMGVaT0dwR2w?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOThiWjF0NDJTODViU3N2c0JUMjctd1FYTllQSV9Fak9DRnJXenl4Rmplckw0OTdlQi1ScUFLTFVLWGFuV3RybnI4MW55aXpySnBQTGwtTldhOXk0SjduLWFyOENGdzQySWZOWDI1eVZjWW50NHRpTnByd0JBUnRGYWpIa0xidVNSXzU2RnBsbmJhVk5RZ0FfOVNqU2Y5M2hIOTVhRzlVeWhNcW51bnfSAbMBQVVfeXFMTXRocEhfczRBcDl0TkVIZHJsUDJLcjkyaDd4bEhvOUFNdEEtUmMyUmVqMGFTUVp5c0dRYzZhVjdDVndZaW9ZVVVxdElRdmxVVmVlRjFRODlOWV9ud3NXZDhQdUYyWTZqQnFCems3X1FBdHI3QmE4MjlpQnN4MlN1bzYtcUNTU0FhcVZQS19jMm03cWtpdkkyVWdCRkRJVGdXd2lHQmQyczNXZlFuSzYtRXVEelE?oc=5"
+        },
+        {
+          "outlet": "aninews.in",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOS1RVG41cm8yeFBWTU8wMGxFajJlNkxORzVXdWxKV29lSnVaMXZ6RmhYVVZmRTZZcm5YM1lDYWphLVprb3VZTnhmNFloa3FqMWpRVFdEZzJqUzQ1ekpHdkd1QXdPWXVTRU1BUllhQUxfYlBJTXFjT2d5RjNBRGtTNHo3THpTTTNYQU53WFd0MHJsMEtwTkRGeG5DTWNxckdkSHVLX09GeE1fTVVCWElUTF9sUWRZSFlXbGJjUVNKTDcwRjhLWjFqSlhua3RaOWtCOXpKczg0SzVBaE51cFNRYnFwUDRPcDFsZFItMDJxWQ?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "genuineness": "verified",
-      "genuineness_label": "Verified"
+      "genuineness_label": "Verified",
+      "brief": "BJP announces candidates for Bihar and UP MLC polls, fields 10 candidates across constituencies - aninews.in. A politics-related story. Covered by 6 outlets, including The Times of India and The Economic Times."
     },
     {
       "id": "embankment-breach-along-swollen-gandak-in-bihar-s-west-champ",
@@ -109,7 +147,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "Embankment breach along swollen Gandak in Bihar’s West Champaran poses flood risk. A civic-infrastructure story. Covered by ThePrint and National Herald."
     },
     {
       "id": "no-takers-for-218-posts-in-bihar-govt-s-science-technology-d",
@@ -133,11 +172,12 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "No takers for 218 posts in Bihar govt's Science & Technology department: BPSC. An education-related story. Covered by EdexLive and ThePrint."
     },
     {
-      "id": "gandak-river-hits-record-level-after-nepal-rains-embankments",
-      "headline": "Gandak river hits record level after Nepal rains, embankments damaged in Bihar - Pioneer Daily",
+      "id": "gandak-river-swells-to-record-high-breaches-two-embankments-",
+      "headline": "Gandak river swells to record high, breaches two embankments in Bihar's West Champaran - Pioneer Daily",
       "summary": "",
       "date": "2026-09-29",
       "topics": [
@@ -145,6 +185,11 @@
         "civic"
       ],
       "sources": [
+        {
+          "outlet": "Pioneer Daily",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1hIMzBjMVZPNjFZVnNGTURlVEVzVk5wRnZKcjZGTnh2WUhEb19sVERWQVNSeERVY2ZNWDNWV1FlbzI1SlRZS2hkbl94bEtHdEs5bkRZYVllbUlidEdCQjdNQmxVbnhOUVVJcmxFUjVaVU50ZWlNSlZtQWRIa1VfN3ZOUWxDcUlaNVFseWtjZGVyYmM?oc=5"
+        },
         {
           "outlet": "Pioneer Daily",
           "type": "news",
@@ -168,7 +213,8 @@
       ],
       "source_count": 4,
       "genuineness": "verified",
-      "genuineness_label": "Verified"
+      "genuineness_label": "Verified",
+      "brief": "Gandak river swells to record high, breaches two embankments in Bihar's West Champaran. A weather-related story. Covered by 4 outlets, including Pioneer Daily and The News Mill."
     },
     {
       "id": "mlc-elections-on-october-23-bjp-names-candidates-for-up-biha",
@@ -193,7 +239,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "MLC elections on October 23: BJP names candidates for UP, Bihar, first off the block. A politics-related story. Covered by The Statesman and The Tribune."
     },
     {
       "id": "woman-held-captive-in-hotel-room-gang-raped-in-bihar-s-begus",
@@ -205,7 +252,7 @@
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
+          "outlet": "thehindu.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVG5iTVI5bDNzV2c0X3NPQjRiMC1Sa3B4azEtSDE2TEhXMkZ6NlZ1cGV1WXdMb0U0QXhKOTIyYVJxd2FHXzJENFVObm02YmF1Z1Jxd1Zwem9wMkU1dmR0UEZyT3FNYS14b25DVU5zdGhTRHowSzZyYVBLdEtOdFpsbXYteWlNQ20yZkNIbVJiZ20yMXVBYW42eGhVM3lIcWV3cG9idC1SQ1dqLWdkNWlGd3l0cDBzU25tdGNNdWN4RdIBxgFBVV95cUxONk1peW9ON21PNDM1cERCTzFQendfdnZ2MldlT0k4N054WE5vR0J5Rk10elVzdXRDYVdoY1gwcndDTmxCbDdPVXNycmRHQUxIVy13b1gtZnRoR2t5MmRpNWJidDZYTVBsZFFHZUhUcGNuWU1HRlJ5bzk4UzJOQ21fWms0WVo0djRacTNvYi1rT1FtX3ZwWTE4YjVmVDVJZmh5Y21VMmlESmF6OXdFMmVSRUtBaW14c3pKTFdfNU01NlItckdsOXc?oc=5"
         },
@@ -222,7 +269,8 @@
       ],
       "source_count": 3,
       "genuineness": "verified",
-      "genuineness_label": "Verified"
+      "genuineness_label": "Verified",
+      "brief": "Woman held captive in hotel room, gang-raped in Bihar’s Begusarai, one arrested. A crime-related story. Covered by 3 outlets, including thehindu.com and The Statesman."
     },
     {
       "id": "bjp-mlc-navbharat-times",
@@ -246,7 +294,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "पटना से नवल किशोर यादव और कोसी से डॉ. एनके यादव, BJP ने जारी की MLC चुनाव के लिए उम्मीदवारों की लिस्ट। राजनीति से जुड़ी ख़बर। इसे Aaj Tak और Navbharat Times ने रिपोर्ट किया है।"
     },
     {
       "id": "mlc-jdu-jansatta",
@@ -270,7 +319,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "पटना स्नातक MLC चुनाव: JDU प्रत्याशी नीरज कुमार के खिलाफ उतरे अनंत सिंह, जन सुराज के अनुज कुमार को दिया समर्थन। राजनीति से जुड़ी ख़बर। इसे Jansatta और Navbharat Times ने रिपोर्ट किया है।"
     },
     {
       "id": "adm-1cr-3-48-dainik-bhaskar",
@@ -294,7 +344,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "पटना ADM-सब रजिस्ट्रार पत्नी के ठिकानों पर विजिलेंस की रेड: 1cr से अधिक कैश-3 करोड़ की प्रॉपर्टी मिली, 48 मह... इसे Aaj Tak और Dainik Bhaskar ने रिपोर्ट किया है।"
     },
     {
       "id": "dainik-bhaskar",
@@ -318,7 +369,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "युवती के अपहरण मामले में पटना से आरोपी गिरफ्तार। इसे Dainik Bhaskar और Hindustan ने रिपोर्ट किया है।"
     },
     {
       "id": "bihar-cm-samrat-choudhary-conducts-aerial-survey-of-flood-hi",
@@ -342,31 +394,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
-    },
-    {
-      "id": "bihar-deled-result-2026-bseb-releases-1st-2nd-year-scorecard",
-      "headline": "Bihar DElEd Result 2026: BSEB Releases 1st & 2nd Year Scorecards at deledresult.biharboardonline.org; Direct Link Here - Jagran Josh",
-      "summary": "",
-      "date": "2026-09-28",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTm02V1FsRlpmaWhyUjhvM1k1TXd5QlhqMm5WR0RmV0lQQ25ONzZKYnM4UkZVbmFEeHU3eGZidEhyQi1HVkV3WEN1Z1M5emI4TUx1LTNJb0pKZjZBaVYySHBWMXN1cC1kRGpNVzN1SEdvUU5ycGI3RTRNUGhGNUV2Qy1HV1FYOFJvSnJZLXVoUU5OcEIwc1pfSjNrMEZiS19uSGpueVhHUUgtNUkzR1ZtVmVBRDR3Q3pGVEJacnhrUzJLZjNiMkhITUZQNFBDWFJOZGVJTk8tOHQwOGlQclBxUFN0bXdldkVHNTNNTEluZEQxQdIB9wFBVV95cUxPNTdmRWNuRXc4bkdvYVlmS21zYVJuMlZsZ1FwUHMzOVFVR2M4MTRJWGxKSGpLRlRNc0RSeGlKd2lET25ubHlfUkl5aGx0Q3RWRTBVYkR2M0N6bnQzVmpvS2ljTnhLVTZtWEswVXFwQVZfYVM1OHV4bzBxSWFibUYySDJnTl9yUjhMWHoxbW1oSnhDbHA1UlQ0N015YmFIOVI4WklYbmtvYWVKMWxUdk1TRlh1VGI0NWExWHprTjlndWtJMFZ6THNCdVNLYlBkZVA1RkV2LVF2OVl3NjFFdk9IdG5jVzR5R1BLN3ByZVVYT3M3c1ZhbmhB?oc=5"
-        },
-        {
-          "outlet": "Jagran Josh",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQank5a1lzaU5EeXNNRXVGa2Y0T1QyVlZGS1NWM0ItX0QzNk1vOW1LdjhYU1lmUFlxVktfaEZvanJMUDg1UGJSaDJ4eldrXzJqelZMMjVmS0d0VkZFSUZtUUtSYU9FYmtneXdOZDdYZ211akNmSmRMLVpMdzZTdm4tQjM5U1BiTDF0dWcxLXoySmRyeXRBb3d2RHNEZVBKRmhzQXBYNHJkV2NvbE9vU1RUbHU0YkwyVXE3dE9CT0FRdklmYW5UV3lTQXc3S1JSR1pLTjlxa2ZKSExQMWlZa2tYREF5R3ltTTlPd1daR29R0gH0AUFVX3lxTE53MHczVHM2YjJsaTRlekQ1bzFjR1RVcXN4Y29HbDEwcVhJYkZIbTdRV2x1N2t4UEFiaEhNWlhfRm13ekFuWmVGSTNCQ05XRDB4dDRldzlDb19waEgwRmxBRmc0dmxjUVJGOUItb0lWT0hnQlJFN181LVBULVlVSDVKVS1LN0l2TDBGZnBtU3Bfa2NJZTNLMmhYSzRDNnVXNi03TlAwX05PZzd2LThvTkQ1RzVOSTN4TDZhcFFWMG44WWtHeUdOaUNTajZtZ3BPWGVPcUVYanpFOFNrdVZhbWFER210aTFjY05yNzd3MGlvMmxZOTg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar CM Samrat Choudhary conducts aerial survey of flood-hit northern districts. A civic-infrastructure story. Covered by The Times of India and The New Indian Express."
     },
     {
       "id": "who-is-tanya-mishra-all-about-bihar-born-model-actress-fans-",
@@ -390,11 +419,37 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "Who is Tanya Mishra? All about Bihar-born model-actress fans are calling the new ‘National Crush of India. Covered by The Times of India and Moneycontrol.com."
     },
     {
-      "id": "bihar-dgp-vinay-kumar-takes-vrs-appointed-chief-information-",
-      "headline": "Bihar DGP Vinay Kumar takes VRS, appointed Chief Information Commissioner - Legend Officers",
+      "id": "51-47-ndtv-in",
+      "headline": "यूपी-राजस्थान, बंगाल से बिहार जाने वाली 51 ट्रेनें रद्द, 47 डायवर्ट, पटना, आरा-सीतामढ़ी रूट पर असर, देखें लिस्ट - ndtv.in",
+      "summary": "",
+      "date": "2026-09-28",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ndtv.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWGk5b05OV2tKeHBhVlhPUkduemZ4dURXWTdwRUdoLVN4UXdsamFQVFVXZ1Bvck5EWmhJRHJVekhwVHJnY01kYkJtcER2WWhTUUxBT2ZmVVRrTjBySm1VaWFweVBYbDcwZVBCX294Vkt2Si1ocU5qenRweEJ6akJrdzNHdHFJMHRxVEdjZDdlSHZNNTFEbXREUEs0UkNESlA3czRPZm4tdjl4dlFOdnZsanZzMUlzaFhEQ0h2MUdiNmExM3VwZERvenFDVzFGR2szYWtZbklaWlB5RzBrd2hadjFwRnJVNnBkeEZOdFR1elhKWTdIQkVZ?oc=5"
+        },
+        {
+          "outlet": "Aaj Tak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1FybGU1T1FTMHNzR3B6OUhRT2hucW1NOGstWTZISkdXY3psQ3FsUWNiNzB4NHhJRkFaeFpIbXhFbTQ5MkQ1eUdtcFhfbWl5czhZN19oSFIwUGxFZi1La2lDUXhvTUFVM3gxRjlXSkk3RkQ1Y0dkSW5QNlBINGc0UVNwWU5OVkhJSE84WjJlMnlTb3BfbEFsMXktNVFSd2tOdzFlOGdCS1BKY0FmYmNXdzZqMlNqSFFOLW50S1RmZnBUdnk1RzFLamlNeUIxQVRIUGFGajlBX0FlaVJNNXhNYkE1azlkUdIB6wFBVV95cUxNT1JqV0ctc0ozRUo0aVNZblpyYlZXRDZxbU9ha2VpQ2MtMVlMUldjS2JvbHdNVkZ5cmlIMUdjdHBpTUk5NVVMc1U4bWYxQXRQeldUY0NBMGlqeGZPaUEyOFJ3TVR2bmRMWTlINDVaRkd6c2hZNFRKYmNSVmdhM1F1SHZrbnJEaTZ2cXppWWRLTEhOb2ZtMnJnRUFUSFJtTExnLXdsMTktXy1PRXp5OEp0clpPV2RrNGFKQ0xuUkJ3RmowSXkyRUp6bS1nZTIzMjRjQ0JDLThRdVBEbjk5SnBHSFoxcjg2WVpUX0Nv?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "यूपी-राजस्थान, बंगाल से बिहार जाने वाली 51 ट्रेनें रद्द, 47 डायवर्ट, पटना, आरा-सीतामढ़ी रूट पर असर, देखें लिस्ट - ndtv.in। इसे ndtv.in और Aaj Tak ने रिपोर्ट किया है।"
+    },
+    {
+      "id": "bihar-dgp-vinay-kumar-takes-voluntary-retirement-appointed-a",
+      "headline": "Bihar DGP Vinay Kumar takes voluntary retirement, appointed as Chief Information Commissioner - The New Indian Express",
       "summary": "",
       "date": "2026-09-27",
       "topics": [
@@ -402,9 +457,9 @@
       ],
       "sources": [
         {
-          "outlet": "whispersinthecorridors.in",
+          "outlet": "The New Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGp6QjRWRXhfSV9NU0ZmNEdzLXlsUTgwVF9FM3k5UmVNNTZ5bXo1OEtLMHNpbHRuMWw0X0JUNFhqZlpuRmVoa1YwSjNTaDBsUVRHSVJuUU4xREFkRnp1RXBPVEFuQ3gzaS1oRjdtZGNRd3E4S1BuQmRaNW1qZzhNWWZWb2E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNemhXNTNNUzNoOEFrbk0wSzZfdGpmMjFEQ0NtTnhjQkIyWUpVanVEaEg3LWRLTjdRbXpuaWNGcVE2SWs0cFpIQ2Vlal9uSVVxaGE5blgwbHdLaVVwR0lNQThwVVphS2VvbFZhbFJiQVlabnlvZ0ZGZzJhUWZMVThYUm9OVUU4ZXAzcnAybjA5aldzTDhlaENkVkRHV1JQaXNpc29nZFpRNHdncUZURFY1X1pRVmtLcGF6MEY2NTFkTGpJbG9ZM0pROUVHV0dkR1VnU2lnWkJ3a1cxVmlIMW0zQklsMXnSAfIBQVVfeXFMTktjNE1RNmRtd1VOT2N0RzBHZnMteEd4ZXQ4MUg5RXBQczU1aXFwWVFIUUUtemo4YU5adUVxZlZlc0YxUGpfZF80TkN4OW5TVmNCQWdvd3Y3NnFnMzRqTHJQYVVNNGFHMWJQdWxhRVpQX2J4QXhoNl96ZEFNbjZqUUlWN3BrWWZFbG9KOEVvZTlGWXRobVFnTEQwd3M2dENhVE1NMnJCYmtBbmZUd0FQbGdqeFQwTTF3dnVsLThVZWI5NnhZLUlSNzhPNVZhbjBrVHZERERSc2NfRmZ2VkVGWmF1SEVsRERjU2ZMcENzMVJaTFE?oc=5"
         },
         {
           "outlet": "NDTV",
@@ -415,15 +470,21 @@
           "outlet": "Legend Officers",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkxCLW5yMVdQMkQyNENlUXVEclZycWtoY2NDbWREQjhVSV9TckxycFlCUHpjMWNRTXM0dm5WZGRRUVpoRzZCaHJqSUl2d1dRN0NlYzlic1ROaXVlQkYwY2ctSzVqLUJvQmxjSUtvS0UxSTY2SGp0V1F4NHlHOVRUakZLbFN6Q3huV09yOWs3VVhSYXc1R3hwZE1lUm9yT2NNU1E?oc=5"
+        },
+        {
+          "outlet": "Whispers in the Corridors",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGp6QjRWRXhfSV9NU0ZmNEdzLXlsUTgwVF9FM3k5UmVNNTZ5bXo1OEtLMHNpbHRuMWw0X0JUNFhqZlpuRmVoa1YwSjNTaDBsUVRHSVJuUU4xREFkRnp1RXBPVEFuQ3gzaS1oRjdtZGNRd3E4S1BuQmRaNW1qZzhNWWZWb2E?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
-      "genuineness_label": "Verified"
+      "genuineness_label": "Verified",
+      "brief": "Bihar DGP Vinay Kumar takes voluntary retirement, appointed as Chief Information Commissioner. Covered by 4 outlets, including The New Indian Express and NDTV."
     },
     {
       "id": "opposition-s-allegations-regarding-sir-are-baseless-and-fact",
-      "headline": "\"Opposition's allegations regarding SIR are baseless and factless\": Bihar CM Samrat Choudhary - ANI News",
+      "headline": "\"Opposition's allegations regarding SIR are baseless and factless\": Bihar CM Samrat Choudhary - aninews.in",
       "summary": "",
       "date": "2026-09-27",
       "topics": [
@@ -431,19 +492,20 @@
       ],
       "sources": [
         {
-          "outlet": "ANI News",
+          "outlet": "aninews.in",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObngzY09oem1EZlpFWm5URXBfMWE3MDd1cVV3aUkwLTJPamxpd0h6UnZfa3pSVlBpSlNoUnY3MEJ6ZFp3a2t6Z3I4akF3cm1wV2tYSG5STTZGeFFfNUU5cXhTdGdIRnJRaGRfS0M4VmZJTnktdDZYMm9SajdKdk5KLTYzYVhDeHlnTUxCWlVueHZ6WTF6ZVJfUXozLTdoUnpoa2FFQTVZaDU2WE5xRFotTmt0MXNreG1peHVjdW8xYWp6ZVU4aHJ0WV9haFZaS0NEd0VVcFF2UzFvQk5tZzFWOVowSmZ4MWtW?oc=5"
         },
         {
-          "outlet": "The Hindu",
+          "outlet": "thehindu.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUVxUkEtMXZlWW5QclBYSXVSMVNCdDdVR2FuLWVmOGQtQWRHZFdrMkdUdHg3WEozZ2ZvR0duRTZrQ1Nqc3FJNzQ2ZE85ai1MM1ZlSExfblY2VFEwZ2h4NTNUNDB0b0hyaTVNMzBVVWdyU1VrN3dteDQ3UGt0WEFnc1pGWHZVTEk3UEhWRnhwSmtycEppbGxyZGFkZGp2b1p2QjN0aXBIOHBUVlUwZ3pNNEkwcjBlUdIBvAFBVV95cUxQc0wyMDRhOE9SaGpENkZkbXFyZjZ0QWUyVFpSNzlROFdUTkhzS0tqN1BYOFI1bVlta2dheGhQX1AzZnl6Zi1JUmgxSnI0cHVPZGV0SmZQZWM3UnRoaFpIV0llNTFrYTZ0WUlqTm1kZFNlVER3MF9fSHduWFVuZDZqWEdTSnJ0b0RTcHUzb1VFU1BRaXRqd0FVWnpkMmpsSXBTNlVVUnI2aDVpZWpaY3VXSjE2QnVGSzFIUUUwYQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "\"Opposition's allegations regarding SIR are baseless and factless\": Bihar CM Samrat Choudhary - aninews.in. Covered by aninews.in and thehindu.com."
     },
     {
       "id": "sonu-sood-speaks-on-bihar-floods-in-patna-calls-for-permanen",
@@ -467,7 +529,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "Sonu Sood speaks on Bihar floods in Patna, calls for permanent solution. A civic-infrastructure story. Covered by Facebook (ANI) and YouTube."
     },
     {
       "id": "bihar-education-department-assistant-branch-officer-suspende",
@@ -486,7 +549,8 @@
       ],
       "source_count": 1,
       "genuineness": "single",
-      "genuineness_label": "Single source"
+      "genuineness_label": "Single source",
+      "brief": "Bihar Education Department assistant branch officer suspended in Patna. A civic-infrastructure story. So far carried by Facebook (News18 Bihar/Jharkhand)."
     },
     {
       "id": "imd-warns-of-heavy-rain-storms-across-bihar-including-patna",
@@ -515,7 +579,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "IMD warns of heavy rain, storms across Bihar including Patna. A weather-related story. Covered by 3 outlets, including Top Indian News and Facebook (Dainik Jagran)."
     },
     {
       "id": "bihar-ugmac-2026-round-2-rank-cards-released-choice-locking-",
@@ -539,7 +604,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar UGMAC 2026 Round 2 rank cards released; choice locking open. An education-related story. Covered by CollegeDekho and Jagran Josh."
     },
     {
       "id": "minor-student-alleges-sexual-assault-in-patna-s-shastrinagar",
@@ -558,7 +624,8 @@
       ],
       "source_count": 1,
       "genuineness": "single",
-      "genuineness_label": "Single source"
+      "genuineness_label": "Single source",
+      "brief": "Minor student alleges sexual assault in Patna's Shastrinagar; FIR filed. A crime-related story. So far carried by Patna Press."
     },
     {
       "id": "the-vvaan-film-team-meets-bihar-cm-chhath-traditions-praised",
@@ -577,7 +644,8 @@
       ],
       "source_count": 1,
       "genuineness": "single",
-      "genuineness_label": "Single source"
+      "genuineness_label": "Single source",
+      "brief": "'The Vvaan' film team meets Bihar CM; Chhath traditions praised. So far carried by Bollywood Hungama."
     },
     {
       "id": "rail-mega-block-sep-21-oct-4-to-hit-bihar-train-services",
@@ -596,7 +664,8 @@
       ],
       "source_count": 1,
       "genuineness": "single",
-      "genuineness_label": "Single source"
+      "genuineness_label": "Single source",
+      "brief": "Rail mega block Sep 21–Oct 4 to hit Bihar train services. A civic-infrastructure story. So far carried by Facebook (News18 Bihar/Jharkhand)."
     },
     {
       "id": "patna-police-bust-international-cyber-fraud-network-arrest-f",
@@ -630,7 +699,8 @@
       ],
       "source_count": 3,
       "genuineness": "verified",
-      "genuineness_label": "Verified"
+      "genuineness_label": "Verified",
+      "brief": "Patna Police bust international cyber fraud network, arrest four. A crime-related story. Covered by 3 outlets, including Patna Press and The420.in."
     },
     {
       "id": "over-35-munger-engineering-college-students-fall-ill-food-po",
@@ -665,7 +735,8 @@
       ],
       "source_count": 4,
       "genuineness": "verified",
-      "genuineness_label": "Verified"
+      "genuineness_label": "Verified",
+      "brief": "Over 35 Munger Engineering College students fall ill; food poisoning suspected. A health-related story. Covered by 4 outlets, including hi INDIA (IANS) and BizzBuzz."
     },
     {
       "id": "patna-airport-steps-up-bird-strike-prevention-drive",
@@ -689,7 +760,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "Patna airport steps up bird-strike prevention drive. A civic-infrastructure story. Covered by Facebook (News18 Bihar/Jharkhand) and Patna Press."
     },
     {
       "id": "patna-civil-court-evacuated-after-email-bomb-threat-nothing-",
@@ -713,7 +785,8 @@
       ],
       "source_count": 2,
       "genuineness": "corroborated",
-      "genuineness_label": "Corroborated"
+      "genuineness_label": "Corroborated",
+      "brief": "Patna Civil Court evacuated after email bomb threat; nothing found. A crime-related story. Covered by Facebook (NBT Bihar) and Patna Press."
     },
     {
       "id": "liquor-smuggling-via-ganga-river-route-busted-near-patna",
@@ -732,7 +805,8 @@
       ],
       "source_count": 1,
       "genuineness": "single",
-      "genuineness_label": "Single source"
+      "genuineness_label": "Single source",
+      "brief": "Liquor smuggling via Ganga river route busted near Patna. A crime-related story. So far carried by Facebook (News18 Bihar/Jharkhand)."
     },
     {
       "id": "minor-girl-allegedly-pushed-from-moving-patna-ara-train-stab",
@@ -751,7 +825,8 @@
       ],
       "source_count": 1,
       "genuineness": "single",
-      "genuineness_label": "Single source"
+      "genuineness_label": "Single source",
+      "brief": "Minor girl allegedly pushed from moving Patna-Ara train; stable. A crime-related story. So far carried by Patna Press."
     },
     {
       "id": "bpsc-daroga-aspirants-march-in-patna-over-alleged-paper-leak",
@@ -796,7 +871,8 @@
       ],
       "source_count": 1,
       "genuineness": "single",
-      "genuineness_label": "Single source"
+      "genuineness_label": "Single source",
+      "brief": "BPSC, Daroga aspirants march in Patna over alleged paper leaks; clash with police. A politics-related story. Covered by 6 outlets, including Instagram (PTI photos) and Facebook (Jagran Josh)."
     }
   ]
 }
