@@ -1,38 +1,34 @@
 {
-  "generated_at": "2026-09-30 07:35 UTC",
-  "generated_at_ist": "30 Sep 2026, 01:05 PM IST",
-  "story_count": 33,
+  "generated_at": "2026-09-30 08:35 UTC",
+  "generated_at_ist": "30 Sep 2026, 02:05 PM IST",
+  "story_count": 35,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "another-bihar-shocker-after-jamui-samastipur-minors-abused-a",
-      "headline": "Another Bihar shocker: After Jamui, Samastipur, minors abused, assaulted near Gaya hill - timesofindia.indiatimes.com",
+      "id": "sc-grants-8-more-weeks-to-bihar-govt-to-remove-unauthorised-",
+      "headline": "SC grants 8 more weeks to Bihar govt to remove unauthorised construction in Ganga floodplain in Patna - The New Indian Express",
       "summary": "",
       "date": "2026-09-30",
       "topics": [
-        "crime"
+        "civic",
+        "health"
       ],
       "sources": [
         {
-          "outlet": "timesofindia.indiatimes.com",
+          "outlet": "The New Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRjhUakZXS1BVUFZ1YW01NWVQdGgtUjlpbC1CWjBGLWc5OUt3eTV2ekY5enNIUnhyNkZfU0Y5bTVBNDhQRDhabWp0d2dET1JkUlViSWpDMlM1THdrR0oxNlBzVUxuOXBMOVlpalJpQjVIWG9JZU42NU9heWhoN1pvY3BDbHJ6dkJ1LWFLTzlrWDFkYXN6azRma0NSeWZqZzJ2aHVDblBTWktfR1E3NEg4XzRSRDhnNXREYUZQZWFxRWdtTHRGYmo0a2EyanBrSGtnOEVtWG5UUG5zX29yNE5STHh4eU1SS2ZNc1g3WNIB8gFBVV95cUxNNHZWY0VMUXZGMzZSOVVUYVp0X25Ydkc3RGl1b1BfMG1Cb01YUG00RlVPQjdpS2dwUzVKSjJsNklVYzN0eUtPY19oTFdjNGtVdzZpWkZsaF92LWpWTXJVQUJ0a0ZHLXZMVVJNemd5NnZxWDNUc0xKRmtucHJzODNQVWZyQ0JDWW1aT0xmcWxVVE9hUTZhdlNTUm96M0RaUGtPWENmQUpsc1UydFFnekZVekZYTTFSOVVpS0EtTUduODg1LXI3UTJ6a2ZidEtDeFdRWmJHNlVKNFZnQU8tUEVpT2M3WS1lYVFKaEZPVXFzb0p3dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0x1Yk1vcklWWjVGQzdNYm5SSkJuQWdjSlVKOXRWS19EZkFjemlxejVNSTZ6XzdqY00tSTNtZDFMdzE2c3JiTzVtRVBVR1l5U2hXMWhGcmVuUDBXT0hxdkxZZFhRVzNxdU1Pdm16cWNaOGU2STlFbE9PZE4xNTJhOXlVMGNfZ3BsU19vTlpzTDBjVF9ma2pFb0RRMlJZeFNObHVxTmlMMVB6TWZnZjdENHRLVUJCV2tjd1pGZlNILWk4MGFHd1F1UnYxenFsUFFXWHg1NWNjRzhJaUtpOW1aWEM2TVNyS03SAfQBQVVfeXFMTjJHdzhWUVVhQ0xxSTNlVlNoVTZDR3RUMlNmaFRnd19IVmo0bkVjdjVRQVR3RVI5UDY3RUtjeVBMR0hXVmo1cTNLcGRzSE5oTFBySlBkVHJmdWVndURGWkZSVVZhZmt5TFhCYVB3aXUwS0wyZTFKY0FaT3hXZExlQzRxT0FnWFdFcXZzUy1MZDBlVGs4SGtTazVNeUZqVGUxVndhVUJxNUVwcm9fTWM2TFMtaFRTY3RuQmk4dWNPczNSQUo3OHBmbUw0S1dwWWlGYzB0Q2NJcUJfSnRQQ1JIZmlwZ0JLazkxQWN4cm5yT0o0VDN5Yw?oc=5"
         },
         {
-          "outlet": "timesofindia.indiatimes.com",
+          "outlet": "outlookindia.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjNRRFVYUHRwMEdYanlxV2FJMHhVbEhTcVZfckhySXdLX3EzVUVqT1E4UWlYVUQySVJSR3ktMlFWa2tMOFpEV0l6TnJXenhZc3BNcVJ4cG0tSGNuODlHd0pvT3dwZ1ZXZ1NJeDRFbVltTlQ4b0VCRjFSbUxtaUhuOVd3SjlpQWRTLUxYWkk3V0Y0S3QwMDBkSnFlWkdLbkxPU19OM25BMnVydWhUcnJvREVGbW1iaXJnTnR6QVdJcFA4X3ktYjA0dldwNmc0ZnhzWDJEX0tSMGNnczNTVFJzWUZtYlZVQXE0MUFmY2ZR0gHzAUFVX3lxTE42cnNseUo1Z1Z2bUlsY05DNEc5cHRXLVZVVEhtSHRJOHhfZnpmbTkzWHJIZTZUTWRzSnVySXJaQWc3OWcxZWtsOUowc2cwbTRnQmFyV3NTQXkyREtTanpFN2U0cUJYT25rcGFUa0g3UUxiR3B4c1k3bzVIM2ltOU5ERDBCX3VwS3BZbGRueU1UWTVfN2pXNkhiQlNUVk5DRHZLVXdNNkFLUUpiSVlyYVdnQkx3a1BtVnBKNzU3NmV0ZnZpWEVLdXVTNkJxa2g3aFV6Rkh2QWdWS0dUNHJlMHRodzktdm8zQ2hRbmVKYzNlM1A2Yw?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVXMtWl9yUHdRZXRpTWtlNUlPTF9BaXN4M1BCNnlYUG9FZjlkam5FVWlMX3RDTzk5YmJLQm9NbnJQOUpLXzliQUJKWnhOWUFsaGZCZTFfOTFibksxb2JNWFBfbEF6d3hWWDZQcHRuN1JGVV9pRUFWQzFmSy1saHIydkd0TjBZWWt6a2dnZDVQakI0MUZhY0VlVm9CWnFaNjExeTI0Qk0zOFlFTzR4MW9FTmVvbl9hWThicDVFc09XX0lGWXdyd3dTZnA1S2g5TnlpQXfSAdcBQVVfeXFMTnRWVUZWUVJISDA4empwLWZNOWdXRV90elY4RWVoOVhLc1BORTJBUmJpdHZXX3hDUmZfQXZjUHVhT0daUjVRT2FyQnRmSjYxVDFnT3pUMkpXaUdsVFhRdWtGaVdBanJ2OV9LdFllVENzaEMzdnBuSGcxMk0xVlktajhNNnBWa0pqaHU1SFFJdGlFdDVhQUR3dXhTbHhoVnpzdWVjR0ZRU2Y4dTNEOVRodzdJV3lIV1ZBZzhjVnowR0FwTC1UTFJmZ2oxODcyX3RobUl1LWVvOTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWTZuMklRRW5jVlFHSjVqWThvYnBGZHJmS0RtdnRkYnVUZ21sWVk4dmNodTFsaHppdVpnZVhzSXF0SDNJazVPY2pIZDUyb1VHWU80NHBlN3VHdkRVU1VOSktpOERWbGtzNzZnaHltVjlBMERCb1k5aUxkdkFlcWhZNTF5STN1d3AyMXBNcjIxRERfN2d1U3Z6b0JTMlY3UmZFTm1zbzZwNDNyX2FkYnNkYWlyLXVYTUxnNmExZ3dR0gHLAUFVX3lxTE9oR2ZDbVU5TVpsa09mdlpoYU9Gb1NoZzZ1T014VUtlamRjSGcwWWtxODFhajNkaTR2WjFJM1J5cFBKem41b29iMktFT0RGeDNSV0dkYXRfa0JaXzZIVjBRaGJGRjU3dXBkR0k0YUdoU0wzVHQtd3llc0o1TEVkeWhYc0pEaHNZNHRjQWdnb0JoWFJYSFQ2a0xfOC1rLS1vLTlldXozUDd3ZjJXSDg1SHdYRzVLMEVUNlZWRWdHRTM1eVlqUDdONmZ5VVlZ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Another Bihar shocker: After Jamui, Samastipur, minors abused, assaulted near Gaya hill - timesofindia.indiatimes.com. A crime-related story. Covered by timesofindia.indiatimes.com and Moneycontrol.com."
+      "brief": "SC grants 8 more weeks to Bihar govt to remove unauthorised construction in Ganga floodplain in Patna. A civic-infrastructure story. Covered by The New Indian Express and outlookindia.com."
     },
     {
       "id": "bihar-bureaucrat-couple-s-premises-searched-vigilance-uncove",
@@ -60,8 +56,38 @@
       "brief": "Bihar bureaucrat couple’s premises searched, Vigilance uncovers Rs 80 lakh, 48 watches. An economy-related story. Covered by Telangana Today and The Indian Express."
     },
     {
+      "id": "seven-year-old-girl-dies-3-students-injured-as-school-stairc",
+      "headline": "Seven-year-old girl dies, 3 students injured as school staircase collapses in Bihar's Khagaria district - The New Indian Express",
+      "summary": "",
+      "date": "2026-09-30",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb2NBbDBMQVBFcGRwOHg0cmpkd1pRVmJzc3BqWW9KNHZvdUlXbHJvbGo1dy1HbFJaVURaY0hMMkx1ZW1hUDByT09lMU1WZ0NPQ1N5VmU1QUpocFBUdlVDbGpNYUdhOU9TaUhjeFB3NWJoYmVLdFByblRfbGpFR0RySGRkWXVTRFJhdGxNYWVLekY3c2E1MU9mN2tJeUdDQTRIZk5iN253VmFSbVNhSGFBYm15RW9WWjhkWFZFMUprR1BHZ1pzSFhIV1RIX0Ntak9aV20yMWxTZDB6ckVnMXRsd3hyanJYcTVl0gHuAUFVX3lxTFAxbl9tVFBNQnItdUZqNi1LdnBMLXFZbFdwZlRoSTBiYWdwblFvMjlSNEdZRjlyLTg4R1otVUIyak1YLWdwQjdNdFZreGQ1S0NzZkN3Q3Y1ZkVqSHZrVGNseW5PODMtTnZiblFQQVZtd0lyWWhtRVYxeTFISXFIQmZsaVdYMkN6Und1ay1XQ24zTGd0UHVqZ193UkNqVmFibHV3ZFZpWXd3anFMcUhETVRtejRPUEotT1AtdmZhSXNzSnRDWXhSZ1V0aHBUMkh6ako3WkxiR3VWR05FWHJRTURmaEZ2Tk1zVVlVWVV6clE?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbk9Fc0VheVMxVmljLXhQcjZ1TGwtc29xZ2JUX1hMdFVqbEpnWk9ONXFVMnRJLTFhRUQyWjZFUHNrQURWb0pJaDI2Sm5jM3FiR1lQWHhnRk1yTklRYUVwMjFSTzBCT01UMzlXN2RHNV9qbWxhQ2ZDa1lER2JlX1gzcDc2aURPNlpfOHZrSmIwMWFRU29NWk1xZm9TUTR0dkU2bVI1SUVtLWhfMXpMekFCUEhnVzNlb3FPMi1NUzJHemJoYkV2MmVMUWdwTno2NDdkUHlBZV930gHbAUFVX3lxTE5jMlFGa1U5cVBPeTkyallPdm1EakJYQkZmSWxTZEFwWW9GYWVSYUsxOExZbjZEZ0tkZlVuTFVEaElzSDN4dEJrMlZvaW9vZ3o0RE9ucy1SM0NBLWhRSzhfalVsekdScWhUVTJPMnF3ZG5KU1doWFBKMTJfNEZVYnpoaGVkeDZWLVFxRmxmbi1qOWlBTGxYZlhpZzBGY2lxUUo3ZEtpQVNLY0ZUdjR6UEZTQ2VRSkJrMmpLRG1iMW9PLVhuODNqRm1wdHRxNV9DUU9PZ296N3lLNEgwUQ?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV1Z4QWxNcnkzSmdvRkVBeVY3V0xGYmRqNzdZVS13eVd4aTE4QjJBbkpWc1lhM2JIRGlRek5vcVp4SVVITlJFS3FiYVFYX1JncGh1akFRV1lkTXNoTmE3TzlYTUZ3T2NUSnE5Tm1SM0pIY3I5MlpTTnhlRmhEaEZMU05ENjdqckJqQWx0djZFVHozTDhpZDJvWjVlbzVlZTlOVmxIanlmQTYxQzRqMlV0V1U4am1pbnRlTWUtdHN0bkY1YWhNU0dKWHJGSWwwTzRsWkJtNUNkOFNpTWFtbWlNc0dQbUJYWjR0NEJoY3RPWmPSAf4BQVVfeXFMUDMzWWEyMUJBaUpsMFd1NEZKLXUxc2x1RzdUMkdqRXhkVGk1RmZaYWRHc1VHdklxQVpPeGVuNWVZWTZpdldJQzRpbDl0NkxxZVdXYzlZVkhEQ1ZMbHF3R0NuUFhzNk5zb1FZVVA5VlRtNkhOVGhYd0RHeHdvdXlrNzJFNlNMVnhPUk0wbWpiWDh5S2xyQVk0bW9uenRodXhOaVphYm01Q1FxRWNDeThpT1ZSWWVVemNtb0dNMVptRVNTV1ZpejF4Nk1Hem1FMi1fMXZYZHlXRGpMOTFuSnBiUEI3b21IYXMxbC1VMnNMXzdNS2FvQkVFdE9xS0RpMGc?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Seven-year-old girl dies, 3 students injured as school staircase collapses in Bihar's Khagaria district. An education-related story. Covered by 3 outlets, including The Times of India and India Today."
+    },
+    {
       "id": "bihar-main-accused-in-begusarai-hotel-rape-assault-case-arre",
-      "headline": "Bihar: Main accused in Begusarai hotel rape-assault case arrested after allegedly trying to flee - aninews.in",
+      "headline": "Bihar: Main accused in Begusarai hotel rape-assault case arrested after allegedly trying to flee - ANI News",
       "summary": "",
       "date": "2026-09-30",
       "topics": [
@@ -69,14 +95,19 @@
       ],
       "sources": [
         {
-          "outlet": "timesofindia.indiatimes.com",
+          "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdjJrYWRLMDdKb042c0tHQ2dFTjVtdVJKNkphX19GcFVlcTNKa2NTYmxXN19IZjROMFZ0WDVkc1VIUV9uNnM5OEQtRmNTNnEycG1scnFsclFITlJqLVMybDlRUXpEcWw2MFBCaUdTYVhKLWxQN1cyY1o4TUxoRkFhTm50NzhkR3VvNVl2VVJOc0M2U0tOS25qMXBQU3QxZVljRzFmcEJjNDN6SGFETW1POUtKdnlWWWR6OGtmcGNHSmtwRG_SAcgBQVVfeXFMTlNZUS1oT1Z0M1R3b1Q5TTFEc2lwYVBLdmRocmViVXR3aUUwQ2RpNDduTC00N1RPYlY2V1BnZG1BbUVjdnBFM2NZMnlZWnlJVTRBbWJhUFg2c01uSlY5eXhHTEdOYVQ4Zml3LUcxLU14SW5zM0V0YXU1Ui1RQXZtbVF1T3VxNHVYUncydDBYRmZyRWRNX0RmZkt3REQ4Y21hOWJqY0hQM0VReUxxdTFmVXFfTmhGdzBoYm05NmNGbVZ2Ny1PcVNaZnE?oc=5"
         },
         {
-          "outlet": "aninews.in",
+          "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb1J4MlVRM2hPN2JiZUJQbno4T2t3am9TanlwYVVzaTQtdmdUVGgzVG9qdmZ4YzRWSFFUakhxWDdtSGRtRXY3N3BuYjI3dk96cmZ2ZFZjVWN4WkVmYlo2czFSQ29acGIxOHJSYW9YcHc1ekpwd2l0cWtKcVhxUEd1TG5Fd2MtSFlKczd3dVk1N2dXZ0RCdVlkRF9DeWctMGM3d2drb0ZvZzZ6bm4tNjkwVEZSVGxRRU1zOW42UUxnRVk2YkFyUE5GUFZpNHk2VVJJcW9JSGFwaVN3QTc3UWczQzBvd0JIa1hCM0ZzaVNEZkI?oc=5"
+        },
+        {
+          "outlet": "Cobrapost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUXZLS3NsOV9tOTFjbmtteEVRVGUxNXVCbnZFYnB6VmFscF9lRG9Yb0N5YUgxQ1BrczJsSWF0MnZMYm54QTJ6TmNKUU85bzlTQS1UTVF4VzVONGNWMnhBMHZkOEJac011TjRWMmNzRFI4N2tJLUQzNGdjS2JQU0pMaWFyRFNPelp2dENKUUNteWtGZlNNOWsxMXFYQzV5TTJOZ3c?oc=5"
         },
         {
           "outlet": "The News Mill",
@@ -86,13 +117,18 @@
         {
           "outlet": "NDTV",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1dnWk9sa0ZncXlJWVlTQTFHcG9kaDFaSFpXZVNiX3I3S3ZuV2xTcnpZYUFqMVNGMWJteF8zWGFhYnlkMnVwRERYQzBIalhlR2MyQUsya25iX1dsNTAzUVM3OExlVzZVMHFrRGl3RzhmNklmTUtJV2tqRkVjalQ3Y3JVLV90RkdCbk5TUjBvOTFlTC0zWnRjSS1NOVdRR3NiM1QtSkppWWVBQ2xqaDV0RlBzYWdMdjBWMHBJcVROYzVITHhuTzVHZtIB0AFBVV95cUxPellUdVp5TzBKbS00U0hVcF8zTWtPeThBQnJzNXNnUGhjSlhVRk5vNl9UOEJGanYxaWp4MERZZVFhVEZmd2dpeEhnekFSR2ZQaTBmbHpSZWxRTWJKVkFPREw4WDh1QnQ4MGJQeWg5a21BVGo4OEFCakhfSG04N0lJazMzTWhwZS1idFBNbTZYMWRDNWFEeU9oVnhpLXBVMl9fOENxWEsyVnBJcVNCbVQtUVNvVTJqbzhPb29NNGk4dVBtNVl5NG9tdjZmNFRFWEN3?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTRHMXFScXBNVFl1ZldhaFNZU05BM3paYXhYNExoeUd5cEVQOEpJcThfaThIbkNPanYwdGJhZXRvQkN0UFpPbWVheWxwWEtDMk1OakM4NGxrczBnZVJ2VnF1MnY1UGdwZGVxZXo0dm82SXRmQ0xpZHNsd2NlQkdORTVXNnFqd2U4LUp5dU4zWnoydFdYcmpRMmtVTWUxWFo5ZWpjWWowSDJwNlJEM3B6TFM4Q1ZEQQ?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar: Main accused in Begusarai hotel rape-assault case arrested after allegedly trying to flee - aninews.in. A crime-related story. Covered by 4 outlets, including timesofindia.indiatimes.com and aninews.in."
+      "brief": "Bihar: Main accused in Begusarai hotel rape-assault case arrested after allegedly trying to flee. A crime-related story. Covered by 5 outlets, including The Times of India and ANI News."
     },
     {
       "id": "rs-1-crore-cash-luxury-watches-and-jewellery-bihar-bureaucra",
@@ -125,8 +161,8 @@
       "brief": "Rs 1 crore cash, luxury watches and jewellery: Bihar bureaucrat couple faces Vigilance raid. An economy-related story. Covered by 3 outlets, including NDTV and Moneycontrol.com."
     },
     {
-      "id": "woman-raped-at-bihar-hotel-accused-arrested-while-trying-to-",
-      "headline": "Woman Raped At Bihar Hotel, Accused Arrested While Trying To Flee To Nepal - Cobrapost",
+      "id": "another-bihar-shocker-after-jamui-banka-minors-abused-assaul",
+      "headline": "Another Bihar shocker: After Jamui, Banka, minors abused, assaulted on camera near Gaya hill - The Times of India",
       "summary": "",
       "date": "2026-09-30",
       "topics": [
@@ -134,24 +170,24 @@
       ],
       "sources": [
         {
-          "outlet": "NDTV",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1dnWk9sa0ZncXlJWVlTQTFHcG9kaDFaSFpXZVNiX3I3S3ZuV2xTcnpZYUFqMVNGMWJteF8zWGFhYnlkMnVwRERYQzBIalhlR2MyQUsya25iX1dsNTAzUVM3OExlVzZVMHFrRGl3RzhmNklmTUtJV2tqRkVjalQ3Y3JVLV90RkdCbk5TUjBvOTFlTC0zWnRjSS1NOVdRR3NiM1QtSkppWWVBQ2xqaDV0RlBzYWdMdjBWMHBJcVROYzVITHhuTzVHZtIB0AFBVV95cUxPellUdVp5TzBKbS00U0hVcF8zTWtPeThBQnJzNXNnUGhjSlhVRk5vNl9UOEJGanYxaWp4MERZZVFhVEZmd2dpeEhnekFSR2ZQaTBmbHpSZWxRTWJKVkFPREw4WDh1QnQ4MGJQeWg5a21BVGo4OEFCakhfSG04N0lJazMzTWhwZS1idFBNbTZYMWRDNWFEeU9oVnhpLXBVMl9fOENxWEsyVnBJcVNCbVQtUVNvVTJqbzhPb29NNGk4dVBtNVl5NG9tdjZmNFRFWEN3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRjhUakZXS1BVUFZ1YW01NWVQdGgtUjlpbC1CWjBGLWc5OUt3eTV2ekY5enNIUnhyNkZfU0Y5bTVBNDhQRDhabWp0d2dET1JkUlViSWpDMlM1THdrR0oxNlBzVUxuOXBMOVlpalJpQjVIWG9JZU42NU9heWhoN1pvY3BDbHJ6dkJ1LWFLTzlrWDFkYXN6azRma0NSeWZqZzJ2aHVDblBTWktfR1E3NEg4XzRSRDhnNXREYUZQZWFxRWdtTHRGYmo0a2EyanBrSGtnOEVtWG5UUG5zX29yNE5STHh4eU1SS2ZNc1g3WNIB8gFBVV95cUxNNHZWY0VMUXZGMzZSOVVUYVp0X25Ydkc3RGl1b1BfMG1Cb01YUG00RlVPQjdpS2dwUzVKSjJsNklVYzN0eUtPY19oTFdjNGtVdzZpWkZsaF92LWpWTXJVQUJ0a0ZHLXZMVVJNemd5NnZxWDNUc0xKRmtucHJzODNQVWZyQ0JDWW1aT0xmcWxVVE9hUTZhdlNTUm96M0RaUGtPWENmQUpsc1UydFFnekZVekZYTTFSOVVpS0EtTUduODg1LXI3UTJ6a2ZidEtDeFdRWmJHNlVKNFZnQU8tUEVpT2M3WS1lYVFKaEZPVXFzb0p3dw?oc=5"
         },
         {
-          "outlet": "Cobrapost",
+          "outlet": "Moneycontrol.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUXZLS3NsOV9tOTFjbmtteEVRVGUxNXVCbnZFYnB6VmFscF9lRG9Yb0N5YUgxQ1BrczJsSWF0MnZMYm54QTJ6TmNKUU85bzlTQS1UTVF4VzVONGNWMnhBMHZkOEJac011TjRWMmNzRFI4N2tJLUQzNGdjS2JQU0pMaWFyRFNPelp2dENKUUNteWtGZlNNOWsxMXFYQzV5TTJOZ3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVXMtWl9yUHdRZXRpTWtlNUlPTF9BaXN4M1BCNnlYUG9FZjlkam5FVWlMX3RDTzk5YmJLQm9NbnJQOUpLXzliQUJKWnhOWUFsaGZCZTFfOTFibksxb2JNWFBfbEF6d3hWWDZQcHRuN1JGVV9pRUFWQzFmSy1saHIydkd0TjBZWWt6a2dnZDVQakI0MUZhY0VlVm9CWnFaNjExeTI0Qk0zOFlFTzR4MW9FTmVvbl9hWThicDVFc09XX0lGWXdyd3dTZnA1S2g5TnlpQXfSAdcBQVVfeXFMTnRWVUZWUVJISDA4empwLWZNOWdXRV90elY4RWVoOVhLc1BORTJBUmJpdHZXX3hDUmZfQXZjUHVhT0daUjVRT2FyQnRmSjYxVDFnT3pUMkpXaUdsVFhRdWtGaVdBanJ2OV9LdFllVENzaEMzdnBuSGcxMk0xVlktajhNNnBWa0pqaHU1SFFJdGlFdDVhQUR3dXhTbHhoVnpzdWVjR0ZRU2Y4dTNEOVRodzdJV3lIV1ZBZzhjVnowR0FwTC1UTFJmZ2oxODcyX3RobUl1LWVvOTQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Woman Raped At Bihar Hotel, Accused Arrested While Trying To Flee To Nepal. A crime-related story. Covered by NDTV and Cobrapost."
+      "brief": "Another Bihar shocker: After Jamui, Banka, minors abused, assaulted on camera near Gaya hill. A crime-related story. Covered by The Times of India and Moneycontrol.com."
     },
     {
-      "id": "east-champaran-floods-gandak-river-swells-to-record-high-bre",
-      "headline": "East Champaran Floods: Gandak river swells to record high, breaches embankments in Bihar - The Economic Times",
+      "id": "gandak-river-embankments-breach-at-two-places-in-bihar-s-gop",
+      "headline": "Gandak river embankments breach at two places in Bihar's Gopalganj, Saran districts - The New Indian Express",
       "summary": "",
       "date": "2026-09-30",
       "topics": [
@@ -178,21 +214,66 @@
           "outlet": "Pioneer Daily",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTkwdDVYbHJoQThfVU1YTUJxZjBwMGtjbmhiOGlJcTVWUUpTeUdvOFVBTDZzLVNpRm9vbGtfeFpiT2RPUzZnWjhybGxvY3JZYlpNclJKcnMxLWpDTDBsRU5iQW44Z1gtdkxRS2FNeG5ub20tNm04TjY2NkFKb2ZzY19DQ2xhNF9oYWhBdEtYWU1lUHFrdGc?oc=5"
-        },
-        {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWW5oMW5EaXlLNWdFWHhjdXlTc3VnUTdVb24tb1huSlkwNnNjV3FxcE1ZVDNFY3ItaG9yWWdENHh1bjRNV3VuUG5ubjU1bEt5amlwUmhKZG1SNDRNTC1rS1FicV9VT3ZocG41b01wOXI4TkR4Y0otWUh1WlYtRlJwd0d4VFhTQVFsNldJRXl6bGRnSUtIWFcxNXNGOG0wQTRyam45SXdFZGVTcVVMeC00MDV3MFFtam53RHBuS2FpRHFQbXhfaGJ3YUZ0VG9MUVdnT3BrQUFWRURWdnpyUUpSTk9IeDhid9IB6wFBVV95cUxQZEw3YkpzcFh6Vi04SGtUWUZTQk1zb3MzZGQzcU8tSjZITWR1aEpZU3RJaGhlYldWa0o3dnVMNllkMkRwMFhwWS11dnRJOGRTY19TMEVDR3BQZTAxUmlDcG1jRzdNYzRtQjliRjFpcXdueW9vUjB6N04wQ094MFItQWhTUW9RRldaNkpTdTRlazJURUkya1BLN055bURmX2dXQ2hkSUdrRWxhYVlLS1lheGJJSUl5NG8xeFg4cnBZaWViSVJvbng2alhwV1lObGIyVXV5RnlIVHRhWDNKd3ZqbThSS2lrRldwZFNJ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "East Champaran Floods: Gandak river swells to record high, breaches embankments in Bihar. A weather-related story. Covered by 3 outlets, including The New Indian Express and Pioneer Daily."
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Gandak river embankments breach at two places in Bihar's Gopalganj, Saran districts. A weather-related story. Covered by The New Indian Express and Pioneer Daily."
     },
     {
-      "id": "bseb-bihar-board-2026-class-10-12-marksheets-now-available-o",
-      "headline": "BSEB Bihar Board 2026 Class 10, 12 marksheets now available on DigiLocker; check steps to download - timesofindia.indiatimes.com",
+      "id": "ceigall-india-shares-gain-on-winning-215-crore-stone-mining-",
+      "headline": "Ceigall India shares gain on winning ₹215 crore stone mining project in Bihar - CNBC TV18",
+      "summary": "",
+      "date": "2026-09-30",
+      "topics": [
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "CNBC TV18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTAtN0kxaGJZMzQyTTVVQ1BjTGI1WlE2THAzYnlWOW00UlpkUnBwazR0R0pjTkFFSDNCdDNINmlCZnhEdm44YU01SWc0WnFFeE5rYWUtTlhYMFJWRWtJOFlvYjFucVVwN3A4Tnd1SnIySE5qZlhJdFAycEhrUXV5RVRDbkEzTEpTMXZWTW5rLWRELUtvVEdIblFCb1RRTDNUdVFydFVJVmk0c092SUUzWEsyNWJPVW5SdVHSAb8BQVVfeXFMT2FXN1B5QUpvMXB4OFZJTjFDTno2U3V3Tlp2TGw4d2g0Ym1VY1Etc2NNSmJFcDdsM0pueGZFOVJVd3hUTzI0aVVaZU1SWUlQY29UOWZRVEtVRXh4YzhfVWpTTUdjcHFzd2NPQ2htOTM2NVFOS3pVZ0l1QVRQRkUwa1NaNmNCSXBHZUlXV1ZSTlVRQ1JLejNtYmxkZ2JFZlNlZ1BrQUZ6VzVfY0VaSWNhQkcwQ0p6cVFxb18tM0dWVkU?oc=5"
+        },
+        {
+          "outlet": "hdfcsky.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWmx0ejk4NTFHcFBjTjAwbnFBQWdtcGZkS2pMb1BnanRyV1djaHdFd0M0NUFYaGVxdGpCc3FtS1BkYUpqN0F1d0dXREU0MDN1SEdoRmp2OXdaY2VUb001WVRwRWYtM09PVDdZaEFnVU1UMkpReG9zbXJFNUJTQ2JhY2Zpb0RBSlk?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Ceigall India shares gain on winning ₹215 crore stone mining project in Bihar - CNBC TV18. An economy-related story. Covered by CNBC TV18 and hdfcsky.com."
+    },
+    {
+      "id": "in-2005-a-15-year-old-bihar-boy-boarded-a-train-and-vanished",
+      "headline": "In 2005, a 15-year-old Bihar boy boarded a train and vanished: 21 years later, a Facebook video helps fam - The Times of India",
+      "summary": "",
+      "date": "2026-09-30",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNcGhhcjl3eVJ4cVFkaDUxYzVfbXhhX241Mkluam04OXV5dW9rZE5Fa0EwX1BiY24tU0I3U1l1LXlvQUpZblJKczhvT3Yyb2lnQjl6NC1ud0V2MHBIeUg4ZzRlT1NuUXo1NGJCZm1SX3oxUmZpZ1d0UkRxS0VmUGdPNG1KSVVNekMxTkVHb25teVg5Z3RYNXpPQmZqR0ZkU1VuelU3UTgtejdtUVlocEphdWNvSEMzT1p5U3E1R1N4NHFFMzk3SmJEaEFWTWdIT0pQSVZjSTNLMk9wamhST2JDMjdfQ1dQQUllbjNjeU9rUk1xN0ZxY0FQU0RIa01iRFBFbWdfWnRPV0VfbUpWQVJOYTY1cURGZkM2MEJjRUR6TVdyNVJvLXl4enhEcFlWNVoxRnUxS2pSVnDSAb4CQVVfeXFMTzZsYVBuT2lrcXJ2bFYtSFJPdzhwV041VEtJX1lsQkVJVVVxaFNJVlZjOWEtWkZaVlF2b1F3a1NwQzMtNk94SnhyVUdWWnRMRXpZYlpiRkU3WDdRM0NsRlloaTNKX0xJbTBDNFI0Ni1Vd3JxWUhRYnUtVUdRUWxjSGN6QlpjM0lCb3lOOGtWaWVIWFlhSG9GZjcxVm9QMmh3cU5PVFJqUDI2MW9SaWRPU3ROM1lfOU9RRGpZOWQ1ejBsX2JXa2hZZmJIVzhvT3JPOWVjanpjOV9INXpDeU92V2wweE9Vd3RKTllFeFdFVHZpSHAyREJGUlduN2hJS0pNbWhLa2g3SUpPTXBwU29OWnVHYzhuNFYwUjRUMk40a2lkdHhxMUJvc090Qk1wOWtLRnhMZGp1TDQ1MDNnaUdn?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0VrRDcyYndFa1MyY096Qm41SDJkaXFGRXE1NUNGTTZENDliM1V4Z3gwcEpCb2tXd3NEcmxEQy1hNFRucUNnN1dDY2RDMFJQZjAwcmU0bHNwd3JHbUh4bm5rTV8zYmJNRzJ3NTNiS1hqQUNDZ2hrMHZsTFNfOWZfWnFwNjNCTUZLVmg1bkNoOGJFYlk3RVRXdmVyTVNCWUF4M3YxRXM4XzVTaGRVYlZzQ3Q2bm5WWlFERHFUNE9NZkhBeHE3Tkl0S3hDaFFmQTA0X3dJdmtNN0Z5bUVZUVROeWdaTdIB6AFBVV95cUxQUWc1Q1JJc0ZaN2hoaV9SYVlYSUc4VG84UE0tT20yc2Q5R2EwWndNRGJVX3lXMEpfVHJuZ214N2FjY2Vxc1h2YThhOG84czQwN0tHcFFFRE1zbzV6clpyQzVONVlpTUczQ2FyUjRhZUY0UG5jYXgzZEo2RXFRaENJLUV5LUtWT3Q2Zkx5NFNWMkc1Q1RCTTVnaGdud0NBaWFOV1VIdTlEeXpLOUNHYVpyeE82UGpRUEdvdU9wQ2tSZU1NcENMb05rOXFYVWpUUTlRLU4weFZHbDNvaGdUUmRQSWZIbWlkZ2tt?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "In 2005, a 15-year-old Bihar boy boarded a train and vanished: 21 years later, a Facebook video helps fam. A civic-infrastructure story. Covered by The Times of India and India Today."
+    },
+    {
+      "id": "bihar-board-class-10-12-documents-2026-now-available-on-digi",
+      "headline": "Bihar Board Class 10, 12 documents 2026 now available on DigiLocker: Check steps to download marksheet - Moneycontrol.com",
       "summary": "",
       "date": "2026-09-30",
       "topics": [
@@ -200,17 +281,17 @@
       ],
       "sources": [
         {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYXk2N1dwOGJvcU56Tl9pNFNweHd4ZG9IdzJPTE5qSU5fX2tsRm0tQTROSE80M2I2cW5Nb3EtX2RYRXJ4V01pU1MtNGFCQ08zbWg0bHgxSXpVamUyRTVtM1hRczJwNXVPd1ExZzJmeERIUEwxcllMNGNLWXRKRWJBcW5ELXRVaVh6YUlNOG9TTGRyMlRyTTJOUjI0b0xLUUVTS2phV1Bra1MyQ1ZxaVlDanE1UkR3c2ZDUjRmUU9KbzF2MllVRDlBUTh2TENRNXhsejdWRU5ackZCUEpTSWdUSnZDdWJHUVVwMURaTVM4TWxhVDTSAfgBQVVfeXFMUG9RaENubmtVQmtoM0phS1FfYzRSVmI1bjltVGhMWG41dzY3OUtvbm5BdTZDMFZULTJHcW10SGVDT3RBWEtBa1FnRXZuTmdFU1VaU3F3OGVuR2VZTm1TWXc1ck9JaWlIbS0tN3d2NkNSQmJBbnJaU25McDg0bWxQX0VVclFhNWxXN0NsNndqWUQySENuWnZrQUZHdlRfUlpCbXBJcGZ4XzN2SWRyRDJZT3pnRGdzMmZxeDBIWlR6RWplSk1ESzRvQUgtQml6TFVWV0I0eVZKRmxydlBBWkJwZ1lKRTRXdTZxZ0F3UmtvNnI1aTJfVjVLZnk?oc=5"
-        },
-        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEI0TVk1QXNrei1MN3piRDdJcU5LLXhicElHWkpWR1ROcnZjZWdSSlJBbHduNnR2Uk5yQTMwMFNFc0JwLXAtZHg1b2M1TEN5LURUTmJnVXhTV0NyaDN3ODFVWTJGaldhQk9MSEFlWFplT0N0MkdDeXUzWXJsbElsdTBuajJ0V1dGUUJvVVJvYy1hQnVfQkh6ck9lSzBTbFFYLV90VDRfMTZsdURsVDBsY0lRMXA3M2F3VHRNQnRod3kwQdIBygFBVV95cUxQenQ1TEtKcVRYc2c2bjhSTFNjbjhJd3VPcFFIOW0wME9RQzByUER6N2taSHNtNDFxdFhhemlYanBaRGNqMUFndUM5RHloMkJqVGw5Ujl2eXFGQmJhTm10Z3JjM3dnR0w1bGI3QWRLRndSNjlHbDZvTVc3Mkd6aGU5OE5ObzVNQXE3RVhjcDNhSlpOeGY3RWhpdGtBeU5MTVpKSmFaSTFTYS1odUZXSThGbmtHTGIzUTFOTW4xRk5qVHBaeFZSSTQ2aUJR?oc=5"
         },
         {
-          "outlet": "timesofindia.indiatimes.com",
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYXk2N1dwOGJvcU56Tl9pNFNweHd4ZG9IdzJPTE5qSU5fX2tsRm0tQTROSE80M2I2cW5Nb3EtX2RYRXJ4V01pU1MtNGFCQ08zbWg0bHgxSXpVamUyRTVtM1hRczJwNXVPd1ExZzJmeERIUEwxcllMNGNLWXRKRWJBcW5ELXRVaVh6YUlNOG9TTGRyMlRyTTJOUjI0b0xLUUVTS2phV1Bra1MyQ1ZxaVlDanE1UkR3c2ZDUjRmUU9KbzF2MllVRDlBUTh2TENRNXhsejdWRU5ackZCUEpTSWdUSnZDdWJHUVVwMURaTVM4TWxhVDTSAfgBQVVfeXFMUG9RaENubmtVQmtoM0phS1FfYzRSVmI1bjltVGhMWG41dzY3OUtvbm5BdTZDMFZULTJHcW10SGVDT3RBWEtBa1FnRXZuTmdFU1VaU3F3OGVuR2VZTm1TWXc1ck9JaWlIbS0tN3d2NkNSQmJBbnJaU25McDg0bWxQX0VVclFhNWxXN0NsNndqWUQySENuWnZrQUZHdlRfUlpCbXBJcGZ4XzN2SWRyRDJZT3pnRGdzMmZxeDBIWlR6RWplSk1ESzRvQUgtQml6TFVWV0I0eVZKRmxydlBBWkJwZ1lKRTRXdTZxZ0F3UmtvNnI1aTJfVjVLZnk?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQk9hMDdHVG01MVBmZXFqNlhTbS1BYlR2VjNXRFB3ZmhMZmh6TWlJcTFmVzZtZ1VGelNHd19za2VPYndUSDd0cXMwM05YZDdPaHZZNTYxeHlrek9NWGFVYkVFMWpna2lrOVpRaGM5alBBSDd6dXNtZVIyN2t0eThwWnVmb0JCZF85dUU2ZjNTM2Jld1lULU1yeGc5eXk1VzBqRmw4WTNRRWE5Mno2VGdqVC1vWEpqY1NDQU82WHpnQ1dJeGdKRGpUcHlSZk9aUWJoZTJLZ0hMbU5VWFQ5YUhYcEVlRUFyUVBrR0JycHF6VTRSM2lrTldzQmxnMS0tV0cyTjRXcFpMdWLSAY4CQVVfeXFMUEM5cU1DNlZzclNPSTBEOENiU0kzWkVkSjZDNW9zVHZ0VTgteV9GNDA3Z05zeEhQNVdnOW5FV2FLZVBvN1VOOWpSc0E5OWFGX3l6bmVyZEhGVDlLNkdyQXlPV3JINDE0Z2RmVVNGVDAwenVmX1FMRFRabDdEeGp6T2c1TnRnblFQdzBLX3NRaERKV2ptNGVRbmcwR3puU0s4cU9TZURZYkpyWl9ud0NickgxbHVRT3pEakNzMGYwb2tTR1ZTaTFJR2ZydkUzZjBld2N2WnVPOGNCQU0tUTZoeVhxVG93TjhKOWZKVjVDSDM0MzVoYkVXVFZDLUp6a3B5TXlJdGtxUHhoa2ZtNHl3?oc=5"
         }
@@ -218,7 +299,7 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "BSEB Bihar Board 2026 Class 10, 12 marksheets now available on DigiLocker; check steps to download - timesofindia.indiatimes.com. Covered by 3 outlets, including Moneycontrol.com and NDTV."
+      "brief": "Bihar Board Class 10, 12 documents 2026 now available on DigiLocker: Check steps to download marksheet. Covered by 3 outlets, including NDTV and Moneycontrol.com."
     },
     {
       "id": "cyclone-arnab-brings-heavy-rain-paddy-crop-damage-in-up-and-",
@@ -256,7 +337,7 @@
       ],
       "sources": [
         {
-          "outlet": "Aaj Tak",
+          "outlet": "aajtak.in",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTENKSjJvV3NoWmlmMEJULUZveEhlQ3dvLVJUenBQeTh6VzFyN3Ric0MxdzkxcnFOTVBsYzdhVVllRzc0akxWU2hXcEVlUVRGeU1Fb3FqakM4bC1lcnlia1ZqcWJCOFhqSUdmSU00dlV4T2tqc2lSQnFPd2RNVzl4TkdHc2N2aVBuYzZqN2dDLWQ1eGNJUGwxMzhjYldmZDlDOUJaa3RfcWNkVkZqcUt2OTRSWE5BR0NHSTlablVzVXVjMkpnbU1WaDFnck1VN0Ntc2NUS1l6a3TSAd4BQVVfeXFMTWVLSzlJSmp1Vjh5ampVU0huVTNRZE0xaEpZVDcwbVc2ZVotYUpLYzRRQnN2TUY2YVhPTXdFVVNSRjlnWnpIZ3NncGNzMEFkNVhxc05vdFFab2VvSkhvNWxSUzVLVE9FdEJteEszLXdvSm4waTVmRElySi1MYW9fLWdXOGxHZlhva2c5NkxYdjkydXZva3hna0xfVXFSTllwR1pHMzBaZzd3Nld6RVZ4OEY1RXNFd2VRY3FWbF9DYUJwVHB6eTFBZTVvc1hVWG9lVDdTVTdGbUlOZU5NYXhR?oc=5"
         },
@@ -279,7 +360,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना में कोचिंग से लौट रही नाबालिग युवती के साथ छेड़छाड़ और मारपीट, पुलिस ने दर्ज किया केस; CCTV फुटेज से हुई पहचान। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Aaj Tak और ndtv.in शामिल हैं।"
+      "brief": "पटना में कोचिंग से लौट रही नाबालिग युवती के साथ छेड़छाड़ और मारपीट, पुलिस ने दर्ज किया केस; CCTV फुटेज से हुई पहचान। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें aajtak.in और ndtv.in शामिल हैं।"
     },
     {
       "id": "2-30-2026-dainik-bhaskar",
@@ -348,7 +429,7 @@
     },
     {
       "id": "special-pps-to-ensure-speedy-trial-of-sensitive-cases-in-bih",
-      "headline": "Special PPs to ensure speedy trial of sensitive cases in Bihar - timesofindia.indiatimes.com",
+      "headline": "Special PPs to ensure speedy trial of sensitive cases in Bihar - The Times of India",
       "summary": "",
       "date": "2026-09-29",
       "topics": [
@@ -357,17 +438,17 @@
       ],
       "sources": [
         {
-          "outlet": "timesofindia.indiatimes.com",
+          "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONnNEaEgtMnRlTFdWM2E1QnMwV2ozdmxqSlpUQlMxU2dFMXNTcDRqRV93X2NwZjNVT1RFVV96SHE3NHJGLXFsci1uQ3RXc1U1dkZxTmU5YUxCWXM4RzR1M2l4bWpYWTg1VXVGNkVsZVJzaWN3eERGZmJlRzlWSS1ocGo4N045ZGcwdVZUSnFicW9Qb25ZRGZqYkZydGNnZEs5Zi1Uc3k0WjZDVFA5RDMwdUgwWTgxcVpFWXd2WtIBwgFBVV95cUxOSjNSejN4WVotUWhoblljVXRFQ3piMTlIbVB0Z0pGLUdVRXZtY3FkYXZqYzRXREVvV0RjX25vTzMwakx5QzcyVzFvN0dldTF2WlpkalZBaEhTdWZhRExpS1ZoazZ5SlZMbHN3MFkyYTBsRm5jUnF1dDh2aEFndTRIcVI3MUhQTXAxa3JrTk16T01XWHUybDM5ZDV6OFJoeWsxSHd0bVdBNFRjRHJ1a2NMR1hZYUxOMExyaVBIYXpKLVNndw?oc=5"
         },
         {
-          "outlet": "timesofindia.indiatimes.com",
+          "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakIzTjhhVXVleGVubkNock1rbG5CaERPM2ZlM2ZqcnNQc05QRDVyczFoYnFBSGlpMFVtbXNSa2IwUk0yQVhtTVRuVWdHbUFyQTVvOTJweHMyUU5OSU5MZ3R2R0tSX1M1N0VDQjB4ODQ2M1lqbmhZdHZLT094Z0UxcDZhZ0xJVUJFMzNFdEQyVVRrYXJDN3l2a0RvdXk3SWpPTDB0WkVqdEZIWEJvaW5kNXlIWndJaHNaaEhGQ3UwcUZ1RDBYY2fSAcsBQVVfeXFMUFMwQkY1R1JyZU84TV9DdmRHOVBtMVozLTBNTWJ6ZDAzVjIwRjZZckdPRnBBN3h6RnI0REotVWZFMmR6V3p0dkRnelYwZ0VZRkhKb2VycC0tYnBQMTZzaWQ4RnlYQ3VNREFvQ3BRNzJEQUM5UVpkdkpDcW5KbGxSNklRWlBQclZnX1FBczc5Sk1DRWJwOWNVQjNNeU5wXzJBZ2ZIUWkzdzJ2SUZzNENhOTc0YW42bm1MeTd3bUpDT1R6M19WSmEyUVhOWHM?oc=5"
         },
         {
-          "outlet": "timesofindia.indiatimes.com",
+          "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVUxqX2dKaWZnNTE3Z1QwMnRmcDI3QTlqTURFMnVQZ2JRQlJxZ2RBQXJRc2JLSENPWUh2QnlXTUlmaWUtVDR5ZTdzZlFxRHhmMHBkNG8yS1RPc3BkVzUwWi1IdVdsM2NkUkpta3lTcTB0OXpOcEJpeTlqd1R5eHpYcG5RZFZjeGpSTXlXa0tXejJBM3RhcVdDaUlYcFU4NmVfekt6czJXSFU1amZfdVptQTBfUEpXQWdNZF9nUmVQVm5uT1NJVDh4SVBrR3M2dF9Z0gHWAUFVX3lxTE1qQ2ZQVEF0bEhacmtXWXVVeU1kcFl2QlE4dzZzalRORmlvM2dXWjlIbGhGRTJRLWUxWFlpNGFVS0E1ZzE1SmsxX3RKcDlaNHJHY2xGOUxUQ0dTR3A1QUZqam1KYURlRUNtS1BRazRvWVFPejVWdkNNQUwzSGp1TkdaTnFhaW1wSEQ1ZUVfMlBUSElwczJtSUgwc1VWNzRQUUhLeDk3Q1hmWkYzcUpBdHBySjcxdVJUcTd5VXBSemgzYUlMTkJEamR6LTBaU1BaSngyaXN4bHc?oc=5"
         },
@@ -380,7 +461,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Special PPs to ensure speedy trial of sensitive cases in Bihar - timesofindia.indiatimes.com. A crime-related story. Covered by timesofindia.indiatimes.com and The Siasat Daily."
+      "brief": "Special PPs to ensure speedy trial of sensitive cases in Bihar. A crime-related story. Covered by The Times of India and The Siasat Daily."
     },
     {
       "id": "woman-out-to-collect-jeevika-loan-repayments-raped-at-knifep",
@@ -410,7 +491,7 @@
     },
     {
       "id": "bjp-announces-candidates-for-four-seats-in-bihar-legislative",
-      "headline": "BJP announces candidates for four seats in Bihar legislative council polls - The Economic Times",
+      "headline": "BJP announces candidates for four seats in Bihar legislative council polls - The Hindu",
       "summary": "",
       "date": "2026-09-29",
       "topics": [
@@ -426,17 +507,12 @@
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTU9Nd2d5TGdYSllGd2FxTGdnTFYxbVQzR3VzRFNHTHRLNDRuVU5zVFlpeXFVdHVXajZWYWtTU2NzVGRSckRXRW5qdm4yUXVJOGxOZDFwQTRzTlJ3enNlbUtfUEVrVGlyQWdJdElQNXY5R0daaXQ4a0Rab2hlTThkUEZYNkdERUlQSUNwYTZwX2lnUEdsUUVqcnRNbkNpZjJfWjgxUVpLdWgzWGVvTG83c0lHSVRxeHlXU1pNN0N3MVdKTGJralpPWmZuNmctNmd5NlJRSjd30gHcAUFVX3lxTE5HLVBUeS1oWlNHaFdRajA3dHFVdGgxUzU4eUhkUExXdnZRQXNGUDJKZnhvZTBQUVVRYjFYbHRONzZCMGFDaFlXelpEUWU0UkNjbVNDOFBWMmtmLWFTLXFSRjFtSEVSX3JfVkYzQjZQQUR0Z0FLbXZSMXZObDVxZDc5MGtINXJxNWZPMmY1aWhYWXp5NWl4YTJhQ3A0ejE3QzNoenQtT0tCeTdTQUhKWHBiVmhmMzhaLXRHZzg1T00ta2ZYY0V2QnlRQV96M0NJREYyT2psMGVaT0dwR2w?oc=5"
-        },
-        {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOM1ZzcEhRUzJHSkdGSHJ4aXkwMWl5d2dLTEYtbkZTNW9jTUpkYjQ4MmRMS3otc3BjWjNZRnA4WDBXTXFqSGtwZ1R5XzVlTHFHS1pCalRocFh5Y25QcVZiSHdiR3NnMC0yYmpkc2tOdlQyZEU5elFzN3JEUzlhVHNNNExyRlJGZ0E1cGJQZWJEMk1MdGloQmxMSDZ0SnhhWkE5SVhWLVRPMC1heUtsendCVXpuSmRfQ1Q0SUlMS04zbm05Njg3SlJCdDlVSWo5M3U4ZmI5bmZUckVMb3dDb05FZmtkMEtCR0Z6SWdRUDh5cWtzOVB6TTZSbnBVeDFuUE1GNXfSAYcCQVVfeXFMUDJZX0pZWWg0bFRfT1B3UFJYb2ZEVzBJY1ZwSUExWURDajkyMU1IMXNRN1VKZ182SEoxSklwU3kyUHFsRzNLcHB1SnQxLXprZUVnbVJwOEpkVnlna3lNbGhLa3BQajd1M2xsdFJPNWRlakF1TlY2UTJGdE5TYjQ0eUtGdlhEWThUUzAtWlN3VC1LbU90N3R2QWQ3ZUpXWVd6eEsxakhMdndBNmxYbFJzOXRDTEF1eHlYT1lNWTZhX3lkbVFKb2dmTjBibEJseW5OVkdpMTEyUlZGdjVMOWx2ZHR0Z3I3ODI3ZlNiOEhIUGtjS1lqRmRpQzNSelg3RFJpM2tPcVZ6cmM?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "BJP announces candidates for four seats in Bihar legislative council polls. A politics-related story. Covered by 3 outlets, including ThePrint and The Hindu."
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "BJP announces candidates for four seats in Bihar legislative council polls. A politics-related story. Covered by ThePrint and The Hindu."
     },
     {
       "id": "man-from-bihar-detained-for-questioning-near-international-b",
@@ -462,31 +538,6 @@
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
       "brief": "Man From Bihar Detained For Questioning Near International Border In J&Ks Samba. Covered by Kashmir Observer and Daily Excelsior."
-    },
-    {
-      "id": "no-takers-for-218-posts-in-bihar-govt-s-science-technology-d",
-      "headline": "No takers for 218 posts in Bihar govt's Science & Technology department: BPSC - Awaz The Voice",
-      "summary": "",
-      "date": "2026-09-29",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "EdexLive",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk1zUDlhTHdiR1VoZ1ZrY0MtYk53c1NVRFE0VU01VG9MWHV2REZmSE9hLWk3QWFkWXBsem45X3FYdWV4YmE4cVJTekluSzlTa05uemwyV0g4SmxmNk05WmxoaWRQX3AzRWpfRURuNHdrZW5MaXliTHRSanFEOVJxU2hqdkthOGFhTjhwS2JuYy1tOGhsckV1eTZWUEVZbFp1bWVkXzVQY9IBtAFBVV95cUxObmFsRHZ6QTlqeXBPOUx5UVBKdXhQc3Z6ekN4UmZsVGktNzZybEwwU241THdLUElRVHJRdmlRbEhQYkR4M2J1X1RQVXE0MDh2T2VMQ3oyelNnVVhYMTN0TzQ1MWhHaXlYbzN6TEEzVUtQUFBkeTlYOHdyWEFPQXN0aVZvYWdQZWM1THBnOGUyQ0JId0ltVC0tTVkxUC1vX2tISFMtZG03S3hQVnpfcVZlQzByQUU?oc=5"
-        },
-        {
-          "outlet": "Awaz The Voice",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVG0xQVJ3dmF0eG0xNTlqU0JYOFZZb1pMT0xnTTI4dmlTVVh5OUZ3ZTROYUZMNS0zQjgtbTZaLWJiak9Tb0lndHo2b09ZN3dTMmp4V2FiOUlHM0JBMV9aUjFycEFLb0RtXzl2U2QwdmVjYWtKRlN1WExtWTBUM0VVc194T0NVcnRrZUxfT3hWb0NkMnc4M25VS09kQ3pGLTdTVm1IOHAwNDE3Wk5HMGgyQUZubkZtWjE3a3pkcA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "No takers for 218 posts in Bihar govt's Science & Technology department: BPSC. An education-related story. Covered by EdexLive and Awaz The Voice."
     },
     {
       "id": "mlc-elections-on-october-23-bjp-names-candidates-for-up-biha",
@@ -515,29 +566,29 @@
       "brief": "MLC elections on October 23: BJP names candidates for UP, Bihar, first off the block. A politics-related story. Covered by The Statesman and The Tribune."
     },
     {
-      "id": "bjp-mlc-navbharat-times",
-      "headline": "पटना से नवल किशोर यादव और कोसी से डॉ. एनके यादव, BJP ने जारी की MLC चुनाव के लिए उम्मीदवारों की लिस्ट - Navbharat Times",
+      "id": "who-is-tanya-mishra-all-about-bihar-born-model-actress-fans-",
+      "headline": "Who is Tanya Mishra? All about Bihar-born model-actress fans are calling the new ‘National Crush of India - The Times of India",
       "summary": "",
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "topics": [
-        "politics"
+        "general"
       ],
       "sources": [
         {
-          "outlet": "Aaj Tak",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYTh2SEU0YmpZdmp2MXRad3dMWHBhZEhFZ3NRT29zb3pWYk1UV2l3cWdSN29MRWRiTnNmOGdHVmp5cVdYOGVxUU1YSnJzb0Q1N2NPellvYjRKbWxXZGkxb21MVHFvay1TcFJkV25LVE8yNWJTNW80b19tUUNKUWN0MmhKSHczSjVfYU5xRUdabVJkRF92M2RuUWg5amUyeGhIV2loOVY0a09DTHZtODZYcmlsbmgyYTJHeDNidVJFRVJhMGxPbExBaWFCZ3lZUWtJZlctTUllSdIB3AFBVV95cUxQTDZUOGpPbklzQ3MzTWR3ZDdFdXhnZ0czN2NFNTRXTU5DQnhYWkhOSlVYb2h3dkx0TmNXM1VXSldWSE5vYW0zNjFqOExCVVJwMGlxRndVYzktRGJSV3B0aGJwN2g3bWtKVEVkYjBhUkl5WHNmVmlTc3J1ejFOQk9mZGVWMzl3MGMtSDlGc2tlaFN4OGlRcThQMFpxcHo3dk9fYTVyeXhDV3hfNzAzZVVPZll3Rk1WcWc0T2lyenlBVzdMLUpIdEtGSlpsQkNxMzhiemVPZ29veThnNEE0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV053NUlrblp5Y1BZbHBYNm1QRGpJbXRVWUFFaXViQUZGNUMzWm82U2dBTHNaeGRMT0Q2WkF5S1pIQnJQMlU2ZHozLWpKMjF0aWhpRXhDRVdnU0xOSnQyN0RKOFF4NENrTy03ZmtkU2o2Mk1xX3g5YmxMWWRvbjY4ZHdMQU1uMzRCZ2FqVTZjbXEzVHFGd0pVSFhUM1k4dFd5MzFHV1pucnl1d0hjbVFPb0Z3MV95VllIVkVWQ0N3TU1BNXM2TlFTYWVLSzk3V2VGT1RxUUFDS2x1N2dSR0J4YjdJUmxJbE1qemREbURQcjQtNFlNaDJGLVZIajNoY3JuM01zYkppOThETW1Hbnl2Y2Z5eUZ5d9IBmwJBVV95cUxPTm44dWw5TmlnV3FSWEtuVjBYQlh4cG11MWtneEJ6UmpUNUkxZW9yRm9WN3M3bWZLdnlWa1hlNGdQR2hUVU4yYTQtOGhpUUs4VkNtdGxUOVFQeG5BU1ZZMnNrZEkxMWRfNmpVTkFqOW82Z0RRYy1OVDFiMVJQemZ3RFllbEJaUHJLOXpBSm9TYUxvQzlPUmNhNjZXZTRpRzJCUXh0VzlmUjFULW9wT1dEbnVlWVVhb2c5WlJaOTB5MnpPZEdac3BELXk5dlpVVi05SFhMTzQ0cFRlM2lSYmFFR1pacVZQTmt6RlhVdnQyamFMNVZoMFoxY3JBNHlOR1RTVjlFaklVbmJjVTFzOUxKSzVJMVhMMkJUazIw?oc=5"
         },
         {
-          "outlet": "Navbharat Times",
+          "outlet": "Moneycontrol.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQb1cwVzd1cHVaNEJ4azhWTUZYVVVxTUhyMmkzYk9MS2d6cTl5aUw3R1NJQjUtSUdjY2ZvcEU3cG4wN1pGUDBCczJaMWpxTktJQ09XbVM3Z1pSa0dIc0prUVF0ekxwNnN5cjNxOVVNclJuWi1aYkgxWFhVSHRkd3dGSFVoSTZ6SXdkUnI3ay1kSXJ1VmlSWW5hN3A1ZkoyRjRuY3JzV1VsQkR3LXpOdGZYVlRtMWZveFMwajlCYUJ5bFluMmNoWlU0Sm04SEs3RDJRYXY1MGRidFdXOXc3ZkVGWjRaTmUxSFlxRkpVVzVQRWNhQnpqeF9BT0VyZl9ON21rNmJkLWc5VGxscVZl0gGSAkFVX3lxTE15am9fcDNremN1UmtKMGlHRU5qenduRHo5TU9GRzNkUDdHYXBtWms1cTdHTmh2R3BUd1BsXzlWbzM2RHhSMG1VUU1LM2w3NjNsRHdfRFNjTDVnTVIzbmQ5YlkxSWkycUVmd1pQWDl3T1VOd240OVNuZjh5LTVSU2t4ODM3VWE5Q1R6Vkl0NktacHBoUjNQT01SeWJabmFhcVNKQXgxVXZ5QVdleFZFb01DSThxU1Nwc3RmeW8ydW1ud3p2ek9idVlvWWFIcGFxUDNNOVVLM2J6WFR6RmxnZllmTFYya0N4TFlFU0dkbUNYQzNIZlhPTTdBT1YxTUhZOU9sYmlGV3pGVVBZT1BUak5lS1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdU80Mkgwd01TWl82U3FqQU1PTlhlOVlEeWVUZWdGUmlxcXRiamhLTEc0Zkh5MGNlWVZxNkxaQWEzaGhhdEtVNjQxdDZWeFAySU1rR1AxUlFoNVg1NENmT0ZUNEhHY3NVX1dDR0xLYkt1QW9iY1ZVUTh6M3pTTlBkZW1kRWFxVl81N2FaeWlRTjgxTXJQOVFIOFZ0bTFlX1hyUnhzM0ZqbDJtNHp4WkN3Z0o1OUtXVkFNc3lTQUdDOC1OUXdSMUcxSWZrVXVEbXBzMmM2My15b2NFNldSUU1FNzlDM1llVTlrb045THVOTjdBUldGWUlfM0xDdnDSAYICQVVfeXFMUExIUklVeEUxVHdRcWJ1VVR1YjZ2VDE1MmhmaVZFWUVUZ0lPSzdXZTIzUFlRbjR5Z1J1Nkp1QUdqcEc0bUFBWV92ZjZlUDY2eVk5N3RNbFZ4dWZpTzFrZXlRckR0ekFJVXIyVnl1UGVrX0lSUDdqT2JTZjF2V0huNEVGUE9rTWhkODFEeXp0WnlPZTRLeW5aSmxILU1ucDE3eWtPeFI0UkZkSVg5cnBRcm1OcU91dE95c09sZmJpSnRhS0g4Y2ZOZ2p6aEYtR3V6ckRPX2ltUEtQNF9TSy03RmpfVFpBbm5JdzBQRVJfaUd0TkkzeENjc0NUN2FWblBPby13?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना से नवल किशोर यादव और कोसी से डॉ. एनके यादव, BJP ने जारी की MLC चुनाव के लिए उम्मीदवारों की लिस्ट। राजनीति से जुड़ी ख़बर। इसे Aaj Tak और Navbharat Times ने रिपोर्ट किया है।"
+      "brief": "Who is Tanya Mishra? All about Bihar-born model-actress fans are calling the new ‘National Crush of India. Covered by The Times of India and Moneycontrol.com."
     },
     {
       "id": "bihar-dgp-vinay-kumar-takes-voluntary-retirement-appointed-a",
