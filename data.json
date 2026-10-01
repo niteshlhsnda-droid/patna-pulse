@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01 07:35 UTC",
-  "generated_at_ist": "01 Oct 2026, 01:05 PM IST",
-  "story_count": 32,
+  "generated_at": "2026-10-01 08:35 UTC",
+  "generated_at_ist": "01 Oct 2026, 02:05 PM IST",
+  "story_count": 34,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -90,6 +90,31 @@
       "brief": "Seven-year-old girl dies, 3 students injured as school staircase collapses in Bihar's Khagaria district. An education-related story. Covered by 8 outlets, including The Times of India and Telegraph India."
     },
     {
+      "id": "bihar-floods-worsen-as-swollen-gandak-breaches-embankments-a",
+      "headline": "Bihar floods worsen as swollen Gandak breaches embankments across districts - National Herald",
+      "summary": "",
+      "date": "2026-10-01",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "National Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRFZlc0JldVRZc05nbEs2czBaVDhkSDFweXJRUlZQNHhuQ2wwTS0ydVhpTTBWZXdCQ0pPSFA1MVBIQTZHdmNMM1FCOVZINFdOVHZzWmFNVjdfaF9uQ2VROEludlBwWGRnYWlLbXFObTk2RkRJNVZSMmJqdUJSVEdCU214d3hNbkFmVjlLRnRlQnhsZnFCc2txam05OUpzYzlXa09Wc1hJOTBRQ0VVZUM0NFF1MDdBSWdTSjlRV9IBygFBVV95cUxQeE9uVlIzaGxULWZrQThna3FNemZvRlpIUER6ZUJ6eGNRMHdoR05HSm84YWJ6VlpVd3NQVmw1aU5YNjJKbW1HN1RWQlpUc0R2c29ldTJtbHRrSUNoLU1CMzBfM0Npd0dYRGlKX0h2WHhFM1NOcEw0Uy1hWTZpbDNoWkJqRkgzM002bkRXRTFhc01tTzJIOXVjVmRwYWQzYTA3eGVDUEtEbVVEaHBWV2Nmd09KQmxWdU56VjhsZ3kydnZPN2RSdnlqYW5R?oc=5"
+        },
+        {
+          "outlet": "The Assam Tribune",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnlBLTBhcUQ0dXZjQlNCa0Z1dmZfcktFeWZJTnNWUFc0dnFMbHRLNUhnTXFkcTJXVnFhODdnYXdiTTB3ZUt0TEljdGNBdkc3ZHFmRXR5ancwYXBNbGJ1TDRxd1Q2ZFlzNlRFaTNURE15UWJFamVlaDJfbkpKam1ucW9YMmlPSUtPUVpUcXo4MWt2Rk82SDFmZ3JBa09ZUEdWa2JYTXlacWF1aVpkZnfSAbMBQVVfeXFMUHdWVVdtWjBvWkZCdVlQb2tjaF9saTBBVzhDZ2ZXeFJQaGJaN3U2Y1pvbnBzOG1ET0tqbm5QSTNUYkVNUWJyTUgyU3Y2Vi1XV01oNWZka3IzZE44Sk1CVWZad3FpYzhkcHdENi10aHh1U1E0UnN4Tkd5SW5YQ2hqN2h5OEV5Z25DejhlWkx5M0xQczZiMHItSThRSGFPaTE5c0xFX2NUMnd3VlJVQThQbGZ2cTQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar floods worsen as swollen Gandak breaches embankments across districts. A civic-infrastructure story. Covered by National Herald and The Assam Tribune."
+    },
+    {
       "id": "after-recent-protests-bihar-to-buy-30-water-cannons-86-anti-",
       "headline": "After recent protests, Bihar to buy 30 water cannons, 86 anti-riot Vajra vehicles worth Rs 62 crore - Moneycontrol.com",
       "summary": "",
@@ -106,7 +131,7 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOHVDN00zVEVqT09XVHVFa3ZOQzFSeDVWT0lZLW1wV1g3cTBzQl9PZlh4dVVsQjNVWldJUGdYeW9ndThVd1VYZ3dWLWZ3OUJYYTBrN1VZX3BBNm1aai1hVkFaY0dPaEZsZldqTGV3aDhLb1RZcUctUVhtd1BtS3l1VVpSWU0xY3dvUFpFa3JuUjE5aVNRUUIxRTZLQ3VsU1pGSkExRjFhcHZCUDY0Z1Z1RVkxMXJZYmo5THRsbmV0Y2xZR1podXE1VDNsZV9oOExkYzFpUnFCSjFxX1ljNmxsak10WlN2dHVL0gHuAUFVX3lxTE1pN21uN1Q4bVc4Q0VrMi1Mak9MdERTTWo0YzVuYXE1MjJpSm96MFB5VmdUdzdpaG9zQ0ttZ29SOGhxcGpQdUtJdmhFX3N6dUFmRmR6OXVQNFFZUmRad1VFQ1dObi12d0Y1VFFFSlNma1FOLUtaMlRWZkp2c1pCcDg2Y0haN3JqRFFfNzFCc21XenhGYXczbmRNaTZra0tBb1VsSy1ucm1aN2RxeUpNZkl2TUg1X3U3ZHlLUW1jZkJXX0FWeDloMkk1Y3duZTdjS0xJVmw3aE9oYi1wVVdjQkZhUThnZV9CMjhtQURna2c?oc=5"
         },
         {
-          "outlet": "indianexpress.com",
+          "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3pwU0lvVEgwS3NMVG1vOF83NzRkRVA5MmdDbHNnZmhkNG15QllMdEJXV3cyT2h3WTZ6X2lJS0hSWnI2bEsxVGRhWVRhU3I3SWFzclJucERRX2g1YTAwNkRwOFlNUDBXMTN5OGFnZlRUVUJ5SmVDOHNQeDBIa29SSE1Xc3pSQmxobDB1bEkxb2YzYTl5SUJr0gGeAUFVX3lxTFA2WW9kX1F1NEYwclZucUMyMTBKY1h5VWk2dXQzbnBJUnkwbXhsYWEzSUdGZUFwc3JRQm5tT3E5MzIyRWVMX29IdEY0Tm9KUFJINF9JY3VQY2FmWUE4YzE0TDVDY25NRHZya2dvY1hmNlF1QTJwUGZ2Nl8xSkNrUWx1QWQyOWM2WUM4S1BldXFqTEJhd3A0eE85eE9oYU5n?oc=5"
         }
@@ -114,7 +139,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "After recent protests, Bihar to buy 30 water cannons, 86 anti-riot Vajra vehicles worth Rs 62 crore. A politics-related story. Covered by Moneycontrol.com and indianexpress.com."
+      "brief": "After recent protests, Bihar to buy 30 water cannons, 86 anti-riot Vajra vehicles worth Rs 62 crore. A politics-related story. Covered by Moneycontrol.com and The Indian Express."
     },
     {
       "id": "is-the-nda-coalition-in-bihar-cracking-under-law-and-order-f",
@@ -156,11 +181,6 @@
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVZ1TmFTREhUbzJ4Y2VURUp5bV9CcnR3eUpyVF9YcHRxWkZvSktRaGZvZWtUV1lHNG14cDFrTlRpRWhUM2NCS2tsQlVJLTU2WUNoSEdGTGRlQm84UDFFVmozQXRTQm4waWUya291cWdTX0lDWGs0NVk4RkRaYU9XY1FuWnp0R0taU2tJWXBXbmVWOThCTHpEd1JTZVNTYzZPZkEwdFhSUjRFc09YOFhvcG5OdnFfd2QycWdSbHhXYWxvZ0EyOTNDbTBWaDVjLUVaSlNsd1NjaU3SAd4BQVVfeXFMTTY2bFgxOEJEUXgwVTBiZjZSYk1ndExGZFY4XzFLNldHV0ZTWC1sa01mc3BOWHFOMDlNNzl3S2FZUDJmclZNS2pUZmNza19KbjI1aURXYldSaWtMMi05Z1l5LU5lY1FIWi15LXdXS3JJc3pQek5DS1NIZUJFX1BQNG43VXptZlNhSnhsYVFuMVVBWFN4MXZpSjlYVWNZdHBROUpWSmQxTDJ5MkV0dGlXVXBqRmNPMXJET3VGRk85SXZHZmVHTG54cHdob04yVm5ZcUpWckRJV2hHMVNzVnl3?oc=5"
         },
         {
-          "outlet": "Jagran Josh",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDdYX2IyOUVGSWRDVUZjM29SWnVwRXQzcDFaMFpHY21qV0xudHdhT1BOMHh1VjhRa3JzZnNsTW9pUUwxenRlaHo2dFRjNzEzZnhIbkwtNzJoWU13Y2xHS1lXOWdMN19id0VSWmd4dmtpYUViUFByNHNkbWswa3lqYWlFc0VlSHNEcEhkdXZXUHVYc2hYcXctcEFkQVYwZG5GZUV6aklNYm5CRkRQTzRiSlNQR0l1Qm1NRmZYa2EyVEkxV1FjaXg0dw?oc=5"
-        },
-        {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSXE5ajRSN1RCa1ZLcU5WQmVUXzAzZnl0RHpWVmJTVjF6Tk16UU9SbWZsRHMyZkkwRmo3aHdFbzNtZDFPQndTdGQzbEcyUWN1VmUzOWsyb21BVGx5ZG9oRVlneWZ6eVBDaGRieG1yMUQtOW04eDNsRmVsYVdoR3FrZDBiX0ZwaHFvQ2JMUWN5UVluSFhHY0daSk1HNDhCNmpVbVFoU05XUkxXSC12cmJ0bXo4UERWclhubHItMTVxcHF3S0VTUmlZZV92NnViWWx0alc2dFdSbHNnLVQxQTZwcGRIbWlUZm1tNVNDMHJvLVlyUm1BUWdKRlNWa0xjQ2dWeTc3OE130gGLAkFVX3lxTE16N0VWTFhURlZpZFJaMVBuRkttZ214V2NtcGd3NFBlOFhaSDlVZnQ5SUFoUmlweUNHMXl2NzZUYV9Ra3c5Rng3YkhzQThpSllFdUtZX0lVeEpEN0RwQkRycmt1ZHlUWl9WRFp5U1JvUEJ6ZHcxNG1nMk1OUDlJVUItOEJvdDNBYlJZSWtRaHVhNmNSRFBja3YwdF9CREJGMUwzTWdfQU9vbkw3Y3BPUnB1QjZaazdTcjRPeUNWVlUxTkgydURTNkpTdk1UMUNEN19fcFJUemZSanNNQzlPajBrdE80Yld0TTBsNlhNSnFLSUVaTXBHcGVqZ0NQaW45cEZTOG5YUmFISzF6bw?oc=5"
@@ -171,14 +191,14 @@
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXp1OWV3UWRtaHhRX2hlZVBpSXk1ZUllWlFqVjFKOXdNM0RwamJJOTZldjFDT3N4R2VsakpGbTRVbGFPdF9XTUIwb0Q3cWJMb0prbVdmZG5qdkNmYVp5VEw1eHpzYjcxZW42WEY0RXYxekhpUVdvclFfeXdWdHVYd3RFUE1YcXNOM2Z6VVhfMUlWTVhnSGttUGFMeDJJZGVxa2NyMVRkcFV2N0Vla0RSRUFBdE9qejk3NlU0YmNIQnU0bUxVVWRYWTJFdU1Dc3g2ZjdjMGZHQ3lmQdIB3wFBVV95cUxPWGlscHhpbWJTc1FOYkpBcUtTTFlTbzUyeGExb0llamFjdmZkakIwLXBDUVhySEdXdlR4Q1VEUDZQWjVvYmkyMDdoYzBiczFfVDlPeWR2d05jUTJaRHdZQkRQXzc0NHVrbnFhdTNhc0hoQ2IwQWNSLTNkTF9DV2ppQnRoNGkxekRFNG9adHlMSXRFSWZWSFVBVWFqem45VUE0QVloYjFlckNRN0oxZ3puWklHU0ljRXRCUFY5VGJPSVd5Z3RWd1dMS3h4d0QwV1EwYzZ6Z0JZQWdBSlZIaFk4?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar Board Exam 2027: BSEB extends Class 10, 12 form submission deadline; special registration ends on Oct 6 - Careers360. An education-related story. Covered by 4 outlets, including Careers360 and Jagran Josh."
+      "brief": "Bihar Board Exam 2027: BSEB extends Class 10, 12 form submission deadline; special registration ends on Oct 6 - Careers360. An education-related story. Covered by 3 outlets, including Careers360 and The Times of India."
     },
     {
       "id": "bihar-neet-ug-2026-round-3-counselling-begins-october-1-chec",
-      "headline": "Bihar NEET UG 2026 Round 3 Counselling Begins October 1; Check BCECEB UGMAC Schedule - Jagran Josh",
+      "headline": "Bihar NEET UG 2026 Round 3 Counselling Begins October 1; Check BCECEB UGMAC Schedule - Jagranjosh.com",
       "summary": "",
       "date": "2026-10-01",
       "topics": [
@@ -186,7 +206,7 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran Josh",
+          "outlet": "Jagranjosh.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUtQWi13VnBLT1dqbDZXUURfb3lHOVE5dVV5LVRGRHNCYVNvVVJpWFNQZmdyd3FJOEljNE9USzltOXlrMXI5VGRmNDhsZ1NnTTdpdXVnTkhJdldITE53RHR1NHl6QnNaWnMwM3JSOEdPZ1ZJSk9EX3NKZnBMNWRFWUlRSEI1UTM0Z1NrWm1wNzl2VWI1SlFfbjJRaHRKTnF1QzE0VF9QcFFGazBPd0p3ZWR0bENYMVNmdXlpY0Q3ONIBxgFBVV95cUxQTW5icEZOMllMczRDY09HMU5LMzJrbXFvSGIzeTJlTUZRTlJ1cFNScUxqSkFsVy1vSlJ2TURlblFfNjE3cjI4ZC1XYTA2MDgzYWtjOS1zRlpMWDVTSngxZzJnUmZ0TmJIRHhXV1pNUzJRVzg1UUgxZmVobUt5blgwMjZBQkREWkg1dDRmdzFLU2c4MllaS3ZZaVllUlR4VTd2YzFGeHZNZVVfTzRpTHZOeWxpaHVIbW0tck1Ick5BUDRjQ2ZfU2c?oc=5"
         },
@@ -199,12 +219,17 @@
           "outlet": "Shiksha.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUlo3cXQ2UnpNNEJXM1dXWk9ndDFlTzcwQlNicElUVXVQcnhnYWVheDd3NzQydk5JME05X2daTzZwNlJCckNKSnVpOEFhV18tU2Q4VFd1dFNOV2Q0eG14aVhnMnNmcm9QTmpMNURraG04UEExbER2S0dvTzZ1eFhrUnJMVFpfbHNQQ0NjRzRoMFZfaE0zTVNpUV9xcHpkem5xVDVIdDk3VF9KRWVHVlB2OG9ld1dOVVl5TUJYT3dDTXZYVE5vVHZDTDBfY19kOGdBcHd1eDVfeEN2TTA1R3I5QWJQcHhKQQ?oc=5"
+        },
+        {
+          "outlet": "medadmit.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenpGeV93RzdGT3M0aVJYNEpXU1hiU2lTelBKbWVqVk16SWdVQXE1Y01iMEpDWUI0Q0tWVFVnZmM5eTh4VUhkazd1T0YySnk3aVc5cWlhaWNIdUtpMDZIZnJnTW14cm4wb0NYeG1IYUF0QjRmTXpBOWtzOVFMM0dWZGg4NW9LSEQxSkxodXkzdDFKUzhSYTVv?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar NEET UG 2026 Round 3 Counselling Begins October 1; Check BCECEB UGMAC Schedule. An education-related story. Covered by 3 outlets, including Jagran Josh and PW."
+      "brief": "Bihar NEET UG 2026 Round 3 Counselling Begins October 1; Check BCECEB UGMAC Schedule. An education-related story. Covered by 4 outlets, including Jagranjosh.com and PW."
     },
     {
       "id": "7-video-dainik-bhaskar",
@@ -235,6 +260,31 @@
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
       "brief": "पटना में दिनदहाड़े 7 लाख की सोने की चेन झपटी,VIDEO: कुर्जी मोड़ पर पीछे बैठी लड़की ने की छिनतई, युवक चला रह... इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।"
+    },
+    {
+      "id": "30-no-entry-jagran",
+      "headline": "30 दिन तक इस रोड पर No Entry: फतुहा-दनियावां मार्ग बंद, पटना से बिहारशरीफ-नवादा निकलने से पहले जान लें नया रूट - Jagran",
+      "summary": "",
+      "date": "2026-10-01",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHJKUkhlc2d2X1MzejVFOVBBM2pxTkt0bzVZclY3eHV6TVRPM05WQ18wcG4wYU1kTFB0OU9RSHRwTFVnam91Vms4dlhQbmNBVkE4R1BDemU2YWRGNUJuWl9YN2NUWXQ3eGY5bnRLSjJ0Yjdza1RfQ3FJNk9wOEVRUTZBWWVNd0RXeVBvMC1BOEV3Y1pDaV9Vd09NRUwzdm4zelJEQU5UYnpvREV5UmxweGlmQXVKeDlILUFXd3gwRmJDOVk?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR3hYU1R0T0hYWWhqeGF6ejBKNm1mRG9NRXBMZjhQbUFBWFlTMWh0bWJhdnItb3dENFQ4c2Rudi1UaHlSQzA2TkNPeFM1cnN2R1NQcDI4VzJkalpfUWxieW40eFNYZmpBaGM0T253ODI2NzkxZzF3blBONXpOU192eUxLaDNaSW1hNU9EUDJEWEt6dXFFcTV4ZGk5cUdsNWRSX3RSZF9qRWtEUDNlTTRxYkpNWmQ4QWFsSXhjcXN3UERCRHRWbVlxNnFRa3c?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "30 दिन तक इस रोड पर No Entry: फतुहा-दनियावां मार्ग बंद, पटना से बिहारशरीफ-नवादा निकलने से पहले जान लें नया रूट। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।"
     },
     {
       "id": "cabinet-clears-green-hydrogen-policy-sanctions-rs-62-cr-for-",
@@ -357,33 +407,8 @@
       "brief": "Video | Bihar Harassment. Covered by NDTV and The Hindu."
     },
     {
-      "id": "gandak-river-embankments-breach-at-two-places-in-bihar-s-gop",
-      "headline": "Gandak river embankments breach at two places in Bihar's Gopalganj, Saran districts - The New Indian Express",
-      "summary": "",
-      "date": "2026-09-30",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQlltT0tLT0xUZ2dXdllPMW0yMkpHeDlSb1JlbEs2Nk5rYVFYWklsTlFQaDVNNW1iVURZQ1V4Q1hpTnc2VGszeDRVQk8tOVFTRHBjV1R6cVhFQUxhc3JTZndzTGNWU18yb3V1c0t0TVJiX05KT1RlNzdmZ3pyT1FrN3E4ay1YVlRCLVJVZDdwWXNXNVVXRzF0YWoxdkdiOXRpell2X3ZXdktSQW54ZzRoeFhZcllyRXBpWkhoZFBKMEc3MHlVVFlVTXVvTUtFZzM4a3ZYZTBR0gHjAUFVX3lxTE5jME56T2RseGVpd0Y2U2RJUld0Yl9FZjdTbGZ6dHF4dUZzdHBzbElXaVFSMFVDR3pPWkZxVkVmMGlZay1kdEV4bHNCVDl0cEczMWR3cXBsWU9QYkJiTGpRXzVpYmY5eGNLUnhpbEUzQkpBVGxXU2dFODFHVXVQLXRZcGxaTk81TUNRQzg0Y3NMWjlyX052bDdQZ2pkWW5ReEtZcmM2aGNjQ0RCUzJlN2N2Wk5CM1ByUWowZFhsWHVsdVVsZUZpTEZfUExMa3NNbmRoclhleEhkR1B6N3ZPckwwM0NN?oc=5"
-        },
-        {
-          "outlet": "Pioneer Daily",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3hESFF6Y2lHTFVMbkFIemJXVEk2dWlRX2RfbERIdXZxZEN0Znhuc3NZN2szQmRnbU84TjFtWUJydzJqTmpVMnVISkpHWGV4dFM0RVRlWEhidFh2WVl2aHNpM0xPRlBxTUZtYW53WDdOeFhzMWxKMUkzY1hZVndBM1BB?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Gandak river embankments breach at two places in Bihar's Gopalganj, Saran districts. A civic-infrastructure story. Covered by The New Indian Express and Pioneer Daily."
-    },
-    {
       "id": "bihar-bureaucrat-couple-s-premises-searched-vigilance-uncove",
-      "headline": "Bihar bureaucrat couple’s premises searched, Vigilance uncovers Rs 80 lakh, 48 watches - indianexpress.com",
+      "headline": "Bihar bureaucrat couple’s premises searched, Vigilance uncovers Rs 80 lakh, 48 watches - The Indian Express",
       "summary": "",
       "date": "2026-09-30",
       "topics": [
@@ -391,7 +416,7 @@
       ],
       "sources": [
         {
-          "outlet": "indianexpress.com",
+          "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2w3TVh3Y0xLMGFYcldfZXhuQ2xGTGM4VnZIQ3dGY2VURHRPWFVGUlJTZnE5QnRVeHNZUmFhbXN5WHRGZmRxbWE0ajVENTNRdnJET25SRzJoRnZ0SExEQVJ3aTc3R003U0M5ZTVHZzJQem9FZndGMEh5S1lndXZOSVd5eGxfY3hmc0xrMF9HOWlKNkJld0lVVHBDa9IBogFBVV95cUxQbnpNaGs5cjVqbmxqYUFPR2dzX3BEaThqZm5xSUhwYTFzWEk3T3oxc3Ziekd6OHY5MExua2o5R1RlNEh5QzRMSk9hZ1R2Y1FKelVjcHJjcWxHdmh2WWlWX3pOVkdPVE43NmF5V3ZtQkdoWmlvVnNTQVhWd1FOSk80clpMQjNSLXRiRHExQ0I0ekxxOWd3a3YtUkNuWFdrclo5VEE?oc=5"
         },
@@ -404,7 +429,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar bureaucrat couple’s premises searched, Vigilance uncovers Rs 80 lakh, 48 watches - indianexpress.com. An economy-related story. Covered by indianexpress.com and Telangana Today."
+      "brief": "Bihar bureaucrat couple’s premises searched, Vigilance uncovers Rs 80 lakh, 48 watches. An economy-related story. Covered by The Indian Express and Telangana Today."
     },
     {
       "id": "another-bihar-shocker-after-jamui-banka-minors-abused-assaul",
@@ -466,20 +491,45 @@
       ],
       "sources": [
         {
-          "outlet": "prabhatkhabar.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSl9vcmdnejdGYldfcEh5bzNqNEpLeS12ME1wTExOOXM3b0w3SXdTZ1VZMGw0b3VaUk9BN0pmNUZkNjhySTc2SGN3eWlLdy1FNmJTdlUtUWxOV0Q4VTZuWlpPX1Y5NGgzWVZ5ODRpVGtQUk9uWjlJaDY1d0ZWSXVNcEpvRlJyOWlCM2tvaWNfWVVaQ0NDdHRmX3lLVFlvQkN2NEFRTDVpWThZX0ow?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm9ZWDI3WlI4NG1xVENOdDNUdG9ZUzl3cGFEcGg5QWZMYlpvQUMzMjEyLVA4VXB1dVY2WWVudHIzOU9KYmpTS195eEpxVW11ZUtFN19BdzBtd0k2d1lrOEpPNHNSeDNyR0NFa0x0dDIwMVNFdmtyNThYM29pUGgyaXNRNWdVeklMQmtOaWRhWVZZYlpKUkRZY3A1Z2I5Q1paZ1NBSDlBZmdJUE9MX3c?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSl9vcmdnejdGYldfcEh5bzNqNEpLeS12ME1wTExOOXM3b0w3SXdTZ1VZMGw0b3VaUk9BN0pmNUZkNjhySTc2SGN3eWlLdy1FNmJTdlUtUWxOV0Q4VTZuWlpPX1Y5NGgzWVZ5ODRpVGtQUk9uWjlJaDY1d0ZWSXVNcEpvRlJyOWlCM2tvaWNfWVVaQ0NDdHRmX3lLVFlvQkN2NEFRTDVpWThZX0ow?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना में गंगा का कहर: भद्रघाट से कंगनघाट तक पानी ही पानी, सड़कों पर लगाई गई बैरिकेडिंग। इसे prabhatkhabar.com और Jagran ने रिपोर्ट किया है।"
+      "brief": "पटना में गंगा का कहर: भद्रघाट से कंगनघाट तक पानी ही पानी, सड़कों पर लगाई गई बैरिकेडिंग। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।"
+    },
+    {
+      "id": "adm-1cr-3-48-dainik-bhaskar",
+      "headline": "पटना ADM-सब रजिस्ट्रार पत्नी के ठिकानों पर विजिलेंस की रेड: 1cr से अधिक कैश-3 करोड़ की प्रॉपर्टी मिली, 48 मह... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-09-30",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Aaj Tak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTNNMHFlTDhsR3BiVEJpeERWVzZIR01QcVd2T3k3Sm9WWW1JWGVUZ2JRdWpYaHpsYzNKc2hDSkQ3TzI1cjAxdzBnWldRb09icG03bXRBQ0tfSER4ZGpNc0xMcTR4VUxmZDl3cDVzTDFzZVMwd05Jb1pWaHZ4b1BjTlNYaE9TQ1ZvVHJrRmRlSzZ4RXVxQ3ZVbGhKUGkyMjFTNDJjano0b3NrNUtER1VZN3V2Sy1Ja2FCWlBkRTBETmRZUi0yUjNWRWZ6WjdvUUhNVThDWk53ZHHSAd4BQVVfeXFMT2Ywem5ITGxwOGdjVDBSLXRIRHFiTzBmdXhRU3F3OGF0NUhNczR0eFZ4R0EtVlJWY0NVUHZKNTBNd2hQUVMzMjRoVlVEd25EZGUwRVJhY1padG1PZkdwZkxORmlYeHV3anlpZHEtRGpSVjZLN081TUQyZXFIb0hkXzU5bmJheXkyek54WlhpMWhucmdnUm9yTmJNSnMxdnZ4MUpBTFEzRzN1R3hGX0tJT3Byb25VbTdvOGVqWXcweDJmSDNWY1M5WXprZlBQbWZSOXU3UEt1TkMwTlByMFhR?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmp4dFRmaTEzZDdFNHdIYzU5ZVcyVUhESEZUUGxyQTE0d3R6ai04VEREeHdzdmxpeG1IQWlaZ0Y4Q3ViS0J5SHMwdnpkMW1tTnN4YzhvYTc0MGVqdFVCTWNWdUJNcWRYVHliVzhYc2hpU2ZTcU5VaU9iVllLQzhIX0hydUhpM2Ewby1mQjZRWUFacHNRUkZ3SXlQLUxhNFRlbUtlSE9NVExsNnJQcnI2UmZBWGZTQjRBd09DbTluY1ZzUlA5NEHSAcsBQVVfeXFMT1F3bm1QZUc3eXl6dDZiWTNhX1F0UlJhUzlrNWJwUTRnRjJKdWlsZHVxbDFaaXJCVGFUN2Nfa196QmNia1Y5NGlCQ2puVnR0eFZiVUJ4OFRUTnA3WFdNelRWNll0ek5nbEU4QVRkaVNicWJtQkxfdWtRMVp6cGdvd252aXp5bkFHakJJQ2xuUlpwSUlMMmNOQ2llb0RNaDJ0elFyUUxQT1ZYLTBMVHlNdXZJOVMtYU9zRVJVSU1wYjMyblZNREktTmg3NTQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना ADM-सब रजिस्ट्रार पत्नी के ठिकानों पर विजिलेंस की रेड: 1cr से अधिक कैश-3 करोड़ की प्रॉपर्टी मिली, 48 मह... इसे Aaj Tak और Dainik Bhaskar ने रिपोर्ट किया है।"
     },
     {
       "id": "man-from-bihar-detained-for-questioning-near-international-b",
