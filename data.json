@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01 22:35 UTC",
-  "generated_at_ist": "02 Oct 2026, 04:05 AM IST",
-  "story_count": 50,
+  "generated_at": "2026-10-01 23:35 UTC",
+  "generated_at_ist": "02 Oct 2026, 05:05 AM IST",
+  "story_count": 51,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -337,17 +337,12 @@
           "outlet": "ETV Bharat",
           "type": "news",
           "url": "https://www.etvbharat.com/en/state/probe-launched-after-foreign-nationals-obtain-passports-using-bihar-address-enn26093002629"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYk54aTlZQmQtVDFMYUQzOGQxX1Ewd2RkTk5jeU0xQktuQmxlZndIaHdTdU5XX0xybmtobi1WLVhkM3ppNmw1R0QyYzdtNFQ3Q2hYTUR5RkR5U1BKUkJYQzJtYkU1ejYtUmVBVXpzcU51WHFMb3d1Q2tHZW9saFBQMENQVzc1RjVsNXZUbVhrdXFfWTNtM1B0WEpmZk50ank3eXfSAa8BQVVfeXFMTWs2TUFUWTg0S0RBQnhuUWdFc2pxZm90T3JLWkxwaHNKckhObTJYdWtZQWtqMzJqTnhHc0JnOFJERjFoTzFleE9fanlpQl9KdlNMcFM2cVZLSmFuR3RTTFZwVTE2SW5BRHdFVDBEdkVVQkhCVkJNVE5tN2NNTWZqZmNNWnMyMUdSVGlacFRPWVFWRklwVE84Ry0wQk9zMjZ1MXptVGoyMkg5ek11dTBNVQ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "31 Afghan nationals obtained Indian passports using Bihar addresses, MHA alerts state police. A crime-related story. Covered by 3 outlets, including New Indian Express and ETV Bharat."
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "31 Afghan nationals obtained Indian passports using Bihar addresses, MHA alerts state police. A crime-related story. Covered by New Indian Express and ETV Bharat."
     },
     {
       "id": "vigilance-raids-patna-adm-supply-ravindra-kumar-diwakar-and-",
@@ -439,34 +434,34 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEJhYm1JWU1TcnJrN1ZyYWlLTGUyZjktQ2d1dkRVcVV6LXN5VEt6NDQxZm5lOXdaZ3l4U29JRldRbXExZWxscmp1a1BCQXVVYUlqUFJUQkVmVXF1RkZ2ZldKcTd5QVhEOGpYYnlCenNCY0hKVjQ5V2ZpaWx4RlR2ZDZhUUVSSklaMGRkUUUxSXo1cC10aUFaakxTRVRIWnJsQlVFcGk5MFNsWC1QUWliSFBrbS04NTl2d3liUndEVnJrNXpiT01SUGNNb1pBVWozN2x4SGJGQXAzQUZkVS1LWG5PdUhjSXJu0gHuAUFVX3lxTFBNZ2N1aFJFNnZzVXM0bjNUSFRuODBVQjFtV3dpMHBwRHZSXy1vdklOMkg5LUFPcmJ6WGpESmpUS2NzSk5jSmFQMTFXcVpYd2c0SDJza3QzVF9XblBPZ0FaVWpVT3phNDhEVklaWGN2ZFhZbTc0ZmZqOFd2c0JXUHJtRkJnVUxialBqeWlURmZXcW1QMkhUdGlhRF9IS3JZcEg4OHFZLWN5c0F2X3dGU2Y0Z0k2bmtuX2RzQlUzSzA0NHhmbV9WN0pPb0xzaXpSM2ZYNGVaTWhZNV9HNHhnQWhXeFdFdmxlbEs2dGVWdEE?oc=5"
         },
         {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYjhocHBMSkdPTXE0bU4yMUNsQXRtRU1WRFM1ZXBIX2pLaVlSbENuLXR1UkdTQ1RPbEptekVvV2hRVzFna3h5cjZRV1RQVUNEb3k4Y1lOTVM5LXdldlhOdVpqb0tOdG54eXdNTFhrVXN0cS16bWM5cHlSaVJIbmt2bmg2dDRNbXBEOTBNU3dvSlRzOTdtdGo2Tm1NTkF5aUhWMEN1dzZ4UFlwUUlELTZXR2JpMWJVa2RHZlMtTGRwdjdPTS11bTRhTXdBdzNSTTNMT2lWZS02TQ?oc=5"
-        },
-        {
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlBRVVJhczBXb3RvQ0EtVTIxbmctT0h5MVFrODZhampmeWZCQ3lGX290dGl0SEdDSUVLVmRXOHJOeGlXT1lhUnNlYlA1bktiaG5OR1JIdVFpa0lrTUw2TlpaWlluenpMMUxDSDh1Y1ctTlNMbGZ5ODlhTWRxbldIeE81NU9JRGNrSUpyN1RaVXc0OHI2alVtSmZQSXI5MTkyOURzNWVxQjFlV2luY0l4YmUzaDVkVGhGdUpvYjJObU9HNkRXSGJqN0dWX1ZqM3F2Zlp1bFloUENrMXZTZUNjRVFsYUhicE8wRzFqWWhPWHpESHR3OW5nSdIB_wFBVV95cUxNOU1FVmpaQTk3RkY4UFNYcHVKSUIteG5RQkFFZ0NTM3NaN3RETl9IWXJzOWpUUHRITkJYX0FZeXN4Ykt2OXI5djdoOVF4V3kzTkpVYmJoMzg2SklkMERXWEFicGFyZGVWUlF5V2JtNVFndEhyNWdNWGpyT21NZDc2UlVsTHlKQ1BSTDRaUkZBb3pLMVhJZi0tU2sxeTlaeUZrZVBKNk8waGE0NWNvS05QM25yQVdOYzg5NGNyX01pUUNad3l6bnhOQVJFUUo4cVFxbDRQU29rQUtVVWNUN1NPamEzLUZidVVDMFc4TG1iY2pwRlZYcHJwY1dPSEhjLTQ?oc=5"
         },
         {
-          "outlet": "The New Indian Express",
+          "outlet": "Deccan Herald",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSndqOFJyYVdjQ3d4bm5aMVlSc2ltdm96bFJmdE11czgyUFV2VzZsRlpMUTJ4RUlzT2EwZGEwdFFjWHpRcDZVemlmYXZGM1pMZmlOV1Rnb3p2ZWRESTU1TzlYN3VId2xleE9yZkhVOXNqMTFubnhsNkNWdnJVclBkNnVKLXl6OEdXNEpsaUZrUlhaNU5ocVgxNVdXUG9BZmItaWlWdVN5V1pidUpYVGQzMWV0SHd3Y2YxeE53eS1rVks5MG1abGFRTEFmQkNlN2x2eHlr0gHgAUFVX3lxTE9qajBrRDZPR256bS1HUGNabXBuVUpGcVVQV2t0SUlSQkRfeFNfTnF6LVhOTXJRdzBpMXlJUUZuQV9jbXp6ZVhoQUxzMG1mNG1YS3J4WjVaZ1hQbHFLOFA0cjgyVzc3MFBVSFRuZURzZ2V3T1hBSldfZzRjQmw0RzM1Q3lmTlh0R01SRU8zbVBSeFQxek9DSXVwdnlQQ0dDV3o0dTZBZzl6NGpXNmFsN203LVpwYWM1YnVRN0k3YU13czZ5SGFsRDRUN2FYMjR5LWR2QU5TNWhISWFpN3I3dFht?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYjhocHBMSkdPTXE0bU4yMUNsQXRtRU1WRFM1ZXBIX2pLaVlSbENuLXR1UkdTQ1RPbEptekVvV2hRVzFna3h5cjZRV1RQVUNEb3k4Y1lOTVM5LXdldlhOdVpqb0tOdG54eXdNTFhrVXN0cS16bWM5cHlSaVJIbmt2bmg2dDRNbXBEOTBNU3dvSlRzOTdtdGo2Tm1NTkF5aUhWMEN1dzZ4UFlwUUlELTZXR2JpMWJVa2RHZlMtTGRwdjdPTS11bTRhTXdBdzNSTTNMT2lWZS02TQ?oc=5"
         },
         {
           "outlet": "Deccan Herald",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdFJYVkk0Tms2NWxOVVduMV94Qm5Ub0doWDRSTXJqME0xUVZUbkt6ZjNLaTRvS2JBNFZfSGdYMkhuZzdvTkRSWkZrbTZwcVdBcU96aEhsRWhlOXpLb3ExUVNpUi1qRnVVY0hrQ2VNOVlEc3dMbkJaUnh1VUJfX3N1T0FFQ0w1aVoteEdnMnpLLU1OcF9aeWdaU196MEZtenhUWWxERlZzV3NKcGtzN092a0xOYWtabEp3aVl0UW43ZXYxRFJuWk51RzhKSnpYelhNUUZzMFdnZ1lUREk?oc=5"
+        },
+        {
+          "outlet": "newindianexpress.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSndqOFJyYVdjQ3d4bm5aMVlSc2ltdm96bFJmdE11czgyUFV2VzZsRlpMUTJ4RUlzT2EwZGEwdFFjWHpRcDZVemlmYXZGM1pMZmlOV1Rnb3p2ZWRESTU1TzlYN3VId2xleE9yZkhVOXNqMTFubnhsNkNWdnJVclBkNnVKLXl6OEdXNEpsaUZrUlhaNU5ocVgxNVdXUG9BZmItaWlWdVN5V1pidUpYVGQzMWV0SHd3Y2YxeE53eS1rVks5MG1abGFRTEFmQkNlN2x2eHlr0gHgAUFVX3lxTE9qajBrRDZPR256bS1HUGNabXBuVUpGcVVQV2t0SUlSQkRfeFNfTnF6LVhOTXJRdzBpMXlJUUZuQV9jbXp6ZVhoQUxzMG1mNG1YS3J4WjVaZ1hQbHFLOFA0cjgyVzc3MFBVSFRuZURzZ2V3T1hBSldfZzRjQmw0RzM1Q3lmTlh0R01SRU8zbVBSeFQxek9DSXVwdnlQQ0dDV3o0dTZBZzl6NGpXNmFsN203LVpwYWM1YnVRN0k3YU13czZ5SGFsRDRUN2FYMjR5LWR2QU5TNWhISWFpN3I3dFht?oc=5"
         }
       ],
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar MLC polls: JD(U)’s Anant Singh raises eyebrows by accompanying Jan Suraaj candidate for nomination. A politics-related story. Covered by 4 outlets, including India TV News and Deccan Herald."
+      "brief": "Bihar MLC polls: JD(U)’s Anant Singh raises eyebrows by accompanying Jan Suraaj candidate for nomination. A politics-related story. Covered by 4 outlets, including India TV News and The Hindu."
     },
     {
-      "id": "vinay-kumar-leads-race-to-succeed-deepak-kumar-in-bihar-cmo-",
-      "headline": "Vinay Kumar Leads Race to Succeed Deepak Kumar in Bihar CMO - Legend Officers",
+      "id": "deepak-kumar-moves-out-of-bihar-cmo-gets-bsdma-vc-post-legen",
+      "headline": "Deepak Kumar Moves Out of Bihar CMO, Gets BSDMA VC Post - Legend Officers",
       "summary": "",
       "date": "2026-10-01",
       "topics": [
@@ -487,17 +482,63 @@
           "outlet": "Legend Officers",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTI4UE8yTGxFMFlnS3plWGZ6QkJQTUFzS0o4ZmZXLWhUR3dfdzlfLUpHaXJnc1h4akQxbjJnMUZFNUZyLWN6ZWpDVUVwbnhWc1V6cGp2bDROTkpGSy00WktybVgzNm1TbEFOa2ZDN3k0N1E2eHBqWFJrX1dHazBzM0VKVFN1dVpreFc3TXRHQmFRbXo3YlYySw?oc=5"
-        },
-        {
-          "outlet": "Legend Officers",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUFpUNkJ5QV9RY3kwUlVpQXN2alRWZ3RYX28yTFYzSWFrY1pLSkdhUHJOTV8yVTFsdUtDa1l3ZWJLVTkwLXRVVVBfS3hlYTMySHotR1M1X21pcndBa3hjRzVmbUxaNWZYSnJJ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Vinay Kumar Leads Race to Succeed Deepak Kumar in Bihar CMO. Covered by The Times of India and Legend Officers."
+      "brief": "Deepak Kumar Moves Out of Bihar CMO, Gets BSDMA VC Post. Covered by The Times of India and Legend Officers."
+    },
+    {
+      "id": "bihar-gandak-remains-above-highest-flood-level-at-several-bi",
+      "headline": "Bihar: Gandak remains above highest flood level at several Bihar locations, IAF help sought - ThePrint",
+      "summary": "",
+      "date": "2026-10-01",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0dLRENaNjNSeXpCNnVXUjdqOFkxRzFyMGktcDJ6amlCb0FkSHVaUmdROVhjUXVLeVhlWU9NNVBSS0ZPMGdEdE5NOGpZWXliRjlscFFfQTZFWWl3ZlRNWEd2QVp4TFBySEpWaUFoT2hWRjdtRTlCWnJySmdCRndmUUVYSFc0ZFgwNEZvNE1sS0owYzMxYlZJYjZXSWVkM01DQmxpYXJiY1drQkFWTUxWWk5sX2RJMEM0YUtfaXN5czNxUdIBxwFBVV95cUxONlZHLTVwOUlVdUxMdm1tME9CNjVTSnNYel9sVEJla0JBR1Nzc3hTcXZtdjg2cGhtaUNhbGYxQU5ZcGhUNy1SV2M3UWl0R3dsazF3QmlTYUF0SFFHbV9vd3R3Y0JFaHdmdGhMN3Nrb09sazhlbEpYZkwyRUtIZEUzMDhYcWcyNV9XSFdLbWdFTWVjRlh1SURxNUpUYUctUDFyMjhHVmhIejRsZEpZcE9pM3pCd0pFZU9KTDhyUTZZR3VTZVpobXcw?oc=5"
+        },
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUY1ckU0VGJrX3dCSnA0djE3VFVtekdqYWVlMXNDcW55M2JSLTZabTRmMFRwRUFnSzMzSzFPTjdEeDdiZV9SZGhXWEl3RUhIUnZZT28zaE4xVHJJeHZNNlNveVNaclZ5WmRaOXJmaUdMRGozQjlwZ1NyRGRzb195anlXeEdxUE51WHktV1d6eWRYRFVkUEU5WXpCSEd3MTlMd1NYcNIBqgFBVV95cUxOM2VyYlNpZkNWN1hPYmxhVXppSEZZTVA2RkRwQ25TRFpvVG5rYXpUZnFKSkFvWEM1TjJXYlp1Sm82WXZkWk9RNWEzejRJeTUweTE5SUI3YVE2RV9Gd1NZSnpjc2VacHRrNVlwRV9mMHg4NURRdWlTTm1zMURUdXRZQndnN1FCR2NQOXdVTTdMdDVKYllWWnZxNGowUEFCa1h6cERvdHVjVVRnQQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar: Gandak remains above highest flood level at several Bihar locations, IAF help sought. A civic-infrastructure story. Covered by ThePrint and News18."
+    },
+    {
+      "id": "union-minister-gadkari-pitches-water-grid-river-dredging-to-",
+      "headline": "Union minister Gadkari pitches water grid, river dredging to make Bihar flood-free - dailyexcelsior.com",
+      "summary": "",
+      "date": "2026-10-01",
+      "topics": [
+        "politics",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVdCSEg1d0M0MzRjM2wxR1JUaEl4cDZ0SU9KLTBlRUl6TlhkMEhzREswWUo1RXhMNWJoX1pXc0pzTUlyWXFZR2xpdUkzdjNmRmZ1aWk1NHllOVZFbDhOaDh0WmYzY2pCRTM0cnlMTnJuVngtODFsRGNNUTlzSDg0UjBuZ2NJejVrNk1fS0p6cVU0d0lQTFFOSTBQdGE0LXFpSDZXekhWQ3E4N3k2T25tajZTWlV4YzjSAbwBQVVfeXFMTjlGenpibmRVMGlFUW1Dc1NROU1aMU1wM1RpRC1Gd1F3Rk01V0RUM29uSkYzNnpPN2RIaE41aGp5VFZRZHRYc1N0a05ibkNMdEJsS3BSalpmNkM5RkhTeEVMZzAwQ0pCdGhmQktZdlAwcXZOalpaWVZWb3AxZ01hSW41bi1waXhYT2FLTVl1OGExVDNzWVZlYnhNb2FqMUVvLUtQRUdmd3RlRkl6UFI0TVFmY1hmNVUxblV5OUI?oc=5"
+        },
+        {
+          "outlet": "dailyexcelsior.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZndFeHd5cDdWTHZMZ3VXZVV4aVgwTFkwcEVEWkVueXhOem0tenRXMlIyYTBOMXdhVXVPYmM3bmNQR2lBRWZMekxzUXEyTUYzSnV3aUxiLTF3MHFBNzYtV0NtZHVNVDl2YklWTUE0eG1wZ3Myd01tQ1lwc01MNVpfWGp2bzhtUmVlVDVxSk9WMDJrMlR3N0xUS3Z2blFQeEMyZVhHNW5QYWFvVVAwS01ZX3BOUdIBtwFBVV95cUxQcVMwTHFZTGhXZGNha3FXSFBVc0ozRFlmRE1XNDJrdVBtTG5aVVFKcFlpN0VpbHNKdmpneU9mTElsdE1SZWxCSEZSODFuMXlXc2YxWmVybmllRjRVNDFDM1BRcFhDdkNaQ21IWnR0YVdsQWc4ZWd3WFJYMDg0ekZVSjNOcWFmc2N2dVIyaHlRT1Y0cXlObmFxcUVObjNlU0tBZTE2NnRTWmNjUmZ2QXVHNmRnaGVsY0E?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Union minister Gadkari pitches water grid, river dredging to make Bihar flood-free - dailyexcelsior.com. A politics-related story. Covered by ThePrint and dailyexcelsior.com."
     },
     {
       "id": "delhi-hc-refuses-to-suspend-conviction-of-bihar-bjp-mla-raju",
@@ -510,7 +551,7 @@
       ],
       "sources": [
         {
-          "outlet": "livelaw.in",
+          "outlet": "Live Law",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWmhEXzU0UThxZTFzSW1LMGhyQXZTUVhZeDEwQ24zdkc2VEJ2VkJKQUxiQkhlQm8xUVk1Tnl0NXFlZVNJWDVUcjRGeExWaGN0WUJKSWhvZ1BqaUdCbmFSb09UaVNQaGJOU2FwclJDU2dQeEl2ZWU3anBIcTk2YlNESU1rWV9hYzNzTzJKY0xEMlUyczc4UHozTHJEWGJ1SE52Zkc0NWRPdVlucU9vX0NwYzZST203RDA4UmMtWTRIcEh4cFJuLTlxelJYZ0gyWEwxU2RBMXVhMWY4UTQ2cGRtb3MxaTZ2Ql9XREFTTktTcWR2X3NCZVNV0gH8AUFVX3lxTE41V0htTndhYUhKR0xYQnVhR000cE5xQW9YcUZ2b3BEQ0JJeldTZWthY0NZMmtMQW9zSDU2ZnpNVGhQZE5VX1Vuc1J6WGRzcXFibHZCb3NOTkFiUmpIWTJKcDZNb2xyR2FJaExoQkhzZVZ5UzFRTVdBTHZJLWpuSllCRnY0SmV6b1V1ZHg0UC1ESVVWRWlDdTRNdW9aX1dRMk4td2N2dmwyLUpNMUdCamQ0OHFBSkxqQlJCTTA5enFZYkQ3ZXFpbl92aUhManJ4YkV1T2otWmtZTXdpWDBBUFloVlFvMzlTb1ZQWG9VTVhXWExkM045Wl82Z3dnZw?oc=5"
         },
@@ -533,7 +574,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Delhi HC refuses to suspend conviction of Bihar BJP MLA Raju Kumar Singh in 2018 celebratory firing case. A politics-related story. Covered by 4 outlets, including livelaw.in and ThePrint."
+      "brief": "Delhi HC refuses to suspend conviction of Bihar BJP MLA Raju Kumar Singh in 2018 celebratory firing case. A politics-related story. Covered by 4 outlets, including Live Law and ThePrint."
     },
     {
       "id": "bihar-neet-ug-counselling-2026-ugmac-round-3-registration-be",
@@ -555,45 +596,20 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzNzS3NER2IxYjVWQlp3dHd3cDhjcGFCQlVYR1EyM2E4anVkS2ZxYjJCM3gyV2tkbEp5c1NFZ1pkY1l2WEpaT1ZKVDJLek9NUDNlQnAySkt0U2tmMjJxR3BlNzZXT05wcUR1TFNfSUJWckpGR1ptam1kbTBDRkVZQUxBeHJndWNmZmU2ZGNSY0ZycXNia2VHbDUxVVNWbHVYcUcyWWR3QkdtMDNpaDFTZ1FzREdnTFJOWHfSAcIBQVVfeXFMT1FWelRHR1BGcjJ5RUZVanBucjdNZnBRcHozcG9HT0drWnlfNVdDR1k1azhMbzRvU3RlZXdGUm5vc2ViWnFKcTYwYmdlcG83NndONldmejFQVnpDX2hGWGNyTmlramFyTVc4V2dlT0RDLUxzcGg3RDZRbC1UOGMtTl9PbXdHTVM0SWNkM0NYeHJBdzdPamNoWjhod1RLdTk2SnIxTU5XTXJYQmo1VnpQR1M2WmVRQUpnLTI1NjFOay04cXc?oc=5"
         },
         {
-          "outlet": "bestcolleges.indiatoday.in",
+          "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRlpSZ1dCUmpUdXp0YTZzU0Q4dXkxOWdhMlA0Rkg2VjFMcDY3UmhHV0U3T3haTk02bHlxQk8wY1BFYmg4bDVTdmVEVXNGUnZBUGdHYTd3d0l1QWFIbXNuVXhzNWt6eEJhWWwxS2VoZFNVdXBlcm9LeUVkd3haNEx2NW9FemlFZDZ2aW91RjdtSFZYQWNoeG1wVTktYzhKQ2M3SHhXdnJVSm8xRlFFUzJ4VHVCTUE0Ny04cFMtUkV0dDZYRUNNdDhIa3FtdE0?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar NEET UG Counselling 2026: UGMAC Round 3 Registration Begins October 3, Check Schedule. An education-related story. Covered by 3 outlets, including Telegraph India and NDTV."
-    },
-    {
-      "id": "nearly-a-year-after-family-feud-lalu-s-daughter-rohini-achar",
-      "headline": "Nearly a year after family feud, Lalu's daughter Rohini Acharya returns to Bihar - The New Indian Express",
-      "summary": "",
-      "date": "2026-10-01",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMUlTMndKOUxOVTJ0Y1A3UW1zT0p4VmlTX3F5N2ZNZG5iTHFRaFdDYWlJanVNZ05FeTJIWmNfd2VBeENyU0dfc0pBZTRwZmtUd2xETlBJZnRhOFZhUUlURGhmSWNYeEI2ZHIzOEVTQkI1bmt1dmVfV281Smh3Zi1QQTVmOXdYYlNfRW02QVJsNmhTOFJaRVV2SWlMYU9jSnNtaXN4aTVZNlpnU2ZFYUtTR0hkMHFReXduRENKWHhvTU5IRThfYWstR2xrLVBMdndkSlHSAd8BQVVfeXFMTm9QQllYQUxpLURsRHBtZGtvMFlqcmJvaGt0QUJERjVzalRKVWhENHloQk9PUG53ajAwdTNzb1dyV3VJZzhVRU1nUjNXbFpVaEpTZExzdjhQV3huVFVxYXIzcU1zbUxUbElPZWRRY0t2Y29UMEFaOWxyX1djdGpmLU1Jdm05Z0ZUVHRhQjdrRGYwTE5OQjRIVmpLenFBZ1YtQ1ZETjZHVWVKMUIyWE1LWXkxV1J4WDF1bXlYOG5Va1RmRzBwSzVObUZCUkN6Nml1SkNOZEVDeE5DUG03ekU1TQ?oc=5"
         },
         {
-          "outlet": "ThePrint",
+          "outlet": "PW",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMC1XWDhfQmJCZlFMV0xTcE9LRi1zd21DZlZCdWliWGN1X3Q1U0lRUV9xeHd5SS10eFk0b2c3MnEwa21BbU53MlBid2tDTUhCdWYzaDNKa1dEb19BUGkwOWs5TWU1dlYtUnNiMnBha19FRm9aU256bmpGVVd1MkVoajlzdzhOQTlBcHFDbVE0Q3hqb1NKaGhtcGQyQ1p4azNiX1BaOU9JZzN1eVhwUndQV2RzbDJjanE3ZjhCWHpQWTdyUnpuUENJ0gHMAUFVX3lxTE9pSnYwSThmVDRzM3NWMjQyUEtDdkNSNXdlNXpCT3hMY1padk1sd0hOX21XVmxXM0ZoQVBsNk1jaTNSVU5Qa0lzdkNjRXl6YWxCaHRtak5uQmxHZi1WZDRxckdMRzFWcXZOUmZncGs4dVhzb1VMLWlPTWhGLUpTaTlMNnh3MTkwVEFEZEx4S19BSjFwdjZOVmEtUmZTam9mdjFiQUhXa0hjQURYUnRYS0FjQnlXWUwxclZMdWFUSlBVRExITHVlbzl5cXBDMg?oc=5"
-        },
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV2FLS1dOdnFXRU1BYUs5OU4yVTV3NGlyN1RDVnZRSmxFdmRYaWJqQkFfa1hZS1VMeXo3UHh4QVVJVmVXWTdwZTV4clU5cExReEtTQThvVEY4RHFLNEZ2QkVnckxqd3pDYWlEVzZxZVl5SjMxZk5RbGw3R3RuekR0MGdId2U1U0tQWkxwVHNidmFmX0RhcU41ZDRIdHBpN3RwRzIwQXpDR1NLdG1NVHdSOV9KREhmRzlHUnIzZS1ydDJjRlYxWkNPcHNLM3BaSkxTampISXI4SHY0eE5XZ0JCZ2YyOS1FZldsVlVXTzMyakVKN2p4d3BWQnhrNWdHQ2M?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVVjNVRUcmlrekVTZE0tSHpDRXJDWXd1RVRESzNXeV8yZG9UdlJBOUFBdHMyU0J3RUI5bThqclpYam9ucDRXUlBXdVlPSE1nMWVmZXFwTTY0cHJOc09jUG5McGYxSXNjRHc1akFGRE9qQVV4cHo3am9VSC1GVDY2dg?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Nearly a year after family feud, Lalu's daughter Rohini Acharya returns to Bihar. A politics-related story. Covered by 3 outlets, including The New Indian Express and ThePrint."
+      "brief": "Bihar NEET UG Counselling 2026: UGMAC Round 3 Registration Begins October 3, Check Schedule. An education-related story. Covered by 4 outlets, including Telegraph India and NDTV."
     },
     {
       "id": "after-recent-protests-bihar-to-buy-30-water-cannons-86-anti-",
@@ -678,8 +694,33 @@
       "brief": "Bihar CM Samrat Chaudhary launches cleanliness drive under Seva Sankalp Abhiyan. Covered by Asianet Newsable and The News Mill."
     },
     {
-      "id": "bihar-gandak-remains-above-highest-flood-level-at-several-bi",
-      "headline": "Bihar: Gandak remains above highest flood level at several Bihar locations, IAF help sought - ThePrint",
+      "id": "lalu-prasad-s-daughter-rohini-acharya-returns-to-bihar-nearl",
+      "headline": "Lalu Prasad’s daughter Rohini Acharya returns to Bihar nearly year after fallout with Tejashwi - ThePrint",
+      "summary": "",
+      "date": "2026-10-01",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMC1XWDhfQmJCZlFMV0xTcE9LRi1zd21DZlZCdWliWGN1X3Q1U0lRUV9xeHd5SS10eFk0b2c3MnEwa21BbU53MlBid2tDTUhCdWYzaDNKa1dEb19BUGkwOWs5TWU1dlYtUnNiMnBha19FRm9aU256bmpGVVd1MkVoajlzdzhOQTlBcHFDbVE0Q3hqb1NKaGhtcGQyQ1p4azNiX1BaOU9JZzN1eVhwUndQV2RzbDJjanE3ZjhCWHpQWTdyUnpuUENJ0gHMAUFVX3lxTE9pSnYwSThmVDRzM3NWMjQyUEtDdkNSNXdlNXpCT3hMY1padk1sd0hOX21XVmxXM0ZoQVBsNk1jaTNSVU5Qa0lzdkNjRXl6YWxCaHRtak5uQmxHZi1WZDRxckdMRzFWcXZOUmZncGs4dVhzb1VMLWlPTWhGLUpTaTlMNnh3MTkwVEFEZEx4S19BSjFwdjZOVmEtUmZTam9mdjFiQUhXa0hjQURYUnRYS0FjQnlXWUwxclZMdWFUSlBVRExITHVlbzl5cXBDMg?oc=5"
+        },
+        {
+          "outlet": "rediff.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV2FLS1dOdnFXRU1BYUs5OU4yVTV3NGlyN1RDVnZRSmxFdmRYaWJqQkFfa1hZS1VMeXo3UHh4QVVJVmVXWTdwZTV4clU5cExReEtTQThvVEY4RHFLNEZ2QkVnckxqd3pDYWlEVzZxZVl5SjMxZk5RbGw3R3RuekR0MGdId2U1U0tQWkxwVHNidmFmX0RhcU41ZDRIdHBpN3RwRzIwQXpDR1NLdG1NVHdSOV9KREhmRzlHUnIzZS1ydDJjRlYxWkNPcHNLM3BaSkxTampISXI4SHY0eE5XZ0JCZ2YyOS1FZldsVlVXTzMyakVKN2p4d3BWQnhrNWdHQ2M?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Lalu Prasad’s daughter Rohini Acharya returns to Bihar nearly year after fallout with Tejashwi. A politics-related story. Covered by ThePrint and rediff.com."
+    },
+    {
+      "id": "bihar-floods-worsen-as-swollen-gandak-breaches-embankments-a",
+      "headline": "Bihar floods worsen as swollen Gandak breaches embankments across districts - National Herald",
       "summary": "",
       "date": "2026-10-01",
       "topics": [
@@ -687,20 +728,20 @@
       ],
       "sources": [
         {
-          "outlet": "ThePrint",
+          "outlet": "The Assam Tribune",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0dLRENaNjNSeXpCNnVXUjdqOFkxRzFyMGktcDJ6amlCb0FkSHVaUmdROVhjUXVLeVhlWU9NNVBSS0ZPMGdEdE5NOGpZWXliRjlscFFfQTZFWWl3ZlRNWEd2QVp4TFBySEpWaUFoT2hWRjdtRTlCWnJySmdCRndmUUVYSFc0ZFgwNEZvNE1sS0owYzMxYlZJYjZXSWVkM01DQmxpYXJiY1drQkFWTUxWWk5sX2RJMEM0YUtfaXN5czNxUdIBxwFBVV95cUxONlZHLTVwOUlVdUxMdm1tME9CNjVTSnNYel9sVEJla0JBR1Nzc3hTcXZtdjg2cGhtaUNhbGYxQU5ZcGhUNy1SV2M3UWl0R3dsazF3QmlTYUF0SFFHbV9vd3R3Y0JFaHdmdGhMN3Nrb09sazhlbEpYZkwyRUtIZEUzMDhYcWcyNV9XSFdLbWdFTWVjRlh1SURxNUpUYUctUDFyMjhHVmhIejRsZEpZcE9pM3pCd0pFZU9KTDhyUTZZR3VTZVpobXcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnlBLTBhcUQ0dXZjQlNCa0Z1dmZfcktFeWZJTnNWUFc0dnFMbHRLNUhnTXFkcTJXVnFhODdnYXdiTTB3ZUt0TEljdGNBdkc3ZHFmRXR5ancwYXBNbGJ1TDRxd1Q2ZFlzNlRFaTNURE15UWJFamVlaDJfbkpKam1ucW9YMmlPSUtPUVpUcXo4MWt2Rk82SDFmZ3JBa09ZUEdWa2JYTXlacWF1aVpkZnfSAbMBQVVfeXFMUHdWVVdtWjBvWkZCdVlQb2tjaF9saTBBVzhDZ2ZXeFJQaGJaN3U2Y1pvbnBzOG1ET0tqbm5QSTNUYkVNUWJyTUgyU3Y2Vi1XV01oNWZka3IzZE44Sk1CVWZad3FpYzhkcHdENi10aHh1U1E0UnN4Tkd5SW5YQ2hqN2h5OEV5Z25DejhlWkx5M0xQczZiMHItSThRSGFPaTE5c0xFX2NUMnd3VlJVQThQbGZ2cTQ?oc=5"
         },
         {
-          "outlet": "News18",
+          "outlet": "National Herald",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUY1ckU0VGJrX3dCSnA0djE3VFVtekdqYWVlMXNDcW55M2JSLTZabTRmMFRwRUFnSzMzSzFPTjdEeDdiZV9SZGhXWEl3RUhIUnZZT28zaE4xVHJJeHZNNlNveVNaclZ5WmRaOXJmaUdMRGozQjlwZ1NyRGRzb195anlXeEdxUE51WHktV1d6eWRYRFVkUEU5WXpCSEd3MTlMd1NYcNIBqgFBVV95cUxOM2VyYlNpZkNWN1hPYmxhVXppSEZZTVA2RkRwQ25TRFpvVG5rYXpUZnFKSkFvWEM1TjJXYlp1Sm82WXZkWk9RNWEzejRJeTUweTE5SUI3YVE2RV9Gd1NZSnpjc2VacHRrNVlwRV9mMHg4NURRdWlTTm1zMURUdXRZQndnN1FCR2NQOXdVTTdMdDVKYllWWnZxNGowUEFCa1h6cERvdHVjVVRnQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRFZlc0JldVRZc05nbEs2czBaVDhkSDFweXJRUlZQNHhuQ2wwTS0ydVhpTTBWZXdCQ0pPSFA1MVBIQTZHdmNMM1FCOVZINFdOVHZzWmFNVjdfaF9uQ2VROEludlBwWGRnYWlLbXFObTk2RkRJNVZSMmJqdUJSVEdCU214d3hNbkFmVjlLRnRlQnhsZnFCc2txam05OUpzYzlXa09Wc1hJOTBRQ0VVZUM0NFF1MDdBSWdTSjlRV9IBygFBVV95cUxQeE9uVlIzaGxULWZrQThna3FNemZvRlpIUER6ZUJ6eGNRMHdoR05HSm84YWJ6VlpVd3NQVmw1aU5YNjJKbW1HN1RWQlpUc0R2c29ldTJtbHRrSUNoLU1CMzBfM0Npd0dYRGlKX0h2WHhFM1NOcEw0Uy1hWTZpbDNoWkJqRkgzM002bkRXRTFhc01tTzJIOXVjVmRwYWQzYTA3eGVDUEtEbVVEaHBWV2Nmd09KQmxWdU56VjhsZ3kydnZPN2RSdnlqYW5R?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar: Gandak remains above highest flood level at several Bihar locations, IAF help sought. A civic-infrastructure story. Covered by ThePrint and News18."
+      "brief": "Bihar floods worsen as swollen Gandak breaches embankments across districts. A civic-infrastructure story. Covered by The Assam Tribune and National Herald."
     },
     {
       "id": "navbharattimes-indiatimes-com",
@@ -742,20 +783,40 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZzkwOVhYWjBMLWtOU2MxcmhEV2dZR1FkeEtLS0tJVXRYR3lrT1JxN1VpUlYtUnJZMDlHVjNRc0U1SGFXZjMzc3Q1UDdJREZFNExYWVlaSHd5N3pBZWNuX2NBQXNoMUUwMm9jRm1IbGw5MDNUNGtQQzZSVHA3bWpWTnVhY3pzQTI2NnhzaWVxa05pRlJRc1lIV2RCdzJQb19QbUdES3NNVElsZ0FJUDgyT2o0MXNnLTlXLVBseW5uTEtLSzFYNnFneXh3SEc?oc=5"
         },
         {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdk5ldDdPeUxrM1FKdXp6cEM4LVlQUXdBX2d3dG9aWnJwWTJ3cUZ2VlBGMFhRQmxCZ3VpeWpNbkpMQXh0UGc2eVpURTBvaDV1N3ZxMGx4TVAtTWN3STlpdlRQa1FZYlRUcWVLR0ZUSU1KSFoyZlpkUjFoSWpZNUtpbEhjR0duUWJFVXdmNVVDUzdhdzY5ZWNOVWlJQmMtS21mdWlhWDBkNkhtQ2J2bjExdWZOTC01Y1FjWndsNklLUDfSAcYBQVVfeXFMTmJQNXkwYnFnaGF1OE5CY2VEeFk2VjN6Z3pIWTNRcTJtem02dENfUlJ4a1JGV1Q3eTQwZXcxT0c2Zm5VNDNuQk5HVjZfNXNvbGhLTjc4aW1QenpaR2FfeFp5NG5OM3FBeVEyU24zcXM1VVB5Y1BJbUw0NGdacFE4czhjLXpWZS1mU2g0U2c2dldhekRMZU5LdDFzWU1qeFVWaHhpNkZhMEJxQkFhYS0yZXE1cVFzMGhmZWRxandZQ3lNQ0lxTTFn?oc=5"
-        },
-        {
           "outlet": "navbharattimes.indiatimes.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZVBzcnE1QWZ4RGdnSjhIejVEMnBWVG0xZjktSElyVllLQXZhVkMtN1BrNU1KZV80STNoanNwYXZlNG9QZFRqNXNMdGFCN1NQcnNfa0U4dURDOTRhMWkwc2VNMmp1anI0WXFhd1hzZ19YQWJCX2FBSUdhUDNUandpVEllRkc4NGNNSW14dTlHRDlkYnpvbnFPaGhScERyaXZ4b2t5Sm5mcmNScTFtejNDb09YZVo3V2dwN1NZdl9KdUJDaE1WbTY0aDJmb3czZVRib1dTN0pUbjRJbmtiT2h4VlhmZTVXc2pRSk0xQ1pTYm5ySUdrVnJyRjhOcXFqLWJKbDZMVEtOT3pacnBSdHZRdW5rNElLNTJjT0V2dVJndk9TUS1I0gGqAkFVX3lxTE8yUUdfMzlIVmpzcl9ScE43dGlVM1k1UXluazlqMHVTS2pVU0hkRW03aXhWNWc4OVdhV1NDcGloMG1SUzNNODdvek9Nb1Q5NlE5T0tReHpmaHlpdXJmNXhfbzhBRndVb3REaU5ZNTE5cW9udDJjRGtnZjlQZHFoajFJYWNiZndyWUVuZkZUMVVYajlqNFRJRDQ0V2ZXUXFWRGdOTEtGTk9HYlQxbFFweUpONDUzT1V0cFNaWmNzUHU4VC05SW9BMjZvRE8xWjN5OEZWanYyaG1BcF9vR2VvUjVOZDQ2NDJVUG5RSEtCVWdUU3N6czJVV3VnekVfcTBtUUc5UF9MMk5hV1FrVXg4eVlqdjU1TmJkWU85TU84d3prNnBpTzR3VUxiVHc?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'माता- पिता के साथ रहने आई हूं', रोहिणी आचार्य को पटना एयरपोर्ट पर लेने पहुंचे लालू यादव, राबड़ी देवी और मीसा भारती - navbharattimes.indiatimes.com। इसे 8 मीडिया संस्थानों ने कवर किया है, जिनमें India TV Hindi और Dainik Bhaskar शामिल हैं।"
+      "brief": "'माता- पिता के साथ रहने आई हूं', रोहिणी आचार्य को पटना एयरपोर्ट पर लेने पहुंचे लालू यादव, राबड़ी देवी और मीसा भारती - navbharattimes.indiatimes.com। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें India TV Hindi और Dainik Bhaskar शामिल हैं।"
+    },
+    {
+      "id": "hindustan",
+      "headline": "पुलिस दीदी को धक्का मारा, फिर थप्पड़ बरसाया; पटना में बीच सड़क महिला पुलिसकर्मी से मारपीट - Hindustan",
+      "summary": "",
+      "date": "2026-10-01",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0Y1cEtCZmx1VkNzZ2dXYWdhaThIX3FuY0dsYVVpd3VHVzlzOGl6NmQ0WUxvUW5FUUdaWjlZLXE2TUpyeTVfSG16dHE4cTl3bngzM0ljWk13N2lXTjk4NUtDWFk0akF6QXpwV3FrSHk5VVB4QUxxM2FrMWF4VkNkYVBWdzhYYlNkRDN0ZXZvTlMwSzdYMkx5OFdoZE82Sks5MVNCM3RqQ0NhVWs?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUWFseFlodUJCYXNtcno0bnlmVmE2N2FrTnZORHdqSms3MWlCbnh3b0VTa1g2X0FRLTg3dlVYZEs4ZUxxdEFaVnVHVmExNVJMbVc5MFZmSVZIc2ZuQ2RYVXE1NFJMVGt3M3lWQ0l3LTNLaGF5cHprMkttRENwQldOOXZCX3ZSLWtqZm1uV1JKdC1kaFFPTkhpdjM1dUR3RTJjQ0pKYkxkSWJkOEktX3pFQ3FVdmo2WUlIQ0wzM0hnRXluRGlxcWNzZ2E1T3g1UGEyVEpabHhTTdIB3AFBVV95cUxNYWZDbjdCMmEwU282M0s2SFp6clNoaUFLV19IRlM4NXJKdGdobXJ2YjY0QVJsTnBobXlZLVVBMElnSlRIYkZzeElQM0VIdnVwR2RmRzlndnBCaUtRS0VSQkozOWQ1dHV4a3U5anRydkk2SDQwV1gxN1VqeDRlZE9lV3doR0ZwNXBoLVJ0UmFlTFJucVN5TDZJVG03dDJ4WWdnd3AtNUZoWEx5NHV4aVJ4cllfMjczQ2pFbjZkVEREN2p1bjE1cHF1R3lDMEgyMWwtUVFsY2pIaGYyTUQw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पुलिस दीदी को धक्का मारा, फिर थप्पड़ बरसाया; पटना में बीच सड़क महिला पुलिसकर्मी से मारपीट। इसे Jagran और Hindustan ने रिपोर्ट किया है।"
     },
     {
       "id": "cctv-dainik-bhaskar",
@@ -793,8 +854,8 @@
       "brief": "पटना में पुलिस दीदी को मारा थप्पड़, मारपीट की: CCTV में कैद घटना, रोको-टोको अभियान में युवक को रोककर पूछताछ... इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और navbharattimes.indiatimes.com शामिल हैं।"
     },
     {
-      "id": "hindustan",
-      "headline": "पुलिस दीदी को धक्का मारा, फिर थप्पड़ बरसाया; पटना में बीच सड़क महिला पुलिसकर्मी से मारपीट - Hindustan",
+      "id": "5-hindustan",
+      "headline": "पटना से गंगा के ऊपर रोपवे से सीधे सोनपुर पहुंचेंगे, 5 महीने में शुरू होगा काम; सम्राट चौधरी का ऐलान - Hindustan",
       "summary": "",
       "date": "2026-10-01",
       "topics": [
@@ -802,20 +863,25 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
+          "outlet": "India TV Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0Y1cEtCZmx1VkNzZ2dXYWdhaThIX3FuY0dsYVVpd3VHVzlzOGl6NmQ0WUxvUW5FUUdaWjlZLXE2TUpyeTVfSG16dHE4cTl3bngzM0ljWk13N2lXTjk4NUtDWFk0akF6QXpwV3FrSHk5VVB4QUxxM2FrMWF4VkNkYVBWdzhYYlNkRDN0ZXZvTlMwSzdYMkx5OFdoZE82Sks5MVNCM3RqQ0NhVWs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaE1GRVR4NUtlYjBsMlV1Rmh2TW1pNk5hVlRBMjg5REpsMWZZUnR1eHk2U21iZm96WU1Dd05fcVJvMXhUc0lmdWhEWXJvWFBOLVZRbUlxUzBqTXYwSGVsejZub1RwWnNBbTZRVWIyMGQ1d0dUTEV2dzRlWXVNQ05NZ0YxTVFHZXVPSElGVmJMSG5FVW9UenNvWklkSkVpdEYtYUUzZUtNT1lEeXUxVjljRklBTjNWTWFCRFRYREhVWnJyN2FBOXfSAcsBQVVfeXFMTU5SSWtfTlVFVjI3dEZ2eVA0X1pjYm1QWEFqdWFSdG96cnlTS2JOWktUVEI5Nmtqd3E3VHk1SzlOaHBJakdyelR2bnBGMDhYNVFLeS1Id09hendrNk44OG9JSEp2ZUZlandsRDJILWw1Uk9xN096bm5TWk84cHZzdkFJQ2VkX2JJdE0ycE5sdjlvU1hueElfTDlkSG1HcGdtMWlGQ0FpVTZ2VmpTZjMweUF4TVc3UUU1N3FkeUZLX1RpTndrRlhEVFVfS3c?oc=5"
         },
         {
           "outlet": "Hindustan",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUWFseFlodUJCYXNtcno0bnlmVmE2N2FrTnZORHdqSms3MWlCbnh3b0VTa1g2X0FRLTg3dlVYZEs4ZUxxdEFaVnVHVmExNVJMbVc5MFZmSVZIc2ZuQ2RYVXE1NFJMVGt3M3lWQ0l3LTNLaGF5cHprMkttRENwQldOOXZCX3ZSLWtqZm1uV1JKdC1kaFFPTkhpdjM1dUR3RTJjQ0pKYkxkSWJkOEktX3pFQ3FVdmo2WUlIQ0wzM0hnRXluRGlxcWNzZ2E1T3g1UGEyVEpabHhTTdIB3AFBVV95cUxNYWZDbjdCMmEwU282M0s2SFp6clNoaUFLV19IRlM4NXJKdGdobXJ2YjY0QVJsTnBobXlZLVVBMElnSlRIYkZzeElQM0VIdnVwR2RmRzlndnBCaUtRS0VSQkozOWQ1dHV4a3U5anRydkk2SDQwV1gxN1VqeDRlZE9lV3doR0ZwNXBoLVJ0UmFlTFJucVN5TDZJVG03dDJ4WWdnd3AtNUZoWEx5NHV4aVJ4cllfMjczQ2pFbjZkVEREN2p1bjE1cHF1R3lDMEgyMWwtUVFsY2pIaGYyTUQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdjBLd3JXSHBiNlhVT3l0UEkxTFE3RU9nOE9ieDFpX3Zma0tTZ0dYemUwT3hQNzF2QkpnUTlOR2duaml3dGpzYS1rZUxQWmdoNFF5THFoNlBGWXhhcnVHVDhyNzdna3pxNVhNLWMyN3ViLTZPcGl0U2N2cVNwSW5FMGtPNmc0SER2QjJfaEx0SkRzbzVpamw0UG5tS2VCTW9aYXFtQlZFUVdaYlVmSnI0WHNVbFB4ZTVzQ1pfOXJlZVNQdWR2ZjBBellNZGRHU1BFSGpMMk9pWUxneTdlcGRfdDQwNDRwMDd2bVB4YXhhTFNVcVhXOXfSAdgCQVVfeXFMT3phVHV6WEMtM2ZkcS1aVlJtWEVidk4zbHh0emNFT0F3amdETV9Kd3pOQ3FjTHJLVEdQZEZmWm8xN0RJRHFTcXREaDZ5UURsVWVQeTgtZi14WkpNMUNwWGx3ZkVmOG5ZSldlY2RkRm1ENVR4OVZuUUU0cEQ0T1kyZWNEWnpkZE9Qdno4dHA2RjU0SUNoNDI0RUhEUlgtMmVBRDZpbXhxcUt2UXNrTVdwM2FTV0o1b2U5YS1MakRvMWpnT2lYUWNOei1qMVhTbjI0enR2dGgwX2NySGFhczQ3Mk5tUnpZRUFwWGFzMGRwVTU2WnFhcGxYRjBUVEt0dkQ4RFFsOERwVFNCbHpVN2c3MDVEZTRfM2dwc3ZwT1U5ZnE0czZ3ekhkWXdPREJBSkcxclk2MWdRb3hSVTkxUy1aQlQyX3pfWmlBVnpaVjhEdVpGZTRXRWp6Nlg?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMVNSUW5LSmxKcHFLZEhjMUdIXzNoTUo0SHhWVWwxZm5fR24wQnZGamlOb2ZSa2hLc3ZtbktlM1NZY3YyMjBRUmRvZDN4NEZrbXZNa2ZVVkg0OExEa052WkxRSThZMHNELXVkSU1XR0ppYm5rS0JIN2ZFSnl4SUdGYzRIRlJDY1RKdDZkYS1SS0UxZ2VoN3BYZEthRmVaeF82OTdSODdwV1BjTksyN1RsY1ZwdEdnc0ZRRW9MaVE0V0l5aHpTQ3c2c3dRa1Fpdm9sU25ydDJxVQ?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पुलिस दीदी को धक्का मारा, फिर थप्पड़ बरसाया; पटना में बीच सड़क महिला पुलिसकर्मी से मारपीट। इसे Jagran और Hindustan ने रिपोर्ट किया है।"
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना से गंगा के ऊपर रोपवे से सीधे सोनपुर पहुंचेंगे, 5 महीने में शुरू होगा काम; सम्राट चौधरी का ऐलान। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें India TV Hindi और Hindustan शामिल हैं।"
     },
     {
       "id": "mlc-jdu-jansatta",
@@ -871,36 +937,6 @@
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
       "brief": "30 दिन तक इस रोड पर No Entry: फतुहा-दनियावां मार्ग बंद, पटना से बिहारशरीफ-नवादा निकलने से पहले जान लें नया रूट। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।"
-    },
-    {
-      "id": "5-bihar-hindi-news-hindustan",
-      "headline": "पटना से गंगा के ऊपर रोपवे से सीधे सोनपुर पहुंचेंगे, 5 महीने में शुरू होगा काम; सम्राट चौधरी का ऐलान, Bihar Hindi News - Hindustan",
-      "summary": "",
-      "date": "2026-10-01",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdjBLd3JXSHBiNlhVT3l0UEkxTFE3RU9nOE9ieDFpX3Zma0tTZ0dYemUwT3hQNzF2QkpnUTlOR2duaml3dGpzYS1rZUxQWmdoNFF5THFoNlBGWXhhcnVHVDhyNzdna3pxNVhNLWMyN3ViLTZPcGl0U2N2cVNwSW5FMGtPNmc0SER2QjJfaEx0SkRzbzVpamw0UG5tS2VCTW9aYXFtQlZFUVdaYlVmSnI0WHNVbFB4ZTVzQ1pfOXJlZVNQdWR2ZjBBellNZGRHU1BFSGpMMk9pWUxneTdlcGRfdDQwNDRwMDd2bVB4YXhhTFNVcVhXOXc?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMVNSUW5LSmxKcHFLZEhjMUdIXzNoTUo0SHhWVWwxZm5fR24wQnZGamlOb2ZSa2hLc3ZtbktlM1NZY3YyMjBRUmRvZDN4NEZrbXZNa2ZVVkg0OExEa052WkxRSThZMHNELXVkSU1XR0ppYm5rS0JIN2ZFSnl4SUdGYzRIRlJDY1RKdDZkYS1SS0UxZ2VoN3BYZEthRmVaeF82OTdSODdwV1BjTksyN1RsY1ZwdEdnc0ZRRW9MaVE0V0l5aHpTQ3c2c3dRa1Fpdm9sU25ydDJxVQ?oc=5"
-        },
-        {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaE1GRVR4NUtlYjBsMlV1Rmh2TW1pNk5hVlRBMjg5REpsMWZZUnR1eHk2U21iZm96WU1Dd05fcVJvMXhUc0lmdWhEWXJvWFBOLVZRbUlxUzBqTXYwSGVsejZub1RwWnNBbTZRVWIyMGQ1d0dUTEV2dzRlWXVNQ05NZ0YxTVFHZXVPSElGVmJMSG5FVW9UenNvWklkSkVpdEYtYUUzZUtNT1lEeXUxVjljRklBTjNWTWFCRFRYREhVWnJyN2FBOXfSAcsBQVVfeXFMTU5SSWtfTlVFVjI3dEZ2eVA0X1pjYm1QWEFqdWFSdG96cnlTS2JOWktUVEI5Nmtqd3E3VHk1SzlOaHBJakdyelR2bnBGMDhYNVFLeS1Id09hendrNk44OG9JSEp2ZUZlandsRDJILWw1Uk9xN096bm5TWk84cHZzdkFJQ2VkX2JJdE0ycE5sdjlvU1hueElfTDlkSG1HcGdtMWlGQ0FpVTZ2VmpTZjMweUF4TVc3UUU1N3FkeUZLX1RpTndrRlhEVFVfS3c?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना से गंगा के ऊपर रोपवे से सीधे सोनपुर पहुंचेंगे, 5 महीने में शुरू होगा काम; सम्राट चौधरी का ऐलान, Bihar Hindi News। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Prabhat Khabar शामिल हैं।"
     },
     {
       "id": "video-7-5-dainik-bhaskar",
@@ -998,7 +1034,7 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FDalg5RGlrVElqYXVlTmQwRkV1VzlUdUx2Ml8tQlozZXVoUlprZ1lsMFNrWEJkMXVkSzYzSHdJZXRGTHl4MjB3RjZNTUluRm42cmVEV01tUktyM2F6Ri1nSUpwcldxTy1rRjRoV2kzblZpMlRnMHhpWmJTeUNKM1Q4djZvc19renFrN2Ria3ZKTWN4NW5jR0xuenhOdw?oc=5"
         },
         {
-          "outlet": "livelaw.in",
+          "outlet": "Live Law",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDFEZEFSMXotTFlTeF9yaTI4QmQtOS1DeWM0WUxRaG5LcTBhSFV1UWFnbGp4UkZqcktScUVzdUNPUm5heHNXS29WblBWYUp6Y3Q1bHQ0NFRpZkRYWEtlZ3R0LUN4NEl6SkVxTTdUV1RuYlplSUtlRi1haUZITkVsYmw3WFZWanFfMGpRNDJzYXdpZXgyY3JkZUNGRF_SAaIBQVVfeXFMTlVqdFJ6NUZ5TzN0bUNxZktLUFBUQ01OSGl2U0tkaWRQb0MwR3hNRHotRG9vLWNIZWtNbVNmRzFLMWVLdnIxZkRVSmRDcW5yTkdXcE5zWU5nVHdMVjVic0ZwMDgtQWVfNmxPSVlGN2NGbklxekduN0pmVU40endVSVhVbGxpRW4wQkZWc0Nyck9UMFhVVEM2MG1nMFQ3ZVhqSjdR?oc=5"
         },
@@ -1011,7 +1047,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "CJI Justice Surya Kant inaugurates country’s first Victims Rights Centre in Patna. A crime-related story. Covered by News On AIR and livelaw.in."
+      "brief": "CJI Justice Surya Kant inaugurates country’s first Victims Rights Centre in Patna. A crime-related story. Covered by News On AIR and Live Law."
     },
     {
       "id": "young-couple-on-bike-harassed-in-bihar-s-gaya-amid-a-spate-o",
@@ -1073,31 +1109,6 @@
       "genuineness": "verified",
       "genuineness_label": "Verified",
       "brief": "BJP names four candidates for Bihar MLC polls; NDA allies split the eight seats 4-4. A politics-related story. Covered by 4 outlets, including The Hindu and India TV News."
-    },
-    {
-      "id": "man-from-bihar-detained-for-questioning-near-international-b",
-      "headline": "Man From Bihar Detained For Questioning Near International Border In J&Ks Samba - Daily Excelsior",
-      "summary": "",
-      "date": "2026-09-29",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "kashmirobserver.net",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmhZQmNxczV2MFFwZDNKUWRYOUVTdWpMMkQ0bkljMUFLUU85NmZqdFNjX0U2LTZ4RVU1VjI3c1VlUDVVZVN0TG1ud3pmNXhzNHBxdlZ1WHowWE52WGJHNi01blhIQlVZZHhhUldQQ2VTZkdycE05a0U3U2NOMnMzVHp5V3NDQ1J4NzdiTllhdXo1NFRzQUhHeTJWMlI?oc=5"
-        },
-        {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcjFRc3RHcWxTcUhQcVlaeXdrcklvMGlDbHBQUWNHb292SkEwTkVwVXRwZnVxSlZ1RGJYaVBEQ2pqQlJjaHRpNjN5NlUzOFZTQWJVeXlHVjlGbnR0SFN5b0lzSzBSYzZ6Nk1ybWFHbzdBeHp2VHktVENlNDlXOC0xRGtHREFwUmx5VzJETXVlOV9IMlVVUjc2R05sLXFJRWFPRFlxYUJ1T3VPSHo4dHZj0gGzAUFVX3lxTFB1U0JxdV96b0c5SGlWZjZkeHlQOERkNkNLcGJtWUZland6SWRDc3FqWE5wc182bE5mbHBJajdNdmpvczk3M1ZuQ3UyUWZhbzhRbC12aDFDdTR3TGVZYjduTDFTYVJiMW1CUWNpdHUzLXJGbTNUWWFKOFhmSnNRR0ZxN0JNZ1JMSEJ0MkVqODNYLWJqVXRQVUxNb2dvbFZ3S1RVSDN1TXdWQkxXRllYNHJMUXhF?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Man From Bihar Detained For Questioning Near International Border In J&Ks Samba. Covered by kashmirobserver.net and Daily Excelsior."
     },
     {
       "id": "sonu-sood-speaks-on-bihar-floods-in-patna-calls-for-permanen",
