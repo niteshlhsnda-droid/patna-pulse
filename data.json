@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02 22:54 UTC",
-  "generated_at_ist": "03 Oct 2026, 04:24 AM IST",
+  "generated_at": "2026-10-02 23:35 UTC",
+  "generated_at_ist": "03 Oct 2026, 05:05 AM IST",
   "story_count": 56,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -449,7 +449,7 @@
       "genuineness_label": "Corroborated",
       "brief": "India exports 1 tonne makhana from Bihar to Greece, 24 tonnes frozen food from Sonipat to Canada. Covered by The Economic Times and Daily Excelsior.",
       "image": "images/india-exports-1-tonne-makhana-from-bihar-to-greece-24-tonnes.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihars-makhana-exports-expand-as-apeda-facilitates-1-mt-ship",
@@ -600,14 +600,14 @@
       ],
       "sources": [
         {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWXNxeWI1c1psR2lYV1ZJWEtKYndxQ3pjYW5BZndjbXlBZlN1clBtNVdJYUdyMFpoVjBCcDhUMFZudC1hNjU2TTBvN1lWb1JFOXdnXy12MHdlekZMWHJKV3lrSU1fVFZXS3BWYm9qamtzUVA4V3R1UVg3eDhZaDNKY2wtTlhWU3RDS1d2Z0p2T1lpeENmUEkwZXpRSGVBMDNaY3lETzh2ZzFzWTZmMWJweGZlTmxlT2o2NWh6NjVneVM3Z0NWb0YwY2h2Q18xdjh1cl9URGVGTnZuc0JiclRaR1Z3bkVWRFB5RTMw0gHwAUFVX3lxTE1TdzJsQlhhS0FKTHZrbzhZeG0ySGlpb2lXc2ktTU1pMGJpZnhCRU95MFFsRnFMYnBLcFgxaU1UZTZpUV9GcnU1b21Hd2d2b3hxeTlWendvYnpMSHpfLVpYdklpd0ZWaXh3N0tHdzZGLUpBa2hqWFJBME50VzZ6eXo3T2dYdkxsZDV2T21IZVF3V282Vlpxaldfa0JXTE1jeHhqSjdxT1NadnN1YzltWEdKaHlmTXM0UnlYTDhNQ1NHUnhWWnRhZlNlVEJuQkZIMWlVLUdVZ2l3aVBhdEFEWkFCTEFGSlFwcGEtZG1oenZubg?oc=5"
-        },
-        {
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdjg2VTBQSVp4LTZCNkxBVW1ZamFiU18tU2ZpVjZxa3VGRUVmd1Nvb24ydjVpc2x4em9lRzdPNHNiUnlTQVY2a3hVNDNLa29XVjZQT2kxTDZKcFlVVWdVWWRscFFtRmsxY3RvQ3MxSDJ3dDBvdUY0WkJfa0stRW1wTDdnWlI3Z2ctTkNaNVZ1Nk13TlRNOGJUQldjMnRnNk8tVmp1endPV1E1Tzh3Y3hDODlPcG5saGI5Z29tVG1iTkVHUFJaWnpLTTh2UEhES3JxN2dYaVZIS2V0SDd4RlA2UFpjbEltOVBVTVBPdkxqUdIB9AFBVV95cUxOZzBDNjVoU3lUMWQwaDluczRzam9ZYXlNamVVSVByQVh6VFlhZVdhajZST0Z5VWpsQkwyMFNjSUFLLXpfLWZfOU1VR3BvRExyangxcnhKV1BnWElSS2RGUk11bzZocDhkU0llZXR6M1NMcXJzVDU0SXJWbWJ0bHJmWjhqWE82dlhBMUxJSDU5eDRWNlZvNXJsbmEwWEgxRk4wMzZnOWtmMFUtVGpVZHN5MWNMNzc2b2lQZE1QTlh3M0wyQTdnU2huaG9NMUVuZFdRcVlNMWxHOG5QRGk1dmpwS3RKVjk3SVRJYnIyY1E4UUNYb1NV?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWXNxeWI1c1psR2lYV1ZJWEtKYndxQ3pjYW5BZndjbXlBZlN1clBtNVdJYUdyMFpoVjBCcDhUMFZudC1hNjU2TTBvN1lWb1JFOXdnXy12MHdlekZMWHJKV3lrSU1fVFZXS3BWYm9qamtzUVA4V3R1UVg3eDhZaDNKY2wtTlhWU3RDS1d2Z0p2T1lpeENmUEkwZXpRSGVBMDNaY3lETzh2ZzFzWTZmMWJweGZlTmxlT2o2NWh6NjVneVM3Z0NWb0YwY2h2Q18xdjh1cl9URGVGTnZuc0JiclRaR1Z3bkVWRFB5RTMw0gHwAUFVX3lxTE1TdzJsQlhhS0FKTHZrbzhZeG0ySGlpb2lXc2ktTU1pMGJpZnhCRU95MFFsRnFMYnBLcFgxaU1UZTZpUV9GcnU1b21Hd2d2b3hxeTlWendvYnpMSHpfLVpYdklpd0ZWaXh3N0tHdzZGLUpBa2hqWFJBME50VzZ6eXo3T2dYdkxsZDV2T21IZVF3V282Vlpxaldfa0JXTE1jeHhqSjdxT1NadnN1YzltWEdKaHlmTXM0UnlYTDhNQ1NHUnhWWnRhZlNlVEJuQkZIMWlVLUdVZ2l3aVBhdEFEWkFCTEFGSlFwcGEtZG1oenZubg?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -623,7 +623,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना में JDU विधायक अनंत सिंह ने जन सुराज MLC उम्मीदवार अनुज सिंह के समर्थन में रोड शो किया। राजनीति से जुड़ी ख़बर। इसे Dainik Bhaskar और Hindustan ने रिपोर्ट किया है।",
+      "brief": "पटना में JDU विधायक अनंत सिंह ने जन सुराज MLC उम्मीदवार अनुज सिंह के समर्थन में रोड शो किया। राजनीति से जुड़ी ख़बर। इसे Hindustan और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/jdu-mlc-hindustan.jpg",
       "image_kind": "photo"
     },
@@ -642,7 +642,7 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGo4Q0paREpDMlMycGtyVFpZNmRBd0EzQ3VUeVJjZjk2dFppLWRCcjg3czNETVh4S09iZ01Uc254Qmdua0hMSWNYWW5ZVUFRXzlXdlFIdEZHSVhJdHBpbHdpazZVclEzQkd0WVVTUTZ5eG9xaFF5VGpWMmNkOG1BR1lXU1I0Ri1sVlc5SUxfdTN2RlZhQ2IyUG1qa09JbGdtdHpiTnVGZ09PLVRFeVUtNmhDa2tHQzl2cGN6QmhHLXNkd9IBxwFBVV95cUxPOHhIMTVNQkNtUkFUeTZSam1GWFl6NzNoNlpqZGZXeUFqWjE0WHRna1RWR0o1NFZGVzBGV0U5Z1JmS1hLOHBfMEFTRF93Wi1DNDVBbXlmWjdQUlpnc0IzMUZMc0x3WVdta25RN0M3Z0xmbjNrUWpRRC00Vnd5WEJCRy1PUmZjaWk3ZDdIekVLZjNJaktBZm9vNWFZZjVzXzdGNHBWMmlwOTZiWG9pSlJLRDBUVzRXdm5DMFhTZ3NCRUxpZTFkQmY4?oc=5"
         },
         {
-          "outlet": "Jansatta",
+          "outlet": "jansatta.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORm9GYks1Q1BkaFNZUjFmTU9OTGxNMmFmWlllLTUzTFQwWFZDU3A4UzdDTUdnaFVHZ29JMFcxMk4yUnRkb1FhZi1Eb0tKMXhDQXhhVDF2ZVFsMGVEWXBJUC1XR1lFSldNaXN2ODdtWUpvMUNvYVRfOXY2ZExsdHJpdG9KYTlHZ01iZHZjdVJGU0hzU0hqUUE0bkNVLXlsWTFjVmJTbUQ2bHhjbDdReFd3cU9oUmZEQ3BtRkRGS0NNMDdHQVNid2xFRnVQa1dCb0FlVDJUMVVKWTlwTmtPVzZiVVRQSm8yd9IB7AFBVV95cUxOdzAtYWFNNndWM1NuTGxZRGx5U2tmYm1BRlR3eHBQVGo4ZUtuN2l1RUlVc20tQUlBblBwNDEtUGc0Ui1xazQ4TzdiSGQydV8tT2o1LTFXdUx2YWFzNGV5amNZdTV0SVYtREl1LUg2SE9RQW11Q0YyUFVjM19kOVFPcDBmMkhxQ3ZJVmNTVk1reDFaRTJnMER6OEdmcEI5c1ByUEpMZU1VN3pFNHM4MVlQb3hXdVl2T2UtUXV2SFhScjVVWDI0WkpvYlFFTTEyZzBzbkNLcjFkQXlBVHlmeWdoTVFKVXVKeVJ4V0VzVg?oc=5"
         },
@@ -655,7 +655,7 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'माता- पिता के साथ रहने आई हूं', रोहिणी आचार्य को पटना एयरपोर्ट पर लेने पहुंचे लालू यादव, राबड़ी देवी और मीसा भारती। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Jansatta शामिल हैं।",
+      "brief": "'माता- पिता के साथ रहने आई हूं', रोहिणी आचार्य को पटना एयरपोर्ट पर लेने पहुंचे लालू यादव, राबड़ी देवी और मीसा भारती। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और jansatta.com शामिल हैं।",
       "image": "images/navbharat-times.jpg",
       "image_kind": "photo"
     },
