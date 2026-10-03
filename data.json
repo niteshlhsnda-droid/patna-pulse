@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03 06:54 UTC",
-  "generated_at_ist": "03 Oct 2026, 12:24 PM IST",
-  "story_count": 55,
+  "generated_at": "2026-10-03 07:54 UTC",
+  "generated_at_ist": "03 Oct 2026, 01:24 PM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -44,7 +44,7 @@
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0x1Yk1vcklWWjVGQzdNYm5SSkJuQWdjSlVKOXRWS19EZkFjemlxejVNSTZ6XzdqY00tSTNtZDFMdzE2c3JiTzVtRVBVR1l5U2hXMWhGcmVuUDBXT0hxdkxZZFhRVzNxdU1Pdm16cWNaOGU2STlFbE9PZE4xNTJhOXlVMGNfZ3BsU19vTlpzTDBjVF9ma2pFb0RRMlJZeFNObHVxTmlMMVB6TWZnZjdENHRLVUJCV2tjd1pGZlNILWk4MGFHd1F1UnYxenFsUFFXWHg1NWNjRzhJaUtpOW1aWEM2TVNyS03SAfQBQVVfeXFMTjJHdzhWUVVhQ0xxSTNlVlNoVTZDR3RUMlNmaFRnd19IVmo0bkVjdjVRQVR3RVI5UDY3RUtjeVBMR0hXVmo1cTNLcGRzSE5oTFBySlBkVHJmdWVndURGWkZSVVZhZmt5TFhCYVB3aXUwS0wyZTFKY0FaT3hXZExlQzRxT0FnWFdFcXZzUy1MZDBlVGs4SGtTazVNeUZqVGUxVndhVUJxNUVwcm9fTWM2TFMtaFRTY3RuQmk4dWNPczNSQUo3OHBmbUw0S1dwWWlGYzB0Q2NJcUJfSnRQQ1JIZmlwZ0JLazkxQWN4cm5yT0o0VDN5Yw?oc=5"
         },
         {
-          "outlet": "telanganatoday.com",
+          "outlet": "Telangana Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVQxRkNVekpSLW5UamVxNENMYkxEaHVVYTd5WU5EY1YwRkxaVG1HcUE1WU9KcjI4aUktcHNURkJ5TEJkYjBZaEx0WEtUb0QzalNmc0NlUlhXNXF4N3BIMnFBMWU5QklrSGM4X3RWaGpHNE1QLUVIaVNhM24xYlZReG1CRmExSlFXX0VmWlJQb1AyM203Y3l6UnlxNWZLeGdtYjNyYmFNdWt5UnJWa1d2eEUwdHA?oc=5"
         },
@@ -69,6 +69,48 @@
       "genuineness_label": "Verified",
       "brief": "SC grants 8 more weeks to Bihar govt to remove unauthorised construction in Ganga floodplain in Patna. A civic-infrastructure story. Covered by 9 outlets, including The New Indian Express and The Times of India.",
       "image": "images/sc-grants-8-more-weeks-to-bihar-govt-to-remove-unauthorised-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "flood-affected-bihar-man-dies-after-being-hit-by-air-dropped",
+      "headline": "Flood-affected Bihar man dies after being ‘hit by air-dropped relief material’ - thehindu.com",
+      "summary": "",
+      "date": "2026-10-03",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzlqRG50U2dEQ3RwdTNiWWg4LTQycGJZUzlLcjdodjBjcGtuVjFNaVA5MEFYRE5KZTY0REVnTndNNGpqRGF1Ykh2ZXRmeHA0bWgzWlZqN090Szl6a3RkaG1PVlcta0tVMGczclRuMjBkV3FMSEw3TzgtNmVNY1c2N2t6WXhNOUFkYnFyRDA4U3dtVDVxT2FVLWxfdHBhUnFqc1hobndIc0FpRjAyaEhFbHRUNjQ4NTEwNE1iemF1bjZwVTcwZjNr0gHMAUFVX3lxTE9hTDZDTkFUYnU2aWNRV3VoVzRWWUdYU1VWQ3RLUlB1RnlfYzA3Q08tSHFOZGo3VUxUUnlhOWhkWEJoUG1lb1gyRmxHSWkzeFc1NTFlWkNWZGhpT0tGS2VCd01OYzA2QWZXLUFsdzR1M29EbE95b3ktdm03aVFPR19MdDZPQVI1NzNUWUhCRmttQ293cjlLeklwNzNNWm4tLVc1N0QzbDM5Y2xVZkkxYlRXelR0cHdZZi1OUjROaG9WUVVOT0RZMURfS1Rkbw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXFBMVdNaHdfbTZ4NU12Y1hQR1VGRm9yZVkxMVVsalJLU29aeEpHdEprQkh0R1h5S3NmdjlTWVdTck8td3JMekxIRnlkRnJNNHNoY1dqWWJJOTFmTGZ1OGVPaTJrUWlsRFpNRmRYQlJaTGUtRmlOaE5PSlkwcXVRV0dscmpjMFRwalJFYzhvZW5vQUMyWTBrczBURFFhUFpNSk5sMmZtSnJnd3hmeF9TU2tpcHBDWnpncl94LTF1RnlONndoZS1qbjI3N1RwSkNV0gHWAUFVX3lxTE82bkJ5SjRrVDdESW5ua1E1by1OLWdPRlhnVWVpaW5VRGhzNEhPUjg2Y21LTzVZSjhvWmV5YlAwQy1fSkY1WThEUnpJTjJHRFBkNUMtaS1pbVN4c1Q0dlNqQUg2Q0tuWmxXOGk1ZHI4cEpwRE0zVUI1SjliYi1FWC0xY3lYTzR6aVdkMjNJQkU5ZEdUS2dubzVDRTAwUG9qNWNUQTRTbUpONmF0QUpsUG5QQ0JwSnVhcU9jUjc1LVlCemdMVFMyYms1WWdUNUlYUVhrU3E2cmc?oc=5"
+        },
+        {
+          "outlet": "Outlook India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGVfblQ1SmJGc1RIYm5sR3JsZUFXNVJVZFJJMW5ZSWtEaE1Pd2VxcjhaaDAyYjlGcVlKTUxLYzFmUEt1RU1sNjVCVmk0S3djbWhjYzMyWkdMTEV2TDk3SDFMeExjWk9jbXRHUzctNERBbXNYZ29XQ0JJM3hIMDNpbFJkaHExS24xX2hpY1R0MVMxdmdNcEZQNG9XYzAtWXdwc21HetIBsgFBVV95cUxPcEYtcUZuRGxYblpVSE53aU4yMUxxM3hGM0ZDMjEyOXZDOHhwQXRzeWdJU1IzRmY0NGFBY3ctTDRvbmcyNF9ITWpxX3BpQTVneGZMTVNpZ0F5R1F1cG1tSEZLZUluZW45MjFNekV4ZW5TMmE2YnFJa2k5QjlqdkJ2UWU0ci1BeDd0WUVUN3hxNm9oRUFadXpGRnBNdV9qbjJMS0JYcXlQcGhyTW5fZHdYQjRB?oc=5"
+        },
+        {
+          "outlet": "thehindu.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVDNKMUtZMmN2YTdaT3lQU29QckotVEQ0MG5na3Z2eWZJbFc2Q0ZIUERUeHlTcmNjN2FwX0hfbGt5RWRfQ3RJdWlnZW40T3NISENMTzFQbWJHMUZNaGpkTTB6OU9tSmhyOGNzVGl2UmpCc0xDLTVCRjJrNmtFQnB3MnBHRlVuVnFXVXBBYmhpUHRfMFA2M0E3UkloQmFlTGhTTTVtdmJYRG1SRWtGOWZNR0FZSENRc0szQXd5MzRMelJIMEN4SkhBZlExaXlxcm1QNWJQR1c5aU3SAd8BQVVfeXFMTmM1N2dZTVlJTnI3Q0YwbUJ6bXByaDk1S1VnMFI5Qko4MmdjWjY0bDc5WjdnWThMWHo2THc1WkpEdVRfcXFJdi1rblB4NksteGVCaUpmOHQ1bnFmRlVjc3h2RV9UZ2ZQTkctU0pDa0RndHRjbngyRk5FVXp0RmhMZ3lDMnE3TDJOdkhyaHhTOXJ6SE9oRlNseUdwU2p0MURVQXRGZElWVzhDWkN2TlFtNGYwNl9fcW9vRUxRSjhKNEJoanJaM3JoM0FRN1hobGtuMzVjcXJOY1d1aWR1NF9lUQ?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzlUZGxEeHV2U1J3eXdiYlJWbXlvSEliNnZvelBaS2NzMklkc0Y2ZVg0Zlg5ZWh1cHljU1FQcWk2dm91TC1iWElDa0JMTHdFR0w4UVRTM3AyU09BSjFCaDVmWDZuV0ZBNmxOQzlCYkJ2V0EtS3hiUnBoRXh1NUhGalgtTWsycEYwY3gya2tSdlVCeVdmTzEzQ2VoVGVZVldj0gGmAUFVX3lxTE0wLWhZdFdCSWFhSmtVUk1JWTF1MGhVR2JteTk2MVB6RW9Wd2xGMjM2MnhvUkswUVhuOXBzSGVFR3BFLXJtbE5lU0FKZElUOWhDQWxNWmtndVNTTGVoOVlQd3pIZTVYWVM1OTdzNGdKM2Q5b2xfaEh2Wkh0RFlXRHVPUXg2Y0JqWVFuWmpPVnNvZC1CSjFwb1dEOHQ3aFoyRWxERk9zVWc?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Flood-affected Bihar man dies after being ‘hit by air-dropped relief material’ - thehindu.com. A civic-infrastructure story. Covered by 4 outlets, including The Times of India and Outlook India.",
+      "image": "images/flood-affected-bihar-man-dies-after-being-hit-by-air-dropped.jpg",
       "image_kind": "photo"
     },
     {
@@ -178,33 +220,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "flood-affected-bihar-man-dies-after-being-hit-by-air-dropped",
-      "headline": "Flood-affected Bihar man dies after being ‘hit by air-dropped relief material’ - The Hindu",
-      "summary": "",
-      "date": "2026-10-03",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVDNKMUtZMmN2YTdaT3lQU29QckotVEQ0MG5na3Z2eWZJbFc2Q0ZIUERUeHlTcmNjN2FwX0hfbGt5RWRfQ3RJdWlnZW40T3NISENMTzFQbWJHMUZNaGpkTTB6OU9tSmhyOGNzVGl2UmpCc0xDLTVCRjJrNmtFQnB3MnBHRlVuVnFXVXBBYmhpUHRfMFA2M0E3UkloQmFlTGhTTTVtdmJYRG1SRWtGOWZNR0FZSENRc0szQXd5MzRMelJIMEN4SkhBZlExaXlxcm1QNWJQR1c5aU3SAd8BQVVfeXFMTmM1N2dZTVlJTnI3Q0YwbUJ6bXByaDk1S1VnMFI5Qko4MmdjWjY0bDc5WjdnWThMWHo2THc1WkpEdVRfcXFJdi1rblB4NksteGVCaUpmOHQ1bnFmRlVjc3h2RV9UZ2ZQTkctU0pDa0RndHRjbngyRk5FVXp0RmhMZ3lDMnE3TDJOdkhyaHhTOXJ6SE9oRlNseUdwU2p0MURVQXRGZElWVzhDWkN2TlFtNGYwNl9fcW9vRUxRSjhKNEJoanJaM3JoM0FRN1hobGtuMzVjcXJOY1d1aWR1NF9lUQ?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzlUZGxEeHV2U1J3eXdiYlJWbXlvSEliNnZvelBaS2NzMklkc0Y2ZVg0Zlg5ZWh1cHljU1FQcWk2dm91TC1iWElDa0JMTHdFR0w4UVRTM3AyU09BSjFCaDVmWDZuV0ZBNmxOQzlCYkJ2V0EtS3hiUnBoRXh1NUhGalgtTWsycEYwY3gya2tSdlVCeVdmTzEzQ2VoVGVZVldj0gGmAUFVX3lxTE0wLWhZdFdCSWFhSmtVUk1JWTF1MGhVR2JteTk2MVB6RW9Wd2xGMjM2MnhvUkswUVhuOXBzSGVFR3BFLXJtbE5lU0FKZElUOWhDQWxNWmtndVNTTGVoOVlQd3pIZTVYWVM1OTdzNGdKM2Q5b2xfaEh2Wkh0RFlXRHVPUXg2Y0JqWVFuWmpPVnNvZC1CSjFwb1dEOHQ3aFoyRWxERk9zVWc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Flood-affected Bihar man dies after being ‘hit by air-dropped relief material’. A civic-infrastructure story. Covered by The Hindu and ThePrint.",
-      "image": "images/flood-affected-bihar-man-dies-after-being-hit-by-air-dropped.jpg",
-      "image_kind": "placeholder"
-    },
-    {
       "id": "ias-vinay-kumar-leads-race-for-bihar-principal-secretary-to-",
       "headline": "IAS Vinay Kumar leads race for Bihar Principal Secretary to CM succession - whispersinthecorridors.net",
       "summary": "",
@@ -251,12 +266,12 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmNqTmFIcGw4UFcwZGdrOFJHQ0hHSkluWVRmMUhqWUdzdlQ4bktFV1V4VlBSMFY0a0lfNmpYQV90X1VZQk5rNGRZT1Z2amtBVEJzOGR1QXhTQjU4MzhOUl95anlySm92VExpTFVCd1ZWc0FDclhZS3I5OGVPU0FvWG5tck10ZVFUQjJ2YTdJR2ZmWUxqMEh1SnVscFA1b2VTTmEyV1FhN3MzVnR6aDY2V2ZWWjlwQjJSVUHSAb4BQVVfeXFMT0FqN1FwRWMtVzBrQ2t1OEZpZDNUQ1lHaHVNSFlmdzYzWHdPWEtrUlJTQ19jVTNXZ0RsbGRlaVV2MjAyYjVDdlpBUDJsNjJKQndGdk9zSFpTMTMzaGR3akJ3MXhacWtsa2JINmo2N25HYmNYUWhIMnBfcThDRFlMVnNlTXhseWFBMmplVUVqQzdrRGxVc3o4QlplSGpSLXR5eTd4MWthaVlpSTd0VHZfeTdJeWRyZTJldGp5dVVNdw?oc=5"
         },
         {
-          "outlet": "ddindia.co.in",
+          "outlet": "DD India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU254T1p6eDlsTUZiLVgwQ2FjUm1nYlpDNXVMVGl6ZVU2Tzk3RVhHOWx3b2Q2TmlHV095TGo1QWkxVmNZcE9YdWROdm5oZy0zd0dYYzF0ek9rUy1PZ0JzT3dkSDZocWN4VnUxSkhXN0pZOUwtVTYtMmNQc1lxVW5iemNFV0dQQzdpcFUtRmNISmJzcUMyQkMxdWtobzRDQmVEdkFRdmx0V0w?oc=5"
         },
         {
-          "outlet": "indiashippingnews.com",
+          "outlet": "India Shipping News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDRVeHhsbk1hX2hOSTR3d2NvNkVHT2s4RkxoYjFVLXZOb29qMlVEc1hCTUFCVkRhenNRTXg4Z3BuZDZlLUh4cFZteDFsMjVQRUlpVk5HRWFMaExkcTVPTHp5NjlIdzlpV3QwM25POW42SFNxN2dxb2tLSTMyTFkwVDExWFIzM2lta3NNMU5kdFNMV2pvckNOOEhYZ1JWSG5MeTc0aA?oc=5"
         },
@@ -274,8 +289,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "amar-ujala",
-      "headline": "बिहार: रिटायर्ड इंजीनियर की गोली से मौत, कार में मिला शव; रांची से पटना आए थे बहन के पास - Amar Ujala",
+      "id": "prabhat-khabar",
+      "headline": "पटना में कार के अंदर मिला झारखंड के रिटायर्ड इंजीनियर का शव, कनपटी के पीछे लगी थी गोली; हत्या या आत्महत्या की जांच - Prabhat Khabar",
       "summary": "",
       "date": "2026-10-03",
       "topics": [
@@ -283,21 +298,73 @@
       ],
       "sources": [
         {
-          "outlet": "Navbharat Times",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWW92TWJIcjJoaDB4ZzRUcHI0azQycm54a09SeDBlby1oQ3VRNG9jVUdZSTl5UFNWSW1fZzk3TmJaSERUOUIxX2JfNmt3eTFzODJNdzFMazl6aXBQVDYzeXNJNi1jNVkzZHg2TGVycXJGY0YxaXZQVWlXNU1zTmNwU2JacHNROTZhOTA0bUNaOXM1YjZ3S21VcDVpQW9uVXVvdnF6b29paGdxYTdUcFNBZHNhQUdXVk11d1c2dUpmZlBPQkVmdlRILU1xRnY2N1BTNjBpU1g0WnFKNWdaX0hHSW9FdGEtdjljUVZSMnhuMTh3UzFPdnJXR215R0zSAYICQVVfeXFMUFdQVE9IbnJfeE1hcnNUczBuSk5VYjk5Mkg5aklGQ0hTNnVqOVJVZVZSRVJrTEoxcWk2M04zVmgzdlVPM29jQWljNU9QcHdQZ0ZwSEZQVDBnVW9aeWcyOFpYOTJQNWxmb3UzeXU0N2J3WDhsWjNnajZoZWozYmNROEpNR3BMR0FVV2NYN0VjYjRKaWQ4TG90Tmsydkc5aUJHSjNFZzJMQnpZZlJhekRwbHFyZUx6X194bmtjeFVWbWQ0TU1ycnV4alQydks4YUZGN1dXXzllVGhETGF6aVdUY01GQzFvY0E0cFRqXzVoUzg0ajRsSXNQRXR3X2QxVk5GNW93?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcFNoZEZhVi1sVjV0UmZod3lWQldkWDBFY1RrYnNzcnJBOVVCRHBodUVwQngyeFU3NjhCMnBiZWJ1ZmRKak56VnRTU0IyRDJqZ3pVVWV0eGM3N1ozNWV1eEdMTGwzakY4OV95QWl5bUpsRWx4aUV0WGlEUzhRWnhiVHhIZU83djZ6NVgxVkdybnVJX0RmVHB1OXVoU29kYUw2YUJRcFU3UXlXUWJlUXV4R0VHcGV5UnBhd2QyLdIBwgFBVV95cUxOR2xfVk1XT2o3T1VIOUY3Ny1sN000M0J2N1JHbmdJbnpZSFVWVUFhWmxJR2EtbUtzZENZUXV2Rng0cmZjbm1Wam9BX0tPajZQU0o1WVVnN1RLRWFpWVJtdmlqYTdlVkMzeDM2R2t6Z0VlVy1CLUZBNGNyS1MxcHRaSi13YUIxNmI5YzJna0daN2w3SGhCZDFtU0JyMVZTSkZHNl8xeVQ4Mk9yNnNCRWRWSUZsWnk0eHhacHg4RHNKWFV2Zw?oc=5"
         },
         {
           "outlet": "Amar Ujala",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS1Y5SXlYeU4yejhDRVlqanBtYlQtYmFpWVR2OVNkWXVpUF85LXhsTHZXUzFoYkltZXE3RzEzQXpsaXFJRUI2bEZMU1NIUEhvWWhRNmI5YkFOU1lLVlQ0dzhiaWM1aG9RZUNaYl93cGE0RUVqNHlUa3FIaXA5ODV1S2Fqdk02enh6U09JLWFRTzZ3ZFdyelZYejg0WmQtbVBLd3ZFV2szUHJIbkF1RHB3dWxiY2tRRUxoeUVnVmF6ZHA0MW9TS01GNnlfVzI1YTTSAdQBQVVfeXFMUEMybFpjVWRjYUVrd1g5OTNYTktWaUdyd1V3RWNmeVhuN3pIX0FPV2hzYThLU0JVamx5VUxpc3d3a01sVWlYZGtreVByUktzZ0JiQ0dnc3d0UGNMUzk1U1V2TGkzX3Fqc0l2X2xTV1E4UTJvNExVR2FNX1BGdE9CYVJ3X002X00yQTFTYTI1cTFUZG15a0E3eWVmZHo5WHVvUmlCVlM0VkhFUzJXRXJKSF9oOTBvazJJZ2VKOThNVmx3Qk85QVVtcHFid19Pd3p5Vm8ySTY?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR192a0RUaXJzcENDTWVBMzZtVHdUZWhJRHF5eXU2Z290NVJKbmpQaHFXNVJackVqOWJTd2drbGZrRjdnNGVOWWpxOHl4RnB0WDVFVFZTRHdSdHJCRnZSOEtFTGd6bDFERE54YUZub0F3T1kzSGhwcms3NnFaejJOMnEyVjB0WlAtV3pNYkU5TQ?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2FqejlTVE5FYU0weEd2dnRzUlFiMVJNWFVWdjI3SXV5X3hvRzZQQzFxZlRUdVdFcnZ0Z0xQbk5iVXlySnNOSF8wYWgwY0RSenpDTUY1RWFPc0FqcEFYOWozTXlxd21KbzY5UHR5Y05vOWpKTjY2dDZYWVVrSllwcThtR040bG5RcEdJSWlJSEVPck8zTHlvd3pfcmptSTY3MUt5YVhrQXI?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWW92TWJIcjJoaDB4ZzRUcHI0azQycm54a09SeDBlby1oQ3VRNG9jVUdZSTl5UFNWSW1fZzk3TmJaSERUOUIxX2JfNmt3eTFzODJNdzFMazl6aXBQVDYzeXNJNi1jNVkzZHg2TGVycXJGY0YxaXZQVWlXNU1zTmNwU2JacHNROTZhOTA0bUNaOXM1YjZ3S21VcDVpQW9uVXVvdnF6b29paGdxYTdUcFNBZHNhQUdXVk11d1c2dUpmZlBPQkVmdlRILU1xRnY2N1BTNjBpU1g0WnFKNWdaX0hHSW9FdGEtdjljUVZSMnhuMTh3UzFPdnJXR215R0zSAYICQVVfeXFMUFdQVE9IbnJfeE1hcnNUczBuSk5VYjk5Mkg5aklGQ0hTNnVqOVJVZVZSRVJrTEoxcWk2M04zVmgzdlVPM29jQWljNU9QcHdQZ0ZwSEZQVDBnVW9aeWcyOFpYOTJQNWxmb3UzeXU0N2J3WDhsWjNnajZoZWozYmNROEpNR3BMR0FVV2NYN0VjYjRKaWQ4TG90Tmsydkc5aUJHSjNFZzJMQnpZZlJhekRwbHFyZUx6X194bmtjeFVWbWQ0TU1ycnV4alQydks4YUZGN1dXXzllVGhETGF6aVdUY01GQzFvY0E0cFRqXzVoUzg0ajRsSXNQRXR3X2QxVk5GNW93?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना में कार के अंदर मिला झारखंड के रिटायर्ड इंजीनियर का शव, कनपटी के पीछे लगी थी गोली; हत्या या आत्महत्या की जांच। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Amar Ujala शामिल हैं।",
+      "image": "images/prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "dainik-bhaskar",
+      "headline": "अनुज सिंह के लिए प्रचार करेंगे अनंत सिंह: नवादा में पटना स्नातक चुनाव के लिए करेंगे जनसंपर्क - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-03",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDRpemtDQTNWQ0ZyNVo1NVhlTkxxNkFJd201QkJOcTdpcXlRNWV3S3BlQmw0RVo5STVic01VVmluR1JRNElhNndOYXpEVEV2YUZ2TU13aEhlYlJROTlSakdlZWNfVHJjSUlwdWF1NFp2RVdOUkdoYVdoTmh2VkpyVi1LSkxLOEFBa0piQkh0REk4VVdpOGN4MFcydy1OUnV6REZEVE00MU9YV3JNLXV6WXUyUDBodXhobHowbk9EaVB5Q0NINkFTZl9BONIB0AFBVV95cUxQdENOcWFONXAyZUhHZnZpUlRDS0F3WHJ2Zjg1MU5oQm12Z2FlVUM0Um1zS2dLWTl0VXFGMVBtdGdjbEZka1J0YzhuRzBOblR3YVJaMmdCZnJBUmx6WXIwSUJCaW82OXhQTC1WVklpLWhCRHJrbjJEY05Vd3gxd3gzTVlQVGx2a1ptaW9veVhnVGd6MnpMazNjeDVFOUI3TkFDODZYNTdLZXJoZDlzdUlsdTE4ZXlMVnpQb1R0RFhpbmhNcWVVZ21hRzBXeHpueEd5?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWXNxeWI1c1psR2lYV1ZJWEtKYndxQ3pjYW5BZndjbXlBZlN1clBtNVdJYUdyMFpoVjBCcDhUMFZudC1hNjU2TTBvN1lWb1JFOXdnXy12MHdlekZMWHJKV3lrSU1fVFZXS3BWYm9qamtzUVA4V3R1UVg3eDhZaDNKY2wtTlhWU3RDS1d2Z0p2T1lpeENmUEkwZXpRSGVBMDNaY3lETzh2ZzFzWTZmMWJweGZlTmxlT2o2NWh6NjVneVM3Z0NWb0YwY2h2Q18xdjh1cl9URGVGTnZuc0JiclRaR1Z3bkVWRFB5RTMw0gHwAUFVX3lxTE1TdzJsQlhhS0FKTHZrbzhZeG0ySGlpb2lXc2ktTU1pMGJpZnhCRU95MFFsRnFMYnBLcFgxaU1UZTZpUV9GcnU1b21Hd2d2b3hxeTlWendvYnpMSHpfLVpYdklpd0ZWaXh3N0tHdzZGLUpBa2hqWFJBME50VzZ6eXo3T2dYdkxsZDV2T21IZVF3V282Vlpxaldfa0JXTE1jeHhqSjdxT1NadnN1YzltWEdKaHlmTXM0UnlYTDhNQ1NHUnhWWnRhZlNlVEJuQkZIMWlVLUdVZ2l3aVBhdEFEWkFCTEFGSlFwcGEtZG1oenZubg?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdjg2VTBQSVp4LTZCNkxBVW1ZamFiU18tU2ZpVjZxa3VGRUVmd1Nvb24ydjVpc2x4em9lRzdPNHNiUnlTQVY2a3hVNDNLa29XVjZQT2kxTDZKcFlVVWdVWWRscFFtRmsxY3RvQ3MxSDJ3dDBvdUY0WkJfa0stRW1wTDdnWlI3Z2ctTkNaNVZ1Nk13TlRNOGJUQldjMnRnNk8tVmp1endPV1E1Tzh3Y3hDODlPcG5saGI5Z29tVG1iTkVHUFJaWnpLTTh2UEhES3JxN2dYaVZIS2V0SDd4RlA2UFpjbEltOVBVTVBPdkxqUdIB9AFBVV95cUxOZzBDNjVoU3lUMWQwaDluczRzam9ZYXlNamVVSVByQVh6VFlhZVdhajZST0Z5VWpsQkwyMFNjSUFLLXpfLWZfOU1VR3BvRExyangxcnhKV1BnWElSS2RGUk11bzZocDhkU0llZXR6M1NMcXJzVDU0SXJWbWJ0bHJmWjhqWE82dlhBMUxJSDU5eDRWNlZvNXJsbmEwWEgxRk4wMzZnOWtmMFUtVGpVZHN5MWNMNzc2b2lQZE1QTlh3M0wyQTdnU2huaG9NMUVuZFdRcVlNMWxHOG5QRGk1dmpwS3RKVjk3SVRJYnIyY1E4UUNYb1NV?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeGRvN1hGdlUxMWhsTXhxTzBfYkowZ20wQWRHdm9idmFIeVMyWVQyeE9zRHZNaV9IUUZkd2paUjZLbVdGX2NzcWhZcnZCREFHNzJNMXoyWmYxT3pxdDlxX3Q0Y2NLRk9RYTd0aGVjOEVrS0lpRDdZNjRNbEdtRHFVU0RXZUJYNUtMVTNQUDRMNkZpbEg2SGUxS0Y1aE1uaE9jTWR3NnlobkRDb0s4cndaeTFabTNfLUdpNmxSZngzUGdmdHlOb1ZKRnV3aDHSAdIBQVVfeXFMUHI3RGdPMkdQdlVpWGwzTTlJckJGeFl0TXdFbjFZNkVGS2RhcHFZTjkwX2dOb0RjWjY5Ml9pbzZsSUdJa3ZZRVAwMkJSRnRQUWhiRDFuVFNOclRNNjJkZVZxeUJLNUozNDdqekoxYWNkTTg1MHVIN0E0SXBwRGdrR2J6bkpmbGFQRGZ4U3dJaUFiSl92ZXRDS2g3NTdGdmdDSkZ4aW9CTm1hcFU0cnlKNHBRYmdxSVIzdUVrcTBVenhaSXd4UDAxNThuOG5jTDNJaE5B?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "बिहार: रिटायर्ड इंजीनियर की गोली से मौत, कार में मिला शव; रांची से पटना आए थे बहन के पास। इसे Navbharat Times और Amar Ujala ने रिपोर्ट किया है।",
-      "image": "images/amar-ujala.jpg",
+      "brief": "अनुज सिंह के लिए प्रचार करेंगे अनंत सिंह: नवादा में पटना स्नातक चुनाव के लिए करेंगे जनसंपर्क। इसे Dainik Bhaskar और Hindustan ने रिपोर्ट किया है।",
+      "image": "images/dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -330,33 +397,6 @@
       "genuineness_label": "Verified",
       "brief": "पेड़ से बांधकर पिटाई, सिर के बाल भी जला दिए; पटना में युवक से हैवानियत, पुलिस ने बचाई जान। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें etvbharat.com और Hindustan शामिल हैं।",
       "image": "images/hindustan.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-to-sonpur-ropeway-7-km-news18-hindi",
-      "headline": "Patna To Sonpur Ropeway: चंद मिनटों में पहुंचेंगे पटना से सोनपुर, गंगा के ऊपर बनेगा 7 KM लंबा रोपवे - News18 Hindi",
-      "summary": "",
-      "date": "2026-10-03",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXdTMkhoQ3dJUUNMdHlZRzlJa1FUX1JCNlNDV09TYUNOQWJSb1NzbFRrdWJBbEN5YU02X2tOS1E2NWpUUFM2UG9QWF9ZNUFJd2l2TkUxT0ZGeVYzeHEyT2s1STJmaEFHYnl3OVViNGZIR0RJSUFmQlJTYVQ1RWF0dlZrNkNseWVEV2RBWlExdjIwX2ZiR3R5OGxlUW1UcW5sa3F1ZHdEU0hPbGJuNHZNbHkzN3FBdGx0cTNJSVRYa1Y0WGNWLXFCRktfYjdGV1R40gHWAUFVX3lxTE1kZzc4SHNINmRrTDdScThtSjduaENQTGgzeUR0aHRKOURhV2c5T2JKaThHR3k2RkswTWJrVVdfQ2V6dUdJWHA5alhtbU94cThFZldMUWZ2SjJ2cGxrZ2VDWHRTT010R1JFTWc1ZWY0SFRReXlubUlfNElIblJHY2lBc2xRVUJfRGZTMmMyam1DdjB0VW5rSnZhZ1Rlc3dCeTk1NmhVSTVxVDVZc05DYkhrdUpNeHNGd3BfSjJ4cTFQY3hqWEhyUXlaSHlyQWJvN2VMTnFyM0E?oc=5"
-        },
-        {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaE1GRVR4NUtlYjBsMlV1Rmh2TW1pNk5hVlRBMjg5REpsMWZZUnR1eHk2U21iZm96WU1Dd05fcVJvMXhUc0lmdWhEWXJvWFBOLVZRbUlxUzBqTXYwSGVsejZub1RwWnNBbTZRVWIyMGQ1d0dUTEV2dzRlWXVNQ05NZ0YxTVFHZXVPSElGVmJMSG5FVW9UenNvWklkSkVpdEYtYUUzZUtNT1lEeXUxVjljRklBTjNWTWFCRFRYREhVWnJyN2FBOXfSAcsBQVVfeXFMTU5SSWtfTlVFVjI3dEZ2eVA0X1pjYm1QWEFqdWFSdG96cnlTS2JOWktUVEI5Nmtqd3E3VHk1SzlOaHBJakdyelR2bnBGMDhYNVFLeS1Id09hendrNk44OG9JSEp2ZUZlandsRDJILWw1Uk9xN096bm5TWk84cHZzdkFJQ2VkX2JJdE0ycE5sdjlvU1hueElfTDlkSG1HcGdtMWlGQ0FpVTZ2VmpTZjMweUF4TVc3UUU1N3FkeUZLX1RpTndrRlhEVFVfS3c?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna To Sonpur Ropeway: चंद मिनटों में पहुंचेंगे पटना से सोनपुर, गंगा के ऊपर बनेगा 7 KM लंबा रोपवे - News18 Hindi। इसे News18 Hindi और India TV Hindi ने रिपोर्ट किया है।",
-      "image": "images/patna-to-sonpur-ropeway-7-km-news18-hindi.jpg",
       "image_kind": "photo"
     },
     {
@@ -428,7 +468,7 @@
       ],
       "sources": [
         {
-          "outlet": "NDTV",
+          "outlet": "ndtv.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWN6SUZzS2hxM2FLelVSRmNVSDJqQ2hwUUpyVjFpNmRTWENfeDE1Y2hyRThLNmR2OFYwUDZMQ05nSThLMElySERCNm9xT1VtTlB3cTN3aV9xdWo2WGczbC15cVBVX3B5MGN4NENsQWNBelVaNzFLc3g0U253Q0NNMGRjd29tZk5jak5rQW51czlKUmd3SXJveXVRMC1ac0xGNmk3RmdfTk5GeXBlQS11RDdMZC3SAbwBQVVfeXFMTklRMnJHRTRBbk83WEtWQlNqOHFvNzFVSmtYVkI2bUtQc1pZS2l1Si1feTJGSmJ1MXFiVEw1ZjgzSVZkU2o2ZG5SLVhVS1dXRjNXRU1aN2tzVzRFOEF5dGEyaXpsMHdPaDVtS0RoSFJLRXkyUzJ4aEE4QXM3djZONXFFenhUWVpjSU1ZajhxeTJBa3NkWnNxTVRQLUhkTE1vMGF2V255RGo5MFdnRDBPUjU3WGxLMzc4YUVodTM?oc=5"
         },
@@ -451,7 +491,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Video: Woman cop slaps Patna man, he hits back moments later; viral clip leads to arrest. A crime-related story. Covered by 4 outlets, including NDTV and The Times of India.",
+      "brief": "Video: Woman cop slaps Patna man, he hits back moments later; viral clip leads to arrest. A crime-related story. Covered by 4 outlets, including ndtv.com and The Times of India.",
       "image": "images/video-woman-cop-slaps-patna-man-he-hits-back-moments-later-v.jpg",
       "image_kind": "photo"
     },
@@ -511,7 +551,7 @@
     },
     {
       "id": "congress-names-five-candidates-for-bihar-mlc-polls-ally-rjd-",
-      "headline": "Congress names five candidates for Bihar MLC polls; ally RJD in fray in three of them - The New Indian Express",
+      "headline": "Congress names five candidates for Bihar MLC polls; ally RJD in fray in three of them - Deccan Herald",
       "summary": "",
       "date": "2026-10-02",
       "topics": [
@@ -519,25 +559,20 @@
       ],
       "sources": [
         {
-          "outlet": "The New Indian Express",
+          "outlet": "thehindu.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUFkxNWFHZXBlNEliYnNDamJZUHMwYmlSdUlDZ1dVMEctUks5QU9ZZXRFRV90M1ZSVHc0VUtzNHBLYUZEMVlVek9SZDF5RFV4TnlvbV9rbTN4azRJZGRwaVgwZjM2bW94VkdxWEd1TE1mWmxhR2NNQzNib21LRjF2c1JvaVNsYUxENzFtX3RYTjdHN0ZBNVBQR25YbXM3NHp4cjJPbVR1eldWU181U3ZuN0xzenBtbkZ2OXVIYU9SYUpPbHRsUmpFRUNYUTMwOF9rRmVscUx1NFFqQdIB5wFBVV95cUxQcUU2djVVYWpRcWJXRUFIZ3hqbG8xRmwxcElUQkF3NkVmYUJUY191TzNvdW9MSEhqR2ZmTml4Uko5M0l2X3kzejZydmZzZ3gwOWhJNHZHektDN0JGd0hMUjM2OXpXNW5NTkdITkluTDZ3RUFoai1MZTB6ZHZtNGNoVnlwdGkySVI5YnhETkg4XzFBNndTQnJCOU04S21wekV3U3hwcGpmWWstMVpQU0Rsb3RHbTI3UEtSYnZjYmJTVXk5RDRFQkNCNzM5YUVtck1HVUNjdHU1U1hhVnhsZ0FBSi1ES0hGZ1k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXJod3BFaElxaVVzNlRNTVFXUjNweTl6NmZqR0w3amlrX05Tcm9ycWpUQmVVd2dMbzNqZkQzMmdlaWRTMmZxblJ6clB2amFuNjRHbVlrOVQxNWJSX0tOWTJ5S1p6Wk1paXdKWVgyU0pHYU1Mc29jNmlwVVAwRVIzcXFyUWk1T2VwMWtUQTh2RWhoUm85Zm44alhvajNKWGVpSFZkU1V4Q1p1bk1sSmktanM4LXNBdndIanBNMWRxbllSOXNGeDBsQi1NTWcwX19LR2dVc2RUNmRnQUpEV0YxYjBXNNIB6gFBVV95cUxNYVNSQUNMaWplYnBfU0tTOWdtZ01fRHFkZ1JFMHNlbEJobHp6T2doaF8wdXVNNTRtaTdrUmxlRFNtM0hWY2dVQXl4dG9OUjY2M3A3b0h4bVFnV3RQQWkyVXhreFJKYlU2VFFkNkhYU0poeDE4WTZfdXN2Tm5VNm5wNzJsd0tCZXhCeS0wVDlZS2pJSm9ySU1KYVA1RFBHZktXaXZzdzdvTHMtdEVPNV9HS0VzVWU3RDctWV9RSm9aUWZ2QnUzTjJzQnA4V3JaZFc5RmMwa2h0c2JjLXhpMjdEdE51X2pJbDcyaHc?oc=5"
         },
         {
           "outlet": "Deccan Herald",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVkFLNXYyajJvbUpUNHVmd1BnUUFmZUZmWFJ0SWtpUk1kM1ZLeXExX05GV2R2UWhBTE94b0xsR3N0LUtzZkozaUZfVkRsaGVlaGtNUTFkTzJqQUFCdFRkQUpqTjZXS0R1MjZXN0pESDE5T0J2RlhuUTg0eFdDMTItZHVMc1czVkptMHg3eUQ0T0Rpczg1OHZIdGlDQmNOakItYjdVN1pHWTlTcXBwbi1LQ0hmRE0yeXNwSS1GRGlpYWFNVW1aYUVabXVJQmw0QQ?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXJod3BFaElxaVVzNlRNTVFXUjNweTl6NmZqR0w3amlrX05Tcm9ycWpUQmVVd2dMbzNqZkQzMmdlaWRTMmZxblJ6clB2amFuNjRHbVlrOVQxNWJSX0tOWTJ5S1p6Wk1paXdKWVgyU0pHYU1Mc29jNmlwVVAwRVIzcXFyUWk1T2VwMWtUQTh2RWhoUm85Zm44alhvajNKWGVpSFZkU1V4Q1p1bk1sSmktanM4LXNBdndIanBNMWRxbllSOXNGeDBsQi1NTWcwX19LR2dVc2RUNmRnQUpEV0YxYjBXNNIB6gFBVV95cUxNYVNSQUNMaWplYnBfU0tTOWdtZ01fRHFkZ1JFMHNlbEJobHp6T2doaF8wdXVNNTRtaTdrUmxlRFNtM0hWY2dVQXl4dG9OUjY2M3A3b0h4bVFnV3RQQWkyVXhreFJKYlU2VFFkNkhYU0poeDE4WTZfdXN2Tm5VNm5wNzJsd0tCZXhCeS0wVDlZS2pJSm9ySU1KYVA1RFBHZktXaXZzdzdvTHMtdEVPNV9HS0VzVWU3RDctWV9RSm9aUWZ2QnUzTjJzQnA4V3JaZFc5RmMwa2h0c2JjLXhpMjdEdE51X2pJbDcyaHc?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Congress names five candidates for Bihar MLC polls; ally RJD in fray in three of them. A politics-related story. Covered by 3 outlets, including The New Indian Express and Deccan Herald.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Congress names five candidates for Bihar MLC polls; ally RJD in fray in three of them. A politics-related story. Covered by thehindu.com and Deccan Herald.",
       "image": "images/congress-names-five-candidates-for-bihar-mlc-polls-ally-rjd-.jpg",
       "image_kind": "photo"
     },
@@ -557,7 +592,7 @@
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTmdiMDhDR0s2cWl0Rm1vWl9RWGotR3BmeTJVUmtQVHRtOEJwUTR6aGRhWEtnRF9VVE5JSHlxWVFVNjJseHZ6SVlwUmJablJ1MXhDZExiYVFkOHIzVm83S0h6dmFwQWF3MC1ucWpTOWZ6VlNWTlFYZ0NOUi15dFJOYlM1YmhmenQ3bkE3ckt4SHU1TlNENmNMbnZ2US1XUmNXWE5GYUxVMUczMnJKNXFWWVREbDJISFVSMHpCUXdpTE1ZLWduNm9tYW40REtyMnAySEFNUTYzUFV5eFhjMXfSAesBQVVfeXFMTTNILWtmeWFxX3A5ZXp6T0lPRndSV2FtTHJmckNCT01nR1Y1WlBYTmo1RzBseGlaQ2FuWFVTQnRjUC02WXpxcjhkd2xxcFB0UkZia2NSV05jZzVGX0JUNUI0NWFPc2hkZkhKeUVCckJTQXJzUXJXQkRTaTdEMHE1OEN3bzhFS2MxTXM4TlVKMV9kTUM5X0E5NHhQbnpjdVZKMXZLOW1pZ0YxOHBiU1RfbWx1ZktZOHZjVUpTdWsxS0xZc2ltcG44emZBelIyLWNvby0zRGZ6eU5ycnpOOWxScVMyUzdhNFNPUmZxdw?oc=5"
         },
         {
-          "outlet": "telanganatoday.com",
+          "outlet": "Telangana Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1VKV2VmR3NFbnRtRGo2T00tMGt1RTVsdWVxSDhmODV3QU5jdzQ5am1BcFl4NHJxRUVNR3lkVThnUlhNdzdSM2Nhd3JKOFBMb2tQRmh4OVJfd0NCbk4xLWNEUE5YZjJ6ZlBYbS1TLWxFQ0p4a19pZEZsZFphTEY5eG5neVBTalEtWTVreFZsNTBuWGIxLVNPcQ?oc=5"
         }
@@ -565,7 +600,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "28 places in Bihar on alert for severe floods as Gandak water enters new areas of Saran. A weather-related story. Covered by The New Indian Express and telanganatoday.com.",
+      "brief": "28 places in Bihar on alert for severe floods as Gandak water enters new areas of Saran. A weather-related story. Covered by The New Indian Express and Telangana Today.",
       "image": "images/28-places-in-bihar-on-alert-for-severe-floods-as-gandak-wate.jpg",
       "image_kind": "photo"
     },
@@ -584,7 +619,7 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSkNCVDJqZV9zTVdZU202Rjd2bGU2WVpqYTFEZ2Q4aGNmQ0lsRVFETkQ5bTBfTVg0RWlzVW1ZTEtsakZSZUVJSEdpZjhRb3RLeVROTFlxdUx2YVlIVDhtLUEwOWVzQ1Q3RHk2NjExemVMekQ1RjFLOTVZRnRVZmdGaG5OWElINmppcU5PMk1saThqMllELUMzeXhVZGlucG1ndGJldzRPN1NaY0Fva1R0d2hfNm52YkttZEdJeWh4U2xHcXlINldIUnNHV3UxZ9IB2wFBVV95cUxQT1RXNVdGQXluM2tUR0NJV2JqZHQzZzFiOWlKb2FqSDM2eXZHVThUckp0b0phUW54QWVuRmFRLWoyMGM3M095NUJRRF94T2pYTkpXRlZVdWo1MHhPYVlHaFZyZmZfN1pWTGQ2QkRmNWVlbVJHMFBRZHRtVDItOUFIV2U3SnhOdjN4aG5QZXpqdlEtQmctc2k0b002b3pwYXMteTkzNFAyUmJ4eTdKaFNjamM0OGEzZTdWUFhEbWRZWjFOV2pKX1N0MDVhN3FmdlFsWUEzOVdvblFLMTQ?oc=5"
         },
         {
-          "outlet": "NDTV",
+          "outlet": "ndtv.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclNiRlYxYlZFTHFXV09JVERsTHZMX2l5UVFJSDBDcnpVWjRkT2RqMnd3UXdXTUZrdW5wNENSYWx1YVdrMHdzc283RTFVSW51N2JLRzJzZ0V1X0tVZnN1NkhLamRjb0VFZVFwU0JBVUphVjR6V0Izemkxc2JQOUUzVXBPX2dwTFRCVmJzX05JY090a2JfMW80ekJ0U1pFaGpZVkpyTURWbDMwcC1nOXI4?oc=5"
         },
@@ -592,17 +627,12 @@
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDFsMWZwRXliNlR2bUZMQk1YMU03SV93cUxBQXY1UlIyUkNvYXZZQTRxX2g4WXIweU1Cb2gxbEVWTmtyS1pqTThjR0hKM0VxcVRNS0xiYVpSWUlhTjVfUnZReTZYQ0d4SWRJRThqRGc3ZjZvQ1BqMDhmZEd1U3NVVDBGSm03OGJnWUw3dl9EWmZNRzh6MUFBOXd5blVGOEV6a0drcEtGZmNzVFg1Q1VRcENLYXZRS3U1MGhKd9IBwgFBVV95cUxNR2Q0T1hUNmVZRGdyMWkwVmViOFA2WnJCbzZKRWd0ZDh5eXR1LW94U3d2RjlnYnpmY1J4NnltdTg3a0kxRnd5cW9mWnE4VDU3MlFQR19WLWlma2VoUjN2Vk9VZ0E4ZGV6S0tyZl91RExQQno2Z09MMWRnbC1mNTMxUG02WmlKWVZFRnNfYk01MTNvejQyNEJJQVBRZ05kcDBCQXRzUmwwOUxVWnFhdEJqa1dKWVBGV2JpWDNFZ0xmamxmZw?oc=5"
-        },
-        {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0Exdlk1RzA5QmFoVVg3VUh5VVNqeHY2eTdLX2pqOVJ0Y2xpbTFFSXhrVDR6VkM1ZG0tbmlLX0lHQmxWNWpWX3hzWGthYno0YkliMlhwVENtaWVVaGQ4YWx3TkFvWk1NVGxrS0xQYzgyOGlfWXR2QlJWOUZLRUo5Z09kVVJpMGk0Qi1yS2V6cElGaTdhb1RzSEpMdy1VeUVkemJXX2llWmJ0X3lRUXQ5NXZsSmJDMERibW5seF9WdGc0dmNQWDJoeGxKZEduemfSAdQBQVVfeXFMUEJOQ2dOTGZVa09GSU1IcWVidUp3S3o0UWU4ZDZsMm9GRmktTEl4LXJCbTFEMzJoa3JkQW1pTUh3R0xDWWQtT29ldThwUmxKSWZRemNzRm5oSjlZdnB0Rmc3ajBhTlIzVW45MmFFR2FldmROMW5FbmZzMEpXZnA5bXBmUDltX3pIaS1ZMEZmTUw0RjRQaXB3TF9xUlpKQ0xsRW9WZmhCNGRCcC0tMTNmbGEzdEhMMGJsa0REdGJwdUFrb3JzRl9rMjRZaUhrUmJrc0FXX1k?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Tigress brought from Bihar for reintroduction in West Bengal’s Buxa Tiger Reserve. A crime-related story. Covered by 4 outlets, including Down To Earth and NDTV.",
+      "brief": "Tigress brought from Bihar for reintroduction in West Bengal’s Buxa Tiger Reserve. A crime-related story. Covered by 3 outlets, including Down To Earth and ndtv.com.",
       "image": "images/tigress-brought-from-bihar-for-reintroduction-in-west-bengal.jpg",
       "image_kind": "photo"
     },
@@ -648,11 +678,6 @@
       ],
       "sources": [
         {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGJ4NjBWazdKaUlTSEhZTUNmeHdLRzRVbGNSeS1GZTVGcy1ob3pxUnc2RzMxazYwTnZ6RXllNXdBeEhlZmRydzRzUHBjbHlhV01ldFpycm85aG8xUUdVRlM3LWlCRTJ6SERhVXkxNDY0RjA1Ym1lcHdwenZCNWFYV0NzZk1Uc0NDT0o4TGNmWHVSVGVPc196dVRvUi1BLWtKUURJMFNqSUdsbm5XelczcFhmNERYSHlPVDExNkJ3UkxtYm9RdW5KcdIBzgFBVV95cUxPek1aQl80TmdRU2hGeFY2UlNzYkx1U2dpLS1xUlppX2RSc3pzZURkanllNWtEbFh0UXZ5OE9UNjNDa0d0UjB2Q0NiMGJwWHBuXzY2V19UX0ZoX2YwdjE5dy11bFZDX0RDeXZuTHA3QzlEcFhabW9kY1BhMXVHV3k3VUVodkVpQ19sZWhjblA0NnI0MklVZDlpMVpnQnU4emFvQldmZjZ6YUF5clBPb0pMYzJ2b0hqNThNWGQ1Q1AwekUzQlpGT0hfZWd5QTNJdw?oc=5"
-        },
-        {
           "outlet": "Jansatta",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORm9GYks1Q1BkaFNZUjFmTU9OTGxNMmFmWlllLTUzTFQwWFZDU3A4UzdDTUdnaFVHZ29JMFcxMk4yUnRkb1FhZi1Eb0tKMXhDQXhhVDF2ZVFsMGVEWXBJUC1XR1lFSldNaXN2ODdtWUpvMUNvYVRfOXY2ZExsdHJpdG9KYTlHZ01iZHZjdVJGU0hzU0hqUUE0bkNVLXlsWTFjVmJTbUQ2bHhjbDdReFd3cU9oUmZEQ3BtRkRGS0NNMDdHQVNid2xFRnVQa1dCb0FlVDJUMVVKWTlwTmtPVzZiVVRQSm8yd9IB7AFBVV95cUxOdzAtYWFNNndWM1NuTGxZRGx5U2tmYm1BRlR3eHBQVGo4ZUtuN2l1RUlVc20tQUlBblBwNDEtUGc0Ui1xazQ4TzdiSGQydV8tT2o1LTFXdUx2YWFzNGV5amNZdTV0SVYtREl1LUg2SE9RQW11Q0YyUFVjM19kOVFPcDBmMkhxQ3ZJVmNTVk1reDFaRTJnMER6OEdmcEI5c1ByUEpMZU1VN3pFNHM4MVlQb3hXdVl2T2UtUXV2SFhScjVVWDI0WkpvYlFFTTEyZzBzbkNLcjFkQXlBVHlmeWdoTVFKVXVKeVJ4V0VzVg?oc=5"
@@ -668,10 +693,10 @@
           "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZVBzcnE1QWZ4RGdnSjhIejVEMnBWVG0xZjktSElyVllLQXZhVkMtN1BrNU1KZV80STNoanNwYXZlNG9QZFRqNXNMdGFCN1NQcnNfa0U4dURDOTRhMWkwc2VNMmp1anI0WXFhd1hzZ19YQWJCX2FBSUdhUDNUandpVEllRkc4NGNNSW14dTlHRDlkYnpvbnFPaGhScERyaXZ4b2t5Sm5mcmNScTFtejNDb09YZVo3V2dwN1NZdl9KdUJDaE1WbTY0aDJmb3czZVRib1dTN0pUbjRJbmtiT2h4VlhmZTVXc2pRSk0xQ1pTYm5ySUdrVnJyRjhOcXFqLWJKbDZMVEtOT3pacnBSdHZRdW5rNElLNTJjT0V2dVJndk9TUS1I0gGqAkFVX3lxTE8yUUdfMzlIVmpzcl9ScE43dGlVM1k1UXluazlqMHVTS2pVU0hkRW03aXhWNWc4OVdhV1NDcGloMG1SUzNNODdvek9Nb1Q5NlE5T0tReHpmaHlpdXJmNXhfbzhBRndVb3REaU5ZNTE5cW9udDJjRGtnZjlQZHFoajFJYWNiZndyWUVuZkZUMVVYajlqNFRJRDQ0V2ZXUXFWRGdOTEtGTk9HYlQxbFFweUpONDUzT1V0cFNaWmNzUHU4VC05SW9BMjZvRE8xWjN5OEZWanYyaG1BcF9vR2VvUjVOZDQ2NDJVUG5RSEtCVWdUU3N6czJVV3VnekVfcTBtUUc5UF9MMk5hV1FrVXg4eVlqdjU1TmJkWU85TU84d3prNnBpTzR3VUxiVHc?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'माता- पिता के साथ रहने आई हूं', रोहिणी आचार्य को पटना एयरपोर्ट पर लेने पहुंचे लालू यादव, राबड़ी देवी और मीसा भारती। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें India TV Hindi और Jansatta शामिल हैं।",
+      "brief": "'माता- पिता के साथ रहने आई हूं', रोहिणी आचार्य को पटना एयरपोर्ट पर लेने पहुंचे लालू यादव, राबड़ी देवी और मीसा भारती। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jansatta और Dainik Bhaskar शामिल हैं।",
       "image": "images/navbharat-times.jpg",
       "image_kind": "photo"
     },
@@ -700,38 +725,6 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना में मनचले ने महिला पुलिस अधिकारी को जड़ दिया थप्पड़, सोशल मीडिया पर वीडियो वायरल - ndtv.in। इसे ndtv.in और Aaj Tak ने रिपोर्ट किया है।",
       "image": "images/ndtv-in.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "dainik-bhaskar",
-      "headline": "पटना स्नातक सीट से डॉ. अनुज सिंह ने किया नामांकन, अनंत सिंह भी रहे मौजूद - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-02",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWXNxeWI1c1psR2lYV1ZJWEtKYndxQ3pjYW5BZndjbXlBZlN1clBtNVdJYUdyMFpoVjBCcDhUMFZudC1hNjU2TTBvN1lWb1JFOXdnXy12MHdlekZMWHJKV3lrSU1fVFZXS3BWYm9qamtzUVA4V3R1UVg3eDhZaDNKY2wtTlhWU3RDS1d2Z0p2T1lpeENmUEkwZXpRSGVBMDNaY3lETzh2ZzFzWTZmMWJweGZlTmxlT2o2NWh6NjVneVM3Z0NWb0YwY2h2Q18xdjh1cl9URGVGTnZuc0JiclRaR1Z3bkVWRFB5RTMw0gHwAUFVX3lxTE1TdzJsQlhhS0FKTHZrbzhZeG0ySGlpb2lXc2ktTU1pMGJpZnhCRU95MFFsRnFMYnBLcFgxaU1UZTZpUV9GcnU1b21Hd2d2b3hxeTlWendvYnpMSHpfLVpYdklpd0ZWaXh3N0tHdzZGLUpBa2hqWFJBME50VzZ6eXo3T2dYdkxsZDV2T21IZVF3V282Vlpxaldfa0JXTE1jeHhqSjdxT1NadnN1YzltWEdKaHlmTXM0UnlYTDhNQ1NHUnhWWnRhZlNlVEJuQkZIMWlVLUdVZ2l3aVBhdEFEWkFCTEFGSlFwcGEtZG1oenZubg?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeGRvN1hGdlUxMWhsTXhxTzBfYkowZ20wQWRHdm9idmFIeVMyWVQyeE9zRHZNaV9IUUZkd2paUjZLbVdGX2NzcWhZcnZCREFHNzJNMXoyWmYxT3pxdDlxX3Q0Y2NLRk9RYTd0aGVjOEVrS0lpRDdZNjRNbEdtRHFVU0RXZUJYNUtMVTNQUDRMNkZpbEg2SGUxS0Y1aE1uaE9jTWR3NnlobkRDb0s4cndaeTFabTNfLUdpNmxSZngzUGdmdHlOb1ZKRnV3aDHSAdIBQVVfeXFMUHI3RGdPMkdQdlVpWGwzTTlJckJGeFl0TXdFbjFZNkVGS2RhcHFZTjkwX2dOb0RjWjY5Ml9pbzZsSUdJa3ZZRVAwMkJSRnRQUWhiRDFuVFNOclRNNjJkZVZxeUJLNUozNDdqekoxYWNkTTg1MHVIN0E0SXBwRGdrR2J6bkpmbGFQRGZ4U3dJaUFiSl92ZXRDS2g3NTdGdmdDSkZ4aW9CTm1hcFU0cnlKNHBRYmdxSVIzdUVrcTBVenhaSXd4UDAxNThuOG5jTDNJaE5B?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdjg2VTBQSVp4LTZCNkxBVW1ZamFiU18tU2ZpVjZxa3VGRUVmd1Nvb24ydjVpc2x4em9lRzdPNHNiUnlTQVY2a3hVNDNLa29XVjZQT2kxTDZKcFlVVWdVWWRscFFtRmsxY3RvQ3MxSDJ3dDBvdUY0WkJfa0stRW1wTDdnWlI3Z2ctTkNaNVZ1Nk13TlRNOGJUQldjMnRnNk8tVmp1endPV1E1Tzh3Y3hDODlPcG5saGI5Z29tVG1iTkVHUFJaWnpLTTh2UEhES3JxN2dYaVZIS2V0SDd4RlA2UFpjbEltOVBVTVBPdkxqUdIB9AFBVV95cUxOZzBDNjVoU3lUMWQwaDluczRzam9ZYXlNamVVSVByQVh6VFlhZVdhajZST0Z5VWpsQkwyMFNjSUFLLXpfLWZfOU1VR3BvRExyangxcnhKV1BnWElSS2RGUk11bzZocDhkU0llZXR6M1NMcXJzVDU0SXJWbWJ0bHJmWjhqWE82dlhBMUxJSDU5eDRWNlZvNXJsbmEwWEgxRk4wMzZnOWtmMFUtVGpVZHN5MWNMNzc2b2lQZE1QTlh3M0wyQTdnU2huaG9NMUVuZFdRcVlNMWxHOG5QRGk1dmpwS3RKVjk3SVRJYnIyY1E4UUNYb1NV?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना स्नातक सीट से डॉ. अनुज सिंह ने किया नामांकन, अनंत सिंह भी रहे मौजूद। इसे Dainik Bhaskar और Hindustan ने रिपोर्ट किया है।",
-      "image": "images/dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -1064,7 +1057,7 @@
           "url": "https://businesstoday.in/india/story/bihar-vigilance-raid-rs70-lakh-cash-gold-jewellery-found-at-adm-supply-officers-patna-flat-558592-2026-09-29"
         },
         {
-          "outlet": "ETV Bharat",
+          "outlet": "etvbharat.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNE1FNGYycHluMGN1dU5nczVwcmVWczJYUnBtNUNMWUR4RURlaUFBeDliV3MtUG9EdlkzQUJldE1fdDdLS1Nzcm1zQWszVzVzZkV4TWtVemE2b2lqanU3NEk0Q1dhMkEwWFNHLXU4Z25SSVZPLVJxZHJPdlVmRVU0QVhvZTF0VTJRN29KUFRINHNzcW1jbUwwNW5mYlBaeU1NdnZEcUd6clg4bjdYNkhsd2RySy1EVUt6aVNlMkxjallUbnVJNGJLR3Z0TlluSWUxa2tBLVd6UHRsVVdTTlFj0gHkAUFVX3lxTE9lZHhwLU5ORFZLYldHM0g3a2N5SE9GWkNvU1dsWmpmenF2LTAtZmJwODZ1cjE4eFVEenBUcGVNOWlCQU9ucll4dy1VZk5maU5KYUtnUkU2eXU2anNOaWJLcTdPdUFfOXdZNWhtbEJJMDlyY0E0NUdzVmtEY0tManBoOE5VSXA4SS1jUnVLZnFYOGFLU0JnY2hpMFBTckZXZkhQMzloeTYzakFlem40STlsekd6ZElHUjFWX3NhR0w3SVZmQzF0SVFUT3JnTzFsY0dSSHN2U3Z4TS1XTzdabmFXUXM1OA?oc=5"
         },
@@ -1074,10 +1067,10 @@
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcmEtQXNpbjBpN1AyZ2kzRG9CQ2k4ejUwYWJrYXY4WHVXTE52SWxLaEs5WVRCaWpRT3ZkTHJ5aUhjUTZpSWJ3eGxqQ3prUHgyUGp4cWxyYVBMMy1DT2dPd3U0YlViQW5fMUpQVWFsUGVxLWstZG9qdXF2SG9ucFVRdHdwTEsxcXBzV3JVUWpXQ2Q3eElkZlNyNWNoN001NU9iMXhQTW9mTnJDeXAyai1HQkdJOTFjOXAwYS1mNWtMTC1JUXlUaU5adERKYXc1eHFBb05RZHF6cUfSAd4BQVVfeXFMTWZtZVZWdUNzNkttWDV2SndxbTY0NnI0SFAyREpIeWgxVF9Ic29YS2RJQ21wdzBDWlFsUEdla2JLQWdpUTlYck9VcU1LaU1BOHlRaTdSWVp3bW51b2dKWVM5UWdlS0xzcTFmd1VoWVBFRUZ3M3A0TFdDOUNzZTZlSmZfVk0xTkw0U3dNYmdsU1J2YllkUUZxZ0JPYnFiRElja29xeDdhYjJNRTdQSjNwSDFyVUltZGprb05XcUwzYVNlRWNKcmZxcVBJbm5NWEJQN0Z6MEh1dXk2aXRFd3NB?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vigilance raids Patna ADM (Supply) Ravindra Kumar Diwakar and sub-registrar wife; Rs 79.98 lakh cash and 48 watches seized. A crime-related story. Covered by 4 outlets, including Indian Express and ETV Bharat.",
+      "brief": "Vigilance raids Patna ADM (Supply) Ravindra Kumar Diwakar and sub-registrar wife; Rs 79.98 lakh cash and 48 watches seized. A crime-related story. Covered by 5 outlets, including Indian Express and ETV Bharat.",
       "image": "images/vigilance-raids-patna-adm-supply-ravindra-kumar-diwakar-and-.jpg",
       "image_kind": "photo"
     },
@@ -1142,7 +1135,7 @@
     },
     {
       "id": "bihar-mlc-polls-jd-u-s-anant-singh-raises-eyebrows-by-accomp",
-      "headline": "Bihar MLC polls: JD(U)’s Anant Singh raises eyebrows by accompanying Jan Suraaj candidate for nomination - The Hindu",
+      "headline": "Bihar MLC polls: JD(U)’s Anant Singh raises eyebrows by accompanying Jan Suraaj candidate for nomination - thehindu.com",
       "summary": "",
       "date": "2026-10-01",
       "topics": [
@@ -1150,14 +1143,9 @@
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
+          "outlet": "thehindu.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlBRVVJhczBXb3RvQ0EtVTIxbmctT0h5MVFrODZhampmeWZCQ3lGX290dGl0SEdDSUVLVmRXOHJOeGlXT1lhUnNlYlA1bktiaG5OR1JIdVFpa0lrTUw2TlpaWlluenpMMUxDSDh1Y1ctTlNMbGZ5ODlhTWRxbldIeE81NU9JRGNrSUpyN1RaVXc0OHI2alVtSmZQSXI5MTkyOURzNWVxQjFlV2luY0l4YmUzaDVkVGhGdUpvYjJObU9HNkRXSGJqN0dWX1ZqM3F2Zlp1bFloUENrMXZTZUNjRVFsYUhicE8wRzFqWWhPWHpESHR3OW5nSdIB_wFBVV95cUxNOU1FVmpaQTk3RkY4UFNYcHVKSUIteG5RQkFFZ0NTM3NaN3RETl9IWXJzOWpUUHRITkJYX0FZeXN4Ykt2OXI5djdoOVF4V3kzTkpVYmJoMzg2SklkMERXWEFicGFyZGVWUlF5V2JtNVFndEhyNWdNWGpyT21NZDc2UlVsTHlKQ1BSTDRaUkZBb3pLMVhJZi0tU2sxeTlaeUZrZVBKNk8waGE0NWNvS05QM25yQVdOYzg5NGNyX01pUUNad3l6bnhOQVJFUUo4cVFxbDRQU29rQUtVVWNUN1NPamEzLUZidVVDMFc4TG1iY2pwRlZYcHJwY1dPSEhjLTQ?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSndqOFJyYVdjQ3d4bm5aMVlSc2ltdm96bFJmdE11czgyUFV2VzZsRlpMUTJ4RUlzT2EwZGEwdFFjWHpRcDZVemlmYXZGM1pMZmlOV1Rnb3p2ZWRESTU1TzlYN3VId2xleE9yZkhVOXNqMTFubnhsNkNWdnJVclBkNnVKLXl6OEdXNEpsaUZrUlhaNU5ocVgxNVdXUG9BZmItaWlWdVN5V1pidUpYVGQzMWV0SHd3Y2YxeE53eS1rVks5MG1abGFRTEFmQkNlN2x2eHlr0gHgAUFVX3lxTE9qajBrRDZPR256bS1HUGNabXBuVUpGcVVQV2t0SUlSQkRfeFNfTnF6LVhOTXJRdzBpMXlJUUZuQV9jbXp6ZVhoQUxzMG1mNG1YS3J4WjVaZ1hQbHFLOFA0cjgyVzc3MFBVSFRuZURzZ2V3T1hBSldfZzRjQmw0RzM1Q3lmTlh0R01SRU8zbVBSeFQxek9DSXVwdnlQQ0dDV3o0dTZBZzl6NGpXNmFsN203LVpwYWM1YnVRN0k3YU13czZ5SGFsRDRUN2FYMjR5LWR2QU5TNWhISWFpN3I3dFht?oc=5"
         },
         {
           "outlet": "Deccan Herald",
@@ -1165,10 +1153,10 @@
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYjhocHBMSkdPTXE0bU4yMUNsQXRtRU1WRFM1ZXBIX2pLaVlSbENuLXR1UkdTQ1RPbEptekVvV2hRVzFna3h5cjZRV1RQVUNEb3k4Y1lOTVM5LXdldlhOdVpqb0tOdG54eXdNTFhrVXN0cS16bWM5cHlSaVJIbmt2bmg2dDRNbXBEOTBNU3dvSlRzOTdtdGo2Tm1NTkF5aUhWMEN1dzZ4UFlwUUlELTZXR2JpMWJVa2RHZlMtTGRwdjdPTS11bTRhTXdBdzNSTTNMT2lWZS02TQ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar MLC polls: JD(U)’s Anant Singh raises eyebrows by accompanying Jan Suraaj candidate for nomination. A politics-related story. Covered by 3 outlets, including The Hindu and The New Indian Express.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar MLC polls: JD(U)’s Anant Singh raises eyebrows by accompanying Jan Suraaj candidate for nomination - thehindu.com. A politics-related story. Covered by thehindu.com and Deccan Herald.",
       "image": "images/bihar-mlc-polls-jd-u-s-anant-singh-raises-eyebrows-by-accomp.jpg",
       "image_kind": "photo"
     },
@@ -1233,35 +1221,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "cabinet-clears-green-hydrogen-policy-sanctions-rs-62-cr-for-",
-      "headline": "Cabinet clears green hydrogen policy, sanctions Rs 62 cr for police vehicles - The Times of India",
-      "summary": "",
-      "date": "2026-09-30",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVnJpRVlUNVdZTUt0YlI4M1VlZ21UODVWX1JHUG9lazdhcHcxY1JGRUY4cmRibHVXRDZlWVlJOVFweXNkQV9kZ09ObmpLcERVZE9QZi1vZ3JkYTFnUWo1VVU2V2hKMnZMUVZaam5sVDlqOTh5Vmk1eW5TcUJQeUd1dl8wTDNmVjkwSFlUZWh2eFFVRUN6ZGFuNjY2M0R2UkIwR3F2dkR5bUU4OF9lYXhodnNrVU85SkZaSnpDa0hFdmx3NzhqUmxNRzl1bmR5T3Q2SW1kLU9neUJISzk4Ny1URXRB0gHnAUFVX3lxTFBxMDRQUlMweVVmX1NNRlpzSmRvQ0xrQ1hwT0Z2elpiTjd3aXZxTFpuSV81RHVYWEU2YlM1blJlXzl5cW5CaWxxcmN6c3ZxcXlTMWk0Nm5BcS1MNkpQUTNJdnl5QkNsU0JoblhDUGNWUWNnZzh3VlIxVFlSYTdQb19IbXpfZjdBNkZNbm5DN3JEWEdpU2Q2TjZjWGVYdTJROW9obld5NmtnWkxtV1VPWVZwN3VmVEdRQUFMZGVJNklkdG5ZaVpveHZ5OUstbTc2cWF5U1ZNcGgwNDhTSnFVR2o4cnVtdUVfQQ?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmpRNmhvRG1GWW5YSXVnaENRcW1IcGhCMUhzOVVTLTRod1FQOTlDbmNkNWplN0QtTVZ4OUR4TnJhYTRNX1I0dnpJcDhEZVlobGEtSjhRX0FudHlGNHEtc3JsTDFUVFFBcjJDZ0ZoQWNMZFFwSThrcml1c3RWWWtkZU1vaEtkYlpVNng4N2pDVElob1p4aFExdnhaMkJLaVVWWFM5NFRlc0dlVFk2eF9fanNvQUZoaHhlbHlRbl91eXByZ9IByAFBVV95cUxNd0tDSWlGQ1hqQ1Jzejk0OUxQaGI4OUwzLXZ2TE5IVXBXbF9nNFNYbFpCYnUxVTkzSkdMZnliampUcF9UakQxRmNBbm84LXJKU1B3WTFaOGYtX3phSVo3dG1oZGxfNGNsZkQ4NjQtNU9pMV8xYTRBNTJvTXY0NDlzLUJFaWVzaXFWcFJrM1VSTHFkczV2aUJJM1hTSXhvQlhHaWl3UUtqZ3hNS2Y5YVI5QXdVYS1ka3FaNWItalc0MDhSZEtTVnAyYg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Cabinet clears green hydrogen policy, sanctions Rs 62 cr for police vehicles. A crime-related story. Covered by The Times of India and The Hindu.",
-      "image": "images/cabinet-clears-green-hydrogen-policy-sanctions-rs-62-cr-for-.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "young-couple-on-bike-harassed-in-bihar-s-gaya-amid-a-spate-o",
-      "headline": "Young couple on bike harassed in Bihar’s Gaya, amid a spate of such incidents - The Hindu",
+      "headline": "Young couple on bike harassed in Bihar’s Gaya, amid a spate of such incidents - thehindu.com",
       "summary": "",
       "date": "2026-09-30",
       "topics": [
@@ -1269,12 +1230,12 @@
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
+          "outlet": "thehindu.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcmJzRkpCamhKUExQNW42WVpDVTE2TXk1bE1ob1c2elRkY1Y0MnpQOTJhdXU2X2FKU1lfRmlMWFMtMl9EZF9GVkZIUUFDUk50OHZIZXFtTWR4cWFwS1BYWXg4b1RVbTVkRmhURmk0cmhPVGctNEF3SzBocVBVWC16REZwLURrZHJiRENfSk5XaXNMOG5rQmJIVllLalpQTzZWTlA3c3cwQUFqT1NDOGJtY21ZdDdTR05iOXdPYWJQXzVLWm9KemJpNHZGSG45bi1xZ3ZFWE9Hd9IB3gFBVV95cUxNQ0FGYmU0NkFua1RLRGNFblpVSjBySm5nNXBYTHZfajZpZTd2YkdlNGpWS3djOWJjWU5RVDNrdzdrbEV6YThja3JQUUlLcVl6Y0JoWC00blhHZVVPUTUweVM4UlM1Y1BaWnN3azJNZlN4eGxQcnE0OFRQVXdoeEx4b0lOMkpYbGJ2NndtVU9JcWttQ3laVkdrUWxkcWJIQVk5Uks3Rmx2MTBEWXhyRnRvUE5xVWFGLVlLQ1oyWTdRdjVQOXRQbEhEcFhTMHdQS2ZVX0pXQm40NlJXZThGY3c?oc=5"
         },
         {
-          "outlet": "NDTV",
+          "outlet": "ndtv.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnFzT2o4d25GV1BDbUpqV3p3aThzOEVGN1U1WHFFaUZLeVhUY0RkaTAtaUVxNW1Ucll4aS1YN1pmU29Ec2NrM3E2MDNMUVdkNTBTYVMzRk5RYXNqdVd3bllVZXMtZ1daUF8xYUxfRUh6X2hWdFVGTnNwazJnNHdNeVhPX1c2N3F4Z3IyUm1ZU2lwMVM1UzhFQVFiMUc1bi1fUks2NnVIOVdobFFR0gG0AUFVX3lxTFBNVmhRNGx1b2hSWHFFQzY0anl0ZndHamlUdlFfRWc2X01YdzF4MW9pUUZCbUFKMWFvRlpTRzM4QVZsNkJVSXVQWjVDNU9NUUwwQjhGTVhPeHREZ2lLVHVXTGxKZ295REd4OHV1cVpiaW9idWcxNHgzV3FYZEJPZjNrM1lwc2RZMW9QSGhqQWlJNnhRejl0czFpaXdheTRqZmlzZmp0N1h1N05LRUVuNFowS1ZZZQ?oc=5"
         }
@@ -1282,7 +1243,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Young couple on bike harassed in Bihar’s Gaya, amid a spate of such incidents. Covered by The Hindu and NDTV.",
+      "brief": "Young couple on bike harassed in Bihar’s Gaya, amid a spate of such incidents - thehindu.com. Covered by thehindu.com and ndtv.com.",
       "image": "images/young-couple-on-bike-harassed-in-bihar-s-gaya-amid-a-spate-o.jpg",
       "image_kind": "photo"
     },
