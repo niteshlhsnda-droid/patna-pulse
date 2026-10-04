@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04 07:54 UTC",
-  "generated_at_ist": "04 Oct 2026, 01:24 PM IST",
-  "story_count": 46,
+  "generated_at": "2026-10-04 08:54 UTC",
+  "generated_at_ist": "04 Oct 2026, 02:24 PM IST",
+  "story_count": 48,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -19,7 +19,7 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVXNBRk8xdi0wSTI1eWZsWkd5bzRHWkJuUnlhRmsxeklnTjF3M2NfZTBsVEdORlI2TTRRTlhfejdFMzFUOXFGOXV4TlJlU3UxTjIyUXFkNDBDTWdGMUtZVno5ZDdiTHBvQlUwRm5mTGF5OEFfc0RHTXBNZFM1a0hWQXZsRnR6WEwwWVlTbWFaSWJ6RGR4Y0FvQW9WNU54RVV3Vm9N0gGoAUFVX3lxTE9kS1ptXzNGbDJSa2lHem0zNjFPc01iMTBLeV9KNHUwSHJQOV9rRnZJT2lnVG1WU3JGZE5sdEtSVmxLb2dVSV96bFZjN1AyZTNpY3g3VDd5QnROVXB0OVh5dWxNS2kwdFQxNjhzRS01Ql9NMkRlYW0tdnZrVzNxYy1CWHlkSXpkZE5CaU1fWXBEQWdjWFg0S21hTzRnQmd4LW8zOVVTbHM5WQ?oc=5"
         },
         {
-          "outlet": "India Today",
+          "outlet": "indiatoday.in",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb09PSml6R1pYY2ZVc1Z1RDZCVnlMeDducFM4SjZYLWJpcS1nYUZLeXZPby1HaUpnX3lMajdJZEpyRDJfMzkwRk5nR2Y3NWhDd0FDckhDY1d2ektNbzhXeUxTMmk5aTlaX3JTWVlkZFM3VHkzWnZqLXJ1R2V4YTJhcHhEVWx0ZHY1N3g2cG5ZNzQwYkdTQVJNRnUtcXdleUlpZVZMTldNZG85UEp1LXloX0lOS1ZBWk9BWmJxWWhDYWl1aFpzYXNUYkpJNm90RXMtOU1RMEZEREJTdmgycjByY1JXd3fSAeoBQVVfeXFMT1dIUFBJbUt1TmwwaklnN3ZOU0hHem16ellHNTZyN1dwZ3BvOXZFZTY5cmFqRjRMSTREUjBSU1FkYWFpQkhUc2YycVpvZ0doRnRiRUFTOHYwR3BZSVdjWHhfbmRwQ2hVbzJmRWM3aHU2eWxYX1EzYW02U190YkFWTHJFdDFScFV2MUp6d2pJZnBqUWVlSTN6LURGczA0RHJTZV9VdGV3T0RvTWFqaDR6Q2x5SE9FUzRnODEzdlczZXJaSE1ZQnAtRTRLcEJmc1lDZjZSOVBNa015MFN0WnJJSmlsczkteW9XdGNR?oc=5"
         },
@@ -77,8 +77,101 @@
       "source_count": 11,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Yami Gautam Dhar Seeks Divine Blessings at Patna Sahib Ahead of ‘Nayyi Navelli’ Release. Covered by 11 outlets, including Inshorts and India Today.",
+      "brief": "Yami Gautam Dhar Seeks Divine Blessings at Patna Sahib Ahead of ‘Nayyi Navelli’ Release. Covered by 11 outlets, including Inshorts and indiatoday.in.",
       "image": "images/yami-gautam-dhar-seeks-divine-blessings-at-patna-sahib-ahead.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-floods-65-year-old-man-dies-after-being-injured-by-rel",
+      "headline": "Bihar floods: 65-year-old man dies after being injured by relief packet dropped from IAF chopper - The New Indian Express",
+      "summary": "",
+      "date": "2026-10-04",
+      "topics": [
+        "crime",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXNESHJ4Y1luTW1NVmpLRy1uN0FjeEdReEcxRlQ1VGZ4V2x0RnJ3RXpMNTNOWGRLVVVQQXJzcS1pdUxXRGNlbnJDQzVORDladkE1Ymt5TDdIUEF5UlJ6UUEwZF9obnZidlNwcGtIb01vTUN3eFZ6RUpHQW8zcWRnUmswYmllb3ptVHlVZXpSRS1QbURCcEJHRmFpdUh6dG9jRVY3WU9jREZObnBQTXpN0gG0AUFVX3lxTE94a0YwVW83TGNnREl4a0pTVDBsLUZxdHc2VThrdG01THFZTUlkcjFhQ1A1QmRQZVNKbDJ6eWZtQnJ4WHhmS3k0bVpUMHpVdXc2ZEJtTDFEYzRHdXlOVmdXMHo2aDFvcUNYUm5QNWFXRUFrck1VcE90U0RjQUJrYkY1czdwYmgzZFFUZzNrYXB6Q3dlSnJOOWtDRDQ5QXBkT21sUkZYM3gtRlFpVmpfSnl3cDNaVg?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzlqRG50U2dEQ3RwdTNiWWg4LTQycGJZUzlLcjdodjBjcGtuVjFNaVA5MEFYRE5KZTY0REVnTndNNGpqRGF1Ykh2ZXRmeHA0bWgzWlZqN090Szl6a3RkaG1PVlcta0tVMGczclRuMjBkV3FMSEw3TzgtNmVNY1c2N2t6WXhNOUFkYnFyRDA4U3dtVDVxT2FVLWxfdHBhUnFqc1hobndIc0FpRjAyaEhFbHRUNjQ4NTEwNE1iemF1bjZwVTcwZjNr0gHMAUFVX3lxTE9hTDZDTkFUYnU2aWNRV3VoVzRWWUdYU1VWQ3RLUlB1RnlfYzA3Q08tSHFOZGo3VUxUUnlhOWhkWEJoUG1lb1gyRmxHSWkzeFc1NTFlWkNWZGhpT0tGS2VCd01OYzA2QWZXLUFsdzR1M29EbE95b3ktdm03aVFPR19MdDZPQVI1NzNUWUhCRmttQ293cjlLeklwNzNNWm4tLVc1N0QzbDM5Y2xVZkkxYlRXelR0cHdZZi1OUjROaG9WUVVOT0RZMURfS1Rkbw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW14Y0hzTVJuVnY0VkJERkg0bFgxOWZJVmFKQy1hbG9WZVpVYWxKRW9TQnlQYi1vM2FPZy1mbEZJdk1BQW9NNzhTSjNRamxKeGRTSmdya05ybHdzWHp0MzA4a25ob3RUdzRNT3VZa1RVOVhmLUlpeTQyaGJwYTV2ZFEwcl9fMjR3TUJTQ2ZaYVJ3eHdlY3RDdGFneVdpSlJMR05QSmk2WXIyNlpBZHRJcDRXbVRYZTNuNGfSAb8BQVVfeXFMTmhpY2NNVmRsOXhjR24wYmhpdThDcWZ1VUlfTEpBQnMwenhGWUtFcHBuX2NvdkFIU1BwX29FRXprRGVvdkkxUGNkMlhTSG16UWEyUVFhVGJOQWxPeUZ1d1JMWjA4RnladHNQN1RMVnBEcS1FbkpKUm1ENW5YM250WjY1M1RYTS04NGZTVGdEdVRKSmE1S25DdXhTbkFhV2RIMUtpbl9qZ3hTbnZJYi1DdHV3U0tUN0o4elhzVDdKclU?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXFBMVdNaHdfbTZ4NU12Y1hQR1VGRm9yZVkxMVVsalJLU29aeEpHdEprQkh0R1h5S3NmdjlTWVdTck8td3JMekxIRnlkRnJNNHNoY1dqWWJJOTFmTGZ1OGVPaTJrUWlsRFpNRmRYQlJaTGUtRmlOaE5PSlkwcXVRV0dscmpjMFRwalJFYzhvZW5vQUMyWTBrczBURFFhUFpNSk5sMmZtSnJnd3hmeF9TU2tpcHBDWnpncl94LTF1RnlONndoZS1qbjI3N1RwSkNV0gHWAUFVX3lxTE82bkJ5SjRrVDdESW5ua1E1by1OLWdPRlhnVWVpaW5VRGhzNEhPUjg2Y21LTzVZSjhvWmV5YlAwQy1fSkY1WThEUnpJTjJHRFBkNUMtaS1pbVN4c1Q0dlNqQUg2Q0tuWmxXOGk1ZHI4cEpwRE0zVUI1SjliYi1FWC0xY3lYTzR6aVdkMjNJQkU5ZEdUS2dubzVDRTAwUG9qNWNUQTRTbUpONmF0QUpsUG5QQ0JwSnVhcU9jUjc1LVlCemdMVFMyYms1WWdUNUlYUVhrU3E2cmc?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbUR4czQxdVExZGZxbTRaUEdRVUhOaDdjMU12NGRldjI4bU5ubXVLZzJwdFU0dWQzbTVsUnZwODBFRllwRnlyVGV4YWctS3JLVGlfYlpTWFh5UXk1d3labkxrY2VwU2RYckRZRko5RUVORXFIZ19HWnE0cjR1MTE0cVNqc1hGZlhjb0E4LUtYWVNpXzdpbi1fOHhDWG9DbXR1OTNUYjc3M0Q4Z1Y3UkgxdGxBVU83ZjZQOEhQbUt5NVgwcmZIZEE0UXR0QjBNSmswUUwtLWxKeTlSb2NqV2xkTTFvWlk2Tm_SAewBQVVfeXFMTkJtdUFxSG5YYzd1QjNheWVaVUFIVGppMUZmZDAwSlh6M05XLUxQUElsVjhFb203WTc4WlE4WDF2WWs0akg5RTVFWGtVTWR5WkJjcTN5ZmIyd3Y1RDVVLXdOX1lLX1NjSWtFbURCWlFlVTVhamJoT04wLVJ0SE9kOGdBTS1WUmxJZkJ1S0dQNDNnRDlBTEI2MEE2LTJiay1obmFrSkNzU2gzNTVKNy1qcm9RT2tNUTNMazBaR01wWmNHdTlGaEw2RHRLd2tUOC13TDlJN0FPdEprdnBpRVV0Mm5mdndqM2NXWWFVN0o?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1owNTVqVl9rSHM2V2pPUmlfMnoxbldqLXplenI3dlBPdWs3cVJQSEZ0QjFwRU9rV1JIR1h3Q0tjSmMySUN4QWpjVkg0SmY1SnV4M0ZyM09aSXF5NnhpUTBNbzhXMnI3SHo2N00yQjlGbUJfUnZtUWd2Y3ExczdPM0QxYWVhS2JXSTNKQ2dZZXdURVBqd3VTSV9ITGtvUdIBowFBVV95cUxNVnFybVRvSkpJWGNlM3VVUXhweV9zdkEwMXNGOFlnMHlNY2doUWFDbmVzZFlZOUxrQkRyM1ctX1FyQ0tZMVBoQWhkYkVnY2RxcDhFbWhUQ3NIZWs5YzA0YWJQaTdBUmNCdUlMOHB6NTF4UG9XUlFtOEZnN0pTYXB0anc1S1Joa25RMlN6MjlMQ1V6NWNfZEpQcGRRZlVVTW8tTG5n?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlloYzlibnhrNjhCRHRGVkRlZlhza19mOXV6WTVFU1dHNWtza3N5dTVqLTVyWHlncnR5VmZGWGo0OVhXS1p5VXlpTkFjRVR3LTk2ZXFFS3EtdlhYOEtGeUlYVHBETDRvby1ybnp5QkVoU1NRY3VoWXVJdk9CNm9GMi1tWHVYUWprSG1kT1lZUjc0YzJNcGtfU09FU3R5c192UXQwT29LRVM1VzF4SHpYX0NIN1dSYXI0UmRNZmYtU3BuWEQySW130gHMAUFVX3lxTE9SRFB1T0JTOUlfUWt0Qmk5dC1mcThHcGcycmNnMXF5WkZpY3dvaDZ1UUYtdmJTQ3hWd0gwNUhMMWN2WFNaSVBhc2RsT0NjTXJoVWRURmNQRmlxLWFaY0FhSFZfUC1jcHVkSTFOdDFIWGVmWjFGckV4QUZEb3FSQ2p2cEw3X0pNTDVPaVYtS0RVSE5TQWIwV3JTd2pRVEcweC03RW4yR1ZaQm10Y0NYdzhVV0owMGYzSkZHblhEVVVLdnhzcjc2c1Uzc3Q3bw?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTktZTUI1N181eWhpRnZicEtTaVBVbllqYnIzdGtRc3BTVVppODJxTjJMdE9LQ21NWVpZOHlRdkhPOEJRNUI4N3pSdHdrWHBRbHBIVW5TTVIzWHhYOFZJZGxnMGxhUnA2LURxQ1poUUZ0aG5IV3ZIYW1yLXFwUXRRd1FzazNiTmJLbnlLdTd5MXVrWFJFdktVODJUTklNNklzbFl2YTNseWJLVDNEMzl5LW9xc3pUQXlRWWVrcnZTZjdxWDZUd2RPaFVpYThsbUNNcEczcm1qNDQ2amUxdER6azh2MUpXQdIB7AFBVV95cUxOSEJGeWNWMHczb0JTU1Vvb3JkWk10Uk1hSjZCaXJjVE51SE9IOGQtUmNMODZMdkxVaU5wenpzQnR5dDNGb0JKN3h0R3YwUFpBLU1hWWRVVXYzdGtibGsyNDlIeExjRDRfVEJTZjVYOEtkd3RnSVBXWXNpRnZOSVRnUlNvajlFM0VOYkh4VXlLa1BLbFJfUVE4SU52NVAydlNZUzlWeDVNdlVhejFZRjZ4OHZYMF82VThUNWxXTThya2o0VjliN2pEbjRDOFFWbFN5OXRtSlA0N3VETGd5X0NIakFURjdEaUxiRmxCXw?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTlXdVVudmRBYkhOdEZJZThEVl9aV2xnWkdCSlVHTTl3M1Bpa3FTS3JEejJINlVZeUtrWXZNMEJVaWx6Nmt4Y2Vqb3FjS2lET3VrRjBESS1vV2UtVU1OV0ZaWGUwSlRwNXU5UHBERFZPQU5PVkZCbGMxMnpiRUU1a1lYSlhsLUlDOFBUWTFvSGxGTDdHMEdRMXo4Z1VlMTdoclRnbldnM0RWUHdUVE1rN094WVLSAbwBQVVfeXFMTkRoMHNMYlBDZ2NJeUNvRlVCbWlEakxfdGt5Rmo3VXZHcl9URndzdEVmdXptU0dSQjA3Y01DbDZ3dGtCXzFSd0dPeThDUGV4eTRudmZUSGs0T3UyT05Jc091VF83aGdyT1kybGI5U3ZPZVBMdTlGdkFkMjF0MTJOS2s0RWlGUlFzOHBrV21XWVhtb1FtaEdXQklHdnpOOVhLeFpiajJjamNIQ1lFMkx1cTZ5UkdjS0o4VlJxYzQ?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVDNKMUtZMmN2YTdaT3lQU29QckotVEQ0MG5na3Z2eWZJbFc2Q0ZIUERUeHlTcmNjN2FwX0hfbGt5RWRfQ3RJdWlnZW40T3NISENMTzFQbWJHMUZNaGpkTTB6OU9tSmhyOGNzVGl2UmpCc0xDLTVCRjJrNmtFQnB3MnBHRlVuVnFXVXBBYmhpUHRfMFA2M0E3UkloQmFlTGhTTTVtdmJYRG1SRWtGOWZNR0FZSENRc0szQXd5MzRMelJIMEN4SkhBZlExaXlxcm1QNWJQR1c5aU3SAd8BQVVfeXFMTmM1N2dZTVlJTnI3Q0YwbUJ6bXByaDk1S1VnMFI5Qko4MmdjWjY0bDc5WjdnWThMWHo2THc1WkpEdVRfcXFJdi1rblB4NksteGVCaUpmOHQ1bnFmRlVjc3h2RV9UZ2ZQTkctU0pDa0RndHRjbngyRk5FVXp0RmhMZ3lDMnE3TDJOdkhyaHhTOXJ6SE9oRlNseUdwU2p0MURVQXRGZElWVzhDWkN2TlFtNGYwNl9fcW9vRUxRSjhKNEJoanJaM3JoM0FRN1hobGtuMzVjcXJOY1d1aWR1NF9lUQ?oc=5"
+        },
+        {
+          "outlet": "Telegraph India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2paeUR6X194M2ltVGt5SUV6SkIweDVabmZEQ3UzemQybmtISE9xLUJCelU2RXV1MWRFWUNsLVhHcGYwejd0M2lHRzFIQ19wd3pRd1NfX3dvY1V5ZFFpVF8zY2VadXl4alEwbXd5TlI3UHk2OGZkUk9BRXp3cVZhdFdlM2UzSTJIQVZOUWRKV1BBaWZsVi1jRm4zUU8tck43cWJORXZETWFMTXh5SzNiaUZBVmpTVjM2N0hhaEN6ZURadlBC0gHKAUFVX3lxTFBrQkJORnlhR1JNR0FHS0QzN3p3aTVRR0FudWxQc2J0QVAyc2lYMThyak5RbktnUGhNdWQyYnUta1RGbXNZUFJST1M0UFZndGJOUlRmWkFSNGNPVVNtMFo3U0tFZ1BTN211YVBJWXhfcXVFSkJLbTZFUnNOZ0EyVzc3a2IxRXliMDJzbkJscmhxMzdVSUdvTjgyRHdCLVFFa253Tm1HWE0wcllUY0czY2F2MDBWNmNVSk4wbkwzOVZJVnRqVTBQbHFkaUE?oc=5"
+        },
+        {
+          "outlet": "deccanchronicle.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjNxdTdSc1VIQ0VrMHV5cGp4UURxRFlkS3ZqRENQVWxtTXVhczNpMWR2SFVRUmJzUU1kdF8tNllvQ1lVUWt6R3premJuYjZhRXdSOEFXbld1TnZ2My1jQU5vX2dpLV82XzJEZ3RlaW5FRHRPcHJpWjNMMUZ5ZkswZW5oRlFwSmN2S2NfWnlHNkFPTUNiSzVpM2JFT2JrQlNCNnhEVWt5LWRxRVhrVURFWlduWkFKeElUWlhFSHRn0gHDAUFVX3lxTFB1M29xdndDSFlxeW1KdTU3Q3p4ck50aU14SEM2Qjc2UndET0NjTVliUi1JNkdnOW5fQ09wQjZ2N1VDUGFXU0dWSkkwT1liLXpnZ2VCalM2QndlNDFoRUVhVTBibk1QTTk4dHpBZ21OYTBYYnVkQ2RQbmdhWGJaejVzR05sTGwwSUJQeU1NTHI2ZnZvNmpGZ0d5OE9iZnRFSlE1ajBZM19aZXpfSUJ0dWw2SHVWSUdRU1YyNDRnT1o5U1pUaw?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDhiSzhGM0lwdGxMajlkM2hNRzN2WDhxZ1YxRUtNakRaeDJITklGSURILTF3OF9KM1lXdy04Q1BSYmxwaEVQci1OeXNhNmRDMGw2bXhQTm44cHBvOWFnTUVyWXp5NnBiRE1QREN2Smlob0d6cENkRmRfRmxlaTNZcTZhVnRpQlZBZng1a1UtQVJKUUl4LU5ic281NnlfN3VraDNDQ1d4cTVyV2xhN3dhajBydlctaHRiZWRLWE9nQUc0Ni1EdU5DV2hwdU82NUhlNDZfQ2VaWW00eEFMVXpwa0R0X29GbzFv0gH2AUFVX3lxTE0wYVVzbl8xbm9zMUpFOVB5NlVNeF9ZTWlGYjBKekx5OHl5VEpma3p0WVh6R2hiTGkxbmdBTVoxWGtMT0VxMFVDVFlCcWRLeXppRC1hbF9qSkJxU2I0NWRuQTNKbjI2bE1xbTFrZWxsZU5VMUlic1RNWEdjbWVtY3p1b3FDTDZzVFhWejYybnVZR2VEVkx2c1pfaXphU3ROaG10OU10LXpNbjlURmowUUpUOGFpWk85M3dNTmlfLWtGWnphN2ZPNmdUcDBEbDctcTRqeHU3NGVSLUlwN3hDYnFZanJWNV95amdvR19pNUJ6SkIySElkUQ?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzlUZGxEeHV2U1J3eXdiYlJWbXlvSEliNnZvelBaS2NzMklkc0Y2ZVg0Zlg5ZWh1cHljU1FQcWk2dm91TC1iWElDa0JMTHdFR0w4UVRTM3AyU09BSjFCaDVmWDZuV0ZBNmxOQzlCYkJ2V0EtS3hiUnBoRXh1NUhGalgtTWsycEYwY3gya2tSdlVCeVdmTzEzQ2VoVGVZVldj0gGmAUFVX3lxTE0wLWhZdFdCSWFhSmtVUk1JWTF1MGhVR2JteTk2MVB6RW9Wd2xGMjM2MnhvUkswUVhuOXBzSGVFR3BFLXJtbE5lU0FKZElUOWhDQWxNWmtndVNTTGVoOVlQd3pIZTVYWVM1OTdzNGdKM2Q5b2xfaEh2Wkh0RFlXRHVPUXg2Y0JqWVFuWmpPVnNvZC1CSjFwb1dEOHQ3aFoyRWxERk9zVWc?oc=5"
+        },
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlVRcjZ3dWlGR2pfMVlINFlOamkwejVTX3R1Y2VzSFJIa1BjTHZOd1ktRDZFYVhsU19GdG1OOTFzZUVEb0ZvLTE1bDg2U1hiZk95dnJ4dGZkVlJnY0xlOEd4aU1WWWdlSkNKWnYtUDBicnIyLUFmMEdLSXRSaTl4UWhTQWZyQ1NsX2VheEpFbjMtMDdySFR3bE1fNmw1ZDFFcXBwLVlYZFBsaU1q0gGzAUFVX3lxTE9JSnVuZHRqeG5hbjlWWHlHdUNDMTJZRXBMdTY1NmItVkphZDMwbmVSQWFrOXhGY0J6WThWQXB3Y01SRzlsSGFSV2pFUEo1YlBfcWNKUlZyRlQyNUFrNUwwMW95VmRJWk5sQ0ZTYW8tME9MTWt3ZFJyOFhsNFNnb3ZlQUdGZjlFeDB4LWRRckxzTHhIX0Rmd0xEX1BsdVVjWXRrY2hkOG93S0tTTC1ZQmptSlVJ?oc=5"
+        }
+      ],
+      "source_count": 8,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar floods: 65-year-old man dies after being injured by relief packet dropped from IAF chopper. A crime-related story. Covered by 8 outlets, including The Times of India and The Hindu.",
+      "image": "images/bihar-floods-65-year-old-man-dies-after-being-injured-by-rel.jpg",
       "image_kind": "photo"
     },
     {
@@ -101,17 +194,22 @@
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWUlYWFpQRWRsT1l3Q0pPakxCT0NHalYzYVdMSGRXbDhXR0JGNzFjMHA5NzlZcXEyYlpYZjMwSlZGLXc3cG80bHVZemtqN0k3R0ZuWWVzRXVzWXhIRDh3eTNOVmQ4WHJnZ25acGNMdUFYZDl3eWpxSXN5T3pMbXJ0TmRxLUFuQ2lfaGR2cWRsUzRkQm1fMzVnVTR0N1lMWk1TS0thYlVUR2JHbEs3M2JpZEJBUU15b1JuWWVPTjNKbXVwTXp6emRmTWVVaEE0dy15aTdqMFJ6QkV1ZTk4enVzaG9XdEdRRGhneUdMTEdCYU5CZWNKNjNtNU0zVdIBgAJBVV95cUxOV19DMzJNb01CdHJpckZyU1N5Yy1Hc0xhX08xNzVhVmllaExSTTFPQ0h2UXVRNHBSQ0xzanFXQTZEYXk1dGhLWDMwajhwdWxhT1VyeElxclcxU2ZhcjRSS3RCU0p2N19fM2NLZWtzWG5aeUJUUTFoVEtjWmxpaVVfMmdkTVk2WkMxOHlrY3Q0czR1NFQ2WmdJaFNFOFpWX01ORS1jMk1RTHN4SDM1THh4X1FoNmVQYjJ0amd3dkdLSFhRMHh3REVNX3dTQmZUcHFpVlNvZG82c2pJMHJvTDJ5ZU1ybktkMTJTOWFkUFNXVXFVLXBmVS1wQXNXVlU4VEJV?oc=5"
         },
         {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcnphNUdxeXYtYnFIeldDZUwxUjh0emttaHJ4LTA4cElUNElRUDNMZmoyc09xU25SdG04R3gtV2txSlUtTHBOUWIxZ2xUX1dPbWRPMC1RbThKZXJyY2xDT2NaSDVxNUR2Y0JNY0l0dXVuMlJmaWc4R1h4NHRIZ05rOXprTWtZMXZSXy1zM3ZZMTZpWExMTVlmU2d3SGFpV3hTUzFTcnBkVVE2WWxvakpac2VqNWkxZFRUdm05bGZBWTZmY3BZUkE?oc=5"
+        },
+        {
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjdYRUtNTV9lNFZ3ekktWExvdllWQ1c0bXpXU21fV1k5aGpOMnh5UzBnX2RZdi1sY25xaEtvalhkdHhhRWVtOUE1U25DMEJDcHQ0U210dEpzdGZXYWpfaDVFTXctQ1FhQkU5MlRKLUdaZlBkeXVUcFpVLVZuTkxIVkhUR3pzVHppWWtza2ZiZVJiSzlHd3ZxNXJfQjYzQjAwLWNDQWxHZ0ttX3VLNFNXcHJ2UkhSbW94UWdZbnNndlo?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार में रैपिड रेल का काम शुरू, पटना से मुजफ्फरपुर सिर्फ 1 घंटे में पहुंचेंगे, जुड़ेंगे 3 इंडस्ट्रियल हब। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Navbharat Times शामिल हैं।",
+      "brief": "बिहार में रैपिड रेल का काम शुरू, पटना से मुजफ्फरपुर सिर्फ 1 घंटे में पहुंचेंगे, जुड़ेंगे 3 इंडस्ट्रियल हब। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Navbharat Times शामिल हैं।",
       "image": "images/1-3-prabhat-khabar.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "news18-hindi",
@@ -131,17 +229,12 @@
           "outlet": "News18 Hindi",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcWloT0pvMjBHZEVCbFJ3eVZNbTlCNVc5a2swNjFhWElES0NERVJpbGZOWW43eVZlOGpwaWM1ZU9TTEp2SDNxbG1jZzFFWktSbE5qR3gzYXU2ZUJ1bE5uRHluQWRJZnhwcmtXVzRiUlUwWlYzWHlnYjNtZElONnJNRE1IaFNLbi1BRVJVSkNaNTdvVmV0MFN3Ym9TMV9sRzUxSnE2U3l4SG05ejZ3LWZKa0ZvNnF2TzRzTlpiQ2E2b2FiZi1Sbm9iUnJrc0psaFRrUmZLYkRPYVZVUTBzTGhF0gHfAUFVX3lxTFBxaWhPSm8yMEdkRUJsUnd5Vk1tOUI1VzlrazA2MWFYSURLQ0RFUmlsZk5Zbjd5VmU4anBpYzVlT1NMSnZIM3FsbWNnMUVaS1JsTmpHeDNhdTZlQnVsTm5EeW5BZElmeHBya1dXNGJSVTBaVjNYeWdiM21kSU42ck1ETUhoU0tuLUFFUlVKQ1o1N29WZXQwU3dib1MxX2xHNTFKcTZTeXhIbTl6NnctZkprRm82cXZPNHNOWmJDYTZvYWJmLVJub2JScmtzSmxoVGtSZktiRE9hVlVRMHNMaEU?oc=5"
-        },
-        {
-          "outlet": "ABP News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RHc0xRR3Rld09FRjF0ckVXWXgyMmF2TGp4VXNkTHBkbjQteThuaWZ5VTVBRHpoSEFiQW5POTlxZFZRQVBmN0YyYjFNZS1jS1J6V254T2hoVm0yeE5ScW0wRzRPYUlZWXNURk9XUUktYjE5T0Y1eWlfQXpMemxoY0dvZDRPdEpoR2xhSWZyU1FtMF92enFQWGlvVHBGVlNtZHJWWTc0X2l1ZW1UN3EtSWlOTTkxYk8wR3djY3NSTzVPTERkNjl1T1p0YUpMcXlyV2fSAdcBQVVfeXFMTkxVZUVlSW9PVy1qb1ZhMzNrUEN0UUtfRTRGS0lOWWVsR3hDM0dtODBBenRRXzRRMVR0MktZS0RSUC1xb2pQeVVQaV82amkwSFJNQm13YmxxRE5lbmhxMUFqaVZwQnZhVG5KbllzeEw2RnZzVjdQbDJvVWlza2FEWDE1RkxrMnMwU1dXSzltUl9VUXBJUGNLNTExSVVEWTZ0Vk1VSHZmSW5Tbmdxb1hRemZZR1ZhTW56WEY3MkFvSF85OGg5MXg5aDMwU1J0VzRMd0p5SkkxMzg?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "'नई नवेली' की रिलीज से पहले पटना साहिब पहुंचीं यामी गौतम, गुरुद्वारे में टेका माथा, सादगी भरे लुक ने जीता द... - News18 Hindi। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Amar Ujala और News18 Hindi शामिल हैं।",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "'नई नवेली' की रिलीज से पहले पटना साहिब पहुंचीं यामी गौतम, गुरुद्वारे में टेका माथा, सादगी भरे लुक ने जीता द... - News18 Hindi। इसे Amar Ujala और News18 Hindi ने रिपोर्ट किया है।",
       "image": "images/news18-hindi.jpg",
       "image_kind": "photo"
     },
@@ -195,11 +288,6 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnM1ei1mWHpVUnd4ZGlaVVg4NFhZcUVtcDl0cU9YNDU5TGd6RjdzT2pBRGxqNGdoSkctMEhjdE92TWc3REd0S3BQMUZOVkQ0b0pudjVzUG15b0RFWHpvYnBheUstaGlxTkFxYXNWb0k4OWZ6NVVlTktvLTdOcHY4RVU4dWhzQXJZYkZ5bzZZY0Qxa2tNck85UkoxeTdiNDR2Vnc3aA?oc=5"
         },
         {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWjEtWkVfVUlfVjMtTS1DNlNZQ1EwTGNMUDc2d0JURFpEU2g4eHBUYjd3R3pLdVZPQ1d2TFZWT3dEbEVWQVdDajRJcFBUOVlKemVaZGw1aHF0QVY3UVdwUml1VGs0U1JKb0F6MXhFTGNCNlBiNElSZmtDazU2WUt4eUZPc2Z6R3NhRmkyWVg5VVl2cFNIN3NmcnBBWXZMYV91Y3dFV2M5SnFDVGYtalRabERUd0tTVUg4MENRcHdnLUdsUEpUQzBpaVRONTkzQkNHT0JWMkNTQjhYUlRGamJpUU51bHlvQkVWWDc4alRaeUnSAfYBQVVfeXFMTm1fRWR5Z3hrMFkySjlkV2Z6bWdjQkZKMEtMOHZMNG9FeUhmeVE5SnpuRVJrUFpZSXhJbWRiZ3poRDcwUXYxRllpV0tORk5XNzczVERKdlpSZmM4X1hnLW1ISk5Sd1M0Y19ON2dQSjVuMTdvRHh6WllReDBldDNCQlhFM0FjVDdfUUdxeEs0bTJMaUttaU9EcV84LWJuZEZxMTR5czB6Q3pKTWwyUmdHZGRzNEgwd1NMWUdpVUlRWEQ2cnpsbUJ3RDBOdE15SzRYZnZnbVZwZFFhWk92OFZ4ZzlMV2VJenBIODhGc05fMEo4TDhwZ2JR?oc=5"
-        },
-        {
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1B4R1JRWS04aVNHTlhMQl9kLTl3X1REVUgzTERiOUEtMElYS3o3QkhTcXRiUDN5S3ZacHplTy1QeVFjRGpUeVZtSmdod0hwVXltVDNBbnd1SG1GeS0wUzZNRmhMb2JsQmwtd1hjNl9DY2RJb3ZkRG5iTW00QzF3NGt6OEplXzh5amgtUGpZTVlPbGJZWENPVjF2NTlHd24yWXozeWxVRnBJX1ZfZGE0?oc=5"
@@ -210,6 +298,38 @@
       "genuineness_label": "Verified",
       "brief": "कानपुर-प्रयागराज से पटना-भागलपुर तक चलेगी ट्रेन, रेलवे ने दिवाली-छठ पूजा के लिए 45 स्पेशल ट्रेनों की लिस्ट जारी की - ndtv.in। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें ndtv.in और Hindustan शामिल हैं।",
       "image": "images/45-ndtv-in.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "3-news18-hindi",
+      "headline": "पटना के दो होटलों पर पुलिस की रेड से खुला बड़ा राज, विदेशी महिला समेत 3 का रेस्क्यू, बड़े रैकेट की ओर इशारा... - News18 Hindi",
+      "summary": "",
+      "date": "2026-10-04",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDd0RlFKZDQ4MmRDSWNuWUNJTWp6akpCb0xFeUdwR3liZGQzX1BMbjFSY2dqQW5iUU1qdHBNdmdqd3lJUkJCcVczZHZ0c1hUU0pjcUZqelR0cVpVd2tsT2dJVWlna1hpUG8wSjBLdWFsOFVZOEwyaHpzX09jMmk5QmN0c0IxVXAtVHdLaTNsUFp5NjdiOWNhWUtkejQtdWstb0RGTzh2OVhFWEluUHd2NXhfLWNhUQ?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMnJlb2d0MG1oSkNJejdmTmpiMXFacEtiNWRnUW9PdXNpUWIzSlpzelJmYVJNRE1jaFBYVnpDcy1PV3JGMFlqQkFITTdwYmNDeEczUjRqdmtVRjh1REtkOGlYeDM2WFFTelZncnEtMkNuRldzZGswT1BYT3lhb2JsaUhJMjBtUFZKVk1qX3pGdWZMRk5KQnMwMjNGa2pRVTBQcGtoRTBWV1gyVUc1WXBYN0NQTHhjNHFfRVRpVEF1dERtaXhJX2w3Y2g4cFhndnA3SG5lNDJXNHBBNVFX0gHiAUFVX3lxTE1fSTl0MjhjLUhEVEpRYnlONF9NZE10QnlPaUZoVU5sSlZYMUlwbGxZc1V5dmFlN1g3Nmc1SXJnTTdYMVBEX2dMOHYwRG9GcUM0eHpWbnpGY3pjclBLVjZMekJjclVxYzFzaVFjMy1NMjVZa2toRl84NlRyLVQyVU51WjYySlRiNnJPNURLY3VQTXpMSWNvV1k2NWo3SGxWakE3dHBlc3g1T1QwaEJxclZzNHU1VEFaSzRYTFFEclk4RmtjNlh5SmstQjRnZDJNSDgyVmJwcmFuT09kd0xVQkplS1E?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa05tandpc0lWLXAxLXYxN2dnaEtIT3I1c3YxbU1CTHR2VlQxd3RTYndzVC1oMWhBTHhONXlHanRFYzB1cHR3U295andQbWtYaEdhRDFDQU0yQWxyckJaOXZGeWlOZUxMVGJZVkd2VXZtWVNBTGVZR1dsNl9TZ2ZvVVRZMDVYZl9idzJuUVJwakxMSXlTVjl3Tm1ob052bnPSAaQBQVVfeXFMT21nTmNDZGdLcTk0cmdzWDZQUzhuS2RDUklEUmNob1l6RExaaHpoTzNESmsxS1BZcVJXWWRfYkZRU3VsRi13Z0ViM0ZIZERLYWVvV0tRU29JbEozRThLaEd3NWp0NHhpZ3pQeU1VcGtncFlqTzJtX0hHd0dra3E0em9DTzFsam41WUdRMHFnYmVyakhJb1BkNTBjakYxei1SenliSHo?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना के दो होटलों पर पुलिस की रेड से खुला बड़ा राज, विदेशी महिला समेत 3 का रेस्क्यू, बड़े रैकेट की ओर इशारा... - News18 Hindi। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और News18 Hindi शामिल हैं।",
+      "image": "images/3-news18-hindi.jpg",
       "image_kind": "photo"
     },
     {
@@ -250,136 +370,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-floods-65-year-old-man-dies-after-being-injured-by-rel",
-      "headline": "Bihar floods: 65-year-old man dies after being injured by relief packet dropped from IAF chopper - The New Indian Express",
-      "summary": "",
-      "date": "2026-10-03",
-      "topics": [
-        "crime",
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXNESHJ4Y1luTW1NVmpLRy1uN0FjeEdReEcxRlQ1VGZ4V2x0RnJ3RXpMNTNOWGRLVVVQQXJzcS1pdUxXRGNlbnJDQzVORDladkE1Ymt5TDdIUEF5UlJ6UUEwZF9obnZidlNwcGtIb01vTUN3eFZ6RUpHQW8zcWRnUmswYmllb3ptVHlVZXpSRS1QbURCcEJHRmFpdUh6dG9jRVY3WU9jREZObnBQTXpN0gG0AUFVX3lxTE94a0YwVW83TGNnREl4a0pTVDBsLUZxdHc2VThrdG01THFZTUlkcjFhQ1A1QmRQZVNKbDJ6eWZtQnJ4WHhmS3k0bVpUMHpVdXc2ZEJtTDFEYzRHdXlOVmdXMHo2aDFvcUNYUm5QNWFXRUFrck1VcE90U0RjQUJrYkY1czdwYmgzZFFUZzNrYXB6Q3dlSnJOOWtDRDQ5QXBkT21sUkZYM3gtRlFpVmpfSnl3cDNaVg?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW14Y0hzTVJuVnY0VkJERkg0bFgxOWZJVmFKQy1hbG9WZVpVYWxKRW9TQnlQYi1vM2FPZy1mbEZJdk1BQW9NNzhTSjNRamxKeGRTSmdya05ybHdzWHp0MzA4a25ob3RUdzRNT3VZa1RVOVhmLUlpeTQyaGJwYTV2ZFEwcl9fMjR3TUJTQ2ZaYVJ3eHdlY3RDdGFneVdpSlJMR05QSmk2WXIyNlpBZHRJcDRXbVRYZTNuNGfSAb8BQVVfeXFMTmhpY2NNVmRsOXhjR24wYmhpdThDcWZ1VUlfTEpBQnMwenhGWUtFcHBuX2NvdkFIU1BwX29FRXprRGVvdkkxUGNkMlhTSG16UWEyUVFhVGJOQWxPeUZ1d1JMWjA4RnladHNQN1RMVnBEcS1FbkpKUm1ENW5YM250WjY1M1RYTS04NGZTVGdEdVRKSmE1S25DdXhTbkFhV2RIMUtpbl9qZ3hTbnZJYi1DdHV3U0tUN0o4elhzVDdKclU?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzlqRG50U2dEQ3RwdTNiWWg4LTQycGJZUzlLcjdodjBjcGtuVjFNaVA5MEFYRE5KZTY0REVnTndNNGpqRGF1Ykh2ZXRmeHA0bWgzWlZqN090Szl6a3RkaG1PVlcta0tVMGczclRuMjBkV3FMSEw3TzgtNmVNY1c2N2t6WXhNOUFkYnFyRDA4U3dtVDVxT2FVLWxfdHBhUnFqc1hobndIc0FpRjAyaEhFbHRUNjQ4NTEwNE1iemF1bjZwVTcwZjNr0gHMAUFVX3lxTE9hTDZDTkFUYnU2aWNRV3VoVzRWWUdYU1VWQ3RLUlB1RnlfYzA3Q08tSHFOZGo3VUxUUnlhOWhkWEJoUG1lb1gyRmxHSWkzeFc1NTFlWkNWZGhpT0tGS2VCd01OYzA2QWZXLUFsdzR1M29EbE95b3ktdm03aVFPR19MdDZPQVI1NzNUWUhCRmttQ293cjlLeklwNzNNWm4tLVc1N0QzbDM5Y2xVZkkxYlRXelR0cHdZZi1OUjROaG9WUVVOT0RZMURfS1Rkbw?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1owNTVqVl9rSHM2V2pPUmlfMnoxbldqLXplenI3dlBPdWs3cVJQSEZ0QjFwRU9rV1JIR1h3Q0tjSmMySUN4QWpjVkg0SmY1SnV4M0ZyM09aSXF5NnhpUTBNbzhXMnI3SHo2N00yQjlGbUJfUnZtUWd2Y3ExczdPM0QxYWVhS2JXSTNKQ2dZZXdURVBqd3VTSV9ITGtvUdIBowFBVV95cUxNVnFybVRvSkpJWGNlM3VVUXhweV9zdkEwMXNGOFlnMHlNY2doUWFDbmVzZFlZOUxrQkRyM1ctX1FyQ0tZMVBoQWhkYkVnY2RxcDhFbWhUQ3NIZWs5YzA0YWJQaTdBUmNCdUlMOHB6NTF4UG9XUlFtOEZnN0pTYXB0anc1S1Joa25RMlN6MjlMQ1V6NWNfZEpQcGRRZlVVTW8tTG5n?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlloYzlibnhrNjhCRHRGVkRlZlhza19mOXV6WTVFU1dHNWtza3N5dTVqLTVyWHlncnR5VmZGWGo0OVhXS1p5VXlpTkFjRVR3LTk2ZXFFS3EtdlhYOEtGeUlYVHBETDRvby1ybnp5QkVoU1NRY3VoWXVJdk9CNm9GMi1tWHVYUWprSG1kT1lZUjc0YzJNcGtfU09FU3R5c192UXQwT29LRVM1VzF4SHpYX0NIN1dSYXI0UmRNZmYtU3BuWEQySW130gHMAUFVX3lxTE9SRFB1T0JTOUlfUWt0Qmk5dC1mcThHcGcycmNnMXF5WkZpY3dvaDZ1UUYtdmJTQ3hWd0gwNUhMMWN2WFNaSVBhc2RsT0NjTXJoVWRURmNQRmlxLWFaY0FhSFZfUC1jcHVkSTFOdDFIWGVmWjFGckV4QUZEb3FSQ2p2cEw3X0pNTDVPaVYtS0RVSE5TQWIwV3JTd2pRVEcweC03RW4yR1ZaQm10Y0NYdzhVV0owMGYzSkZHblhEVVVLdnhzcjc2c1Uzc3Q3bw?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTktZTUI1N181eWhpRnZicEtTaVBVbllqYnIzdGtRc3BTVVppODJxTjJMdE9LQ21NWVpZOHlRdkhPOEJRNUI4N3pSdHdrWHBRbHBIVW5TTVIzWHhYOFZJZGxnMGxhUnA2LURxQ1poUUZ0aG5IV3ZIYW1yLXFwUXRRd1FzazNiTmJLbnlLdTd5MXVrWFJFdktVODJUTklNNklzbFl2YTNseWJLVDNEMzl5LW9xc3pUQXlRWWVrcnZTZjdxWDZUd2RPaFVpYThsbUNNcEczcm1qNDQ2amUxdER6azh2MUpXQdIB7AFBVV95cUxOSEJGeWNWMHczb0JTU1Vvb3JkWk10Uk1hSjZCaXJjVE51SE9IOGQtUmNMODZMdkxVaU5wenpzQnR5dDNGb0JKN3h0R3YwUFpBLU1hWWRVVXYzdGtibGsyNDlIeExjRDRfVEJTZjVYOEtkd3RnSVBXWXNpRnZOSVRnUlNvajlFM0VOYkh4VXlLa1BLbFJfUVE4SU52NVAydlNZUzlWeDVNdlVhejFZRjZ4OHZYMF82VThUNWxXTThya2o0VjliN2pEbjRDOFFWbFN5OXRtSlA0N3VETGd5X0NIakFURjdEaUxiRmxCXw?oc=5"
-        },
-        {
-          "outlet": "Telegraph India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2paeUR6X194M2ltVGt5SUV6SkIweDVabmZEQ3UzemQybmtISE9xLUJCelU2RXV1MWRFWUNsLVhHcGYwejd0M2lHRzFIQ19wd3pRd1NfX3dvY1V5ZFFpVF8zY2VadXl4alEwbXd5TlI3UHk2OGZkUk9BRXp3cVZhdFdlM2UzSTJIQVZOUWRKV1BBaWZsVi1jRm4zUU8tck43cWJORXZETWFMTXh5SzNiaUZBVmpTVjM2N0hhaEN6ZURadlBC0gHKAUFVX3lxTFBrQkJORnlhR1JNR0FHS0QzN3p3aTVRR0FudWxQc2J0QVAyc2lYMThyak5RbktnUGhNdWQyYnUta1RGbXNZUFJST1M0UFZndGJOUlRmWkFSNGNPVVNtMFo3U0tFZ1BTN211YVBJWXhfcXVFSkJLbTZFUnNOZ0EyVzc3a2IxRXliMDJzbkJscmhxMzdVSUdvTjgyRHdCLVFFa253Tm1HWE0wcllUY0czY2F2MDBWNmNVSk4wbkwzOVZJVnRqVTBQbHFkaUE?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVDNKMUtZMmN2YTdaT3lQU29QckotVEQ0MG5na3Z2eWZJbFc2Q0ZIUERUeHlTcmNjN2FwX0hfbGt5RWRfQ3RJdWlnZW40T3NISENMTzFQbWJHMUZNaGpkTTB6OU9tSmhyOGNzVGl2UmpCc0xDLTVCRjJrNmtFQnB3MnBHRlVuVnFXVXBBYmhpUHRfMFA2M0E3UkloQmFlTGhTTTVtdmJYRG1SRWtGOWZNR0FZSENRc0szQXd5MzRMelJIMEN4SkhBZlExaXlxcm1QNWJQR1c5aU3SAd8BQVVfeXFMTmM1N2dZTVlJTnI3Q0YwbUJ6bXByaDk1S1VnMFI5Qko4MmdjWjY0bDc5WjdnWThMWHo2THc1WkpEdVRfcXFJdi1rblB4NksteGVCaUpmOHQ1bnFmRlVjc3h2RV9UZ2ZQTkctU0pDa0RndHRjbngyRk5FVXp0RmhMZ3lDMnE3TDJOdkhyaHhTOXJ6SE9oRlNseUdwU2p0MURVQXRGZElWVzhDWkN2TlFtNGYwNl9fcW9vRUxRSjhKNEJoanJaM3JoM0FRN1hobGtuMzVjcXJOY1d1aWR1NF9lUQ?oc=5"
-        },
-        {
-          "outlet": "Deccan Chronicle",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjNxdTdSc1VIQ0VrMHV5cGp4UURxRFlkS3ZqRENQVWxtTXVhczNpMWR2SFVRUmJzUU1kdF8tNllvQ1lVUWt6R3premJuYjZhRXdSOEFXbld1TnZ2My1jQU5vX2dpLV82XzJEZ3RlaW5FRHRPcHJpWjNMMUZ5ZkswZW5oRlFwSmN2S2NfWnlHNkFPTUNiSzVpM2JFT2JrQlNCNnhEVWt5LWRxRVhrVURFWlduWkFKeElUWlhFSHRn0gHDAUFVX3lxTFB1M29xdndDSFlxeW1KdTU3Q3p4ck50aU14SEM2Qjc2UndET0NjTVliUi1JNkdnOW5fQ09wQjZ2N1VDUGFXU0dWSkkwT1liLXpnZ2VCalM2QndlNDFoRUVhVTBibk1QTTk4dHpBZ21OYTBYYnVkQ2RQbmdhWGJaejVzR05sTGwwSUJQeU1NTHI2ZnZvNmpGZ0d5OE9iZnRFSlE1ajBZM19aZXpfSUJ0dWw2SHVWSUdRU1YyNDRnT1o5U1pUaw?oc=5"
-        },
-        {
-          "outlet": "Outlook India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGVfblQ1SmJGc1RIYm5sR3JsZUFXNVJVZFJJMW5ZSWtEaE1Pd2VxcjhaaDAyYjlGcVlKTUxLYzFmUEt1RU1sNjVCVmk0S3djbWhjYzMyWkdMTEV2TDk3SDFMeExjWk9jbXRHUzctNERBbXNYZ29XQ0JJM3hIMDNpbFJkaHExS24xX2hpY1R0MVMxdmdNcEZQNG9XYzAtWXdwc21HetIBsgFBVV95cUxPcEYtcUZuRGxYblpVSE53aU4yMUxxM3hGM0ZDMjEyOXZDOHhwQXRzeWdJU1IzRmY0NGFBY3ctTDRvbmcyNF9ITWpxX3BpQTVneGZMTVNpZ0F5R1F1cG1tSEZLZUluZW45MjFNekV4ZW5TMmE2YnFJa2k5QjlqdkJ2UWU0ci1BeDd0WUVUN3hxNm9oRUFadXpGRnBNdV9qbjJMS0JYcXlQcGhyTW5fZHdYQjRB?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDhiSzhGM0lwdGxMajlkM2hNRzN2WDhxZ1YxRUtNakRaeDJITklGSURILTF3OF9KM1lXdy04Q1BSYmxwaEVQci1OeXNhNmRDMGw2bXhQTm44cHBvOWFnTUVyWXp5NnBiRE1QREN2Smlob0d6cENkRmRfRmxlaTNZcTZhVnRpQlZBZng1a1UtQVJKUUl4LU5ic281NnlfN3VraDNDQ1d4cTVyV2xhN3dhajBydlctaHRiZWRLWE9nQUc0Ni1EdU5DV2hwdU82NUhlNDZfQ2VaWW00eEFMVXpwa0R0X29GbzFv0gH2AUFVX3lxTE0wYVVzbl8xbm9zMUpFOVB5NlVNeF9ZTWlGYjBKekx5OHl5VEpma3p0WVh6R2hiTGkxbmdBTVoxWGtMT0VxMFVDVFlCcWRLeXppRC1hbF9qSkJxU2I0NWRuQTNKbjI2bE1xbTFrZWxsZU5VMUlic1RNWEdjbWVtY3p1b3FDTDZzVFhWejYybnVZR2VEVkx2c1pfaXphU3ROaG10OU10LXpNbjlURmowUUpUOGFpWk85M3dNTmlfLWtGWnphN2ZPNmdUcDBEbDctcTRqeHU3NGVSLUlwN3hDYnFZanJWNV95amdvR19pNUJ6SkIySElkUQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXFBMVdNaHdfbTZ4NU12Y1hQR1VGRm9yZVkxMVVsalJLU29aeEpHdEprQkh0R1h5S3NmdjlTWVdTck8td3JMekxIRnlkRnJNNHNoY1dqWWJJOTFmTGZ1OGVPaTJrUWlsRFpNRmRYQlJaTGUtRmlOaE5PSlkwcXVRV0dscmpjMFRwalJFYzhvZW5vQUMyWTBrczBURFFhUFpNSk5sMmZtSnJnd3hmeF9TU2tpcHBDWnpncl94LTF1RnlONndoZS1qbjI3N1RwSkNV0gHWAUFVX3lxTE82bkJ5SjRrVDdESW5ua1E1by1OLWdPRlhnVWVpaW5VRGhzNEhPUjg2Y21LTzVZSjhvWmV5YlAwQy1fSkY1WThEUnpJTjJHRFBkNUMtaS1pbVN4c1Q0dlNqQUg2Q0tuWmxXOGk1ZHI4cEpwRE0zVUI1SjliYi1FWC0xY3lYTzR6aVdkMjNJQkU5ZEdUS2dubzVDRTAwUG9qNWNUQTRTbUpONmF0QUpsUG5QQ0JwSnVhcU9jUjc1LVlCemdMVFMyYms1WWdUNUlYUVhrU3E2cmc?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbUR4czQxdVExZGZxbTRaUEdRVUhOaDdjMU12NGRldjI4bU5ubXVLZzJwdFU0dWQzbTVsUnZwODBFRllwRnlyVGV4YWctS3JLVGlfYlpTWFh5UXk1d3labkxrY2VwU2RYckRZRko5RUVORXFIZ19HWnE0cjR1MTE0cVNqc1hGZlhjb0E4LUtYWVNpXzdpbi1fOHhDWG9DbXR1OTNUYjc3M0Q4Z1Y3UkgxdGxBVU83ZjZQOEhQbUt5NVgwcmZIZEE0UXR0QjBNSmswUUwtLWxKeTlSb2NqV2xkTTFvWlk2Tm_SAewBQVVfeXFMTkJtdUFxSG5YYzd1QjNheWVaVUFIVGppMUZmZDAwSlh6M05XLUxQUElsVjhFb203WTc4WlE4WDF2WWs0akg5RTVFWGtVTWR5WkJjcTN5ZmIyd3Y1RDVVLXdOX1lLX1NjSWtFbURCWlFlVTVhamJoT04wLVJ0SE9kOGdBTS1WUmxJZkJ1S0dQNDNnRDlBTEI2MEE2LTJiay1obmFrSkNzU2gzNTVKNy1qcm9RT2tNUTNMazBaR01wWmNHdTlGaEw2RHRLd2tUOC13TDlJN0FPdEprdnBpRVV0Mm5mdndqM2NXWWFVN0o?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzlUZGxEeHV2U1J3eXdiYlJWbXlvSEliNnZvelBaS2NzMklkc0Y2ZVg0Zlg5ZWh1cHljU1FQcWk2dm91TC1iWElDa0JMTHdFR0w4UVRTM3AyU09BSjFCaDVmWDZuV0ZBNmxOQzlCYkJ2V0EtS3hiUnBoRXh1NUhGalgtTWsycEYwY3gya2tSdlVCeVdmTzEzQ2VoVGVZVldj0gGmAUFVX3lxTE0wLWhZdFdCSWFhSmtVUk1JWTF1MGhVR2JteTk2MVB6RW9Wd2xGMjM2MnhvUkswUVhuOXBzSGVFR3BFLXJtbE5lU0FKZElUOWhDQWxNWmtndVNTTGVoOVlQd3pIZTVYWVM1OTdzNGdKM2Q5b2xfaEh2Wkh0RFlXRHVPUXg2Y0JqWVFuWmpPVnNvZC1CSjFwb1dEOHQ3aFoyRWxERk9zVWc?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlVRcjZ3dWlGR2pfMVlINFlOamkwejVTX3R1Y2VzSFJIa1BjTHZOd1ktRDZFYVhsU19GdG1OOTFzZUVEb0ZvLTE1bDg2U1hiZk95dnJ4dGZkVlJnY0xlOEd4aU1WWWdlSkNKWnYtUDBicnIyLUFmMEdLSXRSaTl4UWhTQWZyQ1NsX2VheEpFbjMtMDdySFR3bE1fNmw1ZDFFcXBwLVlYZFBsaU1q0gGzAUFVX3lxTE9JSnVuZHRqeG5hbjlWWHlHdUNDMTJZRXBMdTY1NmItVkphZDMwbmVSQWFrOXhGY0J6WThWQXB3Y01SRzlsSGFSV2pFUEo1YlBfcWNKUlZyRlQyNUFrNUwwMW95VmRJWk5sQ0ZTYW8tME9MTWt3ZFJyOFhsNFNnb3ZlQUdGZjlFeDB4LWRRckxzTHhIX0Rmd0xEX1BsdVVjWXRrY2hkOG93S0tTTC1ZQmptSlVJ?oc=5"
-        }
-      ],
-      "source_count": 8,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar floods: 65-year-old man dies after being injured by relief packet dropped from IAF chopper. A crime-related story. Covered by 8 outlets, including The Times of India and The Hindu.",
-      "image": "images/bihar-floods-65-year-old-man-dies-after-being-injured-by-rel.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "tigress-brought-from-bihar-for-reintroduction-in-west-bengal",
-      "headline": "Tigress brought from Bihar for reintroduction in West Bengal’s Buxa Tiger Reserve - Down To Earth",
-      "summary": "",
-      "date": "2026-10-03",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "Down To Earth",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSkNCVDJqZV9zTVdZU202Rjd2bGU2WVpqYTFEZ2Q4aGNmQ0lsRVFETkQ5bTBfTVg0RWlzVW1ZTEtsakZSZUVJSEdpZjhRb3RLeVROTFlxdUx2YVlIVDhtLUEwOWVzQ1Q3RHk2NjExemVMekQ1RjFLOTVZRnRVZmdGaG5OWElINmppcU5PMk1saThqMllELUMzeXhVZGlucG1ndGJldzRPN1NaY0Fva1R0d2hfNm52YkttZEdJeWh4U2xHcXlINldIUnNHV3UxZ9IB2wFBVV95cUxQT1RXNVdGQXluM2tUR0NJV2JqZHQzZzFiOWlKb2FqSDM2eXZHVThUckp0b0phUW54QWVuRmFRLWoyMGM3M095NUJRRF94T2pYTkpXRlZVdWo1MHhPYVlHaFZyZmZfN1pWTGQ2QkRmNWVlbVJHMFBRZHRtVDItOUFIV2U3SnhOdjN4aG5QZXpqdlEtQmctc2k0b002b3pwYXMteTkzNFAyUmJ4eTdKaFNjamM0OGEzZTdWUFhEbWRZWjFOV2pKX1N0MDVhN3FmdlFsWUEzOVdvblFLMTQ?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclNiRlYxYlZFTHFXV09JVERsTHZMX2l5UVFJSDBDcnpVWjRkT2RqMnd3UXdXTUZrdW5wNENSYWx1YVdrMHdzc283RTFVSW51N2JLRzJzZ0V1X0tVZnN1NkhLamRjb0VFZVFwU0JBVUphVjR6V0Izemkxc2JQOUUzVXBPX2dwTFRCVmJzX05JY090a2JfMW80ekJ0U1pFaGpZVkpyTURWbDMwcC1nOXI4?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDFsMWZwRXliNlR2bUZMQk1YMU03SV93cUxBQXY1UlIyUkNvYXZZQTRxX2g4WXIweU1Cb2gxbEVWTmtyS1pqTThjR0hKM0VxcVRNS0xiYVpSWUlhTjVfUnZReTZYQ0d4SWRJRThqRGc3ZjZvQ1BqMDhmZEd1U3NVVDBGSm03OGJnWUw3dl9EWmZNRzh6MUFBOXd5blVGOEV6a0drcEtGZmNzVFg1Q1VRcENLYXZRS3U1MGhKd9IBwgFBVV95cUxNR2Q0T1hUNmVZRGdyMWkwVmViOFA2WnJCbzZKRWd0ZDh5eXR1LW94U3d2RjlnYnpmY1J4NnltdTg3a0kxRnd5cW9mWnE4VDU3MlFQR19WLWlma2VoUjN2Vk9VZ0E4ZGV6S0tyZl91RExQQno2Z09MMWRnbC1mNTMxUG02WmlKWVZFRnNfYk01MTNvejQyNEJJQVBRZ05kcDBCQXRzUmwwOUxVWnFhdEJqa1dKWVBGV2JpWDNFZ0xmamxmZw?oc=5"
-        },
-        {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTUlUUkFVeTkyb3RCQ0JSbW9GdWtXMEkzTEZXMmZPcWl2b0c0OXFtYVpVakNtblY4ZVNTZUhOZFBsRUJ6MmdkdU9yOHJIeW5IOUxMVEhBSnh2TVBWdUNZY01tNmZUc0VWaURQcjRfMUNqYjdLRDRpN2VkOHVJeGlOS05ubjlyQUttaWVFazhmUFVHZ2FSM1VQc0p6T2JIVElJSTFlNlF4SFlqY2M0NW1Xbl9nSEFwN1A5Tk9HQU5yem82eFVydEFPTWozWHJNRzJHZFo3NDhJU2hGbzDSAeABQVVfeXFMTXk4TEw1NFZjNFQtX0JzVVZWdnYxR0E2SW40aVhUaDNVQjRCZ3pnWjlkck52MS1qVnE3Y0NMYi1lNnZnSmRvRDNsNlMyVFhlSHlERXpsWU9lbEtESDhhMkNhRVRQU1dHSVJJTkQ0N0gyb1lrUUZiR3JDUkJuSG43dlhkLTNPSFlZa0hNdmZ3X2V2ZG9zbXQ5cjN2TnZ1cFAxWUNHckZkajY4VW5kVWE4TkNIZF9jWERGVzI0ZmxwQ1Q0bi0wZUlNakF2Q1p6MVNGX0ZLSllxNFFMdmFqOGg2MXU?oc=5"
-        }
-      ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Tigress brought from Bihar for reintroduction in West Bengal’s Buxa Tiger Reserve. A crime-related story. Covered by 4 outlets, including Down To Earth and NDTV.",
-      "image": "images/tigress-brought-from-bihar-for-reintroduction-in-west-bengal.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "woman-among-three-electrocuted-to-death-in-bihar-s-sitamarhi",
       "headline": "Woman among three electrocuted to death in Bihar's Sitamarhi - Pioneer Daily",
       "summary": "",
@@ -412,6 +402,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "won-t-seek-votes-in-2029-if-i-do-not-secure-7th-pay-panel-re",
+      "headline": "Won't seek votes in 2029 if I do not secure 7th pay panel recommendations for Bihar teachers: Kishor - EdexLive",
+      "summary": "",
+      "date": "2026-10-03",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "Business Standard",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdDFxek9yMExmcF95R3dBZGVyUXdFRVBHSmNzS25CdENNTXg4Z2Z2cW1IOXV1Z3dXWDBubmpqbFdPWGlBTC1ndFNSTHkyTmZZRmZNaXNGUkZuT0ZJbVVHaTZjUDM0RXZUZG5MUmxweVZaSnlZQUg5Zk5GZnVGWnJXRk9nUV9URnk1NUV6SHNrUnVIaTZwUzFsNnNNcDhaR0NyX1pHaUZRZERzUHJaZkVqS0FKUXFpTnlwY2xGaVhfajd0UUtNSlNVa0EwYUJUMHJs0gHWAUFVX3lxTE5qUDlJS2VORjNxSWpXQUZuVjVmM1lWNndfRHJjX3dpNnNOdkNhSmJMcXVtYWJwTUpGdUNSc2ZHNEZBODhTNjhsZlJKcURNaVk3aXFqSnd4WGNsbTBYRVV1OE0tSzI0TjdXTHZYM1dlaUF0a2ZtZ256WW1obi1fVmFmeUFiN2xnNi1CdVZ1ZVFuZ05OUFdSbWhhdFh4cHQ0Wk9UQXM1OUlBalItZDI2Y3VPeFk5NzdYYlZJdmN0YUEzcENLWU5aR0toRFFscWxhU09XZldkQWc?oc=5"
+        },
+        {
+          "outlet": "EdexLive",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaTUwc2RxeXRFSUtiTm5yTUc5NHUyZWJnU3FrTjRPZy14VzZqd3pYTmNTTkVZa1FQM1FraW56Ymk0X0lrcGNqRlloSldJQUsyY0xXTDVveFRLMWlvNnhLNUt4RHRibnFqdGM3Y0ZOdlpiNzI5TU93NWJ6Ync5MlpfNzdqdXAteU9MLWhEMzFpckI4aFU0TE9aN3ZPNHplamJPbFNrYVc5bjIzWTAxUWN5YjFJMnliRTNaN0w5RnpDTFMxWTdqbjBHMdIB1gFBVV95cUxOWDRLZzc2Z28tTWY0Qk5zc1hlaVVkbkhrX1BCMmE2QnotZ2RidVRyWkRPMFlIbGppOUNIb0hMYUF3OUlIVnRzdV80RnV2Qmp3UzNFc0k3Vld3d3VxaGJreHUyRThOemRfR3ZSLVhqeTg2ODcyZHZ2R0lJQWJqR1dTeXhNazZONEdxUXlmQ0t2dlpDbkcySk9SUlllLUJ4NkU4OG0yM0xOZWNsOG9YUmFQcDhJTWY5RHRrcUQ2R2xjNnJhTU1lVUVCcGpxMGVTNnFMQVhBT3d3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Won't seek votes in 2029 if I do not secure 7th pay panel recommendations for Bihar teachers: Kishor. An education-related story. Covered by Business Standard and EdexLive.",
+      "image": "images/won-t-seek-votes-in-2029-if-i-do-not-secure-7th-pay-panel-re.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "congress-names-five-candidates-for-bihar-mlc-polls-ally-rjd-",
       "headline": "Congress names five candidates for Bihar MLC polls; ally RJD in fray in three of them - The New Indian Express",
       "summary": "",
@@ -421,14 +438,14 @@
       ],
       "sources": [
         {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVkFLNXYyajJvbUpUNHVmd1BnUUFmZUZmWFJ0SWtpUk1kM1ZLeXExX05GV2R2UWhBTE94b0xsR3N0LUtzZkozaUZfVkRsaGVlaGtNUTFkTzJqQUFCdFRkQUpqTjZXS0R1MjZXN0pESDE5T0J2RlhuUTg0eFdDMTItZHVMc1czVkptMHg3eUQ0T0Rpczg1OHZIdGlDQmNOakItYjdVN1pHWTlTcXBwbi1LQ0hmRE0yeXNwSS1GRGlpYWFNVW1aYUVabXVJQmw0QQ?oc=5"
-        },
-        {
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXJod3BFaElxaVVzNlRNTVFXUjNweTl6NmZqR0w3amlrX05Tcm9ycWpUQmVVd2dMbzNqZkQzMmdlaWRTMmZxblJ6clB2amFuNjRHbVlrOVQxNWJSX0tOWTJ5S1p6Wk1paXdKWVgyU0pHYU1Mc29jNmlwVVAwRVIzcXFyUWk1T2VwMWtUQTh2RWhoUm85Zm44alhvajNKWGVpSFZkU1V4Q1p1bk1sSmktanM4LXNBdndIanBNMWRxbllSOXNGeDBsQi1NTWcwX19LR2dVc2RUNmRnQUpEV0YxYjBXNNIB6gFBVV95cUxNYVNSQUNMaWplYnBfU0tTOWdtZ01fRHFkZ1JFMHNlbEJobHp6T2doaF8wdXVNNTRtaTdrUmxlRFNtM0hWY2dVQXl4dG9OUjY2M3A3b0h4bVFnV3RQQWkyVXhreFJKYlU2VFFkNkhYU0poeDE4WTZfdXN2Tm5VNm5wNzJsd0tCZXhCeS0wVDlZS2pJSm9ySU1KYVA1RFBHZktXaXZzdzdvTHMtdEVPNV9HS0VzVWU3RDctWV9RSm9aUWZ2QnUzTjJzQnA4V3JaZFc5RmMwa2h0c2JjLXhpMjdEdE51X2pJbDcyaHc?oc=5"
+        },
+        {
+          "outlet": "Deccan Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVkFLNXYyajJvbUpUNHVmd1BnUUFmZUZmWFJ0SWtpUk1kM1ZLeXExX05GV2R2UWhBTE94b0xsR3N0LUtzZkozaUZfVkRsaGVlaGtNUTFkTzJqQUFCdFRkQUpqTjZXS0R1MjZXN0pESDE5T0J2RlhuUTg0eFdDMTItZHVMc1czVkptMHg3eUQ0T0Rpczg1OHZIdGlDQmNOakItYjdVN1pHWTlTcXBwbi1LQ0hmRE0yeXNwSS1GRGlpYWFNVW1aYUVabXVJQmw0QQ?oc=5"
         },
         {
           "outlet": "Mid-Day",
@@ -444,7 +461,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Congress names five candidates for Bihar MLC polls; ally RJD in fray in three of them. A politics-related story. Covered by 4 outlets, including Deccan Herald and The Hindu.",
+      "brief": "Congress names five candidates for Bihar MLC polls; ally RJD in fray in three of them. A politics-related story. Covered by 4 outlets, including The Hindu and Deccan Herald.",
       "image": "images/congress-names-five-candidates-for-bihar-mlc-polls-ally-rjd-.jpg",
       "image_kind": "photo"
     },
@@ -458,48 +475,21 @@
       ],
       "sources": [
         {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXdTMkhoQ3dJUUNMdHlZRzlJa1FUX1JCNlNDV09TYUNOQWJSb1NzbFRrdWJBbEN5YU02X2tOS1E2NWpUUFM2UG9QWF9ZNUFJd2l2TkUxT0ZGeVYzeHEyT2s1STJmaEFHYnl3OVViNGZIR0RJSUFmQlJTYVQ1RWF0dlZrNkNseWVEV2RBWlExdjIwX2ZiR3R5OGxlUW1UcW5sa3F1ZHdEU0hPbGJuNHZNbHkzN3FBdGx0cTNJSVRYa1Y0WGNWLXFCRktfYjdGV1R40gHWAUFVX3lxTE1kZzc4SHNINmRrTDdScThtSjduaENQTGgzeUR0aHRKOURhV2c5T2JKaThHR3k2RkswTWJrVVdfQ2V6dUdJWHA5alhtbU94cThFZldMUWZ2SjJ2cGxrZ2VDWHRTT010R1JFTWc1ZWY0SFRReXlubUlfNElIblJHY2lBc2xRVUJfRGZTMmMyam1DdjB0VW5rSnZhZ1Rlc3dCeTk1NmhVSTVxVDVZc05DYkhrdUpNeHNGd3BfSjJ4cTFQY3hqWEhyUXlaSHlyQWJvN2VMTnFyM0E?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeE5oeXVhMVg5WEFnX1V5RVVqOXBheVp1cGxmSnBPNVd3dmMyY215czRzNVhDT2JZN0w1dFhxUkYwWGI1dHcxcWJncUZxdXZKSXpfaVV0ZG1QN2lsTkVuVERZZXNFLXlWYk1IYVZ6T1VYNkxrbHlGM3NfWG12Ym9IUXNRWEk2cDB5eTZkamJUMUxpam5HUTQ0NFlNY1hMWUJ6eTY1UlVjdXZOdkFZcnMycU5HdnZtVjBSbjVYWDJ2Um1KQU94a0ZTaldRNkZGdFVINXN2R3VxbjQ2S2hYYWVmMS01c0dibFE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna-Sonpur Ropeway: गंगा के ऊपर 7 KM का रोपवे, चंद मिनटों में पहुंचेंगे पटना से सोनपुर; सफर का अंदाज बदलेगा। इसे News18 Hindi और Jagran ने रिपोर्ट किया है।",
-      "image": "images/patna-sonpur-ropeway-7-km-jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "jagran",
-      "headline": "पटना के होटल में चल रहा था देह व्यापार! पुलिस ने विदेशी महिला समेत तीन को किया रेस्क्यू, दो ग‍िरफ्तार - Jagran",
-      "summary": "",
-      "date": "2026-10-03",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDd0RlFKZDQ4MmRDSWNuWUNJTWp6akpCb0xFeUdwR3liZGQzX1BMbjFSY2dqQW5iUU1qdHBNdmdqd3lJUkJCcVczZHZ0c1hUU0pjcUZqelR0cVpVd2tsT2dJVWlna1hpUG8wSjBLdWFsOFVZOEwyaHpzX09jMmk5QmN0c0IxVXAtVHdLaTNsUFp5NjdiOWNhWUtkejQtdWstb0RGTzh2OVhFWEluUHd2NXhfLWNhUQ?oc=5"
         },
         {
-          "outlet": "ETV Bharat",
+          "outlet": "News18 Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa05tandpc0lWLXAxLXYxN2dnaEtIT3I1c3YxbU1CTHR2VlQxd3RTYndzVC1oMWhBTHhONXlHanRFYzB1cHR3U295andQbWtYaEdhRDFDQU0yQWxyckJaOXZGeWlOZUxMVGJZVkd2VXZtWVNBTGVZR1dsNl9TZ2ZvVVRZMDVYZl9idzJuUVJwakxMSXlTVjl3Tm1ob052bnPSAaQBQVVfeXFMT21nTmNDZGdLcTk0cmdzWDZQUzhuS2RDUklEUmNob1l6RExaaHpoTzNESmsxS1BZcVJXWWRfYkZRU3VsRi13Z0ViM0ZIZERLYWVvV0tRU29JbEozRThLaEd3NWp0NHhpZ3pQeU1VcGtncFlqTzJtX0hHd0dra3E0em9DTzFsam41WUdRMHFnYmVyakhJb1BkNTBjakYxei1SenliSHo?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXdTMkhoQ3dJUUNMdHlZRzlJa1FUX1JCNlNDV09TYUNOQWJSb1NzbFRrdWJBbEN5YU02X2tOS1E2NWpUUFM2UG9QWF9ZNUFJd2l2TkUxT0ZGeVYzeHEyT2s1STJmaEFHYnl3OVViNGZIR0RJSUFmQlJTYVQ1RWF0dlZrNkNseWVEV2RBWlExdjIwX2ZiR3R5OGxlUW1UcW5sa3F1ZHdEU0hPbGJuNHZNbHkzN3FBdGx0cTNJSVRYa1Y0WGNWLXFCRktfYjdGV1R40gHWAUFVX3lxTE1kZzc4SHNINmRrTDdScThtSjduaENQTGgzeUR0aHRKOURhV2c5T2JKaThHR3k2RkswTWJrVVdfQ2V6dUdJWHA5alhtbU94cThFZldMUWZ2SjJ2cGxrZ2VDWHRTT010R1JFTWc1ZWY0SFRReXlubUlfNElIblJHY2lBc2xRVUJfRGZTMmMyam1DdjB0VW5rSnZhZ1Rlc3dCeTk1NmhVSTVxVDVZc05DYkhrdUpNeHNGd3BfSjJ4cTFQY3hqWEhyUXlaSHlyQWJvN2VMTnFyM0E?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना के होटल में चल रहा था देह व्यापार! पुलिस ने विदेशी महिला समेत तीन को किया रेस्क्यू, दो ग‍िरफ्तार। इसे Jagran और ETV Bharat ने रिपोर्ट किया है।",
-      "image": "images/jagran.jpg",
+      "brief": "Patna-Sonpur Ropeway: गंगा के ऊपर 7 KM का रोपवे, चंद मिनटों में पहुंचेंगे पटना से सोनपुर; सफर का अंदाज बदलेगा। इसे Jagran और News18 Hindi ने रिपोर्ट किया है।",
+      "image": "images/patna-sonpur-ropeway-7-km-jagran.jpg",
       "image_kind": "photo"
     },
     {
@@ -571,7 +561,7 @@
       ],
       "sources": [
         {
-          "outlet": "India Today",
+          "outlet": "indiatoday.in",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEhiY0VqTk1QcFh0RzlBUG40VnV2LTMxQmdmUjBKUTZEbndqUVR6UmdMR1ZXdGxCR3hoX0c2cG94SWgyck95REFkMEZfM1I2TzIxRGtERVczUDVIUGNGUHV0WlhfUFRoX0VpYTRYOUlpX0I4TkdTMXQ0OFRnMmhmZmx5RzFZVEhGZ0FUZXBtdmRDTS11clFkM1VrYi1zaU5WOFptcEdvVDVUUXdwYmFZYmdnX0NfaGlIT1cxc0RUUElfbG_SAcgBQVVfeXFMUGctcXN4akVxNXY4dnMwOWxOME8ySGZ3OFc4ZWVfcjBZQ00tSnpyMlZJZ29pM1ZhUGhZNkJlSUF1NGdjUjNucHJCZVQ2WWJsQjQ5VmlXcEJjQzI2OTlLaWtnNkJSY1R1NFkxQklfNElSa0hTTlV3U1FoaWZzMHVoSFZabjloYkNPTVh5dHBhcExFMTFBLWN5Xy1VVFlvcUduZUJCWTFocW45YURmZ2wtSHYzWU15Z3dKR3NtQVZocGdFMWFGUkhuRUw?oc=5"
         },
@@ -594,8 +584,67 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Video: Woman cop slaps Patna man, he hits back moments later; viral clip leads to arrest. A crime-related story. Covered by 4 outlets, including India Today and NDTV.",
+      "brief": "Video: Woman cop slaps Patna man, he hits back moments later; viral clip leads to arrest. A crime-related story. Covered by 4 outlets, including indiatoday.in and NDTV.",
       "image": "images/video-woman-cop-slaps-patna-man-he-hits-back-moments-later-v.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "tigress-brought-from-bihar-for-reintroduction-in-west-bengal",
+      "headline": "Tigress brought from Bihar for reintroduction in West Bengal’s Buxa Tiger Reserve - Down To Earth",
+      "summary": "",
+      "date": "2026-10-02",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Down To Earth",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSkNCVDJqZV9zTVdZU202Rjd2bGU2WVpqYTFEZ2Q4aGNmQ0lsRVFETkQ5bTBfTVg0RWlzVW1ZTEtsakZSZUVJSEdpZjhRb3RLeVROTFlxdUx2YVlIVDhtLUEwOWVzQ1Q3RHk2NjExemVMekQ1RjFLOTVZRnRVZmdGaG5OWElINmppcU5PMk1saThqMllELUMzeXhVZGlucG1ndGJldzRPN1NaY0Fva1R0d2hfNm52YkttZEdJeWh4U2xHcXlINldIUnNHV3UxZ9IB2wFBVV95cUxQT1RXNVdGQXluM2tUR0NJV2JqZHQzZzFiOWlKb2FqSDM2eXZHVThUckp0b0phUW54QWVuRmFRLWoyMGM3M095NUJRRF94T2pYTkpXRlZVdWo1MHhPYVlHaFZyZmZfN1pWTGQ2QkRmNWVlbVJHMFBRZHRtVDItOUFIV2U3SnhOdjN4aG5QZXpqdlEtQmctc2k0b002b3pwYXMteTkzNFAyUmJ4eTdKaFNjamM0OGEzZTdWUFhEbWRZWjFOV2pKX1N0MDVhN3FmdlFsWUEzOVdvblFLMTQ?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclNiRlYxYlZFTHFXV09JVERsTHZMX2l5UVFJSDBDcnpVWjRkT2RqMnd3UXdXTUZrdW5wNENSYWx1YVdrMHdzc283RTFVSW51N2JLRzJzZ0V1X0tVZnN1NkhLamRjb0VFZVFwU0JBVUphVjR6V0Izemkxc2JQOUUzVXBPX2dwTFRCVmJzX05JY090a2JfMW80ekJ0U1pFaGpZVkpyTURWbDMwcC1nOXI4?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDFsMWZwRXliNlR2bUZMQk1YMU03SV93cUxBQXY1UlIyUkNvYXZZQTRxX2g4WXIweU1Cb2gxbEVWTmtyS1pqTThjR0hKM0VxcVRNS0xiYVpSWUlhTjVfUnZReTZYQ0d4SWRJRThqRGc3ZjZvQ1BqMDhmZEd1U3NVVDBGSm03OGJnWUw3dl9EWmZNRzh6MUFBOXd5blVGOEV6a0drcEtGZmNzVFg1Q1VRcENLYXZRS3U1MGhKd9IBwgFBVV95cUxNR2Q0T1hUNmVZRGdyMWkwVmViOFA2WnJCbzZKRWd0ZDh5eXR1LW94U3d2RjlnYnpmY1J4NnltdTg3a0kxRnd5cW9mWnE4VDU3MlFQR19WLWlma2VoUjN2Vk9VZ0E4ZGV6S0tyZl91RExQQno2Z09MMWRnbC1mNTMxUG02WmlKWVZFRnNfYk01MTNvejQyNEJJQVBRZ05kcDBCQXRzUmwwOUxVWnFhdEJqa1dKWVBGV2JpWDNFZ0xmamxmZw?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Tigress brought from Bihar for reintroduction in West Bengal’s Buxa Tiger Reserve. A crime-related story. Covered by 3 outlets, including Down To Earth and NDTV.",
+      "image": "images/tigress-brought-from-bihar-for-reintroduction-in-west-bengal.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "india-exports-1-tonne-makhana-from-bihar-to-greece-24-tonnes",
+      "headline": "India exports 1 tonne makhana from Bihar to Greece, 24 tonnes frozen food from Sonipat to Canada - Daily Excelsior",
+      "summary": "",
+      "date": "2026-10-02",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQTl1WHE2Y0gzd2p2Y19wbjU5Y196dkxNVTZnaE9sdXp2cTk0SDlHZ0ZOY2k2M2I3SWtlRjdWV3diQnBwazNtcWlPb1Bwck5WNWlteWVDR0h5bkVQNmI5MUJHTFNXQVBiWi11UEZocGdjYWNIczhPZC0zRXgxaE1HZW15OTRxc21taGhjaW1zOGRBVUNjdXg1WkJmMjJMa2JWVnM4bTEwSkVzVlRIMC1IajFXdllHdXYwVU82T2lXZTUwM2tnc2pGUEdIdnRHa3hrMVpkeGloM3paS1l0SUZwbklJaEc2LVJpRkZXdVIwRnlfalZJdzFET9IB_gFBVV95cUxNQjFYTGcxb2J5SVlHQU1PRHp5NmpOMVBCMGNTeUlDWEpwcGczM1pTNHRmcE5CLUpuNU12UzA3WXM5NzFyWlZtbHBpQzl5MTZlQi1pT0xTVUpXMVdQU28tdEFfRkxLQUxQWWRpVFBkcEFvSV9IMW1EY0s2bGprSVlnMzhkaWhtc25QSERjZk1uQlpIN2NVUTVOTnpKVExpa1NaM2JEUElXU0pPUWE5cHZRX3V5WXB3Z2ZzS2hSVUNvUWNYNFRMT3VIbmJ0UWlfaVdKbXVKX2Nnb3lVNlRmOG9rWFJ4a0dPY1RJQ0xmamtOWEl4c2tzeDVSU0lTQVo3Zw?oc=5"
+        },
+        {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOay1lVm02SnNoVVJfbnNKWlF6NDBnTklMQU9QWElWSV9JcTdhdlM3V000Tkp5U05ySHo1V2NMekp1dHZjaDBBa1JaRU9pQjN5N3RuaTBDUDFha3Npc3NfX1h1Ri1PdHZMUkJncWIwLVhOOFU5UThUSjlEU0w0dkZ4bWZEZDExVy1KMy0zX1dsU1FKeUlBMHVIMG5wcDdZV0R6SmJVZDcyVVFRUWpQRUxudWpOaVo5NzNNMHpVbVAtNzRmVXZ4MUxiQmFqc9IBywFBVV95cUxOay1lVm02SnNoVVJfbnNKWlF6NDBnTklMQU9QWElWSV9JcTdhdlM3V000Tkp5U05ySHo1V2NMekp1dHZjaDBBa1JaRU9pQjN5N3RuaTBDUDFha3Npc3NfX1h1Ri1PdHZMUkJncWIwLVhOOFU5UThUSjlEU0w0dkZ4bWZEZDExVy1KMy0zX1dsU1FKeUlBMHVIMG5wcDdZV0R6SmJVZDcyVVFRUWpQRUxudWpOaVo5NzNNMHpVbVAtNzRmVXZ4MUxiQmFqcw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "India exports 1 tonne makhana from Bihar to Greece, 24 tonnes frozen food from Sonipat to Canada. Covered by The Economic Times and Daily Excelsior.",
+      "image": "images/india-exports-1-tonne-makhana-from-bihar-to-greece-24-tonnes.jpg",
       "image_kind": "photo"
     },
     {
@@ -626,8 +675,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "jansatta",
-      "headline": "‘पापा ने बुलाया था…’, सिंगापुर से पटना पहुंचीं रोहिणी आचार्य, एयरपोर्ट पर रिसीव करने पहुंचे लालू, राबड़ी और मीसा - Jansatta",
+      "id": "jansatta-com",
+      "headline": "‘पापा ने बुलाया था…’, सिंगापुर से पटना पहुंचीं रोहिणी आचार्य, एयरपोर्ट पर रिसीव करने पहुंचे लालू, राबड़ी और मीसा - jansatta.com",
       "summary": "",
       "date": "2026-10-02",
       "topics": [
@@ -635,12 +684,12 @@
       ],
       "sources": [
         {
-          "outlet": "India TV Hindi",
+          "outlet": "indiatv.in",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGJ4NjBWazdKaUlTSEhZTUNmeHdLRzRVbGNSeS1GZTVGcy1ob3pxUnc2RzMxazYwTnZ6RXllNXdBeEhlZmRydzRzUHBjbHlhV01ldFpycm85aG8xUUdVRlM3LWlCRTJ6SERhVXkxNDY0RjA1Ym1lcHdwenZCNWFYV0NzZk1Uc0NDT0o4TGNmWHVSVGVPc196dVRvUi1BLWtKUURJMFNqSUdsbm5XelczcFhmNERYSHlPVDExNkJ3UkxtYm9RdW5KcdIBzgFBVV95cUxPek1aQl80TmdRU2hGeFY2UlNzYkx1U2dpLS1xUlppX2RSc3pzZURkanllNWtEbFh0UXZ5OE9UNjNDa0d0UjB2Q0NiMGJwWHBuXzY2V19UX0ZoX2YwdjE5dy11bFZDX0RDeXZuTHA3QzlEcFhabW9kY1BhMXVHV3k3VUVodkVpQ19sZWhjblA0NnI0MklVZDlpMVpnQnU4emFvQldmZjZ6YUF5clBPb0pMYzJ2b0hqNThNWGQ1Q1AwekUzQlpGT0hfZWd5QTNJdw?oc=5"
         },
         {
-          "outlet": "Jansatta",
+          "outlet": "jansatta.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORm9GYks1Q1BkaFNZUjFmTU9OTGxNMmFmWlllLTUzTFQwWFZDU3A4UzdDTUdnaFVHZ29JMFcxMk4yUnRkb1FhZi1Eb0tKMXhDQXhhVDF2ZVFsMGVEWXBJUC1XR1lFSldNaXN2ODdtWUpvMUNvYVRfOXY2ZExsdHJpdG9KYTlHZ01iZHZjdVJGU0hzU0hqUUE0bkNVLXlsWTFjVmJTbUQ2bHhjbDdReFd3cU9oUmZEQ3BtRkRGS0NNMDdHQVNid2xFRnVQa1dCb0FlVDJUMVVKWTlwTmtPVzZiVVRQSm8yd9IB7AFBVV95cUxOdzAtYWFNNndWM1NuTGxZRGx5U2tmYm1BRlR3eHBQVGo4ZUtuN2l1RUlVc20tQUlBblBwNDEtUGc0Ui1xazQ4TzdiSGQydV8tT2o1LTFXdUx2YWFzNGV5amNZdTV0SVYtREl1LUg2SE9RQW11Q0YyUFVjM19kOVFPcDBmMkhxQ3ZJVmNTVk1reDFaRTJnMER6OEdmcEI5c1ByUEpMZU1VN3pFNHM4MVlQb3hXdVl2T2UtUXV2SFhScjVVWDI0WkpvYlFFTTEyZzBzbkNLcjFkQXlBVHlmeWdoTVFKVXVKeVJ4V0VzVg?oc=5"
         }
@@ -648,8 +697,8 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "‘पापा ने बुलाया था…’, सिंगापुर से पटना पहुंचीं रोहिणी आचार्य, एयरपोर्ट पर रिसीव करने पहुंचे लालू, राबड़ी और मीसा। इसे India TV Hindi और Jansatta ने रिपोर्ट किया है।",
-      "image": "images/jansatta.jpg",
+      "brief": "‘पापा ने बुलाया था…’, सिंगापुर से पटना पहुंचीं रोहिणी आचार्य, एयरपोर्ट पर रिसीव करने पहुंचे लालू, राबड़ी और मीसा - jansatta.com। इसे indiatv.in और jansatta.com ने रिपोर्ट किया है।",
+      "image": "images/jansatta-com.jpg",
       "image_kind": "photo"
     },
     {
@@ -680,17 +729,12 @@
           "outlet": "The Statesman",
           "type": "news",
           "url": "https://www.thestatesman.com/india/watch-anant-singh-holds-roadshow-accompanies-jan-suraaj-party-mlc-candidate-for-nomination-1503645492.html/amp"
-        },
-        {
-          "outlet": "The Federal",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMEJIMmg3NjJmTEZMYmxhQzduYVVIQ2tONXh2MmJDUjV0b1JtTlluOWJHbW5NTzZPZFJ6aFBfRWtfQWNjbHNwcUljbjNFYWhkblkwVE43T004aTR2TE9yTUEwZjdSdk5PNWsyOU1uT1ZUV0stcW1EWTZEc2FWakJQYTFWU0ctS3JzWGhfa3VzNGxzWHc1d1JhYVphR1FnekpFNW44RkZpdXRFSU1MX3BHaF9nTXQxUXlsUGU2OFVheXZQSk5UYS1nVGFXT2QzUWs?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "JD(U) MLA Anant Singh accompanies Jan Suraaj's Anuj Singh for Patna Graduates MLC nomination, vows to defeat own party's Neeraj Kumar. A politics-related story. Covered by 5 outlets, including The Hindu and The Economic Times.",
+      "brief": "JD(U) MLA Anant Singh accompanies Jan Suraaj's Anuj Singh for Patna Graduates MLC nomination, vows to defeat own party's Neeraj Kumar. A politics-related story. Covered by 4 outlets, including The Hindu and The Economic Times.",
       "image": "images/jd-u-mla-anant-singh-accompanies-jan-suraaj-s-anuj-singh-for.jpg",
       "image_kind": "photo"
     },
@@ -987,15 +1031,15 @@
           "url": "https://businesstoday.in/india/story/bihar-vigilance-raid-rs70-lakh-cash-gold-jewellery-found-at-adm-supply-officers-patna-flat-558592-2026-09-29"
         },
         {
-          "outlet": "etvbharat.com",
+          "outlet": "ETV Bharat",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNE1FNGYycHluMGN1dU5nczVwcmVWczJYUnBtNUNMWUR4RURlaUFBeDliV3MtUG9EdlkzQUJldE1fdDdLS1Nzcm1zQWszVzVzZkV4TWtVemE2b2lqanU3NEk0Q1dhMkEwWFNHLXU4Z25SSVZPLVJxZHJPdlVmRVU0QVhvZTF0VTJRN29KUFRINHNzcW1jbUwwNW5mYlBaeU1NdnZEcUd6clg4bjdYNkhsd2RySy1EVUt6aVNlMkxjallUbnVJNGJLR3Z0TlluSWUxa2tBLVd6UHRsVVdTTlFj0gHkAUFVX3lxTE9lZHhwLU5ORFZLYldHM0g3a2N5SE9GWkNvU1dsWmpmenF2LTAtZmJwODZ1cjE4eFVEenBUcGVNOWlCQU9ucll4dy1VZk5maU5KYUtnUkU2eXU2anNOaWJLcTdPdUFfOXdZNWhtbEJJMDlyY0E0NUdzVmtEY0tManBoOE5VSXA4SS1jUnVLZnFYOGFLU0JnY2hpMFBTckZXZkhQMzloeTYzakFlem40STlsekd6ZElHUjFWX3NhR0w3SVZmQzF0SVFUT3JnTzFsY0dSSHN2U3Z4TS1XTzdabmFXUXM1OA?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vigilance raids Patna ADM (Supply) Ravindra Kumar Diwakar and sub-registrar wife; Rs 79.98 lakh cash and 48 watches seized. A crime-related story. Covered by 4 outlets, including Indian Express and ETV Bharat.",
+      "brief": "Vigilance raids Patna ADM (Supply) Ravindra Kumar Diwakar and sub-registrar wife; Rs 79.98 lakh cash and 48 watches seized. A crime-related story. Covered by 3 outlets, including Indian Express and ETV Bharat.",
       "image": "images/vigilance-raids-patna-adm-supply-ravindra-kumar-diwakar-and-.jpg",
       "image_kind": "photo"
     },
