@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05 14:55 UTC",
-  "generated_at_ist": "05 Oct 2026, 08:25 PM IST",
+  "generated_at": "2026-10-05 15:35 UTC",
+  "generated_at_ist": "05 Oct 2026, 09:05 PM IST",
   "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -47,13 +47,12 @@
       "summary": "",
       "date": "2026-10-05",
       "topics": [
-        "politics",
         "crime",
         "education"
       ],
       "sources": [
         {
-          "outlet": "theprint.in",
+          "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDNxaFlQbzVycXJMZmpOYzJ3VllZMTR1elhoWmNPMktPRHRVZ3RZY3lTS3Fkc24yWHJ4RnBOM3NjZmJPYXlTdXp3c0NudDYtQTR2dEE0M0NFU0oxcmlwd2xsSC1NdXBGeTNDTWJlTHFmMGgwWHVUMHI2NmpvaE16SjFsc1dlVUdEbnlreHNvckpGLUVaRkpHR214NE4wZ3NnRjFNaHAtN3pnQ0HSAbABQVVfeXFMTXRxc0N2bng1QndGd0RtOURKRG5QazZjd0JKTWVKZ0dUSFdrYmlZVnRfMEx5amIyS0M2NDB4a1phQ3M1d050NlB0MFAtdzZvRExCU1JGd3hOTV9TZXFUWmxsRVJUWlFHdkhNU1BFTGktVGJYU19DVU1zR2F6cjk0ejZFSWx4S2ltaWtxX0o4bkJldzZlaTF4Q25SUnIwUHgzZ0EtcldKaGZXbC1VTTI1VlE?oc=5"
         },
@@ -66,23 +65,18 @@
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNclVvWXRPaE5zcmpDeGgtOWlxNlJaVXNMcVdnZFhRVzRYdHFYVVh3RGJQWEh0M3BveXYzdjBtQ0tCX3BtU1lqbmZ3Vm1sZEotMjRXNG5hVGtVc2lpLU9GN2VOR3piYnQ2NzhQbDRUT3BZWFNGbXc5OFotNWNld01pdGt6bFpRMWEzclhPWTl4RXB6M1hIWnVydzNvM2FLdk9jcTE2NDVPang4OXRPSzZSNFF5Z0dCeDlOUm5ocVNXNjBDY082Q2pJS3NaczhHdzFycmo0b1dEYWfSAd4BQVVfeXFMTmVfblIxQzZ4V1RvTlNPWTdZSGI3X1Vfc0xTTWU1WmFKczc2SkJlWlphcnB4d0lBZjhPTzNLRnk5dHFfNFlBQ1J6bFRVNXBQeHBzN3l6WWQzMEV2UmtRYkNGUTVfcDRKbHRXaF9tRHkwVDRIYVhxQ1JkNEJXQ0cwWkpNZTN2ejdHaVVaMHZIN0ZVcC1MRnFLbDc5QTc0aWIzY2VQY0lZSUs2aW9NeUpRMTR5cFpqY3gyUXl0dHdkcjY3M1NFUmQ0bHlNdVMyY3B3MFN6OHh1Nzl6Q2I3UTRR?oc=5"
-        },
-        {
-          "outlet": "Telegraph India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzVXNWVyY21LYmRUZlFWNEVfclJlN01Xd0U4WHVkOFFmY0N6VW14NGlTSW40NU5vdTdDWlFXSlNIZFJOX3FVUG41ak5rQ2gydkhYQXlXQXUwODZ1WnFuWFRqLVNUSlFZMlRKRVl5OERLSlgtelB5cTJjTFp0NVFwWkxrSk1yeW5sM01MbF80YWw5SEJGT0ZmTHAwMkpUMDh4Y2hBQzF0aVl0TWd1WHNGSzhlbXlRdW1IN3JyMVlENU9lcFVhbXZsZi1XMlBhWkJsZFHSAdcBQVVfeXFMTlBNdW5jamlQXzU0SmV3OXRZU2xneklJclY5dVpVUjNyblg4cXVKV3BvcDNydkh1V0hNemZGa0RsMUxkcjItbXV4V2VnNjkyLTltb0p6YW5VVWxId2Zfa3hhdWd1aXhhYUljeldIZVZBVTN5Q21CQTktZVRqcUFwMVBWc19EMlJ2YldabVVZRDBvQXZqUlBWSkxKMjFuUzN4eUhlQXVuUFkxc19rS2JvTllJeVQtU0pvOUFoZmJITnZxQlNieGhiQ0JZZVZWeVRVUE9yWHY3amM?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar police job aspirants march in Patna, seek withdrawal of exam cancellation. A politics-related story. Covered by 4 outlets, including theprint.in and Careers360.",
+      "brief": "Bihar police job aspirants march in Patna, seek withdrawal of exam cancellation. A crime-related story. Covered by 3 outlets, including ThePrint and Careers360.",
       "image": "images/bihar-police-job-aspirants-march-in-patna-seek-withdrawal-of.jpg",
       "image_kind": "photo"
     },
     {
       "id": "nitish-meets-lalan-singh-amid-jd-u-dispute-over-patna-gradua",
-      "headline": "Nitish meets Lalan Singh amid JD(U) dispute over Patna Graduates’ MLC seat; Neeraj Kumar to file nomination today - cityairnews.com",
+      "headline": "Nitish meets Lalan Singh amid JD(U) dispute over Patna Graduates’ MLC seat; Neeraj Kumar to file nomination today - Cityairnews",
       "summary": "",
       "date": "2026-10-05",
       "topics": [
@@ -95,27 +89,27 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2lEZzdLVWh4eVVYMmFLUGZuSmFTQXlCWGV3NWhLc2U3N1B0cGwwa2VxTW5WbmdxUExvR0pUWm1PUlhhbElteGFNZG1SZ1pIbWMxTEUtRWRNcVFhZ1RmRkxIYjRLWk1TQmJRUmdDM1F5M19ERTJzYWFnb3FYdGk2aVdjakpDUDJHajlBMXhESXNiOExDMWstSjVJMW9fdHdQdHQ3NXY0MWVVRWIwM09JTHBETmtJMEE?oc=5"
         },
         {
-          "outlet": "thenewsmill.com",
+          "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFhhRU11eFJDSWJlSEg4M2o0Y3lFN3hzWjh2QzR1N2EyWk5Ua2NJemJjdGVUT2o0dWJMcnB2OUNwcVBxWWlxa1gyaGZGZ0xfdURBU08zbGtaOVNLV2ppUFRTSGRWRUVYaDhpUlVVaXBxTzNWVVF6OWlyR0wzaVRtTzVJY3NKc3VvY3EwVEo1Z0FCOUE4Uk4xaUptcG15NkVQRi1kUmVBYUlSc1lT?oc=5"
-        },
-        {
-          "outlet": "cityairnews.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObHhhUlpZUjlXU0tjWjlYaXF1Zzc3ZzBySDZTdC1YbERFYk9JMEtyYU0wdmJ2c3lvUk9ydWtJdjlPVEdQa2o5MzhEUWg2Q09fOF82VFJtajJnTVNjMk0xX2lESTdFYzdiNXBuaUZWaGVsSHhOTUMtakYtb2IzbXQ5T0tqZTZhOFg0TzFVeWZkT3ltdzdOSElPOFhERFNvSXdZWHNlNXpoZkNmOW9IVzlEenlvT3dUaWdsX18wLWFLbXNjV0tvYUdTaXFIbmZJN1hqQzc5bTFGWExZTnRmZVE?oc=5"
         },
         {
           "outlet": "Asianet Newsable",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDlMT01Tbkw4VzVOUW9ObEdheUxvbnQ0dmpjb29ibU42WmphZS1LRm94dXNvYlVUY2hBTnEycG00RDJVRVdTbmNGaVMyQl9jeXdrTWhrTGVnU2NIWDdYT2VscWllSUhvUlNLZWJadk53R2E0QWQ3Mkd1M1owWUNQa0IyTGZKSlljZXExLWo0cTNHZllfUDRUbWgtZHRueWw1cUdDSW1URjZmQ2ozbnhvb1JiT3hBQUZ0QUtoX0U0X28zZ9IBxwFBVV95cUxOSnF3T1NtS0JNbTNmaFdPNlFCMFlJUkZXTkRmbmFTT0xXbU1YT05McDdfaWNqZnJvLTkwSFVZWG1WNVhWaGh6dFJRSDBMT2lHLVpOSUJ6UWZoNDlFR1hoVU1FWmhzWE5sR1NSTUJidzNoWFYwNTA0OFFxMnNBa0Y0VVdNR0NnbVVleVMtSU5YX1BmN0VwMFJYNk4wUjUyY0F5WTZjY3RyX2hua2g2NURVem5hZGVuR21aaERHZWFuYXd2WklxREpv?oc=5"
+        },
+        {
+          "outlet": "Cityairnews",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObHhhUlpZUjlXU0tjWjlYaXF1Zzc3ZzBySDZTdC1YbERFYk9JMEtyYU0wdmJ2c3lvUk9ydWtJdjlPVEdQa2o5MzhEUWg2Q09fOF82VFJtajJnTVNjMk0xX2lESTdFYzdiNXBuaUZWaGVsSHhOTUMtakYtb2IzbXQ5T0tqZTZhOFg0TzFVeWZkT3ltdzdOSElPOFhERFNvSXdZWHNlNXpoZkNmOW9IVzlEenlvT3dUaWdsX18wLWFLbXNjV0tvYUdTaXFIbmZJN1hqQzc5bTFGWExZTnRmZVE?oc=5"
         }
       ],
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Nitish meets Lalan Singh amid JD(U) dispute over Patna Graduates’ MLC seat; Neeraj Kumar to file nomination today - cityairnews.com. A politics-related story. Covered by 4 outlets, including KalingaTV and thenewsmill.com.",
+      "brief": "Nitish meets Lalan Singh amid JD(U) dispute over Patna Graduates’ MLC seat; Neeraj Kumar to file nomination today. A politics-related story. Covered by 4 outlets, including KalingaTV and The News Mill.",
       "image": "images/nitish-meets-lalan-singh-amid-jd-u-dispute-over-patna-gradua.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "watch-katihar-lawyer-cornered-on-staircase-shot-in-chest-as-",
@@ -137,12 +131,17 @@
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMFNUR0JPMmxHQUhfcFo3SG9aTUhnTURjT0MtMHNJc1BJRC1jOHBvaXpsZ0c3Zy15UlRYX2hORFM2UFNweVVsOC1BOU1oYVJwdzNocWRYTE1zR0F0cjR3ejAzMDAtYWJvWGJfcjN4dDZhUWlQTlFFQWhDVDVfb3RFYTR3anZJSFpIS2JjaG8wLVdYUWItanZWbEs0MGFCek5SM2VTNUVKTW1yVkg2N1ZreE93WDczMXNycHAzVGpTV18wT3Z3UFd0SWs3Mk8wcXAzYWF5T0k2MVRhc2FjOHhNRFI5VjBicFNaSm1wR2tEcHXSAfYBQVVfeXFMT05Ydmdzb0ZsemxuN3VqZE5xMnlqendlRmV6d0EtUzdYM1JkMGlMX05UdHdpOVQ5cm1HanBmUk5XN0dwVldBMjR2RzRHNzBOVjVFTUpqUWlNVlZKb2NTYk84X2gtdlFZa3I3TzdCUTdwaUlTNnFWdk9iUmIwRzZDSFVKLUdMZTZOandnYTgxdjFNR2FrSnR5c2U2UHJaNFVaclZEUTR3RmN6a3ZUbTJDT0RpaXlNcUdXMGlDR25DbEpUNXloVG5IVWRwenVsdnJpYUZDdk9YbnZ3b2p3a2FQbV9VNl8zZkl0UVdpeFNvVjB5Z2otLWZR?oc=5"
         },
         {
+          "outlet": "Inshorts",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ3gzeURQRDlKQ250UFBmV3Exc2NHU09wZjI5LU1xN0hPVDNaZTFSbmhBRFQ2SWpvczdmdVE4S2tWWE5JNEl3TTJBanljYTUzVU5SSmM5M3RZcTZjeXplVll3NmJkSWhwanJZR0JnZ3kxa2hjVmNiQ1NqWkhndFR5SXRxTGhhVXRNMEpjSkFTNkpDNHVrNFY1Vi1TSXAwZ9IBowFBVV95cUxQaTA5bTBCbXdmSVUzbHMwS2IyQmxyZnl5U3pIaVBGSXZqVmUtc1VMWVIzMk9nb3J2MXlpRTRkdDdXNTdMVEoyb2w0U2dQMmxPOVNuVVdoZ3g1c3h6dkQwX0lCX1h5UmFRY054TjJiU04yWThtd0MyeUFiTjc4MzUzdmtSUTY2TEJQTGdmTzJiYnBMcDh4c0NwbGplb2E1OFhVbXhZ?oc=5"
+        },
+        {
           "outlet": "Asianet Newsable",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOG1LVkcwNzEycXdUcjBpWERPOC0xcHVMYlBHaUtlSzREdWkyZ2hocmRaMGRCUmN4WndTYUFLMlZzWGh2NzBhdEhRblh0TngyVi16V0QzQXhxT2ZUbWtCcnB2MjNEOHVpOG5Gem5iMU5HYXBZSVhpeW9ONVVhX3pZeDk4dmVSd3RyZVBENG5kRUwwSmVDZkprcFVpZWgwWlNtOG1GWU03TzZ4dHZacURLR1dvaTF0d2dCV2VlZFB1TkpqWGEzaG1ZOTMxWk4tRDJwc0NmZE1n0gHbAUFVX3lxTE9XMmplcnVtaXFneHVvbzlldExBNXlOblB3SFFLTnRYU0lLakxPU2hNVmRKOEdra3FnRktFWUFkaFRRRFpMQlV5N2hudTZrQjBySFkyZnd1OTJOTmhDUmpQLXk3VFhOTS04M004RzR5U0ZPSGhJZW4xYzJlOTJoQVNJekxNYmdyWk4tYnhaaW1BYy1NNkNrZ0RJaEVoWExWbDRBY2RxLWo1ZGN6eGc5SFZqLVl4eUxmWWZzTE93Y0VnckdweEEtUERxSGxOQzItTXNzWVRXblV0X3pRMA?oc=5"
         },
         {
-          "outlet": "theprint.in",
+          "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYWZaUlB1MDE4WXZmTTZPLXo5NURzemd1ZFFDalY4TENRMFJoTGotYUpLOXdIOVVZanpmekt6ZF9lVnNMT29vNWFwQVRNdm54RzB2b1J6T0htVmttZUpUYXVxTEEydkZEdVE0SkFZWWR0RUh0QTlwQ2d3cERhcUZRVTY0QXVNbmhBT1p2cm9zVDM4UdIBlwFBVV95cUxQWkxMZDFjS09uVndUdlFEbWljYkpuSEhJNy0yamNoZUxsTllBa3F0eDVZRk1NeHhTengzd3JlVS1SMU1wRS1FTDgwX2lMZ2ozeXl2XzV1YUJUWEdaMzllVHhiNi1CNmlXQXl4Vk5FUThueGktWDNPMXNEeGIzdkgxaDhkT1JGSE95X2hDMlo2dmVSM3JDbmFn?oc=5"
         },
@@ -152,16 +151,16 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3VSVVdCeXlkSVRqeTNuMTFTYWNBcnlLQlZWTDlFZmNsWkNKMGtYNXN2azJOS0w2YkRRVndqSXgtZ3VXSFJUNlVoTldubHdLRWNsUTE4UUpRNFRiMWFjaDBxQjNuV2pDV0ZZZFJSYV9LOG4tWFE4MTdMY3BVNnJZa1VoOXF3OHhXay1TcjhRT05SUVI0dk5ZSmlsODBVbGNHTnhrX3NISDdnQWMzTjhiRdIBtgFBVV95cUxNVkNKQ05URmJHTXAwdjFrS2dxT0JiWmQ3a2xVS2duMFZUbUxCTnFxYW54YUZEeklSUzZmV1A1OElqWWVxU2hDelB6RXBIcUNaTE9SS2pTdGFrel94eUxiQ3NGXzQxSlZJV0M2VzhGMUJKRVNxelFNNFlwd0lVX1ZlZWZ6eGJZckxlRkgxVVBqcFdXNE8yT0hLMmNIeEktSlJEbnplMDV3bFRoNlZSbFhtbXVEVWRPZw?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Watch: Katihar lawyer cornered on staircase, shot in chest as attackers walk away calmly - timesofindia.indiatimes.com. Covered by 4 outlets, including timesofindia.indiatimes.com and Asianet Newsable.",
+      "brief": "Watch: Katihar lawyer cornered on staircase, shot in chest as attackers walk away calmly - timesofindia.indiatimes.com. Covered by 5 outlets, including timesofindia.indiatimes.com and Inshorts.",
       "image": "images/watch-katihar-lawyer-cornered-on-staircase-shot-in-chest-as-.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "bihar-sir-row-india-bloc-to-hold-akrosh-march-on-october-7-d",
-      "headline": "Bihar SIR row: INDIA bloc to hold ‘Akrosh March’ on October 7, demands CEC Gyanesh Kumar’s removal - timesofindia.indiatimes.com",
+      "id": "india-bloc-members-in-bihar-to-take-out-aakrosh-march-on-oct",
+      "headline": "INDIA bloc members in Bihar to take out 'Aakrosh March' on October 7 against Gyanesh Kumar; Tejashwi Yadav slams PM Modi, Amit Shah - ANI News",
       "summary": "",
       "date": "2026-10-05",
       "topics": [
@@ -174,14 +173,14 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWXhLdFVkNG45Vlgyd1hObVZzYVd5Z3EtY25MUVkxVUhOZGJhdE9tbTRBeTVlTDd5d3BfQmVuYWFZRXNvcDd2NlU2WTlZNXhOc0dGbmhhRVY4VDg1N25HWFVDYjBCajV0bC10dmxoeTRfUkxDRmlrUzZCa3JMVlc2WmJYazNra3BCQjMtZmMweTlJcGd3V2RFSG9YOUNvdzFWUHgtXzJOU2JpOXlFTkFyQ0E0X0dXNnFrRjFSeGF2NXlIUGY1U2tmay0ya3hnc2h5SXVLa2JtV2Vfc3pJZ0drTnhGQzViZGg0Y2RVV3Z1NEVDUnRwMVpvLTRn0gH_AUFVX3lxTE5YRkZlbkdobGdGUEVZRzYzSXM4bVBTaVV1RGRFRlk4SHcwYkdFNHk0eHdhX0dKb2F5NGdfaWpjREJwRWU0cUF4T3ZFMXU2VU1sOFc3VTlUWWtRZldyWTJsMnVkelBLbjJ5Wmt1dVBab0dPRkZzMV9yNS0tc1FNT0U2QlUxalJiSFN0djM2X2ZrdlUzSnFfVUhOckcyVy1WcUxCcW12bnRtdUw0cGRsdUp5UHJuc01IZERmdDZqaHFXUVA5YjVhX2tpNzNURG9Id3ZwQkJSaW0tYzhCWXQ0Qjh6OXVjbmNHMTQ3SkNLZ3B1ZjlTS2ZrZzU4dWhFa19wTQ?oc=5"
         },
         {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3hxbGVlcFc2WFNlaXpmSm1JenR0VFlPUVVZQnpnV2VuVnd1NVo5aENnRnNMZDk0WEI4eXlTQmF6SktnLTlkMFlDakFtUFh5bGRqcnd6b2gyTV9lNHFxNFM3V0Z5SVlvbEg0TzJrWUE3LUZONWQwUlBoc2FEMkVHY3RWcVVTTzZ6U0g4NjNMVFdBS0gybUc2ekxWWXpkNjZybVZaenFmZ3haOWx3ODV5UnY3aDVGWGs1aG1FeGVKNWNVVWl10gHKAUFVX3lxTE9ncUh0WlBRRjJucEN5VHBfMlNOOWU5cVM1LVRSRUNmR1ZOaEU4TXhBbHNNVEF2aHItQnVfZEs5aEdRNGhsU095UllYVmY2WHMydzdka0NrLWxfNHF1SFBPRldiRV84cGNwdzAzVnd5SnhfTU13Y3pIUjdGdU40aVg4dHdaVUFFV3IxSTRpNXFlMHNOY3pzTGNmcGFENFNPUjlNY2ZMLW5ndDNnODY4dHQ2RGlybFZHMjgyMmJxeGMzMVIxdWV0QWVyOFE?oc=5"
+        },
+        {
           "outlet": "Pioneer Daily",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORU16eG9rS3lsSUtTUkVaaFRRcFNySnA5dUFDTXpFOXlac1AzZy1HdlQ1eTE2dFhnSE44UzF5UTBBLVVoLWd1NXJWMnc1Ull6TlkzS3kzSDNkWC12SHAwSUszbDlwLV9PSjFaUHVqWWs1Q3RjeGhqa0loOTRWa1Y1X0kzWVo2NDAtMUJNdnRXc0I5dw?oc=5"
-        },
-        {
-          "outlet": "theprint.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3hxbGVlcFc2WFNlaXpmSm1JenR0VFlPUVVZQnpnV2VuVnd1NVo5aENnRnNMZDk0WEI4eXlTQmF6SktnLTlkMFlDakFtUFh5bGRqcnd6b2gyTV9lNHFxNFM3V0Z5SVlvbEg0TzJrWUE3LUZONWQwUlBoc2FEMkVHY3RWcVVTTzZ6U0g4NjNMVFdBS0gybUc2ekxWWXpkNjZybVZaenFmZ3haOWx3ODV5UnY3aDVGWGs1aG1FeGVKNWNVVWl10gHKAUFVX3lxTE9ncUh0WlBRRjJucEN5VHBfMlNOOWU5cVM1LVRSRUNmR1ZOaEU4TXhBbHNNVEF2aHItQnVfZEs5aEdRNGhsU095UllYVmY2WHMydzdka0NrLWxfNHF1SFBPRldiRV84cGNwdzAzVnd5SnhfTU13Y3pIUjdGdU40aVg4dHdaVUFFV3IxSTRpNXFlMHNOY3pzTGNmcGFENFNPUjlNY2ZMLW5ndDNnODY4dHQ2RGlybFZHMjgyMmJxeGMzMVIxdWV0QWVyOFE?oc=5"
         },
         {
           "outlet": "ETV Bharat",
@@ -189,17 +188,22 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlFUNTQ2SXVUVFlndHkzaWxRNm5ZVlVlVWc2cWoxR2VMckpsYzF0RElyQlFBdk45anpMYnl4NWNGUjdHYUpCak1wa2ZTd0dHcVp4ZlhJdEVOZXVHd1pjS2pJNE55NUdUd1F0M3NzM09CMVVGa0ptc215TEdmdEFmOXVXNDZLU292eFhvQmZwWXJhME9yQzF5VjdMTnpXQzE2TzhTYm9DblBBNHJBNS1uZUYtcmVJY2owbXRVTkJFRjFsajM3RFliV3VmcWo4bHJuQ3NkQzdjR2h1V1JG0gHiAUFVX3lxTFBlS0V4Mkkya0VIaTRWMnEyenpIWGxDczh3aDdxekFkb215QXIwdkNYM1NIMWRXdVNBYVZzWHNKUXpOT3d3bEVoNWVOQnlPN19NVWVTNDhaeElQc2F0Yml0emhuN01wcFlHV0F0SHlvWTRiQzVDTk43eHdDZUx2UHV3Z0xUM0xPS2dpVzNhSHNCZHdtOVVGWWlsLXlQaGFldVY5UXlCa1R5b1liVDEtMkhtc2pmaFhEZGdibFpnQVpiQWlnX2VVbUtVZlpTMENLX2VfcG55UGRFOHRmMTVpN2pWYkE?oc=5"
         },
         {
-          "outlet": "Pioneer Daily",
+          "outlet": "The News Mill",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2c5Wkd2TGN4LTRoc01uUWtwdXUwVlZ5ZnhoZDRXR09heGQzRU0ySW9GbVpkWWw0M2F6Rk5DUGZaMDlOenJJSTljcEVsd1lyUExtZEtIbmlsR0U1RE5ScHBTajNyRXVaVkFFSW4yVHVTRHdUcnlDdDFmVmh6VmY5SGgwcjJtT1g4TkFvR0NDVzE0Q28wY3o3R3N3Qk5jZlllNkkyUEE3S0hSSGsw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONGFLOU4yUWlKNkxNQ3hfY3RtdGdGaEF6LWlyblRBeDUzbFB1Z3RtTWlpdEZNeDE2eU5ncGtQd09mdExJem91VjJnUTdDZ2xpdkp4R0VWVm9PQ3dWZ21JMGgxOVJYcjZONW1ia3JYU0JXRnZSYnltWlRKaUdTdWVmZ3pZYmlGXzdQNEFQSy0xLXN3dklmZWxvX3YtV25ITkMtX05WNnBXeGV5YnlfMXA3c2R5SDJnLXl2ZHNiRWl0a0EwTFNKT3c?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPYmhaNlRjMFFZQzJUaVBuUlJqS3p6OHFKSlJDVlUyQVJFb1dEcmY1T0ZLWlVmUEZXVEhmc01pMG9iTEMxTUF4Nk51aXRLb1JDZ3drV0FfWnpqaTY3NmNBWV9ESDdpYXhlNWluMjhRYmpWcTFfY2VSOGs0cTI4NXNPdXgxZTFtWHhNVnlBU21JNm5MeFVUOUgxSUpKV0lRUXFybXEwM0ZuQ004UDV4WGY0OFBEYlFqRDVVYXhiTW5fb2pKNFpVcldGN0RFRmdBVXJORThrU3hjT3ZycjZNMlVMcnFHbUhsSjdwR1RxZEdtYzVfQmJvLTFUMk9DY0tXU3IwUXdEYjVGZGhwMV9sT0VJOE43SDNKZzlHT1ZXc0c3QTV6b0FlNnc?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar SIR row: INDIA bloc to hold ‘Akrosh March’ on October 7, demands CEC Gyanesh Kumar’s removal - timesofindia.indiatimes.com. A politics-related story. Covered by 4 outlets, including timesofindia.indiatimes.com and Pioneer Daily.",
-      "image": "images/bihar-sir-row-india-bloc-to-hold-akrosh-march-on-october-7-d.jpg",
-      "image_kind": "photo"
+      "brief": "INDIA bloc members in Bihar to take out 'Aakrosh March' on October 7 against Gyanesh Kumar; Tejashwi Yadav slams PM Modi, Amit Shah. A politics-related story. Covered by 6 outlets, including timesofindia.indiatimes.com and ThePrint.",
+      "image": "images/india-bloc-members-in-bihar-to-take-out-aakrosh-march-on-oct.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "gross-negligence-of-duty-bihar-cop-suspended-after-video-sho",
@@ -252,14 +256,14 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVF6TkpxdlpnYUg3VEtHYlRwakptT05takNjQWVwdDIxUHVMc2JZTndBejgtV0F1cmlTRFBNZllDWEFSdE5hMk5fcURGZ19jMjhvbFZRRUZQNlBwSWExdzA2bHlaMG9TMDZyMm40N056YUptelhWaTBDY25ZUXNIQUNpOHBDR3F2V3VGbUVLLWgtUk13MUJJS1lCV21qaUczTnlvcVJqSHQtdXdOeklHdnNFWG5DYnPSAbsBQVVfeXFMT0txdnMtUjNUREE3UFMtcTZ6djRDY3hxQU4yOUhpZ1hRQndjR2pNTVVGcFlNcjBGOVZOVjhYMmsyczhDdFBEd1BxZ0d2czNpOG84dDZLMktxdXNJYWZscnNpaW41NFNHdUFHa0tqTEV0YkMyRlFzY09KX09tNWEtemxWLWllYlp0Xy1PY291eU1QTVhQMXZzRUZvaXZRLW9EZjdzVkt5VHFPcE5XUTZocUZjUlV0YzFDOUhuQQ?oc=5"
         },
         {
+          "outlet": "SSBCrack",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNFdOZk05VXNWOWJ1dVZrZXk0dXZiNjhxU2dvVkNxZl9QUzBKZVptQ0s2RTVuWFdQNHR3WTJQNzRDZUZVOHA1MUppZ2RVOXl5T0R0LTd4MktzY3JueVh5dkhLUzV5SWVFY0s5NHFaVFhsM0cwaVlDdUIxcE9hTFdQV1VaeVdlYnZxZFk2NWFaQUtjNkZLZGpCUXdPSXNWTk9hTm55R0Z1VXNTRE40ZDl3WVdPdE9pNXBlUDhlV1pqT3FyLVhwTmx6SkxB?oc=5"
+        },
+        {
           "outlet": "Deccan Herald",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclI4Z29hek9IVjRaWm9pLWIxRFlHV3BkYWVLaVZKeUdJVExKYzVvZHpodUltaFktU3hhVzF3OXlyRWZpcEJmUmplaDZVMkRJZHc1OWI2RWJ0RnVpb3k2aDRUTkNNSHNBTVEtX3phVkhzMXc5TkI0QXVSaHh2WGU5MzJuWFd3M3BrYzB6eXNrSEYzWUFXUUxsdlFpMGhqZy16THlROW5xTDJtQTNFWTNpLVRQOA?oc=5"
-        },
-        {
-          "outlet": "ssbcrack.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNFdOZk05VXNWOWJ1dVZrZXk0dXZiNjhxU2dvVkNxZl9QUzBKZVptQ0s2RTVuWFdQNHR3WTJQNzRDZUZVOHA1MUppZ2RVOXl5T0R0LTd4MktzY3JueVh5dkhLUzV5SWVFY0s5NHFaVFhsM0cwaVlDdUIxcE9hTFdQV1VaeVdlYnZxZFk2NWFaQUtjNkZLZGpCUXdPSXNWTk9hTm55R0Z1VXNTRE40ZDl3WVdPdE9pNXBlUDhlV1pqT3FyLVhwTmx6SkxB?oc=5"
         },
         {
           "outlet": "The Hindu",
@@ -267,25 +271,20 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV0h6cnlzSVNNUmlORnJOamJuTURmRGFRMzhNWUdabGkzWFNFOWpZSnU1WG9SbjJneHVVaWs4LTY2MDEyTU03Snl2WDkyb3ZKQVMwRVhIMWJZSTdWNzUtRDJhTWJNdklBOVV2OFZDYm5yaHZpSkJOQ0lxSUZKdVdOSmE1RExOVVRoV3NzOVZNblZJeU9qMU1ncHp2T01CbmxQbUlMbm9GT2dGQ2RGSTdQVW12c2VmbmFYd3dDTzdKMUJsMmg1b1dqckpveWg3TEJKZE9oSnQyVllHa09iOFJQUVJyaXUya0hjOHRXbXVqNEZuMDl1ci1zTzd3RGhqd9IBhAJBVV95cUxNTWVaQUVxVkgzczZ2NkVUNmNtczNKcHZMWlpkWnVIdFZoWkNaUVp1Qk0yYlpjZUNPRTdNVnZjS0NLVHBCYUpxWE5Lc0t1d0xFTTJFa1F6OVhjOWdZYkw3Z19GWEtrUnB3ZVpwbkt2ekpmZTZYcWZCRDBFd2xaTlVVUmtPNElYUDNZbXFtSU41Sk5TbWl3amp3X2RlekZQM1p1M3RzZDZ0YzlzUko4MnZ6eWFuLU5UZGp0emJXOFpfaXc5NXFpSkJ3S1I5SGFHNHBWem9XNExSRTZLTm0zd1RBd3B1Nk5FYk4tdGVKeE02QVg2aE5LblY2RmFUcmdZUTBIWXNrWg?oc=5"
         },
         {
-          "outlet": "theprint.in",
+          "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOEc4QzhMTjNuOXBKMHlpeW8wbGFVUmE2UlJ0T1UyazRmd1ZJRkxpUkJEZDc1al9LbHJNXzFRVUREd0RLQjlsVGhwNWtuczQ5RkFMTUhCVDVoQVNjMTM1N0Q0cTFmZGY1akppUW1WT0NtQWRiR21PeW1EUXJGRDJVaXRLdDA0SUZTWFlmZ0cwUXhQclF4aG9SNl9palpjbHc0ZWh1ZUx2N0V4V1UzVFNN0gG0AUFVX3lxTE9KTDJKLW1ncWdnV2ktNlU4YTJscklDTnNneHNUWWxTYnRTanNWOXJqai1SdTNpR2oyS3IwRkdoUmdmTTZnN3czQWhHdlpuRjAxU0xpM0cxdF93V0NGbzl6a0gwNFVPV09lZ3VNRXc2YW1XVk12blB2UjNiU2VyX0tHV2hoR0p0NjVaMGxBbzNlMzdacnBYb2dfak9BbVJqWmY4T2pIcklDSmlLYU1VX3FMRzA1eg?oc=5"
         },
         {
-          "outlet": "theprint.in",
+          "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUI4cGJiOUV3bnQ0NkNvWWxiVE1pdlFnd19wdklmbVNnZTNwM21aV0paeDVmSHRhSlZ6a0xheUsxaXdtM3YwNlhfcUtBUzZoMGxqdzRWLUJ4eGN2a1ZSci02T1A3VUdscllUeV84SkFYdjA5eUU0QXd2QzRrS291a09WOFY3UlJyallISU1hcF92OXBIeEdYakpCSzVJSWYwREdqaWV0M2JkRXBBbnIzUF9oYXdOaUhBMTZhX0c5RG1yTzlS0gHKAUFVX3lxTE1oNnoxaldOMHV3NWZXS2lkczh1RU5Nc1ZMeV8yb2xpcWItMzNiUDlIUFJSRFVXUm1GOUxnNUMxSE9vU2tseFY2c3p4bEZjUnRYTGZJUGxZSHRFdjlKZkNtZWFpMzduRnlWVzZpZmNlTGNjWGdicG5HS0g5NExackVSa0lQRDR6YjJXX08xd3RGTlZFMDJ3SkhHY2FkR3NUVzM3X1Q5YkxWSEpUdFJOUlZVWVhXNDRNUzF5S18ySEpla0hrdUdtdHYtZ1E?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEl5VjB4b05RSWREa1ZPQlVWVFhsUVViZTVzWld5UW1nUTdPbEtSYWQwMGhFUE5aejllMkZxZXVCbl9idHduVkRVUkdvaG5xbU9RVUpjYUc5VGo1ekFtZUEtekcwWlJ6d2doc0I0NklGMkpWZkM3bWZydHZTSEVJZTJNSDNrM3ExdnJQZUljTnRtTzBwS2l0Z3FuQnZVbUNiRHA00gGqAUFVX3lxTFA1Rno5cUZPUHNnbEE1bnJ1THRkalNHbk02SHotdGtvald5Z183MHdBNVpaQ1B0NHZ4aVFreXdycmJWMzdEdEpMMFRIbG1hV3pqdEtGeVY1Z0RLeG1SQ3JsU3EwTzBCN1ZvVURpRXZCaFhkQXVvMkp6a1NUd2h0UmQzdHF0Q3VwbjBUR3pzRGFPTm56ZEcwNU83V2E1MHo3MUFlOV9Wa2o4LW93?oc=5"
         }
       ],
-      "source_count": 10,
+      "source_count": 9,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'Gross negligence of duty': Bihar cop suspended after video shows him brandishing pistol during flood rel - timesofindia.indiatimes.com. A crime-related story. Covered by 10 outlets, including timesofindia.indiatimes.com and Deccan Herald.",
+      "brief": "'Gross negligence of duty': Bihar cop suspended after video shows him brandishing pistol during flood rel - timesofindia.indiatimes.com. A crime-related story. Covered by 9 outlets, including timesofindia.indiatimes.com and Deccan Herald.",
       "image": "images/gross-negligence-of-duty-bihar-cop-suspended-after-video-sho.jpg",
       "image_kind": "photo"
     },
@@ -299,7 +298,7 @@
       ],
       "sources": [
         {
-          "outlet": "ndtv.com",
+          "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGduTzdvUFRlQThxSVgzX0tiZU1QYUZJQ2l2Wlo0eHl3aExXWmoyNmN0aVdpNWZCeGFNX2Qta2dWWEoxNlU0TDkwa3pzM29PU1JHZjFldlE2a1d3MU9HekwzZ1FTSDhXZi1oaWVMXzZUeWFyUWJsZmVkenBoeVlVVnQtd3FwY21uSWZpUHVLanZkdVVJQVBnVGUtVFBDNXpFdkE?oc=5"
         },
@@ -317,7 +316,7 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "2 Held In Assam For Alleged Pakistan Espionage. A crime-related story. Covered by 3 outlets, including ndtv.com and India Today NE.",
+      "brief": "2 Held In Assam For Alleged Pakistan Espionage. A crime-related story. Covered by 3 outlets, including NDTV and India Today NE.",
       "image": "images/2-held-in-assam-for-alleged-pakistan-espionage-second-bihar-.jpg",
       "image_kind": "photo"
     },
@@ -336,9 +335,14 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHdXUGJWRzk3TzJaY2Q4cktuTlctSmRyU04wNm9uMmhEeWhyTFJqWEExQk9pM2J5VG1ISl9MbE42eDVuZUUwdy16QUJ5eWlQMnd0aTJsbzBLX2RpY0M2cWpHSWlLT3kydzVNUFJ3RktmZjVsN0JOa05teDUtQk0tTzBVWkZneUJqM2hpLWtzYXRxdm5STEhmUF9rOGZrR19aRFNFdDhqc0dJNzM0dzhUX2ZoaFREQV9MTFZfOFI2c3R3bGxzOURfNtIBzgFBVV95cUxOXzl2d1pWVGVmZ1BuN2lKUV82SDd5ZW9hR0JJbEFOOUxoSjVXcW8tQWRVcEJqRWt4bDBDeGFnVW9OcE5tbVdKZ3JpcnJSdGEyeWJGTm4yMVMtSE81b2pOWl94cGVuU1k1UXNfVnU5a1lmNnM2amtZWGVGZkM3RjgzOUhIZUc1V1dSdnVMSmlHTktiX19hT2hCV3dZNXpkNzRBVWtwd3owcWNiazJtMzF5QmR6eTJQZ0VoZFE4NVRUbTFBUWlNbDBicW8xbTM4Zw?oc=5"
         },
         {
-          "outlet": "theprint.in",
+          "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEduSmo1d0ZFczBCZURDT1c3VTB0cWF1cnRPbzBKdDVXMklBTV9CODlhYkoyVDA0c0h2WWcydTVpRGNIM0p0QWd5ZGk3X1JHeDE5cktQQU05ak04R2xRejdqWWdMbG93a3EzdFhvajlJS09wbmgtUzVHTXVoQzNWbG1JajhuREQyU0ZvWEdtaUd1YnJqS3FIeGtnZlhNRm_SAaQBQVVfeXFMT3J4RUFqWElwaFk5Zmowa3BPRFdDSEZheE81VExEblFza1RoYkM2b1BZNC1uSmpQVEpiMWtWb0s3NkJTMjhmZGZTaU8wRzBETGlyVndSOGxLVzRmT0c3Mm04Ri1VY0lwdkNyN3h3c1AyWnBkdUNRd2JUVWhkT0lrWUUyZVhUMUVVSHozMk9QQkZFWGVkLVByNkxQZTlhN2Jfd19yeUQ?oc=5"
+        },
+        {
+          "outlet": "The Siasat Daily",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX2loZUdrZFF2Zm5TMnlNcWMyajllTkR3VGJNWkpqbFoxeUYtcF9oZnBwdFNSUTV5NXg2d3JvQ2c5Wm1mN1kwcWdZczd2ZHpfQUFEV0ZyTTJRSG9Rdy1OQ2xfTkhqYmFYTk5nTFZ4M1dZOVBXY0dLckYycktROGpNUHlHcU5aWXdpaGpuQ1JmTXRtMjZqVmZVSThCb9IBoAFBVV95cUxOdXByMFBleHQ3RXZVMTZvV2NwNHY0NXJidEowajJSQkNfVWh0V2RlYlZaM1VNVHlsdnkwZWpxaEhQUmZSUG16dmdOX1ZwdGVUSzZydS1EX1hqTGxYSmlRWDFZeU8taHo2cUJRaERKN2pqajMwdVRNaHNPZkU0Wmx6aGowNjNpUFhWSWpuZFdlZVN1ZFlsUXFueTdnZ3RwMmhI?oc=5"
         },
         {
           "outlet": "The Tribune",
@@ -346,16 +350,16 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa21hQnI4YnBLSW02MVh2d3hJUmN0MWtCNkQ3emwtNHNsZFhGX05kb1EtX3BWVXdkSUFudkxoNmZKcDk5VDZXVHE2VFEwZmYwY2tQSUNjS2FqOTc0UHUySGFlYW9Dc09rYzFhVGpyQmc1Nlp2aGtQbjNmZmtickYwb241V181MmxzeTlzU0Y3ZVR0dDBPYlQwMWZfUjl1OWVnRmVGUHB5UdIBqwFBVV95cUxOUm9lTXhRX2JCNnkxQ3NKYnY5ZnFhQWtNdW9VRnNmN25xeXB2TTE1MnF4WVJsUks4YmJXV1hLZzBFYVd3ODJ2ejByZXQyR0podDVLSUZNUmdtbTFlNVloODlEZy1ZUWRjR3QyNmYzelVRLWQ0el90WjlsYzdUTVF3TTZibXp3c1gwTmdEdl9xb1pNV2NtUkVvTkRMQU5fb3dLaEU2enljT2x1S2s?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "22 Telangana Pilgrims Injured as Bus Hits Truck in Bihar's Buxar. Covered by 3 outlets, including Deccan Chronicle and theprint.in.",
+      "brief": "22 Telangana Pilgrims Injured as Bus Hits Truck in Bihar's Buxar. Covered by 4 outlets, including Deccan Chronicle and ThePrint.",
       "image": "images/22-telangana-pilgrims-injured-as-bus-hits-truck-in-bihar-s-b.jpg",
       "image_kind": "photo"
     },
     {
       "id": "bihar-man-watched-drishyam-3-travelled-2-000-km-to-kill-fath",
-      "headline": "Bihar man watched Drishyam 3, travelled 2,000 km to kill father. One call exposed him - India Today",
+      "headline": "Bihar man watched Drishyam 3, travelled 2,000 km to kill father. One call exposed him - gulfnews.com",
       "summary": "",
       "date": "2026-10-05",
       "topics": [
@@ -368,7 +372,7 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2RjUDBXOVV5czZfUzJHTWZxS19sRTVvbGRBb3RyOTUzNl8xa3hFcEZ0VTM1RWJfUjEyNkcybDl4TFFXTDRFWHFrVFliZ1ItdVJOMjM5Q1h4WE1lRnBQbTFZLUFoVUE2bFRZc2NtNGdlVzBSUFM4Z0lmMHhoaGdXUWNWbmRSTXNOdi1pZTE0dHFjZnplMGdzd1ZjamRKaHN0TG1BTEtYTUJieFIxUEdRNFNNbUV1anNlSTJIcFZFODM2LUxVeHJMTV9NQ0FxbWpxd1JIV3RB0gHbAUFVX3lxTE50UGJZRnU1SlNJUXQ5VjcyMlhkRk5hZkY2Nk5ESGs3aTJEVVhjTTRRWHlIR1gtekRYckdKR2dRLTZVamlMTkNUc0NicXl0bC02TmhZcHcyWnQtblFFNXpXMmV5YXVQa3NKVFZlTE1sdENaWHp5VXNjWmk4dlhocDZQNGdsTGVHcnRXbmRLVXZXczE5ZDUzMkpXWXAxTXY0UkhvRkZnUElwMkRyZElweURJVkRfVU1QLW1oQ1RGVW8tVW5vVEx2Um5tUFNDTWFYWEtsbFJ2WU1DSFo3RQ?oc=5"
         },
         {
-          "outlet": "Gulf News",
+          "outlet": "gulfnews.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcl9SU1VUMGRNdk80RXY2d1ZBOEUxalVRa253V042a183cTJ2VVBlbm5PQ21sUFNxVHRJcFNQNmE5b3dDNl9uY1dSNTRMVGNfQTh6V3R5T3RzcTlGMzFjWlUzakpPMktzZHNKM2I4NHJjaExwVFpnZ05QalJLRGJYYnVmVk9LS3JMajVCSlVNTlhFZ3Jpdnd2aFljLWZudFFpVk0zMVdFaENCdmVyLThONlhZM3pYeEJ3OHhRdWpOY0QyM1ZxZW51dFdGNVDSAeIBQVVfeXFMUF92RzhfYUtHWVU4ZDdUaDRXc1FxU1d5bTNIWERDMFdfTGdQTFhVbUIwb1ZBbGE2QTY3UGVDTjdOS2RYYmhtTU85eDFSbVN4UFJjQ19fLXlJekZPbEhkZlAyNXluSzYtQlY4ZHhOeFVHN3Y4Y2hUdGd4NFZzR25GVm9CUFVNcEJ2Y2o5S1pxd0xOQ0RKM05BOTlnLTM4bUtMS1FUS21qNTdPaGdpUVlJQ0hGWVRnRHBSRjQxXzRKTHRUekFCcG5RdWdqc1JaRFVzdDMwZWwyMGNWbVhldE9EaFl2QQ?oc=5"
         }
@@ -376,9 +380,63 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar man watched Drishyam 3, travelled 2,000 km to kill father. One call exposed him. Covered by India Today and Gulf News.",
+      "brief": "Bihar man watched Drishyam 3, travelled 2,000 km to kill father. One call exposed him - gulfnews.com. Covered by India Today and gulfnews.com.",
       "image": "images/bihar-man-watched-drishyam-3-travelled-2-000-km-to-kill-fath.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "sharjeel-imam-reaches-his-native-village-in-bihar-after-gett",
+      "headline": "Sharjeel Imam Reaches His Native Village in Bihar After Getting 7-Day Interim Bail in 2020 Delhi Riots Case - GujaratSamachar English",
+      "summary": "",
+      "date": "2026-10-05",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "GujaratSamachar English",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnp1OXQ3bEFZMFc5UkJTa2VsTGhyWTN4TGZ2RHE0bWhTc2JJQlNpa3ViRjBZMzdkWnR5M3dwTDQ1eElETFRHUTQ3TV9obXE0R0J5Z2hTOXdGb09aUHdfaW9MUlZTTF9namdYYnZ2UURxTHpqZU04ajVTd1F4OFZlVXZhcXVEVUFpNnZlNXk3c2w0bnRhX0EwRnNR?oc=5"
+        },
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUhWOVRuQ0tzZi1GSWFCRW1lNXZrcGkyVU5jTE9zcW1IZ2taT1V6dGZyLWRYNms3b1Fna21GaWRIbDhfck9ycW40RDNEcDRyV2VfenNPNzVvejk0OWdjZ2tJaWdiREJDNnRIdWlRVkUzX2szOGtsWnBCMjB3b1RLczd4X29VUHBTMzZUc2RFMHViaFZBS2JGbWlNQ081Z1llNlFQaVIzcktDSWlsQ2U3UWI2UDgwX3RMTS1OdVlWa18zUdIBxwFBVV95cUxPZ1VJSVdVWWhnRC0ydFBVYld6emZfdXRxa3oyQkJBT3pmTzVaNkw0S3Vabmd0Y25UUTZXTDlHcU1ETXphQUZKeGlWaTNsLU5IVkl0c0lSYUc4c0ZxMDlaUkxrNWhqSzgyZFJDODZ1b0lTc2lqOXF2WXZqVU9mZEdvWmFLM1M4SnBIWU04SkpHc2RFSXdmMzhzUHVLY09ZRzFENlNBTEZqNVhWOGE4OWhZZnpwdEstQk9ZbTlPZDM5SFVTWTVPblh3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Sharjeel Imam Reaches His Native Village in Bihar After Getting 7-Day Interim Bail in 2020 Delhi Riots Case. Covered by GujaratSamachar English and Asianet Newsable.",
+      "image": "images/sharjeel-imam-reaches-his-native-village-in-bihar-after-gett.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "misleading-eci-fact-checks-rahul-gandhi-s-form-6-claim-cites",
+      "headline": "'Misleading': ECI fact-checks Rahul Gandhi's Form 6 claim, cites SC ruling on Bihar SIR order - Business Today",
+      "summary": "",
+      "date": "2026-10-05",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Business Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeGExNldqSjhHdGVKTVdyNGpyU2hmd0J5Tnl0QXJHaGJCalN4VGpvMjZPZXlUdVh2R0F4cF9rR2djU1UxRGVGWlJNRU9uVllhUGZyaklZV2loTl8yMDZGZ2l3ZFlubng5Z282THNLSFYzbnFCLUVzM25id1VqWlBobXQ4N2tkVVo3YmFmR19obUNvVlNJaG11b2tmTDZvUXRPZTJmaEpLQldMNlBjTFJGT016RGFoemwzeFZzeVFSUWVycGRXN3k0amE4dEpLS25TQnJFaEpVLVFKa0NCRERVYdIB5gFBVV95cUxNLTh2bTNOQVdPUXE4dURibk42Tkt0aW5scGhiRTU4SnRVR1Jvd2hZbVNJX0NRLW5PNElmZWdmQWhqYWlER2psUTY5LThKQU1IeDk3RWFtUWJPSlhXV3g0TlZZa21INTJfWml3ajgxMXU5Z0xhTHZ5VDljM3c5RWxHZ2JHc1Y1YUxVWENGUUJ5R0RaNTB4TE9kbWNMbnNQb2QtUGVZdlNZQVFURnBpamVIeFo4TkpCUi14Z2U1SklRa1d4UFVOaHFaVFBtNzFkWWNXLWlfWlNnbnVsTUgwMkZSQ0Q5VjVDQQ?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY0VCSlRkUjdkcURaNGRUNDJJTk5tV01TV3hXU1lGNVVoYWRoV1NWY05VbDlvN3dUdEE0NVVLS0xvSG85d0hZVEJZajhucmhMWTVTSVRuTlRwdm5qZFNaaTZ5Zk55MUo0dHdOVF9hX29DLUYzWEV5b2VTV3R1eU5wcjk5akhGODRadnJId09kQWZSTHl4Zms3Yk9YUDl6N1R6UTVyR0hteVlIYTlOdW5BZkw4Q1pqaG9UUENvVEJpMEtNcmdmUkp6Qk9ZdGVublJEdnI5UjNyNkdFbFJFT3R6Qg?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "'Misleading': ECI fact-checks Rahul Gandhi's Form 6 claim, cites SC ruling on Bihar SIR order. Covered by Business Today and ANI News.",
+      "image": "images/misleading-eci-fact-checks-rahul-gandhi-s-form-6-claim-cites.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "amar-ujala",
@@ -395,7 +453,7 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYzV5V3FqNjJScWpLWHVxdTlFd0NtLWpnQjE4Sk9CV1IxVElMQUdXQ1hPTUY0dGV2aWJ4cW1rSXBtSGpBUndvZTJjeVhnZU1WVDN0V3hGS1Q5MF80MWNUWmE0bnpPQTdOU2J4UXFEM0hFTTJNcmg5WlNrMjZfQ1JUUFRIN2FfalZFbEpILTVjMkpBRFZQLXpldk1yTmRtVGFNYkZYSnh0V285TEJJek9XR2daR2JiU2VFdXJUQ0VMeGpzS0d4dFFQQmZLQXhDcGwzbjdXM3lR0gHbAUFVX3lxTFBBYmdmNXZ6S1VNWW5ha05XSndsNHBrRGV1aFhnM1lCUGpfQUtxRG1DYzViY3k1SFgzcHZyZFpOMXNvOHM2czdwWDE1RmJYc3pGV2tKNktlbVRSeDlVVXJBUnlwT0FTaEIyb19KY1d4Umg3Mi1adGY3MkowZVRiMGhVQlhBUzRiMndWblprM3NNNmlsSFhfb3BES2hWejFrSXdZc1pkYlV1bXpGS0h0MEZ4S3FGM1FQVlc0N1VULW9GdGVzSXA5cGQ2OU1kTWVmR1JWU1ZBUDhjUUl0RQ?oc=5"
         },
         {
-          "outlet": "Hindustan",
+          "outlet": "livehindustan.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlJ5XzJnem5FYjlEM1BhZ2V2YVhvNlNFbnBHQ3hHLUc0bHVlQmpoVFdpNUtNQ2UzaGJtUlVkdnY1ay0zOWoxNjZVWFNGRERPMTdENVNMZS1sQmJwNWdLNlExWThGeUlnTzBzQkx4RUdWUkQxalhMMExlZzlUajNCY2paTXJrTklEVUkwUkRJekpmRDR6RjRJOEQ3cE5IZnQ4ZFFMYjVacUNEZ3lXS2dITW16Y1BHWV9aWVV0eGRxQUk4Y0xneFl0X1l2VdIB0AFBVV95cUxOX2Q0YmtOU3duMkI4elFSSG5zeVBVZDZiVUE0ZXVnVHdYc25tNVdRNDh3c1BrNDNDc21rdnpqVXdYQlJueGFWelA4bHNsd25GN1l0QUdwQnJ2c29pMDV3SlF4a2U2YjhLWnVMNzdwYXJZQkVYQmVzc24xSWttdzkwbEo0SXV1a0Y3Um4yWk90RE9XYUp2TmN3bFRNZXU3UTNnWDVTYmNqS3Fmai1pZHg4bG5nTzVkVjJyMEZSV0NDQ0l5SGV4aGVpMEdCSVB3MGdF?oc=5"
         },
@@ -423,12 +481,17 @@
           "outlet": "Amar Ujala",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVzc3LW9CSnZMVENLdkpJTm5hM0NpVV9kU3hnZXo3a0ZQSENKdUN1Z1ZIM1A5Y3o3WndSUUpkdXYxMWFoVGttS29FeVpZdGtFS3duZ05ReHFWdWt2bzU5OUxUd2dfWlJ5M2YzUHNYVHNzU3Nrc2JYcEhvVmdEOEFKQnREd0tqUW91enNSMjg4TmxySkhHeWNMVXl1QjJleDhtanJkdTlGQ3hXbnVyU3J4SXRIU1dwMC10bG4xeVRzNEUxTENXVV9fTEJRZEpHLUV5dGViQWZkYV90Njd3OV9ZaUg5V3dXRFNiWUVyeWJKeFPSAfYBQVVfeXFMUFQxOUFFYXJnU01yUkJ2M2JsaUtfWEg5LUNydlhTZE8wcmhlZmJjcFpiaUk3N0FfN1l6Ynczdm5YWjRnaVdSNjBHNXBPZGoteGVZeEppZnRNZ01UdnFld3kxSWZpNlQzd2NXeGlSTGk2SjRvMmUwTFFPeWY5V1EwSTZ1RS0xalFHbnp4dzlZdzJDNEZOU0llTkZRRkhIeko5QjJDckt2WkJIVjh1TDRQTFlDQWFVNW5iUGxBT2l3R0R5NGpZdmVESnFGTE1XX2RxLXlGby1uME5tQWJsRXBqNUIyeGlxWWJXUW82MERON21TMkhHaUV3?oc=5"
+        },
+        {
+          "outlet": "indiatv.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGRMZ3B5TE9kcTktLUpabXdDTEhoWldXSzI1VV9EMmUtNVlGSlp4eEpMdGxtbWRVZVZEUUxmTnlVR3E5OTBvalFTNDJxYWFYUUlhX1E4cWhEYjJTS0JwMmlZc1VFT1VvOWF0VEw2d01UcHJRMTE4bF9ndEhvRjhYeXljWVdNYkoxVmN6QzlUZk42dndrbVEtSEg3MkRfcE9mN1BZM24zSnRyMGdGRmhLU1hCMzIwZk5rOHZRWTE2UDNFU3pmeHlB0gHMAUFVX3lxTE0ybW9YMDRaeFFvQUo5WUkyR0c1TGd2XzhqSTR6T25kU3ZYZE1DNm52QVVXSGdnbGNVWWtRcXdFajdBTmxoV2ZTMjl3b21MNHdibkVKSkRSQVVkT2hSV1hEMktIVlFWN1VnWUpCa01VOUtoNXRYUmdrS3BEQ0l2YmlfWF81NFE2TFB5dUd2VDZkQlAtb2lPMjdvNGJiSlZSS0k4SnFhdXgzZTIwcmY1U0FrNWIzOGNfOFFjQThsQnhldjlYN0pCVUpXVTQ0YQ?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार दरोगा परीक्षा : अब किस बात को लेकर पटना में हो रहा बड़ा हंगामा? फिर प्रदर्शन, लाठीचार्ज की नौबत कभी भी। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Aaj Tak और Hindustan शामिल हैं।",
+      "brief": "बिहार दरोगा परीक्षा : अब किस बात को लेकर पटना में हो रहा बड़ा हंगामा? फिर प्रदर्शन, लाठीचार्ज की नौबत कभी भी। इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें Aaj Tak और livehindustan.com शामिल हैं।",
       "image": "images/amar-ujala.jpg",
       "image_kind": "photo"
     },
@@ -538,7 +601,7 @@
       ],
       "sources": [
         {
-          "outlet": "ndtv.com",
+          "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeExCRVViWGwyc1owOTRRd2Z6eWxvZWtMWkpnbXhacF9FeFpOTXJrQUR4bEtSZjlJak11azNSYXZmQ3c4S2VMdTcyaTBTY2MzSUFXUTJHbkM2bklTSC1zdnN2T2RFajFCLU12emI0TkJ2SmNFNUh1dFR6SnBrVmdVWWZGVlVTU3BNV1duSGs0cmpmQlN3MVRlQ1RoLWp5OFhEWlRaZ05RNWRvbDdtTzFDT0JzaTc0RGJVM1HSAcIBQVVfeXFMTVIyMnktY3NNNEJwWVFJbUZjQTl4MDdvT0ZCNVMyb3RiNXR2ZnNxM0RUemh1dkxRMHJnd01JZWRnUEhEaFZyT0xIdFRrUkRiSmk4ekNxeU0tUVNkNDNpdk1KdndldlRLazd4RnFmVDI0bXFrODRfeG0tMDMzRVBuNVpuVUlXNW5aZlBiRTV5dlZaTmxaTktuRS1jMEtmZ0FELWJaQkVwd2dfVEZNVkxGd2RneWtsWm92ejJodFRhOEFKbWc?oc=5"
         },
@@ -558,7 +621,7 @@
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb09PSml6R1pYY2ZVc1Z1RDZCVnlMeDducFM4SjZYLWJpcS1nYUZLeXZPby1HaUpnX3lMajdJZEpyRDJfMzkwRk5nR2Y3NWhDd0FDckhDY1d2ektNbzhXeUxTMmk5aTlaX3JTWVlkZFM3VHkzWnZqLXJ1R2V4YTJhcHhEVWx0ZHY1N3g2cG5ZNzQwYkdTQVJNRnUtcXdleUlpZVZMTldNZG85UEp1LXloX0lOS1ZBWk9BWmJxWWhDYWl1aFpzYXNUYkpJNm90RXMtOU1RMEZEREJTdmgycjByY1JXd3fSAeoBQVVfeXFMT1dIUFBJbUt1TmwwaklnN3ZOU0hHem16ellHNTZyN1dwZ3BvOXZFZTY5cmFqRjRMSTREUjBSU1FkYWFpQkhUc2YycVpvZ0doRnRiRUFTOHYwR3BZSVdjWHhfbmRwQ2hVbzJmRWM3aHU2eWxYX1EzYW02U190YkFWTHJFdDFScFV2MUp6d2pJZnBqUWVlSTN6LURGczA0RHJTZV9VdGV3T0RvTWFqaDR6Q2x5SE9FUzRnODEzdlczZXJaSE1ZQnAtRTRLcEJmc1lDZjZSOVBNa015MFN0WnJJSmlsczkteW9XdGNR?oc=5"
         },
         {
-          "outlet": "thenewsmill.com",
+          "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNanI2ZVI4R3hoY0laWDJUalRBWTdUUE9sQUlPRlk2Nk1TQkdUak0zc3JaRDYxTVZtVlBKXzVqMTlOU0lXOU1LRTNzMjdGRjdZN3ZEaDBORnlQdklXbE45NVRQeFhGdXpOR2pOWDFrWVgxM0p5QkN2ZlVaQlhLVUNTelowakNQMzM2Y1FlYjNCUFBDRGJIUWVjcGp4dHg4bTJ5VkxXcTFXbw?oc=5"
         }
@@ -566,7 +629,7 @@
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Yami Gautam Dhar seeks blessings at Patna Sahib Gurudwara ahead of Nayyi Navelli release. Covered by 5 outlets, including ndtv.com and Inshorts.",
+      "brief": "Yami Gautam Dhar seeks blessings at Patna Sahib Gurudwara ahead of Nayyi Navelli release. Covered by 5 outlets, including NDTV and Inshorts.",
       "image": "images/yami-gautam-dhar-seeks-blessings-at-patna-sahib-gurudwara-ah.jpg",
       "image_kind": "photo"
     },
@@ -588,22 +651,12 @@
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdk44NzEyQnR0cXF2N0w5ajgzSkk3ay03YW5ZOUN2SlZzQ0d2bzlsT253Ny1DZlA2aDdyUmhGTy1wcVNIcWVDb2tCeGNuMWxteG9IQ0o3ejNwM01zQVBrVVVGN3BUVTdLS1diV29yNUxUSFVBaW5QamFISDBRVjItS2NLekdNT2V0UG5MV2lOclA5ZE85b3BXOExNa09mMjdBS2VVT0dkT19yVjRlcDZfRVRYTDdsZ3Y5WEF6WlNyR1FWQm5vdk9EUlVVVk1IRXVQTU1jRzl4SdIB3AFBVV95cUxNQVZjVDRFTzVSY3R3a2syTUpTVHlCelZmdzNkam1ESm9tcjJ1MFZKUzNfOGxPdGxteFF0ZXd1eDVoZXl2TUItcXNZcThQODQ0dVRLZnhnR2MxNVdDNDRfS2gxSnFPY3pDaW5NQUEtYVVXUC10ZFFqenE1ejg4VHEwcTlQczMtQmVIRGxLUDFSU3Z6YVYyQmtKWEFVLU9TeEwxN1NVU1RuTmdoZ0l6Tkk4N0pzdzgtTzNmeEoxVWNqdE56SnVqTTJjUXNZZ1NPSHRkNGpzYjlFRXRWMjk5?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTVkQ04xZV96TU80dFlweDlWYkJCM08xX0Vsd3ppd2tvd0w1a0FTMTl0dERzZ18zSkg0cks2ZHAwSXNzbWtHYjhXUUxrN0JleEpraDV2SG9KdlJNYkxpZktjOHZSeENvOXo3dE1aeWZrbnhPaFRuSDlJX3JCaFBzOUt1bFRWX040VjlMNi1YNmdzUmZXTFdDNFVTNGh6bzlxZjNyMEFGX0VyUmFVcUxfNXY3dUNXS09KclVwOFg1MVQ5eV9OUWZKajE4M09tQTN2eE0wRGRB0gHcAUFVX3lxTFBxRUpWV1BRdUJ3VzROd3ZaU0h3OHJINnFwSkNvU0laZXhOdkVrNjVMZTc1R2RyTlBNM1dkTVVoQW9tWUdWUWtlc0s2clNIX3Nwc3dtXzF6elpTaXN1NVkyenp4alZNbFlMQm9zTDA4c1c2Mjg3VnNZeVdjVHdiTEdOVHF0YW9jNXRwbGNFRV9veFhjc3hlcGNFWE9Cc3o5dmN5VVoyX1EzeHBfRmdRQ3R3bHd1T3B5OXQ3WGRyQ3J3UktyaDJfMXQxRVpPWGdXVnU0ZFJGbHNMVThHZTQ?oc=5"
-        },
-        {
-          "outlet": "theprint.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDFEc0ctZEhEbDVJdGJublZ2bFQ2SmFJbzJidkZnNzJWTElEdXZQc0s5RlBEZGoxV3cweHRSZHhRNDBiRkpEcXhYa1NlRUhBLXVHVWZXeWp2TXA0NFRNal9tLWtoQ0QwU3pyNmFMalYzdDVrckx5ZU9zTlg5dHo3X0FlVk9MQl9ZUWtSM1FDLVg1TGNmOC1BdFJtUnNUb2Z00gGmAUFVX3lxTFBldlotN1RqU0UzVHBOQ1FhZTJmZEJsdEZOWTUteW1WS2s1allLMGZvaVpITlJFVmxTRzNoLVJ4cTNFR0doNUphNVltMUprMGU5ZnVLSmZYdVBQS1FOUUMwbndHZzNtckRzSE1HOWpWRlROYXBkTFpFc25rVkowdG9LZTdpeUJsRUI0djZhcTVyYm5nWGpEdzgzSDVKVkFxcmtpNWY5b2c?oc=5"
         }
       ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "2 pregnant women die at Bihar's Jamui hospital, families allege doctor's absence. A health-related story. Covered by 4 outlets, including timesofindia.indiatimes.com and India Today.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "2 pregnant women die at Bihar's Jamui hospital, families allege doctor's absence. A health-related story. Covered by timesofindia.indiatimes.com and India Today.",
       "image": "images/2-pregnant-women-die-at-bihar-s-jamui-hospital-families-alle.jpg",
       "image_kind": "photo"
     },
@@ -627,7 +680,7 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzlqRG50U2dEQ3RwdTNiWWg4LTQycGJZUzlLcjdodjBjcGtuVjFNaVA5MEFYRE5KZTY0REVnTndNNGpqRGF1Ykh2ZXRmeHA0bWgzWlZqN090Szl6a3RkaG1PVlcta0tVMGczclRuMjBkV3FMSEw3TzgtNmVNY1c2N2t6WXhNOUFkYnFyRDA4U3dtVDVxT2FVLWxfdHBhUnFqc1hobndIc0FpRjAyaEhFbHRUNjQ4NTEwNE1iemF1bjZwVTcwZjNr0gHMAUFVX3lxTE9hTDZDTkFUYnU2aWNRV3VoVzRWWUdYU1VWQ3RLUlB1RnlfYzA3Q08tSHFOZGo3VUxUUnlhOWhkWEJoUG1lb1gyRmxHSWkzeFc1NTFlWkNWZGhpT0tGS2VCd01OYzA2QWZXLUFsdzR1M29EbE95b3ktdm03aVFPR19MdDZPQVI1NzNUWUhCRmttQ293cjlLeklwNzNNWm4tLVc1N0QzbDM5Y2xVZkkxYlRXelR0cHdZZi1OUjROaG9WUVVOT0RZMURfS1Rkbw?oc=5"
         },
         {
-          "outlet": "ndtv.com",
+          "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTlXdVVudmRBYkhOdEZJZThEVl9aV2xnWkdCSlVHTTl3M1Bpa3FTS3JEejJINlVZeUtrWXZNMEJVaWx6Nmt4Y2Vqb3FjS2lET3VrRjBESS1vV2UtVU1OV0ZaWGUwSlRwNXU5UHBERFZPQU5PVkZCbGMxMnpiRUU1a1lYSlhsLUlDOFBUWTFvSGxGTDdHMEdRMXo4Z1VlMTdoclRnbldnM0RWUHdUVE1rN094WVLSAbwBQVVfeXFMTkRoMHNMYlBDZ2NJeUNvRlVCbWlEakxfdGt5Rmo3VXZHcl9URndzdEVmdXptU0dSQjA3Y01DbDZ3dGtCXzFSd0dPeThDUGV4eTRudmZUSGs0T3UyT05Jc091VF83aGdyT1kybGI5U3ZPZVBMdTlGdkFkMjF0MTJOS2s0RWlGUlFzOHBrV21XWVhtb1FtaEdXQklHdnpOOVhLeFpiajJjamNIQ1lFMkx1cTZ5UkdjS0o4VlJxYzQ?oc=5"
         },
@@ -640,7 +693,7 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Man dies after relief packet dropped from helicopter falls on his head in Bihar’s Saran. A civic-infrastructure story. Covered by 3 outlets, including timesofindia.indiatimes.com and ndtv.com.",
+      "brief": "Man dies after relief packet dropped from helicopter falls on his head in Bihar’s Saran. A civic-infrastructure story. Covered by 3 outlets, including timesofindia.indiatimes.com and NDTV.",
       "image": "images/man-dies-after-relief-packet-dropped-from-helicopter-falls-o.jpg",
       "image_kind": "photo"
     },
@@ -731,33 +784,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "on-camera-patna-woman-cop-slaps-man-misbehaving-with-her-he-",
-      "headline": "On Camera, Patna Woman Cop Slaps Man Misbehaving With Her, He Hits Her Back - ndtv.com",
-      "summary": "",
-      "date": "2026-10-02",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ndtv.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWN6SUZzS2hxM2FLelVSRmNVSDJqQ2hwUUpyVjFpNmRTWENfeDE1Y2hyRThLNmR2OFYwUDZMQ05nSThLMElySERCNm9xT1VtTlB3cTN3aV9xdWo2WGczbC15cVBVX3B5MGN4NENsQWNBelVaNzFLc3g0U253Q0NNMGRjd29tZk5jak5rQW51czlKUmd3SXJveXVRMC1ac0xGNmk3RmdfTk5GeXBlQS11RDdMZC3SAbwBQVVfeXFMTklRMnJHRTRBbk83WEtWQlNqOHFvNzFVSmtYVkI2bUtQc1pZS2l1Si1feTJGSmJ1MXFiVEw1ZjgzSVZkU2o2ZG5SLVhVS1dXRjNXRU1aN2tzVzRFOEF5dGEyaXpsMHdPaDVtS0RoSFJLRXkyUzJ4aEE4QXM3djZONXFFenhUWVpjSU1ZajhxeTJBa3NkWnNxTVRQLUhkTE1vMGF2V255RGo5MFdnRDBPUjU3WGxLMzc4YUVodTM?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEhiY0VqTk1QcFh0RzlBUG40VnV2LTMxQmdmUjBKUTZEbndqUVR6UmdMR1ZXdGxCR3hoX0c2cG94SWgyck95REFkMEZfM1I2TzIxRGtERVczUDVIUGNGUHV0WlhfUFRoX0VpYTRYOUlpX0I4TkdTMXQ0OFRnMmhmZmx5RzFZVEhGZ0FUZXBtdmRDTS11clFkM1VrYi1zaU5WOFptcEdvVDVUUXdwYmFZYmdnX0NfaGlIT1cxc0RUUElfbG_SAcgBQVVfeXFMUGctcXN4akVxNXY4dnMwOWxOME8ySGZ3OFc4ZWVfcjBZQ00tSnpyMlZJZ29pM1ZhUGhZNkJlSUF1NGdjUjNucHJCZVQ2WWJsQjQ5VmlXcEJjQzI2OTlLaWtnNkJSY1R1NFkxQklfNElSa0hTTlV3U1FoaWZzMHVoSFZabjloYkNPTVh5dHBhcExFMTFBLWN5Xy1VVFlvcUduZUJCWTFocW45YURmZ2wtSHYzWU15Z3dKR3NtQVZocGdFMWFGUkhuRUw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "On Camera, Patna Woman Cop Slaps Man Misbehaving With Her, He Hits Her Back - ndtv.com. Covered by ndtv.com and India Today.",
-      "image": "images/on-camera-patna-woman-cop-slaps-man-misbehaving-with-her-he-.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "tigress-brought-from-bihar-for-reintroduction-in-west-bengal",
       "headline": "Tigress brought from Bihar for reintroduction in West Bengal’s Buxa Tiger Reserve - Down To Earth",
       "summary": "",
@@ -772,7 +798,7 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSkNCVDJqZV9zTVdZU202Rjd2bGU2WVpqYTFEZ2Q4aGNmQ0lsRVFETkQ5bTBfTVg0RWlzVW1ZTEtsakZSZUVJSEdpZjhRb3RLeVROTFlxdUx2YVlIVDhtLUEwOWVzQ1Q3RHk2NjExemVMekQ1RjFLOTVZRnRVZmdGaG5OWElINmppcU5PMk1saThqMllELUMzeXhVZGlucG1ndGJldzRPN1NaY0Fva1R0d2hfNm52YkttZEdJeWh4U2xHcXlINldIUnNHV3UxZ9IB2wFBVV95cUxQT1RXNVdGQXluM2tUR0NJV2JqZHQzZzFiOWlKb2FqSDM2eXZHVThUckp0b0phUW54QWVuRmFRLWoyMGM3M095NUJRRF94T2pYTkpXRlZVdWo1MHhPYVlHaFZyZmZfN1pWTGQ2QkRmNWVlbVJHMFBRZHRtVDItOUFIV2U3SnhOdjN4aG5QZXpqdlEtQmctc2k0b002b3pwYXMteTkzNFAyUmJ4eTdKaFNjamM0OGEzZTdWUFhEbWRZWjFOV2pKX1N0MDVhN3FmdlFsWUEzOVdvblFLMTQ?oc=5"
         },
         {
-          "outlet": "ndtv.com",
+          "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclNiRlYxYlZFTHFXV09JVERsTHZMX2l5UVFJSDBDcnpVWjRkT2RqMnd3UXdXTUZrdW5wNENSYWx1YVdrMHdzc283RTFVSW51N2JLRzJzZ0V1X0tVZnN1NkhLamRjb0VFZVFwU0JBVUphVjR6V0Izemkxc2JQOUUzVXBPX2dwTFRCVmJzX05JY090a2JfMW80ekJ0U1pFaGpZVkpyTURWbDMwcC1nOXI4?oc=5"
         }
@@ -780,35 +806,8 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Tigress brought from Bihar for reintroduction in West Bengal’s Buxa Tiger Reserve. Covered by Down To Earth and ndtv.com.",
+      "brief": "Tigress brought from Bihar for reintroduction in West Bengal’s Buxa Tiger Reserve. Covered by Down To Earth and NDTV.",
       "image": "images/tigress-brought-from-bihar-for-reintroduction-in-west-bengal.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "congress-names-five-candidates-for-bihar-mlc-polls-ally-rjd-",
-      "headline": "Congress names five candidates for Bihar MLC polls; ally RJD in fray in three of them - Deccan Herald",
-      "summary": "",
-      "date": "2026-10-02",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXJod3BFaElxaVVzNlRNTVFXUjNweTl6NmZqR0w3amlrX05Tcm9ycWpUQmVVd2dMbzNqZkQzMmdlaWRTMmZxblJ6clB2amFuNjRHbVlrOVQxNWJSX0tOWTJ5S1p6Wk1paXdKWVgyU0pHYU1Mc29jNmlwVVAwRVIzcXFyUWk1T2VwMWtUQTh2RWhoUm85Zm44alhvajNKWGVpSFZkU1V4Q1p1bk1sSmktanM4LXNBdndIanBNMWRxbllSOXNGeDBsQi1NTWcwX19LR2dVc2RUNmRnQUpEV0YxYjBXNNIB6gFBVV95cUxNYVNSQUNMaWplYnBfU0tTOWdtZ01fRHFkZ1JFMHNlbEJobHp6T2doaF8wdXVNNTRtaTdrUmxlRFNtM0hWY2dVQXl4dG9OUjY2M3A3b0h4bVFnV3RQQWkyVXhreFJKYlU2VFFkNkhYU0poeDE4WTZfdXN2Tm5VNm5wNzJsd0tCZXhCeS0wVDlZS2pJSm9ySU1KYVA1RFBHZktXaXZzdzdvTHMtdEVPNV9HS0VzVWU3RDctWV9RSm9aUWZ2QnUzTjJzQnA4V3JaZFc5RmMwa2h0c2JjLXhpMjdEdE51X2pJbDcyaHc?oc=5"
-        },
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVkFLNXYyajJvbUpUNHVmd1BnUUFmZUZmWFJ0SWtpUk1kM1ZLeXExX05GV2R2UWhBTE94b0xsR3N0LUtzZkozaUZfVkRsaGVlaGtNUTFkTzJqQUFCdFRkQUpqTjZXS0R1MjZXN0pESDE5T0J2RlhuUTg0eFdDMTItZHVMc1czVkptMHg3eUQ0T0Rpczg1OHZIdGlDQmNOakItYjdVN1pHWTlTcXBwbi1LQ0hmRE0yeXNwSS1GRGlpYWFNVW1aYUVabXVJQmw0QQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Congress names five candidates for Bihar MLC polls; ally RJD in fray in three of them. A politics-related story. Covered by The Hindu and Deccan Herald.",
-      "image": "images/congress-names-five-candidates-for-bihar-mlc-polls-ally-rjd-.jpg",
       "image_kind": "photo"
     },
     {
