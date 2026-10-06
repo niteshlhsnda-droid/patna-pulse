@@ -6,7 +6,48 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Patna Pulse — Patna &amp; Bihar News, Newest First</title>
 <meta name="description" content="Patna & Bihar news, newest first — with short briefs and cross-source corroboration labels.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Patna Pulse">
+<meta property="og:title" content="Patna Pulse — Patna &amp; Bihar News, Newest First">
+<meta property="og:description" content="Patna &amp; Bihar news, newest first — with short briefs and cross-source corroboration labels.">
+<meta property="og:url" content="https://niteshlhsnda-droid.github.io/patna-pulse/">
+<meta property="og:image" content="https://niteshlhsnda-droid.github.io/patna-pulse/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Patna Pulse — Patna &amp; Bihar News, Newest First">
+<meta name="twitter:description" content="Patna &amp; Bihar news, newest first — with short briefs and cross-source corroboration labels.">
+<meta name="twitter:image" content="https://niteshlhsnda-droid.github.io/patna-pulse/og-image.png">
+<meta name="theme-color" content="#0a0e3a">
 <link rel="stylesheet" href="styles.css">
+<script>
+(function(){
+  var POSTHOG_KEY="__POSTHOG_KEY__";
+  var POSTHOG_HOST="__POSTHOG_HOST__";
+  if(!POSTHOG_HOST||POSTHOG_HOST.indexOf("__POSTHOG_HOST__")===0){POSTHOG_HOST="https://us.i.posthog.com";}
+  function loadPH(){
+    if(window.posthog||!POSTHOG_KEY||POSTHOG_KEY.indexOf("__POSTHOG_KEY__")===0)return;
+    var s=document.createElement("script");s.async=true;
+    s.src=POSTHOG_HOST.replace(/\/$/,"")+"/static/array.js";
+    s.onload=function(){try{posthog.init(POSTHOG_KEY,{api_host:POSTHOG_HOST,capture_pageview:true,autocapture:true});}catch(e){}};
+    document.head.appendChild(s);
+  }
+  try{if(localStorage.getItem("cc-consent")==="accepted"){loadPH();}}catch(e){}
+  window.__loadPostHog=loadPH;
+})();
+</script>
+<style>
+/* Onboarding section + cookie consent banner */
+.onboard{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:14px 18px;margin:18px 0 0}
+.onboard h2{margin:0 0 8px;font-size:1rem;font-weight:800;letter-spacing:-0.01em}
+.onboard ol{margin:0;padding-left:22px;font-size:.9rem;color:var(--ink-soft)}
+.onboard li{margin:4px 0}
+.onboard li strong{color:var(--ink)}
+#cc-banner{position:fixed;left:16px;right:16px;bottom:16px;max-width:560px;margin:0 auto;z-index:1000;background:#0a0e3a;color:#e8ecf7;border-radius:14px;padding:14px 16px;box-shadow:0 8px 30px rgba(0,0,0,.35);font-family:inherit;font-size:.88rem;line-height:1.45}
+#cc-banner[hidden]{display:none}
+#cc-banner p{margin:0 0 10px}
+#cc-btns{display:flex;gap:10px}
+#cc-accept{background:#ff7a1a;color:#0a0e3a;border:none;border-radius:999px;padding:8px 18px;font-weight:700;cursor:pointer;font:inherit}
+#cc-decline{background:transparent;color:#c9d2e8;border:1px solid #3a4470;border-radius:999px;padding:8px 18px;cursor:pointer;font:inherit}
+</style>
 </head>
 <body>
 
@@ -36,6 +77,16 @@
       Always open the source links and judge for yourself.</p>
   </section>
 
+  <section class="onboard" aria-label="New here? Start here">
+    <h2>New here? Start here 👋</h2>
+    <ol>
+      <li><strong>Read today's top stories</strong> — newest first, every story in brief.</li>
+      <li><strong>Check the genuineness badge</strong> on each story — <span class="badge b-verified">Verified</span>, <span class="badge b-corroborated">Corroborated</span>, or <span class="badge b-single">Single source</span>.</li>
+      <li><strong>Filter by topic or search</strong> to jump straight to what matters to you.</li>
+      <li><strong>Follow <a href="https://www.instagram.com/patna_pulse.post/">@patna_pulse.post</a> on Instagram</strong> for the video reels.</li>
+    </ol>
+  </section>
+
   <section class="controls" aria-label="Filters">
     <input id="search" type="search" placeholder="Search headlines or briefs…" aria-label="Search stories">
     <div class="chip-row" id="topic-chips" role="group" aria-label="Filter by topic"></div>
@@ -59,5 +110,24 @@
 
 <div id="modal-root"></div>
 <script src="app.js"></script>
+<div id="cc-banner" hidden role="dialog" aria-label="Cookie consent">
+  <p>We use optional analytics cookies (PostHog) to understand visits and improve the site. No ads, no cross-site tracking.</p>
+  <div id="cc-btns"><button id="cc-accept">Accept</button><button id="cc-decline">Decline</button></div>
+</div>
+<script>
+(function(){
+  var b=document.getElementById("cc-banner");
+  function hide(){b.hidden=true;}
+  document.getElementById("cc-accept").addEventListener("click",function(){
+    try{localStorage.setItem("cc-consent","accepted");}catch(e){}
+    hide();try{if(window.__loadPostHog)window.__loadPostHog();}catch(e){}
+  });
+  document.getElementById("cc-decline").addEventListener("click",function(){
+    try{localStorage.setItem("cc-consent","declined");}catch(e){}
+    hide();
+  });
+  try{if(!localStorage.getItem("cc-consent")){b.hidden=false;}}catch(e){b.hidden=false;}
+})();
+</script>
 </body>
 </html>
