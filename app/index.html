@@ -18,11 +18,11 @@
 <meta name="theme-color" content="#0a0e3a">
 <script>
 (function(){
-  var POSTHOG_KEY="__POSTHOG_KEY__";
-  var POSTHOG_HOST="__POSTHOG_HOST__";
-  if(!POSTHOG_HOST||POSTHOG_HOST.indexOf("__POSTHOG_HOST__")===0){POSTHOG_HOST="https://us.i.posthog.com";}
+  var POSTHOG_KEY="phc_y8aXUtfCQhZfTPeYq5VebFcGGztU5AedbYLgM4pdqagD";
+  var POSTHOG_HOST="https://eu.i.posthog.com";
+  if(!POSTHOG_HOST||POSTHOG_HOST.indexOf("https://eu.i.posthog.com")===0){POSTHOG_HOST="https://eu.i.posthog.com";}
   function loadPH(){
-    if(window.posthog||!POSTHOG_KEY||POSTHOG_KEY.indexOf("__POSTHOG_KEY__")===0)return;
+    if(window.posthog||!POSTHOG_KEY||POSTHOG_KEY.indexOf("phc_y8aXUtfCQhZfTPeYq5VebFcGGztU5AedbYLgM4pdqagD")===0)return;
     var s=document.createElement("script");s.async=true;
     s.src=POSTHOG_HOST.replace(/\/$/,"")+"/static/array.js";
     s.onload=function(){try{posthog.init(POSTHOG_KEY,{api_host:POSTHOG_HOST,capture_pageview:true,autocapture:true});}catch(e){}};
