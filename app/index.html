@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Patna Pulse app — coming soon</title>
+<meta name="description" content="The Patna Pulse app is coming soon: breaking-news push alerts, saved stories and an offline morning digest.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Patna Pulse">
+<meta property="og:title" content="Patna Pulse app — coming soon">
+<meta property="og:description" content="Breaking-news push alerts, saved stories and an offline morning digest. Launch announced on @patna_pulse.post and right here.">
+<meta property="og:url" content="https://niteshlhsnda-droid.github.io/patna-pulse/app/">
+<meta property="og:image" content="https://niteshlhsnda-droid.github.io/patna-pulse/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Patna Pulse app — coming soon">
+<meta name="twitter:description" content="Breaking-news push alerts, saved stories and an offline morning digest. Launch announced on @patna_pulse.post and right here.">
+<meta name="twitter:image" content="https://niteshlhsnda-droid.github.io/patna-pulse/og-image.png">
+<meta name="theme-color" content="#0a0e3a">
+<script>
+(function(){
+  var POSTHOG_KEY="__POSTHOG_KEY__";
+  var POSTHOG_HOST="__POSTHOG_HOST__";
+  if(!POSTHOG_HOST||POSTHOG_HOST.indexOf("__POSTHOG_HOST__")===0){POSTHOG_HOST="https://us.i.posthog.com";}
+  function loadPH(){
+    if(window.posthog||!POSTHOG_KEY||POSTHOG_KEY.indexOf("__POSTHOG_KEY__")===0)return;
+    var s=document.createElement("script");s.async=true;
+    s.src=POSTHOG_HOST.replace(/\/$/,"")+"/static/array.js";
+    s.onload=function(){try{posthog.init(POSTHOG_KEY,{api_host:POSTHOG_HOST,capture_pageview:true,autocapture:true});}catch(e){}};
+    document.head.appendChild(s);
+  }
+  try{if(localStorage.getItem("cc-consent")==="accepted"){loadPH();}}catch(e){}
+  window.__loadPostHog=loadPH;
+})();
+</script>
+<style>
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:#0a0e3a;color:#eef1fa;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Arial,sans-serif;line-height:1.6}
+.wrap{max-width:680px;margin:0 auto;padding:56px 22px 90px}
+.brand{display:flex;align-items:center;gap:12px;margin-bottom:28px}
+.brand-mark{font-size:2rem}
+.brand h1{margin:0;font-size:1.4rem;font-weight:800;letter-spacing:-.02em}
+.brand h1 span{color:#ff7a1a}
+.card{background:#121843;border:1px solid #232b5c;border-radius:18px;padding:32px 28px}
+.kicker{display:inline-block;background:#ff7a1a;color:#0a0e3a;font-weight:800;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;border-radius:999px;padding:4px 14px;margin-bottom:14px}
+h2{margin:0 0 10px;font-size:2rem;letter-spacing:-.02em}
+.lede{color:#aeb8d8;margin:0 0 22px}
+.feat{list-style:none;margin:0 0 22px;padding:0;display:grid;gap:12px}
+.feat li{background:#0a0e3a;border:1px solid #232b5c;border-radius:12px;padding:12px 16px}
+.feat li strong{color:#ff7a1a}
+.notify{background:#0a0e3a;border:1px dashed #3a4470;border-radius:12px;padding:12px 16px;color:#c9d2e8;font-size:.92rem;margin:0}
+.notify a{color:#ff7a1a}
+.back{display:inline-block;margin-top:26px;color:#aeb8d8;font-size:.9rem}
+.back:hover{color:#ff7a1a}
+#cc-banner{position:fixed;left:16px;right:16px;bottom:16px;max-width:560px;margin:0 auto;z-index:1000;background:#0a0e3a;color:#e8ecf7;border:1px solid #232b5c;border-radius:14px;padding:14px 16px;box-shadow:0 8px 30px rgba(0,0,0,.45);font-size:.88rem;line-height:1.45}
+#cc-banner[hidden]{display:none}
+#cc-banner p{margin:0 0 10px}
+#cc-btns{display:flex;gap:10px}
+#cc-accept{background:#ff7a1a;color:#0a0e3a;border:none;border-radius:999px;padding:8px 18px;font-weight:700;cursor:pointer;font:inherit}
+#cc-decline{background:transparent;color:#c9d2e8;border:1px solid #3a4470;border-radius:999px;padding:8px 18px;cursor:pointer;font:inherit}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="brand">
+    <span class="brand-mark" aria-hidden="true">📡</span>
+    <h1>Patna <span>Pulse</span></h1>
+  </div>
+  <div class="card">
+    <span class="kicker">📱 App</span>
+    <h2>Coming soon</h2>
+    <p class="lede">We're building a Patna Pulse app so the news comes to you — not the other way round. Here's what's planned:</p>
+    <ul class="feat">
+      <li><strong>🔔 Breaking-news push alerts</strong> — the big Patna &amp; Bihar stories, the moment they're verified.</li>
+      <li><strong>🔖 Saved stories</strong> — bookmark briefs and read them later, on any device.</li>
+      <li><strong>🌅 Offline morning digest</strong> — yesterday's top stories packed for your commute, no network needed.</li>
+    </ul>
+    <p class="notify">We'll announce the launch on <a href="https://www.instagram.com/patna_pulse.post/">@patna_pulse.post</a> (Instagram) and right here.</p>
+  </div>
+  <a class="back" href="../">← Back to Patna Pulse</a>
+</div>
+<div id="cc-banner" hidden role="dialog" aria-label="Cookie consent">
+  <p>We use optional analytics cookies (PostHog) to understand visits and improve the site. No ads, no cross-site tracking.</p>
+  <div id="cc-btns"><button id="cc-accept">Accept</button><button id="cc-decline">Decline</button></div>
+</div>
+<script>
+(function(){
+  var b=document.getElementById("cc-banner");
+  function hide(){b.hidden=true;}
+  document.getElementById("cc-accept").addEventListener("click",function(){
+    try{localStorage.setItem("cc-consent","accepted");}catch(e){}
+    hide();try{if(window.__loadPostHog)window.__loadPostHog();}catch(e){}
+  });
+  document.getElementById("cc-decline").addEventListener("click",function(){
+    try{localStorage.setItem("cc-consent","declined");}catch(e){}
+    hide();
+  });
+  try{if(!localStorage.getItem("cc-consent")){b.hidden=false;}}catch(e){b.hidden=false;}
+})();
+</script>
+</body>
+</html>
