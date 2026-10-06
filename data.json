@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-10-06 11:35 UTC",
-  "generated_at_ist": "06 Oct 2026, 05:05 PM IST",
-  "story_count": 58,
+  "generated_at": "2026-10-06 12:54 UTC",
+  "generated_at_ist": "06 Oct 2026, 06:24 PM IST",
+  "story_count": 39,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "patna-water-metro-plan-extends-2-more-cruise-terminals-plann",
+      "headline": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat - Metro Rail News",
+      "summary": "",
+      "date": "2026-10-06",
+      "topics": [
+        "civic",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "Swarajya",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlc0SWJyYks1ZG5jWkRvY1MzRHN6REZqazczWXRBaTFzVy02Q3A1bmY0LUtKY2ZVQ2dWWFpPTGhCTG9aWDV6MmxCR2tONHhCS21iYnVpNjZFTjNYRmtQN1pmYXllQThIQVhYOVNWVkRldGd4UDhPOUVqQjlkcnNWTE1OMVl3XzdVTzdJeVRlQ0pISXN2UjVMTUdDd2lhT1R0dmVCQnpTeWJLTG0yazJSRThydkEzQVlYbWdXOXFzXzBvaEVrTVNjSHF30gHaAUFVX3lxTFBpdEpEUTBiOVRZOUlSZEJfNmoyWlVxOUxuZkJiSEpIdVhjUGVmdjlOSjNicTR1bmVDUXlWQVdkd0I3N3h2MTR4aGRyRU9mZndDaXJFVk5KLW9Uc1c1ejhHUjNjVGNTb3VHVU9vQ2l0bTZ6Z1JrUlRiUzdoOFBZWHAxU0ZzRlRPMjYwcDFHYVlXNTV2QkxUajM5Qk9ZZF84Uy1HYUtsX2dabHJjYTdzSmhBN19tcVoyMEVRVWhTSnNpZ1UtZlgwN3lfLXc4Q3ZhOW05d0d5djZiWWRB?oc=5"
+        },
+        {
+          "outlet": "Metro Rail News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nYWY3bmNsSVlOS0I1VFoxX0QwMnB1TG82T3UzbzRaRDJLNk1rTjgwZHdSZXBweVBYOHV2UFlSOFRzczcxVlgtdlRJQlF4X013czhVdzF2M21EWEhRcnVpQ2FMNkZBY3lxSlBKTERUUnNtRmp3WFlyZ05IZWxlOU0?oc=5"
+        },
+        {
+          "outlet": "timesofindia.indiatimes.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnVOT0J2REhzVzN5OHhKa3hCVUVTQlg4SUpjbTRCQUlnd0Q5YlM4RjZsc1N6WmhJeDZJTHNnOTl1WG53RVpIdHlXN3dGWnRLd0prUEx3NllhdWhTLVhtMTJfZllIeWl3aW1GYm45b09abEg4c3doNHhPY2plLXRiZXZnYm16SF9yc19iZlBudUJxYjdrQ05Wc0FtMUQ1T1FpZUVyYk1aWDd6Zy1ZRGUwUUpMbEVKWjlEMlB0eUdua2NQbkw2eC1KRzRlbXZSa2tDY3RYN3FR0gHbAUFVX3lxTE5zRlRoRVRDOTI2NTJCMmxVSTItSFpIaUNrSkN4WjNFU1VLV0Vxd29wekxmZ3pKc1BtSzV3TVRXN0R2WFRZN2wtcjkyMzVuMmNBay02V0dDWFgwbzNxRU01czZpQ0FsbThCWXNMLUx2MUNacW1KT08yRUsycFRscWF3WHUzQ3poS29CenYxR2lUdEFEMk8xWDlkUmlmY0JCZHlNbnNxMGhyRi0xcnd2Y1dQbkpMUTU0alpoWnNqLWxkek5TdVN1SG02TUY0bGhaQXZIQ0ZmY2dzOElPNA?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat. A civic-infrastructure story. Covered by 3 outlets, including Swarajya and Metro Rail News.",
+      "image": "images/patna-water-metro-plan-extends-2-more-cruise-terminals-plann.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "nitish-meets-lalan-singh-amid-jd-u-dispute-over-patna-gradua",
       "headline": "Nitish meets Lalan Singh amid JD(U) dispute over Patna Graduates’ MLC seat; Neeraj Kumar to file nomination today - Cityairnews",
@@ -19,7 +52,7 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2lEZzdLVWh4eVVYMmFLUGZuSmFTQXlCWGV3NWhLc2U3N1B0cGwwa2VxTW5WbmdxUExvR0pUWm1PUlhhbElteGFNZG1SZ1pIbWMxTEUtRWRNcVFhZ1RmRkxIYjRLWk1TQmJRUmdDM1F5M19ERTJzYWFnb3FYdGk2aVdjakpDUDJHajlBMXhESXNiOExDMWstSjVJMW9fdHdQdHQ3NXY0MWVVRWIwM09JTHBETmtJMEE?oc=5"
         },
         {
-          "outlet": "The News Mill",
+          "outlet": "thenewsmill.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFhhRU11eFJDSWJlSEg4M2o0Y3lFN3hzWjh2QzR1N2EyWk5Ua2NJemJjdGVUT2o0dWJMcnB2OUNwcVBxWWlxa1gyaGZGZ0xfdURBU08zbGtaOVNLV2ppUFRTSGRWRUVYaDhpUlVVaXBxTzNWVVF6OWlyR0wzaVRtTzVJY3NKc3VvY3EwVEo1Z0FCOUE4Uk4xaUptcG15NkVQRi1kUmVBYUlSc1lT?oc=5"
         },
@@ -32,57 +65,35 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Nitish meets Lalan Singh amid JD(U) dispute over Patna Graduates’ MLC seat; Neeraj Kumar to file nomination today. A politics-related story. Covered by 3 outlets, including KalingaTV and The News Mill.",
+      "brief": "Nitish meets Lalan Singh amid JD(U) dispute over Patna Graduates’ MLC seat; Neeraj Kumar to file nomination today. A politics-related story. Covered by 3 outlets, including KalingaTV and thenewsmill.com.",
       "image": "images/nitish-meets-lalan-singh-amid-jd-u-dispute-over-patna-gradua.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "bihar-police-job-aspirants-march-in-patna-seek-withdrawal-of",
-      "headline": "Bihar police job aspirants march in Patna, seek withdrawal of exam cancellation | India News - Hindustan Times",
+      "id": "patna-civic-body-to-conduct-property-tax-camps-across-four-w",
+      "headline": "Patna civic body to conduct property tax camps across four wards - Prop News Time",
       "summary": "",
       "date": "2026-10-06",
       "topics": [
-        "politics",
-        "crime",
-        "education"
+        "general"
       ],
       "sources": [
         {
-          "outlet": "Careers360",
+          "outlet": "timesofindia.indiatimes.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmJVRUlhaF9NODBRZ182a19zWEs2TWRoMTVvcFVhZFVZcWppWWZhd2dCUmJBZ3NqUGYyaS1fUGtDRk1ZTFBZU1l1VnlKRGF3M2M4U3NjY3YwZWI1SzBXTDVZZmhoeFo1R01KSURYWml3MW4yU1NaRWdxamFFR19jdDBJMU4wa25YdDE3em5HTEVHYXRQVm9uUWFwRWFKa1JmTGxNZUZmdzdoUdIBrwFBVV95cUxQSzhuNDM4aTJGUG1scmdmQjhLTHlBQ3FNUVZpSnZIVE05RXZERkN5UUdGMzYzeDZHWmZuQjBsTVRDNnpTQ0Znd05NcU5CM2N4NlpTeU12Sk16Yi1relVScXpCbGFBMVEtNGJ5d1VXNmRBbGxHeF8yUEJxZVU5amRZRElCempwS0ZmUkVzdVIwSzlla0owQ2VlX3VzdUlfV1JHWGhKclBoZkJ1MDNYMDJv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEtZN3lLbVVwWEMtSy1EOC1IUDh0WDVCSW9LNjMwejRVYXlwTGdtTnJHQWFlZGtSZ3h1b3ZJenpoYzVPN0wxLVh1YThNaFhQb0RzWGQ3MW1WX0FDZFZna0lJTklGelVqVnN3VnVXdEU1dExNMHFyS2pnWl9XZHNqQU5QbGpGenE5MTRldmpOTmgwSWduWEl4RUdKS0dLRWFlb1FlTnBjUWtQWUZHb2dNRnkwc05RbDjSAbwBQVVfeXFMUG9QcG8tYVAwWmRsd01VNWZiYS16dHAxVktQZ3ZkZjF2QWxuYjBqa1FvUUJTcGVzZEhteEZqbGw1RzkzWGVkcVRsYnpnVnBESEswMEpNekxmbjZONloyZ2pyY0JFWXdUUGM4VFJJV1JOQW5fRXNYa1ExVXRsWUFuMnA4Y01ONlNxQ1RqRWRoTEpVV290aTJUWXVrZ1NlY0xJYTlhWkI5VmNuSm5HUGFHblhZbTlMeEtsNEpSTDE?oc=5"
         },
         {
-          "outlet": "Hindustan Times",
+          "outlet": "Prop News Time",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNclVvWXRPaE5zcmpDeGgtOWlxNlJaVXNMcVdnZFhRVzRYdHFYVVh3RGJQWEh0M3BveXYzdjBtQ0tCX3BtU1lqbmZ3Vm1sZEotMjRXNG5hVGtVc2lpLU9GN2VOR3piYnQ2NzhQbDRUT3BZWFNGbXc5OFotNWNld01pdGt6bFpRMWEzclhPWTl4RXB6M1hIWnVydzNvM2FLdk9jcTE2NDVPang4OXRPSzZSNFF5Z0dCeDlOUm5ocVNXNjBDY082Q2pJS3NaczhHdzFycmo0b1dEYWfSAd4BQVVfeXFMTmVfblIxQzZ4V1RvTlNPWTdZSGI3X1Vfc0xTTWU1WmFKczc2SkJlWlphcnB4d0lBZjhPTzNLRnk5dHFfNFlBQ1J6bFRVNXBQeHBzN3l6WWQzMEV2UmtRYkNGUTVfcDRKbHRXaF9tRHkwVDRIYVhxQ1JkNEJXQ0cwWkpNZTN2ejdHaVVaMHZIN0ZVcC1MRnFLbDc5QTc0aWIzY2VQY0lZSUs2aW9NeUpRMTR5cFpqY3gyUXl0dHdkcjY3M1NFUmQ0bHlNdVMyY3B3MFN6OHh1Nzl6Q2I3UTRR?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDNxaFlQbzVycXJMZmpOYzJ3VllZMTR1elhoWmNPMktPRHRVZ3RZY3lTS3Fkc24yWHJ4RnBOM3NjZmJPYXlTdXp3c0NudDYtQTR2dEE0M0NFU0oxcmlwd2xsSC1NdXBGeTNDTWJlTHFmMGgwWHVUMHI2NmpvaE16SjFsc1dlVUdEbnlreHNvckpGLUVaRkpHR214NE4wZ3NnRjFNaHAtN3pnQ0HSAbABQVVfeXFMTXRxc0N2bng1QndGd0RtOURKRG5QazZjd0JKTWVKZ0dUSFdrYmlZVnRfMEx5amIyS0M2NDB4a1phQ3M1d050NlB0MFAtdzZvRExCU1JGd3hOTV9TZXFUWmxsRVJUWlFHdkhNU1BFTGktVGJYU19DVU1zR2F6cjk0ejZFSWx4S2ltaWtxX0o4bkJldzZlaTF4Q25SUnIwUHgzZ0EtcldKaGZXbC1VTTI1VlE?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0RQbEJwUmE5SzdQQmdnWEp6NWVTRERiT3Y3V2ZpZWJ2U0dtRUpFVk02a2FxbkR0VU1zS0xNcnFTS2pabEw0QlVFUS12UDVYUmFoQVhoOEt5ZWdPMjVvR1VKYkRxbzBGTnNzWlo0UVYybWg0blc5QlB1RXBUQjVnYlhSdTFURWx3VlVoMk5MYWxwYS1SM2ljRGNUQWk0eU5BSHVHOVF0N0FGRTBaSUZOVERVQnBNMWlueXVMZUJxa3k1SlJ20gHKAUFVX3lxTFA4UDIzaXdZdTdtNGVYYV9iOHpheVFzWkNxZkU3bDc3WTdPYU1waV9iMHdnbzc4ZGJuenpxUnFqXy1ZMjJOSmwxLXA4b1g5eEZTUXI5blVrZktFeWxMbE96dXFFQmQ4eFVLRTliR1ZlbUJwdDh6NXlaNnNkaC1lTFV3QnJidDFIOWtjRHpHOE5MNkJMRThQS256UjNwN3ZhZ2d6a2YwbUUyeTV6eU1oZ2ZHUHlrNEFqTHhkMUliM2xfNHhWcWJlZkxZLVE?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZThHZ01EcnFxSzg5Y2VlaU1wNWxyTUJ4ZlZGNkZJMFFxek9GSGplTUxwazQzd2Z6NURSMEd1WjRUdjVPTENiVzRpUGZYb2dwUWZSOFJEUDlBRVhMN3VRbVExRmFDemZGWnFRQk5DUS1abF9VOUZrUlpiME1ObkFiQm02clFUZHZpcW1XeVZ0MUluQ1hvRFZtZmpCemN1M1QxLUZ0SVZHakFIMjhJWmR0WVVqSdIBuAFBVV95cUxQNEhEVVJ5clRKR2hPU1M1QTlaNmZYQ2hrLUFFTF85UEFBbktlZmpGRjhhbFFHQl9PT1NNaXlObjZUcnBVbzBZZnhIX2tSNGduSVhfSHJwMzVOcTJnVWRZQUh3SUliY1hrVGM2RWtMLWFSZG1kaDJUUHowa0FwNDRudnBZMDJ0LWZBcGg2bkNBVmVKQ21YNmNqOXlHVmx0TTdFV01JbkpmTmt1cVlTbXJOak1jVFJmZ0Vz?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMksyTDJuSHNLODZNM2R3aGNLTHJxMFVJRF9XN2tqWGd6OS1KYVNncGo4MXc1N1c1dFZ3WEdXaGhVRm1JZU52NVVsUUo4VWZIU29iclZ4OHc5TVZqb2xSWnd1aW1YYmZFOW05a2dubXFZdl9Vc3ZFamFTcW12Q05jMlhjQlBXSWgwNGpTTXJSUzFDZF9vd0hoS0FLZUtPa3M2MC1OUEtPZUM0NDZOOW42U0lOMjhiOHUyRmoyLTFKbmNTR3FXUDQ3VmROejhFN3BoY0w3a3FOR3Z3OHBucHNR0gHkAUFVX3lxTE9nNTZ1TDkyRXVYUFVpSWNaSEs5dDF3U0p5ekVCQ0xNanMzQm9KbnJlaWYwWUhFWVZhRzQwTXB4ejFwdkZ2MFlZaE1hdTJ6RTlYSGJEbDRrd2xKZFhPeXpuMm1aQ0ppNFZkbTQxbFFBNzNJYWtzRFVDSnpyaENFYjdmRlQ0SUtDR3VpM1Q4Yy1UNXhZZUNRTFFoaHIwQzlHcUVyMDFCdndicDB6X2ZhRUpiUXczM0NSMkFtaVpiaGdaSEhmY3NkeEtmX1UtdlRlMmQ5bWNCUGZxTEFLQUVFYTA2dVNWSg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3ZMZ3hrRnJUNFVfb2Y4QzFHdmVhTGdjYy0xVHlxeFNRcFJRTC1CZHplamFaVlZjVVdkWFowZUxMaURZLVBXQmdYMUpuZnctTTMwelU4WUxqX0JWbEN3TUxRZ2xsNXJDVlAwVWZpRnZEeEZhUzQ0LS1WcXREQjh5RkF2S2JyU2UxUG1MUGd0STRGRVVic2FkUHV0alZtRDVOOENMV1c4dDFYc3N4eXFZVE1HYVFkd3c?oc=5"
         }
       ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar police job aspirants march in Patna, seek withdrawal of exam cancellation. A politics-related story. Covered by 4 outlets, including Careers360 and Hindustan Times.",
-      "image": "images/bihar-police-job-aspirants-march-in-patna-seek-withdrawal-of.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna civic body to conduct property tax camps across four wards. Covered by timesofindia.indiatimes.com and Prop News Time.",
+      "image": "images/patna-civic-body-to-conduct-property-tax-camps-across-four-w.jpg",
       "image_kind": "photo"
     },
     {
@@ -111,424 +122,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna Ring Road’s INR 1,183 crore Ramnagar-Kachchi Dargah corridor targeted for 2028. A civic-infrastructure story. Covered by Construction World and Prop News Time.",
       "image": "images/patna-ring-road-s-inr-1-183-crore-ramnagar-kachchi-dargah-co.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-civic-body-to-conduct-property-tax-camps-across-four-w",
-      "headline": "Patna civic body to conduct property tax camps across four wards - Prop News Time",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prop News Time",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3ZMZ3hrRnJUNFVfb2Y4QzFHdmVhTGdjYy0xVHlxeFNRcFJRTC1CZHplamFaVlZjVVdkWFowZUxMaURZLVBXQmdYMUpuZnctTTMwelU4WUxqX0JWbEN3TUxRZ2xsNXJDVlAwVWZpRnZEeEZhUzQ0LS1WcXREQjh5RkF2S2JyU2UxUG1MUGd0STRGRVVic2FkUHV0alZtRDVOOENMV1c4dDFYc3N4eXFZVE1HYVFkd3c?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEtZN3lLbVVwWEMtSy1EOC1IUDh0WDVCSW9LNjMwejRVYXlwTGdtTnJHQWFlZGtSZ3h1b3ZJenpoYzVPN0wxLVh1YThNaFhQb0RzWGQ3MW1WX0FDZFZna0lJTklGelVqVnN3VnVXdEU1dExNMHFyS2pnWl9XZHNqQU5QbGpGenE5MTRldmpOTmgwSWduWEl4RUdKS0dLRWFlb1FlTnBjUWtQWUZHb2dNRnkwc05RbDjSAbwBQVVfeXFMUG9QcG8tYVAwWmRsd01VNWZiYS16dHAxVktQZ3ZkZjF2QWxuYjBqa1FvUUJTcGVzZEhteEZqbGw1RzkzWGVkcVRsYnpnVnBESEswMEpNekxmbjZONloyZ2pyY0JFWXdUUGM4VFJJV1JOQW5fRXNYa1ExVXRsWUFuMnA4Y01ONlNxQ1RqRWRoTEpVV290aTJUWXVrZ1NlY0xJYTlhWkI5VmNuSm5HUGFHblhZbTlMeEtsNEpSTDE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna civic body to conduct property tax camps across four wards. Covered by Prop News Time and The Times of India.",
-      "image": "images/patna-civic-body-to-conduct-property-tax-camps-across-four-w.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-man-believed-to-be-murdered-4-years-ago-found-alive-in",
-      "headline": "Bihar man believed to be murdered 4 years ago found alive in Delhi | India News - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0R1aEN1Z1FBQVd6VHdiam1HRk1mb1AydXBidjZHN1dEX212OEJqWEJaU0JKRXFEQkRfMlpRVmhkSGpHNlFabzVWSXN2MDdDRUt1Y250UjV3YTZFSG1feWxMdHBoVHlqMlNGYUdEVWRNNWx6dWNhSU5rbU4xUU5UZmJNeS1CMXdUQWItOE1fUG40VlplUVUwSDU0X1ZfV2NvYm05bDlPWjROWURnaTBka1hkYVhpZVhGalFQd3BQR2NKNWRtRFgtdHRB0gHPAUFVX3lxTE5XZ3hlMjJpbGk3b0Nva0RBUlFEalFSbnptT0JXaHgyQnczUjJaQTFMeVl6RTdPaDlIdUNoc05QdjNXdjVhS01OT0RkTGFCbnROX1lRMk9ndk9Md0tVZnFjQVlUWVJIVzIwV3JEbC1MbU1tbVpkay1BN3JMa3prdW9xdUVMd2tkeG5CdjBZbGhYdEdfRGRNUU1Rb3dsZHNsc1lGVGJvc0Z0bXVoNi1sNVlPTExvVFhPUnVaXzNxenlMejFKcFh2NFNabmlIbmdwQQ?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdU9CVTUwNmNfb2hFSmZGbGVXckdSclZvbTJ0by1RZnFwOFZZRjNvYlJId25QdkR3T0ctU25HNTkxdjI3d1owUC14WG5lSXlRem1VcFpvNG5oVUVVWjRqdjFBc19TZzNMVWEtTlp0dXI3dDgwYldqRjJodzdHNThKb29YRjFLUkxXb211WmxGRnAwWmdJcFZESG5uUXV1dGpJc0dobDFhUXdDQlZQS1R5RFBaVWhsM3hIN1daQ1FqMUVaU2l00gHKAUFVX3lxTE9mejczMk05ZDgxaFlYbHBuaGJROElWdlh5RGpqSGtpcmE0dmk4YjVhdXJVZC0yVDljYTR5YnVWTGszWnRTM3JadTVfeFB2XzlLMVdGNWtrREFsZWtaVFpHLXBKakRWUEFyQUJvbXNMTnZTUXhtVTdUNUFodFo2cmpsZkwwYko5MDZoQ29VQnpnTW5hcWw5OHo2QTJHQmlSV0NaWVZtMWpjSFJncmtvdnZvbjBtaW9uQU9ZS3FRdDRacXBMQUZweXR3U3c?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar man believed to be murdered 4 years ago found alive in Delhi. A crime-related story. Covered by The Times of India and Hindustan Times.",
-      "image": "images/bihar-man-believed-to-be-murdered-4-years-ago-found-alive-in.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-sir-row-india-bloc-to-hold-akrosh-march-on-october-7-d",
-      "headline": "Bihar SIR row: INDIA bloc to hold ‘Akrosh March’ on October 7, demands CEC Gyanesh Kumar’s removal - The Times of India",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWXhLdFVkNG45Vlgyd1hObVZzYVd5Z3EtY25MUVkxVUhOZGJhdE9tbTRBeTVlTDd5d3BfQmVuYWFZRXNvcDd2NlU2WTlZNXhOc0dGbmhhRVY4VDg1N25HWFVDYjBCajV0bC10dmxoeTRfUkxDRmlrUzZCa3JMVlc2WmJYazNra3BCQjMtZmMweTlJcGd3V2RFSG9YOUNvdzFWUHgtXzJOU2JpOXlFTkFyQ0E0X0dXNnFrRjFSeGF2NXlIUGY1U2tmay0ya3hnc2h5SXVLa2JtV2Vfc3pJZ0drTnhGQzViZGg0Y2RVV3Z1NEVDUnRwMVpvLTRn0gH_AUFVX3lxTE5YRkZlbkdobGdGUEVZRzYzSXM4bVBTaVV1RGRFRlk4SHcwYkdFNHk0eHdhX0dKb2F5NGdfaWpjREJwRWU0cUF4T3ZFMXU2VU1sOFc3VTlUWWtRZldyWTJsMnVkelBLbjJ5Wmt1dVBab0dPRkZzMV9yNS0tc1FNT0U2QlUxalJiSFN0djM2X2ZrdlUzSnFfVUhOckcyVy1WcUxCcW12bnRtdUw0cGRsdUp5UHJuc01IZERmdDZqaHFXUVA5YjVhX2tpNzNURG9Id3ZwQkJSaW0tYzhCWXQ0Qjh6OXVjbmNHMTQ3SkNLZ3B1ZjlTS2ZrZzU4dWhFa19wTQ?oc=5"
-        },
-        {
-          "outlet": "Pioneer Daily",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORU16eG9rS3lsSUtTUkVaaFRRcFNySnA5dUFDTXpFOXlac1AzZy1HdlQ1eTE2dFhnSE44UzF5UTBBLVVoLWd1NXJWMnc1Ull6TlkzS3kzSDNkWC12SHAwSUszbDlwLV9PSjFaUHVqWWs1Q3RjeGhqa0loOTRWa1Y1X0kzWVo2NDAtMUJNdnRXc0I5dw?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3hxbGVlcFc2WFNlaXpmSm1JenR0VFlPUVVZQnpnV2VuVnd1NVo5aENnRnNMZDk0WEI4eXlTQmF6SktnLTlkMFlDakFtUFh5bGRqcnd6b2gyTV9lNHFxNFM3V0Z5SVlvbEg0TzJrWUE3LUZONWQwUlBoc2FEMkVHY3RWcVVTTzZ6U0g4NjNMVFdBS0gybUc2ekxWWXpkNjZybVZaenFmZ3haOWx3ODV5UnY3aDVGWGs1aG1FeGVKNWNVVWl10gHKAUFVX3lxTE9ncUh0WlBRRjJucEN5VHBfMlNOOWU5cVM1LVRSRUNmR1ZOaEU4TXhBbHNNVEF2aHItQnVfZEs5aEdRNGhsU095UllYVmY2WHMydzdka0NrLWxfNHF1SFBPRldiRV84cGNwdzAzVnd5SnhfTU13Y3pIUjdGdU40aVg4dHdaVUFFV3IxSTRpNXFlMHNOY3pzTGNmcGFENFNPUjlNY2ZMLW5ndDNnODY4dHQ2RGlybFZHMjgyMmJxeGMzMVIxdWV0QWVyOFE?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar SIR row: INDIA bloc to hold ‘Akrosh March’ on October 7, demands CEC Gyanesh Kumar’s removal. A politics-related story. Covered by 3 outlets, including The Times of India and Pioneer Daily.",
-      "image": "images/bihar-sir-row-india-bloc-to-hold-akrosh-march-on-october-7-d.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "gross-negligence-of-duty-bihar-cop-suspended-after-video-sho",
-      "headline": "'Gross negligence of duty': Bihar cop suspended after video shows him brandishing pistol during flood rel - The Times of India",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "crime",
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQjNZXzRVZkExeGQwRi1BM3NNVThLN20xY3ZTQ3RvWWd5RGg1VVVNUnZXd1RNLVprTHdSenZvcGdiS1B3NzBrd2tPWi14eWRWd0pmaHRRY0F6bWpLV0F4Y3NQMXRZUVdjWkVRUE1FQUZpUy1NSHppS3h2cGFGMlZpdmR5Q04yVU1adE8xYWw4eGNnaWI4TEh0bTBncTZXTVRRTllvWWhVcHg3aml5dzlQRkZLTFlxaGpodTF6bTJCSWxvczBoNnlvLXJlSG9qM200emlGZHhYNTJoaHlOT2d0MHNXYXA5VnV4b3J5Y1pybkdzdWk3NGs0Y28tTVZIcEh3c1BUSndZaENJUHJhdmFBVkZtWldFVnQ0N0NB0gGgAkFVX3lxTFB6ZWR4R1Z1dkRwY3pNek5Kb3VCbHRuMGxFREJMM0hJaUFtTlE0WnhUaEVJX0oyUzR1aFJjMnZ4T3NLQVJfQUI5OTdtTUJ1Ql9iN3puQUJaeThBQVUwdTE2OTBGQTBydmx4RkdMLWNLYnBvN2MxeGd2VU1IRjNmZHlpT2RUTnRPNXFIMTlnTXBZaWVrLWJFRFlWREhLWjk3N0VneGtOZEdBUWxMdHVuQk9ZREJOdXBCNEZkRkdtbkR3Q0Q4RGxyaUNsLW4tOF9oSjFpMS1NYl9pYm5NQUFseTVxWThRZ0NZSXlES0lESmVVaVVMU0N2ejcwbkIxdUJVVEZEUVN1cEZaaU9YbjFNaGVLQ2V5UkZodWd5bkF2aGVQOA?oc=5"
-        },
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0ZmUU1mVnZGN2ZMSFRUQWpPVTVZVFFYczB3OHRIeTRVV2hRVG5nRTdFZVBwNllkZDhPTlIzTHJ5ZFZUSTJlMy1lOUdwampCeGxNY1l5S0hwc1VYV0JsN2RKZGdMaW1MaF9tUFUwSkkwcVdyMWFLVm5OUmJVa3FlUzdQaUVlc0U1eUo1cEtEU3lYbFd1djkxR1puTzRTNVFWTWdjaWdrTUZPa3RjTHZOd2RIMmZjeHZIeWVrQTkzakhyU3V5cGlTVDFFYXJ6SHNmN1lv?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOEc4QzhMTjNuOXBKMHlpeW8wbGFVUmE2UlJ0T1UyazRmd1ZJRkxpUkJEZDc1al9LbHJNXzFRVUREd0RLQjlsVGhwNWtuczQ5RkFMTUhCVDVoQVNjMTM1N0Q0cTFmZGY1akppUW1WT0NtQWRiR21PeW1EUXJGRDJVaXRLdDA0SUZTWFlmZ0cwUXhQclF4aG9SNl9palpjbHc0ZWh1ZUx2N0V4V1UzVFNN0gG0AUFVX3lxTE9KTDJKLW1ncWdnV2ktNlU4YTJscklDTnNneHNUWWxTYnRTanNWOXJqai1SdTNpR2oyS3IwRkdoUmdmTTZnN3czQWhHdlpuRjAxU0xpM0cxdF93V0NGbzl6a0gwNFVPV09lZ3VNRXc2YW1XVk12blB2UjNiU2VyX0tHV2hoR0p0NjVaMGxBbzNlMzdacnBYb2dfak9BbVJqWmY4T2pIcklDSmlLYU1VX3FMRzA1eg?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUI4cGJiOUV3bnQ0NkNvWWxiVE1pdlFnd19wdklmbVNnZTNwM21aV0paeDVmSHRhSlZ6a0xheUsxaXdtM3YwNlhfcUtBUzZoMGxqdzRWLUJ4eGN2a1ZSci02T1A3VUdscllUeV84SkFYdjA5eUU0QXd2QzRrS291a09WOFY3UlJyallISU1hcF92OXBIeEdYakpCSzVJSWYwREdqaWV0M2JkRXBBbnIzUF9oYXdOaUhBMTZhX0c5RG1yTzlS0gHKAUFVX3lxTE1oNnoxaldOMHV3NWZXS2lkczh1RU5Nc1ZMeV8yb2xpcWItMzNiUDlIUFJSRFVXUm1GOUxnNUMxSE9vU2tseFY2c3p4bEZjUnRYTGZJUGxZSHRFdjlKZkNtZWFpMzduRnlWVzZpZmNlTGNjWGdicG5HS0g5NExackVSa0lQRDR6YjJXX08xd3RGTlZFMDJ3SkhHY2FkR3NUVzM3X1Q5YkxWSEpUdFJOUlZVWVhXNDRNUzF5S18ySEpla0hrdUdtdHYtZ1E?oc=5"
-        },
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNFNpQW1PeVZLaWdNS2xoLTU5bWJlRVFLcE40d0N6NHZxV3VpcEtUUmRDZk9EVHpQeFZUenE3RXVqSzJRNnVJN1A1ODZvdjlIQWJ0b29qT2VXY1ppZGx1QXBRekVNUE1RS0dOelFDOTgtYlVnYlFkZk5UTjZ2RGZJT0duREdwR2h3R0VpNm1hZ3RUZ0JKbF9BanVYQjBSN1duazBmRzAwY25GTjVSUTZDMUdKRmNzampUcDdXSE5YZkNsazRYZm5aSlRaLTdzbTFYWGp3SHNETmhfTGw5b0NJZWR5c09UUENaYi1R?oc=5"
-        },
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclI4Z29hek9IVjRaWm9pLWIxRFlHV3BkYWVLaVZKeUdJVExKYzVvZHpodUltaFktU3hhVzF3OXlyRWZpcEJmUmplaDZVMkRJZHc1OWI2RWJ0RnVpb3k2aDRUTkNNSHNBTVEtX3phVkhzMXc5TkI0QXVSaHh2WGU5MzJuWFd3M3BrYzB6eXNrSEYzWUFXUUxsdlFpMGhqZy16THlROW5xTDJtQTNFWTNpLVRQOA?oc=5"
-        },
-        {
-          "outlet": "SSBCrack",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNFdOZk05VXNWOWJ1dVZrZXk0dXZiNjhxU2dvVkNxZl9QUzBKZVptQ0s2RTVuWFdQNHR3WTJQNzRDZUZVOHA1MUppZ2RVOXl5T0R0LTd4MktzY3JueVh5dkhLUzV5SWVFY0s5NHFaVFhsM0cwaVlDdUIxcE9hTFdQV1VaeVdlYnZxZFk2NWFaQUtjNkZLZGpCUXdPSXNWTk9hTm55R0Z1VXNTRE40ZDl3WVdPdE9pNXBlUDhlV1pqT3FyLVhwTmx6SkxB?oc=5"
-        },
-        {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObmxCOVhKUTQtZGhZOVlhWFlHY0Y3QUhaRmVFS29WbnRvdGNDTmRpM3RRWHBfV1pDbkNKR1QteXBwOVdqdFJCRnRPQ3BVN2VzcksyZUpXY3paaGt5UXBSeFBWS2RYSmFQRmJESmFYSEEwQUxMZXN1VXpESXdzQjdYdTR5R2FUODVzMElybjBoazVldlZ3R3R4NG1FWWlCVGpuckdHangwSWFkWmF1TUpkc3NwMXppYVFrcjZDZzhfVzFoQ05KRHNKMm4zaGtxQ2d6U09NQmNaTnluYVRlUUtsMkM2UUVycGptcUHSAe8BQVVfeXFMTVMxakphOE5ZVW1adk93eTRNcnQteUtNY19hcjUwOUNKMjUwT1haM0JPeG90SEw1T1ZYeUJTazF3dFo4czlNbm5wcGpaeFhBUEw0SFlMUXlpeFlFb0s4dURabWtSU2VqSFVlVnlsYnVjZTFwb1B6TmxYYUFMN1Y3RGFjeFVaNFpEandncndKVEppenBhV01EUVE3NXNNaEJ2MkJITVljZVZwNXVES0JLb0tLTV9BQTRSVkt1Y2ZJNXI1NHR5bUhNcHd0N00tTFV0Z3pPWURYRW5GeHIzejB5aGRHSHUwTVprYkxfQVNBQVk?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV0h6cnlzSVNNUmlORnJOamJuTURmRGFRMzhNWUdabGkzWFNFOWpZSnU1WG9SbjJneHVVaWs4LTY2MDEyTU03Snl2WDkyb3ZKQVMwRVhIMWJZSTdWNzUtRDJhTWJNdklBOVV2OFZDYm5yaHZpSkJOQ0lxSUZKdVdOSmE1RExOVVRoV3NzOVZNblZJeU9qMU1ncHp2T01CbmxQbUlMbm9GT2dGQ2RGSTdQVW12c2VmbmFYd3dDTzdKMUJsMmg1b1dqckpveWg3TEJKZE9oSnQyVllHa09iOFJQUVJyaXUya0hjOHRXbXVqNEZuMDl1ci1zTzd3RGhqd9IBhAJBVV95cUxNTWVaQUVxVkgzczZ2NkVUNmNtczNKcHZMWlpkWnVIdFZoWkNaUVp1Qk0yYlpjZUNPRTdNVnZjS0NLVHBCYUpxWE5Lc0t1d0xFTTJFa1F6OVhjOWdZYkw3Z19GWEtrUnB3ZVpwbkt2ekpmZTZYcWZCRDBFd2xaTlVVUmtPNElYUDNZbXFtSU41Sk5TbWl3amp3X2RlekZQM1p1M3RzZDZ0YzlzUko4MnZ6eWFuLU5UZGp0emJXOFpfaXc5NXFpSkJ3S1I5SGFHNHBWem9XNExSRTZLTm0zd1RBd3B1Nk5FYk4tdGVKeE02QVg2aE5LblY2RmFUcmdZUTBIWXNrWg?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTWhiOGppZlhOWDNPbUxoeWFEQWc4cHgzRDQ3STdLWWVhZUowYnpNZWZ4cEZ0bmJMMmRmYWdXbmIxVlRxa3FodllNMFZCVEtaTzVTOGp3ZTNmbHlmbkNReG42enRtcTJoT1NXbGNVYkxOMzJpaHVYYXRkOERZdVhLdzJfckRaLTBBQ3pxdERuQi1DUmZzWFRRejNDWkpncVZ6WGxNbl9yX3lnRWZ5NVFGWm1Lbm4zQll1aGNncE1WazFNZUU?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0E5c3YxYWVOZTR6TzJ0QV94RTdSeXFYaTNiNkFFdl9wYWhJcWNVd2RZcjVfcnNEQ0NDRmxSSU9kdEJhOVhTZGN4R01VX3ZLMFFiTFNaN3FyVy1sNWJLRWFBcndWOENSN1hnV1JUVzJQTEpFMkd0VnZ1NzJFMzFkLVBwaFJsVXhlLTRscENLaFRWeWhZLTdQVUlzNGFaS2c0bV9fOVlILVpQWTRyLTlsNi1Na9IBwAFBVV95cUxNX2RBRGs4X1dSZ1phYTh4MG42NnJpWnlBWUgyOEwydzJPSF82cEpCdEZQNllxN2UwTlhQTnhlS3c2cTlZSnBsS1gzcEFyTnB1bUFqLW90Q0dtTnVOVEYyR3lwUDlvd1ZHbmpabU83RDlwLUw0UTBjVFZqdUhPYlBWUEJhV1ZGcWRjQWRrbUg1VG13RDUtcGRuNWdvUzFreWlGaTVtdnNRbUFqQ3UzS3ctNWdPcmxOZng5Qm9POUJOcnc?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEl5VjB4b05RSWREa1ZPQlVWVFhsUVViZTVzWld5UW1nUTdPbEtSYWQwMGhFUE5aejllMkZxZXVCbl9idHduVkRVUkdvaG5xbU9RVUpjYUc5VGo1ekFtZUEtekcwWlJ6d2doc0I0NklGMkpWZkM3bWZydHZTSEVJZTJNSDNrM3ExdnJQZUljTnRtTzBwS2l0Z3FuQnZVbUNiRHA00gGqAUFVX3lxTFA1Rno5cUZPUHNnbEE1bnJ1THRkalNHbk02SHotdGtvald5Z183MHdBNVpaQ1B0NHZ4aVFreXdycmJWMzdEdEpMMFRIbG1hV3pqdEtGeVY1Z0RLeG1SQ3JsU3EwTzBCN1ZvVURpRXZCaFhkQXVvMkp6a1NUd2h0UmQzdHF0Q3VwbjBUR3pzRGFPTm56ZEcwNU83V2E1MHo3MUFlOV9Wa2o4LW93?oc=5"
-        }
-      ],
-      "source_count": 10,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "'Gross negligence of duty': Bihar cop suspended after video shows him brandishing pistol during flood rel. A crime-related story. Covered by 10 outlets, including The Times of India and Deccan Herald.",
-      "image": "images/gross-negligence-of-duty-bihar-cop-suspended-after-video-sho.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-shocker-woman-beaten-to-death-by-husband-5-year-old-pl",
-      "headline": "Bihar Shocker: Woman Beaten To Death By Husband, 5-Year-Old Plays With Dolls Beside Mom’s Body - newsable.asianetnews.com",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT21KU1B0TlF1eng0SDFaWWpsY3pJcVd0eWlDWlF0YmZ1ZFVuYzdwQThoa1pJd0RtdElKUzNhVEF3YXFhSVdVWnlNTWpyV1FSem5PWkJnSUpqX1lyR1NONWUzYWZ0V3BFQkFnWjNrUmkxczQ0SFdPZWpPQnNXZDJjenlMa09lSU16eUVWTkh3dVNFbnJWMjRHdkdfcDJtSjBobVA2bktzdGtBUlRJNC05VWVsWWNGOVFleUJUMnYzUTdfaUZ4U2QtYWlqWGlKSHlDZGRpTkM1RzhFMUhBOVJJdUlQbkkxaFFVRG5Ka2tNdm91R1NMNFdF0gH8AUFVX3lxTE5FQjU0LURDeUxaeW16TjRkV1JxbmVtQ0FxSzlUOTY5QmRRMUY0WEdwNHVVWmtCejdtWG9nOEFkRGx0WkZuZTgzdFlUMnBNR3Q1TjFzSGdxUU5ndkszUXVjS0I3akxhbHBlSC1fOHBva1FrM0xjaWRXNEVhaE9Nanp5Qjh1NlJxVzVQa3VFWnFGVmFQN05oUUFzNUtUdWxhai1nbUpvNDM1ZldZeng1VjRzd3dhUlhVY05nVTJwVXNoSTVnUmpoaEl4ZVRqV3BkN0tMMi1Ca3dmbzFGYXlRZWEwTldWYWltTy1FbTFmVGNhZHlXS0lxU3huNmFrRQ?oc=5"
-        },
-        {
-          "outlet": "newsable.asianetnews.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV0NFUHBtV2tDaWRXWTZCd1VaRDhaQTQ5WUtEWFRaRjJybDJHNWZESW0zaS11dDNiRUxCY0FkUDNkMnYwRklJWTFSN2VkLWswVjA3ZTR0aE1ZWFUzaXRxdng3a2dwV3F0LVVjLXZzN2FUcHJCcG9HbTVPTVlseS1Wd1JZZ05mY3YtZTZWOFRyY05ZTlF5OEdJZjJoemtYQmxrVWxMOS1oenhHSURBSEtKR2hXdHVFY0x4dUJvRzJNM3hYNXJrQlRsRVVZRGVkNUhMcW9FV9IB2gFBVV95cUxOeV9GZEdtM1hrMkVIMkZyWEF6QjB4TWFQOEN0WkNiT2JDWFhDbnUzMHZ3VmQySGIwTHJuYl9UVFlNTHNGdkNHdFAwdVhHb1NTSW5Dd21MV0ZwOXRDZVREUi1IVG5NbjcySWZLWU1tX204UXdJZ0N2ZlRHQzRUajRobnJFWVY5aEc3cDJKdW9ldUstX0o4dzAxSjdfYnEyQW5aZU53RHRLcS1OY1FzTnBDazNSTkd0MUZLelJ2UGlwT295cV9VdlRoa2g1NFFod2wwbmdvLUpxemhjQQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Shocker: Woman Beaten To Death By Husband, 5-Year-Old Plays With Dolls Beside Mom’s Body - newsable.asianetnews.com. Covered by The Times of India and newsable.asianetnews.com.",
-      "image": "images/bihar-shocker-woman-beaten-to-death-by-husband-5-year-old-pl.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "bihar-neet-ug-counselling-2026-round-3-registration-ends-tod",
-      "headline": "Bihar NEET UG counselling 2026 round 3 registration ends today; check important details here - bestcolleges.indiatoday.in",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "bestcolleges.indiatoday.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQemlHellTUENxSHNIaldseWRwXzVnY3F4dng4TDM2OFZmY2U0YXYyTGI4M1VKc1ZYNVdjYXJTYjVsLVoxQ2JsaEFvNjJWaWFXdHMxTG1jZ2ZUdVJWQXBkalZnRVVPdjZGQUFQbzZ4QzBtNVlmbTN1aEZqNzZvV1lpZVo4S0hZZjBYRzBLcGVPUjNYLURKcUFDREdacjhwalROX1FqVlczdmRaOUNFM3l4UmdHUDBZRWg3Q3UyS2FkOWI0WjVFbjBTMTFEaUVIMHJVVmhBYXl6Y2ZIQjlH?oc=5"
-        },
-        {
-          "outlet": "Shiksha",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYnd1LWlYTXo1LUtFdmJpaFkwYlZobWNCNlhUb3I3ZFVUS0RIZFFRVUlJNklZTXprSktnVFRtVlBfaHVlbTFNbHNvcklmRGJXSlJMajUwcjVUdUQwbGxaRWJyY0RkOFdyU1lWMVB6aloxUWJzdW5WTU1RY0ZKdFNqN3dfUExJWGJxVUJRSmFMSjVIUTFsc2hpc01WMHc2Nnp3ZWxsWjVKT0hhZXpRZUpnVVZtcW9uOUV2OVJ1aGVCSFIzTXJVTFpWd0NJUS0xM2RrUWhLN2NHRE9ZQ3ZEQnMwM19ISlhJSmtIVWZhQVhHLTczcU5oV1JvMQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar NEET UG counselling 2026 round 3 registration ends today; check important details here - bestcolleges.indiatoday.in. An education-related story. Covered by bestcolleges.indiatoday.in and Shiksha.",
-      "image": "images/bihar-neet-ug-counselling-2026-round-3-registration-ends-tod.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "rs-2-400-crore-mokama-rail-bridge-opens-2-new-lines-boost-de",
-      "headline": "Rs 2,400 crore Mokama rail bridge opens: 2 new lines boost Delhi-Howrah train capacity - The Indian Express",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "civic",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYU8tZXlqakQxcGJjWk02cXNQcnh4Y1VlVFVCcU1xYzNGOHlPZTA4NTJxZFNURG1Udm5vRlBJNHFrajhKc3ZLYTR5R29VZFhhTW40VVJLblU4b0JLSkdOV3VCMFBFeHM4bWQxdTRWX1Nrenh6NDk2YlgxOF93M3FsRkVYZ0dGVFlWX1MzWGtCZ1lubFZlaXlEbEpDclA2QjJmT0t2X1dvLU1vTm15aGpHbVA0c1FjRFXSAb4BQVVfeXFMTldIbGVwRHR5LXBRZm45Y2VkT3AwckxVdmRPbDNaRzc5ZnJwZUhBNDJqb2ZlYzFKcGxITjExS2E2MHZPM0dBT1pua1pEWTdsQzVJbVp3dkY4dWJTblJKaHN3Rnl3bDNQRHRjN3JBSUZBZmxKX1R6ODNod0ktMy1EWEtlTEg1ZkZzTlVLMFgtUVVJNjJJYURHT1RVanFsaHJfWjBVRmQ3VnNyMWw0MFNwVEk0dk96ZWJaMmltclV5UQ?oc=5"
-        },
-        {
-          "outlet": "curlytales.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTlJdU5zUWZuazBvQmF0cWp1VVltXzZEcG9IY3JORmhGaG9VeWxTTkhqMTNVQmo3VXpNbWFHOVZjZWgyaDJlTmhQSHh6M1RGZGZpMVFNd081cENvSHAxRlNiQmlqVjNQbkl0bGxQLVFYaFNDRXdZSzJDMHQ2VGhTV01hRlZFbGZubThna3JzbnlhdnRjYk5qZGV3RDdEbGcxblZMRGN2dEUtbDZxQjZYWE1R0gG3AUFVX3lxTE5qU2VtX2ZtMml4MkxzRVRLNUtIZ19EOW1FdG5fXzA5SVhsZUdQUlFaeTFtTU5GOUZYRGpHLUdRbGJkV3BQSnBaVl8wUl9fRVhkUEtWb2pIc1FweWh0dG5ydGk2dzRyeUVaakN0bndUODNqNlRpRmlkQ010RGxVY3ZrYVJOWmp0bWtsWnRwY3JRaHZxc2Q2SVl2eUxqeGduQjZQOUtGRWVidEtRMlFnczBuRHBGYmY4MA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Rs 2,400 crore Mokama rail bridge opens: 2 new lines boost Delhi-Howrah train capacity. A civic-infrastructure story. Covered by The Indian Express and curlytales.com.",
-      "image": "images/rs-2-400-crore-mokama-rail-bridge-opens-2-new-lines-boost-de.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "9-6-prabhat-khabar",
-      "headline": "पटना के नौबतपुर में गेस्ट हाउस पर पुलिस की छापेमारी, आपत्तिजनक स्थिति में मिले 9 युवतियां और 6 युवक; सभी हिरासत में - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVdnSWFhTHVDRkxFZ2dqVFBJN0tfb2RTeC1oSFpIQ0pOam5ObVpBRUM2UVpESEVrVzdfT2RLV3FGdU50VDhpRUtOVXVwNE4wM25XTnA3Ym5US19YS3V6Rm5CYkZ6dFg4QVYwbnFvRnY4ajdpTWFfRFZuMjJucm83OUs0dlh2WVR2d2c3VVdJd29YZ0VoOWlHWUxLUWR5RVVEY0dNOC1Rcm5LOHM3Z2VLaFBXY1V3d1Z5dWdMNWVjZWduT3hERVR2SHRreDVncjTSAdQBQVVfeXFMT0ZoUU1VS2M3NUY0dkFWc0QyN1JVSFZRS2tEMmttTjdvcG5ha3ZhUlM2dUZ1YVhrYllqRWJyZUdTMVZUMms4T0ZDbUlMVUExOXJxOUNaMnEtdExTUlQ1TEpiSWo2OUhqWWpOb3o2b2hLaExTUlJHNXBQdW5ma25QS0Zmd19oclRnQlIyLVBjdk5XT0hQemVINDloZTFsdmM3TzBUSEZTOWp1Z2V3dEJzUGI0S0gwM1BVaVZ3b0t5ai1vUnR5Y3JiYlFMaDBHemd6MTZPdlk?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzRaZmtSaXg4Qzg5V1VWVGRNUmFieHNuUVFnUHBjUnpqbUVOWlNFR3gxR2tscjNKRkxuSmV6ZmF2aWt0MFV2b01xbHhVODFFRDFTZS1kZUJTaDFVTno5LTMwX21ORGRnckNZNVI3WHpSN1NNa2poQmpzeXBhNWRwMHlsLWg5RnBBVDM5UnhFWEdGaUN0NE8zLXZ1NDh3b2lmMWJWTnVZMA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना के नौबतपुर में गेस्ट हाउस पर पुलिस की छापेमारी, आपत्तिजनक स्थिति में मिले 9 युवतियां और 6 युवक; सभी हिरासत में। इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/9-6-prabhat-khabar.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci",
-      "headline": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages - Jagran",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcnZiZVpGb3ZPRUUxZFlMYU1GSW9MX202ZjdaTWs3eS0xSVVxUURJWjFrSU9nbkQ1T0tEWHpnWF9KOGtIcFJlY0VKMFhjZnU5bFpoVXVFeTJtNEJEOHFmY29VcE0zVHozQ0txMi1HRVhMR19vVXQ3d1RGMlhoMVQ2V0xYMUh5WXZkRFVEOHRSQzNkcElDT0g0Wlo1cHJXbE5tUzZyN3U2ZXdMZ3I5TGZmNF9lSlFXbU5FSXpZbk9fcXdOQnYtWHNXSk9RdzFEWnhIUl9KNjdUanFDUEpPOTZlT2hTUmF4ckFiMXp5ZTdWM185RktQUy1LVUFjSdIBgAJBVV95cUxPaVBWSDNZbDBOTzZBNHQ1ZDJqYjhyLUJ6bUZmb3d1bGhYWG1kZVdySldWald3bC1VZ0NPX2ZyT29SNmctSm5sejgzc1F1QUtmVUs3LTNleW84RTF4Y19yYWlidjVoYjk5QXBGMmh6SzgzVG56U3NzTGc1OGFBdGNLZ2dzUHNKOWd4bGhjckQwNlNtaHNuczR2NzU4Qm1QWENIcGtXQjlWMGZSVmN3M0VPMW8xNFNLdm9SdlN3UlFyblZVVEpwWWdIM3I4TWI0VFZFTVNrUEZ4ZHR6dkhZY3NuX2kteGJYSFdVS2tObUlpWUxXZ01MV1FBbU9BdEVLXzly?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHpFWm1iRV9ZajQ3VmZ5ODhtUGxRWDl5dS1QTVNjeVRLWFZMZ3FyQXUwMFZPMExVcC1oVmhhLURTMVRrRVdBRk1SNHZ0V1RkcTdERlRLZmVYWkxTMGRaRUdLeEVlNGtZWVpCNUV2R1BWZkxIY2hxLUVkc2JHc1F5VmhvOTlQWHhVSmpobC1tTlVLeHh0cjF1OUZDck10X3R0SHN5Q1JHMTJJNV8zU3loX08wdVlyWVY1Z3BZaWk2SXJOUDI2cnBBV0xyWXlHRjktU1BhVW45bkRNWUdS?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDVWQ3k1ZnRLVzA1T3VYTmxPTWhWcXc3YnJSbkJYQ0ZCd01JUzJOZWZzMllra1pOeEU5Vzl0NGM5cVpSRUh2NHBxQ0YxbHBvOVVuY3FESWlOaU1HRXBwUWxIT0RuVHZibWhKczk1Y2VCb21pMlhBWWRKaHJkU2thYjBES0RlS0Vhb0xiSmViUU5oWVhja3ZiSTVCSWVIQkdyN0RCSnVHUnRQb3hzd3JuVG9GVjBEZE5RZE5ZNnVONDg5dW9zVTdZUw?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR2ljb3FEQWlBZ1NYWjV3TU5oX2tqUk9sYVJQVlItd3pjNjBUMmZYMjFsRFFhZ2NWUnRQMlV6Q3FTdU5FQTRMRnZtMFJfT3pQZDFmMDJSREppakJTTmVuV2FzWmtWQnphODA2ak9wN2U5a19IMXF4Tlk0bDRmNS1ta0VqbG5hNDBSa29hZl93ei1PaGJvMnZ0eTJGTDE4SUxDSWRhU2ZKc0tHNTNYTnoxQ1RzRWxDaVJhbGxVRFpDWGNNb2xQcExPTUNQRHN3czBHMTFvVXNR?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Aaj Tak और Jagran शामिल हैं।",
-      "image": "images/13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "1-2-3-km-etv-bharat",
-      "headline": "सावधान! पटना में दोपहर 1 से 2 बजे के बीच बजेगा सायरन, घबराएं नहीं.. 3 KM तक सुनाई देगी आवाज - ETV Bharat",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTRZRUdHd3lOY3RUb21kZnkwT0diYUllbkxRaGNTR3VvN2lac2xYckxyRzBHWDByb1VpT05ndWJ4V0g2akxYWUhZcUJMNTBKa2NnajgydDBCZmJlZ2d0Ty1uSzJzWUpIbUxDNUVoVzNaSkpsVXZ6dzVaYlQ5MUt2MGdvR1lFWkE4SEZ0bkd0Sm5yVUZ1S0hMaWYzekRYbmx6MW1yeVVn?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVh1a0llZTFEOUVQazJaMkx0d2Zuem9jYkNiaDJ3NHQyNTh1TmZvYnNGUk1RZ0YzSjZDVWFHREZpT2daSmNaQXlNYXU0aHhoMlg1UkFPMjJqV18wV25POHoxeG9mRFpIamx2UFAwbFhrUjhyeDhNR05oX1lKekM5VG56VlVCZHoxeXhvU1NNU09HTWZqVGs1cnFSazNPMThvNy1EejBRV1N4VHN2Q01ZWkxRdmxtLUNVSTE4UmdpbmFYMUFHVTJTY0RrM3RERnoxOUHSAdcBQVVfeXFMTmliSVNZdlp6MzFMLVlYdEhKb0tjSURRc1BPeFlYam9qNmd1TFk3UUZXLVQ5M0RJWDUxU2VlaEdDSWFjeHZkb2FjQXN5dlJYSTh6TWxsVWp5Vkw4NzZ0b290NU5lR3dmSTFSLTVuNjh0Z3UwVEN1ZzQxSUphaERVZjFHdURXVjQ2VUVNSTVtQjF5MmZ3OEsxR1h0R191QXFyR1lkM0kzUlhWTWFnQXprRDFwd1Z0WEVLX19YWTBDUlY1V2EzOVdhX21PRjJ0WnJ4Vmt4UVRwWFU?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "सावधान! पटना में दोपहर 1 से 2 बजे के बीच बजेगा सायरन, घबराएं नहीं.. 3 KM तक सुनाई देगी आवाज। इसे Jagran और ETV Bharat ने रिपोर्ट किया है।",
-      "image": "images/1-2-3-km-etv-bharat.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "theprint-hindi",
-      "headline": "पटना में मंगलवार को आपातकालीन सायरन का परीक्षण किया जाएगा - ThePrint Hindi",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXlWQnc4QnFTRUN5eEVqMWNSemlwZFRydDF2cDhQTTlZbFhmVzFJX2U3ZFFnVkxvVkNRYU5wVWZ1c2VYOXgtLUVuenc4ODNfN1kxNXpqYU96aDhqTV9BYS1heV9WMzV6bEYtcE8zSm4xVWNqbk9fQldoNjUwaUV3cHV2RmoyN3drTm05aE1Hbm9oNmcxeVREN2NhSk1DcjZlSHI4?oc=5"
-        },
-        {
-          "outlet": "ThePrint Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHhibmtrd3JyZzBHZ3JzWmhYX29qZ0JSbGxmV2czWmJycWg5dUV1RGR4YTBpRERMSW5DUGNyeU1qQVdDLTgzVTZNRXdUcnV1RGxlM2FiaVVTWVIyTThQNU1DUy1pMGNhak4wWC13UnhSOTIyc1FSSEpQd2NBbDRnUkt6eHZ2NjBrY21jSVNKX0tzNGPSAZgBQVVfeXFMT2l2MUFrX2stazd4U29HSm5obUlyWUw1cF9aQzVlWDNtYUlYZUNtcjFsYU05OGhHMHZIcDFFaUpNTDVlcnFmT3BDOWUwRjRPZkUteUtqZk0xLVhhbEl5d1Q5VlhyT2IxdVdHRVl2Tnc5S1ZvdXRyMko1NGk1T3ZiQW5kYVNfbzBkOUQ1Sy16ZzctQXBsVnpCMkU?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में मंगलवार को आपातकालीन सायरन का परीक्षण किया जाएगा। इसे Prabhat Khabar और ThePrint Hindi ने रिपोर्ट किया है।",
-      "image": "images/theprint-hindi.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "19-4-prabhat-khabar",
-      "headline": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "weather"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzhhbmpabVU0aVVrZVU1ZVEzT2syTklBSEZZWjc0cjlVZkJjT0ttX1JqblRmenBuQ0poN2lDTjBScWpOaUNsd25qSVF6MUx0akRWVEJkM3pnTVdxQlpKVXgtWXJoTHBkVVkwSWJWSEFtenIyZGxHLU1yNjVyQnpGbTEzRFYxZElRUnpPemhYb0hSUFdROXBGM1JlTXRoOVpXcXdVU1FUdDRvZHJ0T3VB?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPWEYwSzJ6eDh2QzBiSGQxazc0cVpvTVZNREkyWHV1NWlmQ1U4Z2NKanVBSkQ1VGlhSHRMb3RGMU9tR2x5UW9LTXRIWU5NeDVpU1ljLW92TU0tclZjVmlsZ2JQSVp3VjE0YlFsVU1tdjdfX3U2N1BEejNzWG5mVEs4dHhYSWEwRTdBYlZkSXVFZGNuTFUtVXFwUTNhY0RPVVZFSWNZd29QYUxaLTl4ZVdfT3hGNEh1eUVBb0NrYl9lN1pjTjUtd0NtdVBrYkluTDJiODdzOHROZ3UxZ3ZOTlhDT3Q3X0pxd0dtcGlKbjhTTXhKVWhCTWp0NXYxdHdpX2FpcDFnOUw4QnFOdEEwV1VIQVVocHJsdzdfRUM5dVB4WUpnckpvaVdEV3V2d2VCTWFwbDBRMDBaVFpYc3FYSk00SFY4UVd3d9IBywJBVV95cUxOam9SaTFLdjJxZXN2TVNleUl4Um1CUE1pT0pXb0VGZUlfNTNfaS1lOHVha2VaRW56b2c0Ny1GTm1ENTEwNkhvcldDRDhMeHNibnlKZjVIeGloUGg3ejRlZGx2WGw5alFldUJnRVFINHViRm1aeGl4M0VXU2ZSdE9xLTEzSnFURnZVTlRtdlBkS1g2LXNUWTZ1NEw1SUZmSDlaeXc4VzA1VWpreWJ3d2lFZjR1M3otV0F5Y3lMSHNJNWNrNnQwYjc0RUZIVjhLaUpZWnp1ZWF1Q0owbWhQMlB0ekYwZ1REMTZhNHFYdmVDMGJQb1lsYWR4Y1JYbjJURUdYb2dEblJkaTMtaElXMms3WU5BUWxvNlBYSWZZWDVWdXZxUlE2VzFjaGhzdkZERlZmZG5waHhCRHJ3TTY1cm5EcVpzcnBDWExiRHNV?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल। मौसम से जुड़ी ख़बर। इसे Prabhat Khabar और News18 Hindi ने रिपोर्ट किया है।",
-      "image": "images/19-4-prabhat-khabar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "22-112-amar-ujala",
-      "headline": "बिहार: गया-पटना एनएच-22 पर दर्दनाक हादसा, डिवाइडर से टकराई बाइक; डायल 112 के एएसआई सुनील चौधरी की मौत - Amar Ujala",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1RMYkJUU01veTZoS20tVXl3dmEydW1nNXY2MmVZMWNyTjBrdXBKelAtVVNlR3NRSkRRQ1dQRlZzUTM1NmxLbmdRcHNTaVBKbVFUR3VSLTA3MVF4V0xRQWlmYUJVRkd4RXd6cnZjRUxCbXBINTcwUV9vSzU4a0VpSExPWU83dFc5RExFbHZrTy1fT2NkcDdsYkI4Tl9CYXNueEJtdDln?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb1cyZTRuZzZHWHQ0czYyamxnd1NQRmRjOGJPOGFweXNMTDd1ZURNRThRSDlfa0RJQThiWTNraTVvWjNCMThWam9RbUtydVpkcFFncXdQQlc4WjRlLU9HSDRFcjJDZGRXWWpxS3ktLWl2cl8yb3dYYk9uallYbjh4cmRYZnVjZVkzMXVNazlUSjJYaXNGb2o4UzAzNFN0a1R5RTRUN2dBa01HWlRZUWJr0gG0AUFVX3lxTE1oeF9lSzUwb19yNUVHNHJmYjZyc2g5R19pQmp6MzFmN1VhVFJQWFh5blZkTlVTTDB3UmdfUFhPUnBWZjlkQmxVeWxhZlVTenBObTJUWDZUbFp2MFVGOHNhM1RPZEY2ZGluQnBTMW9OOTBpaVA0ZkNWcmZ4X1ZRVmE1dUZHLXpKZE1kaGNXb2Q2ZDFSMG1sTzNxV1Q4RzBJb0hRSDVCSUtlNVVhclhpejNUNTdvNA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बिहार: गया-पटना एनएच-22 पर दर्दनाक हादसा, डिवाइडर से टकराई बाइक; डायल 112 के एएसआई सुनील चौधरी की मौत। इसे Jagran और Amar Ujala ने रिपोर्ट किया है।",
-      "image": "images/22-112-amar-ujala.jpg",
       "image_kind": "photo"
     },
     {
@@ -569,217 +162,36 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-suspends-7-engineers-over-flood-response-lapses-gandak",
-      "headline": "Bihar suspends 7 engineers over flood response lapses, Gandak level recedes - India Today",
+      "id": "bihar-police-job-aspirants-march-in-patna-seek-withdrawal-of",
+      "headline": "Bihar police job aspirants march in Patna, seek withdrawal of exam cancellation | India News - Hindustan Times",
       "summary": "",
       "date": "2026-10-05",
       "topics": [
-        "civic"
+        "crime",
+        "education"
       ],
       "sources": [
         {
-          "outlet": "The Times of India",
+          "outlet": "CNBC TV18",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW14Y0hzTVJuVnY0VkJERkg0bFgxOWZJVmFKQy1hbG9WZVpVYWxKRW9TQnlQYi1vM2FPZy1mbEZJdk1BQW9NNzhTSjNRamxKeGRTSmdya05ybHdzWHp0MzA4a25ob3RUdzRNT3VZa1RVOVhmLUlpeTQyaGJwYTV2ZFEwcl9fMjR3TUJTQ2ZaYVJ3eHdlY3RDdGFneVdpSlJMR05QSmk2WXIyNlpBZHRJcDRXbVRYZTNuNGfSAb8BQVVfeXFMTmhpY2NNVmRsOXhjR24wYmhpdThDcWZ1VUlfTEpBQnMwenhGWUtFcHBuX2NvdkFIU1BwX29FRXprRGVvdkkxUGNkMlhTSG16UWEyUVFhVGJOQWxPeUZ1d1JMWjA4RnladHNQN1RMVnBEcS1FbkpKUm1ENW5YM250WjY1M1RYTS04NGZTVGdEdVRKSmE1S25DdXhTbkFhV2RIMUtpbl9qZ3hTbnZJYi1DdHV3U0tUN0o4elhzVDdKclU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkxWbnhWV3N3dkZWUnpMbU5ZNFdmMXcyQ0F2NTlVcm80blBPX09ieTE2cTBmUnUwMlFDc1pGaVdQQlQwd0xPa0k5cTh2azRuT1BFbDRvUnRpNzNJNnYtenhHZjBlYlh3a2FOZGw4Tk8zakRQS3NRMzRQOE8xR3M3cThfMTVCLTE5b25JS09DNzhOVF9FOFhKR3ZqNF9WTjM5cTNrR3RIS24xTDdUSkFPWkJMVE9GU0HSAbwBQVVfeXFMTlE5SU9BbTZiRk1tWmdGSFg5VHFrNkJDa2JlWVVKWEJDQWl1LW5Ra0VYTzhaYkpSaWg0X2NrMU5nZHNQUjRZSnlmeDU0NkJGLXM0c0Z4LU5jZzR5Qy1KTGN0TVFyczg4UVY2UVZab3VYQmFqWk83QjJCdDZPUVA1QWpsbjlXRDl2VkFtLUFUQnY3QzBudGxzZm5TMGI2NXpaNk91azVDNmY0cGRodjRQajlRN2ZyTzAxRy1talA?oc=5"
         },
         {
-          "outlet": "The Times of India",
+          "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXNESHJ4Y1luTW1NVmpLRy1uN0FjeEdReEcxRlQ1VGZ4V2x0RnJ3RXpMNTNOWGRLVVVQQXJzcS1pdUxXRGNlbnJDQzVORDladkE1Ymt5TDdIUEF5UlJ6UUEwZF9obnZidlNwcGtIb01vTUN3eFZ6RUpHQW8zcWRnUmswYmllb3ptVHlVZXpSRS1QbURCcEJHRmFpdUh6dG9jRVY3WU9jREZObnBQTXpN0gG0AUFVX3lxTE94a0YwVW83TGNnREl4a0pTVDBsLUZxdHc2VThrdG01THFZTUlkcjFhQ1A1QmRQZVNKbDJ6eWZtQnJ4WHhmS3k0bVpUMHpVdXc2ZEJtTDFEYzRHdXlOVmdXMHo2aDFvcUNYUm5QNWFXRUFrck1VcE90U0RjQUJrYkY1czdwYmgzZFFUZzNrYXB6Q3dlSnJOOWtDRDQ5QXBkT21sUkZYM3gtRlFpVmpfSnl3cDNaVg?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzlveDdRaWxqakRpRUdFVW44U3hnMGx5ZlUwNExMLVFRSWZaVDJXdmV3M0hmZ09RS0JBUU9iSnVNbmcwN2lFeVlSUGhrQ0ZQMUU1a3h5VHNiZ1FocFRfNVFaVDc2V3JDaFZCMHBiR3N2dmc2bldreFcxNFJMLWNwUGNrM2RCeHNzaGJqejdxU3o4SkRxUWJocXBSeEdrd3llaURjNjktLVF3UjBHSzZuWW1GN29NdFFmTnpaT0NsUUQ3N2Jtenlz0gHMAUFVX3lxTE1mN1N5T2FGSlZ4eUNiLTlLM0NoLWpXV2NmZFpFQmRZSHdpUmRqUEVuam9IUld3TFRmbGh5MXBVOUtSMGppY2pQS2JTTVFjRlZjWHhBNEJtRzJ0b015dDJIOG9aZkJwRnVvTFNGTlBRdzJ0dGwxOThrQmJlZFI3VWI0c3FXUzVSU1lUU2N3YUxneFN0MExoNzRvUWc0cXUybWpEbzg5Tlk0N05nbXR4WWJFUG9rMXJVZDRVanNPN0hhWUpnSlpSenBaYi1BQg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDNxaFlQbzVycXJMZmpOYzJ3VllZMTR1elhoWmNPMktPRHRVZ3RZY3lTS3Fkc24yWHJ4RnBOM3NjZmJPYXlTdXp3c0NudDYtQTR2dEE0M0NFU0oxcmlwd2xsSC1NdXBGeTNDTWJlTHFmMGgwWHVUMHI2NmpvaE16SjFsc1dlVUdEbnlreHNvckpGLUVaRkpHR214NE4wZ3NnRjFNaHAtN3pnQ0HSAbABQVVfeXFMTXRxc0N2bng1QndGd0RtOURKRG5QazZjd0JKTWVKZ0dUSFdrYmlZVnRfMEx5amIyS0M2NDB4a1phQ3M1d050NlB0MFAtdzZvRExCU1JGd3hOTV9TZXFUWmxsRVJUWlFHdkhNU1BFTGktVGJYU19DVU1zR2F6cjk0ejZFSWx4S2ltaWtxX0o4bkJldzZlaTF4Q25SUnIwUHgzZ0EtcldKaGZXbC1VTTI1VlE?oc=5"
         },
         {
           "outlet": "Hindustan Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUEk2X1Q5TUlEbGVvNFRzN2x6NlJQXzF4NjJyT194ZUFqNG1nMktyWnVrNm44M1Z4N1NCQUVFRlkzWVdwOTY5eUVWYlIzMkwzbEt1eVZaZVNnQnc3aGVBWEo0UXZuM3dJTlJfRnhtSkpMdjU4V0lsdTY2UXl6NnpMcmd0blIyalNwYlNZLWFkUzBqTHExR3p5MDkwQkZnVTDSAaQBQVVfeXFMT19tTlVRNE42VU5CQlk1cUFBczd4d3JTZXR2SWpfQXNrSXkxWmVoNFB3OU5jSUZSVlVvR1R5Z0ZpMW8weHF3QzllTnkzLUVYelJLd1pFRXBfWEVsaTU2S1FCelpRXzJheXNGVHFabVlaWTZ5RDdjbkhVaUh6VkRMZ2VtcGhpQ1VsMDk2TDBZZFQ2OGh5d0tTdjRrYTBwTU9Ra0M3M0Q?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWVmaEJFZDdoUXpvMEFmaTZsZXlGWXNtRF8xMWNMMVREeGtLSkdKRnZNRFl5U1dTNlhUWnhwUlh1dHVmRjNVSDJ1bkFqdl9iZkRCU3FYSWo2Zlpaa2dlMFA5elZPSExhTVY4dDlDOUJaUHhkTHRMZHUweW5kT3RWcGZadm1ZWmJfXzI0OEtMY3pJQjR0WlRqdWFMTEpoQlhtWjUyYmc0RWJmdmpkTU9tYno4cml3VVpsTFl1TktzenM0blZfRWJwY2NUZnpLNEFRbTRvMDVnc9IB1wFBVV95cUxNYWVmaEJFZDdoUXpvMEFmaTZsZXlGWXNtRF8xMWNMMVREeGtLSkdKRnZNRFl5U1dTNlhUWnhwUlh1dHVmRjNVSDJ1bkFqdl9iZkRCU3FYSWo2Zlpaa2dlMFA5elZPSExhTVY4dDlDOUJaUHhkTHRMZHUweW5kT3RWcGZadm1ZWmJfXzI0OEtMY3pJQjR0WlRqdWFMTEpoQlhtWjUyYmc0RWJmdmpkTU9tYno4cml3VVpsTFl1TktzenM0blZfRWJwY2NUZnpLNEFRbTRvMDVncw?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3RlOVVaRXZ2aE1TSnpWQnlOMkpiTmRWMlNlTGs3aXBuS0NBRHdyV1l1R3A5U19BdGdtWjRoSzQwcjlGYWNlYmRTSmN4WHNTNXdSa3Z3bHJhdFd3SC1XXzJ5NXV6aWtELTRCR2hJTUp4LXd3VTBpOG5SYjRjbElzNVRVajVrdEF2bWMtMzhwTWJZb1gxRkZJSzdERktSOFJvQWZhN1lrdHZCcVVBQkhCTFdSaE9zZ9IBuwFBVV95cUxNN3ZWTlBDeXplY0N4N0JvLVdGYU4xRlZLczZRVW9FMnFRTTFEN2VEa3Y1TVRqM1JIVVdHUTFEWVhrODRMblVSNDh0TWVsYUhodlc4RGE5RkpuRlFYZUhrX09HcXJZVXJ1UWFMblBUMm9sUnZYSTdpVzdWX0RYd2JEdGZPSFp0TXBXamFyVC05dENGbldKM1ZKd2JHQVJ4LV9vX2FRc0lRbnZZaUx0ZHhkUFZDcFhxM0pPS1E4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNclVvWXRPaE5zcmpDeGgtOWlxNlJaVXNMcVdnZFhRVzRYdHFYVVh3RGJQWEh0M3BveXYzdjBtQ0tCX3BtU1lqbmZ3Vm1sZEotMjRXNG5hVGtVc2lpLU9GN2VOR3piYnQ2NzhQbDRUT3BZWFNGbXc5OFotNWNld01pdGt6bFpRMWEzclhPWTl4RXB6M1hIWnVydzNvM2FLdk9jcTE2NDVPang4OXRPSzZSNFF5Z0dCeDlOUm5ocVNXNjBDY082Q2pJS3NaczhHdzFycmo0b1dEYWfSAd4BQVVfeXFMTmVfblIxQzZ4V1RvTlNPWTdZSGI3X1Vfc0xTTWU1WmFKczc2SkJlWlphcnB4d0lBZjhPTzNLRnk5dHFfNFlBQ1J6bFRVNXBQeHBzN3l6WWQzMEV2UmtRYkNGUTVfcDRKbHRXaF9tRHkwVDRIYVhxQ1JkNEJXQ0cwWkpNZTN2ejdHaVVaMHZIN0ZVcC1MRnFLbDc5QTc0aWIzY2VQY0lZSUs2aW9NeUpRMTR5cFpqY3gyUXl0dHdkcjY3M1NFUmQ0bHlNdVMyY3B3MFN6OHh1Nzl6Q2I3UTRR?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar suspends 7 engineers over flood response lapses, Gandak level recedes. A civic-infrastructure story. Covered by 3 outlets, including The Times of India and Hindustan Times.",
-      "image": "images/bihar-suspends-7-engineers-over-flood-response-lapses-gandak.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-man-watched-drishyam-3-travelled-2-000-km-to-kill-fath",
-      "headline": "Bihar man watched Drishyam 3, travelled 2,000 km to kill father. One call exposed him - India Today",
-      "summary": "",
-      "date": "2026-10-05",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2RjUDBXOVV5czZfUzJHTWZxS19sRTVvbGRBb3RyOTUzNl8xa3hFcEZ0VTM1RWJfUjEyNkcybDl4TFFXTDRFWHFrVFliZ1ItdVJOMjM5Q1h4WE1lRnBQbTFZLUFoVUE2bFRZc2NtNGdlVzBSUFM4Z0lmMHhoaGdXUWNWbmRSTXNOdi1pZTE0dHFjZnplMGdzd1ZjamRKaHN0TG1BTEtYTUJieFIxUEdRNFNNbUV1anNlSTJIcFZFODM2LUxVeHJMTV9NQ0FxbWpxd1JIV3RB0gHbAUFVX3lxTE50UGJZRnU1SlNJUXQ5VjcyMlhkRk5hZkY2Nk5ESGs3aTJEVVhjTTRRWHlIR1gtekRYckdKR2dRLTZVamlMTkNUc0NicXl0bC02TmhZcHcyWnQtblFFNXpXMmV5YXVQa3NKVFZlTE1sdENaWHp5VXNjWmk4dlhocDZQNGdsTGVHcnRXbmRLVXZXczE5ZDUzMkpXWXAxTXY0UkhvRkZnUElwMkRyZElweURJVkRfVU1QLW1oQ1RGVW8tVW5vVEx2Um5tUFNDTWFYWEtsbFJ2WU1DSFo3RQ?oc=5"
-        },
-        {
-          "outlet": "Gulf News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcl9SU1VUMGRNdk80RXY2d1ZBOEUxalVRa253V042a183cTJ2VVBlbm5PQ21sUFNxVHRJcFNQNmE5b3dDNl9uY1dSNTRMVGNfQTh6V3R5T3RzcTlGMzFjWlUzakpPMktzZHNKM2I4NHJjaExwVFpnZ05QalJLRGJYYnVmVk9LS3JMajVCSlVNTlhFZ3Jpdnd2aFljLWZudFFpVk0zMVdFaENCdmVyLThONlhZM3pYeEJ3OHhRdWpOY0QyM1ZxZW51dFdGNVDSAeIBQVVfeXFMUF92RzhfYUtHWVU4ZDdUaDRXc1FxU1d5bTNIWERDMFdfTGdQTFhVbUIwb1ZBbGE2QTY3UGVDTjdOS2RYYmhtTU85eDFSbVN4UFJjQ19fLXlJekZPbEhkZlAyNXluSzYtQlY4ZHhOeFVHN3Y4Y2hUdGd4NFZzR25GVm9CUFVNcEJ2Y2o5S1pxd0xOQ0RKM05BOTlnLTM4bUtMS1FUS21qNTdPaGdpUVlJQ0hGWVRnRHBSRjQxXzRKTHRUekFCcG5RdWdqc1JaRFVzdDMwZWwyMGNWbVhldE9EaFl2QQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar man watched Drishyam 3, travelled 2,000 km to kill father. One call exposed him. Covered by India Today and Gulf News.",
-      "image": "images/bihar-man-watched-drishyam-3-travelled-2-000-km-to-kill-fath.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "22-telangana-pilgrims-injured-as-bus-hits-truck-in-bihar-s-b",
-      "headline": "22 Telangana Pilgrims Injured as Bus Hits Truck in Bihar's Buxar - Deccan Chronicle",
-      "summary": "",
-      "date": "2026-10-05",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Deccan Chronicle",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHdXUGJWRzk3TzJaY2Q4cktuTlctSmRyU04wNm9uMmhEeWhyTFJqWEExQk9pM2J5VG1ISl9MbE42eDVuZUUwdy16QUJ5eWlQMnd0aTJsbzBLX2RpY0M2cWpHSWlLT3kydzVNUFJ3RktmZjVsN0JOa05teDUtQk0tTzBVWkZneUJqM2hpLWtzYXRxdm5STEhmUF9rOGZrR19aRFNFdDhqc0dJNzM0dzhUX2ZoaFREQV9MTFZfOFI2c3R3bGxzOURfNtIBzgFBVV95cUxOXzl2d1pWVGVmZ1BuN2lKUV82SDd5ZW9hR0JJbEFOOUxoSjVXcW8tQWRVcEJqRWt4bDBDeGFnVW9OcE5tbVdKZ3JpcnJSdGEyeWJGTm4yMVMtSE81b2pOWl94cGVuU1k1UXNfVnU5a1lmNnM2amtZWGVGZkM3RjgzOUhIZUc1V1dSdnVMSmlHTktiX19hT2hCV3dZNXpkNzRBVWtwd3owcWNiazJtMzF5QmR6eTJQZ0VoZFE4NVRUbTFBUWlNbDBicW8xbTM4Zw?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEduSmo1d0ZFczBCZURDT1c3VTB0cWF1cnRPbzBKdDVXMklBTV9CODlhYkoyVDA0c0h2WWcydTVpRGNIM0p0QWd5ZGk3X1JHeDE5cktQQU05ak04R2xRejdqWWdMbG93a3EzdFhvajlJS09wbmgtUzVHTXVoQzNWbG1JajhuREQyU0ZvWEdtaUd1YnJqS3FIeGtnZlhNRm_SAaQBQVVfeXFMT3J4RUFqWElwaFk5Zmowa3BPRFdDSEZheE81VExEblFza1RoYkM2b1BZNC1uSmpQVEpiMWtWb0s3NkJTMjhmZGZTaU8wRzBETGlyVndSOGxLVzRmT0c3Mm04Ri1VY0lwdkNyN3h3c1AyWnBkdUNRd2JUVWhkT0lrWUUyZVhUMUVVSHozMk9QQkZFWGVkLVByNkxQZTlhN2Jfd19yeUQ?oc=5"
-        },
-        {
-          "outlet": "siasat.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX2loZUdrZFF2Zm5TMnlNcWMyajllTkR3VGJNWkpqbFoxeUYtcF9oZnBwdFNSUTV5NXg2d3JvQ2c5Wm1mN1kwcWdZczd2ZHpfQUFEV0ZyTTJRSG9Rdy1OQ2xfTkhqYmFYTk5nTFZ4M1dZOVBXY0dLckYycktROGpNUHlHcU5aWXdpaGpuQ1JmTXRtMjZqVmZVSThCb9IBoAFBVV95cUxOdXByMFBleHQ3RXZVMTZvV2NwNHY0NXJidEowajJSQkNfVWh0V2RlYlZaM1VNVHlsdnkwZWpxaEhQUmZSUG16dmdOX1ZwdGVUSzZydS1EX1hqTGxYSmlRWDFZeU8taHo2cUJRaERKN2pqajMwdVRNaHNPZkU0Wmx6aGowNjNpUFhWSWpuZFdlZVN1ZFlsUXFueTdnZ3RwMmhI?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "22 Telangana Pilgrims Injured as Bus Hits Truck in Bihar's Buxar. Covered by 3 outlets, including Deccan Chronicle and ThePrint.",
-      "image": "images/22-telangana-pilgrims-injured-as-bus-hits-truck-in-bihar-s-b.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "2-held-in-assam-for-alleged-pakistan-espionage-second-bihar-",
-      "headline": "2 Held In Assam For Alleged Pakistan Espionage | Second Bihar Man Arrested, Army Angle| News18 - News18",
-      "summary": "",
-      "date": "2026-10-05",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "newslivetv.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0lmVHBhM2NJZDJaVzNHMTJSbDEzcUpzd2tVRUJLckRnTlMwX1EwLUQ1dTN0YWhlall3VEhaeHg5d01NWVFaRXlBWWJ5bHpWbXpVbGpvR1FuT291anR3LVpkdm9mM2tiUXYySzExbFJadUw1cXdVUTN5c0d1ZWxnWVVPU2JQTDZGb1hZ?oc=5"
-        },
-        {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM0FxWm5EcUZrTWRJMkpQaW9FQ2NYVERlMEtoaXppTVBHZ0ZmWGd0b3hnWkx4V2hIaU10b2ZlTXlUVE5rTlRVUWhwUDduaW9oUTRWV29XVjJnZXZYNHBzcTNJNjlTeU1RWU5aLU54bk8xY1Y3bXFJY1B1OXNsMWRMbFlBUl9PSDc0ekI0eVM1bnNjX1ItQjlIZTdpUDRYeWx3ejdZS0pvUFZYREQ1WXhENlhQLUVELXllTnF6Q0Y2eVF1eTJ6RWQ2aDh5N050Mlg2ek8yQ3pIRjdtV1lGUUZQRTB30gHnAUFVX3lxTE5VaXMwSUJaUi1rMDNVZGJZSmRRSEdQSzdNWmZkaklwZXVaUkdvS25jZjJfN2YtUHBqRDVRQ2JNbmk5T0o4anRPbWVaTnZ1NWJLZzNBLXNTMlZQSkJKd2c0MU9CaGY5b1RGQzNGZmZUaDJDZnk3eEowQ0hBZ0dPTEtLbkFEMG1rSW5PT2ZjODlnQk0xVUloZmFma21Fd3djelZ1Wk12dDB2ZFdBamoydGo3YjlTX294VlBrX2dQeWI3NzJnZ045ZmpBR2FGMGZPblNNcUhMS180SnBZWlR0Y2ZUb0NoRUYtMA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "2 Held In Assam For Alleged Pakistan Espionage. A crime-related story. Covered by newslivetv.com and News18.",
-      "image": "images/2-held-in-assam-for-alleged-pakistan-espionage-second-bihar-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-sir-row-intensifies-as-tejashwi-yadav-targets-cec-anno",
-      "headline": "Bihar SIR row intensifies as Tejashwi Yadav targets CEC, announces state-wide protests - The Statesman",
-      "summary": "",
-      "date": "2026-10-05",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "The Statesman",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTWd5emc0d05GYjhGUjFDc0dpUUJlX3NBRThQbWR0WXU4cEpkS1VLOUFiR29CbllLeEE1VFVJN0owWDRLTmEyYjlzS0pxLVhFeFRsMlkxOXFQSm1TTEM3bmlvYmpWWTREb1d5VWw5ZW9BcVItdlI2UUpaTFBpUTlocUdKdFM5YUhObzhkRGFBRVZudHBKdUg0aWNURW00SXVxRjhNdkRxbWg4QWNXMEhWNFR4dUdUem1CUEUwc3RFZjNoZkRQZlZMYUJCbWNZMDBQNHfSAdcBQVVfeXFMUFFXOWFBSm05Qmh5bXlYNVNSWDh1dDJKZ0RZOXNSbzdrNllZVUdVN0ZjWXpzcF9wQ05zV0VIX0R5TUUxSENXQXVzaVViOExsQmhTWERNdmhtdmhLYVV4VU52emNvdXVLcTE3eTFuNTdsUURSRDNwU1phcVl5a3RjLXduWHJ1NEJQeVdZTk5TQVYxMzJXRjN2SUNMN1FSSlN1RFU4d2ZiczRGNXpFd2hxb1lSTElNZXNpM05rY29PeDZaM1d6MDB3SWQ2dDQzd3FqOVJYVFcyUGM?oc=5"
-        },
-        {
-          "outlet": "newsable.asianetnews.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZXdMMkRRc3NiMnRHNGlvLWZIVTltRUxzUFZjMFNjcTF5QjBtRnd2bXRVTGZ2WlFLNVMxUzNiZmdTUXA5aEZIcExaTG1PVkk1Vnh6S0NZWXhzTURkeGFUSnoxbEFrTVNSSFNWNnNSVUJCNUtfRVo2c1VwWDlOeUxJVlpHb09RZldObWd6cUNuaU04dkdqbmV0TXJ6SkxJRXVFekhsUnFydzY3YVB2ZG9udmpQMXhIck51X1FBMzdSLW9Md3ItcVZrVdIBzgFBVV95cUxOWGxoUWFxUDE4MWtzeU1Qb1hSbmFaRWxWVmlKUWo3NWprNHdjLVctVzhpblJsOFhWT2ZzR0hIVl90eDJNOEN3NWFsNC0wWGd2c1ltM242RW43R05Ga2dpR2JrWWVCaVJQWF9xM0RfWExKSFhwNWZ5QkdyNWdRSEtlU19SbEJNTUptWlR5Wm1VcGJ1UmtXT19rcFljUWFobEFFUXMxbURaU09jV1RxLURGTGxMLVpqUXVCMGxVSVF2R2dLVEpsVWRpMjN0R0J5UQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar SIR row intensifies as Tejashwi Yadav targets CEC, announces state-wide protests. A politics-related story. Covered by The Statesman and newsable.asianetnews.com.",
-      "image": "images/bihar-sir-row-intensifies-as-tejashwi-yadav-targets-cec-anno.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "lawyer-shot-dead-in-broad-daylight-in-bihar-s-katihar-attack",
-      "headline": "Lawyer Shot Dead In Broad Daylight In Bihar’s Katihar; Attackers Walk Away Calmly (WATCH) - newsable.asianetnews.com",
-      "summary": "",
-      "date": "2026-10-05",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYWZaUlB1MDE4WXZmTTZPLXo5NURzemd1ZFFDalY4TENRMFJoTGotYUpLOXdIOVVZanpmekt6ZF9lVnNMT29vNWFwQVRNdm54RzB2b1J6T0htVmttZUpUYXVxTEEydkZEdVE0SkFZWWR0RUh0QTlwQ2d3cERhcUZRVTY0QXVNbmhBT1p2cm9zVDM4UdIBlwFBVV95cUxQWkxMZDFjS09uVndUdlFEbWljYkpuSEhJNy0yamNoZUxsTllBa3F0eDVZRk1NeHhTengzd3JlVS1SMU1wRS1FTDgwX2lMZ2ozeXl2XzV1YUJUWEdaMzllVHhiNi1CNmlXQXl4Vk5FUThueGktWDNPMXNEeGIzdkgxaDhkT1JGSE95X2hDMlo2dmVSM3JDbmFn?oc=5"
-        },
-        {
-          "outlet": "newsable.asianetnews.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOG1LVkcwNzEycXdUcjBpWERPOC0xcHVMYlBHaUtlSzREdWkyZ2hocmRaMGRCUmN4WndTYUFLMlZzWGh2NzBhdEhRblh0TngyVi16V0QzQXhxT2ZUbWtCcnB2MjNEOHVpOG5Gem5iMU5HYXBZSVhpeW9ONVVhX3pZeDk4dmVSd3RyZVBENG5kRUwwSmVDZkprcFVpZWgwWlNtOG1GWU03TzZ4dHZacURLR1dvaTF0d2dCV2VlZFB1TkpqWGEzaG1ZOTMxWk4tRDJwc0NmZE1n0gHbAUFVX3lxTE9XMmplcnVtaXFneHVvbzlldExBNXlOblB3SFFLTnRYU0lLakxPU2hNVmRKOEdra3FnRktFWUFkaFRRRFpMQlV5N2hudTZrQjBySFkyZnd1OTJOTmhDUmpQLXk3VFhOTS04M004RzR5U0ZPSGhJZW4xYzJlOTJoQVNJekxNYmdyWk4tYnhaaW1BYy1NNkNrZ0RJaEVoWExWbDRBY2RxLWo1ZGN6eGc5SFZqLVl4eUxmWWZzTE93Y0VnckdweEEtUERxSGxOQzItTXNzWVRXblV0X3pRMA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Lawyer Shot Dead In Broad Daylight In Bihar’s Katihar; Attackers Walk Away Calmly (WATCH) - newsable.asianetnews.com. Covered by ThePrint and newsable.asianetnews.com.",
-      "image": "images/lawyer-shot-dead-in-broad-daylight-in-bihar-s-katihar-attack.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "dainik-bhaskar",
-      "headline": "पटना- दरोगा अभ्यर्थियों पर पुलिस ने भांजी लाठियां: एग्जाम रद्द के विरोध में प्रदर्शन; छात्र बोले- हम भी वर्... - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-05",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlJ5XzJnem5FYjlEM1BhZ2V2YVhvNlNFbnBHQ3hHLUc0bHVlQmpoVFdpNUtNQ2UzaGJtUlVkdnY1ay0zOWoxNjZVWFNGRERPMTdENVNMZS1sQmJwNWdLNlExWThGeUlnTzBzQkx4RUdWUkQxalhMMExlZzlUajNCY2paTXJrTklEVUkwUkRJekpmRDR6RjRJOEQ3cE5IZnQ4ZFFMYjVacUNEZ3lXS2dITW16Y1BHWV9aWVV0eGRxQUk4Y0xneFl0X1l2VdIB0AFBVV95cUxOX2Q0YmtOU3duMkI4elFSSG5zeVBVZDZiVUE0ZXVnVHdYc25tNVdRNDh3c1BrNDNDc21rdnpqVXdYQlJueGFWelA4bHNsd25GN1l0QUdwQnJ2c29pMDV3SlF4a2U2YjhLWnVMNzdwYXJZQkVYQmVzc24xSWttdzkwbEo0SXV1a0Y3Um4yWk90RE9XYUp2TmN3bFRNZXU3UTNnWDVTYmNqS3Fmai1pZHg4bG5nTzVkVjJyMEZSV0NDQ0l5SGV4aGVpMEdCSVB3MGdF?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUG5sWlZiX1RfSVF6Y2lQT2xjYWtSSzVNbWxGZUF0cG1xbnJEV204cVNzQUEyZXh2NjJiWFJXRVFjYy1EbDYwTmszcDVaRkVmMWVPZ1JNQ3pOVkFNaHRNcGxqZVNSYmQzSlR3bk5uaXVGclVWSHdtNUVaM2FOVi1oYkg5elNPUDJ4Sk1IeFZpbmhuOVBpNU1aUU5DYzNTMUR5NGxCclVSb3hYQUlkMTU2N2RIMlNQalAtd09lX2V0ZzVjUWtfQU9vY2JB0gHPAUFVX3lxTFBnbjFsa1pRUmI3TVN5QmQ5eGxMbUpKdHpGblJ5bUNEcXFQT1hvVlBwTl9PZEFHMm1sbVJFdzBsSTNBd04yUzNRZEJBRTZ5eGg3d2o4Q0Y5ckxwc214ZWNVRGVkaklRaVVFVWtMRXk0czREM3ZCTHZKTi1ubU5NUHRvY09PLU9maHRacHF2U3BsTG1meWtvcHpma0JOUkFRdkIwRm5kc1NmNVpjb2ZTZzlJZkhpUmpjODlyQ29RT3FCd0pvRlNpMHR6c1J6TnR5Yw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना- दरोगा अभ्यर्थियों पर पुलिस ने भांजी लाठियां: एग्जाम रद्द के विरोध में प्रदर्शन; छात्र बोले- हम भी वर्... इसे Hindustan और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/dainik-bhaskar.jpg",
+      "brief": "Bihar police job aspirants march in Patna, seek withdrawal of exam cancellation. A crime-related story. Covered by 3 outlets, including CNBC TV18 and ThePrint.",
+      "image": "images/bihar-police-job-aspirants-march-in-patna-seek-withdrawal-of.jpg",
       "image_kind": "photo"
     },
     {
@@ -820,35 +232,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "man-dies-after-relief-packet-dropped-from-helicopter-falls-o",
-      "headline": "Man dies after relief packet dropped from helicopter falls on his head in Bihar’s Saran - The Hindu",
-      "summary": "",
-      "date": "2026-10-04",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTlXdVVudmRBYkhOdEZJZThEVl9aV2xnWkdCSlVHTTl3M1Bpa3FTS3JEejJINlVZeUtrWXZNMEJVaWx6Nmt4Y2Vqb3FjS2lET3VrRjBESS1vV2UtVU1OV0ZaWGUwSlRwNXU5UHBERFZPQU5PVkZCbGMxMnpiRUU1a1lYSlhsLUlDOFBUWTFvSGxGTDdHMEdRMXo4Z1VlMTdoclRnbldnM0RWUHdUVE1rN094WVLSAbwBQVVfeXFMTkRoMHNMYlBDZ2NJeUNvRlVCbWlEakxfdGt5Rmo3VXZHcl9URndzdEVmdXptU0dSQjA3Y01DbDZ3dGtCXzFSd0dPeThDUGV4eTRudmZUSGs0T3UyT05Jc091VF83aGdyT1kybGI5U3ZPZVBMdTlGdkFkMjF0MTJOS2s0RWlGUlFzOHBrV21XWVhtb1FtaEdXQklHdnpOOVhLeFpiajJjamNIQ1lFMkx1cTZ5UkdjS0o4VlJxYzQ?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTktZTUI1N181eWhpRnZicEtTaVBVbllqYnIzdGtRc3BTVVppODJxTjJMdE9LQ21NWVpZOHlRdkhPOEJRNUI4N3pSdHdrWHBRbHBIVW5TTVIzWHhYOFZJZGxnMGxhUnA2LURxQ1poUUZ0aG5IV3ZIYW1yLXFwUXRRd1FzazNiTmJLbnlLdTd5MXVrWFJFdktVODJUTklNNklzbFl2YTNseWJLVDNEMzl5LW9xc3pUQXlRWWVrcnZTZjdxWDZUd2RPaFVpYThsbUNNcEczcm1qNDQ2amUxdER6azh2MUpXQdIB7AFBVV95cUxOSEJGeWNWMHczb0JTU1Vvb3JkWk10Uk1hSjZCaXJjVE51SE9IOGQtUmNMODZMdkxVaU5wenpzQnR5dDNGb0JKN3h0R3YwUFpBLU1hWWRVVXYzdGtibGsyNDlIeExjRDRfVEJTZjVYOEtkd3RnSVBXWXNpRnZOSVRnUlNvajlFM0VOYkh4VXlLa1BLbFJfUVE4SU52NVAydlNZUzlWeDVNdlVhejFZRjZ4OHZYMF82VThUNWxXTThya2o0VjliN2pEbjRDOFFWbFN5OXRtSlA0N3VETGd5X0NIakFURjdEaUxiRmxCXw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Man dies after relief packet dropped from helicopter falls on his head in Bihar’s Saran. A civic-infrastructure story. Covered by NDTV and The Hindu.",
-      "image": "images/man-dies-after-relief-packet-dropped-from-helicopter-falls-o.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "yami-gautam-dhar-seeks-divine-blessings-at-patna-sahib-ahead",
-      "headline": "Yami Gautam Dhar Seeks Divine Blessings at Patna Sahib Ahead of ‘Nayyi Navelli’ Release - INDIA New England News",
+      "id": "yami-gautam-visits-patna-sahib-for-nayyi-navelli-blessings-t",
+      "headline": "Yami Gautam visits Patna Sahib for Nayyi Navelli blessings | Tap to know more | Inshorts - Inshorts",
       "summary": "",
       "date": "2026-10-03",
       "topics": [
@@ -864,18 +249,13 @@
           "outlet": "Inshorts",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVXNBRk8xdi0wSTI1eWZsWkd5bzRHWkJuUnlhRmsxeklnTjF3M2NfZTBsVEdORlI2TTRRTlhfejdFMzFUOXFGOXV4TlJlU3UxTjIyUXFkNDBDTWdGMUtZVno5ZDdiTHBvQlUwRm5mTGF5OEFfc0RHTXBNZFM1a0hWQXZsRnR6WEwwWVlTbWFaSWJ6RGR4Y0FvQW9WNU54RVV3Vm9N0gGoAUFVX3lxTE9kS1ptXzNGbDJSa2lHem0zNjFPc01iMTBLeV9KNHUwSHJQOV9rRnZJT2lnVG1WU3JGZE5sdEtSVmxLb2dVSV96bFZjN1AyZTNpY3g3VDd5QnROVXB0OVh5dWxNS2kwdFQxNjhzRS01Ql9NMkRlYW0tdnZrVzNxYy1CWHlkSXpkZE5CaU1fWXBEQWdjWFg0S21hTzRnQmd4LW8zOVVTbHM5WQ?oc=5"
-        },
-        {
-          "outlet": "INDIA New England News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODI3Q2hWZFFpcmM2R1Zsb0Q0bURIU2dQZ1ZaTjlxZzF5SHVkZ3ktTGx3VnVtaWo3R2ppNFRlVkh4eldDR294NDVvcXpINXg0UnlySGhDcmNwSVhKV1psZzZRX1lfVWpKTXR0Mm13V3FWbUtwZE93QTFRSk9ibGl1V1hxT2g2Vl9SbjZiVFZ2dG5OdEYwc0xnZ2tTMTgxYlNzYWlUaV9KUWZmVE5ycndTNVNBYmQ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Yami Gautam Dhar Seeks Divine Blessings at Patna Sahib Ahead of ‘Nayyi Navelli’ Release. Covered by 3 outlets, including NDTV and Inshorts.",
-      "image": "images/yami-gautam-dhar-seeks-divine-blessings-at-patna-sahib-ahead.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Yami Gautam visits Patna Sahib for Nayyi Navelli blessings | Tap to know more. Covered by NDTV and Inshorts.",
+      "image": "images/yami-gautam-visits-patna-sahib-for-nayyi-navelli-blessings-t.jpg",
       "image_kind": "photo"
     },
     {
@@ -933,8 +313,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "sc-grants-eight-weeks-to-bihar-to-remove-encroachments-from-",
-      "headline": "SC grants eight weeks to Bihar to remove encroachments from Ganga flood plains in Patna - Telangana Today",
+      "id": "sc-gives-bihar-govt-8-weeks-to-clear-ganga-floodplain-encroa",
+      "headline": "SC gives Bihar govt 8 weeks to clear Ganga floodplain encroachments in Patna - timesofindia.indiatimes.com",
       "summary": "",
       "date": "2026-10-02",
       "topics": [
@@ -947,21 +327,16 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0tLMTdyQTktVUUwa09oeHFWcHRmVV9xcjBwMHhkMU1rRTdSMWoyTDBSNTRHWVJsVFZGYzJieFZ5S2dzRFhjY0wyZ0RodGJ2WlJVWEFmYVpjUWFwbFdNRE1wVFNXWjhfZm5LN0FrRXk1Z3FCZ3pLcDZqUkYxMTJFTHROWmwwNWU5N0tqVDNLYWtVcTdTRVZTcHRycW1ZS1ZXWlczQWN2WGk4SjdxNEllQ3d2bXRwRVJZd2FHcHVsN3phNm5kRXfSAdMBQVVfeXFMT0g2WUY0NWFSOWlPZXJJUV9NMTFiaWlWNjlMai01Mk5lMmFuUkFxUTM0ZUdjMmZPX2pMTV94LVNxOElqeERhXzNXWk1FX2ZUQTU1bnB5NFJ6VXRiVWN1aldTcWRnN0JWNE05c0EtTkFNUG9LZE9XOTRZcFJWOFhrLTZWRDNicHRxeXRLR0dfRzFMejExUEVBYl9xNk8xYVpOU3N1Z29fRkpXUG40MU92VG4zeGRoRUphbTR1bTFQU3JCMW8xMW95eDBFQl9hMGJpUTFINA?oc=5"
         },
         {
-          "outlet": "The Times of India",
+          "outlet": "timesofindia.indiatimes.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORHV5R1Nndl9PV0ItUUQ1bFYzLS1mUmsyYUk5RERBcC1jS3lxRmFDclBWMmFEbnlyc0dSMkh3S1ZRUi1SX0U1d3ZTaHh2WXNwUkxUbFBaUThlZHBIa29vd1Z5NnBmOGJ4RUhNbmw1Y2Y4MllHbEJ4ZENuR3BUMHllWWlpVUFjQlBtZ3dtZHB1N2FVVDlKbTdoaFc0WEZncXBhRHQxWnFaSVJIWTBHaDhyZkFxQVplRzNPSGtsUnN0TTRPb2lRYl9ZdGVlWC1aUFp2Z2txT3Y1aUczOHgyMVRaZ3BOVdIB6AFBVV95cUxNQWpBaXkzMmZOYmxyN3Rrall1SHZrTFF5UzZ2YzY3Zm1CTTR5ZkVEdmdwU2h4dVA3Z0xSVVJNWGxlQlZ3X1VMVWJxbUJWaEctY3FLNk1udUY5SjBmX2xYeC1SUTdHT2k0blZXNUtIQkxJMFZna2pHY0hZTFN2Zk9Zamx3dl8wSzQ2VWlUaU95elVEU19kTUdVdGs3U3VtWTM5a1dmTmRFdDZHYU9ick9PSlRnQ1AzQm1OTkJfbExjOTJIWmhWV2d2WGtFSFF3Wi13TnBfZUlEa1ZFSTNudS16YjVxZWd0YlVW?oc=5"
-        },
-        {
-          "outlet": "Telangana Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVQxRkNVekpSLW5UamVxNENMYkxEaHVVYTd5WU5EY1YwRkxaVG1HcUE1WU9KcjI4aUktcHNURkJ5TEJkYjBZaEx0WEtUb0QzalNmc0NlUlhXNXF4N3BIMnFBMWU5QklrSGM4X3RWaGpHNE1QLUVIaVNhM24xYlZReG1CRmExSlFXX0VmWlJQb1AyM203Y3l6UnlxNWZLeGdtYjNyYmFNdWt5UnJWa1d2eEUwdHA?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "SC grants eight weeks to Bihar to remove encroachments from Ganga flood plains in Patna. A civic-infrastructure story. Covered by 3 outlets, including The New Indian Express and The Times of India.",
-      "image": "images/sc-grants-eight-weeks-to-bihar-to-remove-encroachments-from-.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "SC gives Bihar govt 8 weeks to clear Ganga floodplain encroachments in Patna - timesofindia.indiatimes.com. A civic-infrastructure story. Covered by The New Indian Express and timesofindia.indiatimes.com.",
+      "image": "images/sc-gives-bihar-govt-8-weeks-to-clear-ganga-floodplain-encroa.jpg",
       "image_kind": "photo"
     },
     {
