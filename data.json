@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-10-07 13:54 UTC",
-  "generated_at_ist": "07 Oct 2026, 07:24 PM IST",
-  "story_count": 52,
+  "generated_at": "2026-10-07 14:36 UTC",
+  "generated_at_ist": "07 Oct 2026, 08:06 PM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "winds-of-change-prashant-kishor-predicts-jan-suraaj-s-patna-",
-      "headline": "Winds of change: Prashant Kishor predicts Jan Suraaj's Patna win in Bihar council polls - India Today",
+      "id": "bihar-mlc-polls-prashant-kishor-claims-jsp-will-win-patna-gr",
+      "headline": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats - The New Indian Express",
       "summary": "",
       "date": "2026-10-07",
       "topics": [
-        "politics"
+        "politics",
+        "education"
       ],
       "sources": [
         {
@@ -19,17 +20,22 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVFYd19CZmFiWDVsWTZkSjBSLU1WX3lHN2M1eUgtOW9aM29qeUJWTldyb3FaSm1PWm5pU2JqZzgwd2JodUJZSU82QVdrNXRQQ0tTYnhEVkxHclRBcGkyNjZ1TVBwUzVzSXpYd3l3RmtqeE5ILUpBeW5MdFpxaHhQV2lDc21NVVRqOVYxMUJfQVBUUDNfaTkzZC1WSktpM19EbURMYtIBqgFBVV95cUxNeU1lbVQybXZmd3BsYUJ2Sy1XQzc0WXIwelhIZDk3Qm1kR2ZJMGhENVhpYmtNMnR0SGtlMkRrMGJqb0JOZm9JUndYc0JfZzlWQkNSa0hOZ1RDT1JCRE5hNnUwSzd0WFZaN3EyTjVUNGQyS05Bb2c1UVlNTkk5UFhRX1Bjd1NUcnhpdEJQWE9mVnI1WXBzTDBkRFA1Z2pqdnlkWFQ4SWVjQW8xUQ?oc=5"
         },
         {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFFJMS1fMGVMcWRWc09lUElrN0ZYRHRNTDVnZVhoYkZQZS1pdXNMdVhDN2JabG0wZEVmejB4WDkxWWR4UnRtanByVGE2dDlWaUFrMUo1Z3RGZHJyQjZxb0ppc0tHZUFiR1oxc2l1c2trT1lIR1M5dUtJTHp4VW1iY2g3VEdRYllKaHRGdUU2TTJWdEJkd3N2RzMyaE8tV2I2N29ROXZIcmNaSGRvcDh5VVBTVXBteEtsdlJka05UdzNNNUtNcnIxQVFvbzhZTVJWRjJ1NWtPc9IB5AFBVV95cUxQaXNjT2JYOXpocUs0TlY3MXdka2VIQnRTdGk4emVOdk8zN01TZExSOXFWUkF3aUZXeVU3U2EwM1VZZGExcVo5bkY3ZVY1UWpvVjcwQXpRTDBteWVENThxZkp5NGhmQUpyd0QydDF6bEJ0T281NFNtcm9xSGVHVGgtYmNUSmxOeVdQWi1Vb3RWWWpsSnY5cW9Qc0s5TXZOZVlLbU5qSk9xQmF5dHZHN0tXcDFrXzBXaXE5TGhtZlI4c2Y2U0NfZzNuOFZaamFyZnhITUdlVW0wN1QzOGl3cnpwajV5Yy0?oc=5"
+        },
+        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVWVHRmRLenlIM01qQ1BxZC1YRUpEMGNBRjQwWEoyVml5QkpJTWM5Q2NSWXpQdk1mWTRKOFEybmpMTEhLdE8xMkEyVzFzSm92bjA5VFU5VWtSM3VRcnVKbFhhUEFwbFQ3Zml0RXNRRGRrSDdUaEtwQWtibmZtVVhVclktQjZKeFFaSmJkWjBReFFXaUhrSHB2dDdmWXRpeWNJZXZheGlBLTdGZ2RhcTU2eHluTHNPb0EybW0tS3BGbUk2ODRJMWFPQmtFbzdSOGc1eGMwWWhLN0dORVRrSTZSdXlJcndfZmVhX2dJ0gHwAUFVX3lxTE5FdThWTnRPOG5lNkVMWjBOZ0hOM2dqM3BpYlhmdWN4UWZxWW5kYWZCOGdlZHc1Q0cxd2FBQUhqRzM3bWhrYUV4ZmJvWnM2TW1KMXVQN2MwZzM4THNETzZxRlF0YlNmalR0Ym9xd1VMWGZjUTIybkgyTV84SFNocDJiOGw5bklSMTRvaTQ5Y0lMNGd5WjNTOVg5OGF4RDNjVEl6QUk4eTIySDRBRUI5R0dIRzcyTUJBNmZwS1RNTVg2UFN5VE8xM3pRRmVkcGJkVHVjQTc4U09rVVRTdzJGNXhvSndhTXRZeGFhOHRWdC0zaw?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Winds of change: Prashant Kishor predicts Jan Suraaj's Patna win in Bihar council polls. A politics-related story. Covered by ThePrint and India Today.",
-      "image": "images/winds-of-change-prashant-kishor-predicts-jan-suraaj-s-patna-.jpg",
-      "image_kind": "photo"
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats. A politics-related story. Covered by 3 outlets, including ThePrint and The New Indian Express.",
+      "image": "images/bihar-mlc-polls-prashant-kishor-claims-jsp-will-win-patna-gr.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "cbi-files-closure-report-in-pocso-court-over-death-of-17-yr-",
@@ -105,14 +111,14 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3lndnp1YUJYbVcxbHo3TW5kQ2VQSnhRc2ZpZEpqYXVJZnlKdjhfaVlUcGppOWVlNmdwN1YwbXlLMmtnREFLUGRlY0dtMGc0em1BZldMTnI3X0ZWQkdHVVhlclduMDNOcksxdE15NDVkeTJmRExxVVNMcHkwQUFqVWhSbWE0OVVHaUozZHlnVmNRclVzYUNmWDVLcHVXNUU1OEx0bVJIOWplc2lzU2JsM0VuRWtUSXJUSUZKRGZ5YTcwYmY4TVJfQtIB0AFBVV95cUxQUVdzUHNndV9NMXh6cWU3UUxUMk9mOEE0dDJGbThpZDZ1QTZ6dmxBR0xfWkJRRF9wZmItVXN6MERqcldnT0FJZUNmbWd2OFEydjNWNFM4MjlFaUxTUkJLbnV6VzRqck1fcGQ2Qk0xV09SYmtWNkY2UmlLSW1kNUZSUjNJb2NzTXI1TFlZWW1RNmJJTzNSaHluZl8tVDYxdVgzT3FlZ3lISzFVZHJYREpjc3Q5Ml81dU5FcVJWem5SOWU5c3NQajB3ZVN6OEtwd0Zq?oc=5"
         },
         {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQelRaWjl3QUVJT2QtUHBHeE5vMHJuOTBZb29GX1ZnSWV6WjR5MTlGZmV1bjV0eUU2a3Y4aXZpWTIxTHQxbWhFTS1SeEg2cHhvVFFpTmMxUXlmOC0tQWpYcG11ZXlwSFVxVUpYT01wMkNoeDZKNDdDSDNvR3NzSjR0UkhOT2R0dHAyb2h5Nnhucjlwb2FiME5wdlNYYUZXYzhHWEdIVXIwaGNyVGR4dWJYc0dGeWVaV0U4MlZkM3lQWWk5ejF0bVVPYmk5LV9Mek1qaDg4V2xabTBMWVJVdlU4NmtPZDYybGM5MmJBeHI2M1kwVjRGdnNwWi10WlXSAfwBQVVfeXFMUHpUWlo5d0FFSU9kLVBwR3hObzBybjkwWW9vRl9WZ0llelo0eTE5RmZldW41dHlFNmt2OGl2aVkyMUx0MW1oRU0tUnhINnB4b1RRaU5jMVF5ZjgtLUFqWHBtdWV5cEhVcVVKWE9NcDJDaHg2SjQ3Q0gzb0dzc0o0dFJITk9kdHRwMm9oeTZ4bnI5cG9hYjBOcHZTWGFGV2M4R1hHSFVyMGhjclRkeHViWHNHRnllWldFODJWZDN5UFlpOXoxdG1VT2JpOS1fTHpNamg4OFdsWm0wTFlSVXZVODZrT2Q2MmxjOTJiQXhyNjNZMFY0RnZzcFotdFpV?oc=5"
-        },
-        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlpweXpNZk92dVhaMTc1endyZzNRTmpfV1JDQWJQTHltZ1k1LUg3dGNnSXkySGdWNjI0ODZtakdaNm10NFBVWW0yS1VuM0xtMnBVMU5VR3ROejlBLXZncF9QRzZzVzliX0pRYjRDZ0sxRnlzeHQtOW1TanY0Rk1RbG96YTJmT19jc2lMTEZSVFZKdEN2cDctOG5vM3BIc3lReXgxWXRTdlRtV2JwMVN5MUJ6QlZ3bHJDUENRcjhURmtDVWs5R1hjSTQ5QXJyc1NfMHI1b0w2WWJFcXZQdXlFcHpiXzjSAeoBQVVfeXFMUHVBc0VrTUhzOWlSbnZKWUpyTnd6eWVZakdQYWVsOFV1MjFpUGpOdl8yOC1ScUpJOGNyOFNCWTFlSndZN0ZCZmotU2dvRnJCd0d2ZFphVW9JczJrS0kwOTNMckNiVEFWUTlwRkVmOWhlNEt1VU12XzFzLWtOSzM4eDlOR1gyZmxaekZraXVtSk05bWZ5OGRQQURWa2UtakhUSHNnM3BDR29SMWFULUdyUTd5RExic1RQWmx3SVFPQk92TGhwQzVWbThnUi1RbzE0LW9DekNkSVI5SHc5dmhCWks1Y0lHMmhMVXVB?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOEZXNHQ0dlprSjBxUXhPek5mRWd1Z3dwV2lRY0ZOU2Q0TXVzN3R5TWQ0SmZVZ3YzNkJmQTQ3NUR4emV4TFRkeUpwZlJqbzBnRzNqUEJyQXVJQXRFTVJoVUJDRi1QUFZaWGdfRkZDZFRDQk5fc3ZhUUowRm1wX05OS0s1clhRN1QwS3V4UVJGVzlNcnptMzdUb1J1RmROaVV1dHZJR3JjbUFtOExiXzR1MzJHU0RTbWllOFJxU3RlUUZNX3JwN0s1T2lSZ0VZQlptSXN1Y1o2Qkg4R1Izd3BMdUJkNFRpWVVLbU5DN3M3QTRpWXhlcG9v0gH8AUFVX3lxTFB6VFpaOXdBRUlPZC1QcEd4Tm8wcm45MFlvb0ZfVmdJZXpaNHkxOUZmZXVuNXR5RTZrdjhpdmlZMjFMdDFtaEVNLVJ4SDZweG9UUWlOYzFReWY4LS1BalhwbXVleXBIVXFVSlhPTXAyQ2h4Nko0N0NIM29Hc3NKNHRSSE5PZHR0cDJvaHk2eG5yOXBvYWIwTnB2U1hhRldjOEdYR0hVcjBoY3JUZHh1YlhzR0Z5ZVpXRTgyVmQzeVBZaTl6MXRtVU9iaTktX0x6TWpoODhXbFptMExZUlV2VTg2a09kNjJsYzkyYkF4cjYzWTBWNEZ2c3BaLXRaVQ?oc=5"
         },
         {
           "outlet": "The Economic Times",
@@ -128,14 +134,51 @@
           "outlet": "Udayavani",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTUh1LTRaQmMtaWZreW9qUXdRWDdIXzR2b2c4ZmNaRWlqcUp4Ml9CaElSc0VXYThpaDFMSlhUeXlmY3JfTFJaVlBmeTEwdGVjLWdVMWJPaHRPNXhSZnViWnl0NlhLc1BoT1dRZkxxLWxsTDBNbjlQWlJxLW1QVTZUalVYMHRNdXJFSlJBVTF0aWlNVkczcUcwbFo2MENmc2dCaVVRTXE2cmRCUDBNN3E5MlFXMlJmNUY3UFpldVNFRlpmS1cyNVE?oc=5"
+        },
+        {
+          "outlet": "NDTV Profit",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWpaNTFqTUV6M2EwcnlfSU0yczVEaEVKZG14NC0xRkVrVXhUbFpqLU5zd3hweENqU21hRFJoRDFIT0o5ODNoVVZTZnIxYlQ0SEI3UUR5YnRpYUVrVGN5YXJ0bWprdTdnTl9oaVcxMlNiYzBqNC0xQXB1cE5HZEJ0blhhUEJ5LXFmTjJXek9oeWhBOUgtTDhkWDRKb1ZaRUFhR2J6NHVXaEE3a1h3Wk1ZNy01eVRmcGZpMEtkUmV5NWtnQdIBygFBVV95cUxOX2YzR04tZXhEeUVGamJSQ0hMMG5ZZnoxbzJRTGgwZ0N0VnBrV0NGZmE0dG4zc05pa1l4RjgxeWZRSUNEWkw1YTZPVmVuRUc1STY3VmlLd3R5UlBtM3M2WXdXN2hneWVTeW5VY2pXQzRnenFWeUo0TUdjWHJidkw5ZVRSdV9wZEtBY1F5SEprN1A0ZE5zZ0Z4ekh3LThaVFczYTNUS193VDZnMXZIY2w0YnEwUGlBOUVnaVNnWE90YzBKZXlTMXg3Sm9n?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQelRaWjl3QUVJT2QtUHBHeE5vMHJuOTBZb29GX1ZnSWV6WjR5MTlGZmV1bjV0eUU2a3Y4aXZpWTIxTHQxbWhFTS1SeEg2cHhvVFFpTmMxUXlmOC0tQWpYcG11ZXlwSFVxVUpYT01wMkNoeDZKNDdDSDNvR3NzSjR0UkhOT2R0dHAyb2h5Nnhucjlwb2FiME5wdlNYYUZXYzhHWEdIVXIwaGNyVGR4dWJYc0dGeWVaV0U4MlZkM3lQWWk5ejF0bVVPYmk5LV9Mek1qaDg4V2xabTBMWVJVdlU4NmtPZDYybGM5MmJBeHI2M1kwVjRGdnNwWi10WlXSAfwBQVVfeXFMUHpUWlo5d0FFSU9kLVBwR3hObzBybjkwWW9vRl9WZ0llelo0eTE5RmZldW41dHlFNmt2OGl2aVkyMUx0MW1oRU0tUnhINnB4b1RRaU5jMVF5ZjgtLUFqWHBtdWV5cEhVcVVKWE9NcDJDaHg2SjQ3Q0gzb0dzc0o0dFJITk9kdHRwMm9oeTZ4bnI5cG9hYjBOcHZTWGFGV2M4R1hHSFVyMGhjclRkeHViWHNHRnllWldFODJWZDN5UFlpOXoxdG1VT2JpOS1fTHpNamg4OFdsWm0wTFlSVXZVODZrT2Q2MmxjOTJiQXhyNjNZMFY0RnZzcFotdFpV?oc=5"
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records. Covered by 7 outlets, including The Times of India and NDTV.",
+      "brief": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records. Covered by 8 outlets, including The Times of India and NDTV.",
       "image": "images/meet-shubham-kumar-19-year-old-bihar-engineering-student-rea.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "bpsc-bihar-tre-4-0-recruitment-2026-vacancies-increased-by-9",
+      "headline": "BPSC Bihar TRE 4.0 recruitment 2026: Vacancies increased by 932, total posts now 33,320 - The Times of India",
+      "summary": "",
+      "date": "2026-10-07",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRy00alBWM2Q5cXRsdS1lZ1RIaFM4dndOOW5TTEJBOVAzSG1YckhXQk8wZVhwUXl1TzV3RnRjTE9KbE5vNUFCbmxybUxnNEdpN3Z0RVZrUHhYN1RWWVpaa1B6WTNkaDJiaUpXUTIxR3IxSUhDTjRQVDV3YVo5eVBZdlRZcDZ4R21UMDdLckVLWl9vUGdzZG9kLW8xN2taeWFQOG9KcDRrbW03ZnpfUm5yamVaMnVsV195RUJGcmdQTGRiUE0wWjg3Y2h3Z1N3eU1ZekRURkNrSGRnT2NxVGNtR2pmbXNjakt0VXE1Tld6dlVKYkHSAfgBQVVfeXFMUExiQjVmcF9UdUVHZHdmZ2lZSm1CX3lfb0RnbFZNQWYtSkJHc0FTOFlkWUs5S09reFAycTRGOGFrYlRhVnhhSHVjSW9jd2JKb1FVWTI3TmVES3dXUmdwSWFkSUFTcTdUWGhFQlNTZW1ma3BLUjhzN1otbVB4UDJEbXdrd2p6YzJXVDdkZDQxcWtRSG9ETUR0RkhEWEZ1WURJb00tb2N2bWxVajJrQXVNVG9iTHUyWDlpcVVtLXBxci1ldzJBVHpVanhmY05BOVM2bmpuVVpKMHh4UGJ3ZHpRQ0JzTVM0NFlUSFRfZVVxVFFTNzF0SVdqN1M?oc=5"
+        },
+        {
+          "outlet": "Business Standard",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNODVSTkwxWXRpaUNmcGNNcGdwNHhZOGRvWTFCeWhDZ3ZlSkppNlptSEhkYjJ3R0tHZDlPblU0M0pDX1N6bWE4Tk90cWxtMVlZSlRMZWVMUzBRazNKWHVEMG8zSU44LUlOMDlWM2dZZkw1ei13NDhNMk8xalVXMnh6WFJvX080S1RfWnZkaGh4dFhBX2MweTZ6SG1FUk5sU2hJanVBQjQwMkc0TFpEUWNQZVlwaUtVbnhPVHY5VTY4alBHMVdpM3BYbzFYUWh5ZG5CRWxRdzlnaTfSAd4BQVVfeXFMUEo4YTRVNmRKdGRkZDBWZE9FbDFZLU9KS3ZvZGEtRWo2VEJyYjR1VEJOQVVkVTdLd0hLTGNKd2JaVzRRUGdKRG1waDByU3dNbzFVeFlCTkhtVElueTc1YzI2SlJpa1B5clllUi13a0k5NFh2U2ZubzQxYUJiZXVGeDdwSnRyYW5CTWVNbm9LaFB2ZC1YRHF1eFowYlhKcHhCdWEzcThVdDZkNG1WN2ZVNVJyclNmUktFWTRGblVVSTd4MW5OTk5ZQ1RiSEV0aEc5Rl82WWtSV2pJTGFYYmN3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "BPSC Bihar TRE 4.0 recruitment 2026: Vacancies increased by 932, total posts now 33,320. An education-related story. Covered by The Times of India and Business Standard.",
+      "image": "images/bpsc-bihar-tre-4-0-recruitment-2026-vacancies-increased-by-9.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "ranji-trophy-ashutosh-aman-named-bihar-s-new-head-coach-gani",
@@ -165,8 +208,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "32-passengers-safely-evacuated-after-delhi-bihar-bus-catches",
-      "headline": "32 Passengers Safely Evacuated After Delhi-Bihar Bus Catches Fire In Greater Noida | Videos - Hindustan Times",
+      "id": "greater-noida-bus-fire-bihar-bound-bus-gutted-in-knowledge-p",
+      "headline": "Greater Noida bus fire: Bihar-bound bus gutted in Knowledge Park, all passengers safely evacuated - Moneycontrol.com",
       "summary": "",
       "date": "2026-10-07",
       "topics": [
@@ -174,31 +217,31 @@
       ],
       "sources": [
         {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb0NWWVVSUVVLWmVaVDlUa3JzSEhBSklHZFNsY3dKMkpnZDRZVjRENXJkd1QzRm9PMTVSVXNJcll2QWFTTUpqRFNUQ0paTWlsQ2FWYWg4UGZkaFdiY3ZRaklLYm5fbW9oTC11UV9pLUcwVnlHS3B3ZVBkNXZzUEpyaTBIa2hPZnZnZ1MyM0ZtWmNBbG83bG45bXJ6cUJCdWcxNlowSFdmTlpnMjdqYW1wR0NJLXB4Nnc2WVFkZWZmTzJZaUV6TFdubtIBzgFBVV95cUxNNzVuWkN1c2NER0tOSTliUkhxcUF0R3M1OWI5Q1Jnc25URjB0aklCWGhGU0FyX0tXdk9pX0RycEp0VklEc09QV2poa0Q0bVJIbTFLQ1dIWEFSUkJGMmNDODlOazBzTlhlcC1HZkZoVHBzcHRTdHBkSFVneU9PZnpUUXI1aVBEWGhyTDBSTWJRX3gteDMzTy05UzNHNEF4SjJjeHBtSTZtcGUwZmJ3YzVBdGFLdDFkLUl4WVlkR1NsQkY1ZGt3ckl1MXpRTjZ4UQ?oc=5"
-        },
-        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUi1PcnloeF84SjAyX3NPbnprN2ZQeU00cU1FSy1GWkJCSklzMVVpZkZacnZmcnVudk1SYy1qUDZJNG8wWDhqQ2NodURGUTN3Zi1wN18zRVpJb1RYTDNYWmd0VWI2dEhxS1lMMG9ocnJ3Zk1HcFdoWHZQLXFWMk9uLXMzaG9OQWlWd1MwM2xlSi1LMFc2X3A0TUVQY3ZVSE54Q2R0R1M3N3BOZ1o3cVVHZmZuMGpLOE5iVkZ6enotWGRYUHlkMklzNFR0dUNKQzkwMGxxbC1FU3TSAd4BQVVfeXFMUGI4OVV3R3ZuM19jVzdDZlNZSmdtQTVBLW9hSFMzTmF3d09za0U5ekVBWENqWHA5LUZoN2FmR0lpdHhQNWFUc2QxMnFoTFk2Zk13ZUFPa2lEWFJFQmVDQm5VNE9Qa3JVU1JNaW13YTktTUZqOXRKV2UyV213RWxPZXc0dWZnY2N0UFF1bF9tbjQwdE5NZldDR01GazJaajJuSk13ekpKcWtBVXNmWEd4Mk9KN2ZBSlFtaWF2aUtTbkFNRGZLajE3Y3VxS1Z2ZzRDRm9JSGh1ME5BUjBaUUZn?oc=5"
         },
         {
-          "outlet": "Public TV English",
+          "outlet": "Moneycontrol.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHZMOWJET01EVm9PU1ZtWXJQY1Mwa1JtM2FLR2FpOXVyNFNzaVMxVjJBUjVQY2lzWkkyM0hCUTNUU0ZnQWRUc3BJblhyTzdodVoyMm5ONk5fSG1CeXc0eDdET18tbjBBd0JEbkxfek9ZVU5jc1JpeF9fR2JPZm4wQzZIaHNxYm15ejJhVm5WcENJcFVYRzlZZXlEajNWM0VfcEFqUm43SjNtQTVzeWRFT1VuX2Q?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY2k4VDBkSGlxcnphSG5FMXBYT0JCRFBZRjlQNlA0c2MtSVNZdWRWckhicTZuTWU5U1ZrVVZEOXNnSFM2S05NdTJ3YkFZZjFoalZmdXRTM0ZNS1ktUjkyOUJqMDBWOWUteGJ0eFNXay0yVTVreDRIbjF0QVlORVhGUEJWRU53WS1SUW41U0NCU212XzZsTC1HVWc4Nm02U2NGeEZLSndOZ2doMTkzU3hhc3VsRlZCT1JzVjI4UTZfNkEyci1zbFJvZG9GQ05Hc25nUVAzbHh3SXkyb0RZYUdxbjljendDd9IB6wFBVV95cUxOeXd5bFVPMVpPenp5SnUySGxxUDdSdk9BWHd2bktGWlVyTnc4S3oyRGpPMjZ3dFUtS0tFS1d6LVZlbmpBVEhoLTJXeThBSXBOeWdJTUtULTBhZmhFRTF0ZkhIX2pRRXZaWVV0LUl6Rlh4eGlqQTh3TmpadW5JUGFtVWY0cnpBbFV0YVo5ZEdMMkJsNWc0elNmb3pVZmVZY1lraXZVNVdKektrZGhRLVhac0Jza1hmTHpCY040V2FrQ0VMcm5kcHhweDVuU3RmY19FOTVXQzl1QlBucXBjMGNHMkV1NG4tV2dsb2xz?oc=5"
         },
         {
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa29NcUZSSjdjZDgzVDhyUE92Vmg3eXlhbVYtX0VlWDBUSHVvT1Zkems2dHZFRUFNcEhQcHNrVWpaanNCMlBRdW5udXdHM1AyTHpQRDZlR1RSOXcwX1BKVFlfQ2Y2RHJJX0JQVEJ4Z05kLU15YjRnMjBPb1FsMjJtdEQ2VHJXMmVoQ0VINkRUTk1zQ1dMVXp4NVMzeUxMT01uQk95M1phX2phd3ktcDAwQ0Izcno?oc=5"
+        },
+        {
+          "outlet": "Public TV English",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHZMOWJET01EVm9PU1ZtWXJQY1Mwa1JtM2FLR2FpOXVyNFNzaVMxVjJBUjVQY2lzWkkyM0hCUTNUU0ZnQWRUc3BJblhyTzdodVoyMm5ONk5fSG1CeXc0eDdET18tbjBBd0JEbkxfek9ZVU5jc1JpeF9fR2JPZm4wQzZIaHNxYm15ejJhVm5WcENJcFVYRzlZZXlEajNWM0VfcEFqUm43SjNtQTVzeWRFT1VuX2Q?oc=5"
         }
       ],
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "32 Passengers Safely Evacuated After Delhi-Bihar Bus Catches Fire In Greater Noida. A crime-related story. Covered by 4 outlets, including The Economic Times and Hindustan Times.",
-      "image": "images/32-passengers-safely-evacuated-after-delhi-bihar-bus-catches.jpg",
+      "brief": "Greater Noida bus fire: Bihar-bound bus gutted in Knowledge Park, all passengers safely evacuated. A crime-related story. Covered by 4 outlets, including Hindustan Times and Moneycontrol.com.",
+      "image": "images/greater-noida-bus-fire-bihar-bound-bus-gutted-in-knowledge-p.jpg",
       "image_kind": "photo"
     },
     {
@@ -287,8 +330,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "cbi-jagran",
-      "headline": "पटना के हॉस्टल में नीट छात्रा की मौत मामले में CBI को नहीं मिले सबूत, पोक्सो कोर्ट में दाखिल की क्लोजर रिपोर्ट - Jagran",
+      "id": "neet-cbi-navbharat-times",
+      "headline": "पटना NEET छात्रा मौत मामले में दोषी को नहीं खोज पाई CBI, दाखिल की क्लोजर रिपोर्ट, जानिए केस में कब क्या हुआ - Navbharat Times",
       "summary": "",
       "date": "2026-10-07",
       "topics": [
@@ -304,13 +347,18 @@
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVhtTnU3SVotSnJKTjZrNTRoRTIwUjl4cGJNNzd3X2o5aHh2UGs2TUM0dU0tay1WQVFUemdURXhpYU1XUUZHaUFWY19zTm9YeUlXX09LOWlkZGpkdWFvOGRjNVhJX3NRTVQwbldLVEdNOU5BTkFtVGJ0aFpSMjJfbzRYWHp3T2lvd0EtelNTQVQzdHVQdFV2c1Q5N2xMaXA4NkhXdDBETkctdnVTaUdybmpBRlhSaW5QSXg4U1BzaHFKc2lxVV8xeDE1X2g4LUx4clRyTmU3RmFxYlFkY2tIQ1Fpa25xTUnSAewBQVVfeXFMT1M5bUlkWWFUbFA5bkhsT08xOHU4bmNYa1JELXBKQk1ZNG5WbldSV3hhWGVmaUhNNEJvSGZBdlRDM2ZtRVdxV2JZTllTSW45YU1Nd3d3cEdYNDN4aDNjM2pfUFdvbUJaR25QUjR4TGJSYWtfWlZXVVlpeGRBZE9rWGwyWmwzZ0dZdHdOTENrTzg2TjA1M2kzLXZ5Zl9EOHhwVGlzVWYzWFljRDJlc1RaSHBrOU5qRDZHU19JcVdtQUpfMjZVaEhvOEpSaTdETDdqSGpKU3BqTTJ1clFSR19qRy0wZ3ZPcG5lTWNUMG0?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLW50SjdXaVVQaGVvRDlZd3ZZNzlod1UyYzFjcE1MMEtSX3VEa0t3WVYtbDZDeXZFRWo4dlhZUlN1TERmVXdxRnZ4WXBJVTVmSEtfT1Y3VWZBWnBqQnJfS2RZM3gyTU9HN0NXWV9rbE5yOG9DNHV6dm1HZ2JseU9LdzFLcWItSGh5bkpaSzRaWDlPUmhuLUlSckkzd1RydllIUDZJdC1qQXljOC1uSHo3LV9KWHFLclZnYXBiUklDOXRVUnNLRnp1cDR3N1N0elFEZ2MxS2hUWGhRTDFlOTd0bDV0X1hVN0tSX0hrV1M1d0tDNG81YWZvZ3Rn0gH_AUFVX3lxTE4wNkNmYklBWk96WHJiN0lLRkVuZUVVaGVRSzBEc25LM3F6SUdkTWpCNTZ6dlNZMW9GUjZMRjlfbzMtdS1yQndJdXNSSlFkekNBNS1hTDF5ekdxcVBiS0dlOHZCcE80bDU0aVdOWE1YRVNpSTlSVllINmhDTlZ2UWZONXFhUHd3LUdkN05OVHVkVDRzYXZSZ1Q4eF9nb0d5cUUtWkt0d0pKWUw2QzN5OWN0MEJ3MXM3OHlTU1NGWm95OHlGWVpnWTMtWnowajNwTHE3UHhpQjBTSUNUTjBMcWJnbnJXazJBeTRoVzJ4Tmp4MmJmemdCVk94Q0lKcVNuTQ?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना के हॉस्टल में नीट छात्रा की मौत मामले में CBI को नहीं मिले सबूत, पोक्सो कोर्ट में दाखिल की क्लोजर रिपोर्ट। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
-      "image": "images/cbi-jagran.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना NEET छात्रा मौत मामले में दोषी को नहीं खोज पाई CBI, दाखिल की क्लोजर रिपोर्ट, जानिए केस में कब क्या हुआ। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
+      "image": "images/neet-cbi-navbharat-times.jpg",
       "image_kind": "photo"
     },
     {
@@ -346,8 +394,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "amar-ujala",
-      "headline": "बिहार: पटना में महागठबंधन का आक्रोश मार्च, इनकम टैक्स गोलंबर पर क्या किया, तेजस्वी का राजभवन मार्च कब? - Amar Ujala",
+      "id": "19-4-prabhat-khabar",
+      "headline": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल - Prabhat Khabar",
       "summary": "",
       "date": "2026-10-07",
       "topics": [
@@ -355,21 +403,108 @@
       ],
       "sources": [
         {
-          "outlet": "www.bhaskarhindi.com",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSV9XN3NucF9IQkpYRGNzNlBLaWh0ay1QdFh2dzBXYnBTMGx1TEJSeHJXVTlaTkluMUtlU0hMREp4N0RqaDI4YV9taE1IZV9PeXlPcUNIcDZXazFib3UtNUV4RlZlaTdPa284SUcxT0ZqSS13RmtpdDB5eC1ha2tuZnlpX2dLa2tEcTJNdkx4WW1VYVNWc0NaT2NUcENCX0pGRmZHUzI2Z3FObm9yclZfZVJYM0lLcVBldXVyS2EyelBvZlUtZnZJVVRUR1pheEFZMnN1VXlRTVpCV2ZfOWJrSg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzhhbmpabVU0aVVrZVU1ZVEzT2syTklBSEZZWjc0cjlVZkJjT0ttX1JqblRmenBuQ0poN2lDTjBScWpOaUNsd25qSVF6MUx0akRWVEJkM3pnTVdxQlpKVXgtWXJoTHBkVVkwSWJWSEFtenIyZGxHLU1yNjVyQnpGbTEzRFYxZElRUnpPemhYb0hSUFdROXBGM1JlTXRoOVpXcXdVU1FUdDRvZHJ0T3VB?oc=5"
         },
         {
-          "outlet": "Amar Ujala",
+          "outlet": "News18 Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR0xMeWZIV1ZsUGU5a0VFZlM1dmRyQ1UzdzJWNGxuT1BycHE2c0hpTy1uNEZXb1MtRjM4V0JoOEVzRGpQcFZZSUJQaWpuRmowTTB5OVg4OFdVZzFjVzhjdEhZTmVHSUQ5V1UzWGpBVF9GY1R0cElkWmFhR1pUSm10di1Zd19ReG1abHFQWDBmSnljSmxBTmNZdjFGOU5kcVI1R1VXclVaMlRDdnVMR25OM05mRXh0Z3p1c05KWWpJeTNveFV1VkNEOXB3SXJwSWthN2EwMkVRSFJxbTdk0gHiAUFVX3lxTE9EWC02anBNWG5XUjZJRmw4MGFkTVc2MUNzcXNTZ3V6UGVCU2VYb0lod2QtdUxTTVg0SFBpSF90Nm1CT2F6eGpUVWVjVV9CeDJmcFJTMHc3R2R2dkRSSEVJWXJ4OU1nRUlmd3dTalM5VWpOYXZBY25NOHotaGduVW5uTVN0aHctVGhfNHFmSFVadGtSbTE4RlZGb0xKV01OR0R4blFPSzdjY25wZUR6RTJYUXBjQjdmcHYwYUtMTEpzZnA4R0FYTndEcjY5OG5kcTlHZVhGaXNTSm9hUy05UDZoR1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRU5rSlFQWVc0SlF3VlJUb0lYcE9pei1WLVRvOVZtbkgyamdPYWM1R3hwWkU2THNLc0Fhd3g5cjRZNmRlWEFRNklRZWY1YVRlTjltN0JibVE0Y1hlc24zQmduTUx2NTMyMnFETklLQXlaT3llYVJTcG1qbnFRRUVLWi1RRXh4WTF3bGtsUk5KNGoxNHV5d3VQREh2NWliQS1EVUZ0aXp2bm9sRzctWC1XWDFVTkZCajVzaGh4ZWVaVlMxMzRCV0RsVDdWM19fcGVLUVFrT1ppUDhHcmhLMk5MYjB0bjhMT3RwZl9PTEdzQkxiMUZsb1Npd0ZaamotQU5Ubm9UUmhsUFfSAY4CQVVfeXFMTzB3UFVaNGNnN0tPRTkyYzdoRzE1Ylp4RkdhR0hhNGdJbFI5LXFhVDRKMGppOURzandLakJJVXlKdFU2bVpfRTVyM1lXTWRYZ2owOVVVYlZ3Qmw2SEZ5NUVNNUJTUXFrdm43c2JKWEtDRmtHR3VhNWFtYTJ4RnV4VDRlcFNHQXRBUHE0UjRoY25GY2NvejFhSnJXb0poa1YxTnVrVm5qVnZTTm5BNmFieV9pZmRXd2NTRkF4TjRJSjFMWExHWGFVa2VDT1ZpaURKZFZXNldWTkd4eFlXaGhETzdDakt1Zmg5RjZmMjZPalppZ3NkRWp5dWNSbV85dkZNXzJYN1pwWV9ta2trOFpR?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "बिहार: पटना में महागठबंधन का आक्रोश मार्च, इनकम टैक्स गोलंबर पर क्या किया, तेजस्वी का राजभवन मार्च कब? इसे www.bhaskarhindi.com और Amar Ujala ने रिपोर्ट किया है।",
-      "image": "images/amar-ujala.jpg",
+      "brief": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल। इसे Prabhat Khabar और News18 Hindi ने रिपोर्ट किया है।",
+      "image": "images/19-4-prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "pm-news18-hindi",
+      "headline": "'PM मोदी राष्ट्र निर्माण में जुटे हैं', पटना में ‘विकसित भारत संकल्प सभा’ के दौरान बोले सीएम सम्राट - News18 Hindi",
+      "summary": "",
+      "date": "2026-10-07",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "दैनिक भास्कर हिन्दी",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzU4RlljS1RSOXlPVWJvVkZ6bFZMa1pZTElDem1vSWVBTDJsVEZhTFlOd2dxRVR4Z05QdnhUS280ZFpqTlBkVEl6SkJycnJIV2hvN0Q2ZWVUcHhvNTdpaEdhV2U3YjlpN09LQVl0V1dKR3p2MHh0Z1lFb2RMMVdRRkpodzVUYmlxOVdpWUk5bkVlUm1jeTk5NjA2UUVPWGNDNVFhQlRZYWtFbV94UDVoOGs2azFJV1ZUWU43eE91TXdocGxq?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMUFMbENwckc4cWx5VjdVWTkta2VWQy1ldlN0eFNQQk9vcUFJeklDLVpNSVNhS1FqaTJmQkY4dGxUcDlBMFFUMFdDTkJWeWVDajlSOFlFLU5DRzlNamlkdlQ3Y2tLdUtIZFpQS1dxam1ZT0xmdkFoVFlxUmdrRVBmUENpcjc4bWMybkdHdmJiUzFhc0RBYndOZEU5ZzA3ZWFiZUJTQmdRV1RKb2JXQ2dYVXFSS3BQRU5RRkFJUXItb0tMS2VRUzloSExjM0dEZ9IBzgFBVV95cUxPMUFMbENwckc4cWx5VjdVWTkta2VWQy1ldlN0eFNQQk9vcUFJeklDLVpNSVNhS1FqaTJmQkY4dGxUcDlBMFFUMFdDTkJWeWVDajlSOFlFLU5DRzlNamlkdlQ3Y2tLdUtIZFpQS1dxam1ZT0xmdkFoVFlxUmdrRVBmUENpcjc4bWMybkdHdmJiUzFhc0RBYndOZEU5ZzA3ZWFiZUJTQmdRV1RKb2JXQ2dYVXFSS3BQRU5RRkFJUXItb0tMS2VRUzloSExjM0dEZw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "'PM मोदी राष्ट्र निर्माण में जुटे हैं', पटना में ‘विकसित भारत संकल्प सभा’ के दौरान बोले सीएम सम्राट - News18 Hindi। इसे दैनिक भास्कर हिन्दी और News18 Hindi ने रिपोर्ट किया है।",
+      "image": "images/pm-news18-hindi.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "164-file-nominations-for-8-legislative-council-seats-in-thre",
+      "headline": "164 file nominations for 8 legislative council seats in three-way contest - The Times of India",
+      "summary": "",
+      "date": "2026-10-06",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkRMb0tMLTVFVmVWMFk3NXdPQ0ZYeWlnamh0RnpjUnlwb180R1NfXzU3TEx4dnpzZTk5RkV3XzFzYnVpNWNHZVRIOXg5anVoamQ2ME5Zd2w4U0VGX1gxSnpGaG1ITzVnMXVTYjVlUlJIM2FkTHlwUVdjYlhoN0Q0TVJ4N0x4aFJ5RU1PeDIxdDF4RzJza0hZcnJ3cHlCUmV1MnItcjYyYW5zNFZ2N0pDSVRqQndvczVhQlNjcjNVdDdlSjk2MlYxTEFmYlJYNTE1ZlFyTXNTMGNxTGpfWXdZ0gHkAUFVX3lxTFBSOG1LVG92cTVDMlZhS3dxRlNaNkxBRVlfNS1yY0F0WEpMenZ0ZkdRYXA2azVEdjBua00wMkVfSXNIbFZZWVRNa3Fid2J0Qi1rdmQwYzg3a2s5YUI5a0hkNHBXdHJWckc2bzFQR0Zqc0t4T1dXNlluR1ZNbU11eXZVeUk4QS1tMWJ3VjdCcDEtVXhlWHJWdXU5OEI5X2dhcGNzS0VLTFplM3pNeUVEaHRYdDVBRjRPMi1fZzZIMkxEQUNtRVlpX0xnZ09KeUdTcDF2Mkk1bVlqNURmM1V0YTU4UGtLNA?oc=5"
+        },
+        {
+          "outlet": "Pioneer Daily",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSU9EQUdVeVRDMUE4Wld5UUxfSXRLakgxWXhKZEtfbVVSRDRxVHlRdElCUUpJbTZBam10NDFuMHBLVG02MF90Z3RuQzNicURRNl84RC1hUHlWcU5Ta1NQYnRFY2ljOTBoOUdCOG41ZzdmZGJST1hjTmJQVkZfcFRCdVRLdkU1Nkd1bUZ5bmNOSGpkejNCNkZTWktUVWcyOEI5?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "164 file nominations for 8 legislative council seats in three-way contest. Covered by The Times of India and Pioneer Daily.",
+      "image": "images/164-file-nominations-for-8-legislative-council-seats-in-thre.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-water-metro-plan-extends-2-more-cruise-terminals-plann",
+      "headline": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat - Metro Rail News",
+      "summary": "",
+      "date": "2026-10-06",
+      "topics": [
+        "civic",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "Swarajya",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlc0SWJyYks1ZG5jWkRvY1MzRHN6REZqazczWXRBaTFzVy02Q3A1bmY0LUtKY2ZVQ2dWWFpPTGhCTG9aWDV6MmxCR2tONHhCS21iYnVpNjZFTjNYRmtQN1pmYXllQThIQVhYOVNWVkRldGd4UDhPOUVqQjlkcnNWTE1OMVl3XzdVTzdJeVRlQ0pISXN2UjVMTUdDd2lhT1R0dmVCQnpTeWJLTG0yazJSRThydkEzQVlYbWdXOXFzXzBvaEVrTVNjSHF30gHaAUFVX3lxTFBpdEpEUTBiOVRZOUlSZEJfNmoyWlVxOUxuZkJiSEpIdVhjUGVmdjlOSjNicTR1bmVDUXlWQVdkd0I3N3h2MTR4aGRyRU9mZndDaXJFVk5KLW9Uc1c1ejhHUjNjVGNTb3VHVU9vQ2l0bTZ6Z1JrUlRiUzdoOFBZWHAxU0ZzRlRPMjYwcDFHYVlXNTV2QkxUajM5Qk9ZZF84Uy1HYUtsX2dabHJjYTdzSmhBN19tcVoyMEVRVWhTSnNpZ1UtZlgwN3lfLXc4Q3ZhOW05d0d5djZiWWRB?oc=5"
+        },
+        {
+          "outlet": "Metro Rail News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nYWY3bmNsSVlOS0I1VFoxX0QwMnB1TG82T3UzbzRaRDJLNk1rTjgwZHdSZXBweVBYOHV2UFlSOFRzczcxVlgtdlRJQlF4X013czhVdzF2M21EWEhRcnVpQ2FMNkZBY3lxSlBKTERUUnNtRmp3WFlyZ05IZWxlOU0?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnVOT0J2REhzVzN5OHhKa3hCVUVTQlg4SUpjbTRCQUlnd0Q5YlM4RjZsc1N6WmhJeDZJTHNnOTl1WG53RVpIdHlXN3dGWnRLd0prUEx3NllhdWhTLVhtMTJfZllIeWl3aW1GYm45b09abEg4c3doNHhPY2plLXRiZXZnYm16SF9yc19iZlBudUJxYjdrQ05Wc0FtMUQ1T1FpZUVyYk1aWDd6Zy1ZRGUwUUpMbEVKWjlEMlB0eUdua2NQbkw2eC1KRzRlbXZSa2tDY3RYN3FR0gHbAUFVX3lxTE5zRlRoRVRDOTI2NTJCMmxVSTItSFpIaUNrSkN4WjNFU1VLV0Vxd29wekxmZ3pKc1BtSzV3TVRXN0R2WFRZN2wtcjkyMzVuMmNBay02V0dDWFgwbzNxRU01czZpQ0FsbThCWXNMLUx2MUNacW1KT08yRUsycFRscWF3WHUzQ3poS29CenYxR2lUdEFEMk8xWDlkUmlmY0JCZHlNbnNxMGhyRi0xcnd2Y1dQbkpMUTU0alpoWnNqLWxkek5TdVN1SG02TUY0bGhaQXZIQ0ZmY2dzOElPNA?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat. A civic-infrastructure story. Covered by 3 outlets, including Swarajya and Metro Rail News.",
+      "image": "images/patna-water-metro-plan-extends-2-more-cruise-terminals-plann.jpg",
       "image_kind": "photo"
     },
     {
@@ -412,41 +547,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "patna-water-metro-plan-extends-2-more-cruise-terminals-plann",
-      "headline": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat - Metro Rail News",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "civic",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "Swarajya",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlc0SWJyYks1ZG5jWkRvY1MzRHN6REZqazczWXRBaTFzVy02Q3A1bmY0LUtKY2ZVQ2dWWFpPTGhCTG9aWDV6MmxCR2tONHhCS21iYnVpNjZFTjNYRmtQN1pmYXllQThIQVhYOVNWVkRldGd4UDhPOUVqQjlkcnNWTE1OMVl3XzdVTzdJeVRlQ0pISXN2UjVMTUdDd2lhT1R0dmVCQnpTeWJLTG0yazJSRThydkEzQVlYbWdXOXFzXzBvaEVrTVNjSHF30gHaAUFVX3lxTFBpdEpEUTBiOVRZOUlSZEJfNmoyWlVxOUxuZkJiSEpIdVhjUGVmdjlOSjNicTR1bmVDUXlWQVdkd0I3N3h2MTR4aGRyRU9mZndDaXJFVk5KLW9Uc1c1ejhHUjNjVGNTb3VHVU9vQ2l0bTZ6Z1JrUlRiUzdoOFBZWHAxU0ZzRlRPMjYwcDFHYVlXNTV2QkxUajM5Qk9ZZF84Uy1HYUtsX2dabHJjYTdzSmhBN19tcVoyMEVRVWhTSnNpZ1UtZlgwN3lfLXc4Q3ZhOW05d0d5djZiWWRB?oc=5"
-        },
-        {
-          "outlet": "Metro Rail News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nYWY3bmNsSVlOS0I1VFoxX0QwMnB1TG82T3UzbzRaRDJLNk1rTjgwZHdSZXBweVBYOHV2UFlSOFRzczcxVlgtdlRJQlF4X013czhVdzF2M21EWEhRcnVpQ2FMNkZBY3lxSlBKTERUUnNtRmp3WFlyZ05IZWxlOU0?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnVOT0J2REhzVzN5OHhKa3hCVUVTQlg4SUpjbTRCQUlnd0Q5YlM4RjZsc1N6WmhJeDZJTHNnOTl1WG53RVpIdHlXN3dGWnRLd0prUEx3NllhdWhTLVhtMTJfZllIeWl3aW1GYm45b09abEg4c3doNHhPY2plLXRiZXZnYm16SF9yc19iZlBudUJxYjdrQ05Wc0FtMUQ1T1FpZUVyYk1aWDd6Zy1ZRGUwUUpMbEVKWjlEMlB0eUdua2NQbkw2eC1KRzRlbXZSa2tDY3RYN3FR0gHbAUFVX3lxTE5zRlRoRVRDOTI2NTJCMmxVSTItSFpIaUNrSkN4WjNFU1VLV0Vxd29wekxmZ3pKc1BtSzV3TVRXN0R2WFRZN2wtcjkyMzVuMmNBay02V0dDWFgwbzNxRU01czZpQ0FsbThCWXNMLUx2MUNacW1KT08yRUsycFRscWF3WHUzQ3poS29CenYxR2lUdEFEMk8xWDlkUmlmY0JCZHlNbnNxMGhyRi0xcnd2Y1dQbkpMUTU0alpoWnNqLWxkek5TdVN1SG02TUY0bGhaQXZIQ0ZmY2dzOElPNA?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat. A civic-infrastructure story. Covered by 3 outlets, including Swarajya and Metro Rail News.",
-      "image": "images/patna-water-metro-plan-extends-2-more-cruise-terminals-plann.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "man-wanted-in-rs-46-lakh-job-fraud-case-arrested-from-vaisha",
-      "headline": "Man wanted in Rs 46-lakh job fraud case arrested from Vaishali - The Times of India",
+      "id": "patna-police-arrest-man-in-4-crore-share-investment-fraud-ca",
+      "headline": "Patna Police Arrest Man in ₹4 Crore Share Investment Fraud Case - The420.in",
       "summary": "",
       "date": "2026-10-06",
       "topics": [
@@ -468,56 +570,14 @@
           "outlet": "The420.in",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fcTZHUHJYLV9oMUEzZjJ6RjMxUWxDV1R6WVBIWjFoV2pnSXdLaHhlY2tJSDJRVkFZS3hEbmJNbjNsQjBKVFM4c0dPZWZWOTFVaXNrYVV0SmYtNGM3R1dxYTJ6SUtmRnBxYl9qWlB4R3NQeUc5N09RNzdSUXI?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0JEcDNPWW5WZ1F0a2dzUktoYUE0Vy00T2Z2UjVMNWQtOUs0RUdKT0xtdVU4NEdwVXFkMG5fLXZ4X1M4OEZyZmd6dl9yMElTejQ3ZkwyNzk0VXBkaUs0anBMQWdMUWxaT0x0bzFYSHNkQWxBNFVvek9YbHdacmN3R1RubXJoTzBXeU5jR1NmM21wVUVsQ190b1BHenkxOUdUbWtBOEN1SDlqNzYyeDFvVVBFN0RTQ0I1MUlPbWRVcEM2T25oS3Q5NDBuaUJ5QWlH0gHWAUFVX3lxTFAxZG90WkwxRVN3R1NEQnkxTVctblVXUnNDMTMyQmEzWlNNTW9XQlNDUWREdjdWQjcyTVdvNl91UGNRNjhWQV9ycTVDRnBVTFBQSEpyQ1BZdV9fM3JSU3E0UWNsYjhBSVpVWXY3M3djLVJwRFJ1c0E1WDlIRmdZRkd6Ni1qZk5wQWwyQXdzdnJzYno4S3IyQ0lJSTNvd3UwWVNVU3ZUUEljQURmVi0tQ2t5ZGExdjNReGp0RjF4RTk4SFhUbEpHUUVGYkRoZTkyQm11aThpc1E?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Man wanted in Rs 46-lakh job fraud case arrested from Vaishali. A crime-related story. Covered by The Times of India and The420.in.",
-      "image": "images/man-wanted-in-rs-46-lakh-job-fraud-case-arrested-from-vaisha.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "164-file-nominations-for-8-legislative-council-seats-in-thre",
-      "headline": "164 file nominations for 8 legislative council seats in three-way contest - The Times of India",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkRMb0tMLTVFVmVWMFk3NXdPQ0ZYeWlnamh0RnpjUnlwb180R1NfXzU3TEx4dnpzZTk5RkV3XzFzYnVpNWNHZVRIOXg5anVoamQ2ME5Zd2w4U0VGX1gxSnpGaG1ITzVnMXVTYjVlUlJIM2FkTHlwUVdjYlhoN0Q0TVJ4N0x4aFJ5RU1PeDIxdDF4RzJza0hZcnJ3cHlCUmV1MnItcjYyYW5zNFZ2N0pDSVRqQndvczVhQlNjcjNVdDdlSjk2MlYxTEFmYlJYNTE1ZlFyTXNTMGNxTGpfWXdZ0gHkAUFVX3lxTFBSOG1LVG92cTVDMlZhS3dxRlNaNkxBRVlfNS1yY0F0WEpMenZ0ZkdRYXA2azVEdjBua00wMkVfSXNIbFZZWVRNa3Fid2J0Qi1rdmQwYzg3a2s5YUI5a0hkNHBXdHJWckc2bzFQR0Zqc0t4T1dXNlluR1ZNbU11eXZVeUk4QS1tMWJ3VjdCcDEtVXhlWHJWdXU5OEI5X2dhcGNzS0VLTFplM3pNeUVEaHRYdDVBRjRPMi1fZzZIMkxEQUNtRVlpX0xnZ09KeUdTcDF2Mkk1bVlqNURmM1V0YTU4UGtLNA?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnhJdU80RGdoOGZHcFdobDE2cnJDMlNQSF9kcDlJWmRnWmt4dTFZQlNDNzYtM2ZCTl9teTgwV3EwQ28wVEpUa3JGNzZnLXR3ejFKYzBycGJyQlhYZHdEajRnOUUzRHQ2TGduMkt5SHNHNERjSC1mZmtHUXRnV3RZLXZoRUhnOHNlb3RoZGNiNVJrcGtpN3hBUFpEc284VURvaGphVXNHZWpRMExiSjk0V2hhNlZtb09hRG1FZUtXQkFxcXpoaE5GRHMwWEzSAdIBQVVfeXFMTnp4emY4cDdjSzVBOWQxT0g0WjAzS1dfa0d6MkxiMFVDTWw0Yi1XTUhJekdXY0lRZXdIenRJbnd3QzJLaGJjNV8ybWUzNEczakpVLWFKRWZxWm9oeHhQMHh5LTA2MHZlbWpLcW54Q3dLdnE4MXFYMHNNSXV0anQ3aXZGd1Fmd0xid3hRajNBS21QdUlTeXA5ZGNIcDNqVlloQlN0Ni1IMEtOaW9xWmx3QmNwVDY0ckNudFV2UzZMaWIzaXJXSm9ZVU5LZXM1TjBqY0dR?oc=5"
-        },
-        {
-          "outlet": "Pioneer Daily",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSU9EQUdVeVRDMUE4Wld5UUxfSXRLakgxWXhKZEtfbVVSRDRxVHlRdElCUUpJbTZBam10NDFuMHBLVG02MF90Z3RuQzNicURRNl84RC1hUHlWcU5Ta1NQYnRFY2ljOTBoOUdCOG41ZzdmZGJST1hjTmJQVkZfcFRCdVRLdkU1Nkd1bUZ5bmNOSGpkejNCNkZTWktUVWcyOEI5?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWxGTHlMWHVGOU5lN1lVUTdMTVpFRjFTbjVDXzc1eFVuRDZEREE2UXRlcEtmaFFVUjU5NE1yTlhyRk5wQzB5bXg1TUVDVnlZM01QLWVkbV9IaTdDV0xueFMzWEdNZEx2Q2g0aVFBUTJhZTN6OW11Mmk5b200cUJscW1WTlBpb0IyUlV5TTdUUGY5YWY3bkRDQ3NpZmxrclY0X2lVelZ2WFJtWC1DejJFTWJjNG1Eb3NJdU9zempZcTdHYjFtSGlVaTk4RdIB0AFBVV95cUxOUkpfbjA3NVJ1U1Jrd2t3eVJGVldJb1RUbTBkZU5TUjFvS09BeDVqVThTNGlXcFdVbDhCR2F5VUpwelVYVVJPQjZWdGdaaE53c0ZRNVY0YkdicHlSVDdLMlp4bVRXS19rU2JLcjhkMUl5akJ2Q2lJclJPS3dPYmFielptTm5RRW5BY3NxUnFQcnFaWjU2ZlE3OS1DcTJKWEpuSUJoYmViamZYbGRsbjh1bW5MemFxZGlqX0RCRHBBc09fLTlnVm91SzF5U0ZQblRU?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "164 file nominations for 8 legislative council seats in three-way contest. A politics-related story. Covered by The Times of India and Pioneer Daily.",
-      "image": "images/164-file-nominations-for-8-legislative-council-seats-in-thre.jpg",
-      "image_kind": "photo"
+      "brief": "Patna Police Arrest Man in ₹4 Crore Share Investment Fraud Case - The420.in. A crime-related story. Covered by The Times of India and The420.in.",
+      "image": "images/patna-police-arrest-man-in-4-crore-share-investment-fraud-ca.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "bihar-man-believed-to-be-murdered-4-years-ago-found-alive-in",
@@ -599,33 +659,6 @@
       "genuineness_label": "Corroborated",
       "brief": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar. A civic-infrastructure story. Covered by The Hindu and The Times of India.",
       "image": "images/cm-samrat-choudhary-directs-officials-to-submit-detailed-rep.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci",
-      "headline": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages - Jagran",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcnZiZVpGb3ZPRUUxZFlMYU1GSW9MX202ZjdaTWs3eS0xSVVxUURJWjFrSU9nbkQ1T0tEWHpnWF9KOGtIcFJlY0VKMFhjZnU5bFpoVXVFeTJtNEJEOHFmY29VcE0zVHozQ0txMi1HRVhMR19vVXQ3d1RGMlhoMVQ2V0xYMUh5WXZkRFVEOHRSQzNkcElDT0g0Wlo1cHJXbE5tUzZyN3U2ZXdMZ3I5TGZmNF9lSlFXbU5FSXpZbk9fcXdOQnYtWHNXSk9RdzFEWnhIUl9KNjdUanFDUEpPOTZlT2hTUmF4ckFiMXp5ZTdWM185RktQUy1LVUFjSdIBgAJBVV95cUxPaVBWSDNZbDBOTzZBNHQ1ZDJqYjhyLUJ6bUZmb3d1bGhYWG1kZVdySldWald3bC1VZ0NPX2ZyT29SNmctSm5sejgzc1F1QUtmVUs3LTNleW84RTF4Y19yYWlidjVoYjk5QXBGMmh6SzgzVG56U3NzTGc1OGFBdGNLZ2dzUHNKOWd4bGhjckQwNlNtaHNuczR2NzU4Qm1QWENIcGtXQjlWMGZSVmN3M0VPMW8xNFNLdm9SdlN3UlFyblZVVEpwWWdIM3I4TWI0VFZFTVNrUEZ4ZHR6dkhZY3NuX2kteGJYSFdVS2tObUlpWUxXZ01MV1FBbU9BdEVLXzly?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHpFWm1iRV9ZajQ3VmZ5ODhtUGxRWDl5dS1QTVNjeVRLWFZMZ3FyQXUwMFZPMExVcC1oVmhhLURTMVRrRVdBRk1SNHZ0V1RkcTdERlRLZmVYWkxTMGRaRUdLeEVlNGtZWVpCNUV2R1BWZkxIY2hxLUVkc2JHc1F5VmhvOTlQWHhVSmpobC1tTlVLeHh0cjF1OUZDck10X3R0SHN5Q1JHMTJJNV8zU3loX08wdVlyWVY1Z3BZaWk2SXJOUDI2cnBBV0xyWXlHRjktU1BhVW45bkRNWUdS?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे Aaj Tak और Jagran ने रिपोर्ट किया है।",
-      "image": "images/13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci.jpg",
       "image_kind": "photo"
     },
     {
