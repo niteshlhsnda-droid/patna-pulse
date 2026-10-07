@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07 10:54 UTC",
-  "generated_at_ist": "07 Oct 2026, 04:24 PM IST",
-  "story_count": 56,
+  "generated_at": "2026-10-07 11:35 UTC",
+  "generated_at_ist": "07 Oct 2026, 05:05 PM IST",
+  "story_count": 55,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -42,6 +42,11 @@
       ],
       "sources": [
         {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQjNZXzRVZkExeGQwRi1BM3NNVThLN20xY3ZTQ3RvWWd5RGg1VVVNUnZXd1RNLVprTHdSenZvcGdiS1B3NzBrd2tPWi14eWRWd0pmaHRRY0F6bWpLV0F4Y3NQMXRZUVdjWkVRUE1FQUZpUy1NSHppS3h2cGFGMlZpdmR5Q04yVU1adE8xYWw4eGNnaWI4TEh0bTBncTZXTVRRTllvWWhVcHg3aml5dzlQRkZLTFlxaGpodTF6bTJCSWxvczBoNnlvLXJlSG9qM200emlGZHhYNTJoaHlOT2d0MHNXYXA5VnV4b3J5Y1pybkdzdWk3NGs0Y28tTVZIcEh3c1BUSndZaENJUHJhdmFBVkZtWldFVnQ0N0NB0gGgAkFVX3lxTFB6ZWR4R1Z1dkRwY3pNek5Kb3VCbHRuMGxFREJMM0hJaUFtTlE0WnhUaEVJX0oyUzR1aFJjMnZ4T3NLQVJfQUI5OTdtTUJ1Ql9iN3puQUJaeThBQVUwdTE2OTBGQTBydmx4RkdMLWNLYnBvN2MxeGd2VU1IRjNmZHlpT2RUTnRPNXFIMTlnTXBZaWVrLWJFRFlWREhLWjk3N0VneGtOZEdBUWxMdHVuQk9ZREJOdXBCNEZkRkdtbkR3Q0Q4RGxyaUNsLW4tOF9oSjFpMS1NYl9pYm5NQUFseTVxWThRZ0NZSXlES0lESmVVaVVMU0N2ejcwbkIxdUJVVEZEUVN1cEZaaU9YbjFNaGVLQ2V5UkZodWd5bkF2aGVQOA?oc=5"
+        },
+        {
           "outlet": "Deccan Herald",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0ZmUU1mVnZGN2ZMSFRUQWpPVTVZVFFYczB3OHRIeTRVV2hRVG5nRTdFZVBwNllkZDhPTlIzTHJ5ZFZUSTJlMy1lOUdwampCeGxNY1l5S0hwc1VYV0JsN2RKZGdMaW1MaF9tUFUwSkkwcVdyMWFLVm5OUmJVa3FlUzdQaUVlc0U1eUo1cEtEU3lYbFd1djkxR1puTzRTNVFWTWdjaWdrTUZPa3RjTHZOd2RIMmZjeHZIeWVrQTkzakhyU3V5cGlTVDFFYXJ6SHNmN1lv?oc=5"
@@ -50,11 +55,6 @@
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNFNpQW1PeVZLaWdNS2xoLTU5bWJlRVFLcE40d0N6NHZxV3VpcEtUUmRDZk9EVHpQeFZUenE3RXVqSzJRNnVJN1A1ODZvdjlIQWJ0b29qT2VXY1ppZGx1QXBRekVNUE1RS0dOelFDOTgtYlVnYlFkZk5UTjZ2RGZJT0duREdwR2h3R0VpNm1hZ3RUZ0JKbF9BanVYQjBSN1duazBmRzAwY25GTjVSUTZDMUdKRmNzampUcDdXSE5YZkNsazRYZm5aSlRaLTdzbTFYWGp3SHNETmhfTGw5b0NJZWR5c09UUENaYi1R?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQjNZXzRVZkExeGQwRi1BM3NNVThLN20xY3ZTQ3RvWWd5RGg1VVVNUnZXd1RNLVprTHdSenZvcGdiS1B3NzBrd2tPWi14eWRWd0pmaHRRY0F6bWpLV0F4Y3NQMXRZUVdjWkVRUE1FQUZpUy1NSHppS3h2cGFGMlZpdmR5Q04yVU1adE8xYWw4eGNnaWI4TEh0bTBncTZXTVRRTllvWWhVcHg3aml5dzlQRkZLTFlxaGpodTF6bTJCSWxvczBoNnlvLXJlSG9qM200emlGZHhYNTJoaHlOT2d0MHNXYXA5VnV4b3J5Y1pybkdzdWk3NGs0Y28tTVZIcEh3c1BUSndZaENJUHJhdmFBVkZtWldFVnQ0N0NB0gGgAkFVX3lxTFB6ZWR4R1Z1dkRwY3pNek5Kb3VCbHRuMGxFREJMM0hJaUFtTlE0WnhUaEVJX0oyUzR1aFJjMnZ4T3NLQVJfQUI5OTdtTUJ1Ql9iN3puQUJaeThBQVUwdTE2OTBGQTBydmx4RkdMLWNLYnBvN2MxeGd2VU1IRjNmZHlpT2RUTnRPNXFIMTlnTXBZaWVrLWJFRFlWREhLWjk3N0VneGtOZEdBUWxMdHVuQk9ZREJOdXBCNEZkRkdtbkR3Q0Q4RGxyaUNsLW4tOF9oSjFpMS1NYl9pYm5NQUFseTVxWThRZ0NZSXlES0lESmVVaVVMU0N2ejcwbkIxdUJVVEZEUVN1cEZaaU9YbjFNaGVLQ2V5UkZodWd5bkF2aGVQOA?oc=5"
         },
         {
           "outlet": "News18",
@@ -85,8 +85,35 @@
       "source_count": 8,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'Gross negligence of duty': Bihar cop suspended after video shows him brandishing pistol during flood rel. A crime-related story. Covered by 8 outlets, including Deccan Herald and Rediff.",
+      "brief": "'Gross negligence of duty': Bihar cop suspended after video shows him brandishing pistol during flood rel. A crime-related story. Covered by 8 outlets, including The Times of India and Deccan Herald.",
       "image": "images/gross-negligence-of-duty-bihar-cop-suspended-after-video-sho.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "ranji-trophy-2026-27-ashutosh-aman-named-bihar-s-new-head-co",
+      "headline": "Ranji Trophy 2026-27 - Ashutosh Aman named Bihar's new head coach; Sakibul Gani to continue as captain - Cricinfo",
+      "summary": "",
+      "date": "2026-10-07",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ESPN India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQi05bm1KaVoxaTVHMVJQS0FWT3NjR1ZiS1N1RDJBc0hFM252QXM1YXZYUk9KaFRsZ25YZXhadmFDcEJ0NXJzV3VtcHF3RDJsaGc4OURkWjFMVEI4THcyazBOZDZ0cjQ1c3A2ODgxVHlDcDFPYS1fRnM4MTFWU2NQM2ktTFVGQzM3ckI3MGlhUE5wS1RYaGxtY1AxSmlPQV9jSTk2VUt1ZEtxRk9aVThSSVBpcnFkc0FMWm05dXBUTWwwcF9NUy1mTU9vQU1hZw?oc=5"
+        },
+        {
+          "outlet": "Cricinfo",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1RsdzBvQjBmVlVZNDFKZU9qam1LVGFacXFlQUh6Zy1SUEdBZ0ozMEVjT1h6Z1k0Um1zMUM4LUkzbzB6QW1yanN4YUN3cHIxQXdwYzRjbUFqY0lITldhY2N5ekJCUzlmS3c2ZWM3Wk12VGk5a2U0S0xOUjA2UVEzVHQzUS1QT3h1dXFxUmJfMGhtQzlvcERHM0ZZMmM0WlBuVEtZS0t4WnMwWFcxRm0xSmFsMVhUaGVkMW9WR29tMXh4RHJzN25B?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Ranji Trophy 2026-27 - Ashutosh Aman named Bihar's new head coach; Sakibul Gani to continue as captain. Covered by ESPN India and Cricinfo.",
+      "image": "images/ranji-trophy-2026-27-ashutosh-aman-named-bihar-s-new-head-co.jpg",
       "image_kind": "photo"
     },
     {
@@ -114,6 +141,33 @@
       "genuineness_label": "Corroborated",
       "brief": "A 19-year-old Bihar teen reaches Level 22,222 in Candy Crush Saga, enters International Book of Records. Covered by NDTV and Moneycontrol.com.",
       "image": "images/a-19-year-old-bihar-teen-reaches-level-22-222-in-candy-crush.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "speculations-over-vinay-kumar-s-succession-to-bihar-cmo-http",
+      "headline": "Speculations over Vinay Kumar’s succession to Bihar CMO - https://whispersinthecorridors.net/",
+      "summary": "",
+      "date": "2026-10-07",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Whispers in the Corridors",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWxwcDNadkRZd0VfOHdkUDZjdGNwLWg5RnZTNE1Ielk4blJNWi1keDJpUnJhSGJnRnNWbWFEbEJDTGNwRkk5d3Zmem81LUFZQU94TVl5MVVhUWRlSFVxeFp2dmNZR1g3WkhxVHdjYVdxOWF4OUc0Q1JURXAxMzFXWGJwVDgtSG8y?oc=5"
+        },
+        {
+          "outlet": "https://whispersinthecorridors.net/",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEFCTGxSZlhvUzJ5NmZDdFVTOFd6ZVJsd01xaHR6N1pSSWZOSXFYLXFuN3VucHFXMVQ1UWc0aGhFSXY4NzVJeUFUZXhCWEJUX202dTN2dmpGRzZZZEE2azVsUmJKaVQ1Q0ZFMkdNNHREOUM4ZGFDWVFVdUcwSGhITkcyellON1BQNWhCbnlad1JrZ3lTclhKX0dNNA?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Speculations over Vinay Kumar’s succession to Bihar CMO - https://whispersinthecorridors.net/. Covered by Whispers in the Corridors and https://whispersinthecorridors.net/.",
+      "image": "images/speculations-over-vinay-kumar-s-succession-to-bihar-cmo-http.jpg",
       "image_kind": "photo"
     },
     {
@@ -151,60 +205,6 @@
       "genuineness_label": "Verified",
       "brief": "Greater Noida bus fire: Bihar-bound bus gutted in Knowledge Park, all passengers safely evacuated. A crime-related story. Covered by 4 outlets, including Moneycontrol.com and The News Mill.",
       "image": "images/greater-noida-bus-fire-bihar-bound-bus-gutted-in-knowledge-p.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "speculations-over-vinay-kumar-s-succession-to-bihar-cmo-http",
-      "headline": "Speculations over Vinay Kumar’s succession to Bihar CMO - https://whispersinthecorridors.net/",
-      "summary": "",
-      "date": "2026-10-07",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Whispers in the Corridors",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWxwcDNadkRZd0VfOHdkUDZjdGNwLWg5RnZTNE1Ielk4blJNWi1keDJpUnJhSGJnRnNWbWFEbEJDTGNwRkk5d3Zmem81LUFZQU94TVl5MVVhUWRlSFVxeFp2dmNZR1g3WkhxVHdjYVdxOWF4OUc0Q1JURXAxMzFXWGJwVDgtSG8y?oc=5"
-        },
-        {
-          "outlet": "https://whispersinthecorridors.net/",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEFCTGxSZlhvUzJ5NmZDdFVTOFd6ZVJsd01xaHR6N1pSSWZOSXFYLXFuN3VucHFXMVQ1UWc0aGhFSXY4NzVJeUFUZXhCWEJUX202dTN2dmpGRzZZZEE2azVsUmJKaVQ1Q0ZFMkdNNHREOUM4ZGFDWVFVdUcwSGhITkcyellON1BQNWhCbnlad1JrZ3lTclhKX0dNNA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Speculations over Vinay Kumar’s succession to Bihar CMO - https://whispersinthecorridors.net/. Covered by Whispers in the Corridors and https://whispersinthecorridors.net/.",
-      "image": "images/speculations-over-vinay-kumar-s-succession-to-bihar-cmo-http.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "ranji-trophy-2026-27-ashutosh-aman-named-bihar-s-new-head-co",
-      "headline": "Ranji Trophy 2026-27 - Ashutosh Aman named Bihar's new head coach; Sakibul Gani to continue as captain - Cricinfo",
-      "summary": "",
-      "date": "2026-10-07",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Cricinfo",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1RsdzBvQjBmVlVZNDFKZU9qam1LVGFacXFlQUh6Zy1SUEdBZ0ozMEVjT1h6Z1k0Um1zMUM4LUkzbzB6QW1yanN4YUN3cHIxQXdwYzRjbUFqY0lITldhY2N5ekJCUzlmS3c2ZWM3Wk12VGk5a2U0S0xOUjA2UVEzVHQzUS1QT3h1dXFxUmJfMGhtQzlvcERHM0ZZMmM0WlBuVEtZS0t4WnMwWFcxRm0xSmFsMVhUaGVkMW9WR29tMXh4RHJzN25B?oc=5"
-        },
-        {
-          "outlet": "ESPN",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNVlVSUJrY1VCalZJRlI3cFM2NnZ5NXBBd2V4cE81ek1fX2VsYXNPMkpCYm9FVXRWTE45aTM0TG5vcUg1YmZIMlk2VXAyYzBFMHlHTEJQWkRHYVFqQ2dVMjJ1emVSZ1c0QzFIVnNySzdXQjF5V1EtTjJEQVc0a2lIb2UwN2xaN1A2YWh1WDlZS2hjcWQ0aEhpZUNyenRKeHRhRDdfa2NmMGFqSlRidG9yWVI2WS1sVG11cGhjelhuNGZKSzZSaDdpMno3d282LU0?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Ranji Trophy 2026-27 - Ashutosh Aman named Bihar's new head coach; Sakibul Gani to continue as captain. Covered by Cricinfo and ESPN.",
-      "image": "images/ranji-trophy-2026-27-ashutosh-aman-named-bihar-s-new-head-co.jpg",
       "image_kind": "photo"
     },
     {
@@ -310,7 +310,7 @@
         {
           "outlet": "News18 Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMHdQVVo0Y2c3S09FOTJjN2hHMTViWnhGR2FHSGE0Z0lsUjktcWFUNEowamk5RHNqd0tqQklVeUp0VTZtWl9FNXIzWVdNZFhnajA5VVViVndCbDZIRnk1RU01QlNRcWt2bjdzYkpYS0NGa0dHdWE1YW1hMnhGdXhUNGVwU0dBdEFQcTRSNGhjbkZjY296MWFKcldvSmhrVjFOdWtWbmpWdlNObkE2YWJ5X2lmZFd3Y1NGQXhONElKMUxYTEdYYVVrZUNPVmlpREpkVlc2V1ZOR3h4WVdoaERPN0NqS3VmaDlGNmYyNk9qWmlnc2RFanl1Y1JtXzl2Rk1fMlg3WnBZX21ra2s4WlHSAY4CQVVfeXFMTzB3UFVaNGNnN0tPRTkyYzdoRzE1Ylp4RkdhR0hhNGdJbFI5LXFhVDRKMGppOURzandLakJJVXlKdFU2bVpfRTVyM1lXTWRYZ2owOVVVYlZ3Qmw2SEZ5NUVNNUJTUXFrdm43c2JKWEtDRmtHR3VhNWFtYTJ4RnV4VDRlcFNHQXRBUHE0UjRoY25GY2NvejFhSnJXb0poa1YxTnVrVm5qVnZTTm5BNmFieV9pZmRXd2NTRkF4TjRJSjFMWExHWGFVa2VDT1ZpaURKZFZXNldWTkd4eFlXaGhETzdDakt1Zmg5RjZmMjZPalppZ3NkRWp5dWNSbV85dkZNXzJYN1pwWV9ta2trOFpR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRU5rSlFQWVc0SlF3VlJUb0lYcE9pei1WLVRvOVZtbkgyamdPYWM1R3hwWkU2THNLc0Fhd3g5cjRZNmRlWEFRNklRZWY1YVRlTjltN0JibVE0Y1hlc24zQmduTUx2NTMyMnFETklLQXlaT3llYVJTcG1qbnFRRUVLWi1RRXh4WTF3bGtsUk5KNGoxNHV5d3VQREh2NWliQS1EVUZ0aXp2bm9sRzctWC1XWDFVTkZCajVzaGh4ZWVaVlMxMzRCV0RsVDdWM19fcGVLUVFrT1ppUDhHcmhLMk5MYjB0bjhMT3RwZl9PTEdzQkxiMUZsb1Npd0ZaamotQU5Ubm9UUmhsUFfSAY4CQVVfeXFMTzB3UFVaNGNnN0tPRTkyYzdoRzE1Ylp4RkdhR0hhNGdJbFI5LXFhVDRKMGppOURzandLakJJVXlKdFU2bVpfRTVyM1lXTWRYZ2owOVVVYlZ3Qmw2SEZ5NUVNNUJTUXFrdm43c2JKWEtDRmtHR3VhNWFtYTJ4RnV4VDRlcFNHQXRBUHE0UjRoY25GY2NvejFhSnJXb0poa1YxTnVrVm5qVnZTTm5BNmFieV9pZmRXd2NTRkF4TjRJSjFMWExHWGFVa2VDT1ZpaURKZFZXNldWTkd4eFlXaGhETzdDakt1Zmg5RjZmMjZPalppZ3NkRWp5dWNSbV85dkZNXzJYN1pwWV9ta2trOFpR?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -382,44 +382,6 @@
       "genuineness_label": "Corroborated",
       "brief": "BJSA seeks bodyguards for all judicial officers below CJM rank. Covered by The Times of India and ThePrint.",
       "image": "images/bjsa-seeks-bodyguards-for-all-judicial-officers-below-cjm-ra.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "man-wanted-in-rs-46-lakh-job-fraud-case-arrested-from-vaisha",
-      "headline": "Man wanted in Rs 46-lakh job fraud case arrested from Vaishali - The Times of India",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "crime",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTTRWY0hfa2ZWT0UwUG9BaXdZbnQxd3BHZ1hyVmpFNi1wQm1VQVl6SG12eGVkMU9oRGN4TDI3RGNfTTZRQU1fakl2VmF0T2xEYnota1JUQmlDeVk5YTFoVktadVJ2SDFicWlsTXdDVjloenBKVWxMZjNHN29pSWZ5SWtYYXdrbVE4WVhSdGtQTnBQX1RjQkVYNFRra1Vkejdpa2xpa00zNUZZbC1QeXVIWE9OdlZ6dHpjckHSAb8BQVVfeXFMTVYtaVpxRXhnQnp2QmhDaEdPM3VBY0NUdTc5WnNkZFliMGlKUFc2WE5sTTdUVDZQb3p0S1p4dm1FRE00V3U5QTdRMzQtd2UxX3M1OExYd05uYm1UVHNFU1B1SE5yaVVwaTNzUjIyRkVyZ2ZFV0JhZXBmVFN2VnFBOWFxMWFrWlpHMXBKUUVULXR1dnRVWFZucWhPTkVzbGFweWZBck5aVHZiNlpHUFZiMW96M3VINlN0Sm1IREJCT0U?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlBsc1lfV1N5eW43Mkp4VDFVSkp1N202c2Fob2phTHRnNkRiN2FxdmI3LVFVMFpsUlFaZ0hFSHB4MFNFbnJNOXA0UWxnQ0F5WTUtRmJCbDBadlFobnlBQmwtMEswcXdENlZzUzdMNklFb2FwWEJtZDdQX2N3WnBSaXNwRm1BMENwRHFXb3U4bTd3ZUxieVhCQ3dBaURmQVB2b2FveXNvNEdQQWFnT3Mzemg0NFJCUVRj0gG-AUFVX3lxTE9KZHg1UEJWdTNXZXVGQ0FaVDVoOG9OdnVRYTAydDdvdTM3Y0VkQ1I3R3I1X2RPb2FBc2NkNS1MU2s5MlR0MjR0ZGdQWUlDT0I0M29mOTQzNXJ3ZFhDSE1aNklBalFuLXJzVE92NXF2eHNvbVVmUl9sSFhCRGlQMWZTeGNzT1k0Z0Rfc1dVclRJcG13SmVYeEVBaGhVVmo2Tm1Ya28xQWpieXVzeUlkeGw4eFNQUWh5cXZ1YTZQYkE?oc=5"
-        },
-        {
-          "outlet": "The420.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fcTZHUHJYLV9oMUEzZjJ6RjMxUWxDV1R6WVBIWjFoV2pnSXdLaHhlY2tJSDJRVkFZS3hEbmJNbjNsQjBKVFM4c0dPZWZWOTFVaXNrYVV0SmYtNGM3R1dxYTJ6SUtmRnBxYl9qWlB4R3NQeUc5N09RNzdSUXI?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0JEcDNPWW5WZ1F0a2dzUktoYUE0Vy00T2Z2UjVMNWQtOUs0RUdKT0xtdVU4NEdwVXFkMG5fLXZ4X1M4OEZyZmd6dl9yMElTejQ3ZkwyNzk0VXBkaUs0anBMQWdMUWxaT0x0bzFYSHNkQWxBNFVvek9YbHdacmN3R1RubXJoTzBXeU5jR1NmM21wVUVsQ190b1BHenkxOUdUbWtBOEN1SDlqNzYyeDFvVVBFN0RTQ0I1MUlPbWRVcEM2T25oS3Q5NDBuaUJ5QWlH0gHWAUFVX3lxTFAxZG90WkwxRVN3R1NEQnkxTVctblVXUnNDMTMyQmEzWlNNTW9XQlNDUWREdjdWQjcyTVdvNl91UGNRNjhWQV9ycTVDRnBVTFBQSEpyQ1BZdV9fM3JSU3E0UWNsYjhBSVpVWXY3M3djLVJwRFJ1c0E1WDlIRmdZRkd6Ni1qZk5wQWwyQXdzdnJzYno4S3IyQ0lJSTNvd3UwWVNVU3ZUUEljQURmVi0tQ2t5ZGExdjNReGp0RjF4RTk4SFhUbEpHUUVGYkRoZTkyQm11aThpc1E?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Man wanted in Rs 46-lakh job fraud case arrested from Vaishali. A crime-related story. Covered by The Times of India and The420.in.",
-      "image": "images/man-wanted-in-rs-46-lakh-job-fraud-case-arrested-from-vaisha.jpg",
       "image_kind": "photo"
     },
     {
@@ -542,6 +504,44 @@
       "image_kind": "photo"
     },
     {
+      "id": "man-wanted-in-rs-46-lakh-job-fraud-case-arrested-from-vaisha",
+      "headline": "Man wanted in Rs 46-lakh job fraud case arrested from Vaishali - The Times of India",
+      "summary": "",
+      "date": "2026-10-06",
+      "topics": [
+        "crime",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTTRWY0hfa2ZWT0UwUG9BaXdZbnQxd3BHZ1hyVmpFNi1wQm1VQVl6SG12eGVkMU9oRGN4TDI3RGNfTTZRQU1fakl2VmF0T2xEYnota1JUQmlDeVk5YTFoVktadVJ2SDFicWlsTXdDVjloenBKVWxMZjNHN29pSWZ5SWtYYXdrbVE4WVhSdGtQTnBQX1RjQkVYNFRra1Vkejdpa2xpa00zNUZZbC1QeXVIWE9OdlZ6dHpjckHSAb8BQVVfeXFMTVYtaVpxRXhnQnp2QmhDaEdPM3VBY0NUdTc5WnNkZFliMGlKUFc2WE5sTTdUVDZQb3p0S1p4dm1FRE00V3U5QTdRMzQtd2UxX3M1OExYd05uYm1UVHNFU1B1SE5yaVVwaTNzUjIyRkVyZ2ZFV0JhZXBmVFN2VnFBOWFxMWFrWlpHMXBKUUVULXR1dnRVWFZucWhPTkVzbGFweWZBck5aVHZiNlpHUFZiMW96M3VINlN0Sm1IREJCT0U?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlBsc1lfV1N5eW43Mkp4VDFVSkp1N202c2Fob2phTHRnNkRiN2FxdmI3LVFVMFpsUlFaZ0hFSHB4MFNFbnJNOXA0UWxnQ0F5WTUtRmJCbDBadlFobnlBQmwtMEswcXdENlZzUzdMNklFb2FwWEJtZDdQX2N3WnBSaXNwRm1BMENwRHFXb3U4bTd3ZUxieVhCQ3dBaURmQVB2b2FveXNvNEdQQWFnT3Mzemg0NFJCUVRj0gG-AUFVX3lxTE9KZHg1UEJWdTNXZXVGQ0FaVDVoOG9OdnVRYTAydDdvdTM3Y0VkQ1I3R3I1X2RPb2FBc2NkNS1MU2s5MlR0MjR0ZGdQWUlDT0I0M29mOTQzNXJ3ZFhDSE1aNklBalFuLXJzVE92NXF2eHNvbVVmUl9sSFhCRGlQMWZTeGNzT1k0Z0Rfc1dVclRJcG13SmVYeEVBaGhVVmo2Tm1Ya28xQWpieXVzeUlkeGw4eFNQUWh5cXZ1YTZQYkE?oc=5"
+        },
+        {
+          "outlet": "The420.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fcTZHUHJYLV9oMUEzZjJ6RjMxUWxDV1R6WVBIWjFoV2pnSXdLaHhlY2tJSDJRVkFZS3hEbmJNbjNsQjBKVFM4c0dPZWZWOTFVaXNrYVV0SmYtNGM3R1dxYTJ6SUtmRnBxYl9qWlB4R3NQeUc5N09RNzdSUXI?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0JEcDNPWW5WZ1F0a2dzUktoYUE0Vy00T2Z2UjVMNWQtOUs0RUdKT0xtdVU4NEdwVXFkMG5fLXZ4X1M4OEZyZmd6dl9yMElTejQ3ZkwyNzk0VXBkaUs0anBMQWdMUWxaT0x0bzFYSHNkQWxBNFVvek9YbHdacmN3R1RubXJoTzBXeU5jR1NmM21wVUVsQ190b1BHenkxOUdUbWtBOEN1SDlqNzYyeDFvVVBFN0RTQ0I1MUlPbWRVcEM2T25oS3Q5NDBuaUJ5QWlH0gHWAUFVX3lxTFAxZG90WkwxRVN3R1NEQnkxTVctblVXUnNDMTMyQmEzWlNNTW9XQlNDUWREdjdWQjcyTVdvNl91UGNRNjhWQV9ycTVDRnBVTFBQSEpyQ1BZdV9fM3JSU3E0UWNsYjhBSVpVWXY3M3djLVJwRFJ1c0E1WDlIRmdZRkd6Ni1qZk5wQWwyQXdzdnJzYno4S3IyQ0lJSTNvd3UwWVNVU3ZUUEljQURmVi0tQ2t5ZGExdjNReGp0RjF4RTk4SFhUbEpHUUVGYkRoZTkyQm11aThpc1E?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Man wanted in Rs 46-lakh job fraud case arrested from Vaishali. A crime-related story. Covered by The Times of India and The420.in.",
+      "image": "images/man-wanted-in-rs-46-lakh-job-fraud-case-arrested-from-vaisha.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bihar-man-believed-to-be-murdered-4-years-ago-found-alive-in",
       "headline": "Bihar man believed to be murdered 4 years ago found alive in Delhi | India News - Hindustan Times",
       "summary": "",
@@ -614,17 +614,12 @@
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMTlKS2EtY3NILUxoaVpPX0JPVjhzdF9qazZ4ZkpOTjZaRF9JSXhZbVNrMzJfQmxBM2ZjSS1yak9iaXpIelpKM3NtV1ZURFZBblRvNXpYdEdKMzV0cXlmNUJXNlMxV3U3UVIteTZaaERmYzgtTXZHM3Q4NDY1ZUtMQlpvU1dBakc1dlZqeTRMRG1TR3ZZNHhEU05jZXBRRHIxcG8ta2kxSXpXZWpINUdzN29fZmI4eTRUdDRjNFBHd1k3d05RcWNGbFNHa2N4YTBiaDhjUG5iZ0dEcTBRbkNpZXltR1ZiNF9J0gHvAUFVX3lxTE1DX0pzVmNwRHVvanNlaFpYME9fRDVZcS16a3J4ZzlMNWlxN0FCampmem8xNXI1WjZTN3NVS1ZxVFhoS0FObGZZeW9XNXNYazl6bEMtWFJJUEMtMW9mSDRSQ0xDc3VHeDU2X3NQV0FOZWc1S3ZjQUV5WEE2SFY2Q0VydndFOFk2alRpU1UtNlRUZGdyY245ZV9BYk9hNWw3czhsSnJZclNLTzc5YlQwcTlLb084R2RtYzhQS1BBVS13YU1uYnhKNVFMVE9Wd1g2T2IxSTEwamd5aWtVdWw2RFpxX0ZKSEItRzlLcWswdXJn?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWpVWTVxREpyZjE5UnplQ0Y0MDRyY3BQZUlMcTNlVV85QlVtdVFveVNfRFJxZS1LVFVGamt1d2ptRzZvQ3NUUm5fZ3pyUjE0V0E2Vmx1T3VQRXlYVDd3V0lxTVVRZ2RKQlFEN29FUkV2NzRBU1Q4WEE3TVFoYUZJMVUxdVZqT3Q3NTB1bUlSdkxNTVRLWU1DUDJtdkw?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar. A civic-infrastructure story. Covered by 3 outlets, including The Times of India and The Hindu.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar. A civic-infrastructure story. Covered by The Times of India and The Hindu.",
       "image": "images/cm-samrat-choudhary-directs-officials-to-submit-detailed-rep.jpg",
       "image_kind": "photo"
     },
@@ -863,33 +858,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Dry weather over Bihar till October 3, no rain alert; daytime temperatures rising. A weather-related story. Covered by Patna Press and Times of India.",
       "image": "images/dry-weather-over-bihar-till-october-3-no-rain-alert-daytime-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "sc-grants-bihar-eight-weeks-to-clear-ganga-floodplain-encroa",
-      "headline": "SC grants Bihar eight weeks to clear Ganga floodplain encroachments in Patna - The New Indian Express",
-      "summary": "",
-      "date": "2026-10-02",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0tLMTdyQTktVUUwa09oeHFWcHRmVV9xcjBwMHhkMU1rRTdSMWoyTDBSNTRHWVJsVFZGYzJieFZ5S2dzRFhjY0wyZ0RodGJ2WlJVWEFmYVpjUWFwbFdNRE1wVFNXWjhfZm5LN0FrRXk1Z3FCZ3pLcDZqUkYxMTJFTHROWmwwNWU5N0tqVDNLYWtVcTdTRVZTcHRycW1ZS1ZXWlczQWN2WGk4SjdxNEllQ3d2bXRwRVJZd2FHcHVsN3phNm5kRXfSAdMBQVVfeXFMT0g2WUY0NWFSOWlPZXJJUV9NMTFiaWlWNjlMai01Mk5lMmFuUkFxUTM0ZUdjMmZPX2pMTV94LVNxOElqeERhXzNXWk1FX2ZUQTU1bnB5NFJ6VXRiVWN1aldTcWRnN0JWNE05c0EtTkFNUG9LZE9XOTRZcFJWOFhrLTZWRDNicHRxeXRLR0dfRzFMejExUEVBYl9xNk8xYVpOU3N1Z29fRkpXUG40MU92VG4zeGRoRUphbTR1bTFQU3JCMW8xMW95eDBFQl9hMGJpUTFINA?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORHV5R1Nndl9PV0ItUUQ1bFYzLS1mUmsyYUk5RERBcC1jS3lxRmFDclBWMmFEbnlyc0dSMkh3S1ZRUi1SX0U1d3ZTaHh2WXNwUkxUbFBaUThlZHBIa29vd1Z5NnBmOGJ4RUhNbmw1Y2Y4MllHbEJ4ZENuR3BUMHllWWlpVUFjQlBtZ3dtZHB1N2FVVDlKbTdoaFc0WEZncXBhRHQxWnFaSVJIWTBHaDhyZkFxQVplRzNPSGtsUnN0TTRPb2lRYl9ZdGVlWC1aUFp2Z2txT3Y1aUczOHgyMVRaZ3BOVdIB6AFBVV95cUxNQWpBaXkzMmZOYmxyN3Rrall1SHZrTFF5UzZ2YzY3Zm1CTTR5ZkVEdmdwU2h4dVA3Z0xSVVJNWGxlQlZ3X1VMVWJxbUJWaEctY3FLNk1udUY5SjBmX2xYeC1SUTdHT2k0blZXNUtIQkxJMFZna2pHY0hZTFN2Zk9Zamx3dl8wSzQ2VWlUaU95elVEU19kTUdVdGs3U3VtWTM5a1dmTmRFdDZHYU9ick9PSlRnQ1AzQm1OTkJfbExjOTJIWmhWV2d2WGtFSFF3Wi13TnBfZUlEa1ZFSTNudS16YjVxZWd0YlVW?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "SC grants Bihar eight weeks to clear Ganga floodplain encroachments in Patna. A civic-infrastructure story. Covered by The New Indian Express and The Times of India.",
-      "image": "images/sc-grants-bihar-eight-weeks-to-clear-ganga-floodplain-encroa.jpg",
       "image_kind": "photo"
     },
     {
