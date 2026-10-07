@@ -1,9 +1,36 @@
 {
-  "generated_at": "2026-10-07 06:35 UTC",
-  "generated_at_ist": "07 Oct 2026, 12:05 PM IST",
-  "story_count": 57,
+  "generated_at": "2026-10-07 07:35 UTC",
+  "generated_at_ist": "07 Oct 2026, 01:05 PM IST",
+  "story_count": 60,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "cbi-files-closure-report-in-pocso-court-over-death-of-17-yr-",
+      "headline": "CBI files closure report in Pocso court over death of 17-yr-old NEET aspirant in Bihar | India News - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-07",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSE0wemlrNkhFX2JGbHBJR0lVTGNpOFNVX3l5cGtkdnZCdHNqaTZxM0wyRE1adm9TMU9HYjAzM3ZiOWhrZG9RRWVEcVFlczBFLVB5YmNRSTFpa2VGLTZDWHZrdkxHb2xyNVFpbmU2UDFIUWl0WXpMSE5tRjVvY0JhU2doLV8zNVpTQ0dzOXllSC1jRTlfbjBrLVgxNnliVnpGMGp6NDNjQkxuTEVOeTRNV1RLRjU3a2dXdVVSaE96T2ZQUdIBxwFBVV95cUxPb194d0dXMUlYcXNFdWdybW1JT2ZTSDZzOG5hMmNKNVhwTGlNOTZiaUo5dmZkUWllc2hvUUVBNk9VWmtSd1JpU0hiMWQ2OTZZZHoyaE1kZ01JT2ZzdVdWQ25rUWw2bnVLSFk5UkhlVWRQMXFFd3B1YnBHVm81STUtX0sybU1fMTVDSTFtczM0c3k1NEZQOXAySmdoUjB6azc0cUxqbzROa1hRNHdpRV9zQXdOblF3R000RUpPbFlqU0FUaU52UmRB?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMXdvQjI3anhFQUVQZjltMnJfMmNUcWxEZXBZSTBYTGpYbFNidUdkXzNITnl1TFZVZUlreVA5anIzQjg3X0oyUzVTSGtDVTNzaHNaT1dRbllRVlJvQXpFV1MzNEhzZmg1d2ZOT2N4empDT0dkRjl5amIyTUhzSVlUY1hMOW55SVhEc1dzUGRKc0UySmxzSWJoUnYzQTBUMWdqX1pIMDhyeXhXT2hVZVhnd2kyamZDeUpCcXVPYjJrRThGZno5T0VhQnpxQVhBc1VsdHpSbXk1VzR6N0RqSkQ5Q01Ed9IB6AFBVV95cUxQNWlPV3VlRVZZSHlKSXg3VVNTYm43TUVSenlXRloxUzdhUmpVVTF5clVvMk4tTV9JRmV4b3ZrOUZVTzl1ZHVqMzZzV29OOWVVYnFjR2xPUGFKa29Ic2FRZFdjLUNHZVVDX09NZ3BvakNxQkh3RndnaDdRY25FLThlc055UXFYZlVBX3ZIbjdOTGRLNFAydnZpaUstdi1aeHFoNlRKZ2ZuQ3ZONm1hUGlIaXFHOE02Rnh6U0VyRUtkZDF5bWZoT25HQjJmekhubFEwemJsZHVnSm9nWXI2OTBDbHJxYzlvVGlG?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "CBI files closure report in Pocso court over death of 17-yr-old NEET aspirant in Bihar. Covered by The Times of India and Hindustan Times.",
+      "image": "images/cbi-files-closure-report-in-pocso-court-over-death-of-17-yr-.jpg",
+      "image_kind": "placeholder"
+    },
     {
       "id": "a-19-year-old-bihar-teen-reaches-level-22-222-in-candy-crush",
       "headline": "A 19-year-old Bihar teen reaches Level 22,222 in Candy Crush Saga, enters International Book of Records - Moneycontrol.com",
@@ -29,7 +56,7 @@
       "genuineness_label": "Corroborated",
       "brief": "A 19-year-old Bihar teen reaches Level 22,222 in Candy Crush Saga, enters International Book of Records. Covered by NDTV and Moneycontrol.com.",
       "image": "images/a-19-year-old-bihar-teen-reaches-level-22-222-in-candy-crush.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "greater-noida-bus-fire-bihar-bound-bus-gutted-in-knowledge-p",
@@ -51,9 +78,9 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa29NcUZSSjdjZDgzVDhyUE92Vmg3eXlhbVYtX0VlWDBUSHVvT1Zkems2dHZFRUFNcEhQcHNrVWpaanNCMlBRdW5udXdHM1AyTHpQRDZlR1RSOXcwX1BKVFlfQ2Y2RHJJX0JQVEJ4Z05kLU15YjRnMjBPb1FsMjJtdEQ2VHJXMmVoQ0VINkRUTk1zQ1dMVXp4NVMzeUxMT01uQk95M1phX2phd3ktcDAwQ0Izcno?oc=5"
         },
         {
-          "outlet": "The Economic Times",
+          "outlet": "Public TV English",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb0NWWVVSUVVLWmVaVDlUa3JzSEhBSklHZFNsY3dKMkpnZDRZVjRENXJkd1QzRm9PMTVSVXNJcll2QWFTTUpqRFNUQ0paTWlsQ2FWYWg4UGZkaFdiY3ZRaklLYm5fbW9oTC11UV9pLUcwVnlHS3B3ZVBkNXZzUEpyaTBIa2hPZnZnZ1MyM0ZtWmNBbG83bG45bXJ6cUJCdWcxNlowSFdmTlpnMjdqYW1wR0NJLXB4Nnc2WVFkZWZmTzJZaUV6TFdubtIBzgFBVV95cUxNNzVuWkN1c2NER0tOSTliUkhxcUF0R3M1OWI5Q1Jnc25URjB0aklCWGhGU0FyX0tXdk9pX0RycEp0VklEc09QV2poa0Q0bVJIbTFLQ1dIWEFSUkJGMmNDODlOazBzTlhlcC1HZkZoVHBzcHRTdHBkSFVneU9PZnpUUXI1aVBEWGhyTDBSTWJRX3gteDMzTy05UzNHNEF4SjJjeHBtSTZtcGUwZmJ3YzVBdGFLdDFkLUl4WVlkR1NsQkY1ZGt3ckl1MXpRTjZ4UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHZMOWJET01EVm9PU1ZtWXJQY1Mwa1JtM2FLR2FpOXVyNFNzaVMxVjJBUjVQY2lzWkkyM0hCUTNUU0ZnQWRUc3BJblhyTzdodVoyMm5ONk5fSG1CeXc0eDdET18tbjBBd0JEbkxfek9ZVU5jc1JpeF9fR2JPZm4wQzZIaHNxYm15ejJhVm5WcENJcFVYRzlZZXlEajNWM0VfcEFqUm43SjNtQTVzeWRFT1VuX2Q?oc=5"
         }
       ],
       "source_count": 3,
@@ -270,12 +297,12 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX21PSVNPNnBEQmxocmJ0MllicHQ2R0h2X2xtc2RJOXpOMmtxT0drU0VnTW9KZzBEWi1UQ1BWY0ttSlZpeTVTVWhTUnBDWXA1TkRMOUgzZ09pNGtXLW5FaW1hTS1oM19MYnZPVDZmckxKb05IVXlwZjlyN3FZNFk4cTRlamNXTUM5NWRQOC16TVdJQ3dMQ1hibEVTOUN6X1NDX0xYR3p1T3Z6VzhUWnFEM0hMT2UyTndDajh3c25sMmx2ektuZzFZR0lGeEZia3RXcjMzVWZVUUtIUzTSAeABQVVfeXFMUGJQSDh3d2h3dnJwX29JRzJybVlvN3JZcW1DMXZ6VHFJYjBuaDRQMzluMXJ5eDYyWUxDeGtyR3dRNDc1MVF5ZzRndTdPeXlEc3VhTDN5RWo5d1JTWFJqdU4yeWVWcG1JczkyZVVzbjZpZHNZamp6MDhzTFNUek5FSUU1TGdLTFZrUW5TaUlSQi1RSkFwVnFZQms3QVpVRUx5UWl0MzItQmM5ODBITU55NmxsbDUydy1iV2M0ZG50Q0E3OVVLeExGejNkLTJPZHR5V3NWWU5Zemw5QUp4UzNTbGI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZThHZ01EcnFxSzg5Y2VlaU1wNWxyTUJ4ZlZGNkZJMFFxek9GSGplTUxwazQzd2Z6NURSMEd1WjRUdjVPTENiVzRpUGZYb2dwUWZSOFJEUDlBRVhMN3VRbVExRmFDemZGWnFRQk5DUS1abF9VOUZrUlpiME1ObkFiQm02clFUZHZpcW1XeVZ0MUluQ1hvRFZtZmpCemN1M1QxLUZ0SVZHakFIMjhJWmR0WVVqSdIBuAFBVV95cUxQNEhEVVJ5clRKR2hPU1M1QTlaNmZYQ2hrLUFFTF85UEFBbktlZmpGRjhhbFFHQl9PT1NNaXlObjZUcnBVbzBZZnhIX2tSNGduSVhfSHJwMzVOcTJnVWRZQUh3SUliY1hrVGM2RWtMLWFSZG1kaDJUUHowa0FwNDRudnBZMDJ0LWZBcGg2bkNBVmVKQ21YNmNqOXlHVmx0TTdFV01JbkpmTmt1cVlTbXJOak1jVFJmZ0Vz?oc=5"
         },
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZThHZ01EcnFxSzg5Y2VlaU1wNWxyTUJ4ZlZGNkZJMFFxek9GSGplTUxwazQzd2Z6NURSMEd1WjRUdjVPTENiVzRpUGZYb2dwUWZSOFJEUDlBRVhMN3VRbVExRmFDemZGWnFRQk5DUS1abF9VOUZrUlpiME1ObkFiQm02clFUZHZpcW1XeVZ0MUluQ1hvRFZtZmpCemN1M1QxLUZ0SVZHakFIMjhJWmR0WVVqSdIBuAFBVV95cUxQNEhEVVJ5clRKR2hPU1M1QTlaNmZYQ2hrLUFFTF85UEFBbktlZmpGRjhhbFFHQl9PT1NNaXlObjZUcnBVbzBZZnhIX2tSNGduSVhfSHJwMzVOcTJnVWRZQUh3SUliY1hrVGM2RWtMLWFSZG1kaDJUUHowa0FwNDRudnBZMDJ0LWZBcGg2bkNBVmVKQ21YNmNqOXlHVmx0TTdFV01JbkpmTmt1cVlTbXJOak1jVFJmZ0Vz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX21PSVNPNnBEQmxocmJ0MllicHQ2R0h2X2xtc2RJOXpOMmtxT0drU0VnTW9KZzBEWi1UQ1BWY0ttSlZpeTVTVWhTUnBDWXA1TkRMOUgzZ09pNGtXLW5FaW1hTS1oM19MYnZPVDZmckxKb05IVXlwZjlyN3FZNFk4cTRlamNXTUM5NWRQOC16TVdJQ3dMQ1hibEVTOUN6X1NDX0xYR3p1T3Z6VzhUWnFEM0hMT2UyTndDajh3c25sMmx2ektuZzFZR0lGeEZia3RXcjMzVWZVUUtIUzTSAeABQVVfeXFMUGJQSDh3d2h3dnJwX29JRzJybVlvN3JZcW1DMXZ6VHFJYjBuaDRQMzluMXJ5eDYyWUxDeGtyR3dRNDc1MVF5ZzRndTdPeXlEc3VhTDN5RWo5d1JTWFJqdU4yeWVWcG1JczkyZVVzbjZpZHNZamp6MDhzTFNUek5FSUU1TGdLTFZrUW5TaUlSQi1RSkFwVnFZQms3QVpVRUx5UWl0MzItQmM5ODBITU55NmxsbDUydy1iV2M0ZG50Q0E3OVVLeExGejNkLTJPZHR5V3NWWU5Zemw5QUp4UzNTbGI?oc=5"
         }
       ],
       "source_count": 3,
@@ -561,6 +588,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci",
+      "headline": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages - Jagran",
+      "summary": "",
+      "date": "2026-10-06",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Aaj Tak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcnZiZVpGb3ZPRUUxZFlMYU1GSW9MX202ZjdaTWs3eS0xSVVxUURJWjFrSU9nbkQ1T0tEWHpnWF9KOGtIcFJlY0VKMFhjZnU5bFpoVXVFeTJtNEJEOHFmY29VcE0zVHozQ0txMi1HRVhMR19vVXQ3d1RGMlhoMVQ2V0xYMUh5WXZkRFVEOHRSQzNkcElDT0g0Wlo1cHJXbE5tUzZyN3U2ZXdMZ3I5TGZmNF9lSlFXbU5FSXpZbk9fcXdOQnYtWHNXSk9RdzFEWnhIUl9KNjdUanFDUEpPOTZlT2hTUmF4ckFiMXp5ZTdWM185RktQUy1LVUFjSdIBgAJBVV95cUxPaVBWSDNZbDBOTzZBNHQ1ZDJqYjhyLUJ6bUZmb3d1bGhYWG1kZVdySldWald3bC1VZ0NPX2ZyT29SNmctSm5sejgzc1F1QUtmVUs3LTNleW84RTF4Y19yYWlidjVoYjk5QXBGMmh6SzgzVG56U3NzTGc1OGFBdGNLZ2dzUHNKOWd4bGhjckQwNlNtaHNuczR2NzU4Qm1QWENIcGtXQjlWMGZSVmN3M0VPMW8xNFNLdm9SdlN3UlFyblZVVEpwWWdIM3I4TWI0VFZFTVNrUEZ4ZHR6dkhZY3NuX2kteGJYSFdVS2tObUlpWUxXZ01MV1FBbU9BdEVLXzly?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHpFWm1iRV9ZajQ3VmZ5ODhtUGxRWDl5dS1QTVNjeVRLWFZMZ3FyQXUwMFZPMExVcC1oVmhhLURTMVRrRVdBRk1SNHZ0V1RkcTdERlRLZmVYWkxTMGRaRUdLeEVlNGtZWVpCNUV2R1BWZkxIY2hxLUVkc2JHc1F5VmhvOTlQWHhVSmpobC1tTlVLeHh0cjF1OUZDck10X3R0SHN5Q1JHMTJJNV8zU3loX08wdVlyWVY1Z3BZaWk2SXJOUDI2cnBBV0xyWXlHRjktU1BhVW45bkRNWUdS?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे Aaj Tak और Jagran ने रिपोर्ट किया है।",
+      "image": "images/13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bhaskarhindi-com",
       "headline": "एमएलसी चुनाव की तैयारियों के बीच पटना पहुंचे नितिन नवीन, एनडीए नेताओं के साथ रणनीति पर होगा मंथन | ?????? ????? ?? ????????? ?? ??? ???? ?????? ????? ????, ????? ?????? ?? ??? ?????? ?? ???? ???? - bhaskarhindi.com",
       "summary": "",
@@ -570,20 +624,20 @@
       ],
       "sources": [
         {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdjgyd3Z4Y3ZtRUVOdXNHdjZDVW1NXzY5V2FSbGNlU0NOSVBZbHJyUk4zcEJmVWo1S185bEhDc1piaVdRVGJ2YUoybk1ZVnkyck91bk43bmpDdUJXVExjRTBiOC1oNE9VbjdOeTlaZWF6c29JdE5pa3AxRGNHM3d0YmEtQklFT0hueGp1ZFRpOUJhVVJITk44elNOWlFLRGRsX0p5dlNIbjc5WGxGN2VOdDFLWHB0S3gyc0xJOVRobC1wX0xtUmJlT0FkZU9JTWpFS21DNnBOSEJxYWxMaUVPa29pTHF0Z2F5U0huUzEzNDI0TFJGU2NicWFZUVBjWVRNb3pjc01uQkNOUUgwYzZMX3ktSdIBmAJBVV95cUxPcW9oVVpWNW5YOWdjbnFpbXdmbnhLVHVkNnVVWjNkQ0tlQVBzWDE3LTBmQ1puTERoY216ZTBadzZmV0lkdVkzRnpSa0NsenV1Z3UtUjAyZ05FVTlMVHJpNVJyMXRtb1dwcG9STVY5dV9WaS1mVUtadGRmTXRSTkQ0UGNheG9JNjVXbEpKNjlmRDc1bHhjcXFsdUxuaWJOLTludUFiQ1ZpNjFic2hmUG92YTdxV3JtX1dIS0IyYzBnSlJtaWNTcUE0clpJOHZLam9BQTlOZ0pTLUNGbnU0N1p3NFNUdGduQjNHbGdGSm0xOF93eXRJbFNFQUczVkhTR0pkc0VzcHlPenBzZ1p3SkZ2MFkyUVFyb1Jy?oc=5"
-        },
-        {
           "outlet": "bhaskarhindi.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQTc3Z3l2YnFlTmR2NDdrZDViZ1BPZzRvWlY1YXp1SG0zeUs1dFBldU9ldElrMXRxTlZrcFJwMlJNT1ZSMDNBcldfeGpVNk8yVUtTODJsTzBSQXljRVdrOW1LOWdvOGJHTlB4X1l3cXJNQUgtWGRFd29rcHFkU1k1b3hmTktiS3Jnb0tRYi1YMHBtX1R6UVg0cEtrRU1NSHdQRU5hZDdaQ1RkZGs1ZFRGcUpMWWI2VThROEpjX2RGSUtSdkpPMlVOYjdyOVV5MGRjblBqTXRwOE5YYnR2MUlaWg?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdjgyd3Z4Y3ZtRUVOdXNHdjZDVW1NXzY5V2FSbGNlU0NOSVBZbHJyUk4zcEJmVWo1S185bEhDc1piaVdRVGJ2YUoybk1ZVnkyck91bk43bmpDdUJXVExjRTBiOC1oNE9VbjdOeTlaZWF6c29JdE5pa3AxRGNHM3d0YmEtQklFT0hueGp1ZFRpOUJhVVJITk44elNOWlFLRGRsX0p5dlNIbjc5WGxGN2VOdDFLWHB0S3gyc0xJOVRobC1wX0xtUmJlT0FkZU9JTWpFS21DNnBOSEJxYWxMaUVPa29pTHF0Z2F5U0huUzEzNDI0TFJGU2NicWFZUVBjWVRNb3pjc01uQkNOUUgwYzZMX3ktSdIBmAJBVV95cUxPcW9oVVpWNW5YOWdjbnFpbXdmbnhLVHVkNnVVWjNkQ0tlQVBzWDE3LTBmQ1puTERoY216ZTBadzZmV0lkdVkzRnpSa0NsenV1Z3UtUjAyZ05FVTlMVHJpNVJyMXRtb1dwcG9STVY5dV9WaS1mVUtadGRmTXRSTkQ0UGNheG9JNjVXbEpKNjlmRDc1bHhjcXFsdUxuaWJOLTludUFiQ1ZpNjFic2hmUG92YTdxV3JtX1dIS0IyYzBnSlJtaWNTcUE0clpJOHZLam9BQTlOZ0pTLUNGbnU0N1p3NFNUdGduQjNHbGdGSm0xOF93eXRJbFNFQUczVkhTR0pkc0VzcHlPenBzZ1p3SkZ2MFkyUVFyb1Jy?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "एमएलसी चुनाव की तैयारियों के बीच पटना पहुंचे नितिन नवीन, एनडीए नेताओं के साथ रणनीति पर होगा मंथन। राजनीति से जुड़ी ख़बर। इसे Navbharat Times और bhaskarhindi.com ने रिपोर्ट किया है।",
+      "brief": "एमएलसी चुनाव की तैयारियों के बीच पटना पहुंचे नितिन नवीन, एनडीए नेताओं के साथ रणनीति पर होगा मंथन। राजनीति से जुड़ी ख़बर। इसे bhaskarhindi.com और Navbharat Times ने रिपोर्ट किया है।",
       "image": "images/bhaskarhindi-com.jpg",
       "image_kind": "photo"
     },
@@ -612,33 +666,6 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना में हमसफर एक्सप्रेस पर पथराव, B-7 कोच की खिड़की का शीशा टूटा; RPF ने शुरू की जांच। इसे Jagran और News18 Hindi ने रिपोर्ट किया है।",
       "image": "images/b-7-rpf-jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci",
-      "headline": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages - Jagran",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcnZiZVpGb3ZPRUUxZFlMYU1GSW9MX202ZjdaTWs3eS0xSVVxUURJWjFrSU9nbkQ1T0tEWHpnWF9KOGtIcFJlY0VKMFhjZnU5bFpoVXVFeTJtNEJEOHFmY29VcE0zVHozQ0txMi1HRVhMR19vVXQ3d1RGMlhoMVQ2V0xYMUh5WXZkRFVEOHRSQzNkcElDT0g0Wlo1cHJXbE5tUzZyN3U2ZXdMZ3I5TGZmNF9lSlFXbU5FSXpZbk9fcXdOQnYtWHNXSk9RdzFEWnhIUl9KNjdUanFDUEpPOTZlT2hTUmF4ckFiMXp5ZTdWM185RktQUy1LVUFjSdIBgAJBVV95cUxPaVBWSDNZbDBOTzZBNHQ1ZDJqYjhyLUJ6bUZmb3d1bGhYWG1kZVdySldWald3bC1VZ0NPX2ZyT29SNmctSm5sejgzc1F1QUtmVUs3LTNleW84RTF4Y19yYWlidjVoYjk5QXBGMmh6SzgzVG56U3NzTGc1OGFBdGNLZ2dzUHNKOWd4bGhjckQwNlNtaHNuczR2NzU4Qm1QWENIcGtXQjlWMGZSVmN3M0VPMW8xNFNLdm9SdlN3UlFyblZVVEpwWWdIM3I4TWI0VFZFTVNrUEZ4ZHR6dkhZY3NuX2kteGJYSFdVS2tObUlpWUxXZ01MV1FBbU9BdEVLXzly?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHpFWm1iRV9ZajQ3VmZ5ODhtUGxRWDl5dS1QTVNjeVRLWFZMZ3FyQXUwMFZPMExVcC1oVmhhLURTMVRrRVdBRk1SNHZ0V1RkcTdERlRLZmVYWkxTMGRaRUdLeEVlNGtZWVpCNUV2R1BWZkxIY2hxLUVkc2JHc1F5VmhvOTlQWHhVSmpobC1tTlVLeHh0cjF1OUZDck10X3R0SHN5Q1JHMTJJNV8zU3loX08wdVlyWVY1Z3BZaWk2SXJOUDI2cnBBV0xyWXlHRjktU1BhVW45bkRNWUdS?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे Aaj Tak और Jagran ने रिपोर्ट किया है।",
-      "image": "images/13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci.jpg",
       "image_kind": "photo"
     },
     {
@@ -679,6 +706,43 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-suspends-7-engineers-over-flood-response-lapses-gandak",
+      "headline": "Bihar suspends 7 engineers over flood response lapses, Gandak level recedes - India Today",
+      "summary": "",
+      "date": "2026-10-05",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW14Y0hzTVJuVnY0VkJERkg0bFgxOWZJVmFKQy1hbG9WZVpVYWxKRW9TQnlQYi1vM2FPZy1mbEZJdk1BQW9NNzhTSjNRamxKeGRTSmdya05ybHdzWHp0MzA4a25ob3RUdzRNT3VZa1RVOVhmLUlpeTQyaGJwYTV2ZFEwcl9fMjR3TUJTQ2ZaYVJ3eHdlY3RDdGFneVdpSlJMR05QSmk2WXIyNlpBZHRJcDRXbVRYZTNuNGfSAb8BQVVfeXFMTmhpY2NNVmRsOXhjR24wYmhpdThDcWZ1VUlfTEpBQnMwenhGWUtFcHBuX2NvdkFIU1BwX29FRXprRGVvdkkxUGNkMlhTSG16UWEyUVFhVGJOQWxPeUZ1d1JMWjA4RnladHNQN1RMVnBEcS1FbkpKUm1ENW5YM250WjY1M1RYTS04NGZTVGdEdVRKSmE1S25DdXhTbkFhV2RIMUtpbl9qZ3hTbnZJYi1DdHV3U0tUN0o4elhzVDdKclU?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXNESHJ4Y1luTW1NVmpLRy1uN0FjeEdReEcxRlQ1VGZ4V2x0RnJ3RXpMNTNOWGRLVVVQQXJzcS1pdUxXRGNlbnJDQzVORDladkE1Ymt5TDdIUEF5UlJ6UUEwZF9obnZidlNwcGtIb01vTUN3eFZ6RUpHQW8zcWRnUmswYmllb3ptVHlVZXpSRS1QbURCcEJHRmFpdUh6dG9jRVY3WU9jREZObnBQTXpN0gG0AUFVX3lxTE94a0YwVW83TGNnREl4a0pTVDBsLUZxdHc2VThrdG01THFZTUlkcjFhQ1A1QmRQZVNKbDJ6eWZtQnJ4WHhmS3k0bVpUMHpVdXc2ZEJtTDFEYzRHdXlOVmdXMHo2aDFvcUNYUm5QNWFXRUFrck1VcE90U0RjQUJrYkY1czdwYmgzZFFUZzNrYXB6Q3dlSnJOOWtDRDQ5QXBkT21sUkZYM3gtRlFpVmpfSnl3cDNaVg?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzlveDdRaWxqakRpRUdFVW44U3hnMGx5ZlUwNExMLVFRSWZaVDJXdmV3M0hmZ09RS0JBUU9iSnVNbmcwN2lFeVlSUGhrQ0ZQMUU1a3h5VHNiZ1FocFRfNVFaVDc2V3JDaFZCMHBiR3N2dmc2bldreFcxNFJMLWNwUGNrM2RCeHNzaGJqejdxU3o4SkRxUWJocXBSeEdrd3llaURjNjktLVF3UjBHSzZuWW1GN29NdFFmTnpaT0NsUUQ3N2Jtenlz0gHMAUFVX3lxTE1mN1N5T2FGSlZ4eUNiLTlLM0NoLWpXV2NmZFpFQmRZSHdpUmRqUEVuam9IUld3TFRmbGh5MXBVOUtSMGppY2pQS2JTTVFjRlZjWHhBNEJtRzJ0b015dDJIOG9aZkJwRnVvTFNGTlBRdzJ0dGwxOThrQmJlZFI3VWI0c3FXUzVSU1lUU2N3YUxneFN0MExoNzRvUWc0cXUybWpEbzg5Tlk0N05nbXR4WWJFUG9rMXJVZDRVanNPN0hhWUpnSlpSenBaYi1BQg?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVGRXSVI2NlN1bkhMYnpGT19fOVJKdFoxRFRRODVIS3NTbG9RUVNDQ0dlVFV0UEpELTRNNlp4YUQyb2NRSE9OUjNKTmtSZWthSDk2QjVjTFVJeDh3dXhVWGM0aWNWS0RTQTFNcGR0MmxlTDMtcmppdDdCOENsQ2hhRWtwTW5ZelJFZ1p2bTJmUWZTX0VzcS1fVU9sd2cwNTVwakc4Rnc1WVdyMDY3MTNfWWtGSEc3SWlmQnZUSDFFS2ppckxkU1VDdlh2cU5XRDRWRVHSAdcBQVVfeXFMTWFlZmhCRWQ3aFF6bzBBZmk2bGV5RllzbURfMTFjTDFURHhrS0pHSkZ2TURZeVNXUzZYVFp4cFJYdXR1ZkYzVUgydW5BanZfYmZEQlNxWElqNmZaWmtnZTBQOXpWT0hMYU1WOHQ5QzlCWlB4ZEx0TGR1MHluZE90VnBmWnZtWVpiX18yNDhLTGN6SUI0dFpUanVhTExKaEJYbVo1MmJnNEViZnZqZE1PbWJ6OHJpd1VabExZdU5Lc3pzNG5WX0VicGNjVGZ6SzRBUW00bzA1Z3M?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar suspends 7 engineers over flood response lapses, Gandak level recedes. A civic-infrastructure story. Covered by The Times of India and India Today.",
+      "image": "images/bihar-suspends-7-engineers-over-flood-response-lapses-gandak.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bihar-man-watched-drishyam-3-travelled-2-000-km-to-kill-fath",
       "headline": "Bihar man watched Drishyam 3, travelled 2,000 km to kill father. One call exposed him - India Today",
       "summary": "",
@@ -703,6 +767,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar man watched Drishyam 3, travelled 2,000 km to kill father. One call exposed him. Covered by Gulf News and India Today.",
       "image": "images/bihar-man-watched-drishyam-3-travelled-2-000-km-to-kill-fath.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-sir-row-india-bloc-to-hold-akrosh-march-on-october-7-d",
+      "headline": "Bihar SIR row: INDIA bloc to hold ‘Akrosh March’ on October 7, demands CEC Gyanesh Kumar’s removal - The Times of India",
+      "summary": "",
+      "date": "2026-10-05",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWXhLdFVkNG45Vlgyd1hObVZzYVd5Z3EtY25MUVkxVUhOZGJhdE9tbTRBeTVlTDd5d3BfQmVuYWFZRXNvcDd2NlU2WTlZNXhOc0dGbmhhRVY4VDg1N25HWFVDYjBCajV0bC10dmxoeTRfUkxDRmlrUzZCa3JMVlc2WmJYazNra3BCQjMtZmMweTlJcGd3V2RFSG9YOUNvdzFWUHgtXzJOU2JpOXlFTkFyQ0E0X0dXNnFrRjFSeGF2NXlIUGY1U2tmay0ya3hnc2h5SXVLa2JtV2Vfc3pJZ0drTnhGQzViZGg0Y2RVV3Z1NEVDUnRwMVpvLTRn0gH_AUFVX3lxTE5YRkZlbkdobGdGUEVZRzYzSXM4bVBTaVV1RGRFRlk4SHcwYkdFNHk0eHdhX0dKb2F5NGdfaWpjREJwRWU0cUF4T3ZFMXU2VU1sOFc3VTlUWWtRZldyWTJsMnVkelBLbjJ5Wmt1dVBab0dPRkZzMV9yNS0tc1FNT0U2QlUxalJiSFN0djM2X2ZrdlUzSnFfVUhOckcyVy1WcUxCcW12bnRtdUw0cGRsdUp5UHJuc01IZERmdDZqaHFXUVA5YjVhX2tpNzNURG9Id3ZwQkJSaW0tYzhCWXQ0Qjh6OXVjbmNHMTQ3SkNLZ3B1ZjlTS2ZrZzU4dWhFa19wTQ?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONGFLOU4yUWlKNkxNQ3hfY3RtdGdGaEF6LWlyblRBeDUzbFB1Z3RtTWlpdEZNeDE2eU5ncGtQd09mdExJem91VjJnUTdDZ2xpdkp4R0VWVm9PQ3dWZ21JMGgxOVJYcjZONW1ia3JYU0JXRnZSYnltWlRKaUdTdWVmZ3pZYmlGXzdQNEFQSy0xLXN3dklmZWxvX3YtV25ITkMtX05WNnBXeGV5YnlfMXA3c2R5SDJnLXl2ZHNiRWl0a0EwTFNKT3c?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar SIR row: INDIA bloc to hold ‘Akrosh March’ on October 7, demands CEC Gyanesh Kumar’s removal. Covered by The Times of India and The News Mill.",
+      "image": "images/bihar-sir-row-india-bloc-to-hold-akrosh-march-on-october-7-d.jpg",
       "image_kind": "photo"
     },
     {
