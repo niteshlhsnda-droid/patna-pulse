@@ -1,36 +1,9 @@
 {
-  "generated_at": "2026-10-07 02:35 UTC",
-  "generated_at_ist": "07 Oct 2026, 08:05 AM IST",
-  "story_count": 63,
+  "generated_at": "2026-10-07 03:35 UTC",
+  "generated_at_ist": "07 Oct 2026, 09:05 AM IST",
+  "story_count": 62,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
-    {
-      "id": "19-4-prabhat-khabar",
-      "headline": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-07",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzhhbmpabVU0aVVrZVU1ZVEzT2syTklBSEZZWjc0cjlVZkJjT0ttX1JqblRmenBuQ0poN2lDTjBScWpOaUNsd25qSVF6MUx0akRWVEJkM3pnTVdxQlpKVXgtWXJoTHBkVVkwSWJWSEFtenIyZGxHLU1yNjVyQnpGbTEzRFYxZElRUnpPemhYb0hSUFdROXBGM1JlTXRoOVpXcXdVU1FUdDRvZHJ0T3VB?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRU5rSlFQWVc0SlF3VlJUb0lYcE9pei1WLVRvOVZtbkgyamdPYWM1R3hwWkU2THNLc0Fhd3g5cjRZNmRlWEFRNklRZWY1YVRlTjltN0JibVE0Y1hlc24zQmduTUx2NTMyMnFETklLQXlaT3llYVJTcG1qbnFRRUVLWi1RRXh4WTF3bGtsUk5KNGoxNHV5d3VQREh2NWliQS1EVUZ0aXp2bm9sRzctWC1XWDFVTkZCajVzaGh4ZWVaVlMxMzRCV0RsVDdWM19fcGVLUVFrT1ppUDhHcmhLMk5MYjB0bjhMT3RwZl9PTEdzQkxiMUZsb1Npd0ZaamotQU5Ubm9UUmhsUFfSAY4CQVVfeXFMTzB3UFVaNGNnN0tPRTkyYzdoRzE1Ylp4RkdhR0hhNGdJbFI5LXFhVDRKMGppOURzandLakJJVXlKdFU2bVpfRTVyM1lXTWRYZ2owOVVVYlZ3Qmw2SEZ5NUVNNUJTUXFrdm43c2JKWEtDRmtHR3VhNWFtYTJ4RnV4VDRlcFNHQXRBUHE0UjRoY25GY2NvejFhSnJXb0poa1YxTnVrVm5qVnZTTm5BNmFieV9pZmRXd2NTRkF4TjRJSjFMWExHWGFVa2VDT1ZpaURKZFZXNldWTkd4eFlXaGhETzdDakt1Zmg5RjZmMjZPalppZ3NkRWp5dWNSbV85dkZNXzJYN1pwWV9ta2trOFpR?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल। इसे Prabhat Khabar और News18 Hindi ने रिपोर्ट किया है।",
-      "image": "images/19-4-prabhat-khabar.jpg",
-      "image_kind": "photo"
-    },
     {
       "id": "neet-cbi-navbharat-times",
       "headline": "NEET छात्रा मौत मामला: दोषी को नहीं खोज पाई CBI, दाखिल की क्लोजर रिपोर्ट, जानिए केस में कब क्या हुआ - Navbharat Times",
@@ -61,7 +34,34 @@
       "genuineness_label": "Verified",
       "brief": "NEET छात्रा मौत मामला: दोषी को नहीं खोज पाई CBI, दाखिल की क्लोजर रिपोर्ट, जानिए केस में कब क्या हुआ। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Prabhat Khabar शामिल हैं।",
       "image": "images/neet-cbi-navbharat-times.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "19-4-prabhat-khabar",
+      "headline": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-10-07",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzhhbmpabVU0aVVrZVU1ZVEzT2syTklBSEZZWjc0cjlVZkJjT0ttX1JqblRmenBuQ0poN2lDTjBScWpOaUNsd25qSVF6MUx0akRWVEJkM3pnTVdxQlpKVXgtWXJoTHBkVVkwSWJWSEFtenIyZGxHLU1yNjVyQnpGbTEzRFYxZElRUnpPemhYb0hSUFdROXBGM1JlTXRoOVpXcXdVU1FUdDRvZHJ0T3VB?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRU5rSlFQWVc0SlF3VlJUb0lYcE9pei1WLVRvOVZtbkgyamdPYWM1R3hwWkU2THNLc0Fhd3g5cjRZNmRlWEFRNklRZWY1YVRlTjltN0JibVE0Y1hlc24zQmduTUx2NTMyMnFETklLQXlaT3llYVJTcG1qbnFRRUVLWi1RRXh4WTF3bGtsUk5KNGoxNHV5d3VQREh2NWliQS1EVUZ0aXp2bm9sRzctWC1XWDFVTkZCajVzaGh4ZWVaVlMxMzRCV0RsVDdWM19fcGVLUVFrT1ppUDhHcmhLMk5MYjB0bjhMT3RwZl9PTEdzQkxiMUZsb1Npd0ZaamotQU5Ubm9UUmhsUFfSAY4CQVVfeXFMTzB3UFVaNGNnN0tPRTkyYzdoRzE1Ylp4RkdhR0hhNGdJbFI5LXFhVDRKMGppOURzandLakJJVXlKdFU2bVpfRTVyM1lXTWRYZ2owOVVVYlZ3Qmw2SEZ5NUVNNUJTUXFrdm43c2JKWEtDRmtHR3VhNWFtYTJ4RnV4VDRlcFNHQXRBUHE0UjRoY25GY2NvejFhSnJXb0poa1YxTnVrVm5qVnZTTm5BNmFieV9pZmRXd2NTRkF4TjRJSjFMWExHWGFVa2VDT1ZpaURKZFZXNldWTkd4eFlXaGhETzdDakt1Zmg5RjZmMjZPalppZ3NkRWp5dWNSbV85dkZNXzJYN1pwWV9ta2trOFpR?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल। इसे Prabhat Khabar और News18 Hindi ने रिपोर्ट किया है।",
+      "image": "images/19-4-prabhat-khabar.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "29-307-hc-navbharat-times",
@@ -88,7 +88,7 @@
       "genuineness_label": "Corroborated",
       "brief": "बिहार के सरकारी अस्पतालों में 29 करोड़ के डस्टबिन 307 करोड़ में खरीदने का आरोप, पटना HC ने मांगा सरकार से जवाब। इसे Navbharat Times और Hindustan ने रिपोर्ट किया है।",
       "image": "images/29-307-hc-navbharat-times.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "9-6-prabhat-khabar",
@@ -142,6 +142,33 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना मेट्रो ने पूरा किया एक साल का सफर, 3.37 लाख से अधिक यात्रियों ने की यात्रा; अब खेमनीचक स्टेशन का इंतजार। इसे Hindustan और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/3-37-prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bjsa-seeks-bodyguards-for-all-judicial-officers-below-cjm-ra",
+      "headline": "BJSA seeks bodyguards for all judicial officers below CJM rank - The Times of India",
+      "summary": "",
+      "date": "2026-10-06",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZTJaOEJ3WFY2WnhOOVVQZjlSQW0zalhQd1BseXNWSmozak5QRjgwYTVkNEVLWlJoLTFucU9qaTBHa19PeVI2b0pIVkx4Q2FBelE2cGVRSDJKSzV5TGNRM1VwNDBmbTFzUGVWS0dSTXVJYnA1MElZeG5lS3dtZTNNbE1hSmNGWWhhMlRpYXhReC1YZmo3Wmk3SHZ4VzN3eVk5RFk1OU56OHlZNjRTeUtFYWQ3WDJSODJDc2JBaTRXSnVtd2tSTE4zWXEzd0N3ZHNL0gHWAUFVX3lxTFBQaFVRMVpMSkMxV2xOSTNKMm9rcnBSWmsxaTY5UXBDOXR4Z3FDeXRBdGV6Vkw2alc0UUZHRTNST08tbG5YbklTdDFWc0ljNUNlS3JfSW40cFVIU2ZCOHQ3MGZYd1MwSlpRSTJtQXc0bWVfVG03cFpRU21WTE1NMkdvQUl3VVB1aHRXZWNGVDlyQThVaXcwbTFQSUd6ODE2QlJWWmR0c2d4ZUthQWcyWmc2N09sWmFZX2lrT0FfZWp2Ny1zUWdtSXQ0TWI4LWE5V0lFUWZHSmc?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDJuNk1JMk11QTVhcVNiVWJRSUJXbzU3dXhaaE9EcnphemtNcWVnWTQ2TF9jVTFrX2k5eWJIM0gxSW4zeEhRTFBnamdsZU9VdHppSjBjUF8wekxfdWhFTjRxRHVabC0wN1plSjdiUFFCTE5vRS0xQTVJbFNYdGZmRnJlZWtIZEtmaE14LVFtXzdYVDY3cS1QUktfYVZMRVpGZHfSAacBQVVfeXFMTjBfVlhaV3FBZ2J4N2dXSUpIZXd1NzZSdEJCUTFpbHpIdlpMUEtoeThnRFd0S1pxVDRiTnRpN2dlMGl6T24zaEVCMHVpTy04REIxUW5rTXdkelRoeFZIVDRJRzgtTnlCaHFhY0FxVmphTnJMR3JIYkZORi01djFWQ3pZZm9Ed3hmZmRCTUNpMzNNeGVydTQzbWU2WV9OaXo2bUlsZVlnUU0?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "BJSA seeks bodyguards for all judicial officers below CJM rank. Covered by The Times of India and ThePrint.",
+      "image": "images/bjsa-seeks-bodyguards-for-all-judicial-officers-below-cjm-ra.jpg",
       "image_kind": "photo"
     },
     {
@@ -274,6 +301,11 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnhJdU80RGdoOGZHcFdobDE2cnJDMlNQSF9kcDlJWmRnWmt4dTFZQlNDNzYtM2ZCTl9teTgwV3EwQ28wVEpUa3JGNzZnLXR3ejFKYzBycGJyQlhYZHdEajRnOUUzRHQ2TGduMkt5SHNHNERjSC1mZmtHUXRnV3RZLXZoRUhnOHNlb3RoZGNiNVJrcGtpN3hBUFpEc284VURvaGphVXNHZWpRMExiSjk0V2hhNlZtb09hRG1FZUtXQkFxcXpoaE5GRHMwWEzSAdIBQVVfeXFMTnp4emY4cDdjSzVBOWQxT0g0WjAzS1dfa0d6MkxiMFVDTWw0Yi1XTUhJekdXY0lRZXdIenRJbnd3QzJLaGJjNV8ybWUzNEczakpVLWFKRWZxWm9oeHhQMHh5LTA2MHZlbWpLcW54Q3dLdnE4MXFYMHNNSXV0anQ3aXZGd1Fmd0xid3hRajNBS21QdUlTeXA5ZGNIcDNqVlloQlN0Ni1IMEtOaW9xWmx3QmNwVDY0ckNudFV2UzZMaWIzaXJXSm9ZVU5LZXM1TjBqY0dR?oc=5"
         },
         {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWxGTHlMWHVGOU5lN1lVUTdMTVpFRjFTbjVDXzc1eFVuRDZEREE2UXRlcEtmaFFVUjU5NE1yTlhyRk5wQzB5bXg1TUVDVnlZM01QLWVkbV9IaTdDV0xueFMzWEdNZEx2Q2g0aVFBUTJhZTN6OW11Mmk5b200cUJscW1WTlBpb0IyUlV5TTdUUGY5YWY3bkRDQ3NpZmxrclY0X2lVelZ2WFJtWC1DejJFTWJjNG1Eb3NJdU9zempZcTdHYjFtSGlVaTk4RdIB0AFBVV95cUxOUkpfbjA3NVJ1U1Jrd2t3eVJGVldJb1RUbTBkZU5TUjFvS09BeDVqVThTNGlXcFdVbDhCR2F5VUpwelVYVVJPQjZWdGdaaE53c0ZRNVY0YkdicHlSVDdLMlp4bVRXS19rU2JLcjhkMUl5akJ2Q2lJclJPS3dPYmFielptTm5RRW5BY3NxUnFQcnFaWjU2ZlE3OS1DcTJKWEpuSUJoYmViamZYbGRsbjh1bW5MemFxZGlqX0RCRHBBc09fLTlnVm91SzF5U0ZQblRU?oc=5"
+        },
+        {
           "outlet": "Pioneer Daily",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSU9EQUdVeVRDMUE4Wld5UUxfSXRLakgxWXhKZEtfbVVSRDRxVHlRdElCUUpJbTZBam10NDFuMHBLVG02MF90Z3RuQzNicURRNl84RC1hUHlWcU5Ta1NQYnRFY2ljOTBoOUdCOG41ZzdmZGJST1hjTmJQVkZfcFRCdVRLdkU1Nkd1bUZ5bmNOSGpkejNCNkZTWktUVWcyOEI5?oc=5"
@@ -364,16 +396,6 @@
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNFdOZk05VXNWOWJ1dVZrZXk0dXZiNjhxU2dvVkNxZl9QUzBKZVptQ0s2RTVuWFdQNHR3WTJQNzRDZUZVOHA1MUppZ2RVOXl5T0R0LTd4MktzY3JueVh5dkhLUzV5SWVFY0s5NHFaVFhsM0cwaVlDdUIxcE9hTFdQV1VaeVdlYnZxZFk2NWFaQUtjNkZLZGpCUXdPSXNWTk9hTm55R0Z1VXNTRE40ZDl3WVdPdE9pNXBlUDhlV1pqT3FyLVhwTmx6SkxB?oc=5"
         },
         {
-          "outlet": "Pioneer Daily",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT0FCQ015aEprVmJfd3NtOVF4TUp0clYzYkdiRmQzaDZUN3BEaGQ2bEYzZnc4MXZCc2FBZXNPeE5rYVBIZXFUUl9HbzVMNGxjcjAyR3RJVXhlYl9iTFo2X0ZsSld1dm9ibUYtaHE5Z0Jodjl0TXBzU1J1S0dPTEkwMXRCaG9feC1Wa1Zlb2NCakhiR2V6VVB0dFEwbTZmSzFIcGpubGZsdDFyWG8xUXNqOUxMN0U?oc=5"
-        },
-        {
-          "outlet": "Pioneer Daily",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTRQTi1JRmlUR204MTYxS3ZUclhQRHlUeG9jM2xlbURZdmd1SVB2X0dRa3F5SWFObFR1WkRqUXVJVC1OQ0FOc2xCb09VTEgzNmI1X3dHUmpkUlhpS0FCaHdmUTVGeE5JN1hITnlPQTl3RjVlYk5XeG0wNFlIbFJTRzRscXFBVk9GSnpMd3NzTE1FcUZhaXgtLUdB?oc=5"
-        },
-        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTWhiOGppZlhOWDNPbUxoeWFEQWc4cHgzRDQ3STdLWWVhZUowYnpNZWZ4cEZ0bmJMMmRmYWdXbmIxVlRxa3FodllNMFZCVEtaTzVTOGp3ZTNmbHlmbkNReG42enRtcTJoT1NXbGNVYkxOMzJpaHVYYXRkOERZdVhLdzJfckRaLTBBQ3pxdERuQi1DUmZzWFRRejNDWkpncVZ6WGxNbl9yX3lnRWZ5NVFGWm1Lbm4zQll1aGNncE1WazFNZUU?oc=5"
@@ -389,10 +411,10 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0E5c3YxYWVOZTR6TzJ0QV94RTdSeXFYaTNiNkFFdl9wYWhJcWNVd2RZcjVfcnNEQ0NDRmxSSU9kdEJhOVhTZGN4R01VX3ZLMFFiTFNaN3FyVy1sNWJLRWFBcndWOENSN1hnV1JUVzJQTEpFMkd0VnZ1NzJFMzFkLVBwaFJsVXhlLTRscENLaFRWeWhZLTdQVUlzNGFaS2c0bV9fOVlILVpQWTRyLTlsNi1Na9IBwAFBVV95cUxNX2RBRGs4X1dSZ1phYTh4MG42NnJpWnlBWUgyOEwydzJPSF82cEpCdEZQNllxN2UwTlhQTnhlS3c2cTlZSnBsS1gzcEFyTnB1bUFqLW90Q0dtTnVOVEYyR3lwUDlvd1ZHbmpabU83RDlwLUw0UTBjVFZqdUhPYlBWUEJhV1ZGcWRjQWRrbUg1VG13RDUtcGRuNWdvUzFreWlGaTVtdnNRbUFqQ3UzS3ctNWdPcmxOZng5Qm9POUJOcnc?oc=5"
         }
       ],
-      "source_count": 9,
+      "source_count": 8,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'Gross negligence of duty': Bihar cop suspended after video shows him brandishing pistol during flood rel. A crime-related story. Covered by 9 outlets, including The Times of India and Deccan Herald.",
+      "brief": "'Gross negligence of duty': Bihar cop suspended after video shows him brandishing pistol during flood rel. A crime-related story. Covered by 8 outlets, including The Times of India and Deccan Herald.",
       "image": "images/gross-negligence-of-duty-bihar-cop-suspended-after-video-sho.jpg",
       "image_kind": "photo"
     },
@@ -479,33 +501,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bjsa-seeks-bodyguards-for-all-judicial-officers-below-cjm-ra",
-      "headline": "BJSA seeks bodyguards for all judicial officers below CJM rank - The Times of India",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZTJaOEJ3WFY2WnhOOVVQZjlSQW0zalhQd1BseXNWSmozak5QRjgwYTVkNEVLWlJoLTFucU9qaTBHa19PeVI2b0pIVkx4Q2FBelE2cGVRSDJKSzV5TGNRM1VwNDBmbTFzUGVWS0dSTXVJYnA1MElZeG5lS3dtZTNNbE1hSmNGWWhhMlRpYXhReC1YZmo3Wmk3SHZ4VzN3eVk5RFk1OU56OHlZNjRTeUtFYWQ3WDJSODJDc2JBaTRXSnVtd2tSTE4zWXEzd0N3ZHNL0gHWAUFVX3lxTFBQaFVRMVpMSkMxV2xOSTNKMm9rcnBSWmsxaTY5UXBDOXR4Z3FDeXRBdGV6Vkw2alc0UUZHRTNST08tbG5YbklTdDFWc0ljNUNlS3JfSW40cFVIU2ZCOHQ3MGZYd1MwSlpRSTJtQXc0bWVfVG03cFpRU21WTE1NMkdvQUl3VVB1aHRXZWNGVDlyQThVaXcwbTFQSUd6ODE2QlJWWmR0c2d4ZUthQWcyWmc2N09sWmFZX2lrT0FfZWp2Ny1zUWdtSXQ0TWI4LWE5V0lFUWZHSmc?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDJuNk1JMk11QTVhcVNiVWJRSUJXbzU3dXhaaE9EcnphemtNcWVnWTQ2TF9jVTFrX2k5eWJIM0gxSW4zeEhRTFBnamdsZU9VdHppSjBjUF8wekxfdWhFTjRxRHVabC0wN1plSjdiUFFCTE5vRS0xQTVJbFNYdGZmRnJlZWtIZEtmaE14LVFtXzdYVDY3cS1QUktfYVZMRVpGZHfSAacBQVVfeXFMTjBfVlhaV3FBZ2J4N2dXSUpIZXd1NzZSdEJCUTFpbHpIdlpMUEtoeThnRFd0S1pxVDRiTnRpN2dlMGl6T24zaEVCMHVpTy04REIxUW5rTXdkelRoeFZIVDRJRzgtTnlCaHFhY0FxVmphTnJMR3JIYkZORi01djFWQ3pZZm9Ed3hmZmRCTUNpMzNNeGVydTQzbWU2WV9OaXo2bUlsZVlnUU0?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "BJSA seeks bodyguards for all judicial officers below CJM rank. Covered by The Times of India and ThePrint.",
-      "image": "images/bjsa-seeks-bodyguards-for-all-judicial-officers-below-cjm-ra.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "cm-samrat-choudhary-directs-officials-to-submit-detailed-rep",
       "headline": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar - The Hindu",
       "summary": "",
@@ -525,48 +520,16 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVQwTlk2MDExY2ZYeGJncmU2VTRISDdQUU1RbmdJeG9FbHAzSzF2QTRzenVYZV9qRFZmRzBNVTBqd0h1MFNEbWNyRHB2Z0toWTd5YnNsdmhlTlE5Q1RsNi1keFlCMkRzczhLNTl3NE9SUTJfX0UxLW9US05HdThhQ2Z2QmxrOFpiUlBVdDJQRk52X2VGQUVoUC1xSlpvLXl5ZTVXc1dCaXpiQ1FJa0tnZHVVakpCYjhFUEljSGxmQkxkX3lYUS1qNGpYSFJXemM3VF9F0gHYAUFVX3lxTE9QclBXbFl1RlFMdkppMmIxOV9WX2dxQXl4bV85eElldjlGRXJWRjJfVTljbDA3Z1hNNE9rUnMxUW4yLVR3MzBqa1Z0cTFMNFVJZHFkNDBsOVhFb0txel9vcHVpb2JSUExEcTEwMkJwVFlPNGFON0NCSHVVUGIzVXozSkFrQkltYnVtVTIxSUJyYW45b1otcEdaQVBRMFB5WGJHWEJDMW1kcmJTa2dXR1BBcFA2YTRyYnpNRXZHUC1paXVUQWRtaGJJZWwyMWt5ZktTbmdoWGNoLQ?oc=5"
         },
         {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDViejdZbkt0eTRsYWhWWkVGRFdjRDFhcFQ2c093Xzg1U0VpejVpbm9FU0xmR3M1T2d1Yms5MFVKalNmRm1Ma0dhc2o1Tm9ORktROENOenFlc3o5Uk00VGhpZmZjSnBqTGZUVFhDQUJSTVFUNHdqVkd1NEVLR3R5cjk5UE5yckVTWFdpcGRIOXRUWF9mcDZHYW84RlJoemdDSmtmMzRXc2tURTNGMFdYSDIwNWpxbzhGMUhLb0RQaWN6aEtmWnfSAcsBQVVfeXFMT2xpZXJOSzhyQkY3dkJUSEJJdWkxaGxCa2l3Y0dQcjYtS0dhaklXaXhFSFVKNkRvZDMyQkZkRUVWMU5hTzIxbXhGV2poVHZmRktrOXJOYXRyOS12d3VoNW4ycG10MmdIb0ZnSXM4LW9iS3R2UzYzU3BZUlNEd0VnX3kzN3MwVnNKUjl4NXI5VDRLSGQ2aDh0a1VkSGtVNS01aWtCaWdtamFRWG14VjdoLV9IZzA2U1kxdEQ4cGo1ZHJCemNFWEVfbEJrYU0?oc=5"
-        },
-        {
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWpVWTVxREpyZjE5UnplQ0Y0MDRyY3BQZUlMcTNlVV85QlVtdVFveVNfRFJxZS1LVFVGamt1d2ptRzZvQ3NUUm5fZ3pyUjE0V0E2Vmx1T3VQRXlYVDd3V0lxTVVRZ2RKQlFEN29FUkV2NzRBU1Q4WEE3TVFoYUZJMVUxdVZqT3Q3NTB1bUlSdkxNTVRLWU1DUDJtdkw?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar. A civic-infrastructure story. Covered by 4 outlets, including The Hindu and The Times of India.",
+      "brief": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar. A civic-infrastructure story. Covered by 3 outlets, including The Hindu and The Times of India.",
       "image": "images/cm-samrat-choudhary-directs-officials-to-submit-detailed-rep.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-sir-row-india-bloc-to-hold-akrosh-march-on-october-7-d",
-      "headline": "Bihar SIR row: INDIA bloc to hold ‘Akrosh March’ on October 7, demands CEC Gyanesh Kumar’s removal - The Times of India",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWXhLdFVkNG45Vlgyd1hObVZzYVd5Z3EtY25MUVkxVUhOZGJhdE9tbTRBeTVlTDd5d3BfQmVuYWFZRXNvcDd2NlU2WTlZNXhOc0dGbmhhRVY4VDg1N25HWFVDYjBCajV0bC10dmxoeTRfUkxDRmlrUzZCa3JMVlc2WmJYazNra3BCQjMtZmMweTlJcGd3V2RFSG9YOUNvdzFWUHgtXzJOU2JpOXlFTkFyQ0E0X0dXNnFrRjFSeGF2NXlIUGY1U2tmay0ya3hnc2h5SXVLa2JtV2Vfc3pJZ0drTnhGQzViZGg0Y2RVV3Z1NEVDUnRwMVpvLTRn0gH_AUFVX3lxTE5YRkZlbkdobGdGUEVZRzYzSXM4bVBTaVV1RGRFRlk4SHcwYkdFNHk0eHdhX0dKb2F5NGdfaWpjREJwRWU0cUF4T3ZFMXU2VU1sOFc3VTlUWWtRZldyWTJsMnVkelBLbjJ5Wmt1dVBab0dPRkZzMV9yNS0tc1FNT0U2QlUxalJiSFN0djM2X2ZrdlUzSnFfVUhOckcyVy1WcUxCcW12bnRtdUw0cGRsdUp5UHJuc01IZERmdDZqaHFXUVA5YjVhX2tpNzNURG9Id3ZwQkJSaW0tYzhCWXQ0Qjh6OXVjbmNHMTQ3SkNLZ3B1ZjlTS2ZrZzU4dWhFa19wTQ?oc=5"
-        },
-        {
-          "outlet": "Pioneer Daily",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORU16eG9rS3lsSUtTUkVaaFRRcFNySnA5dUFDTXpFOXlac1AzZy1HdlQ1eTE2dFhnSE44UzF5UTBBLVVoLWd1NXJWMnc1Ull6TlkzS3kzSDNkWC12SHAwSUszbDlwLV9PSjFaUHVqWWs1Q3RjeGhqa0loOTRWa1Y1X0kzWVo2NDAtMUJNdnRXc0I5dw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar SIR row: INDIA bloc to hold ‘Akrosh March’ on October 7, demands CEC Gyanesh Kumar’s removal. Covered by The Times of India and Pioneer Daily.",
-      "image": "images/bihar-sir-row-india-bloc-to-hold-akrosh-march-on-october-7-d.jpg",
       "image_kind": "photo"
     },
     {
@@ -653,38 +616,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci",
-      "headline": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages - Jagran",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcnZiZVpGb3ZPRUUxZFlMYU1GSW9MX202ZjdaTWs3eS0xSVVxUURJWjFrSU9nbkQ1T0tEWHpnWF9KOGtIcFJlY0VKMFhjZnU5bFpoVXVFeTJtNEJEOHFmY29VcE0zVHozQ0txMi1HRVhMR19vVXQ3d1RGMlhoMVQ2V0xYMUh5WXZkRFVEOHRSQzNkcElDT0g0Wlo1cHJXbE5tUzZyN3U2ZXdMZ3I5TGZmNF9lSlFXbU5FSXpZbk9fcXdOQnYtWHNXSk9RdzFEWnhIUl9KNjdUanFDUEpPOTZlT2hTUmF4ckFiMXp5ZTdWM185RktQUy1LVUFjSdIBgAJBVV95cUxPaVBWSDNZbDBOTzZBNHQ1ZDJqYjhyLUJ6bUZmb3d1bGhYWG1kZVdySldWald3bC1VZ0NPX2ZyT29SNmctSm5sejgzc1F1QUtmVUs3LTNleW84RTF4Y19yYWlidjVoYjk5QXBGMmh6SzgzVG56U3NzTGc1OGFBdGNLZ2dzUHNKOWd4bGhjckQwNlNtaHNuczR2NzU4Qm1QWENIcGtXQjlWMGZSVmN3M0VPMW8xNFNLdm9SdlN3UlFyblZVVEpwWWdIM3I4TWI0VFZFTVNrUEZ4ZHR6dkhZY3NuX2kteGJYSFdVS2tObUlpWUxXZ01MV1FBbU9BdEVLXzly?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHpFWm1iRV9ZajQ3VmZ5ODhtUGxRWDl5dS1QTVNjeVRLWFZMZ3FyQXUwMFZPMExVcC1oVmhhLURTMVRrRVdBRk1SNHZ0V1RkcTdERlRLZmVYWkxTMGRaRUdLeEVlNGtZWVpCNUV2R1BWZkxIY2hxLUVkc2JHc1F5VmhvOTlQWHhVSmpobC1tTlVLeHh0cjF1OUZDck10X3R0SHN5Q1JHMTJJNV8zU3loX08wdVlyWVY1Z3BZaWk2SXJOUDI2cnBBV0xyWXlHRjktU1BhVW45bkRNWUdS?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDVWQ3k1ZnRLVzA1T3VYTmxPTWhWcXc3YnJSbkJYQ0ZCd01JUzJOZWZzMllra1pOeEU5Vzl0NGM5cVpSRUh2NHBxQ0YxbHBvOVVuY3FESWlOaU1HRXBwUWxIT0RuVHZibWhKczk1Y2VCb21pMlhBWWRKaHJkU2thYjBES0RlS0Vhb0xiSmViUU5oWVhja3ZiSTVCSWVIQkdyN0RCSnVHUnRQb3hzd3JuVG9GVjBEZE5RZE5ZNnVONDg5dW9zVTdZUw?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Aaj Tak और Jagran शामिल हैं।",
-      "image": "images/13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bhaskarhindi-com",
       "headline": "एमएलसी चुनाव की तैयारियों के बीच पटना पहुंचे नितिन नवीन, एनडीए नेताओं के साथ रणनीति पर होगा मंथन | ?????? ????? ?? ????????? ?? ??? ???? ?????? ????? ????, ????? ?????? ?? ??? ?????? ?? ???? ???? - bhaskarhindi.com",
       "summary": "",
@@ -702,17 +633,12 @@
           "outlet": "bhaskarhindi.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQTc3Z3l2YnFlTmR2NDdrZDViZ1BPZzRvWlY1YXp1SG0zeUs1dFBldU9ldElrMXRxTlZrcFJwMlJNT1ZSMDNBcldfeGpVNk8yVUtTODJsTzBSQXljRVdrOW1LOWdvOGJHTlB4X1l3cXJNQUgtWGRFd29rcHFkU1k1b3hmTktiS3Jnb0tRYi1YMHBtX1R6UVg0cEtrRU1NSHdQRU5hZDdaQ1RkZGs1ZFRGcUpMWWI2VThROEpjX2RGSUtSdkpPMlVOYjdyOVV5MGRjblBqTXRwOE5YYnR2MUlaWg?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZktyazRSX09jcUJUMkZqWjZWTWhIdlhXcGpGMHhHdzluRzZyYzctSXBuX3hWTGZwdmlJejMxZjhoZTlSdk5hYURmX1ZhdXRjMWVzLVcyb1FlNm9JTHVNWHNVaWdvdXl2VkZFTUlub2l2RzRPTnJSemEyVlc1LUdqQlhGeVZJSXl3ZV95b0txNFRaR1JEaTVtSHFrQmJXa2pUcFBVUEhzWmdHTHpPS0NwMGltUGZJQ0NSdVpyS2Zn0gHDAUFVX3lxTFA2djViUEg5MUxUUVR5SFNXX3Q5azdncjh4MVkyNDFOYkpLbGhPcXBCWnA0cWV4dzRrRlh4c0JjNFU3TEtxV3pQeENhR1p1dUNuU2s3NUhiNG9Vay1YbkJ5eGlUS1dUcmdMbXpIcnVDVlhkRnJKT1lEaU10Zk1uSVVOWV9GNThQLUtGczl4VXpRbUVqWTZrdkpGZGx2bHgySW5CZ3htZkpKOWg3bVlvdlR5bjhGUzllRTNVV1dPX1E3S3JDdw?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "एमएलसी चुनाव की तैयारियों के बीच पटना पहुंचे नितिन नवीन, एनडीए नेताओं के साथ रणनीति पर होगा मंथन। राजनीति से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Navbharat Times और bhaskarhindi.com शामिल हैं।",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "एमएलसी चुनाव की तैयारियों के बीच पटना पहुंचे नितिन नवीन, एनडीए नेताओं के साथ रणनीति पर होगा मंथन। राजनीति से जुड़ी ख़बर। इसे Navbharat Times और bhaskarhindi.com ने रिपोर्ट किया है।",
       "image": "images/bhaskarhindi-com.jpg",
       "image_kind": "photo"
     },
@@ -733,7 +659,7 @@
         {
           "outlet": "News18 Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVJCalRmaUNjSGYwd1p3YVg0Vmd6cWhlaGp0NEd6NUZaVXZDZVZlYVlOOE5ISWN6a19ZVU84dVJQVzNSN2FnWDV6VVpQb1BCY24zNktjbHRBYTlTZW9MY3BCdElHUFlZaEFoc0c1M1IxVm4wRjhEV0g5aDBhczRxNHJTazZzSDhPUTdzS0MxM2QxeDRoNDA5UXZKRDB5ZXZhUE1SaG9pemZUY21XMXJrWWlsdjF1SUlYVFlHTGdXMNIBvwFBVV95cUxPbVJCalRmaUNjSGYwd1p3YVg0Vmd6cWhlaGp0NEd6NUZaVXZDZVZlYVlOOE5ISWN6a19ZVU84dVJQVzNSN2FnWDV6VVpQb1BCY24zNktjbHRBYTlTZW9MY3BCdElHUFlZaEFoc0c1M1IxVm4wRjhEV0g5aDBhczRxNHJTazZzSDhPUTdzS0MxM2QxeDRoNDA5UXZKRDB5ZXZhUE1SaG9pemZUY21XMXJrWWlsdjF1SUlYVFlHTGdXMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTVITmh0Wi1EWlc4TUZCVnlmU0pydDFhbWVvV0dDRzVCR29Sc2N3NE1ZYVVxcFNOR3NVemFpcDF5QlUwZkRLMFU4ZGh3Z2xzd0Z2NHNHNng0cHZpSGpRYjFjakkyeGZDXzhKVnB2NllYdDBBVENTREVKRDFVd0hqQkZ0TG5aRzQ1M195TDg3LWJITmxqdWF6cVRwd19pTGp4dXVSY0FLaGdRY0tsWThydy1JWUpWbmRjV1HSAb8BQVVfeXFMT21SQmpUZmlDY0hmMHdad2FYNFZnenFoZWhqdDRHejVGWlV2Q2VWZWFZTjhOSEljemtfWVVPOHVSUFczUjdhZ1g1elVaUG9QQmNuMzZLY2x0QWE5U2VvTGNwQnRJR1BZWWhBaHNHNTNSMVZuMEY4RFdIOWgwYXM0cTRyU2s2c0g4T1E3c0tDMTNkMXg0aDQwOVF2SkQweWV2YVBNUmhvaXpmVGNtVzFya1lpbHYxdUlJWFRZR0xnVzA?oc=5"
         }
       ],
       "source_count": 2,
@@ -768,6 +694,38 @@
       "genuineness_label": "Corroborated",
       "brief": "बिहार: गया-पटना एनएच-22 पर दर्दनाक हादसा, डिवाइडर से टकराई बाइक; डायल 112 के एएसआई सुनील चौधरी की मौत। इसे Jagran और Amar Ujala ने रिपोर्ट किया है।",
       "image": "images/22-112-amar-ujala.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci",
+      "headline": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages - Jagran",
+      "summary": "",
+      "date": "2026-10-06",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHpFWm1iRV9ZajQ3VmZ5ODhtUGxRWDl5dS1QTVNjeVRLWFZMZ3FyQXUwMFZPMExVcC1oVmhhLURTMVRrRVdBRk1SNHZ0V1RkcTdERlRLZmVYWkxTMGRaRUdLeEVlNGtZWVpCNUV2R1BWZkxIY2hxLUVkc2JHc1F5VmhvOTlQWHhVSmpobC1tTlVLeHh0cjF1OUZDck10X3R0SHN5Q1JHMTJJNV8zU3loX08wdVlyWVY1Z3BZaWk2SXJOUDI2cnBBV0xyWXlHRjktU1BhVW45bkRNWUdS?oc=5"
+        },
+        {
+          "outlet": "Aaj Tak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcnZiZVpGb3ZPRUUxZFlMYU1GSW9MX202ZjdaTWs3eS0xSVVxUURJWjFrSU9nbkQ1T0tEWHpnWF9KOGtIcFJlY0VKMFhjZnU5bFpoVXVFeTJtNEJEOHFmY29VcE0zVHozQ0txMi1HRVhMR19vVXQ3d1RGMlhoMVQ2V0xYMUh5WXZkRFVEOHRSQzNkcElDT0g0Wlo1cHJXbE5tUzZyN3U2ZXdMZ3I5TGZmNF9lSlFXbU5FSXpZbk9fcXdOQnYtWHNXSk9RdzFEWnhIUl9KNjdUanFDUEpPOTZlT2hTUmF4ckFiMXp5ZTdWM185RktQUy1LVUFjSdIBgAJBVV95cUxPaVBWSDNZbDBOTzZBNHQ1ZDJqYjhyLUJ6bUZmb3d1bGhYWG1kZVdySldWald3bC1VZ0NPX2ZyT29SNmctSm5sejgzc1F1QUtmVUs3LTNleW84RTF4Y19yYWlidjVoYjk5QXBGMmh6SzgzVG56U3NzTGc1OGFBdGNLZ2dzUHNKOWd4bGhjckQwNlNtaHNuczR2NzU4Qm1QWENIcGtXQjlWMGZSVmN3M0VPMW8xNFNLdm9SdlN3UlFyblZVVEpwWWdIM3I4TWI0VFZFTVNrUEZ4ZHR6dkhZY3NuX2kteGJYSFdVS2tObUlpWUxXZ01MV1FBbU9BdEVLXzly?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDVWQ3k1ZnRLVzA1T3VYTmxPTWhWcXc3YnJSbkJYQ0ZCd01JUzJOZWZzMllra1pOeEU5Vzl0NGM5cVpSRUh2NHBxQ0YxbHBvOVVuY3FESWlOaU1HRXBwUWxIT0RuVHZibWhKczk1Y2VCb21pMlhBWWRKaHJkU2thYjBES0RlS0Vhb0xiSmViUU5oWVhja3ZiSTVCSWVIQkdyN0RCSnVHUnRQb3hzd3JuVG9GVjBEZE5RZE5ZNnVONDg5dW9zVTdZUw?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Aaj Tak शामिल हैं।",
+      "image": "images/13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci.jpg",
       "image_kind": "photo"
     },
     {
