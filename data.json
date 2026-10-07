@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07 12:54 UTC",
-  "generated_at_ist": "07 Oct 2026, 06:24 PM IST",
-  "story_count": 54,
+  "generated_at": "2026-10-07 13:54 UTC",
+  "generated_at_ist": "07 Oct 2026, 07:24 PM IST",
+  "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -10,8 +10,7 @@
       "summary": "",
       "date": "2026-10-07",
       "topics": [
-        "politics",
-        "education"
+        "politics"
       ],
       "sources": [
         {
@@ -23,22 +22,12 @@
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVWVHRmRLenlIM01qQ1BxZC1YRUpEMGNBRjQwWEoyVml5QkpJTWM5Q2NSWXpQdk1mWTRKOFEybmpMTEhLdE8xMkEyVzFzSm92bjA5VFU5VWtSM3VRcnVKbFhhUEFwbFQ3Zml0RXNRRGRrSDdUaEtwQWtibmZtVVhVclktQjZKeFFaSmJkWjBReFFXaUhrSHB2dDdmWXRpeWNJZXZheGlBLTdGZ2RhcTU2eHluTHNPb0EybW0tS3BGbUk2ODRJMWFPQmtFbzdSOGc1eGMwWWhLN0dORVRrSTZSdXlJcndfZmVhX2dJ0gHwAUFVX3lxTE5FdThWTnRPOG5lNkVMWjBOZ0hOM2dqM3BpYlhmdWN4UWZxWW5kYWZCOGdlZHc1Q0cxd2FBQUhqRzM3bWhrYUV4ZmJvWnM2TW1KMXVQN2MwZzM4THNETzZxRlF0YlNmalR0Ym9xd1VMWGZjUTIybkgyTV84SFNocDJiOGw5bklSMTRvaTQ5Y0lMNGd5WjNTOVg5OGF4RDNjVEl6QUk4eTIySDRBRUI5R0dIRzcyTUJBNmZwS1RNTVg2UFN5VE8xM3pRRmVkcGJkVHVjQTc4U09rVVRTdzJGNXhvSndhTXRZeGFhOHRWdC0zaw?oc=5"
-        },
-        {
-          "outlet": "EdexLive",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTg5NjVtcXRHTjF5eTdtS2ZOam5nNlhiVkVZbmV1QmwtYjJjbERULU52NnRXaUR0X3M0YkhEdWRZTUhQaXFxdmJ0X2l5TEtDX3QxTnFNb3hkVTJLS3FaZjQ0LUVNV3JYZXFVbXByd3BVVkhHek5MLU1mZDRqckxZWEU3ODJsTDBudUpRcGZ2ZEFuVDktQjdJZE9TeE1ZN01XRE1UajE3SdIBtAFBVV95cUxOdW5RTnVRWXNfWVhUMTlqYTdXRVlUMklPQ19mNTRIT2tnSmFTOWxwc0s3R1hrbVZ2ZnJDaUl2bVgwRmpkN0NGWXl3U1FmWHYzSF9qWUtmTlhzazEtUUZGZkE3SWM0d1J3TzRvOE1iMEgxWWZuM3ZOOHBhdlBQT3FyU01WMlRaQUNFb3ZrNmIxbmRTSDEyRFpZZlhYNE1XUFBCV25qMWJDUE80anM3N2p5N1hsYzE?oc=5"
-        },
-        {
-          "outlet": "The Federal",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0NMbjRURkhaVzNCSVpXQjJLMU9aVS1Gc25jX1QzeUdzbVZMdHNGM0hVQzZEUE93YkExNTJldlgyVEhya2NTREtfTHRwNzRrSlM4SlpWcHg5VzhPVG9KbUt6VjROanQ4S0oxbmM5Undod2pRX043dUMxam1wRlM5Xzl0Tlk3WWw3YUNOa2pHSlRvSnJLNzQ5WXF6b3ZTcTVpSnBQRVAwVHFZRUFxZG5YRl9tVnVkdE81S0JRZ3Jn?oc=5"
         }
       ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Winds of change: Prashant Kishor predicts Jan Suraaj's Patna win in Bihar council polls. A politics-related story. Covered by 4 outlets, including ThePrint and India Today.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Winds of change: Prashant Kishor predicts Jan Suraaj's Patna win in Bihar council polls. A politics-related story. Covered by ThePrint and India Today.",
       "image": "images/winds-of-change-prashant-kishor-predicts-jan-suraaj-s-patna-.jpg",
       "image_kind": "photo"
     },
@@ -67,38 +56,6 @@
       "genuineness_label": "Corroborated",
       "brief": "CBI files closure report in Pocso court over death of 17-yr-old NEET aspirant in Bihar. Covered by The Times of India and Hindustan Times.",
       "image": "images/cbi-files-closure-report-in-pocso-court-over-death-of-17-yr-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "ranji-trophy-2026-27-ashutosh-aman-named-bihar-s-new-head-co",
-      "headline": "Ranji Trophy 2026-27 - Ashutosh Aman named Bihar's new head coach; Sakibul Gani to continue as captain - Cricinfo",
-      "summary": "",
-      "date": "2026-10-07",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Cricinfo",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOHdrcmdhbHVZZHdmd3k0Q1N0TjR4cVpiRHJaVVBIcDFMa05weDg4bWtkbXI2SFVIb2ZpNFlTN2lMYkNlNlhhMFFqZWRZejBtNUJTQnZ1Zk85RGs4ZUVScUh0VC1WLW91MFpfT1BidEpJMnNlTExzejlmMVpiMUlwdWszbGxQdTRibWprWW52T0dPeHVjSHBnWk1ZZ3VROGtxU2JoNTFtVFRYekxKYUxKOTNNazlrMmVhc3h5d0hXc0phUdIB0wFBVV95cUxOUmhVelppVUFuTllBdXA5REh6MUNjRGJNMTlGS2pjblMyU3V2Zjc1dktkeDZKQllpa0g3aWM4QkhqVmlVV0liRl9Yc0Q0MDdxa2RiNjdVemdrdk51cXh1SU5YNHM0clhySDhuV0lhZV9yZ0ZpZTB2RmJlSHBmVjNGT1E4MTdlWWV5QjZxVFdYZTRvV1lsd1ByT1g5NE5JZXluVENCRWdQM2cycjhrLXlVcEpZVGdKNUU1Xy11UXNtMEVMeTNBS0NDcW9DekxxUDB1T2Fj?oc=5"
-        },
-        {
-          "outlet": "Cricinfo",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1RsdzBvQjBmVlVZNDFKZU9qam1LVGFacXFlQUh6Zy1SUEdBZ0ozMEVjT1h6Z1k0Um1zMUM4LUkzbzB6QW1yanN4YUN3cHIxQXdwYzRjbUFqY0lITldhY2N5ekJCUzlmS3c2ZWM3Wk12VGk5a2U0S0xOUjA2UVEzVHQzUS1QT3h1dXFxUmJfMGhtQzlvcERHM0ZZMmM0WlBuVEtZS0t4WnMwWFcxRm0xSmFsMVhUaGVkMW9WR29tMXh4RHJzN25B?oc=5"
-        },
-        {
-          "outlet": "ESPN India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQi05bm1KaVoxaTVHMVJQS0FWT3NjR1ZiS1N1RDJBc0hFM252QXM1YXZYUk9KaFRsZ25YZXhadmFDcEJ0NXJzV3VtcHF3RDJsaGc4OURkWjFMVEI4THcyazBOZDZ0cjQ1c3A2ODgxVHlDcDFPYS1fRnM4MTFWU2NQM2ktTFVGQzM3ckI3MGlhUE5wS1RYaGxtY1AxSmlPQV9jSTk2VUt1ZEtxRk9aVThSSVBpcnFkc0FMWm05dXBUTWwwcF9NUy1mTU9vQU1hZw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Ranji Trophy 2026-27 - Ashutosh Aman named Bihar's new head coach; Sakibul Gani to continue as captain. Covered by Cricinfo and ESPN India.",
-      "image": "images/ranji-trophy-2026-27-ashutosh-aman-named-bihar-s-new-head-co.jpg",
       "image_kind": "photo"
     },
     {
@@ -153,14 +110,14 @@
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQelRaWjl3QUVJT2QtUHBHeE5vMHJuOTBZb29GX1ZnSWV6WjR5MTlGZmV1bjV0eUU2a3Y4aXZpWTIxTHQxbWhFTS1SeEg2cHhvVFFpTmMxUXlmOC0tQWpYcG11ZXlwSFVxVUpYT01wMkNoeDZKNDdDSDNvR3NzSjR0UkhOT2R0dHAyb2h5Nnhucjlwb2FiME5wdlNYYUZXYzhHWEdIVXIwaGNyVGR4dWJYc0dGeWVaV0U4MlZkM3lQWWk5ejF0bVVPYmk5LV9Mek1qaDg4V2xabTBMWVJVdlU4NmtPZDYybGM5MmJBeHI2M1kwVjRGdnNwWi10WlXSAfwBQVVfeXFMUHpUWlo5d0FFSU9kLVBwR3hObzBybjkwWW9vRl9WZ0llelo0eTE5RmZldW41dHlFNmt2OGl2aVkyMUx0MW1oRU0tUnhINnB4b1RRaU5jMVF5ZjgtLUFqWHBtdWV5cEhVcVVKWE9NcDJDaHg2SjQ3Q0gzb0dzc0o0dFJITk9kdHRwMm9oeTZ4bnI5cG9hYjBOcHZTWGFGV2M4R1hHSFVyMGhjclRkeHViWHNHRnllWldFODJWZDN5UFlpOXoxdG1VT2JpOS1fTHpNamg4OFdsWm0wTFlSVXZVODZrT2Q2MmxjOTJiQXhyNjNZMFY0RnZzcFotdFpV?oc=5"
         },
         {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQcDZzT25CbUlLNVBRVVdBZ3hpemxtUXdwNVNoc0NydFJ4MHUwZFlkNTdQQUJmM05Ec28yd3Zpel9iSnNsZUcydklYS3ZZZ1JUYUxfYWF3WHotTFJ1Szl2ZG9ncllhVkhjWkNRQnY3RnlEWE95YWVNQmxLdjhqZjVZX3Q1VU1ZaUNNbkZxRFB3Unc5X2pfU3prTE16ZWFkaVdWZXdGVnZKeHg1cGZ5MnU5OEF6WnZINl9ydzZQcmZUTGdHb09vSXZpaExDT2dzbFo3bXNzZ1BIaGhwSTNWVllERGZfT3hLdkNiVFN4WG5hMWpqbUtGdDBiODBIYzI3Ymd4a0p2c1dDa0EwUVM3ckZCbVBRNE1JYzRRQWFsVtIBogJBVV95cUxOUXdOOVE2ZEhiNTFvcGFnVXlDNFBGaGM1aFFTUGQ4ZFplaDUxRDI1eEs4V3pEaUk2SEpvVkVvclBPZmRBdDFaNWg0SVVRRnhnU0dwMWFkMk4tMHpFUmIycnRTanY5dHhhUlZyY29sQnYxSTl0NlloQmdNVmpBVHJrQ2pnMkZzUFM3LXFrREF1bE5KMk5RMHF0dGNvVzJXVC1aVmdoLVJ3NHJFeWNGaURWOGM3SEdNdzdHZ1o5Rzh3aml0VEtNVGttTHdWZ3BTUmN0RjZIUmxJbGJCMzktQlYzMTlOUzU5ZzhDY3BVczNHWHQzdmdEbmlPT3J2UW12dkt4WjBBUEpPUDQxNzJyb0R4bjVVelVuUk0yQkpLTGxwcGdhZw?oc=5"
-        },
-        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlpweXpNZk92dVhaMTc1endyZzNRTmpfV1JDQWJQTHltZ1k1LUg3dGNnSXkySGdWNjI0ODZtakdaNm10NFBVWW0yS1VuM0xtMnBVMU5VR3ROejlBLXZncF9QRzZzVzliX0pRYjRDZ0sxRnlzeHQtOW1TanY0Rk1RbG96YTJmT19jc2lMTEZSVFZKdEN2cDctOG5vM3BIc3lReXgxWXRTdlRtV2JwMVN5MUJ6QlZ3bHJDUENRcjhURmtDVWs5R1hjSTQ5QXJyc1NfMHI1b0w2WWJFcXZQdXlFcHpiXzjSAeoBQVVfeXFMUHVBc0VrTUhzOWlSbnZKWUpyTnd6eWVZakdQYWVsOFV1MjFpUGpOdl8yOC1ScUpJOGNyOFNCWTFlSndZN0ZCZmotU2dvRnJCd0d2ZFphVW9JczJrS0kwOTNMckNiVEFWUTlwRkVmOWhlNEt1VU12XzFzLWtOSzM4eDlOR1gyZmxaekZraXVtSk05bWZ5OGRQQURWa2UtakhUSHNnM3BDR29SMWFULUdyUTd5RExic1RQWmx3SVFPQk92TGhwQzVWbThnUi1RbzE0LW9DekNkSVI5SHc5dmhCWks1Y0lHMmhMVXVB?oc=5"
+        },
+        {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQcDZzT25CbUlLNVBRVVdBZ3hpemxtUXdwNVNoc0NydFJ4MHUwZFlkNTdQQUJmM05Ec28yd3Zpel9iSnNsZUcydklYS3ZZZ1JUYUxfYWF3WHotTFJ1Szl2ZG9ncllhVkhjWkNRQnY3RnlEWE95YWVNQmxLdjhqZjVZX3Q1VU1ZaUNNbkZxRFB3Unc5X2pfU3prTE16ZWFkaVdWZXdGVnZKeHg1cGZ5MnU5OEF6WnZINl9ydzZQcmZUTGdHb09vSXZpaExDT2dzbFo3bXNzZ1BIaGhwSTNWVllERGZfT3hLdkNiVFN4WG5hMWpqbUtGdDBiODBIYzI3Ymd4a0p2c1dDa0EwUVM3ckZCbVBRNE1JYzRRQWFsVtIBogJBVV95cUxOUXdOOVE2ZEhiNTFvcGFnVXlDNFBGaGM1aFFTUGQ4ZFplaDUxRDI1eEs4V3pEaUk2SEpvVkVvclBPZmRBdDFaNWg0SVVRRnhnU0dwMWFkMk4tMHpFUmIycnRTanY5dHhhUlZyY29sQnYxSTl0NlloQmdNVmpBVHJrQ2pnMkZzUFM3LXFrREF1bE5KMk5RMHF0dGNvVzJXVC1aVmdoLVJ3NHJFeWNGaURWOGM3SEdNdzdHZ1o5Rzh3aml0VEtNVGttTHdWZ3BTUmN0RjZIUmxJbGJCMzktQlYzMTlOUzU5ZzhDY3BVczNHWHQzdmdEbmlPT3J2UW12dkt4WjBBUEpPUDQxNzJyb0R4bjVVelVuUk0yQkpLTGxwcGdhZw?oc=5"
         },
         {
           "outlet": "CNBC TV18",
@@ -178,7 +135,34 @@
       "genuineness_label": "Verified",
       "brief": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records. Covered by 7 outlets, including The Times of India and NDTV.",
       "image": "images/meet-shubham-kumar-19-year-old-bihar-engineering-student-rea.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "ranji-trophy-ashutosh-aman-named-bihar-s-new-head-coach-gani",
+      "headline": "Ranji Trophy: Ashutosh Aman named Bihar's new head coach; Gani to continue as captain - ESPN India",
+      "summary": "",
+      "date": "2026-10-07",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Cricinfo",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOHdrcmdhbHVZZHdmd3k0Q1N0TjR4cVpiRHJaVVBIcDFMa05weDg4bWtkbXI2SFVIb2ZpNFlTN2lMYkNlNlhhMFFqZWRZejBtNUJTQnZ1Zk85RGs4ZUVScUh0VC1WLW91MFpfT1BidEpJMnNlTExzejlmMVpiMUlwdWszbGxQdTRibWprWW52T0dPeHVjSHBnWk1ZZ3VROGtxU2JoNTFtVFRYekxKYUxKOTNNazlrMmVhc3h5d0hXc0phUdIB0wFBVV95cUxOUmhVelppVUFuTllBdXA5REh6MUNjRGJNMTlGS2pjblMyU3V2Zjc1dktkeDZKQllpa0g3aWM4QkhqVmlVV0liRl9Yc0Q0MDdxa2RiNjdVemdrdk51cXh1SU5YNHM0clhySDhuV0lhZV9yZ0ZpZTB2RmJlSHBmVjNGT1E4MTdlWWV5QjZxVFdYZTRvV1lsd1ByT1g5NE5JZXluVENCRWdQM2cycjhrLXlVcEpZVGdKNUU1Xy11UXNtMEVMeTNBS0NDcW9DekxxUDB1T2Fj?oc=5"
+        },
+        {
+          "outlet": "ESPN India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQi05bm1KaVoxaTVHMVJQS0FWT3NjR1ZiS1N1RDJBc0hFM252QXM1YXZYUk9KaFRsZ25YZXhadmFDcEJ0NXJzV3VtcHF3RDJsaGc4OURkWjFMVEI4THcyazBOZDZ0cjQ1c3A2ODgxVHlDcDFPYS1fRnM4MTFWU2NQM2ktTFVGQzM3ckI3MGlhUE5wS1RYaGxtY1AxSmlPQV9jSTk2VUt1ZEtxRk9aVThSSVBpcnFkc0FMWm05dXBUTWwwcF9NUy1mTU9vQU1hZw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Ranji Trophy: Ashutosh Aman named Bihar's new head coach; Gani to continue as captain. Covered by Cricinfo and ESPN India.",
+      "image": "images/ranji-trophy-ashutosh-aman-named-bihar-s-new-head-coach-gani.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "32-passengers-safely-evacuated-after-delhi-bihar-bus-catches",
@@ -215,7 +199,7 @@
       "genuineness_label": "Verified",
       "brief": "32 Passengers Safely Evacuated After Delhi-Bihar Bus Catches Fire In Greater Noida. A crime-related story. Covered by 4 outlets, including The Economic Times and Hindustan Times.",
       "image": "images/32-passengers-safely-evacuated-after-delhi-bihar-bus-catches.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "gross-negligence-of-duty-bihar-cop-suspended-after-video-sho",
@@ -363,94 +347,29 @@
     },
     {
       "id": "amar-ujala",
-      "headline": "बिहार: ‘विकसित भारत’ के संकल्प के साथ पटना में सेवा ज्योति यात्रा शुरू, सीएम ने गिनाईं सरकार की उपलब्धियां - Amar Ujala",
+      "headline": "बिहार: पटना में महागठबंधन का आक्रोश मार्च, इनकम टैक्स गोलंबर पर क्या किया, तेजस्वी का राजभवन मार्च कब? - Amar Ujala",
       "summary": "",
       "date": "2026-10-07",
       "topics": [
         "general"
       ],
       "sources": [
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDJfRzFDcjJCYmZ0Ni1BSDVCWmR2VHNjV0xJREx2Y0dTc0lLYThSWUx2QWlpMUdxNFZFMWpXUm0xME4zX2sxVjZjc2o2V1IzWXdmWXdSbm5NZjZGRjlMNHFtTmhrRjYtYWp3NDJPNzVYTE1xVC12M3huYjNYUHRiX3JVWm4wNXREelZBdWhJMnFhYW43akhHNDBkRnJIdlBMOFRyR0EyMGlobHQ5cF9qRE81OEl1UHPSAbwBQVVfeXFMT1BmQnRYci1WNDl1VDJnWFJqRVpSZDAycWFwaHRXVXVqYXUwSmxFZXRoQ3diOTJvUjk4clUyOXo3RlNVbU45TTBHdjhMMnE3SVdfcFJCMGdZWnk1dEFyTmlFQlFCdzVvbTl1SGNZaUdEVlhlaWdzeHRmaE5iS2tCcUtSQ2R3c0ZVOGdOZTFjVjNHZkJlR1JDNTlfSTNSTVgwb3VkTkEtNXhUa3pNeUFFVXBRTHZNUnk2X1VURC0?oc=5"
-        },
         {
           "outlet": "www.bhaskarhindi.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzU4RlljS1RSOXlPVWJvVkZ6bFZMa1pZTElDem1vSWVBTDJsVEZhTFlOd2dxRVR4Z05QdnhUS280ZFpqTlBkVEl6SkJycnJIV2hvN0Q2ZWVUcHhvNTdpaEdhV2U3YjlpN09LQVl0V1dKR3p2MHh0Z1lFb2RMMVdRRkpodzVUYmlxOVdpWUk5bkVlUm1jeTk5NjA2UUVPWGNDNVFhQlRZYWtFbV94UDVoOGs2azFJV1ZUWU43eE91TXdocGxq?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSV9XN3NucF9IQkpYRGNzNlBLaWh0ay1QdFh2dzBXYnBTMGx1TEJSeHJXVTlaTkluMUtlU0hMREp4N0RqaDI4YV9taE1IZV9PeXlPcUNIcDZXazFib3UtNUV4RlZlaTdPa284SUcxT0ZqSS13RmtpdDB5eC1ha2tuZnlpX2dLa2tEcTJNdkx4WW1VYVNWc0NaT2NUcENCX0pGRmZHUzI2Z3FObm9yclZfZVJYM0lLcVBldXVyS2EyelBvZlUtZnZJVVRUR1pheEFZMnN1VXlRTVpCV2ZfOWJrSg?oc=5"
         },
         {
-          "outlet": "News18 Hindi",
+          "outlet": "Amar Ujala",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMUFMbENwckc4cWx5VjdVWTkta2VWQy1ldlN0eFNQQk9vcUFJeklDLVpNSVNhS1FqaTJmQkY4dGxUcDlBMFFUMFdDTkJWeWVDajlSOFlFLU5DRzlNamlkdlQ3Y2tLdUtIZFpQS1dxam1ZT0xmdkFoVFlxUmdrRVBmUENpcjc4bWMybkdHdmJiUzFhc0RBYndOZEU5ZzA3ZWFiZUJTQmdRV1RKb2JXQ2dYVXFSS3BQRU5RRkFJUXItb0tMS2VRUzloSExjM0dEZ9IBzgFBVV95cUxPMUFMbENwckc4cWx5VjdVWTkta2VWQy1ldlN0eFNQQk9vcUFJeklDLVpNSVNhS1FqaTJmQkY4dGxUcDlBMFFUMFdDTkJWeWVDajlSOFlFLU5DRzlNamlkdlQ3Y2tLdUtIZFpQS1dxam1ZT0xmdkFoVFlxUmdrRVBmUENpcjc4bWMybkdHdmJiUzFhc0RBYndOZEU5ZzA3ZWFiZUJTQmdRV1RKb2JXQ2dYVXFSS3BQRU5RRkFJUXItb0tMS2VRUzloSExjM0dEZw?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "बिहार: ‘विकसित भारत’ के संकल्प के साथ पटना में सेवा ज्योति यात्रा शुरू, सीएम ने गिनाईं सरकार की उपलब्धियां। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Amar Ujala और www.bhaskarhindi.com शामिल हैं।",
-      "image": "images/amar-ujala.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "19-4-prabhat-khabar",
-      "headline": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-07",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzhhbmpabVU0aVVrZVU1ZVEzT2syTklBSEZZWjc0cjlVZkJjT0ttX1JqblRmenBuQ0poN2lDTjBScWpOaUNsd25qSVF6MUx0akRWVEJkM3pnTVdxQlpKVXgtWXJoTHBkVVkwSWJWSEFtenIyZGxHLU1yNjVyQnpGbTEzRFYxZElRUnpPemhYb0hSUFdROXBGM1JlTXRoOVpXcXdVU1FUdDRvZHJ0T3VB?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRU5rSlFQWVc0SlF3VlJUb0lYcE9pei1WLVRvOVZtbkgyamdPYWM1R3hwWkU2THNLc0Fhd3g5cjRZNmRlWEFRNklRZWY1YVRlTjltN0JibVE0Y1hlc24zQmduTUx2NTMyMnFETklLQXlaT3llYVJTcG1qbnFRRUVLWi1RRXh4WTF3bGtsUk5KNGoxNHV5d3VQREh2NWliQS1EVUZ0aXp2bm9sRzctWC1XWDFVTkZCajVzaGh4ZWVaVlMxMzRCV0RsVDdWM19fcGVLUVFrT1ppUDhHcmhLMk5MYjB0bjhMT3RwZl9PTEdzQkxiMUZsb1Npd0ZaamotQU5Ubm9UUmhsUFfSAY4CQVVfeXFMTzB3UFVaNGNnN0tPRTkyYzdoRzE1Ylp4RkdhR0hhNGdJbFI5LXFhVDRKMGppOURzandLakJJVXlKdFU2bVpfRTVyM1lXTWRYZ2owOVVVYlZ3Qmw2SEZ5NUVNNUJTUXFrdm43c2JKWEtDRmtHR3VhNWFtYTJ4RnV4VDRlcFNHQXRBUHE0UjRoY25GY2NvejFhSnJXb0poa1YxTnVrVm5qVnZTTm5BNmFieV9pZmRXd2NTRkF4TjRJSjFMWExHWGFVa2VDT1ZpaURKZFZXNldWTkd4eFlXaGhETzdDakt1Zmg5RjZmMjZPalppZ3NkRWp5dWNSbV85dkZNXzJYN1pwWV9ta2trOFpR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR0xMeWZIV1ZsUGU5a0VFZlM1dmRyQ1UzdzJWNGxuT1BycHE2c0hpTy1uNEZXb1MtRjM4V0JoOEVzRGpQcFZZSUJQaWpuRmowTTB5OVg4OFdVZzFjVzhjdEhZTmVHSUQ5V1UzWGpBVF9GY1R0cElkWmFhR1pUSm10di1Zd19ReG1abHFQWDBmSnljSmxBTmNZdjFGOU5kcVI1R1VXclVaMlRDdnVMR25OM05mRXh0Z3p1c05KWWpJeTNveFV1VkNEOXB3SXJwSWthN2EwMkVRSFJxbTdk0gHiAUFVX3lxTE9EWC02anBNWG5XUjZJRmw4MGFkTVc2MUNzcXNTZ3V6UGVCU2VYb0lod2QtdUxTTVg0SFBpSF90Nm1CT2F6eGpUVWVjVV9CeDJmcFJTMHc3R2R2dkRSSEVJWXJ4OU1nRUlmd3dTalM5VWpOYXZBY25NOHotaGduVW5uTVN0aHctVGhfNHFmSFVadGtSbTE4RlZGb0xKV01OR0R4blFPSzdjY25wZUR6RTJYUXBjQjdmcHYwYUtMTEpzZnA4R0FYTndEcjY5OG5kcTlHZVhGaXNTSm9hUy05UDZoR1E?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "बिहार में आंधी-बारिश और वज्रपात का अलर्ट, पटना-गया समेत 19 जिलों में बदलेगा मौसम, जानें अगले 4 दिन कैसा रहेगा हाल। इसे Prabhat Khabar और News18 Hindi ने रिपोर्ट किया है।",
-      "image": "images/19-4-prabhat-khabar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-water-metro-plan-extends-2-more-cruise-terminals-plann",
-      "headline": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat - Metro Rail News",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "civic",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "Swarajya",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlc0SWJyYks1ZG5jWkRvY1MzRHN6REZqazczWXRBaTFzVy02Q3A1bmY0LUtKY2ZVQ2dWWFpPTGhCTG9aWDV6MmxCR2tONHhCS21iYnVpNjZFTjNYRmtQN1pmYXllQThIQVhYOVNWVkRldGd4UDhPOUVqQjlkcnNWTE1OMVl3XzdVTzdJeVRlQ0pISXN2UjVMTUdDd2lhT1R0dmVCQnpTeWJLTG0yazJSRThydkEzQVlYbWdXOXFzXzBvaEVrTVNjSHF30gHaAUFVX3lxTFBpdEpEUTBiOVRZOUlSZEJfNmoyWlVxOUxuZkJiSEpIdVhjUGVmdjlOSjNicTR1bmVDUXlWQVdkd0I3N3h2MTR4aGRyRU9mZndDaXJFVk5KLW9Uc1c1ejhHUjNjVGNTb3VHVU9vQ2l0bTZ6Z1JrUlRiUzdoOFBZWHAxU0ZzRlRPMjYwcDFHYVlXNTV2QkxUajM5Qk9ZZF84Uy1HYUtsX2dabHJjYTdzSmhBN19tcVoyMEVRVWhTSnNpZ1UtZlgwN3lfLXc4Q3ZhOW05d0d5djZiWWRB?oc=5"
-        },
-        {
-          "outlet": "Metro Rail News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nYWY3bmNsSVlOS0I1VFoxX0QwMnB1TG82T3UzbzRaRDJLNk1rTjgwZHdSZXBweVBYOHV2UFlSOFRzczcxVlgtdlRJQlF4X013czhVdzF2M21EWEhRcnVpQ2FMNkZBY3lxSlBKTERUUnNtRmp3WFlyZ05IZWxlOU0?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnVOT0J2REhzVzN5OHhKa3hCVUVTQlg4SUpjbTRCQUlnd0Q5YlM4RjZsc1N6WmhJeDZJTHNnOTl1WG53RVpIdHlXN3dGWnRLd0prUEx3NllhdWhTLVhtMTJfZllIeWl3aW1GYm45b09abEg4c3doNHhPY2plLXRiZXZnYm16SF9yc19iZlBudUJxYjdrQ05Wc0FtMUQ1T1FpZUVyYk1aWDd6Zy1ZRGUwUUpMbEVKWjlEMlB0eUdua2NQbkw2eC1KRzRlbXZSa2tDY3RYN3FR0gHbAUFVX3lxTE5zRlRoRVRDOTI2NTJCMmxVSTItSFpIaUNrSkN4WjNFU1VLV0Vxd29wekxmZ3pKc1BtSzV3TVRXN0R2WFRZN2wtcjkyMzVuMmNBay02V0dDWFgwbzNxRU01czZpQ0FsbThCWXNMLUx2MUNacW1KT08yRUsycFRscWF3WHUzQ3poS29CenYxR2lUdEFEMk8xWDlkUmlmY0JCZHlNbnNxMGhyRi0xcnd2Y1dQbkpMUTU0alpoWnNqLWxkek5TdVN1SG02TUY0bGhaQXZIQ0ZmY2dzOElPNA?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat. A civic-infrastructure story. Covered by 3 outlets, including Swarajya and Metro Rail News.",
-      "image": "images/patna-water-metro-plan-extends-2-more-cruise-terminals-plann.jpg",
+      "brief": "बिहार: पटना में महागठबंधन का आक्रोश मार्च, इनकम टैक्स गोलंबर पर क्या किया, तेजस्वी का राजभवन मार्च कब? इसे www.bhaskarhindi.com और Amar Ujala ने रिपोर्ट किया है।",
+      "image": "images/amar-ujala.jpg",
       "image_kind": "photo"
     },
     {
@@ -490,6 +409,39 @@
       "genuineness_label": "Verified",
       "brief": "Bihar police job aspirants march in Patna, seek withdrawal of exam cancellation. A politics-related story. Covered by 3 outlets, including The Times of India and Hindustan Times.",
       "image": "images/bihar-police-job-aspirants-march-in-patna-seek-withdrawal-of.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-water-metro-plan-extends-2-more-cruise-terminals-plann",
+      "headline": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat - Metro Rail News",
+      "summary": "",
+      "date": "2026-10-06",
+      "topics": [
+        "civic",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "Swarajya",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlc0SWJyYks1ZG5jWkRvY1MzRHN6REZqazczWXRBaTFzVy02Q3A1bmY0LUtKY2ZVQ2dWWFpPTGhCTG9aWDV6MmxCR2tONHhCS21iYnVpNjZFTjNYRmtQN1pmYXllQThIQVhYOVNWVkRldGd4UDhPOUVqQjlkcnNWTE1OMVl3XzdVTzdJeVRlQ0pISXN2UjVMTUdDd2lhT1R0dmVCQnpTeWJLTG0yazJSRThydkEzQVlYbWdXOXFzXzBvaEVrTVNjSHF30gHaAUFVX3lxTFBpdEpEUTBiOVRZOUlSZEJfNmoyWlVxOUxuZkJiSEpIdVhjUGVmdjlOSjNicTR1bmVDUXlWQVdkd0I3N3h2MTR4aGRyRU9mZndDaXJFVk5KLW9Uc1c1ejhHUjNjVGNTb3VHVU9vQ2l0bTZ6Z1JrUlRiUzdoOFBZWHAxU0ZzRlRPMjYwcDFHYVlXNTV2QkxUajM5Qk9ZZF84Uy1HYUtsX2dabHJjYTdzSmhBN19tcVoyMEVRVWhTSnNpZ1UtZlgwN3lfLXc4Q3ZhOW05d0d5djZiWWRB?oc=5"
+        },
+        {
+          "outlet": "Metro Rail News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nYWY3bmNsSVlOS0I1VFoxX0QwMnB1TG82T3UzbzRaRDJLNk1rTjgwZHdSZXBweVBYOHV2UFlSOFRzczcxVlgtdlRJQlF4X013czhVdzF2M21EWEhRcnVpQ2FMNkZBY3lxSlBKTERUUnNtRmp3WFlyZ05IZWxlOU0?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnVOT0J2REhzVzN5OHhKa3hCVUVTQlg4SUpjbTRCQUlnd0Q5YlM4RjZsc1N6WmhJeDZJTHNnOTl1WG53RVpIdHlXN3dGWnRLd0prUEx3NllhdWhTLVhtMTJfZllIeWl3aW1GYm45b09abEg4c3doNHhPY2plLXRiZXZnYm16SF9yc19iZlBudUJxYjdrQ05Wc0FtMUQ1T1FpZUVyYk1aWDd6Zy1ZRGUwUUpMbEVKWjlEMlB0eUdua2NQbkw2eC1KRzRlbXZSa2tDY3RYN3FR0gHbAUFVX3lxTE5zRlRoRVRDOTI2NTJCMmxVSTItSFpIaUNrSkN4WjNFU1VLV0Vxd29wekxmZ3pKc1BtSzV3TVRXN0R2WFRZN2wtcjkyMzVuMmNBay02V0dDWFgwbzNxRU01czZpQ0FsbThCWXNMLUx2MUNacW1KT08yRUsycFRscWF3WHUzQ3poS29CenYxR2lUdEFEMk8xWDlkUmlmY0JCZHlNbnNxMGhyRi0xcnd2Y1dQbkpMUTU0alpoWnNqLWxkek5TdVN1SG02TUY0bGhaQXZIQ0ZmY2dzOElPNA?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Patna Water Metro Plan Extends: 2 More Cruise Terminals Planned at Kangan and Pahalwan Ghat. A civic-infrastructure story. Covered by 3 outlets, including Swarajya and Metro Rail News.",
+      "image": "images/patna-water-metro-plan-extends-2-more-cruise-terminals-plann.jpg",
       "image_kind": "photo"
     },
     {
@@ -647,33 +599,6 @@
       "genuineness_label": "Corroborated",
       "brief": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar. A civic-infrastructure story. Covered by The Hindu and The Times of India.",
       "image": "images/cm-samrat-choudhary-directs-officials-to-submit-detailed-rep.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "b-7-rpf-jagran",
-      "headline": "पटना में हमसफर एक्सप्रेस पर पथराव, B-7 कोच की खिड़की का शीशा टूटा; RPF ने शुरू की जांच - Jagran",
-      "summary": "",
-      "date": "2026-10-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOHNlaGhMTEVQckxYUlNscUtkSlFnd19BUU0xUmZhcVVKN3ZtbFhZbDRrbXBhU3kwaWx1U2daQ3Vqci1FZ3IyTG9FVXJoUzhadGtmeG43N0Z1SU9oSUZrS1RPQk5hdk83b0RDYTBVRTVwSTlZZHVkbXRIX0FRRGFZd3dtdXJHSHlaOGo4Um9Ia2xIc0VxWDVhNWx4eEo0UnZtRDRLdHF5c2VvcUxkcUVuaTNUWkM3T3gyaUd3?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTVITmh0Wi1EWlc4TUZCVnlmU0pydDFhbWVvV0dDRzVCR29Sc2N3NE1ZYVVxcFNOR3NVemFpcDF5QlUwZkRLMFU4ZGh3Z2xzd0Z2NHNHNng0cHZpSGpRYjFjakkyeGZDXzhKVnB2NllYdDBBVENTREVKRDFVd0hqQkZ0TG5aRzQ1M195TDg3LWJITmxqdWF6cVRwd19pTGp4dXVSY0FLaGdRY0tsWThydy1JWUpWbmRjV1HSAb8BQVVfeXFMT21SQmpUZmlDY0hmMHdad2FYNFZnenFoZWhqdDRHejVGWlV2Q2VWZWFZTjhOSEljemtfWVVPOHVSUFczUjdhZ1g1elVaUG9QQmNuMzZLY2x0QWE5U2VvTGNwQnRJR1BZWWhBaHNHNTNSMVZuMEY4RFdIOWgwYXM0cTRyU2s2c0g4T1E3c0tDMTNkMXg0aDQwOVF2SkQweWV2YVBNUmhvaXpmVGNtVzFya1lpbHYxdUlJWFRZR0xnVzA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में हमसफर एक्सप्रेस पर पथराव, B-7 कोच की खिड़की का शीशा टूटा; RPF ने शुरू की जांच। इसे Jagran और News18 Hindi ने रिपोर्ट किया है।",
-      "image": "images/b-7-rpf-jagran.jpg",
       "image_kind": "photo"
     },
     {
