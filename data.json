@@ -1,9 +1,77 @@
 {
-  "generated_at": "2026-10-08 00:54 UTC",
-  "generated_at_ist": "08 Oct 2026, 06:24 AM IST",
+  "generated_at": "2026-10-08 01:54 UTC",
+  "generated_at_ist": "08 Oct 2026, 07:24 AM IST",
   "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "lightning-strike-damages-patna-lucknow-indigo-flight-s-nose-",
+      "headline": "Lightning strike damages Patna-Lucknow IndiGo flight’s nose mid-air; 104 passengers, 6 crew escape unhurt - The Times of India",
+      "summary": "",
+      "date": "2026-10-08",
+      "topics": [
+        "crime",
+        "weather"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWXN0Y3lxTXZlcnBJWERWeURzMFFQVGhVNUpQblZ1S1RISmxMa0tHem9VRllpNFVKaTlVWTdfbVAxNGVKYmNwMDk3NUJFeERMYmNEckF1aWVjSUdDY0xtbnJILUJlNDZqQW9PeTFEcjR2cV9LZE5ra3g4Tk5IQ2U4ZjlfcDEteWtmUGFWZUNjcTZnQXdKUEM5ZnVNdTFORDNQRE1xazRQQWVVSjYxbVJ3S0xCVUdyWUhMTzVmM2tTbmhzOTE2ZVp5dmxUbW1DNmxLVlBCRFFPaEt4RlRlYjJ2ZDk3bTlKdzBodWRsTERCZWJ6d3pHR1laZEpPUHNJaGRnYTlhdjI3NUfSAY4CQVVfeXFMTl9LYWtNdmJ5bDFEVWtxSXJvYVp1dEJYdU9fTDN1VHNORGxwN2UwcGhHZ1NEekQ3OWZpVHVVZXZqdXFybEtaUTU5RDRmM044Zk56dVRpRFExcmo1RWdDOURleDFOT2trWDRTSExFZXhQbHJwaTJVVWN0VUxPTFpnZEN0MjN6R2IybFd4T1NMcjFQWHJMSWRiWmR1UTJYQzI0bm1xRFh3a3hxUzBhbkhvQTVyZm14enAyZFZLZ01YRzlVQUVrSTE2MEV6bkVDLW5fSTcwTWdlV2xJS0Y1emdsZ2ZUWTZYbGVEbGh5VVdvbUZlal9JaERUa0kxNFZERF9WRFE1Z2NuUTZCWDNnSmRn?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FlVHdRbTFjcThtejhpd0dTOUJXT2FvRUQwU0ZUWGdLcVZPQzZUWHpsWEZMZ0k0cVhhSWhBek9TUFZiaW1nMXFGSTZWQkFlc3hBdXpNM0EwdVVqYWZMZlFfb0d2M0tIeVBkMnhFYjlRd0RwTDRKRE82QWRaVmlJZEFBcFZ4NVRFNFF3cmJjQVFYbkNMWXJ5STd3bGwyVE1yTDN1WWhEbWs0MVlrVkYwU3RDTGg4NkRT0gHAAUFVX3lxTE00aVZlTHhQQnRkXy1KeUVrazdhVHhKVV9adExXNGMtRHppWUUzTlBFWC10T3JNOERjYWtGcklGX2JVbmN5Zi1lRkhZRmZOX1FXcnVkT2pCNGNMTUxpNmQ4MG41dkE2UXFNbDVJOEpVcURFX2szTTlkQ2ZJUS00VmtFai1iUGlKSG5WVGtUa3NtSjNBYmtOc2RVVGxkZWRxc3JmbXVhQXJnc1hsa05aSGtIMk1NVm90WmlYS0FIOS1SQw?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ2o0bVJCb05jSEhaNFFmQXEzUENFWWs0akNQckdkYnVpS05STGlPcVZRQzkwSzRVd01aZFRnWkh3SDRRODI5SHRJMFh2TElOSTkxQW1YVU9KNjBnV2QzVnotdUdBV29XeFNiVDNUNnZmOWZWVnhGcWpSdjhtM2xvVW04V01fa1JucEktM2NkWW1mTXpOT0MzblNvNTFXZWIxa09LOUJRbHFiUi1odHZXamNFWkMyME9YZ0JhQlhoWG9nWU9ZQkRGWmxDQnk2alhVazQwaDkza19qRm9nWlFfRDg2QjlxeVdZTkVtalRDOHHSAfYBQVVfeXFMTm56MVllQXIzUXBneWtFeEwyaG5uZVE4bDQwZ1FGdXRGSXF6anU5clBKdkNnTEZBb25qV0FzT1NNNWRzZW94ZkpTMVRKRnVTTE15NUdKWnFpMWFCM3FLR08zQ0VIcDNvbFhud3k2aTFjT1lZQTFOYWs0QVpwWDk5TXVTNTZGX1Z4SUR2SVZkd18zWHNUY2M4djA2bUNUeDlyTUN2eDFkMTBpeWhiR0E3dUZrMEFPSEltSjlpSXZGa3VBZkJIbzlCU3dHa2hmUkY0OVpGVWlUcjhodFNaX3U5a3lfV2NndlpwanBBdnE3R0huLVo3aGpn?oc=5"
+        },
+        {
+          "outlet": "The Hans India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSGFYbS1NQWp1VE4wd1pIQkhieDZZdGFEQlByTEhCWlBXY25lb1R6R01udG9FT3hqX3JtcEVsaFd1YXFzLXByUkdfVm5XSmFNekd0QzM5NmVfbVpEUFVJUC1iY21RWFZEeHlxWVRnZjAwcjJDS01KSEM0aGxtRUNIS1NTVDhYN2ZNazd4S0NhWDFyRzM5WTFIRTN3b2NZblg5RkJUVHY1ajJSTnFKdGtyV0lJdDBOOEZpNUZRQnYyUjlCRlZKbTZUcDlmNmRGanZ3ZVo3SzJVUUg?oc=5"
+        },
+        {
+          "outlet": "Firstpost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXV0VmxqaVQxNS14YzJuQ1EtRVdrLVprYzVCUzZmbWswazBISnlST3FURGFkOFp5TzVFNlpqc1kxSHJHRmdGbHpjbk0zdC1TQmtXTEMycG5GT3doV25CMERPS1MwLWtXNk80OG1tbWxNUmhyMzJWbWlmTGx3MnJkaFJmaFNqaVdYaFJTNnRPRlFVUzNzbHh6NnNmLUFNTkpTTW1EZGhDWDNKam5raDE2a9IBtgFBVV95cUxNZi13VUhzU1ZJTmxpSmNBZU1JNmZtMkdYWkx4S1RFbVJOaU9ReVp1M0dLRmVnTGI2WG4xSENwT24wZDdHSmJwWVlwd2VNYk8tTXo4dGJMdE5KRzN2RlIwN3B6Z0o4OUtNejdZUWxGVkR6M25QVjFVMVJjcEY3T0IwYjRDZmhXc1B2YVBsLWlTZjF3bG9HSFJEYWpsb1FfcGdZSWljTVhZWFBxb1Z0NFpTTjNhQUFSdw?oc=5"
+        },
+        {
+          "outlet": "Gulf News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXZNRnN4a1gyWGpIZXdobnZnRVNKYXN5RzlKdFBBWU42X1FxaWRpM0Y4c0lXanB5VkNUWFFaQzhEcldFNG0zOENJd01tOGNfWWZVWEduVVRGQlJtakhjTk02NHRoeEZUUkJNRFdhZGdYc0tnYVhiU3QtaWdYc0Z3WjVrT1NiWWMzM01qVll1VFBBNFctb2h2SV9VTXZjam5LTkpQZ1ZlaS1Zd2lfRnAwX09TdE05MXVvcng5a19JX0FEOTdyMVU2M9IB3gFBVV95cUxQNDBpelFVTTlOUWFZX2tiYVdGcS1ZcXVrb3NSeEJIOWFwdEExM0x3V0VZMW5yS21haFdNZlhjdkdrVFNsdFltV0huelNvWTdyVlRreFZBMVhVdF9kYWxBT3llZkQ0aWpQb2xDREZyRWxOd2xLZEJRZVZINFdzb2hlbHI2NDNBZGxRLWt6eGh3VHpVeGwtSEY5WUt5RG91d2ZwejlpLWJ6WXRXelFCejBSQ0VpSE9XdW1xWUxPRXdtMVBncVlQTjM0Y2gyZV9PdkpSTXJIaWVCTDc5Z29MVHc?oc=5"
+        },
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1JfckJMZmRBRmpmaVpQbm5sNzVIZjRVOU04aG5jd2UwUEt2TjhkVWVPV2tnZGFCREZRZ2RiRExXUHprTHk0Sl9NYTVOaUZRS19oUS1udWpVQXltd3YyWnR2NDZaZ1VxUUhpdmNZTlR5ZWRmLXN4RVBUZmdQcXpUbmx5VEtLT3IxbXc5QU1pWk05QVNWSE1jeUkyYzZrZXRXc2E0ZUZQU1RjSk9Gc1dMZE5UbDdqem8xcXpuZ0JsLXN0azdyYU9JaUZpaGxRZ2NWbmgzQtIB2gFBVV95cUxPUThiVEd4Uy1hX1lpemVBTFQtdHg4RkUxMlowSTRaMGpDWWJBclNBV0RkU2trU210X3FSSXE2MGVYdzdoakhYNDVGR2U1bWVCd2RwMjU1LWh3RFhQRXhfSGFKZWRYdm9pa1ZUNDF2M1c0VE90Z1dCRlpIbDBCRDlNQkNYVkNwYm9abE9wejlsSXpwaWpMSGhPYngxRW9zRTlRdEktWXM3UmZIcUVzLWVVM1lLUWpzZS1xUEUxelN6bHl1V08wNVFRenpMaXBVWkhJTW5EcVZFOWFPUQ?oc=5"
+        },
+        {
+          "outlet": "NDTV Profit",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHNaekxTZkh0XzY4S1JnX3Z1bWllRUlJMC1mdXc3NVp6VjZHazhFcmhZekVUdTRTMlphRzI1bEVjOENQa3ZqUjJRQjk1RTg2SzhvUGU4THZkRTVQVjR3NkVTMTVBajNfTFJWay1fV0V1Tm9zcFVmenFuLWhkMlB5VE1pVGlLeXltbGctVXBUc3ZJdEZWaHROa2t0VTRmZlFHdUtoX1ZYQ25tX2l3M09UZ29peUhOZFUxUUJKUdIBxAFBVV95cUxOOHQ4OHpfS1dHSEl2aGNVdkdxUFozTG5TWGJJb2tXaU56bXJIdmV3Q2FHZUtpVFY5dW5ZWnlWOVlCUHlQdU5vdDBSTGx5WU15RkpuQmc3T2hpcG83T0tPUS1OcTJPbm5VV0ZjWlJSWjVlVjhsSlJnejl4U2ZyR0hNZTNJV1JOaGR5M19IdWxlcHpBMjk5Y3p6WHlEdnVpTUNVb2pMUEd5UTZiNkNzSkRBc2JSRjd3Yms2clRhV3dnbVNRRzFq?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb1E3ZnY2RFBNaFJLQ3VUQWl2LVBLUjJyWHZpSzRmNmRFOGVCdzcwc3hJY2tkQWdNeF9MNkh2dE14MHpvU3p0RHJhdHhFVEQ1bEl3QzQxNldwa0txZUthNmloY0JTR05nQWV0ektKOUh2R00takhzS3k4aUtDVlVNbVJVcklxXzFOQ2pOTnJOa0h4aF9qUzJBZ3VDQ2lNYnVhTVI3Z3dPdVFyQ1BtS1JybGc3WXNoTUctM05jbVZfMFhPREtFQUxMOEtkWmV1cVlRMkZBTUhSLXJWSVBoTWtKMmVRTWt3bllkT082dEJZNlhTQdIB9wFBVV95cUxPTjBZb1ZkTGhmYklvYWJQWTBrSTBUNTNvdVhEb3RhUnhXYzdzZUREOUNubmZBLU9CVlNIZlpRZlVjTmhMbUlWRk1kUElMYmh1aUlNdy1nZVFpYmlWbWFwUno2TXJMNnRfTlg2TTNESS12Ny1DTU5zSm8xWGJIUjF2SmVQYVVIRTNUZ1YxYUNwRE1jUE9pamRQRXd5eXkyc3VvMXhERm50ZlJQTUJMZ0Qwd3cwLW5INEw4TVNfTXJxemVRbUdYU1ZqbkZzVzE0d0poR2NyY0lxdlkzUTE4TTJfZGh6Z1pYR3pOajR5MUhZRUY5R3p2ajYw?oc=5"
+        },
+        {
+          "outlet": "Firstpost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZi13VUhzU1ZJTmxpSmNBZU1JNmZtMkdYWkx4S1RFbVJOaU9ReVp1M0dLRmVnTGI2WG4xSENwT24wZDdHSmJwWVlwd2VNYk8tTXo4dGJMdE5KRzN2RlIwN3B6Z0o4OUtNejdZUWxGVkR6M25QVjFVMVJjcEY3T0IwYjRDZmhXc1B2YVBsLWlTZjF3bG9HSFJEYWpsb1FfcGdZSWljTVhZWFBxb1Z0NFpTTjNhQUFSd9IBtgFBVV95cUxNZi13VUhzU1ZJTmxpSmNBZU1JNmZtMkdYWkx4S1RFbVJOaU9ReVp1M0dLRmVnTGI2WG4xSENwT24wZDdHSmJwWVlwd2VNYk8tTXo4dGJMdE5KRzN2RlIwN3B6Z0o4OUtNejdZUWxGVkR6M25QVjFVMVJjcEY3T0IwYjRDZmhXc1B2YVBsLWlTZjF3bG9HSFJEYWpsb1FfcGdZSWljTVhZWFBxb1Z0NFpTTjNhQUFSdw?oc=5"
+        }
+      ],
+      "source_count": 9,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Lightning strike damages Patna-Lucknow IndiGo flight’s nose mid-air; 104 passengers, 6 crew escape unhurt. A crime-related story. Covered by 9 outlets, including The Times of India and NDTV.",
+      "image": "images/lightning-strike-damages-patna-lucknow-indigo-flight-s-nose-.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "17-navbharat-times",
       "headline": "पटना से लखनऊ आ रही इंडिगो फ्लाइट पर गिरी आकाशीय बिजली, 17 हजार फीट पर विमान की नोज क्षतिग्रस्त, अमौसी में सेफ लैंडिंग - Navbharat Times",
@@ -29,19 +97,29 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnhTNjBDQ0c0UFNTWGtacUlab25DMzA2NEh1aGFTeDVoVDljZzlvTjhPSjduc1VzV1RhUDdWbWJuN3ZEeFROblZqZmoxaGJFUUI0SFVBbkVFVzVFSkVucTV0aDUxME1HdkV0V0R3YWFPN3NVbEFKTlktQV9tRUJDemN0bVpBM3NBV0hLam5ldUpiYVFGQml1bTdnaHlfbFhRQVVPdDA3eGxMWWJ4dWx6VmVNcjRuX1piejA3dWNUbTNnbXRFZEp0MVN5Q253b1duU0hhb3NR0gHbAUFVX3lxTFB0UEJhU2M0cFdpdldpRnVBaHJyVm82WUVNTVpJbnZuRGNQU1h5dmw3SnRSeDBNSU5NaGZpMkVzRmRTdjBhREt6OG5saXFLNVRfWmZ4N2xkV3dmOFd6RzdhdHJwTkt5WnlJWi1Zb2J3OHloeEZkUXBVWk53R1kxNzRyeW5Uc1AwUFBSdmdnZVZlcXBGYllYWjFHSVNnM19INjlhM3NWWUZzUktXUjZLbW5BdTVMZ3h3c01tNm1PbHhYby1jY1p3YndwVVV6Y2Z1WjJHb2RIUHNjeGdodw?oc=5"
         },
         {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd1NKRWpXOVE1SkpSRlptaG1jZ0RPSDN4T29IOHRVT25JZm1xSDhoQTFMN3ZwcDlKdU5hcmFyNE5rRHF0SFk5ckJ5SUd6T0x4cTdZRWc0Z0lrNmp5WnBPS1RFald0dU1yNV85aExtclM1QlV3YXBKc3gxdEY5MlJnNlIxRktmZG5tM2lwVXVvZnktS0ZIaHRFVUpLZG5SeEgyaGJFSFdDUGVmRTFlV1M3b3NTanlpaEVqR2hkbVI2NGlOUjFq?oc=5"
+        },
+        {
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQckZQUU5mX0EwQnd3VGVqRm9OdUQ2SXZWdnJlWF9UMnd4b3hzekRWYlRtYjJSSVpZdG5mZ1NiUGhTWXJzbmhtdlVZSUlPZlMwalBCRm9KX3ZTTXd1Yy1CMkVKMDRyd2ZTVkduUXY2bGNiSDdlSy1QZ0dRNmxZTElEaVZsczJMdGRhaGJqZktmYXNxaktoNllfN0NJNC1ZWVB6SVN4bjBlTlBBWUxlTTJvTW9NM2hfclZPdlhPVHRtNHJzNTJ4aDdUV25EUTVrZGpIY29vMmd6YXkwUHJWWlNjemwtRDNLTW83YlQzeTI2aERlQ1Q1RG43VEtFWGvSAYICQVVfeXFMUGx3WXFDWUw1SE9sWHpwNDk1bnd6blhDSDk0ZHJtcUdpajE3NDE5eVUzcnNwQXgyNTBlTFhGN3pmbzBSY3FSNm5YT2tFQ19Ba3Q0VEhJU3ZHS1V4RzVQRmQ5U2FFdmE3N1R2VW1OWFhQdExlWWpZN2FzQ2w0OWxqazBHa3o4WnJJVmREanlhcDVFbXgyTVJyY3ZDS1JRcTQ1SWpHei16RUYwNDNHdzdlb253d1lNYWo2RTUyYW9BZkcweS1LYlRQUGdOQi1yX0xVWUlJUWNuem5IUUVqRHlsNHdGdFVJWGlhenBIR3lCa0w2SjViT0VNYkxPdkdRbDY0V2RR?oc=5"
         },
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMDdZOWl6cXV5ejM5YU9Ka1p6eF9DYTItSUpxMllLU05SQ2JMWnVwNUlmQ04wbVUycWFLaVEyVGZ1NU40TzVsZnFqYXVTV0lPdV9NeFJzd183OXVkTVRlaHczTXpjYWludDRoLXJWOVBnN05PaGpwSk5tT2Fpb3Y4cWdjYkRYVDVGS2RGa3JnZU5IVExuUDdRUDhvZ3k0VnhSdWRRY2xlVXNXZUJKbEVyTW00QU5taFNLWlBOdGtTdF9zZ9IBxwFBVV95cUxNODZMRXBOeWJHZUJQUHhaQ05YSTRha2JqSUQ0TTdLUTBHNjFRdm1fZ2tmNEVlZzdKM1lpTVpub2hpUXFnWlhoYzJZa291SER5ZE5PS1RUUkFsaDg5T2ZaemNfY0R3S29IQmZvQjl4MjVFMDNsV2FRT3dMSVZVenNaNktGN3ZFNVcyN19IUkFDeVJDdGtxalB6TTJlTTJoSGdnNmJ0M1V3RHV3QTFjOVp2NXdVYnJxRTdZcXdfMXFpSFpjeGZ2R0pz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2Q0d3B4X3dlLWpXd0pJVFJSeWdDVVd0WjJxdU9NRkIxUC1zbHBEUlVpOTEybzV2YU1YTTNGeXF6Y1N3WEVJdERURi1ka0tDSk9IS2xNZS1kaWZLZldFUF81UmhMbXB0X1FBR09lMW5ibnl3bTVIMzVRWmhqc25VOXAwRktGRVhGTk9lN08xVkROeTdKTWE2aWYwXzE5RUhDUjdEMnRR?oc=5"
         },
         {
           "outlet": "News18 Hindi",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHQ0N0VJZVFQSHo4VkstUnlXTmJoNXlHZk12U3IwQi1XbG1RdjFWMzRFTmlhTjJodXhqVjdKdTRTWTJ5VGl4MllOUVA4NzBxLVA1cVR0VkdoLWo3WXpLVmxYamlLYUlINWVPTDJVcmJ2clhmbU9OOXNsOTFNV2JiWk5NTTlPdXdtY0xUbnpaZWdkeVNjYUdEeFV5OEE5TnBFbENGV2d6bkpmbVpZbDhjb0ZpSXlGcWZmaDFQeUFxSVdTU2pSZlJvU1RqOWNFVlXSAdQBQVVfeXFMUHB2dnFlWUdaSE4ta3J4akZsbi0zbmN0WmJxWG1NZTdWZDVFR19OQ3Z6MGRHSWdZV19MLURYREVlYTdRMjRqOExuTXlnV3gya0R6ZVFFSGxzS0pMUXMxSFJfdDd5ZVpDWXhsbjE1YVQzaV9KUlVKcTlFQldndW4wa0tXQk1vcXhlZngyNGlJUkppaE43eGw3OVRXNzVjVUZydi03eUpPMVVUZkNUTzhTRHJyeWplWGNDY0YwOC16ejN0RzdVb2pXbmZTMmdxTnNnblM4ZGE?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMDdZOWl6cXV5ejM5YU9Ka1p6eF9DYTItSUpxMllLU05SQ2JMWnVwNUlmQ04wbVUycWFLaVEyVGZ1NU40TzVsZnFqYXVTV0lPdV9NeFJzd183OXVkTVRlaHczTXpjYWludDRoLXJWOVBnN05PaGpwSk5tT2Fpb3Y4cWdjYkRYVDVGS2RGa3JnZU5IVExuUDdRUDhvZ3k0VnhSdWRRY2xlVXNXZUJKbEVyTW00QU5taFNLWlBOdGtTdF9zZ9IBxwFBVV95cUxNODZMRXBOeWJHZUJQUHhaQ05YSTRha2JqSUQ0TTdLUTBHNjFRdm1fZ2tmNEVlZzdKM1lpTVpub2hpUXFnWlhoYzJZa291SER5ZE5PS1RUUkFsaDg5T2ZaemNfY0R3S29IQmZvQjl4MjVFMDNsV2FRT3dMSVZVenNaNktGN3ZFNVcyN19IUkFDeVJDdGtxalB6TTJlTTJoSGdnNmJ0M1V3RHV3QTFjOVp2NXdVYnJxRTdZcXdfMXFpSFpjeGZ2R0pz?oc=5"
         },
         {
           "outlet": "NDTV India",
@@ -54,79 +132,16 @@
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS005Z0EzSVFxck55Rk4tVTRXWVN0cmNuOU9uYmdLRWdkeW5fR3FoZ3MzUFRVanNGNVByNmJqNVlzU0FFV210OWVlZ3gtcUF2THBNX3BBMk1obDcyUlVtejB1bUlhR25iS2UzZUY0X3ZlV3hicVZ1YzF4dk9naVJaSHJUSVQycVRKQnc3a2pscEk5VTgybEUyZUx2cUxUNWx6Vzd5dTdrdXZqLWFDT1doT0xtdkJWaGVucTU3Tm0wMUxvUEYtYXhzTUxJNUNjTEgxRFdOS0Q4QldhTGhSVnNSd9IB5gFBVV95cUxPemZRN3BZM3A2UnY1WjVtcnJHcl9zVGxBYVk1dHpGb2NwVlVqeTdMXzhZVkJ4MlJ0V1Q3ZGNsbzZhaGs1SHhLakVrWU0tZUVfTzNPR3kyUENucDdTcVFqS0VWVkU4azZlV2VhWmFzbzBDU3J4YzNpU2c5bTM5MzRCLUFJM0JWSFBqc0FzTnF4aFdhc1VrQ2NrTU91MVJWVGxWd05YRjI0XzQ0a05tOGQweVEzZDdiRGZYUE1LNldqVlR6NXdTcjVCMHBpZGNKalIweEVIM3ZRanhBRGQ2eWhCamJVM195dw?oc=5"
         },
         {
-          "outlet": "Jagran",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd1NKRWpXOVE1SkpSRlptaG1jZ0RPSDN4T29IOHRVT25JZm1xSDhoQTFMN3ZwcDlKdU5hcmFyNE5rRHF0SFk5ckJ5SUd6T0x4cTdZRWc0Z0lrNmp5WnBPS1RFald0dU1yNV85aExtclM1QlV3YXBKc3gxdEY5MlJnNlIxRktmZG5tM2lwVXVvZnktS0ZIaHRFVUpLZG5SeEgyaGJFSFdDUGVmRTFlV1M3b3NTanlpaEVqR2hkbVI2NGlOUjFq?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNekVnYzVIUTJuWUEwT3FoMFR1cHdleEtDS01aOWplVE9jTzB5ZjlUMW85Y1BiSEloZ0E2TjVhUnp6MG5CZFowTlFQTjhONzY4QUFRN21TWmhYb0hYRTBtcVl0WEJYV3I1OFRnSUV3bG95MTJwMHJTOXdNdEl6WFZGLVd4SGJrOWJJdk12QTBWSk1lUGFpRjF0dExsTWhycTFtZG15MWUybHF6YWFRano3cVF5Vm4xNGlKWnlkMDEtelpmeFdfQ1NoRGpGUGFnVzd4X1E?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना से लखनऊ आ रही इंडिगो फ्लाइट पर गिरी आकाशीय बिजली, 17 हजार फीट पर विमान की नोज क्षतिग्रस्त, अमौसी में सेफ लैंडिंग। इसे 8 मीडिया संस्थानों ने कवर किया है, जिनमें Aaj Tak और Dainik Bhaskar शामिल हैं।",
+      "brief": "पटना से लखनऊ आ रही इंडिगो फ्लाइट पर गिरी आकाशीय बिजली, 17 हजार फीट पर विमान की नोज क्षतिग्रस्त, अमौसी में सेफ लैंडिंग। इसे 9 मीडिया संस्थानों ने कवर किया है, जिनमें Aaj Tak और Dainik Bhaskar शामिल हैं।",
       "image": "images/17-navbharat-times.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "lightning-strike-damages-patna-lucknow-indigo-flight-s-nose-",
-      "headline": "Lightning strike damages Patna-Lucknow IndiGo flight’s nose mid-air; 104 passengers, 6 crew escape unhurt - The Times of India",
-      "summary": "",
-      "date": "2026-10-07",
-      "topics": [
-        "crime",
-        "weather"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWXN0Y3lxTXZlcnBJWERWeURzMFFQVGhVNUpQblZ1S1RISmxMa0tHem9VRllpNFVKaTlVWTdfbVAxNGVKYmNwMDk3NUJFeERMYmNEckF1aWVjSUdDY0xtbnJILUJlNDZqQW9PeTFEcjR2cV9LZE5ra3g4Tk5IQ2U4ZjlfcDEteWtmUGFWZUNjcTZnQXdKUEM5ZnVNdTFORDNQRE1xazRQQWVVSjYxbVJ3S0xCVUdyWUhMTzVmM2tTbmhzOTE2ZVp5dmxUbW1DNmxLVlBCRFFPaEt4RlRlYjJ2ZDk3bTlKdzBodWRsTERCZWJ6d3pHR1laZEpPUHNJaGRnYTlhdjI3NUfSAY4CQVVfeXFMTl9LYWtNdmJ5bDFEVWtxSXJvYVp1dEJYdU9fTDN1VHNORGxwN2UwcGhHZ1NEekQ3OWZpVHVVZXZqdXFybEtaUTU5RDRmM044Zk56dVRpRFExcmo1RWdDOURleDFOT2trWDRTSExFZXhQbHJwaTJVVWN0VUxPTFpnZEN0MjN6R2IybFd4T1NMcjFQWHJMSWRiWmR1UTJYQzI0bm1xRFh3a3hxUzBhbkhvQTVyZm14enAyZFZLZ01YRzlVQUVrSTE2MEV6bkVDLW5fSTcwTWdlV2xJS0Y1emdsZ2ZUWTZYbGVEbGh5VVdvbUZlal9JaERUa0kxNFZERF9WRFE1Z2NuUTZCWDNnSmRn?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FlVHdRbTFjcThtejhpd0dTOUJXT2FvRUQwU0ZUWGdLcVZPQzZUWHpsWEZMZ0k0cVhhSWhBek9TUFZiaW1nMXFGSTZWQkFlc3hBdXpNM0EwdVVqYWZMZlFfb0d2M0tIeVBkMnhFYjlRd0RwTDRKRE82QWRaVmlJZEFBcFZ4NVRFNFF3cmJjQVFYbkNMWXJ5STd3bGwyVE1yTDN1WWhEbWs0MVlrVkYwU3RDTGg4NkRT0gHAAUFVX3lxTE00aVZlTHhQQnRkXy1KeUVrazdhVHhKVV9adExXNGMtRHppWUUzTlBFWC10T3JNOERjYWtGcklGX2JVbmN5Zi1lRkhZRmZOX1FXcnVkT2pCNGNMTUxpNmQ4MG41dkE2UXFNbDVJOEpVcURFX2szTTlkQ2ZJUS00VmtFai1iUGlKSG5WVGtUa3NtSjNBYmtOc2RVVGxkZWRxc3JmbXVhQXJnc1hsa05aSGtIMk1NVm90WmlYS0FIOS1SQw?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ2o0bVJCb05jSEhaNFFmQXEzUENFWWs0akNQckdkYnVpS05STGlPcVZRQzkwSzRVd01aZFRnWkh3SDRRODI5SHRJMFh2TElOSTkxQW1YVU9KNjBnV2QzVnotdUdBV29XeFNiVDNUNnZmOWZWVnhGcWpSdjhtM2xvVW04V01fa1JucEktM2NkWW1mTXpOT0MzblNvNTFXZWIxa09LOUJRbHFiUi1odHZXamNFWkMyME9YZ0JhQlhoWG9nWU9ZQkRGWmxDQnk2alhVazQwaDkza19qRm9nWlFfRDg2QjlxeVdZTkVtalRDOHHSAfYBQVVfeXFMTm56MVllQXIzUXBneWtFeEwyaG5uZVE4bDQwZ1FGdXRGSXF6anU5clBKdkNnTEZBb25qV0FzT1NNNWRzZW94ZkpTMVRKRnVTTE15NUdKWnFpMWFCM3FLR08zQ0VIcDNvbFhud3k2aTFjT1lZQTFOYWs0QVpwWDk5TXVTNTZGX1Z4SUR2SVZkd18zWHNUY2M4djA2bUNUeDlyTUN2eDFkMTBpeWhiR0E3dUZrMEFPSEltSjlpSXZGa3VBZkJIbzlCU3dHa2hmUkY0OVpGVWlUcjhodFNaX3U5a3lfV2NndlpwanBBdnE3R0huLVo3aGpn?oc=5"
-        },
-        {
-          "outlet": "Gulf News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXZNRnN4a1gyWGpIZXdobnZnRVNKYXN5RzlKdFBBWU42X1FxaWRpM0Y4c0lXanB5VkNUWFFaQzhEcldFNG0zOENJd01tOGNfWWZVWEduVVRGQlJtakhjTk02NHRoeEZUUkJNRFdhZGdYc0tnYVhiU3QtaWdYc0Z3WjVrT1NiWWMzM01qVll1VFBBNFctb2h2SV9VTXZjam5LTkpQZ1ZlaS1Zd2lfRnAwX09TdE05MXVvcng5a19JX0FEOTdyMVU2M9IB3gFBVV95cUxQNDBpelFVTTlOUWFZX2tiYVdGcS1ZcXVrb3NSeEJIOWFwdEExM0x3V0VZMW5yS21haFdNZlhjdkdrVFNsdFltV0huelNvWTdyVlRreFZBMVhVdF9kYWxBT3llZkQ0aWpQb2xDREZyRWxOd2xLZEJRZVZINFdzb2hlbHI2NDNBZGxRLWt6eGh3VHpVeGwtSEY5WUt5RG91d2ZwejlpLWJ6WXRXelFCejBSQ0VpSE9XdW1xWUxPRXdtMVBncVlQTjM0Y2gyZV9PdkpSTXJIaWVCTDc5Z29MVHc?oc=5"
-        },
-        {
-          "outlet": "Firstpost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXV0VmxqaVQxNS14YzJuQ1EtRVdrLVprYzVCUzZmbWswazBISnlST3FURGFkOFp5TzVFNlpqc1kxSHJHRmdGbHpjbk0zdC1TQmtXTEMycG5GT3doV25CMERPS1MwLWtXNk80OG1tbWxNUmhyMzJWbWlmTGx3MnJkaFJmaFNqaVdYaFJTNnRPRlFVUzNzbHh6NnNmLUFNTkpTTW1EZGhDWDNKam5raDE2a9IBtgFBVV95cUxNZi13VUhzU1ZJTmxpSmNBZU1JNmZtMkdYWkx4S1RFbVJOaU9ReVp1M0dLRmVnTGI2WG4xSENwT24wZDdHSmJwWVlwd2VNYk8tTXo4dGJMdE5KRzN2RlIwN3B6Z0o4OUtNejdZUWxGVkR6M25QVjFVMVJjcEY3T0IwYjRDZmhXc1B2YVBsLWlTZjF3bG9HSFJEYWpsb1FfcGdZSWljTVhZWFBxb1Z0NFpTTjNhQUFSdw?oc=5"
-        },
-        {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1JfckJMZmRBRmpmaVpQbm5sNzVIZjRVOU04aG5jd2UwUEt2TjhkVWVPV2tnZGFCREZRZ2RiRExXUHprTHk0Sl9NYTVOaUZRS19oUS1udWpVQXltd3YyWnR2NDZaZ1VxUUhpdmNZTlR5ZWRmLXN4RVBUZmdQcXpUbmx5VEtLT3IxbXc5QU1pWk05QVNWSE1jeUkyYzZrZXRXc2E0ZUZQU1RjSk9Gc1dMZE5UbDdqem8xcXpuZ0JsLXN0azdyYU9JaUZpaGxRZ2NWbmgzQtIB2gFBVV95cUxPUThiVEd4Uy1hX1lpemVBTFQtdHg4RkUxMlowSTRaMGpDWWJBclNBV0RkU2trU210X3FSSXE2MGVYdzdoakhYNDVGR2U1bWVCd2RwMjU1LWh3RFhQRXhfSGFKZWRYdm9pa1ZUNDF2M1c0VE90Z1dCRlpIbDBCRDlNQkNYVkNwYm9abE9wejlsSXpwaWpMSGhPYngxRW9zRTlRdEktWXM3UmZIcUVzLWVVM1lLUWpzZS1xUEUxelN6bHl1V08wNVFRenpMaXBVWkhJTW5EcVZFOWFPUQ?oc=5"
-        },
-        {
-          "outlet": "NDTV Profit",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHNaekxTZkh0XzY4S1JnX3Z1bWllRUlJMC1mdXc3NVp6VjZHazhFcmhZekVUdTRTMlphRzI1bEVjOENQa3ZqUjJRQjk1RTg2SzhvUGU4THZkRTVQVjR3NkVTMTVBajNfTFJWay1fV0V1Tm9zcFVmenFuLWhkMlB5VE1pVGlLeXltbGctVXBUc3ZJdEZWaHROa2t0VTRmZlFHdUtoX1ZYQ25tX2l3M09UZ29peUhOZFUxUUJKUdIBxAFBVV95cUxOOHQ4OHpfS1dHSEl2aGNVdkdxUFozTG5TWGJJb2tXaU56bXJIdmV3Q2FHZUtpVFY5dW5ZWnlWOVlCUHlQdU5vdDBSTGx5WU15RkpuQmc3T2hpcG83T0tPUS1OcTJPbm5VV0ZjWlJSWjVlVjhsSlJnejl4U2ZyR0hNZTNJV1JOaGR5M19IdWxlcHpBMjk5Y3p6WHlEdnVpTUNVb2pMUEd5UTZiNkNzSkRBc2JSRjd3Yms2clRhV3dnbVNRRzFq?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb1E3ZnY2RFBNaFJLQ3VUQWl2LVBLUjJyWHZpSzRmNmRFOGVCdzcwc3hJY2tkQWdNeF9MNkh2dE14MHpvU3p0RHJhdHhFVEQ1bEl3QzQxNldwa0txZUthNmloY0JTR05nQWV0ektKOUh2R00takhzS3k4aUtDVlVNbVJVcklxXzFOQ2pOTnJOa0h4aF9qUzJBZ3VDQ2lNYnVhTVI3Z3dPdVFyQ1BtS1JybGc3WXNoTUctM05jbVZfMFhPREtFQUxMOEtkWmV1cVlRMkZBTUhSLXJWSVBoTWtKMmVRTWt3bllkT082dEJZNlhTQdIB9wFBVV95cUxPTjBZb1ZkTGhmYklvYWJQWTBrSTBUNTNvdVhEb3RhUnhXYzdzZUREOUNubmZBLU9CVlNIZlpRZlVjTmhMbUlWRk1kUElMYmh1aUlNdy1nZVFpYmlWbWFwUno2TXJMNnRfTlg2TTNESS12Ny1DTU5zSm8xWGJIUjF2SmVQYVVIRTNUZ1YxYUNwRE1jUE9pamRQRXd5eXkyc3VvMXhERm50ZlJQTUJMZ0Qwd3cwLW5INEw4TVNfTXJxemVRbUdYU1ZqbkZzVzE0d0poR2NyY0lxdlkzUTE4TTJfZGh6Z1pYR3pOajR5MUhZRUY5R3p2ajYw?oc=5"
-        },
-        {
-          "outlet": "Firstpost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZi13VUhzU1ZJTmxpSmNBZU1JNmZtMkdYWkx4S1RFbVJOaU9ReVp1M0dLRmVnTGI2WG4xSENwT24wZDdHSmJwWVlwd2VNYk8tTXo4dGJMdE5KRzN2RlIwN3B6Z0o4OUtNejdZUWxGVkR6M25QVjFVMVJjcEY3T0IwYjRDZmhXc1B2YVBsLWlTZjF3bG9HSFJEYWpsb1FfcGdZSWljTVhZWFBxb1Z0NFpTTjNhQUFSd9IBtgFBVV95cUxNZi13VUhzU1ZJTmxpSmNBZU1JNmZtMkdYWkx4S1RFbVJOaU9ReVp1M0dLRmVnTGI2WG4xSENwT24wZDdHSmJwWVlwd2VNYk8tTXo4dGJMdE5KRzN2RlIwN3B6Z0o4OUtNejdZUWxGVkR6M25QVjFVMVJjcEY3T0IwYjRDZmhXc1B2YVBsLWlTZjF3bG9HSFJEYWpsb1FfcGdZSWljTVhZWFBxb1Z0NFpTTjNhQUFSdw?oc=5"
-        }
-      ],
-      "source_count": 8,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Lightning strike damages Patna-Lucknow IndiGo flight’s nose mid-air; 104 passengers, 6 crew escape unhurt. A crime-related story. Covered by 8 outlets, including The Times of India and NDTV.",
-      "image": "images/lightning-strike-damages-patna-lucknow-indigo-flight-s-nose-.jpg",
       "image_kind": "photo"
     },
     {
@@ -249,33 +264,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "ias-ips-officers-need-to-be-attuned-to-democratic-set-up-bih",
-      "headline": "IAS-IPS Officers Need To Be Attuned To Democratic Set-Up : Bihar Court While Convicting SP For Contempt - Live Law",
-      "summary": "",
-      "date": "2026-10-07",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Live Law",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEpCcWxOZmJ3Sml2eDdsWWlaeUl0RDU2cUhXMnpZNFVuallBOHk5a0phbXFRY1d5R0RabU9QSGZTS1JvNmFCaFVHWDV2V1JxNUlsRHd0SVdxaXl1M0dNY0FFdWZCQ3JWcktHUnE0YktoYnJrLVpCTi1GcjA4dlVVbkV6WlJ3eGdzUmxVYlluVHhuMlFtNVpQOWpqcWVaalczMFJvdFlDZW1ZMERiYUFvZm5zbkNWM0FFckxFZEdJXzBoc3UwTE14VlZ6U0U4dmlQRWoxRDJ3RkxRT1BE0gHiAUFVX3lxTE9EbFdqX19KNjVxZV9UOXF5Z2I3TTR5RmhTRVp0eVNsQU5OZmRYSWFBM0luLXNtRDRuNXZvRE5KcjFkQVdlbUg1WFJYU3BkdzI0ZXBzY1paNjFQaXN2WWRZS2pLMV95aE9CY0RoRTBpc1lKUWF6anpNNGRacDhkdWtaaXg0bGIwNkxvQzJQcVVvNXdRTk5jVFJ1NUNaeHhQZFRnaWZrZWNoWmtqV2RNZWJpR1VrZ0lUSzVMWVhwR3VRRDk0R1NPYVdDaW9wNVNNUS1XZF9UVHZ6TDdSb0pZSC0zeFE?oc=5"
-        },
-        {
-          "outlet": "Legend Officers",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMk9XYWRRNVFqcnBrbVFVdkdKY1R2cFFXel9fdktQT1NzTlNZMWdvSF9UbFdEd213SU1UajVhWGxTdmtZaVhQOE9NaFNISW9RWXBLakhENUNPVkFOeUZ4NlhZQmZXcjZfeGtIdkh6bEZFNC14OEtMOThnLUd3b1QxUW5QRXFIdENOYTFZTk41MzRxcHNFN3lPM1RPLXBKay16TG55MDhRYTJTMDhFa2U0?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "IAS-IPS Officers Need To Be Attuned To Democratic Set-Up : Bihar Court While Convicting SP For Contempt. Covered by Live Law and Legend Officers.",
-      "image": "images/ias-ips-officers-need-to-be-attuned-to-democratic-set-up-bih.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "meet-shubham-kumar-19-year-old-bihar-engineering-student-rea",
       "headline": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records - The Times of India",
       "summary": "",
@@ -330,6 +318,33 @@
       "genuineness_label": "Verified",
       "brief": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records. Covered by 8 outlets, including The Times of India and NDTV.",
       "image": "images/meet-shubham-kumar-19-year-old-bihar-engineering-student-rea.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "ias-ips-officers-need-to-be-attuned-to-democratic-set-up-bih",
+      "headline": "IAS-IPS Officers Need To Be Attuned To Democratic Set-Up : Bihar Court While Convicting SP For Contempt - Live Law",
+      "summary": "",
+      "date": "2026-10-07",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Live Law",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEpCcWxOZmJ3Sml2eDdsWWlaeUl0RDU2cUhXMnpZNFVuallBOHk5a0phbXFRY1d5R0RabU9QSGZTS1JvNmFCaFVHWDV2V1JxNUlsRHd0SVdxaXl1M0dNY0FFdWZCQ3JWcktHUnE0YktoYnJrLVpCTi1GcjA4dlVVbkV6WlJ3eGdzUmxVYlluVHhuMlFtNVpQOWpqcWVaalczMFJvdFlDZW1ZMERiYUFvZm5zbkNWM0FFckxFZEdJXzBoc3UwTE14VlZ6U0U4dmlQRWoxRDJ3RkxRT1BE0gHiAUFVX3lxTE9EbFdqX19KNjVxZV9UOXF5Z2I3TTR5RmhTRVp0eVNsQU5OZmRYSWFBM0luLXNtRDRuNXZvRE5KcjFkQVdlbUg1WFJYU3BkdzI0ZXBzY1paNjFQaXN2WWRZS2pLMV95aE9CY0RoRTBpc1lKUWF6anpNNGRacDhkdWtaaXg0bGIwNkxvQzJQcVVvNXdRTk5jVFJ1NUNaeHhQZFRnaWZrZWNoWmtqV2RNZWJpR1VrZ0lUSzVMWVhwR3VRRDk0R1NPYVdDaW9wNVNNUS1XZF9UVHZ6TDdSb0pZSC0zeFE?oc=5"
+        },
+        {
+          "outlet": "Legend Officers",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMk9XYWRRNVFqcnBrbVFVdkdKY1R2cFFXel9fdktQT1NzTlNZMWdvSF9UbFdEd213SU1UajVhWGxTdmtZaVhQOE9NaFNISW9RWXBLakhENUNPVkFOeUZ4NlhZQmZXcjZfeGtIdkh6bEZFNC14OEtMOThnLUd3b1QxUW5QRXFIdENOYTFZTk41MzRxcHNFN3lPM1RPLXBKay16TG55MDhRYTJTMDhFa2U0?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "IAS-IPS Officers Need To Be Attuned To Democratic Set-Up : Bihar Court While Convicting SP For Contempt. Covered by Live Law and Legend Officers.",
+      "image": "images/ias-ips-officers-need-to-be-attuned-to-democratic-set-up-bih.jpg",
       "image_kind": "photo"
     },
     {
@@ -486,20 +501,20 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalhHaE1CRFIydlNvaGxaTXRKVWVhYjN4OFlJMllMc1NoaVl0NExOZjV4dEZuYUozaW1fSUsyZWFIY21DSzlpd2hPa25sMmEwakR2X2pqUkdiaS1rdW50UHotZDlrS01XNXJZbnE0em0zQVpaX19IbU5NbDlHTGZlMkVwYjhmeXlmR2dQSWtnTWFvc2FuNWd3M2xFbGVoM3NodklSQzZVTzNtZU1vVzZ2WlpmMTRnU2U0TWc?oc=5"
         },
         {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVhtTnU3SVotSnJKTjZrNTRoRTIwUjl4cGJNNzd3X2o5aHh2UGs2TUM0dU0tay1WQVFUemdURXhpYU1XUUZHaUFWY19zTm9YeUlXX09LOWlkZGpkdWFvOGRjNVhJX3NRTVQwbldLVEdNOU5BTkFtVGJ0aFpSMjJfbzRYWHp3T2lvd0EtelNTQVQzdHVQdFV2c1Q5N2xMaXA4NkhXdDBETkctdnVTaUdybmpBRlhSaW5QSXg4U1BzaHFKc2lxVV8xeDE1X2g4LUx4clRyTmU3RmFxYlFkY2tIQ1Fpa25xTUnSAewBQVVfeXFMT1M5bUlkWWFUbFA5bkhsT08xOHU4bmNYa1JELXBKQk1ZNG5WbldSV3hhWGVmaUhNNEJvSGZBdlRDM2ZtRVdxV2JZTllTSW45YU1Nd3d3cEdYNDN4aDNjM2pfUFdvbUJaR25QUjR4TGJSYWtfWlZXVVlpeGRBZE9rWGwyWmwzZ0dZdHdOTENrTzg2TjA1M2kzLXZ5Zl9EOHhwVGlzVWYzWFljRDJlc1RaSHBrOU5qRDZHU19JcVdtQUpfMjZVaEhvOEpSaTdETDdqSGpKU3BqTTJ1clFSR19qRy0wZ3ZPcG5lTWNUMG0?oc=5"
-        },
-        {
           "outlet": "Navbharat Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLW50SjdXaVVQaGVvRDlZd3ZZNzlod1UyYzFjcE1MMEtSX3VEa0t3WVYtbDZDeXZFRWo4dlhZUlN1TERmVXdxRnZ4WXBJVTVmSEtfT1Y3VWZBWnBqQnJfS2RZM3gyTU9HN0NXWV9rbE5yOG9DNHV6dm1HZ2JseU9LdzFLcWItSGh5bkpaSzRaWDlPUmhuLUlSckkzd1RydllIUDZJdC1qQXljOC1uSHo3LV9KWHFLclZnYXBiUklDOXRVUnNLRnp1cDR3N1N0elFEZ2MxS2hUWGhRTDFlOTd0bDV0X1hVN0tSX0hrV1M1d0tDNG81YWZvZ3Rn0gH_AUFVX3lxTE4wNkNmYklBWk96WHJiN0lLRkVuZUVVaGVRSzBEc25LM3F6SUdkTWpCNTZ6dlNZMW9GUjZMRjlfbzMtdS1yQndJdXNSSlFkekNBNS1hTDF5ekdxcVBiS0dlOHZCcE80bDU0aVdOWE1YRVNpSTlSVllINmhDTlZ2UWZONXFhUHd3LUdkN05OVHVkVDRzYXZSZ1Q4eF9nb0d5cUUtWkt0d0pKWUw2QzN5OWN0MEJ3MXM3OHlTU1NGWm95OHlGWVpnWTMtWnowajNwTHE3UHhpQjBTSUNUTjBMcWJnbnJXazJBeTRoVzJ4Tmp4MmJmemdCVk94Q0lKcVNuTQ?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVhtTnU3SVotSnJKTjZrNTRoRTIwUjl4cGJNNzd3X2o5aHh2UGs2TUM0dU0tay1WQVFUemdURXhpYU1XUUZHaUFWY19zTm9YeUlXX09LOWlkZGpkdWFvOGRjNVhJX3NRTVQwbldLVEdNOU5BTkFtVGJ0aFpSMjJfbzRYWHp3T2lvd0EtelNTQVQzdHVQdFV2c1Q5N2xMaXA4NkhXdDBETkctdnVTaUdybmpBRlhSaW5QSXg4U1BzaHFKc2lxVV8xeDE1X2g4LUx4clRyTmU3RmFxYlFkY2tIQ1Fpa25xTUnSAewBQVVfeXFMT1M5bUlkWWFUbFA5bkhsT08xOHU4bmNYa1JELXBKQk1ZNG5WbldSV3hhWGVmaUhNNEJvSGZBdlRDM2ZtRVdxV2JZTllTSW45YU1Nd3d3cEdYNDN4aDNjM2pfUFdvbUJaR25QUjR4TGJSYWtfWlZXVVlpeGRBZE9rWGwyWmwzZ0dZdHdOTENrTzg2TjA1M2kzLXZ5Zl9EOHhwVGlzVWYzWFljRDJlc1RaSHBrOU5qRDZHU19JcVdtQUpfMjZVaEhvOEpSaTdETDdqSGpKU3BqTTJ1clFSR19qRy0wZ3ZPcG5lTWNUMG0?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना NEET छात्रा मौत मामले में दोषी को नहीं खोज पाई CBI, दाखिल की क्लोजर रिपोर्ट, जानिए केस में कब क्या हुआ। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
+      "brief": "पटना NEET छात्रा मौत मामले में दोषी को नहीं खोज पाई CBI, दाखिल की क्लोजर रिपोर्ट, जानिए केस में कब क्या हुआ। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Navbharat Times शामिल हैं।",
       "image": "images/neet-cbi-navbharat-times.jpg",
       "image_kind": "photo"
     },
