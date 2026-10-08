@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08 22:54 UTC",
-  "generated_at_ist": "09 Oct 2026, 04:24 AM IST",
-  "story_count": 53,
+  "generated_at": "2026-10-08 23:35 UTC",
+  "generated_at_ist": "09 Oct 2026, 05:05 AM IST",
+  "story_count": 54,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -10,15 +10,9 @@
       "summary": "",
       "date": "2026-10-08",
       "topics": [
-        "crime",
         "weather"
       ],
       "sources": [
-        {
-          "outlet": "Firstpost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXV0VmxqaVQxNS14YzJuQ1EtRVdrLVprYzVCUzZmbWswazBISnlST3FURGFkOFp5TzVFNlpqc1kxSHJHRmdGbHpjbk0zdC1TQmtXTEMycG5GT3doV25CMERPS1MwLWtXNk80OG1tbWxNUmhyMzJWbWlmTGx3MnJkaFJmaFNqaVdYaFJTNnRPRlFVUzNzbHh6NnNmLUFNTkpTTW1EZGhDWDNKam5raDE2a9IBtgFBVV95cUxNZi13VUhzU1ZJTmxpSmNBZU1JNmZtMkdYWkx4S1RFbVJOaU9ReVp1M0dLRmVnTGI2WG4xSENwT24wZDdHSmJwWVlwd2VNYk8tTXo4dGJMdE5KRzN2RlIwN3B6Z0o4OUtNejdZUWxGVkR6M25QVjFVMVJjcEY3T0IwYjRDZmhXc1B2YVBsLWlTZjF3bG9HSFJEYWpsb1FfcGdZSWljTVhZWFBxb1Z0NFpTTjNhQUFSdw?oc=5"
-        },
         {
           "outlet": "NDTV",
           "type": "news",
@@ -70,20 +64,20 @@
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ0lTTzh2SmZnV1QyQkcxNllyRGhQMm1Od24tc3BDOUtIV3VIaXVMdVBITkZWMGRza1VPTE8yaUZWS2RmTVp1RlFUZ1BoMHlFUFhKVW02WXZXczN1VlE3bGgwdG1xNjgxZXM3MzNJN2JWcEFfM3lveEtLRTRjaEhSaVlfa3BadjhZa1BGUFZxcWZrT0Q1X3J3NnZNUzVmRHpreVBrZk82TEktOXpXRkpaR2M5YWVqdV8tVnJGSGRhRjRmUmktU1U3TmYxc1BhTjJuNUgzajZ5c9IB1wFBVV95cUxQZ0lTTzh2SmZnV1QyQkcxNllyRGhQMm1Od24tc3BDOUtIV3VIaXVMdVBITkZWMGRza1VPTE8yaUZWS2RmTVp1RlFUZ1BoMHlFUFhKVW02WXZXczN1VlE3bGgwdG1xNjgxZXM3MzNJN2JWcEFfM3lveEtLRTRjaEhSaVlfa3BadjhZa1BGUFZxcWZrT0Q1X3J3NnZNUzVmRHpreVBrZk82TEktOXpXRkpaR2M5YWVqdV8tVnJGSGRhRjRmUmktU1U3TmYxc1BhTjJuNUgzajZ5cw?oc=5"
         },
         {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1JfckJMZmRBRmpmaVpQbm5sNzVIZjRVOU04aG5jd2UwUEt2TjhkVWVPV2tnZGFCREZRZ2RiRExXUHprTHk0Sl9NYTVOaUZRS19oUS1udWpVQXltd3YyWnR2NDZaZ1VxUUhpdmNZTlR5ZWRmLXN4RVBUZmdQcXpUbmx5VEtLT3IxbXc5QU1pWk05QVNWSE1jeUkyYzZrZXRXc2E0ZUZQU1RjSk9Gc1dMZE5UbDdqem8xcXpuZ0JsLXN0azdyYU9JaUZpaGxRZ2NWbmgzQtIB2gFBVV95cUxPUThiVEd4Uy1hX1lpemVBTFQtdHg4RkUxMlowSTRaMGpDWWJBclNBV0RkU2trU210X3FSSXE2MGVYdzdoakhYNDVGR2U1bWVCd2RwMjU1LWh3RFhQRXhfSGFKZWRYdm9pa1ZUNDF2M1c0VE90Z1dCRlpIbDBCRDlNQkNYVkNwYm9abE9wejlsSXpwaWpMSGhPYngxRW9zRTlRdEktWXM3UmZIcUVzLWVVM1lLUWpzZS1xUEUxelN6bHl1V08wNVFRenpMaXBVWkhJTW5EcVZFOWFPUQ?oc=5"
-        },
-        {
           "outlet": "Business Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkpqMlYxMGJQZE95UXdYRFNGSHFFSk9lWlNKZ043T041clRHcXlWbnIxN01hYWlqR0xqci1IR1VkUzlPdGpyWVhjRW1kVFBVUTUxeEVjZ0Z6OEczVVZDUFM2STVTVmdUc05VMkZNNnpzWGZTMld5SWpiZGROYnNKSTVhLXdEemN6bm03RmctSHdMZDQ5cnhVTGVHUF83a0Z5aVRUeEIzbDZKV21tRzNDaHhrdVhucno2aklHV0E2M3dHZ2gyajM0dVRsaF9xZUh5VE9BOHFIeW5hWkd2czNFNHp1QmlHNUNJZDJEaFV30gHzAUFVX3lxTFAyUWdaYXJvMlFNU3JCbHJOSkJxSmtKSDBsX3hIOEpRZFR6akpxbEFWbkJkdmRfdUp6Z1ZmWndXSmlQbndxR00yZVpJVG43SzFVYnhNajROaVRnaXVYUmNDTWhBMlQwcXJhNWtCampuRFllcEZJQ1lSbWpnUnJodklDXy1QT3JZeHdWc0RpWjdMM3M5NVktSHhEdmExeC1jdHR1MEZjUEV3Q0J1bTIxNVFTdE1Uei1PR3FPTFBYTlVGd29CcjlNUTNxOWZKbURPVHJmbXNzZG9kU2FKNTZoVFl1YUlOY0lNWGJzMlJCbHZWelBSTQ?oc=5"
+        },
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1JfckJMZmRBRmpmaVpQbm5sNzVIZjRVOU04aG5jd2UwUEt2TjhkVWVPV2tnZGFCREZRZ2RiRExXUHprTHk0Sl9NYTVOaUZRS19oUS1udWpVQXltd3YyWnR2NDZaZ1VxUUhpdmNZTlR5ZWRmLXN4RVBUZmdQcXpUbmx5VEtLT3IxbXc5QU1pWk05QVNWSE1jeUkyYzZrZXRXc2E0ZUZQU1RjSk9Gc1dMZE5UbDdqem8xcXpuZ0JsLXN0azdyYU9JaUZpaGxRZ2NWbmgzQtIB2gFBVV95cUxPUThiVEd4Uy1hX1lpemVBTFQtdHg4RkUxMlowSTRaMGpDWWJBclNBV0RkU2trU210X3FSSXE2MGVYdzdoakhYNDVGR2U1bWVCd2RwMjU1LWh3RFhQRXhfSGFKZWRYdm9pa1ZUNDF2M1c0VE90Z1dCRlpIbDBCRDlNQkNYVkNwYm9abE9wejlsSXpwaWpMSGhPYngxRW9zRTlRdEktWXM3UmZIcUVzLWVVM1lLUWpzZS1xUEUxelN6bHl1V08wNVFRenpMaXBVWkhJTW5EcVZFOWFPUQ?oc=5"
         }
       ],
-      "source_count": 13,
+      "source_count": 12,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "IndiGo flight from Patna to Lucknow makes emergency landing after lightning strike at 17,000 feet; nose damaged. A crime-related story. Covered by 13 outlets, including Firstpost and NDTV.",
+      "brief": "IndiGo flight from Patna to Lucknow makes emergency landing after lightning strike at 17,000 feet; nose damaged. A weather-related story. Covered by 12 outlets, including NDTV and Hindustan Times.",
       "image": "images/indigo-flight-from-patna-to-lucknow-makes-emergency-landing-.jpg",
       "image_kind": "photo"
     },
@@ -638,6 +632,38 @@
       "image_kind": "photo"
     },
     {
+      "id": "cbi-jagran",
+      "headline": "पटना के हॉस्टल में नीट छात्रा की मौत मामले में CBI को नहीं मिले सबूत, पोक्सो कोर्ट में दाखिल की क्लोजर रिपोर्ट - Jagran",
+      "summary": "",
+      "date": "2026-10-08",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQREpoUzVhRWdGN2VabDU0S2pQS2xOT2FaMzhIeDNuUzh4U2VzUHY4d2loc1BEeXFRV1hyRlhiNmd4Z3dvbUZReW42bU82R3FYbW94a2NQZWVycXdqeVBNYUFnNFcxaXhRWXhDcGdHRmllazZwbVJnY0IyQkZSMW1lV3R5MjUtUWMtb1NPQ0x1bUJEWURiVDl4TjJyZ3N1ZlpfbldTbjBkYWp6SmZwLXR1bW1VeTFvY2U4?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalhHaE1CRFIydlNvaGxaTXRKVWVhYjN4OFlJMllMc1NoaVl0NExOZjV4dEZuYUozaW1fSUsyZWFIY21DSzlpd2hPa25sMmEwakR2X2pqUkdiaS1rdW50UHotZDlrS01XNXJZbnE0em0zQVpaX19IbU5NbDlHTGZlMkVwYjhmeXlmR2dQSWtnTWFvc2FuNWd3M2xFbGVoM3NodklSQzZVTzNtZU1vVzZ2WlpmMTRnU2U0TWc?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVhtTnU3SVotSnJKTjZrNTRoRTIwUjl4cGJNNzd3X2o5aHh2UGs2TUM0dU0tay1WQVFUemdURXhpYU1XUUZHaUFWY19zTm9YeUlXX09LOWlkZGpkdWFvOGRjNVhJX3NRTVQwbldLVEdNOU5BTkFtVGJ0aFpSMjJfbzRYWHp3T2lvd0EtelNTQVQzdHVQdFV2c1Q5N2xMaXA4NkhXdDBETkctdnVTaUdybmpBRlhSaW5QSXg4U1BzaHFKc2lxVV8xeDE1X2g4LUx4clRyTmU3RmFxYlFkY2tIQ1Fpa25xTUnSAewBQVVfeXFMT1M5bUlkWWFUbFA5bkhsT08xOHU4bmNYa1JELXBKQk1ZNG5WbldSV3hhWGVmaUhNNEJvSGZBdlRDM2ZtRVdxV2JZTllTSW45YU1Nd3d3cEdYNDN4aDNjM2pfUFdvbUJaR25QUjR4TGJSYWtfWlZXVVlpeGRBZE9rWGwyWmwzZ0dZdHdOTENrTzg2TjA1M2kzLXZ5Zl9EOHhwVGlzVWYzWFljRDJlc1RaSHBrOU5qRDZHU19JcVdtQUpfMjZVaEhvOEpSaTdETDdqSGpKU3BqTTJ1clFSR19qRy0wZ3ZPcG5lTWNUMG0?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना के हॉस्टल में नीट छात्रा की मौत मामले में CBI को नहीं मिले सबूत, पोक्सो कोर्ट में दाखिल की क्लोजर रिपोर्ट। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
+      "image": "images/cbi-jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "50-dainik-bhaskar",
       "headline": "घर से दुकान-ऑफिस चलाने वालों पर बड़ी कार्रवाई की तैयारी: पटना में 50 हजार से ज्यादा संपत्तियां निगम की रडार... - Dainik Bhaskar",
       "summary": "",
@@ -728,20 +754,20 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHpFWm1iRV9ZajQ3VmZ5ODhtUGxRWDl5dS1QTVNjeVRLWFZMZ3FyQXUwMFZPMExVcC1oVmhhLURTMVRrRVdBRk1SNHZ0V1RkcTdERlRLZmVYWkxTMGRaRUdLeEVlNGtZWVpCNUV2R1BWZkxIY2hxLUVkc2JHc1F5VmhvOTlQWHhVSmpobC1tTlVLeHh0cjF1OUZDck10X3R0SHN5Q1JHMTJJNV8zU3loX08wdVlyWVY1Z3BZaWk2SXJOUDI2cnBBV0xyWXlHRjktU1BhVW45bkRNWUdS?oc=5"
-        },
-        {
           "outlet": "Aaj Tak",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcnZiZVpGb3ZPRUUxZFlMYU1GSW9MX202ZjdaTWs3eS0xSVVxUURJWjFrSU9nbkQ1T0tEWHpnWF9KOGtIcFJlY0VKMFhjZnU5bFpoVXVFeTJtNEJEOHFmY29VcE0zVHozQ0txMi1HRVhMR19vVXQ3d1RGMlhoMVQ2V0xYMUh5WXZkRFVEOHRSQzNkcElDT0g0Wlo1cHJXbE5tUzZyN3U2ZXdMZ3I5TGZmNF9lSlFXbU5FSXpZbk9fcXdOQnYtWHNXSk9RdzFEWnhIUl9KNjdUanFDUEpPOTZlT2hTUmF4ckFiMXp5ZTdWM185RktQUy1LVUFjSdIBgAJBVV95cUxPaVBWSDNZbDBOTzZBNHQ1ZDJqYjhyLUJ6bUZmb3d1bGhYWG1kZVdySldWald3bC1VZ0NPX2ZyT29SNmctSm5sejgzc1F1QUtmVUs3LTNleW84RTF4Y19yYWlidjVoYjk5QXBGMmh6SzgzVG56U3NzTGc1OGFBdGNLZ2dzUHNKOWd4bGhjckQwNlNtaHNuczR2NzU4Qm1QWENIcGtXQjlWMGZSVmN3M0VPMW8xNFNLdm9SdlN3UlFyblZVVEpwWWdIM3I4TWI0VFZFTVNrUEZ4ZHR6dkhZY3NuX2kteGJYSFdVS2tObUlpWUxXZ01MV1FBbU9BdEVLXzly?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHpFWm1iRV9ZajQ3VmZ5ODhtUGxRWDl5dS1QTVNjeVRLWFZMZ3FyQXUwMFZPMExVcC1oVmhhLURTMVRrRVdBRk1SNHZ0V1RkcTdERlRLZmVYWkxTMGRaRUdLeEVlNGtZWVpCNUV2R1BWZkxIY2hxLUVkc2JHc1F5VmhvOTlQWHhVSmpobC1tTlVLeHh0cjF1OUZDck10X3R0SHN5Q1JHMTJJNV8zU3loX08wdVlyWVY1Z3BZaWk2SXJOUDI2cnBBV0xyWXlHRjktU1BhVW45bkRNWUdS?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे Jagran और Aaj Tak ने रिपोर्ट किया है।",
+      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे Aaj Tak और Jagran ने रिपोर्ट किया है।",
       "image": "images/13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci.jpg",
       "image_kind": "photo"
     },
