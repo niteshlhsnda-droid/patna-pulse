@@ -1,9 +1,36 @@
 {
-  "generated_at": "2026-10-08 23:35 UTC",
-  "generated_at_ist": "09 Oct 2026, 05:05 AM IST",
-  "story_count": 54,
+  "generated_at": "2026-10-09 00:35 UTC",
+  "generated_at_ist": "09 Oct 2026, 06:05 AM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "20-jagran",
+      "headline": "पटना में पान की दुकान पर 20 हजार घूस लेते क्लर्क गिरफ्तार, निगरानी विभाग का बड़ा एक्शन - Jagran",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEdESm1VU3BYYjRLdjk5Y2JzUXN0TDZrUkppekNxb2tpMF9CZkE3NDVPZ1cxbU9UbWVzSU1QMXJGa0txUVgxeHNhR01oSllrQmx1VnFHdGJ6QThJX0J3Z3FHaG02dWJFbFgtUnMwcUFrOE9IeUZCNjFveEZqUmt2Y3EtM1lsVmc3R3A2U0U2MmxlNmdCNEttVjFCR1BZNGpONzJRSG5WX2hjcXEwQ0plVVo0OWNud0JhT0pkdEp2cUpjak5wczJV0gHMAUFVX3lxTE5rSHBvNXBRNUxZdE9uUllPSjQzRXE0bEFPQUYwVlhSVHhGZ0d3Ymg1cVZNcTczMGJ3dnMwZXZyX2NSRWpGZ0dSUEZ5azhaVGFuMmpxQkdENXFEN0ZrV2k2YjRvanFNcEU2aDJ2MU5hcHBvWHh1emFFMjVHNVBvdUJwUE91akFfenJJRUxRRDhhZDdlYmxuRmlaRGsxTkhBNDNpcV9kMFN6LURianM4bURNRFN3b01ZR2tFMFhySEp1ZERtRmZHUUo2dVFvYg?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2U5dUhQVlZ0MWJVNldKR2xhU19Xdm5hUUE2elc2UXdLMDRfMlJjeTUzTkZaMjFibXczbWM4U1BHeHM5aEJYVXJRS0FtcW1LYVZPSEhtb3FOMnNwYllwalFSaDdJX2xWVXM5YjRkMUZLLTNSNEVpeTV6VVNaXzBSaWEzMGd4NjRLdUZtTGc1bjdTaGxfamgxVlNyYVdiekF2dDdONVlScFFwdXJfQm5DcVkwVQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में पान की दुकान पर 20 हजार घूस लेते क्लर्क गिरफ्तार, निगरानी विभाग का बड़ा एक्शन। इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/20-jagran.jpg",
+      "image_kind": "placeholder"
+    },
     {
       "id": "indigo-flight-from-patna-to-lucknow-makes-emergency-landing-",
       "headline": "IndiGo flight from Patna to Lucknow makes emergency landing after lightning strike at 17,000 feet; nose damaged - The Tribune",
@@ -14,14 +41,14 @@
       ],
       "sources": [
         {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FlVHdRbTFjcThtejhpd0dTOUJXT2FvRUQwU0ZUWGdLcVZPQzZUWHpsWEZMZ0k0cVhhSWhBek9TUFZiaW1nMXFGSTZWQkFlc3hBdXpNM0EwdVVqYWZMZlFfb0d2M0tIeVBkMnhFYjlRd0RwTDRKRE82QWRaVmlJZEFBcFZ4NVRFNFF3cmJjQVFYbkNMWXJ5STd3bGwyVE1yTDN1WWhEbWs0MVlrVkYwU3RDTGg4NkRT0gHAAUFVX3lxTE00aVZlTHhQQnRkXy1KeUVrazdhVHhKVV9adExXNGMtRHppWUUzTlBFWC10T3JNOERjYWtGcklGX2JVbmN5Zi1lRkhZRmZOX1FXcnVkT2pCNGNMTUxpNmQ4MG41dkE2UXFNbDVJOEpVcURFX2szTTlkQ2ZJUS00VmtFai1iUGlKSG5WVGtUa3NtSjNBYmtOc2RVVGxkZWRxc3JmbXVhQXJnc1hsa05aSGtIMk1NVm90WmlYS0FIOS1SQw?oc=5"
-        },
-        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT3d3QzZxRFJvdXdmN25KSXc1SFZ3eUxudkg4ckxGSzlDRWJDamVPQ2RYaUhDZ1ppZ0lfLUdXdVFJbE1WbGlnSFBSZFdWWjVLNnFTTmxJcG5mRWhFMjRTVUREWFAyRUdUVmVRczk2RmVHMmZhZVBLRHBYOWJnSF9iSEtvZTY2ZDdZZ0l6aVpVU0RJZzJ1eHN0TUZ1WjQ0RExDb3hCSWdnemRCTlJLOGlSTjRfU3BBbEh0Y0oybUQ2WlltQzFEVEJnMDlIeVdQMWxHcGdSRU9acDdRM0FSMzFlUEk0M2pQX3NvLTladA?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FlVHdRbTFjcThtejhpd0dTOUJXT2FvRUQwU0ZUWGdLcVZPQzZUWHpsWEZMZ0k0cVhhSWhBek9TUFZiaW1nMXFGSTZWQkFlc3hBdXpNM0EwdVVqYWZMZlFfb0d2M0tIeVBkMnhFYjlRd0RwTDRKRE82QWRaVmlJZEFBcFZ4NVRFNFF3cmJjQVFYbkNMWXJ5STd3bGwyVE1yTDN1WWhEbWs0MVlrVkYwU3RDTGg4NkRT0gHAAUFVX3lxTE00aVZlTHhQQnRkXy1KeUVrazdhVHhKVV9adExXNGMtRHppWUUzTlBFWC10T3JNOERjYWtGcklGX2JVbmN5Zi1lRkhZRmZOX1FXcnVkT2pCNGNMTUxpNmQ4MG41dkE2UXFNbDVJOEpVcURFX2szTTlkQ2ZJUS00VmtFai1iUGlKSG5WVGtUa3NtSjNBYmtOc2RVVGxkZWRxc3JmbXVhQXJnc1hsa05aSGtIMk1NVm90WmlYS0FIOS1SQw?oc=5"
         },
         {
           "outlet": "India Today",
@@ -77,7 +104,7 @@
       "source_count": 12,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "IndiGo flight from Patna to Lucknow makes emergency landing after lightning strike at 17,000 feet; nose damaged. A weather-related story. Covered by 12 outlets, including NDTV and Hindustan Times.",
+      "brief": "IndiGo flight from Patna to Lucknow makes emergency landing after lightning strike at 17,000 feet; nose damaged. A weather-related story. Covered by 12 outlets, including Hindustan Times and NDTV.",
       "image": "images/indigo-flight-from-patna-to-lucknow-makes-emergency-landing-.jpg",
       "image_kind": "photo"
     },
@@ -452,33 +479,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "cm-samrat-choudhary-sets-target-of-1-crore-entrepreneurs-pus",
-      "headline": "CM Samrat Choudhary sets target of 1 Crore entrepreneurs, pushes Bihar-made products in government procurement - Investment Guru India",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "Investment Guru India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLVFucUlJQVJYTzFKV0RvVVduQWVwQ3lUb3U1QWVRNUthWkNlTXh2Yno0T2c5Vjhyd05tOERGVEdFRzhuVFgzTEplWjJ1Y3J3MXJHMUgySEFxM1dReEZPdElpU05vazllRk4yc2ZZZnk0MVp5bnUzeWhCdUlpSzlLQXZDNkdtaWRyanI3cWtET3VHNU9nNTFUWkx5ZWtoNDNRakVvc1ktLVM4aC1tOGJMWHlESVJmRUJkcFJuR2FfcXBGRmNQN21YX2dxeGRRRWlDV19KbGhBcUVwck5vODlFbWxwZ1NvMEFMVjY2Q2dYSQ?oc=5"
-        },
-        {
-          "outlet": "The Hans India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSTNCSVM3YnJQejVZZEV6TURId2lCQnYzanBLaXJZbXVURzFuREstNGNldkhPeGpDbU1HcVRLYTdxclA3R09oSUdtR2dNQmJHTDJxaGdOaUhrQU1EMDJNNGVsamRoLUx1b255Y21ER1plcFA2QTFkdXJSSWhDckFaZ3plYnI4ZkVwWl9VVUI0UGdRMjZSb3BKS21QY0hTV2wwZlJqZVZhU0RkbmtwSGw0amw5WTExX3V4Rk0zNEJhOTV0LUlucHRtUlZEVlBuVmYyRHlRSEZYQnltZ0d0bktJNVdfR2ZyMkRx?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "CM Samrat Choudhary sets target of 1 Crore entrepreneurs, pushes Bihar-made products in government procurement. An economy-related story. Covered by Investment Guru India and The Hans India.",
-      "image": "images/cm-samrat-choudhary-sets-target-of-1-crore-entrepreneurs-pus.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local",
       "headline": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production - ANI News",
       "summary": "",
@@ -589,7 +589,12 @@
         {
           "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWdrOXZrUl96dk1EQ0M4M0gxR3hMWDBqYUQtQjJNNktrN25UQnBDMVlibE01c2daNGgzMGVPbnJPS0xUTnlxa183a29sbk9xTnotNVRqc21kWEdSQmJpMUFxTVdoM3pkcFBIRzBlc2pIMktkSV9MRWczbzVVazB5YVRtaElkWDZjOC1rNlFYbVNwUHJVNEV1TzF5MWx4UUZjeGkyM3VpZjBseEpCb25GYTVUR1LSAboBQVVfeXFMTzlFTURGQXNhWVJsVThvRHFrUVNrZW9QOFpSeElnVHZxZThLTGh1UkxlckpoYWk5b2FMMklJVi1NMjJ2MnlleklFVXg2emNLak9Mbmk1eko3TVZQaFhST0QxeU5IRXFMM2pUR3pyLWpUR29yb09uT2liSnUzc3NVb0VQTGlweXdpbTdISW5DT3pLZVhsaEtTSXNQbE11RFUzTFpYMDI5Q1pPODg3NlNJSGk5ZUNPYWM4ZjFR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNEdYMVZZWTZRemY4VXBZWlhvODZ0SUpGLUNlYkdiQUdzZGMtdmJCUWtwRGZ4U054cHpTbUR1RW4za09YYkh2dW5uSm1XZnFqYzY4Vk9rdjlDbXROLXN2Y3BuSW5vaTY2Y0JnSGNBZ3FGTjZGdTVPQmRQSEFSRF9rVThqTmhkNzUtNnl6YmVCRTFKWWFnQU9ZT2o1c1RHNGo0SFlnWjFGdzYySVRMcEF3TENVTUkzY0p0ejV3NUdB0gHDAUFVX3lxTFBua0hTVXcwS2czbEZwbndWUEgwaHdkaTJBUGwzUnFMelZoenVQSG5NZnZlUEpBazVpQ1k4M2F5Z3dWRFQ3ZTQ1ZEFBeWhuT2xBRWZYRFNfYjVrd1YwNWRuMTZjVjN0Y1hpZmlPODNVTDZjTGxxVE0yb2c3amxLVWs5ZjFKbmZvT3hjcTM3Ui1vc2duSEhGSXZ6cHA2V1B0UnZUVzR6QldhQ0VLQ1dZQzFJdmtNYVpsRnNURmdraEVmN2g4UQ?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1BWNWxUTUREVlV3czNCYjM0OHNuQU4wZGhrVjV6VWNjbThKTllTbFRLNUxIRVhTTmN5UTllUHZDMnpZMlJDcFR5VDVQcjZsaVFZU3ZRdWlkR1o0N1MtTGZHR1RmTVMzTU9iSlplVG1temx6LU4wLXcyVWNDY3F5cVFoTW5kbUtSYlJ1UmhOYW82YUNMRlQ5bDVNTzBES3hqX0NIcU5CM3ExaTFpUlpPZTFFYkVjWlVDN1BjZENCSE10QWRqVERoT2cxOWFDUQ?oc=5"
         }
       ],
       "source_count": 2,
@@ -597,6 +602,33 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना समेत 6 जिलों में तेज बारिश, 18 में अलर्ट: भोजपुर में बिजली गिरने से किसान की मौत; 466 गांव के 8 लाख लो... मौसम से जुड़ी ख़बर। इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/6-18-466-8-dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "50-dainik-bhaskar",
+      "headline": "घर से दुकान-ऑफिस चलाने वालों पर बड़ी कार्रवाई की तैयारी: पटना में 50 हजार से ज्यादा संपत्तियां निगम की रडार... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-08",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdl9XYUd5XzVzOVdFUlRTcmhwZG1aeURyU2lSTzBPU0RsekoteE5YMFVUQlBub3huMkE4TWl1bG1QVmliREQ2N3dJN05ZU3lZYXZkMnFPUFNmSWNUU0txNzZFOURlSHBYbkdBSmJhRTNZcjhvRU1KNkpPcVU0UmRyQThkSnQ2RjhBRUxxclM3MW81WHl1cDdFdEVnNWF4MnJfX2ltUHg3U25QQl9Qdk1GcXFaT0NqcVhGbm5iZ1dMTmZlNHFIVi1yVDN5ZUo1Z9IB0wFBVV95cUxOVmgySlBfTEU4S25VQUh1RkRCRy1jLUU4bDlsMDA4ejJfR043QWFYU0dXbUQ5VzdjeFd0TllhRmdoU3NueG56SHBrUkE0V3Bjcm15WlZHRUlabFdrRWNtMy1GZjJoQmlrbWVpOHFuRURieUdnUXdaaUFISW5XU2Rhdjc2UHhDbWZlYUxzakdNQjZhYnAyaW5pZmNrOWVoUktXckhEcms1MWI1WUgxZ0RISGdLVlB4X1VxX3NfRE1odUdQSVllUzR1aXpUXzh1QnpLNzlr?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWtkQVRMR25manNpSF9fWThaX1YwekRyUmhqVUVPRWNNTWRqeHEwdWVGRXE5SnZJNDhoNHpHU1lrdkFYVm1TVHlFQ2YwSzBkblhVM2tXM25rQ2Q4V0xCVkM2WXQ3VUZhLTlFeHgwVEhpa2NCVUZuSjE5VjZmMldRcXBJUEpxZFB4dy1GNXhPbVlNS05TeWNVbEZkYTE3TDh3SG1XNGJ3NFpXbjFTZzVHMm53?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "घर से दुकान-ऑफिस चलाने वालों पर बड़ी कार्रवाई की तैयारी: पटना में 50 हजार से ज्यादा संपत्तियां निगम की रडार... इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/50-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -629,65 +661,6 @@
       "genuineness_label": "Corroborated",
       "brief": "LIVE: पटना में विपक्ष का हल्ला बोल, ज्ञानेश कुमार के इस्तीफे की मांग, तेजस्वी यादव हिरासत में - News18 Hindi। इसे Aaj Tak और News18 Hindi ने रिपोर्ट किया है।",
       "image": "images/live-news18-hindi.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "cbi-jagran",
-      "headline": "पटना के हॉस्टल में नीट छात्रा की मौत मामले में CBI को नहीं मिले सबूत, पोक्सो कोर्ट में दाखिल की क्लोजर रिपोर्ट - Jagran",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQREpoUzVhRWdGN2VabDU0S2pQS2xOT2FaMzhIeDNuUzh4U2VzUHY4d2loc1BEeXFRV1hyRlhiNmd4Z3dvbUZReW42bU82R3FYbW94a2NQZWVycXdqeVBNYUFnNFcxaXhRWXhDcGdHRmllazZwbVJnY0IyQkZSMW1lV3R5MjUtUWMtb1NPQ0x1bUJEWURiVDl4TjJyZ3N1ZlpfbldTbjBkYWp6SmZwLXR1bW1VeTFvY2U4?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalhHaE1CRFIydlNvaGxaTXRKVWVhYjN4OFlJMllMc1NoaVl0NExOZjV4dEZuYUozaW1fSUsyZWFIY21DSzlpd2hPa25sMmEwakR2X2pqUkdiaS1rdW50UHotZDlrS01XNXJZbnE0em0zQVpaX19IbU5NbDlHTGZlMkVwYjhmeXlmR2dQSWtnTWFvc2FuNWd3M2xFbGVoM3NodklSQzZVTzNtZU1vVzZ2WlpmMTRnU2U0TWc?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVhtTnU3SVotSnJKTjZrNTRoRTIwUjl4cGJNNzd3X2o5aHh2UGs2TUM0dU0tay1WQVFUemdURXhpYU1XUUZHaUFWY19zTm9YeUlXX09LOWlkZGpkdWFvOGRjNVhJX3NRTVQwbldLVEdNOU5BTkFtVGJ0aFpSMjJfbzRYWHp3T2lvd0EtelNTQVQzdHVQdFV2c1Q5N2xMaXA4NkhXdDBETkctdnVTaUdybmpBRlhSaW5QSXg4U1BzaHFKc2lxVV8xeDE1X2g4LUx4clRyTmU3RmFxYlFkY2tIQ1Fpa25xTUnSAewBQVVfeXFMT1M5bUlkWWFUbFA5bkhsT08xOHU4bmNYa1JELXBKQk1ZNG5WbldSV3hhWGVmaUhNNEJvSGZBdlRDM2ZtRVdxV2JZTllTSW45YU1Nd3d3cEdYNDN4aDNjM2pfUFdvbUJaR25QUjR4TGJSYWtfWlZXVVlpeGRBZE9rWGwyWmwzZ0dZdHdOTENrTzg2TjA1M2kzLXZ5Zl9EOHhwVGlzVWYzWFljRDJlc1RaSHBrOU5qRDZHU19JcVdtQUpfMjZVaEhvOEpSaTdETDdqSGpKU3BqTTJ1clFSR19qRy0wZ3ZPcG5lTWNUMG0?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना के हॉस्टल में नीट छात्रा की मौत मामले में CBI को नहीं मिले सबूत, पोक्सो कोर्ट में दाखिल की क्लोजर रिपोर्ट। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
-      "image": "images/cbi-jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "50-dainik-bhaskar",
-      "headline": "घर से दुकान-ऑफिस चलाने वालों पर बड़ी कार्रवाई की तैयारी: पटना में 50 हजार से ज्यादा संपत्तियां निगम की रडार... - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWtkQVRMR25manNpSF9fWThaX1YwekRyUmhqVUVPRWNNTWRqeHEwdWVGRXE5SnZJNDhoNHpHU1lrdkFYVm1TVHlFQ2YwSzBkblhVM2tXM25rQ2Q4V0xCVkM2WXQ3VUZhLTlFeHgwVEhpa2NCVUZuSjE5VjZmMldRcXBJUEpxZFB4dy1GNXhPbVlNS05TeWNVbEZkYTE3TDh3SG1XNGJ3NFpXbjFTZzVHMm53?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdl9XYUd5XzVzOVdFUlRTcmhwZG1aeURyU2lSTzBPU0RsekoteE5YMFVUQlBub3huMkE4TWl1bG1QVmliREQ2N3dJN05ZU3lZYXZkMnFPUFNmSWNUU0txNzZFOURlSHBYbkdBSmJhRTNZcjhvRU1KNkpPcVU0UmRyQThkSnQ2RjhBRUxxclM3MW81WHl1cDdFdEVnNWF4MnJfX2ltUHg3U25QQl9Qdk1GcXFaT0NqcVhGbm5iZ1dMTmZlNHFIVi1yVDN5ZUo1Z9IB0wFBVV95cUxOVmgySlBfTEU4S25VQUh1RkRCRy1jLUU4bDlsMDA4ejJfR043QWFYU0dXbUQ5VzdjeFd0TllhRmdoU3NueG56SHBrUkE0V3Bjcm15WlZHRUlabFdrRWNtMy1GZjJoQmlrbWVpOHFuRURieUdnUXdaaUFISW5XU2Rhdjc2UHhDbWZlYUxzakdNQjZhYnAyaW5pZmNrOWVoUktXckhEcms1MWI1WUgxZ0RISGdLVlB4X1VxX3NfRE1odUdQSVllUzR1aXpUXzh1QnpLNzlr?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "घर से दुकान-ऑफिस चलाने वालों पर बड़ी कार्रवाई की तैयारी: पटना में 50 हजार से ज्यादा संपत्तियां निगम की रडार... इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/50-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -754,20 +727,20 @@
       ],
       "sources": [
         {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcnZiZVpGb3ZPRUUxZFlMYU1GSW9MX202ZjdaTWs3eS0xSVVxUURJWjFrSU9nbkQ1T0tEWHpnWF9KOGtIcFJlY0VKMFhjZnU5bFpoVXVFeTJtNEJEOHFmY29VcE0zVHozQ0txMi1HRVhMR19vVXQ3d1RGMlhoMVQ2V0xYMUh5WXZkRFVEOHRSQzNkcElDT0g0Wlo1cHJXbE5tUzZyN3U2ZXdMZ3I5TGZmNF9lSlFXbU5FSXpZbk9fcXdOQnYtWHNXSk9RdzFEWnhIUl9KNjdUanFDUEpPOTZlT2hTUmF4ckFiMXp5ZTdWM185RktQUy1LVUFjSdIBgAJBVV95cUxPaVBWSDNZbDBOTzZBNHQ1ZDJqYjhyLUJ6bUZmb3d1bGhYWG1kZVdySldWald3bC1VZ0NPX2ZyT29SNmctSm5sejgzc1F1QUtmVUs3LTNleW84RTF4Y19yYWlidjVoYjk5QXBGMmh6SzgzVG56U3NzTGc1OGFBdGNLZ2dzUHNKOWd4bGhjckQwNlNtaHNuczR2NzU4Qm1QWENIcGtXQjlWMGZSVmN3M0VPMW8xNFNLdm9SdlN3UlFyblZVVEpwWWdIM3I4TWI0VFZFTVNrUEZ4ZHR6dkhZY3NuX2kteGJYSFdVS2tObUlpWUxXZ01MV1FBbU9BdEVLXzly?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHpFWm1iRV9ZajQ3VmZ5ODhtUGxRWDl5dS1QTVNjeVRLWFZMZ3FyQXUwMFZPMExVcC1oVmhhLURTMVRrRVdBRk1SNHZ0V1RkcTdERlRLZmVYWkxTMGRaRUdLeEVlNGtZWVpCNUV2R1BWZkxIY2hxLUVkc2JHc1F5VmhvOTlQWHhVSmpobC1tTlVLeHh0cjF1OUZDck10X3R0SHN5Q1JHMTJJNV8zU3loX08wdVlyWVY1Z3BZaWk2SXJOUDI2cnBBV0xyWXlHRjktU1BhVW45bkRNWUdS?oc=5"
+        },
+        {
+          "outlet": "Aaj Tak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcnZiZVpGb3ZPRUUxZFlMYU1GSW9MX202ZjdaTWs3eS0xSVVxUURJWjFrSU9nbkQ1T0tEWHpnWF9KOGtIcFJlY0VKMFhjZnU5bFpoVXVFeTJtNEJEOHFmY29VcE0zVHozQ0txMi1HRVhMR19vVXQ3d1RGMlhoMVQ2V0xYMUh5WXZkRFVEOHRSQzNkcElDT0g0Wlo1cHJXbE5tUzZyN3U2ZXdMZ3I5TGZmNF9lSlFXbU5FSXpZbk9fcXdOQnYtWHNXSk9RdzFEWnhIUl9KNjdUanFDUEpPOTZlT2hTUmF4ckFiMXp5ZTdWM185RktQUy1LVUFjSdIBgAJBVV95cUxPaVBWSDNZbDBOTzZBNHQ1ZDJqYjhyLUJ6bUZmb3d1bGhYWG1kZVdySldWald3bC1VZ0NPX2ZyT29SNmctSm5sejgzc1F1QUtmVUs3LTNleW84RTF4Y19yYWlidjVoYjk5QXBGMmh6SzgzVG56U3NzTGc1OGFBdGNLZ2dzUHNKOWd4bGhjckQwNlNtaHNuczR2NzU4Qm1QWENIcGtXQjlWMGZSVmN3M0VPMW8xNFNLdm9SdlN3UlFyblZVVEpwWWdIM3I4TWI0VFZFTVNrUEZ4ZHR6dkhZY3NuX2kteGJYSFdVS2tObUlpWUxXZ01MV1FBbU9BdEVLXzly?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे Aaj Tak और Jagran ने रिपोर्ट किया है।",
+      "brief": "13 घंटे में दिल्ली से पटना: वंदे भारत स्पेशल ट्रेन का प्रस्ताव, टाइमिंग-किराया-स्टॉपेज तय; छठ पर बिहारियों को तोहफा - diwali chhath gift biharis delhi patna vande bharat special 13 hours timing fare stoppages। इसे Jagran और Aaj Tak ने रिपोर्ट किया है।",
       "image": "images/13-diwali-chhath-gift-biharis-delhi-patna-vande-bharat-speci.jpg",
       "image_kind": "photo"
     },
