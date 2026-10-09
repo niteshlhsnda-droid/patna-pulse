@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09 11:54 UTC",
-  "generated_at_ist": "09 Oct 2026, 05:24 PM IST",
-  "story_count": 56,
+  "generated_at": "2026-10-09 12:54 UTC",
+  "generated_at_ist": "09 Oct 2026, 06:24 PM IST",
+  "story_count": 54,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -56,6 +56,40 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar hospital shocker: Masked man removes jewellery from dead body, calmly walks away. A health-related story. Covered by The Times of India and The Hindu.",
       "image": "images/bihar-hospital-shocker-masked-man-removes-jewellery-from-dea.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-police-driver-recruitment-aspirants-protest-in-patna-s",
+      "headline": "बिहार पुलिस ड्राइवर भर्ती को लेकर पटना में हंगामा, उम्मीदवारों ने महिलाओं के लिए आरक्षित खाली पदों को भरने की मांग की | Bihar police driver recruitment aspirants protest in Patna, seek filling of vacant women's quo - bhaskarhindi.com",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "politics",
+        "crime",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "Cityairnews",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU20yOXB1YzB2NUdfeFItNXJid1I2UmUzeThoei1tbkViS2ZqV2c2cFVyU1l3VjZvczAwWFhGU1lLMkEyaG9NNUtnc1pyZnhIczFHa1FuYTE1QTh3cGtneFE5anVkUDJka2w3YVhublJwYnpRM3ZISlkzbWd4bGVXX2pKMGNNbG9XdVZHRTJBbzNHbjZ4QTdhNC1ybG5UZWRtRzVTeER4Tmh5Q3pjZDZ3Q2Y5anF1bUdQaVRXRnhiSmJVVGpmdjBwZ0RhTHViM0tlWHc?oc=5"
+        },
+        {
+          "outlet": "Mid-Day",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYVE3Z2t1YnJvVWpPMS1mRzMzai1CSUVqaEc4enUteldNU3RfdjA5cEFGb3pEUmVKN0t4MmJCSWtQZXY1bkk5SDdVTTB5dWpIdmZ4SVZ1Q2x0RTU3eHRweVFYa2RwbEJTSUgwR3VWdjg2LURNalBUMFNvdnRDTDJRd2NLZHFRZFV4YnNqQmQwcHdvUk9hMVZjNk4wS0VVeko2MmczTENLWGJ0eW90dUt2MDVadER1LWhYQVNpWWctYkdrRmVmWXFlRm9KY2JISlF0QW9Ld1BhemdISFc4dnU3TnVQM1FyTTJ30gHuAUFVX3lxTE44UVZUd2ZpNDA5dmNncWd5ZTluUUVoVTZlUEV0SGduazFYTDZ5QmZ0RnN4SmozVzhFUmFUUUZjSERSOGNxWVJWd0dGY0N3SDhPd18xWnF2U1BwQzlFT1c1OFRGMGJ1SEkyUDc0MHRLSEtEcy11NVViQUQySlk0MDBwajZZaW1YdDdJcWJKWWV2Qk1ORnBXWk5hNHFyZjY4OEJkbTFNQVh5VEhTYzZEak9oeDJBT3ZYSEhfa3NfRWZCRGJaUlpxSFd2NDRqSEZLUndseFBzcDY1Ujk1cVhSX0hwNFJqcXRQRjlzUDJQS2c?oc=5"
+        },
+        {
+          "outlet": "bhaskarhindi.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV1ZtQmRDMTBCMEVUUFlPRWVsUDhBT1ZleVlHWTI1VUxRNERFd0tXTjlEUENLUGdVQ0k3bzR3R0tXV2U4b0lDYzlsZkJnSDlPbWNJNURWZUVtUGJZd2VwUjFvdVA0dzNzUGdNRGttNV9ZaGFHdllzTVJBYTYzaE1md0ZFOFNJa0I5c0tRamo1eWVqRWxLSVJlMTBXNE02dWNSaV8wVUFfYlZ1RVNiMjhvVllkT3FTMGx1c1dtd0s4S1Bka1pGcWJjQkxHMEVRc0ZVdUhWazZnMGJvN1p0TFBVUFBFQV9NYkRRUlE?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "बिहार पुलिस ड्राइवर भर्ती को लेकर पटना में हंगामा, उम्मीदवारों ने महिलाओं के लिए आरक्षित खाली पदों को भरने की मांग की। राजनीति से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Cityairnews और Mid-Day शामिल हैं।",
+      "image": "images/bihar-police-driver-recruitment-aspirants-protest-in-patna-s.jpg",
       "image_kind": "photo"
     },
     {
@@ -175,8 +209,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-trains-cancel-live-hindustan",
-      "headline": "Bihar Trains Cancel LIVE: पटना से तेजस राजधानी और अमृत भारत ट्रेन रद्द, सीमांचल एक्सप्रेस आज दिल्ली जाएगी - Hindustan",
+      "id": "4-cjp-dainik-bhaskar",
+      "headline": "बिहार से दिल्ली जाने वाली 4 ट्रेनें रद्द: तेजस राजधानी-संपूर्ण क्रांति एक्सप्रेस भी शामिल, CJP के प्रोटेस्ट... - Dainik Bhaskar",
       "summary": "",
       "date": "2026-10-09",
       "topics": [
@@ -202,13 +236,18 @@
           "outlet": "ABP News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZWRsaHAtZGFEaFlXM0dLVlkydV94OTZzUHBpY1NGZ0F3dlNhQ0JuUzV2Y1VzMGctRUEwSVJla3BpSzFRZzdTWE11TC1xOHgtdlZtb2xYSnJQemIxdGktbkxCOFg0QkFnaWZQYi0xcUotMXp3SDJWTWluQ01XNTY2akFjaFFfdXhObWdnbVhoeTBQWmxENGs3eE9vZWZZdk1LdnctVzg3bTdRZW9SNml0WTdJNkpxOHpUVGt4blVVZXN0NVF6dWJmUV9LSGlkUdIB0wFBVV95cUxPd04zbXZTel9fOUN6NHRnQTJ6QnBJLTNCdVpiUUZWWl9PSEFrNmpHUlR2Sk9kQjlBUENHUWxWNWdyQmFvVE8zWEFKWGIwUVFtcTZvRnZsbFlyZGFBU0hTYWM2LWVKZS1QcXNPNDBRQ1JLbXdnVjlRc1d5ZmM3REl1VWdKVkE5SmtlWjFRNnR4dEFGdXhNR01nT3duR3NZYXFWZHlIb3ljVFlwaFNSSDhGcDRGdnFuVUp6YlhwQTk2ZVdRbnB0eURyQU01VThQZzJMT1dj?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUG5yYVBBdThXUmdNMEdxMmJiQzlseHpJZ0hmeWVYUFpNUWl6R3hPd05OQlk3Q3pzUGJaT2xia1VvXzF3NXloUUZoMGZoQjIzQ19mU29Gb24zQUJBZVJ3UTdhbEFPTm5sMU1IQWpKQVp2YmdSYWJNMjl1Yl9wSmtsRkhCcEVlVnVnbnlSZk5IZkJBR3hIQlY4THBNN293Y2N6VC1NMUNnQzB4VXl1SC1hbDRkTDE2T0JtQlNzZmZ1YmFtcDM4bzNXekQ4Tk5GUW95SFpTWdIB2gFBVV95cUxNbTVsOEs2STE0NkhWQTVDVUMzU0pyWENWb3ZaX3B1Zi01Qm9yVWh1ZnMyRGFhY2Y5LVlWVjRSM3FRM0ZQU1FpYkM0SU5xcExTRzZLYklZRWhsRjRmdGVXUnc4WDVURy13MmdwWHE4aTY0VVlJLUtDeXVKcXBjS2o2WlI5RjNSUzgyMmlfTjAxSDB4M1dhN0t5aEhCMmxfNXlqQzc4MnVIcjR1dFozTEstN1l3Q09BWlRjWFJoZnViWGJxcmU3QXZ2bUduMnNnRGFSZWxCVUpOM09rZw?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Trains Cancel LIVE: पटना से तेजस राजधानी और अमृत भारत ट्रेन रद्द, सीमांचल एक्सप्रेस आज दिल्ली जाएगी। नागरिक सुविधाओं से जुड़ी ख़बर। इसे Hindustan और ABP News ने रिपोर्ट किया है।",
-      "image": "images/bihar-trains-cancel-live-hindustan.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "बिहार से दिल्ली जाने वाली 4 ट्रेनें रद्द: तेजस राजधानी-संपूर्ण क्रांति एक्सप्रेस भी शामिल, CJP के प्रोटेस्ट... नागरिक सुविधाओं से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और ABP News शामिल हैं।",
+      "image": "images/4-cjp-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -270,11 +309,6 @@
         {
           "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcGVDUnVra3ZfVF9sLTUybWlGVGFsWUVDbjI3VmpMS1AtTU1NS3FhZ3V0TGlBX2xBa2ctRkhyemxGR1A3eHc2a3ZuQmRoQ25Ha2piUnFEZ2xFX3E0eUdXOVlhNnZXVnFZakF1RE9rdGZHOURmTUNuX3BVbFhyZFlGMDNxLWY2cFNEY2VGbmg0WS1LWHZiY2dTVVlsVEFqT3VHWkJyLXZRc2RqSjllcERsaFU5VDBXdVhnZEV1MkNGUFZBZUlneTg2U0FPem9pSkRmYl9pZzdiSzA2QQ?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTRIaWxtcWUxZ0hCcVVCRFk4eUV1ZTl1MHNFb2NkbE1MQ2x4bzllSi11eUg4alBtU3FYYlBxZEx3Wkk4VHoxcTdMTzM1R3ZBSzE4dzFISDJiZl9WMjBUU0hDSDE3YndZZFI0LXRxeVhuVmxta3VqdmIxbndUTXJXWkx3QVdKemlnOTBfZDZQbmY2VXo5SVcyQWhYT3hJSmI2cG5uOTkwb29nM0lDMUlWQnhkcVEwQ0ZpZ0E3ZzVwRnYzdTVpVS1Z0gHMAUFVX3lxTFBuUnZPLUlPSHEzd01pX0hWamFiQlN4UjR0SV94ZWRiNWIyNVdQODViN0NlX2xHUmJfY2o5T0xHZEp3LWlJbDQwbXZ1V0FTajViSlpzQjZxR2p4cXp4UTdYblVaN1RNX2VKNVZFWHhzYmdWVzhwa2FnZDdsbmM3Z0QwSi1pTzhPcGxtYUxKRzZCMnVyZTdtUDNzc2twZ3daTmU0bWhWdjczQlhzRjFQQmFGUk05RnVvZTlOeXA5OGNpUEV0UkhudEJKVWM2RA?oc=5"
         },
         {
@@ -291,8 +325,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "7-26-9-dainik-bhaskar",
-      "headline": "समस्तीपुर में थानेश्वर मंदिर के गर्भ गृह में भरा पानी: पटना समेत 7 जिलों में बारिश, 26 में अलर्ट; 9 अक्टूबर... - Dainik Bhaskar",
+      "id": "6-18-466-8-dainik-bhaskar",
+      "headline": "पटना समेत 6 जिलों में तेज बारिश, 18 में अलर्ट: भोजपुर में बिजली गिरने से किसान की मौत; 466 गांव के 8 लाख लो... - Dainik Bhaskar",
       "summary": "",
       "date": "2026-10-09",
       "topics": [
@@ -300,9 +334,9 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnZKZzZlMVVIb1VIYXFJN0xWMFdLdWdBdFJkUXBRRUgxcjVIN09RdS1FcUU4bEQxdGJtWXVkNG9ZYmV1Z3ptaTAyb1FjYkxaVUNVY2VXTTZ3Y0pQYTllSjFFS0xJXzR3QllEdzFNV0ZVODBTVjkxQjZndXFVVnhCR0czN2Z3TWxzWERRSGZGVldMMjlyOEJ3czVEVURNdlhQTENRdkU3eU1RdzlkOVpFZkk3NzB2dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2psWHBYX1ZmRHRwdkRiWS01Q2ktZTA2bXhuU1ExeWVBdVhCeWtSaThCWWl1aVd6TjlXWWlxdHlDUmQxRXBtZmE0MFltdDhiaTZwVXJnN1RYaUg5bDk3N19yVzI4TDBmcmpIelJpLUlNR1BNZXhFcHRlMVlXR3Z4MGF5SUxvTGhZTkUwWnd3TGVRNUp1UXYweUVQNHR2bnYzZWlaUnk3V2NPWFpfTWF5cHZMZ0VUUFBFaXJn0gHAAUFVX3lxTFBkY0xBMVFDYS1FRHU3bFcwV2VsQTNySElQQWpNVW5xTmdEWjlfZm1uMzd6dDVfdHR4Y3Niako5R0prd2tnN3BxQWppYkoyNW5WQTd5LVBYLUVrX0F1R2FPWDBiOFNkTFlNQU1iWVJfelozOU5qcEVuVE1mVml5UkEwZjcyZ0ZjY2JBeFpaMm1lamtlR2F6T3FtdTNwa3JpUEtHc1U2Y1VoZ1Q0X1NZaXAxcUZLZVpnY2hVbDZrZ0xlRw?oc=5"
         },
         {
           "outlet": "Jagran",
@@ -310,53 +344,21 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2wxWUFuS3hVUHowbFlqeXNUSGxKMF9EdUs5NkRxMEtaVTRFRGNWVU9kZ0tYVFVPTWU3U201NU9jd1RRWjY0ZWJyUERON0lkbmx6NXJRNm56bEdfNnVGU0FOaTFkTVNaWVhPeTlRUDlpdjZUcDdHaGwzRVk0NG1wYlRuUjlIcUJjY0pTTXV6b0RPak1adlJMMUNqaUtEUklBT1FEbFU3N1FHWDEzQVNQOUJFX3YzQ01fMmhnVnBWLUk?oc=5"
         },
         {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnZKZzZlMVVIb1VIYXFJN0xWMFdLdWdBdFJkUXBRRUgxcjVIN09RdS1FcUU4bEQxdGJtWXVkNG9ZYmV1Z3ptaTAyb1FjYkxaVUNVY2VXTTZ3Y0pQYTllSjFFS0xJXzR3QllEdzFNV0ZVODBTVjkxQjZndXFVVnhCR0czN2Z3TWxzWERRSGZGVldMMjlyOEJ3czVEVURNdlhQTENRdkU3eU1RdzlkOVpFZkk3NzB2dw?oc=5"
+        },
+        {
           "outlet": "News18 Hindi",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOE1HaUFnNngwZ0tqZElrT3A5MUk4TUNFdnFfdTVJcVZ0dWFEMUtkNnBkcnZPY1Fxc1ZDYzhrdTNZakExcUQ0VU1Mb1puaFNfc3k5d2tZbGI4YllxbVJkeTZRb2F2TnF6MGEweVJKTWZsUUtNUktKWUhEd3NTTV9maExFVzRGSlFaYi1OX2JrUmhVXzJ2NWNITFJVUlRzV0s3SGdYTy1DQVQwejlZTlBNTFpGVUxzaXE5eXQ5QVJiSFZiSGtyT0Q3N0JlT3Z3RzNsZE10OGRBR1hJUWYtbGsxNnBmSW1EUkE3THNkMGpqdFBLZ3JZRFBzWlB4bnBrczliM0sxNXJR0gGLAkFVX3lxTE5mNWJod3hObG1oSzBacm5vVEhOd2hpRFhrQXJkREF3Ynh3XzBPVjRLQjh0cmUzS2RkUUU1QU9yTk1yTk9sa1c2MTRlLVdlRXZ4SkZKaVJUc3pHRXVVaDQzS0ZWTldNTWhPVWNoRFYtcjRPejZhQlViMDUzWVlaNkprakxzcGVPZU9WY0dxMUI2Y1JWTGNYaWtya1J5YTNJczJENmpmNkswUEFIdmJEbDZPUTMzZFo3MmdoNUluTXlVRUx0eFFad2hDVE1FQmY0a3dobDVqU2xIRmtLUDRLbUJmRzJvb0ppR2p0YjB0V3pLRGdWbk0tNUpVRDRqSUpUX1FnT1pfdTJ2dkx4cw?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWdrOXZrUl96dk1EQ0M4M0gxR3hMWDBqYUQtQjJNNktrN25UQnBDMVlibE01c2daNGgzMGVPbnJPS0xUTnlxa183a29sbk9xTnotNVRqc21kWEdSQmJpMUFxTVdoM3pkcFBIRzBlc2pIMktkSV9MRWczbzVVazB5YVRtaElkWDZjOC1rNlFYbVNwUHJVNEV1TzF5MWx4UUZjeGkyM3VpZjBseEpCb25GYTVUR1LSAboBQVVfeXFMTzlFTURGQXNhWVJsVThvRHFrUVNrZW9QOFpSeElnVHZxZThLTGh1UkxlckpoYWk5b2FMMklJVi1NMjJ2MnlleklFVXg2emNLak9Mbmk1eko3TVZQaFhST0QxeU5IRXFMM2pUR3pyLWpUR29yb09uT2liSnUzc3NVb0VQTGlweXdpbTdISW5DT3pLZVhsaEtTSXNQbE11RFUzTFpYMDI5Q1pPODg3NlNJSGk5ZUNPYWM4ZjFR?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2psWHBYX1ZmRHRwdkRiWS01Q2ktZTA2bXhuU1ExeWVBdVhCeWtSaThCWWl1aVd6TjlXWWlxdHlDUmQxRXBtZmE0MFltdDhiaTZwVXJnN1RYaUg5bDk3N19yVzI4TDBmcmpIelJpLUlNR1BNZXhFcHRlMVlXR3Z4MGF5SUxvTGhZTkUwWnd3TGVRNUp1UXYweUVQNHR2bnYzZWlaUnk3V2NPWFpfTWF5cHZMZ0VUUFBFaXJn0gHAAUFVX3lxTFBkY0xBMVFDYS1FRHU3bFcwV2VsQTNySElQQWpNVW5xTmdEWjlfZm1uMzd6dDVfdHR4Y3Niako5R0prd2tnN3BxQWppYkoyNW5WQTd5LVBYLUVrX0F1R2FPWDBiOFNkTFlNQU1iWVJfelozOU5qcEVuVE1mVml5UkEwZjcyZ0ZjY2JBeFpaMm1lamtlR2F6T3FtdTNwa3JpUEtHc1U2Y1VoZ1Q0X1NZaXAxcUZLZVpnY2hVbDZrZ0xlRw?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "समस्तीपुर में थानेश्वर मंदिर के गर्भ गृह में भरा पानी: पटना समेत 7 जिलों में बारिश, 26 में अलर्ट; 9 अक्टूबर... मौसम से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और News18 Hindi शामिल हैं।",
-      "image": "images/7-26-9-dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "20-50-85-jagran",
-      "headline": "सिनेमा हॉल में ₹20 का पानी ₹50 में बेचना पड़ा भारी, पटना कंज्यूमर कोर्ट ने लगाया ₹85 हजार का जुर्माना - Jagran",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamY1TWVXNUlIVUVkZGppZVNsNWhqNlJrelg1UzBiN3REY21LNEpXVkt0cHVDbVVMYmxvSGFkS21YMFBDejdjLU9kY2o0N0FQWnJLUklMc1d0UlRpR0lJcElIanVqNDhnS3lIMUwzYnVkQy1DMUtKTGlfY29XbmNrOWFaUnZ5aHNDWmFMY0pVTEdfY2RwYWxUZlBXdGp3UjZvUGlxenBWZTd0dTBFNDFTcDRZZw?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMjhLcG1rZTF6R0lJaHlOVVprRDc2cXdYLVBQV3NjaklLVTNtVzRiRlY3M2JqUUo2aDhkRmFYdVM0ZXhfaXdtMlR6S1JFRVMtbEZ0cTFlVXpDVHZBWkRxbGpxT2FvTWJvOVlCbDFDYklaQ3ljdEtvNDJ5MnRSQ2p2endwaEl5ak1xU2szN09SUGFZczhXWFJpOTZmX0pfa2FzTU5qRE5nVUlXSFdYQXg3TWJHZzYzdkVqUWoxWVNnZ0tRRUxhTmRVY2pIUXVJOUdnRXhwTWxvZk9uUThtdDRBVFl3VWpveGNrX3BGa3RaeWVyTXJweU5Z0gH8AUFVX3lxTE1ObnFOUjZ3X0xHZkdfZ190RHl1S2VsdWNYRVUtcl85aXdBOF92YV9obmo2SmFTNzBZelRqeTlqbGxKNVNJbXB5UlYtZWpqWnIzdXpNeW5jU0Jhb2tEaHgtb094TTJhTko3TFBIaXlhU3VFZ0VaeGRVWEVfbXNWQ3c5c0NUUXloYU4xMng5MzNndjZ1bXhXSzRSQy1pS2oxOTRfcnRCa3N2OFFwazd2cFE5NjJPc1VJOEVoelFEV0FES0hLczJrZUwwMXlOamliR0djTXpZY0NDUEZXemxNdDJDRmNacUhVOHVKeF9veXg4d25QcVVIS3VPdHg0dg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "सिनेमा हॉल में ₹20 का पानी ₹50 में बेचना पड़ा भारी, पटना कंज्यूमर कोर्ट ने लगाया ₹85 हजार का जुर्माना। इसे Jagran और ETV Bharat ने रिपोर्ट किया है।",
-      "image": "images/20-50-85-jagran.jpg",
+      "brief": "पटना समेत 6 जिलों में तेज बारिश, 18 में अलर्ट: भोजपुर में बिजली गिरने से किसान की मौत; 466 गांव के 8 लाख लो... मौसम से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Jagran शामिल हैं।",
+      "image": "images/6-18-466-8-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -669,60 +671,6 @@
       "genuineness_label": "Corroborated",
       "brief": "CM Samrat Choudhary sets target of 1 Crore entrepreneurs, pushes Bihar-made products in government procurement. An economy-related story. Covered by Investment Guru India and The Hans India.",
       "image": "images/cm-samrat-choudhary-sets-target-of-1-crore-entrepreneurs-pus.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local",
-      "headline": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production - ANI News",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalR1d1B4dFliV3U0cFcxVlpreHpzLTlwRVJNUnhkU2ozdXNpbU9xWWNCZGd1M0ZYVEFqbDRrSGxpMjRTWFFHZEU3bTkyOGNkNlBtaTU4SEhURnFFODJFdDR6ZXc5c0xydWY5YVJ2M3NuM2lra2FLekNLb1dlc2FzeUZwRDZ3d2VsSDdYZGJrdnpsU2hqdTBzbkxjcmkyYUkzNFNMbE9iNllzNGpNRVkzZDBORlJUTF9YQ2pYRzJiNGtpZ3BNVHExUUZQc00tcVZZ?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUZWU08wM2FZWlB0RDN3UUtZd2VTR1FIT0JwMDNwUlM0S2dYMkQyTmotN0lXT0lmOVZyeThyRGVod282bHBhUzBLdHl1d2xzMFN4TzRobGZsVlNpNTEyUUZmckxoN05NblZNWUxBci1kd0J1eUZob0tNM3hpaGd1dmV1cUg4RUJkSDNSemhmWDR6RDFvWU83VTZyZ3pfZnFFTFg1Vw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production. Covered by ANI News and The News Mill.",
-      "image": "images/manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "cjp-jagran",
-      "headline": "देश भर में विपक्ष का महासंग्राम: दिल्ली में कांग्रेस का मार्च, पटना में तेजस्वी और बेंगलुरु में CJP का प्रोटेस्ट - Jagran",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZtVE56YVFiWjlvTUVtb282OXY0UVVibkFCYnhfWkZwMEozbEh2Qm5Wakd5eExCQzJsVThXOENYZm9SUGk1SENjcWVoWF9OWFF3Y0xTMWQ0WTRJSlZDdkNVSVR6X3lkUlJSWU9uVUM3eFdIbW4zamQ5UDRsYXptOEZWSVB6UzBfTjhpSF85TnFzUlZqUVpSMTBwX1JQWnlheHFLVVBwbmw0bHpX?oc=5"
-        },
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOUZxOGtmY25hazRmN3B4bDJMVUMwNkV3eW14NTA5RGFlcFQyeGNTcjBPUl9RMlhQUkxFSWU5b0VOYzk3R050OW0xQ3gzQTZ0ZmdXTkVzSlNmN3hjcGxna3JETVVQOWZUV0hGM0JkRmF1emZLV1dNdFdSSFBoa21YS2djdzVVSGdibGJzUVMwVnJMc29Ca1JGRmNvaXBiYXcyWHJXMXpjdVh2bGJXV0VPNldTeUJteS1VQ3lOTW9CWVBFOHlXZ2t4OXJ2WllhczFDT0VOT0hSaTjSAd4BQVVfeXFMT0ZhNWt2amJqRE5VRm9KMUZ6SVBXWkR3T2RzTXppMUoteUVLeUk5Z1dmR1R2MlBGZVdGNm81c2FIelh2QnBaRTBTRDR3R3F6Y3R4UTl2UDRDaEdVVU14SmFPaU5UcERTMGpMRGdhMmVYbUM1UXJ5WHctQ2RLWnNod1MzaEVQNjBDQlBWQU5TWDFlV1doLWhJSkc0b2hnUV9DSlEyNDBza2RZYlRURVJNNVViSjVGcVNLSldzZHZ0WW50VGZ3dGlSaVNNYkRNTDYzT3J0bm1Qd1R4ZWpmV0J3?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "देश भर में विपक्ष का महासंग्राम: दिल्ली में कांग्रेस का मार्च, पटना में तेजस्वी और बेंगलुरु में CJP का प्रोटेस्ट। इसे Jagran और Aaj Tak ने रिपोर्ट किया है।",
-      "image": "images/cjp-jagran.jpg",
       "image_kind": "photo"
     },
     {
