@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10 15:54 UTC",
-  "generated_at_ist": "10 Oct 2026, 09:24 PM IST",
-  "story_count": 46,
+  "generated_at": "2026-10-10 16:35 UTC",
+  "generated_at_ist": "10 Oct 2026, 10:05 PM IST",
+  "story_count": 47,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -64,6 +64,34 @@
       "image_kind": "photo"
     },
     {
+      "id": "no-decision-taken-yet-on-maa-sita-university-consultations-t",
+      "headline": "No decision taken yet on Maa Sita University; consultations to begin after MLC polls, says Bihar CM Samrat Chaudhary - ANI News",
+      "summary": "",
+      "date": "2026-10-10",
+      "topics": [
+        "politics",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNLWFMM1BrZGxPdHd4dElMcUp2bDlxdjVzTTl2Z0FQMGltUmN1Q1NvYUlRZlgwelpCUmlNMEFtTDNRMEZBcm1jeVc5NFNZY295MFZBcWlNZ0ljemFrY2RoNm94LXktbVhvbXotSEVLbzE3V2RiNlJwVDJSeFliTGlQV2hXYXBveHVSSFRFSS1PdzlTeXFGMUg2YXZaN1BTeWVFWjlwdklYVW41dHAzTHlRVUNod3pRcWcxcDZSZU55Q3Y0eXFhS1hDd0NqZlFiUkFZQXNLS1gxSmZwdW41b05ZZWUwV3BhMmVQMEMzZlp5R21UVUVydXVsQkJFWWI0RXBibTJqTGNMQVItWDUycFE?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0ZFNkgzWUxSX1lUWFJqNTJiNVpSejdzaHR6dUIzRkpnU0VLMmlILUVWQXM0aTBWZ2JRMHM4YWJwUjJZdTl6ZGswU2tKUXppNkJpcWl3a0RSWGdNcmFSemk4VjZOQThDSnNRcE5YWG5HeExfaHNmVU1fV19nczk0cERQMG1ib0FLVVBDdkdMXzIxN1E5VUVGZkVRTmoxTUJ2SXl2UmNkRFpjNE40azlF?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "No decision taken yet on Maa Sita University; consultations to begin after MLC polls, says Bihar CM Samrat Chaudhary. A politics-related story. Covered by ANI News and The News Mill.",
+      "image": "images/no-decision-taken-yet-on-maa-sita-university-consultations-t.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "dainik-bhaskar",
       "headline": "दीदारगंज में युवक की गोली मारकर हत्या: अपराधियों ने तीन गोली मारी, पटना में इलाज के दौरान दम तोड़ा - Dainik Bhaskar",
       "summary": "",
@@ -115,16 +143,6 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDJSMDNRVFpFNnAtS0ptamt6MHVzT21iQ01ETDJicFBrNkVQSnJ5dkkzUzlDTVNSZ2NKV0dCVHFyeFQ5SVdDaThmdGxwVThRN1JObk1lbnRnaUtzcmhKcVBHTzVEMXlCaXBIbHVMdEFCWms2Y3E0MXZRa19JXzZWakM5NlYzTjN0YkpsUWVhMlNuOF9RcVp5SjZlNnpPUkxCaEE1aWJuSlR4Z2Z4c29HcDc0NA?oc=5"
-        },
-        {
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2UtYTJCMUhpTkhRSjR3TmhiMTJ0WmlNUWlOekNlb2VMeVpKTkk2RkZ2eUNIRTJUS2k5b19GX05zTXJWVkFITjk1TU8yMHhpUkJ1bVdfaWF3WmJ6Uk0wRHRsRTFOaTJfbmczamJBNVM3YnBBWWJ2M2lsRmQ2cXA0UW45QlFTdHRHUDZlZmtMdHB0a1drTGNmYmNyUTk1R0QtTm9SalVMUGtKZVRSREI3NmhnODB0M01YV00xaHRVSVgxcnk5Y084bzBB0gHPAUFVX3lxTFBsNDVVUkxBM3M4aVgyLVM4dnVtZ3VFWFVjeWlrN3doMFRaWTAzRHJlb3BfTkx3cFJ1YTJDQkNWZ0luNENUUG5rVjBYVF9Yd3hyTnF1SnJ1aUc4NEVMYkZNanA4ZEJRVk5GdlFOMTNuX0kwM2JTdVNxYkt4el9oVTlWbzJWMzR3ZHBvQUk4bHlZTloxTFc5cG1vZURaN1pTSG83QTN3dmZhSXBObUdsSmgwZTAzNVpwaDUxd1JDMGFjSkZBM1hGbGtsVHJzRVJaMA?oc=5"
@@ -133,6 +151,16 @@
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXg2a2tKUW44QURBNVJtMzJuY2UyclU3UTNuVGZqdUNLd3ZESDRlX2kxY1FZWG8xRVZ4dUlVQlpJdGdCckJPM3pKTVlrVFlVTTB5V0NVTjBBcFhadzRsZGc2SVZwMm9wT2Z0ZGZva1VhQjRUVXR4clRaUWpERmhYNk5HeUJxZjBoT2UzQ0JWZUV0Vk05V2lRdnBhcnR0VlRHYXNlVHN2Qy1lN2NEN0tWUV9MWEJvblJGRHBiWktlb1c5cWtMMksxU0FaamJULWhWTDdJ0gHYAUFVX3lxTE8zTms3TnVLcnpyU0wzdlEzLWU1SWc3SXlsM2p6UW9UYnQ0T3IxRTU5emVEc3JBeEpWZlozRVRhRU94Vzl3M01BQ0pnUXFwTUU5LXFYX0N0Vl9xWjBjZHFjSHZvX2xfdW9YNVRSaDdqWkF6TWVKVkdBWWlibVZlRjl0S28ycjRGR01pTmJ2a245elJTX1FhV2J1aHBOaEFPdFZ2QUdGbGRQQ2lKTzVneVJPTlhFb0JxaDBLRnJfWjBEMzUxeVEzSlNoWmY2OVNoYjlJZmJyeFQxZQ?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDJSMDNRVFpFNnAtS0ptamt6MHVzT21iQ01ETDJicFBrNkVQSnJ5dkkzUzlDTVNSZ2NKV0dCVHFyeFQ5SVdDaThmdGxwVThRN1JObk1lbnRnaUtzcmhKcVBHTzVEMXlCaXBIbHVMdEFCWms2Y3E0MXZRa19JXzZWakM5NlYzTjN0YkpsUWVhMlNuOF9RcVp5SjZlNnpPUkxCaEE1aWJuSlR4Z2Z4c29HcDc0NA?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -148,7 +176,7 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "नवरात्र मेले में प्रयागराज-पटना के बीच चलेगी अनारक्षित मेमू स्पेशल, विंध्याचल व मीरजापुर समेत पीडीडीयू जंक्शन पर ठहराव - unreserved memu special to run between prayagraj and patna during the navratri fair stops s। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
+      "brief": "नवरात्र मेले में प्रयागराज-पटना के बीच चलेगी अनारक्षित मेमू स्पेशल, विंध्याचल व मीरजापुर समेत पीडीडीयू जंक्शन पर ठहराव - unreserved memu special to run between prayagraj and patna during the navratri fair stops s। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Dainik Bhaskar शामिल हैं।",
       "image": "images/unreserved-memu-special-to-run-between-prayagraj-and-patna-d.jpg",
       "image_kind": "photo"
     },
@@ -227,6 +255,11 @@
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFFJMS1fMGVMcWRWc09lUElrN0ZYRHRNTDVnZVhoYkZQZS1pdXNMdVhDN2JabG0wZEVmejB4WDkxWWR4UnRtanByVGE2dDlWaUFrMUo1Z3RGZHJyQjZxb0ppc0tHZUFiR1oxc2l1c2trT1lIR1M5dUtJTHp4VW1iY2g3VEdRYllKaHRGdUU2TTJWdEJkd3N2RzMyaE8tV2I2N29ROXZIcmNaSGRvcDh5VVBTVXBteEtsdlJka05UdzNNNUtNcnIxQVFvbzhZTVJWRjJ1NWtPc9IB5AFBVV95cUxQaXNjT2JYOXpocUs0TlY3MXdka2VIQnRTdGk4emVOdk8zN01TZExSOXFWUkF3aUZXeVU3U2EwM1VZZGExcVo5bkY3ZVY1UWpvVjcwQXpRTDBteWVENThxZkp5NGhmQUpyd0QydDF6bEJ0T281NFNtcm9xSGVHVGgtYmNUSmxOeVdQWi1Vb3RWWWpsSnY5cW9Qc0s5TXZOZVlLbU5qSk9xQmF5dHZHN0tXcDFrXzBXaXE5TGhtZlI4c2Y2U0NfZzNuOFZaamFyZnhITUdlVW0wN1QzOGl3cnpwajV5Yy0?oc=5"
         },
         {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVFYd19CZmFiWDVsWTZkSjBSLU1WX3lHN2M1eUgtOW9aM29qeUJWTldyb3FaSm1PWm5pU2JqZzgwd2JodUJZSU82QVdrNXRQQ0tTYnhEVkxHclRBcGkyNjZ1TVBwUzVzSXpYd3l3RmtqeE5ILUpBeW5MdFpxaHhQV2lDc21NVVRqOVYxMUJfQVBUUDNfaTkzZC1WSktpM19EbURMYtIBqgFBVV95cUxNeU1lbVQybXZmd3BsYUJ2Sy1XQzc0WXIwelhIZDk3Qm1kR2ZJMGhENVhpYmtNMnR0SGtlMkRrMGJqb0JOZm9JUndYc0JfZzlWQkNSa0hOZ1RDT1JCRE5hNnUwSzd0WFZaN3EyTjVUNGQyS05Bb2c1UVlNTkk5UFhRX1Bjd1NUcnhpdEJQWE9mVnI1WXBzTDBkRFA1Z2pqdnlkWFQ4SWVjQW8xUQ?oc=5"
+        },
+        {
           "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWlhazZzYVRPb0UxZ3p4OWdycUZ2VjZhNDhCaWNaTUhOSFFqNDEtb3hLUG04djhDQTloYi1XbUtGWFQ1Y1hKeHFzdjVJclk1bENSMHpjY3JHQzNMV3JxY0p3SG15c3kyM0ZHdGFJUnJnaloyc04yZlViN08xenRVZEpFejZDSW1rNkphanBTTzJkbHhQVW9QWGR1QzYtbXVvc3fSAagBQVVfeXFMTWQyNlM0U211R25uZXBCS1ZVQWNadGJPUVhEQllHMHZPeFI2UlhudTIwN19aZzJoZnZUU2dfT2NmdEZvUzlDSmtzczhRWG9pblRiV3hwVEdxUkdqdGM1Z21UMjRHaFJOcmhaYzNiSEtmdmFOYndMX1dCNk0wMkVzbFVoWjd3RDJrbTVpVWlsMUNFLTEwa2FMTnBlZlhwY0JhNEZubngtbC0z?oc=5"
@@ -237,10 +270,10 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnNmend2VVkzSEVpQWduWXBZR3I1QzdZTXpaQ0Iwd2d0dUU4Y2FYUXBrazVSTU5uRlZkODE2ZldpQ21VZk9ScjlwQ01kaktDQ0czcVdTZ1BHVWZlemIwZXE5bXZDakhkLXNrUGg2aUFzV0NOVmpHazBKeXRYOHk3aU10VVN2WnoxQi1rUE1CcE5FQzlWYWZqeUVBcE9ScC1FRHl6QlR4UHRrZFQ4ZnZxUXl2bThRRllXbkttM2llU3E2RzN4cGdwMWMwQTNKYm1H0gHeAUFVX3lxTFAxZVNkOFZaMDczSkkwUkFVYmFRdUZjbWpwRGxieFVmUllhbFM5Z3hRaElKbmxDQXhqLS1KRzA2STBBYWRRSlBoNXpYVHVWenFaUWtzZEFiUGZwSTdrRUpiR3plZG5SdjZyZ3ZwbVZSdWVhMmlSTTRJMXNBLUhmVmxVcVJnR21BdDlqVm5zVlFSUVlPT3BHckJDdXc4MHdEWWR3cFc4NHdVU0JaRlFSeUJIcENwV1RiQ203UXdaSHFEOXBpU3dCQVRORm1zVGhVWnp6WnF6V2taVUdzOWpEUQ?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats. A politics-related story. Covered by The New Indian Express and The Indian Express.",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats. A politics-related story. Covered by 3 outlets, including The New Indian Express and ThePrint.",
       "image": "images/bihar-mlc-polls-prashant-kishor-claims-jsp-will-win-patna-gr.jpg",
       "image_kind": "photo"
     },
@@ -420,9 +453,9 @@
       ],
       "sources": [
         {
-          "outlet": "Hindustan Times",
+          "outlet": "NDTV",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT3d3QzZxRFJvdXdmN25KSXc1SFZ3eUxudkg4ckxGSzlDRWJDamVPQ2RYaUhDZ1ppZ0lfLUdXdVFJbE1WbGlnSFBSZFdWWjVLNnFTTmxJcG5mRWhFMjRTVUREWFAyRUdUVmVRczk2RmVHMmZhZVBLRHBYOWJnSF9iSEtvZTY2ZDdZZ0l6aVpVU0RJZzJ1eHN0TUZ1WjQ0RExDb3hCSWdnemRCTlJLOGlSTjRfU3BBbEh0Y0oybUQ2WlltQzFEVEJnMDlIeVdQMWxHcGdSRU9acDdRM0FSMzFlUEk0M2pQX3NvLTladNIB8gFBVV95cUxNbVBJdjZ5aHlFMkhBcmdBdXM0aFJNSjVNVU56MmlvQnRaMnhtSjQ2RnBaN28tN1hGRWNmdC1CekVYVWk2bGZ1aTFNWThGVHZpQkJKd01xS0Z0eDBkNnQ4eUFjTGFRdExWYmxuN3k0Z183VzN1TnZTeldwcFU4OEdScmNCMlo0cFpPdjdEczVhWkdtbmNXQTRvNG9tbVI2SF9hT2I2VHg4SFZaSjNlR3pjcHpwRXRPai1tOFJGR2h5cUZXZmEyenllbm84OGtldnI3WjA1OFFLY1FnWHRqSkpHR0tIU0JjS3cwTkY0UnRHQTZ5dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FlVHdRbTFjcThtejhpd0dTOUJXT2FvRUQwU0ZUWGdLcVZPQzZUWHpsWEZMZ0k0cVhhSWhBek9TUFZiaW1nMXFGSTZWQkFlc3hBdXpNM0EwdVVqYWZMZlFfb0d2M0tIeVBkMnhFYjlRd0RwTDRKRE82QWRaVmlJZEFBcFZ4NVRFNFF3cmJjQVFYbkNMWXJ5STd3bGwyVE1yTDN1WWhEbWs0MVlrVkYwU3RDTGg4NkRT0gHAAUFVX3lxTE00aVZlTHhQQnRkXy1KeUVrazdhVHhKVV9adExXNGMtRHppWUUzTlBFWC10T3JNOERjYWtGcklGX2JVbmN5Zi1lRkhZRmZOX1FXcnVkT2pCNGNMTUxpNmQ4MG41dkE2UXFNbDVJOEpVcURFX2szTTlkQ2ZJUS00VmtFai1iUGlKSG5WVGtUa3NtSjNBYmtOc2RVVGxkZWRxc3JmbXVhQXJnc1hsa05aSGtIMk1NVm90WmlYS0FIOS1SQw?oc=5"
         },
         {
           "outlet": "India Today",
@@ -430,20 +463,15 @@
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ2o0bVJCb05jSEhaNFFmQXEzUENFWWs0akNQckdkYnVpS05STGlPcVZRQzkwSzRVd01aZFRnWkh3SDRRODI5SHRJMFh2TElOSTkxQW1YVU9KNjBnV2QzVnotdUdBV29XeFNiVDNUNnZmOWZWVnhGcWpSdjhtM2xvVW04V01fa1JucEktM2NkWW1mTXpOT0MzblNvNTFXZWIxa09LOUJRbHFiUi1odHZXamNFWkMyME9YZ0JhQlhoWG9nWU9ZQkRGWmxDQnk2alhVazQwaDkza19qRm9nWlFfRDg2QjlxeVdZTkVtalRDOHHSAfYBQVVfeXFMTm56MVllQXIzUXBneWtFeEwyaG5uZVE4bDQwZ1FGdXRGSXF6anU5clBKdkNnTEZBb25qV0FzT1NNNWRzZW94ZkpTMVRKRnVTTE15NUdKWnFpMWFCM3FLR08zQ0VIcDNvbFhud3k2aTFjT1lZQTFOYWs0QVpwWDk5TXVTNTZGX1Z4SUR2SVZkd18zWHNUY2M4djA2bUNUeDlyTUN2eDFkMTBpeWhiR0E3dUZrMEFPSEltSjlpSXZGa3VBZkJIbzlCU3dHa2hmUkY0OVpGVWlUcjhodFNaX3U5a3lfV2NndlpwanBBdnE3R0huLVo3aGpn?oc=5"
         },
         {
-          "outlet": "News18",
+          "outlet": "Hindustan Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1JfckJMZmRBRmpmaVpQbm5sNzVIZjRVOU04aG5jd2UwUEt2TjhkVWVPV2tnZGFCREZRZ2RiRExXUHprTHk0Sl9NYTVOaUZRS19oUS1udWpVQXltd3YyWnR2NDZaZ1VxUUhpdmNZTlR5ZWRmLXN4RVBUZmdQcXpUbmx5VEtLT3IxbXc5QU1pWk05QVNWSE1jeUkyYzZrZXRXc2E0ZUZQU1RjSk9Gc1dMZE5UbDdqem8xcXpuZ0JsLXN0azdyYU9JaUZpaGxRZ2NWbmgzQtIB2gFBVV95cUxPUThiVEd4Uy1hX1lpemVBTFQtdHg4RkUxMlowSTRaMGpDWWJBclNBV0RkU2trU210X3FSSXE2MGVYdzdoakhYNDVGR2U1bWVCd2RwMjU1LWh3RFhQRXhfSGFKZWRYdm9pa1ZUNDF2M1c0VE90Z1dCRlpIbDBCRDlNQkNYVkNwYm9abE9wejlsSXpwaWpMSGhPYngxRW9zRTlRdEktWXM3UmZIcUVzLWVVM1lLUWpzZS1xUEUxelN6bHl1V08wNVFRenpMaXBVWkhJTW5EcVZFOWFPUQ?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FlVHdRbTFjcThtejhpd0dTOUJXT2FvRUQwU0ZUWGdLcVZPQzZUWHpsWEZMZ0k0cVhhSWhBek9TUFZiaW1nMXFGSTZWQkFlc3hBdXpNM0EwdVVqYWZMZlFfb0d2M0tIeVBkMnhFYjlRd0RwTDRKRE82QWRaVmlJZEFBcFZ4NVRFNFF3cmJjQVFYbkNMWXJ5STd3bGwyVE1yTDN1WWhEbWs0MVlrVkYwU3RDTGg4NkRT0gHAAUFVX3lxTE00aVZlTHhQQnRkXy1KeUVrazdhVHhKVV9adExXNGMtRHppWUUzTlBFWC10T3JNOERjYWtGcklGX2JVbmN5Zi1lRkhZRmZOX1FXcnVkT2pCNGNMTUxpNmQ4MG41dkE2UXFNbDVJOEpVcURFX2szTTlkQ2ZJUS00VmtFai1iUGlKSG5WVGtUa3NtSjNBYmtOc2RVVGxkZWRxc3JmbXVhQXJnc1hsa05aSGtIMk1NVm90WmlYS0FIOS1SQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT3d3QzZxRFJvdXdmN25KSXc1SFZ3eUxudkg4ckxGSzlDRWJDamVPQ2RYaUhDZ1ppZ0lfLUdXdVFJbE1WbGlnSFBSZFdWWjVLNnFTTmxJcG5mRWhFMjRTVUREWFAyRUdUVmVRczk2RmVHMmZhZVBLRHBYOWJnSF9iSEtvZTY2ZDdZZ0l6aVpVU0RJZzJ1eHN0TUZ1WjQ0RExDb3hCSWdnemRCTlJLOGlSTjRfU3BBbEh0Y0oybUQ2WlltQzFEVEJnMDlIeVdQMWxHcGdSRU9acDdRM0FSMzFlUEk0M2pQX3NvLTladNIB8gFBVV95cUxNbVBJdjZ5aHlFMkhBcmdBdXM0aFJNSjVNVU56MmlvQnRaMnhtSjQ2RnBaN28tN1hGRWNmdC1CekVYVWk2bGZ1aTFNWThGVHZpQkJKd01xS0Z0eDBkNnQ4eUFjTGFRdExWYmxuN3k0Z183VzN1TnZTeldwcFU4OEdScmNCMlo0cFpPdjdEczVhWkdtbmNXQTRvNG9tbVI2SF9hT2I2VHg4SFZaSjNlR3pjcHpwRXRPai1tOFJGR2h5cUZXZmEyenllbm84OGtldnI3WjA1OFFLY1FnWHRqSkpHR0tIU0JjS3cwTkY0UnRHQTZ5dw?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Patna-Lucknow IndiGo flight’s nose suffers damage, lightning strike among suspected causes. A weather-related story. Covered by 4 outlets, including Hindustan Times and India Today.",
+      "brief": "Patna-Lucknow IndiGo flight’s nose suffers damage, lightning strike among suspected causes. A weather-related story. Covered by 3 outlets, including NDTV and India Today.",
       "image": "images/patna-lucknow-indigo-flight-s-nose-suffers-damage-lightning-.jpg",
       "image_kind": "photo"
     },
