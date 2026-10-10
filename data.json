@@ -1,52 +1,9 @@
 {
-  "generated_at": "2026-10-09 23:54 UTC",
-  "generated_at_ist": "10 Oct 2026, 05:24 AM IST",
-  "story_count": 53,
+  "generated_at": "2026-10-10 00:36 UTC",
+  "generated_at_ist": "10 Oct 2026, 06:06 AM IST",
+  "story_count": 54,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
-    {
-      "id": "bihar-mlc-polls-prashant-kishor-claims-jsp-will-win-patna-gr",
-      "headline": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats - The New Indian Express",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "politics",
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFFJMS1fMGVMcWRWc09lUElrN0ZYRHRNTDVnZVhoYkZQZS1pdXNMdVhDN2JabG0wZEVmejB4WDkxWWR4UnRtanByVGE2dDlWaUFrMUo1Z3RGZHJyQjZxb0ppc0tHZUFiR1oxc2l1c2trT1lIR1M5dUtJTHp4VW1iY2g3VEdRYllKaHRGdUU2TTJWdEJkd3N2RzMyaE8tV2I2N29ROXZIcmNaSGRvcDh5VVBTVXBteEtsdlJka05UdzNNNUtNcnIxQVFvbzhZTVJWRjJ1NWtPc9IB5AFBVV95cUxQaXNjT2JYOXpocUs0TlY3MXdka2VIQnRTdGk4emVOdk8zN01TZExSOXFWUkF3aUZXeVU3U2EwM1VZZGExcVo5bkY3ZVY1UWpvVjcwQXpRTDBteWVENThxZkp5NGhmQUpyd0QydDF6bEJ0T281NFNtcm9xSGVHVGgtYmNUSmxOeVdQWi1Vb3RWWWpsSnY5cW9Qc0s5TXZOZVlLbU5qSk9xQmF5dHZHN0tXcDFrXzBXaXE5TGhtZlI4c2Y2U0NfZzNuOFZaamFyZnhITUdlVW0wN1QzOGl3cnpwajV5Yy0?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVFYd19CZmFiWDVsWTZkSjBSLU1WX3lHN2M1eUgtOW9aM29qeUJWTldyb3FaSm1PWm5pU2JqZzgwd2JodUJZSU82QVdrNXRQQ0tTYnhEVkxHclRBcGkyNjZ1TVBwUzVzSXpYd3l3RmtqeE5ILUpBeW5MdFpxaHhQV2lDc21NVVRqOVYxMUJfQVBUUDNfaTkzZC1WSktpM19EbURMYtIBqgFBVV95cUxNeU1lbVQybXZmd3BsYUJ2Sy1XQzc0WXIwelhIZDk3Qm1kR2ZJMGhENVhpYmtNMnR0SGtlMkRrMGJqb0JOZm9JUndYc0JfZzlWQkNSa0hOZ1RDT1JCRE5hNnUwSzd0WFZaN3EyTjVUNGQyS05Bb2c1UVlNTkk5UFhRX1Bjd1NUcnhpdEJQWE9mVnI1WXBzTDBkRFA1Z2pqdnlkWFQ4SWVjQW8xUQ?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWlhazZzYVRPb0UxZ3p4OWdycUZ2VjZhNDhCaWNaTUhOSFFqNDEtb3hLUG04djhDQTloYi1XbUtGWFQ1Y1hKeHFzdjVJclk1bENSMHpjY3JHQzNMV3JxY0p3SG15c3kyM0ZHdGFJUnJnaloyc04yZlViN08xenRVZEpFejZDSW1rNkphanBTTzJkbHhQVW9QWGR1QzYtbXVvc3fSAagBQVVfeXFMTWQyNlM0U211R25uZXBCS1ZVQWNadGJPUVhEQllHMHZPeFI2UlhudTIwN19aZzJoZnZUU2dfT2NmdEZvUzlDSmtzczhRWG9pblRiV3hwVEdxUkdqdGM1Z21UMjRHaFJOcmhaYzNiSEtmdmFOYndMX1dCNk0wMkVzbFVoWjd3RDJrbTVpVWlsMUNFLTEwa2FMTnBlZlhwY0JhNEZubngtbC0z?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVWVHRmRLenlIM01qQ1BxZC1YRUpEMGNBRjQwWEoyVml5QkpJTWM5Q2NSWXpQdk1mWTRKOFEybmpMTEhLdE8xMkEyVzFzSm92bjA5VFU5VWtSM3VRcnVKbFhhUEFwbFQ3Zml0RXNRRGRrSDdUaEtwQWtibmZtVVhVclktQjZKeFFaSmJkWjBReFFXaUhrSHB2dDdmWXRpeWNJZXZheGlBLTdGZ2RhcTU2eHluTHNPb0EybW0tS3BGbUk2ODRJMWFPQmtFbzdSOGc1eGMwWWhLN0dORVRrSTZSdXlJcndfZmVhX2dJ0gHwAUFVX3lxTE5FdThWTnRPOG5lNkVMWjBOZ0hOM2dqM3BpYlhmdWN4UWZxWW5kYWZCOGdlZHc1Q0cxd2FBQUhqRzM3bWhrYUV4ZmJvWnM2TW1KMXVQN2MwZzM4THNETzZxRlF0YlNmalR0Ym9xd1VMWGZjUTIybkgyTV84SFNocDJiOGw5bklSMTRvaTQ5Y0lMNGd5WjNTOVg5OGF4RDNjVEl6QUk4eTIySDRBRUI5R0dIRzcyTUJBNmZwS1RNTVg2UFN5VE8xM3pRRmVkcGJkVHVjQTc4U09rVVRTdzJGNXhvSndhTXRZeGFhOHRWdC0zaw?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnNmend2VVkzSEVpQWduWXBZR3I1QzdZTXpaQ0Iwd2d0dUU4Y2FYUXBrazVSTU5uRlZkODE2ZldpQ21VZk9ScjlwQ01kaktDQ0czcVdTZ1BHVWZlemIwZXE5bXZDakhkLXNrUGg2aUFzV0NOVmpHazBKeXRYOHk3aU10VVN2WnoxQi1rUE1CcE5FQzlWYWZqeUVBcE9ScC1FRHl6QlR4UHRrZFQ4ZnZxUXl2bThRRllXbkttM2llU3E2RzN4cGdwMWMwQTNKYm1H0gHeAUFVX3lxTFAxZVNkOFZaMDczSkkwUkFVYmFRdUZjbWpwRGxieFVmUllhbFM5Z3hRaElKbmxDQXhqLS1KRzA2STBBYWRRSlBoNXpYVHVWenFaUWtzZEFiUGZwSTdrRUpiR3plZG5SdjZyZ3ZwbVZSdWVhMmlSTTRJMXNBLUhmVmxVcVJnR21BdDlqVm5zVlFSUVlPT3BHckJDdXc4MHdEWWR3cFc4NHdVU0JaRlFSeUJIcENwV1RiQ203UXdaSHFEOXBpU3dCQVRORm1zVGhVWnp6WnF6V2taVUdzOWpEUQ?oc=5"
-        }
-      ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats. A politics-related story. Covered by 4 outlets, including The New Indian Express and ThePrint.",
-      "image": "images/bihar-mlc-polls-prashant-kishor-claims-jsp-will-win-patna-gr.jpg",
-      "image_kind": "photo"
-    },
     {
       "id": "patna-high-court-halts-further-action-against-former-rohtas-",
       "headline": "Patna High Court Halts Further Action Against Former Rohtas SP, Seeks Trial Court Records in Contempt Matter - Law Trend",
@@ -72,6 +29,112 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna High Court Halts Further Action Against Former Rohtas SP, Seeks Trial Court Records in Contempt Matter. Covered by India Today and Law Trend.",
       "image": "images/patna-high-court-halts-further-action-against-former-rohtas-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-mlc-polls-prashant-kishor-claims-jsp-will-win-patna-gr",
+      "headline": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats - The New Indian Express",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "politics",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVFYd19CZmFiWDVsWTZkSjBSLU1WX3lHN2M1eUgtOW9aM29qeUJWTldyb3FaSm1PWm5pU2JqZzgwd2JodUJZSU82QVdrNXRQQ0tTYnhEVkxHclRBcGkyNjZ1TVBwUzVzSXpYd3l3RmtqeE5ILUpBeW5MdFpxaHhQV2lDc21NVVRqOVYxMUJfQVBUUDNfaTkzZC1WSktpM19EbURMYtIBqgFBVV95cUxNeU1lbVQybXZmd3BsYUJ2Sy1XQzc0WXIwelhIZDk3Qm1kR2ZJMGhENVhpYmtNMnR0SGtlMkRrMGJqb0JOZm9JUndYc0JfZzlWQkNSa0hOZ1RDT1JCRE5hNnUwSzd0WFZaN3EyTjVUNGQyS05Bb2c1UVlNTkk5UFhRX1Bjd1NUcnhpdEJQWE9mVnI1WXBzTDBkRFA1Z2pqdnlkWFQ4SWVjQW8xUQ?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFFJMS1fMGVMcWRWc09lUElrN0ZYRHRNTDVnZVhoYkZQZS1pdXNMdVhDN2JabG0wZEVmejB4WDkxWWR4UnRtanByVGE2dDlWaUFrMUo1Z3RGZHJyQjZxb0ppc0tHZUFiR1oxc2l1c2trT1lIR1M5dUtJTHp4VW1iY2g3VEdRYllKaHRGdUU2TTJWdEJkd3N2RzMyaE8tV2I2N29ROXZIcmNaSGRvcDh5VVBTVXBteEtsdlJka05UdzNNNUtNcnIxQVFvbzhZTVJWRjJ1NWtPc9IB5AFBVV95cUxQaXNjT2JYOXpocUs0TlY3MXdka2VIQnRTdGk4emVOdk8zN01TZExSOXFWUkF3aUZXeVU3U2EwM1VZZGExcVo5bkY3ZVY1UWpvVjcwQXpRTDBteWVENThxZkp5NGhmQUpyd0QydDF6bEJ0T281NFNtcm9xSGVHVGgtYmNUSmxOeVdQWi1Vb3RWWWpsSnY5cW9Qc0s5TXZOZVlLbU5qSk9xQmF5dHZHN0tXcDFrXzBXaXE5TGhtZlI4c2Y2U0NfZzNuOFZaamFyZnhITUdlVW0wN1QzOGl3cnpwajV5Yy0?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVWVHRmRLenlIM01qQ1BxZC1YRUpEMGNBRjQwWEoyVml5QkpJTWM5Q2NSWXpQdk1mWTRKOFEybmpMTEhLdE8xMkEyVzFzSm92bjA5VFU5VWtSM3VRcnVKbFhhUEFwbFQ3Zml0RXNRRGRrSDdUaEtwQWtibmZtVVhVclktQjZKeFFaSmJkWjBReFFXaUhrSHB2dDdmWXRpeWNJZXZheGlBLTdGZ2RhcTU2eHluTHNPb0EybW0tS3BGbUk2ODRJMWFPQmtFbzdSOGc1eGMwWWhLN0dORVRrSTZSdXlJcndfZmVhX2dJ0gHwAUFVX3lxTE5FdThWTnRPOG5lNkVMWjBOZ0hOM2dqM3BpYlhmdWN4UWZxWW5kYWZCOGdlZHc1Q0cxd2FBQUhqRzM3bWhrYUV4ZmJvWnM2TW1KMXVQN2MwZzM4THNETzZxRlF0YlNmalR0Ym9xd1VMWGZjUTIybkgyTV84SFNocDJiOGw5bklSMTRvaTQ5Y0lMNGd5WjNTOVg5OGF4RDNjVEl6QUk4eTIySDRBRUI5R0dIRzcyTUJBNmZwS1RNTVg2UFN5VE8xM3pRRmVkcGJkVHVjQTc4U09rVVRTdzJGNXhvSndhTXRZeGFhOHRWdC0zaw?oc=5"
+        },
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWlhazZzYVRPb0UxZ3p4OWdycUZ2VjZhNDhCaWNaTUhOSFFqNDEtb3hLUG04djhDQTloYi1XbUtGWFQ1Y1hKeHFzdjVJclk1bENSMHpjY3JHQzNMV3JxY0p3SG15c3kyM0ZHdGFJUnJnaloyc04yZlViN08xenRVZEpFejZDSW1rNkphanBTTzJkbHhQVW9QWGR1QzYtbXVvc3fSAagBQVVfeXFMTWQyNlM0U211R25uZXBCS1ZVQWNadGJPUVhEQllHMHZPeFI2UlhudTIwN19aZzJoZnZUU2dfT2NmdEZvUzlDSmtzczhRWG9pblRiV3hwVEdxUkdqdGM1Z21UMjRHaFJOcmhaYzNiSEtmdmFOYndMX1dCNk0wMkVzbFVoWjd3RDJrbTVpVWlsMUNFLTEwa2FMTnBlZlhwY0JhNEZubngtbC0z?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnNmend2VVkzSEVpQWduWXBZR3I1QzdZTXpaQ0Iwd2d0dUU4Y2FYUXBrazVSTU5uRlZkODE2ZldpQ21VZk9ScjlwQ01kaktDQ0czcVdTZ1BHVWZlemIwZXE5bXZDakhkLXNrUGg2aUFzV0NOVmpHazBKeXRYOHk3aU10VVN2WnoxQi1rUE1CcE5FQzlWYWZqeUVBcE9ScC1FRHl6QlR4UHRrZFQ4ZnZxUXl2bThRRllXbkttM2llU3E2RzN4cGdwMWMwQTNKYm1H0gHeAUFVX3lxTFAxZVNkOFZaMDczSkkwUkFVYmFRdUZjbWpwRGxieFVmUllhbFM5Z3hRaElKbmxDQXhqLS1KRzA2STBBYWRRSlBoNXpYVHVWenFaUWtzZEFiUGZwSTdrRUpiR3plZG5SdjZyZ3ZwbVZSdWVhMmlSTTRJMXNBLUhmVmxVcVJnR21BdDlqVm5zVlFSUVlPT3BHckJDdXc4MHdEWWR3cFc4NHdVU0JaRlFSeUJIcENwV1RiQ203UXdaSHFEOXBpU3dCQVRORm1zVGhVWnp6WnF6V2taVUdzOWpEUQ?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats. A politics-related story. Covered by 4 outlets, including ThePrint and The New Indian Express.",
+      "image": "images/bihar-mlc-polls-prashant-kishor-claims-jsp-will-win-patna-gr.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-eou-recovers-52-lakh-cash-35-lakh-ornaments-from-execu",
+      "headline": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises | India News - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "crime",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUNHR1RfejRNb0RvMm14aFdDRldiT2MxdmY2ZnUtc1lMR0NjQkU2UmMtMmJOZG1BSlF3bHBqYk1zb1Zja0tqbkYzeTNDbEdfLXdKV2R6UzdOT2x0UWsydEloaHRKRUtOM005UEVyUU84cjcyeXRHUDJvdzJlTjVWSWdYM2hBdEVhU2Fha1NXbHlFSWZIcEllWkpvbzlrZnh6N3J5VG9CMndvNVpsdmkwRzZqb1BBanh3MnVtNFRR0gHDAUFVX3lxTFAtX01wNFE3bU5FTExVcGg0a1pnZnJBb3hrVDRBWVhObHBnQzIyRTJBdVB0RlAyV0ZHRENRRWRPcTJnNlVaQWNsdEI5R3Y2Z3ZwYWIyZGw2S203TWRkZkhmYUhTRTJuMnJZYXZFaC1OWTdaRlJqV1E2Rzg5V3lpWTBWMC0tckVaS2Y5cDRuTkpYWUxkeVlsQU1lWVdjR3AxdW03S0R6aVROcUkxak5FNFp4MHJES0pnaXRRUUpMeHdWRmUxcw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWkJuREhhaFF3OFVET0ljbkZiRVYzb04za1EwX09RdXN3TngwUHVXMUV1NXRoX2pLSWw2VlU1Ml9vSkpRV0dWMlQ4eU9zcklWS1NCaXhFRE1zR3BybDRBTW5ObkNyZUxMOFJVclphN0tHbC04emt5SFBvQVBhSFBaaVFoUnNJYXdJT0x2TzlocTRWang0ZWxtZFQyek5pVkNWamQ1Z2FRLUV4U2R0NWxKelp3SzZXQV9nRnQ0TkthMWJ1aGJQZEdRZk44bDZNQzFkaE9qVGRyT1MwRlROYl95Q3ZSc9IB6AFBVV95cUxQbXBiZlI4ek03WEZ1OXRWb25ZcXpoRDRKSUE1Q21kaU5BSGFmTTFnQ2I4M0lzYjd1OHI1bGdLOXFhMFFRTHhaZjQ3NnpScERaV3ZCZXlaOU9CN3l2MHhSRC1MYl9RT2ZJeUxUd3d6bk5PckFZU0tFRjllRTg5M253ZjhBZURmN0J1OWlJZHdEZUhoLUlKcHJteGlkajg2bUZ5QU9ONDhUNnBQOE1qdkZFQUN1WmRyM3M0Wnk3VXJlRlRsd09iYjc4ZlF4TFd5ZUppSHNvVmJQVEZMR0NtS3dIZmhRQ0RFTG9p?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWNVNlp1Y0I2aDJXTjNxNnp3RHJ2cFlOcGl0OEJLS2l6WFhQOXhWRThTOG16alczcFBEUHZlOHhyeHBvUjhDbVJoYzRDMDJzaUNYREprSks1c21wR05md0xvX1g0ZXYwVF9jX1BFX2hFc2NJeTAydTNYM0Rla0lZVFNpaTFhZHd3SG9JTlhyT25xWGJURVRBSVhHbU1Ec2F4djlEQkFfd2F2Qm9yeVFvVEFPUGdWaURzUU5J0gHAAUFVX3lxTE9oTkZEOUhSRmhaLW9ZNFp5SDJQaG5TMFl1ZW5vcnNjXy1vcHR6LWpEeXNrUGZvdUlQUDBQQzJVemUxLUFHR0RpRGF5dnNQMkRlRmVQcGk4c3RkVnpVS2lHVG5SMU5vOGxFUVVjMVhPbGZucGVDOUZKdkxDR0RVV2dPUV9ZMDAwUUNZMHVWQ1J2dUM1SG1scnpHdHE1UERoWVphc0FIYjhrZjRVal9oN1AtS2NhbUloUVhDNzVCdGJzUQ?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWxEQThFSkdTN3NyaThoNXFJREZBUXJZbG9Ubm0yaFVFVk9raXBXQ1Y2Ui1TRzJFaTFsV3dKTzFJZlR4MHFPSTRFam9HN2hqMHlhcUVITTdFeE13Zm1jSnJVTlREemNSS09ieU0yVGMySHVLUlhlQWJnSC1qWXZEZm90THNBNlY5Mzh4bFRCclVMc2VQLTcwdzV5a3F5bF80RzhmQ0xuV3F2NDRPN1hFajUwSEZhaWNsYWtYNGdEeUh2V3J1RVRKTWhISUh1bmx00gHWAUFVX3lxTE1DOVVWN3dTZXVmTThTSjhoOEJCcU1ZOVZjTGx1T18waHFNNkR3bTlDaWNkcHJWbHBvYURFLVJ1Mm93UkxhbHl0eC1abm1XcW9ISVZuZDVCYzNPbXQtUzBWSk5aWWdVMnZobElZUTB4akFFVko5alBRT0FjTmREV0xmSTdReDBOZW93aXFlT01kZmE0YWw2WGItbDlxTE12VzV2MlRDYkFhM29ySEV5NnUyVF9yTnBsY3FBWnQ3SFdjNWp6UDBTbmhZUWRCM1ZrMzMzODFkWUE?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUzg3eURmY3RvTENxa3FoTWphb290ekUwOXhqam9OOHFkZmdMWEdzVG5JVGVpVG9PSHplYlllNlZMUmJwNWw0d1hrUzhkNGdsM19HWVNqNkZpSVFzdk5iNWd2QUNXTWdXaDZpcVE4RzdhSU5faWZhZFhJWU9OcFUtX0FQaTJuenlsS2pGSzRZMFBmaDRDc3J2VW1UZ0VYdjRIMmIwNWdzUFFMOUdQVFpHaXdnWEFlVmtCX1dDSllWUnJQaV9jQ1FNeG9mNU5WdjRtcUVFOEpVd2pGOXfSAeABQVVfeXFMTjQ0QXczVzhZcmVhWWZRQnQtamtmeGVUaXhXNHlUZWtBNEdJNll2S1J5ZDkxakdiTnFUMi1sTGZ1eXhJbmE0TUZFYzZ6TE9GR0FvRmJxb3BkeWhNSGp5LTdIN0QtLVFHNDVqZlliSW1fQ1BXUUtnelA3eDRWVUZHS3E5bTg0QXZxYjlmcmFqVVlhamo3QkZWMTlrV1ZkaEhpNzNMbTlyVXlkSk00NTNwbmRrUHlMRWNQTFhodGRJSUtHYU1nNGdKLWFDdVFCTHNzelQ4TlJuenVGWWs2ZEVob20?oc=5"
+        },
+        {
+          "outlet": "The420.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQktqV1kzUHp0OFdmalpjeklPVFJ4MDlnT2JrWmRsZFMxUEdLZ21Xa0Vic1RlT1FZU3djTWRfU2xzSkFpVjRTcC1ZS1BTYXg3LTdTWFhEQTQ5bDRkTUYzOEJxSE9HS1plbWFpQlZldmVLSkpnQkZlX3ZBdWVvZ2ROd2pCWGhVVnN1MWhqenhtcw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmpISmpmWGYzNDVDelBLWjVKWWZLVG9HejJXQTBFamxmRmNhLTFGcUpyRXJ0bTlXWVQ1dEV4bzlMaE0zMTVTZkJXY0psMVJPRkw4NkU4Z0xvRmNtOWZQTkI2MHh6TEVRN0pmemlWaHlJNmozRmMxNEFkYTJ6N094dmlMZUpDbkkxdFFoMEVSVkt3N3l0RlpSMDVxaVVUS0lmdHVUdFBPeG_SAa4BQVVfeXFMTTFtS25ZQzc1U2lTYmVuUW55V2M5RzBxdEpaRmZYTEZMNkhmYXAyN1V1aDY1S1dpOWptTWowREdQWVdsMjNHUDZfRnZrTHkxQWlTY3Nodm5CSjdfVjRwWkJpejhhZURQM0puT3U2d2FWUmpxTGUzRVFzdGFYU3BjTmhTcENQQk5NQ2pWM1QtTkpUdHNiTmMxVnNOejBjQlNKbUxCazhtRG9fVTNvMUl3?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWRHUnp5ZUp6YnpzWFYwS2haRUxHcnBSLUVCSkVnbXI4eXlXTWR0aUVvWG1NdTc1V2JIQzI0bnlEV01Pd0U5aElqaktFMjRnQkZNRGNHTzk5eGFPdndNMnlkemt0LU1BWFQtR05Rdkg0WDZIeGdvVGFvUG1GVFFLc1ZJRHkyeUN0Y1FXN2RxRU93bTdqa0FlYklWZFNKQndnZ21PeFhuVmpFVXNLNnVJNzV30gG3AUFVX3lxTE1QTm1mSjRfTmVHX3ZvUlp3enA3dGsyRm9uaUxaNmFuT3BQT3YxM3V1SV8wdTN2dURYY0NtckE4b1Y2R1JrTUNhaXpxb3dWZ1FPUENTdmNheFE4Y0RURlliSXJtTHFheWNlTzFfay04Nm1iX0JGSjVjWm1INUNLT09LeVdhSUl3UVZlcmdxM0M4Vk5tNExYS24tVjZOcXphLXBWOUZFbC1GV0xlWXM1bnhrREk5VmYzcw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUU0bVpIbzFWU2ZLWFRfNWxENXVuMFE5LThibmtZQlFMd1NRN1ZOMm1fclc1Yl80SDBwaFRKMWZUWXBLNUtqVjJuVVB0bnV0VkNINjZJSzgwOExnNVpxRmQ4dUN3elI4X0YxeU9MaVk4VnltZjhQSEoxNm80Qkl0SWVpQjNwamNNQTVEaE5DUXJqMF9WMEctSGJOLTZxWjBNSVpmcDlESHdnZFJZWkFtQ0w4YzkyY09BZldrUHBtd1k0SVBaVVVr0gHMAUFVX3lxTFBwdUQzbTd6Sy00bFlXcThZMjZfaFBaUmZ4b25zWUJLVFE2TTVqMk1RTlNNQzVUZTljZUtTdXNtV3FvRkYxQVZmWnVtdGhteGstTHpXRERpVW9oc2dxYkJ5VDBOY3pyWDFhNXBNbU56NjFGREh0Nnh1T2NNMy1vd1NvZ2lOZTdDSVMtUDNLU3BiZFlKT2tUeWxFczRTNUdmMURVajVKVFItTUFDTU1NNnBGeU5lU054U1UtRE5WdUdoZkVPN01SZ1BkeTBTVg?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises. A crime-related story. Covered by 3 outlets, including The Times of India and Hindustan Times.",
+      "image": "images/bihar-eou-recovers-52-lakh-cash-35-lakh-ornaments-from-execu.jpg",
       "image_kind": "photo"
     },
     {
@@ -102,35 +165,37 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-eou-recovers-52-lakh-cash-35-lakh-ornaments-from-execu",
-      "headline": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises | India News - Hindustan Times",
+      "id": "bihar-police-driver-recruitment-aspirants-protest-in-patna-s",
+      "headline": "Bihar police driver recruitment aspirants protest in Patna, seek filling of vacant women's quota posts - Cityairnews",
       "summary": "",
       "date": "2026-10-09",
       "topics": [
-        "economy"
+        "politics",
+        "crime",
+        "education"
       ],
       "sources": [
         {
-          "outlet": "The Times of India",
+          "outlet": "Cityairnews",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWkJuREhhaFF3OFVET0ljbkZiRVYzb04za1EwX09RdXN3TngwUHVXMUV1NXRoX2pLSWw2VlU1Ml9vSkpRV0dWMlQ4eU9zcklWS1NCaXhFRE1zR3BybDRBTW5ObkNyZUxMOFJVclphN0tHbC04emt5SFBvQVBhSFBaaVFoUnNJYXdJT0x2TzlocTRWang0ZWxtZFQyek5pVkNWamQ1Z2FRLUV4U2R0NWxKelp3SzZXQV9nRnQ0TkthMWJ1aGJQZEdRZk44bDZNQzFkaE9qVGRyT1MwRlROYl95Q3ZSc9IB6AFBVV95cUxQbXBiZlI4ek03WEZ1OXRWb25ZcXpoRDRKSUE1Q21kaU5BSGFmTTFnQ2I4M0lzYjd1OHI1bGdLOXFhMFFRTHhaZjQ3NnpScERaV3ZCZXlaOU9CN3l2MHhSRC1MYl9RT2ZJeUxUd3d6bk5PckFZU0tFRjllRTg5M253ZjhBZURmN0J1OWlJZHdEZUhoLUlKcHJteGlkajg2bUZ5QU9ONDhUNnBQOE1qdkZFQUN1WmRyM3M0Wnk3VXJlRlRsd09iYjc4ZlF4TFd5ZUppSHNvVmJQVEZMR0NtS3dIZmhRQ0RFTG9p?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU20yOXB1YzB2NUdfeFItNXJid1I2UmUzeThoei1tbkViS2ZqV2c2cFVyU1l3VjZvczAwWFhGU1lLMkEyaG9NNUtnc1pyZnhIczFHa1FuYTE1QTh3cGtneFE5anVkUDJka2w3YVhublJwYnpRM3ZISlkzbWd4bGVXX2pKMGNNbG9XdVZHRTJBbzNHbjZ4QTdhNC1ybG5UZWRtRzVTeER4Tmh5Q3pjZDZ3Q2Y5anF1bUdQaVRXRnhiSmJVVGpmdjBwZ0RhTHViM0tlWHc?oc=5"
         },
         {
-          "outlet": "Hindustan Times",
+          "outlet": "Mid-Day",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUzg3eURmY3RvTENxa3FoTWphb290ekUwOXhqam9OOHFkZmdMWEdzVG5JVGVpVG9PSHplYlllNlZMUmJwNWw0d1hrUzhkNGdsM19HWVNqNkZpSVFzdk5iNWd2QUNXTWdXaDZpcVE4RzdhSU5faWZhZFhJWU9OcFUtX0FQaTJuenlsS2pGSzRZMFBmaDRDc3J2VW1UZ0VYdjRIMmIwNWdzUFFMOUdQVFpHaXdnWEFlVmtCX1dDSllWUnJQaV9jQ1FNeG9mNU5WdjRtcUVFOEpVd2pGOXfSAeABQVVfeXFMTjQ0QXczVzhZcmVhWWZRQnQtamtmeGVUaXhXNHlUZWtBNEdJNll2S1J5ZDkxakdiTnFUMi1sTGZ1eXhJbmE0TUZFYzZ6TE9GR0FvRmJxb3BkeWhNSGp5LTdIN0QtLVFHNDVqZlliSW1fQ1BXUUtnelA3eDRWVUZHS3E5bTg0QXZxYjlmcmFqVVlhamo3QkZWMTlrV1ZkaEhpNzNMbTlyVXlkSk00NTNwbmRrUHlMRWNQTFhodGRJSUtHYU1nNGdKLWFDdVFCTHNzelQ4TlJuenVGWWs2ZEVob20?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYVE3Z2t1YnJvVWpPMS1mRzMzai1CSUVqaEc4enUteldNU3RfdjA5cEFGb3pEUmVKN0t4MmJCSWtQZXY1bkk5SDdVTTB5dWpIdmZ4SVZ1Q2x0RTU3eHRweVFYa2RwbEJTSUgwR3VWdjg2LURNalBUMFNvdnRDTDJRd2NLZHFRZFV4YnNqQmQwcHdvUk9hMVZjNk4wS0VVeko2MmczTENLWGJ0eW90dUt2MDVadER1LWhYQVNpWWctYkdrRmVmWXFlRm9KY2JISlF0QW9Ld1BhemdISFc4dnU3TnVQM1FyTTJ30gHuAUFVX3lxTE44UVZUd2ZpNDA5dmNncWd5ZTluUUVoVTZlUEV0SGduazFYTDZ5QmZ0RnN4SmozVzhFUmFUUUZjSERSOGNxWVJWd0dGY0N3SDhPd18xWnF2U1BwQzlFT1c1OFRGMGJ1SEkyUDc0MHRLSEtEcy11NVViQUQySlk0MDBwajZZaW1YdDdJcWJKWWV2Qk1ORnBXWk5hNHFyZjY4OEJkbTFNQVh5VEhTYzZEak9oeDJBT3ZYSEhfa3NfRWZCRGJaUlpxSFd2NDRqSEZLUndseFBzcDY1Ujk1cVhSX0hwNFJqcXRQRjlzUDJQS2c?oc=5"
         },
         {
-          "outlet": "The420.in",
+          "outlet": "Mid-Day",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQktqV1kzUHp0OFdmalpjeklPVFJ4MDlnT2JrWmRsZFMxUEdLZ21Xa0Vic1RlT1FZU3djTWRfU2xzSkFpVjRTcC1ZS1BTYXg3LTdTWFhEQTQ5bDRkTUYzOEJxSE9HS1plbWFpQlZldmVLSkpnQkZlX3ZBdWVvZ2ROd2pCWGhVVnN1MWhqenhtcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUTYxbzg4dDhxZy1yZEM3MkVockRvWEwwc3FTcnl5VWtFWkNYRWo4YWJQbTQ2YVRZYUZ4MERCUEgyV3JDNnlXNGxVMDBXUE11bF9aZElMVlUyODZuaVl5SzFYc1lZQ0dLZUxhemd0THBvN0hrNG1aTWg5TXlwNklBbG9YY1BHM28tWnhBVksyb1AzSEM2NDRRT0R1RGhDbmxXSzlmd0I5T1E4SHJ1S0hWZ1JXeEdwVWlnRlU3eEVlcFJYdXBtT3NjS3ZOQldoaXJvY0dXYWFFT1VJa3Jyb3dGR01rMXDSAeoBQVVfeXFMT0FsLVJER3FFWGZRWkstSW5yMTVpRkFhT1RGMnY4SHllZEpMMjlhRlVxMy1zR2g4ZFp0Z0FUcDFmYTh1RFA2aWdNSkk0d3ZKOG9CYWV5ZXNYbDZwZC1uOERqQ1FuZEVUQmgzLUsxZzdscW9OOG9YTW1ST0ExaDNVNGo0NkRyS2pUak1XelBsajJfU0RWaFB2MlNCdC1HNXZ0N1F5WkgyRmRDYnFGQ0t5a3JkdXJUZXlBMmlVREpaRElRLTBnSGhtTDEyWUNXOEd5YlZNaEloQU1neWUzTVlpT0p1Q3ZEN2ZUbUt3?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises. An economy-related story. Covered by 3 outlets, including The Times of India and Hindustan Times.",
-      "image": "images/bihar-eou-recovers-52-lakh-cash-35-lakh-ornaments-from-execu.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar police driver recruitment aspirants protest in Patna, seek filling of vacant women's quota posts. A politics-related story. Covered by Cityairnews and Mid-Day.",
+      "image": "images/bihar-police-driver-recruitment-aspirants-protest-in-patna-s.jpg",
       "image_kind": "photo"
     },
     {
@@ -143,9 +208,9 @@
       ],
       "sources": [
         {
-          "outlet": "Gulf News",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzZQVVNlREZCYnZWdWtpZXpHbEt2TElHLVpMX0J3dm1ZVlhuaEM5YUN5VkNjR080NVM4TmplYjJOZk9aR3ljT1YwRHpoekNiOTE0WVcwN3FfcjB5V3o5c054VHB0WGJXOEpBbl9VbEY1cXBXRktOb2pMR0lSRHZRT2VwSE5lOGRzLWRxOThURXkzY3M0S0gyOC16a1BTT29JUW0xSllQZG55OFB0NWxWZ3RReERsNDJtekdaUWRR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQUFoyTTVBcmdqNnU4MF8wbWdDS1lvVHlHN2FCVURtNVVQX193TWhBc3RTclRxeVJyOXNIUTlnSWxGblhWbDRxZzI1clBXVXVvT3Ztd2ZRNXB5emhVMFJ6NXQ5amk5Q2hhQ0VSSEIzb29sYnRTU0dCQl9xc1F0QVJiS3FfS2IwVDZsbGEwUjJpak5LbVlpY3hnUTZFU21LMUFKNk5oUG1Fd3NFaFRfX0VHeEIwMktpLUoyQlJ0LXFIb0IxYjBSTUdNbUFWZ3RtZEtkd0R2S0h0aUlmM09vcllLLWNaZ3BCTEhweVNEQTgyTFVWbTlzUXI0QUZlQlFGVWVrVzFwZnM4ckphZnlTd1NhVjBFUUpHX3Y0N3BRUTBkOXJ0amRoWDlqTkRrOHhkZ9IBswJBVV95cUxQNnVOUVkwNDJ5OGdMWVlvbWlSaGlQWkpnb3NnclV3YVVwVmRub2lKalVfeWIwYk9BazY5N1lsVWhBeXAzZm5QZE44VXljY25qOXhaLVFrU2tLRzh6WTByRUp4VU92SmlkcE5nclk1Tkg5bXpnbWpRbGpJSHNYZ3lZbnZ0V3VUVW1OQ09DNTBFWWVJYVdxY1RVMnFqckVUZ0lldDhQZFp2WXRBQzdZNTBsUTBvYVNtWXdwTWdQSTZ3QXFRbk5TdDAtRUYzZzNtdVk3TkZqQ3ZRYUY0eWFYTzRKMDNuWVhGUUlPc0xLZ3dGMDE1ZEFSU0lZOEduRGRrcy1xZjV1bWFpZklDWkhvXzlTOEhfRml4ZjN2UnU1dGRHV0k2NkdxOXJvTTVMakxGUUJlcHBZ?oc=5"
         },
         {
           "outlet": "Moneycontrol.com",
@@ -163,9 +228,9 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3lndnp1YUJYbVcxbHo3TW5kQ2VQSnhRc2ZpZEpqYXVJZnlKdjhfaVlUcGppOWVlNmdwN1YwbXlLMmtnREFLUGRlY0dtMGc0em1BZldMTnI3X0ZWQkdHVVhlclduMDNOcksxdE15NDVkeTJmRExxVVNMcHkwQUFqVWhSbWE0OVVHaUozZHlnVmNRclVzYUNmWDVLcHVXNUU1OEx0bVJIOWplc2lzU2JsM0VuRWtUSXJUSUZKRGZ5YTcwYmY4TVJfQtIB0AFBVV95cUxQUVdzUHNndV9NMXh6cWU3UUxUMk9mOEE0dDJGbThpZDZ1QTZ6dmxBR0xfWkJRRF9wZmItVXN6MERqcldnT0FJZUNmbWd2OFEydjNWNFM4MjlFaUxTUkJLbnV6VzRqck1fcGQ2Qk0xV09SYmtWNkY2UmlLSW1kNUZSUjNJb2NzTXI1TFlZWW1RNmJJTzNSaHluZl8tVDYxdVgzT3FlZ3lISzFVZHJYREpjc3Q5Ml81dU5FcVJWem5SOWU5c3NQajB3ZVN6OEtwd0Zq?oc=5"
         },
         {
-          "outlet": "The Times of India",
+          "outlet": "Gulf News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQUFoyTTVBcmdqNnU4MF8wbWdDS1lvVHlHN2FCVURtNVVQX193TWhBc3RTclRxeVJyOXNIUTlnSWxGblhWbDRxZzI1clBXVXVvT3Ztd2ZRNXB5emhVMFJ6NXQ5amk5Q2hhQ0VSSEIzb29sYnRTU0dCQl9xc1F0QVJiS3FfS2IwVDZsbGEwUjJpak5LbVlpY3hnUTZFU21LMUFKNk5oUG1Fd3NFaFRfX0VHeEIwMktpLUoyQlJ0LXFIb0IxYjBSTUdNbUFWZ3RtZEtkd0R2S0h0aUlmM09vcllLLWNaZ3BCTEhweVNEQTgyTFVWbTlzUXI0QUZlQlFGVWVrVzFwZnM4ckphZnlTd1NhVjBFUUpHX3Y0N3BRUTBkOXJ0amRoWDlqTkRrOHhkZ9IBswJBVV95cUxQNnVOUVkwNDJ5OGdMWVlvbWlSaGlQWkpnb3NnclV3YVVwVmRub2lKalVfeWIwYk9BazY5N1lsVWhBeXAzZm5QZE44VXljY25qOXhaLVFrU2tLRzh6WTByRUp4VU92SmlkcE5nclk1Tkg5bXpnbWpRbGpJSHNYZ3lZbnZ0V3VUVW1OQ09DNTBFWWVJYVdxY1RVMnFqckVUZ0lldDhQZFp2WXRBQzdZNTBsUTBvYVNtWXdwTWdQSTZ3QXFRbk5TdDAtRUYzZzNtdVk3TkZqQ3ZRYUY0eWFYTzRKMDNuWVhGUUlPc0xLZ3dGMDE1ZEFSU0lZOEduRGRrcy1xZjV1bWFpZklDWkhvXzlTOEhfRml4ZjN2UnU1dGRHV0k2NkdxOXJvTTVMakxGUUJlcHBZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzZQVVNlREZCYnZWdWtpZXpHbEt2TElHLVpMX0J3dm1ZVlhuaEM5YUN5VkNjR080NVM4TmplYjJOZk9aR3ljT1YwRHpoekNiOTE0WVcwN3FfcjB5V3o5c054VHB0WGJXOEpBbl9VbEY1cXBXRktOb2pMR0lSRHZRT2VwSE5lOGRzLWRxOThURXkzY3M0S0gyOC16a1BTT29JUW0xSllQZG55OFB0NWxWZ3RReERsNDJtekdaUWRR?oc=5"
         },
         {
           "outlet": "Hindustan Times",
@@ -176,8 +241,35 @@
       "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by 6 outlets, including Gulf News and Moneycontrol.com.",
+      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by 6 outlets, including The Times of India and Moneycontrol.com.",
       "image": "images/bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "nhrc-seeks-report-from-darbhanga-dm-over-bihar-school-s-coll",
+      "headline": "NHRC seeks report from Darbhanga DM over Bihar school’s collapsing roof, safety of 191 students at risk | Education - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZU1kaG4xdG1DcGhtZXFnQ3p0Z0U2eHJ0cnRFeVdIQzVVY3hrRmVfVUEyVWc1ZzZQRWxqclhFeGVxbEM2S2R4ajJrWTRneEF2STJtNFIxYjJEeldzZDd6elk0TU9weHRxSV9OcTVDdEZYWDFibDBncFN1MDh4b1FKNEJZNUJaS1Z5SHl0OGpIXzczQno2ZFpyalZGV21mTGdlQUtTRnRSd2VRLTJGT2J2QmZPa2J1UFM2b3hKaEloeWx1OTdKcW8xNTgxQkZhaHU2NTN6Rmk0ZG9uWWJsejR6bHF5MTB3MFJtQnVZVG9XajlHRmt5S1U5UVN6bFYtUdIBgwJBVV95cUxQVmdCUHdqTXRkRjZoX3ZqOFFKczZXVkNCazhLdVl0ekFad3pDZDN3NUt1b002RmNKMkhsQ2tGeDFlR0pON2pVN2ZtN0NuRlRsNWphMWlmSjBKeXRySlJnVmFtVl9iNXdfR0xHeFhLRG04MVdKemMwRWNhSlZ5MmZUcHVTbFVvVG9qVDN0UkFURi1nX3liSzRycVZqLXoxbnRGRUhvb2E0eEhSNk5zbnEzU1M5NXpOSVR6QnVRT0lEci1DWVhDRzBZNjNBNl9VM3VEY2ZCOFhiWnozNVVtWlNpeDc0cFlaVXZZbG5zVlZ2ZlkzWUo4TWZ6djByWTMwaXExQ1Q4?oc=5"
+        },
+        {
+          "outlet": "Careers360",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc19aMTlUcTg5ZWV6V2hUaXBZQ0lqOXJqZUxuRWhHa25WSGZ0SU92SzFPTWFWR3phLXNXUVk4TEF3Tk00cm10YWJtcGxjSzgzRFFBYnhpVTJocFNIZno1MzNxaE8xNHNBaFM0d2lETm9wMVVlRUV6Z1RXNkIyVGI1X1hnbVBaSFJUNWJGMlF1M0VtQk44VndMcDNBRjkxbzJET3poRVFzQng4QmVfLVB0LThwUldXanJwTGM0SGxuSE45WS02RVhhOUFSVkdiS0Z3MVE3eNIB2gFBVV95cUxNcFJGakxKcUNsc1FEajJvbVZtbDFEeWItSEh6UmFRMG1RbGVIdHlEMERmTlYxS3dRZ01BQnRmQ2NuUGYtckJkamFIczhZTTZsQ1k2czhIZXh3dGJxeF9JY3c0RTR5NUxZS0MyQVRReXd2V1dmYUd0Yl9VT2VjR0xYNm1ZZUc5VjhDSWg4QjBFZE5IdW9odWZlV1FEQmo1WTc2Z3F1Unpaa2l4dTNXZDFQY1AxQ28wSVdYd3U2MmpHTnNFSFV3Ti1EQW9mdkZYOWU3WWFUa21pYk0xdw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "NHRC seeks report from Darbhanga DM over Bihar school’s collapsing roof, safety of 191 students at risk. An education-related story. Covered by Hindustan Times and Careers360.",
+      "image": "images/nhrc-seeks-report-from-darbhanga-dm-over-bihar-school-s-coll.jpg",
       "image_kind": "photo"
     },
     {
@@ -235,33 +327,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "nhrc-seeks-report-from-darbhanga-dm-over-bihar-school-s-coll",
-      "headline": "NHRC seeks report from Darbhanga DM over Bihar school’s collapsing roof, safety of 191 students at risk | Education - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "Careers360",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc19aMTlUcTg5ZWV6V2hUaXBZQ0lqOXJqZUxuRWhHa25WSGZ0SU92SzFPTWFWR3phLXNXUVk4TEF3Tk00cm10YWJtcGxjSzgzRFFBYnhpVTJocFNIZno1MzNxaE8xNHNBaFM0d2lETm9wMVVlRUV6Z1RXNkIyVGI1X1hnbVBaSFJUNWJGMlF1M0VtQk44VndMcDNBRjkxbzJET3poRVFzQng4QmVfLVB0LThwUldXanJwTGM0SGxuSE45WS02RVhhOUFSVkdiS0Z3MVE3eNIB2gFBVV95cUxNcFJGakxKcUNsc1FEajJvbVZtbDFEeWItSEh6UmFRMG1RbGVIdHlEMERmTlYxS3dRZ01BQnRmQ2NuUGYtckJkamFIczhZTTZsQ1k2czhIZXh3dGJxeF9JY3c0RTR5NUxZS0MyQVRReXd2V1dmYUd0Yl9VT2VjR0xYNm1ZZUc5VjhDSWg4QjBFZE5IdW9odWZlV1FEQmo1WTc2Z3F1Unpaa2l4dTNXZDFQY1AxQ28wSVdYd3U2MmpHTnNFSFV3Ti1EQW9mdkZYOWU3WWFUa21pYk0xdw?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZU1kaG4xdG1DcGhtZXFnQ3p0Z0U2eHJ0cnRFeVdIQzVVY3hrRmVfVUEyVWc1ZzZQRWxqclhFeGVxbEM2S2R4ajJrWTRneEF2STJtNFIxYjJEeldzZDd6elk0TU9weHRxSV9OcTVDdEZYWDFibDBncFN1MDh4b1FKNEJZNUJaS1Z5SHl0OGpIXzczQno2ZFpyalZGV21mTGdlQUtTRnRSd2VRLTJGT2J2QmZPa2J1UFM2b3hKaEloeWx1OTdKcW8xNTgxQkZhaHU2NTN6Rmk0ZG9uWWJsejR6bHF5MTB3MFJtQnVZVG9XajlHRmt5S1U5UVN6bFYtUdIBgwJBVV95cUxQVmdCUHdqTXRkRjZoX3ZqOFFKczZXVkNCazhLdVl0ekFad3pDZDN3NUt1b002RmNKMkhsQ2tGeDFlR0pON2pVN2ZtN0NuRlRsNWphMWlmSjBKeXRySlJnVmFtVl9iNXdfR0xHeFhLRG04MVdKemMwRWNhSlZ5MmZUcHVTbFVvVG9qVDN0UkFURi1nX3liSzRycVZqLXoxbnRGRUhvb2E0eEhSNk5zbnEzU1M5NXpOSVR6QnVRT0lEci1DWVhDRzBZNjNBNl9VM3VEY2ZCOFhiWnozNVVtWlNpeDc0cFlaVXZZbG5zVlZ2ZlkzWUo4TWZ6djByWTMwaXExQ1Q4?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "NHRC seeks report from Darbhanga DM over Bihar school’s collapsing roof, safety of 191 students at risk. An education-related story. Covered by Careers360 and Hindustan Times.",
-      "image": "images/nhrc-seeks-report-from-darbhanga-dm-over-bihar-school-s-coll.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "4-cjp-dainik-bhaskar",
       "headline": "बिहार से दिल्ली जाने वाली 4 ट्रेनें रद्द: तेजस राजधानी-संपूर्ण क्रांति एक्सप्रेस भी शामिल, CJP के प्रोटेस्ट... - Dainik Bhaskar",
       "summary": "",
@@ -316,17 +381,12 @@
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnZKZzZlMVVIb1VIYXFJN0xWMFdLdWdBdFJkUXBRRUgxcjVIN09RdS1FcUU4bEQxdGJtWXVkNG9ZYmV1Z3ptaTAyb1FjYkxaVUNVY2VXTTZ3Y0pQYTllSjFFS0xJXzR3QllEdzFNV0ZVODBTVjkxQjZndXFVVnhCR0czN2Z3TWxzWERRSGZGVldMMjlyOEJ3czVEVURNdlhQTENRdkU3eU1RdzlkOVpFZkk3NzB2dw?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOE1HaUFnNngwZ0tqZElrT3A5MUk4TUNFdnFfdTVJcVZ0dWFEMUtkNnBkcnZPY1Fxc1ZDYzhrdTNZakExcUQ0VU1Mb1puaFNfc3k5d2tZbGI4YllxbVJkeTZRb2F2TnF6MGEweVJKTWZsUUtNUktKWUhEd3NTTV9maExFVzRGSlFaYi1OX2JrUmhVXzJ2NWNITFJVUlRzV0s3SGdYTy1DQVQwejlZTlBNTFpGVUxzaXE5eXQ5QVJiSFZiSGtyT0Q3N0JlT3Z3RzNsZE10OGRBR1hJUWYtbGsxNnBmSW1EUkE3THNkMGpqdFBLZ3JZRFBzWlB4bnBrczliM0sxNXJR0gGLAkFVX3lxTE5mNWJod3hObG1oSzBacm5vVEhOd2hpRFhrQXJkREF3Ynh3XzBPVjRLQjh0cmUzS2RkUUU1QU9yTk1yTk9sa1c2MTRlLVdlRXZ4SkZKaVJUc3pHRXVVaDQzS0ZWTldNTWhPVWNoRFYtcjRPejZhQlViMDUzWVlaNkprakxzcGVPZU9WY0dxMUI2Y1JWTGNYaWtya1J5YTNJczJENmpmNkswUEFIdmJEbDZPUTMzZFo3MmdoNUluTXlVRUx0eFFad2hDVE1FQmY0a3dobDVqU2xIRmtLUDRLbUJmRzJvb0ppR2p0YjB0V3pLRGdWbk0tNUpVRDRqSUpUX1FnT1pfdTJ2dkx4cw?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना समेत 6 जिलों में तेज बारिश, 18 में अलर्ट: भोजपुर में बिजली गिरने से किसान की मौत; 466 गांव के 8 लाख लो... मौसम से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Jagran शामिल हैं।",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना समेत 6 जिलों में तेज बारिश, 18 में अलर्ट: भोजपुर में बिजली गिरने से किसान की मौत; 466 गांव के 8 लाख लो... मौसम से जुड़ी ख़बर। इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।",
       "image": "images/6-18-466-8-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -516,14 +576,14 @@
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYzk4amQtcmRLUURoMi1iblFBQzl2SFhMMjgybTU2TWYwalR4ZnVMdkRHODg0Q2wzdVFoUFMtc09vaE1KUm9lakg0R1ZFSElQeXRRQk5QcEJENWU2TTRrdFhjZHo4VnhaVjhSYVNwM203a2VZODFRWVFnNkpaWG1jZkxYWFNuTjQ2SzU2dUlTX0NIZHNxQnJTSWtPNi1TTldwM3dIZFBybV9oNDgxaUk4UDhLdEZtbGRWLUl0eEZsdWFJN0tXT19jRUdCVzc3WVZLUjlLOWppSE1iQW14anUwalhRSWlFejEzZkgtSURXRQ?oc=5"
         },
         {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON243SGp1cjdyRkYwckJJNGEwaXJpZjg1OG9TcktEM01Zamt4R0Nud2t2Y2ZvNVhKYktNVU5uQmtYM3hhTVBsRWJfbmp3TjVIc2JiZ0JoTjluNXNFR2tCSEdGMURRd2cwNHFkcm85eTMxa1pOTXZpWnhJZlFnYXpEclFyWVFBQ1E4QlFMbWk0X0xsYXlQRWFJY1RmX2pNd3plaTBDZFBieDRxTHVLQURv0gG0AUFVX3lxTE9FXzFTcmlJVUhrR19KSUZPMjQtYXQ0aEZSZ1BxNXVUbzI4anZUSU9aX0pqc1NVckVhMmRWUUY1NVFwZ0UtMEM5Tmp0VkRXOHFXT3NhTnRPVHItN3lQMktkczhSaUQwdnFFTjNWM0V3YmtMTDR6YWNEWUp4d1hQY1dtbE5kRWJ4MExTa2dFU3ZuNVpPcGl6U01EZE05cE9BZktBOHpKOW5FTnBUWUlqOG40eDBnWA?oc=5"
-        },
-        {
           "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMHZsSDdTZ0VQMHFhR2xVUUM3UVNXSy1TT1hNYjVjYVB3N1NJOU9CSzZlMnNOekhyNzNaSmZzekg4WVRGR2RibWNCZFpITVVhYUViMWpJNEJaNHBfbl9VMlV6b0Vsd1BwMnU4WkZCLUFLWXpqQ0NTTzBtOHJMdWNQMFl6Qmd0S1lyS0NYYnhXeWdLX096clJhc3V4TmU0UXREekd3aFZuWXppcldVX3h4c3ozaWdzbzhGdTk4cXVVellpYW54RmpkaUdxRQ?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON243SGp1cjdyRkYwckJJNGEwaXJpZjg1OG9TcktEM01Zamt4R0Nud2t2Y2ZvNVhKYktNVU5uQmtYM3hhTVBsRWJfbmp3TjVIc2JiZ0JoTjluNXNFR2tCSEdGMURRd2cwNHFkcm85eTMxa1pOTXZpWnhJZlFnYXpEclFyWVFBQ1E4QlFMbWk0X0xsYXlQRWFJY1RmX2pNd3plaTBDZFBieDRxTHVLQURv0gG0AUFVX3lxTE9FXzFTcmlJVUhrR19KSUZPMjQtYXQ0aEZSZ1BxNXVUbzI4anZUSU9aX0pqc1NVckVhMmRWUUY1NVFwZ0UtMEM5Tmp0VkRXOHFXT3NhTnRPVHItN3lQMktkczhSaUQwdnFFTjNWM0V3YmtMTDR6YWNEWUp4d1hQY1dtbE5kRWJ4MExTa2dFU3ZuNVpPcGl6U01EZE05cE9BZktBOHpKOW5FTnBUWUlqOG40eDBnWA?oc=5"
         },
         {
           "outlet": "ThePrint",
@@ -639,14 +699,14 @@
       ],
       "sources": [
         {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FlVHdRbTFjcThtejhpd0dTOUJXT2FvRUQwU0ZUWGdLcVZPQzZUWHpsWEZMZ0k0cVhhSWhBek9TUFZiaW1nMXFGSTZWQkFlc3hBdXpNM0EwdVVqYWZMZlFfb0d2M0tIeVBkMnhFYjlRd0RwTDRKRE82QWRaVmlJZEFBcFZ4NVRFNFF3cmJjQVFYbkNMWXJ5STd3bGwyVE1yTDN1WWhEbWs0MVlrVkYwU3RDTGg4NkRT0gHAAUFVX3lxTE00aVZlTHhQQnRkXy1KeUVrazdhVHhKVV9adExXNGMtRHppWUUzTlBFWC10T3JNOERjYWtGcklGX2JVbmN5Zi1lRkhZRmZOX1FXcnVkT2pCNGNMTUxpNmQ4MG41dkE2UXFNbDVJOEpVcURFX2szTTlkQ2ZJUS00VmtFai1iUGlKSG5WVGtUa3NtSjNBYmtOc2RVVGxkZWRxc3JmbXVhQXJnc1hsa05aSGtIMk1NVm90WmlYS0FIOS1SQw?oc=5"
-        },
-        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ2o0bVJCb05jSEhaNFFmQXEzUENFWWs0akNQckdkYnVpS05STGlPcVZRQzkwSzRVd01aZFRnWkh3SDRRODI5SHRJMFh2TElOSTkxQW1YVU9KNjBnV2QzVnotdUdBV29XeFNiVDNUNnZmOWZWVnhGcWpSdjhtM2xvVW04V01fa1JucEktM2NkWW1mTXpOT0MzblNvNTFXZWIxa09LOUJRbHFiUi1odHZXamNFWkMyME9YZ0JhQlhoWG9nWU9ZQkRGWmxDQnk2alhVazQwaDkza19qRm9nWlFfRDg2QjlxeVdZTkVtalRDOHHSAfYBQVVfeXFMTm56MVllQXIzUXBneWtFeEwyaG5uZVE4bDQwZ1FGdXRGSXF6anU5clBKdkNnTEZBb25qV0FzT1NNNWRzZW94ZkpTMVRKRnVTTE15NUdKWnFpMWFCM3FLR08zQ0VIcDNvbFhud3k2aTFjT1lZQTFOYWs0QVpwWDk5TXVTNTZGX1Z4SUR2SVZkd18zWHNUY2M4djA2bUNUeDlyTUN2eDFkMTBpeWhiR0E3dUZrMEFPSEltSjlpSXZGa3VBZkJIbzlCU3dHa2hmUkY0OVpGVWlUcjhodFNaX3U5a3lfV2NndlpwanBBdnE3R0huLVo3aGpn?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FlVHdRbTFjcThtejhpd0dTOUJXT2FvRUQwU0ZUWGdLcVZPQzZUWHpsWEZMZ0k0cVhhSWhBek9TUFZiaW1nMXFGSTZWQkFlc3hBdXpNM0EwdVVqYWZMZlFfb0d2M0tIeVBkMnhFYjlRd0RwTDRKRE82QWRaVmlJZEFBcFZ4NVRFNFF3cmJjQVFYbkNMWXJ5STd3bGwyVE1yTDN1WWhEbWs0MVlrVkYwU3RDTGg4NkRT0gHAAUFVX3lxTE00aVZlTHhQQnRkXy1KeUVrazdhVHhKVV9adExXNGMtRHppWUUzTlBFWC10T3JNOERjYWtGcklGX2JVbmN5Zi1lRkhZRmZOX1FXcnVkT2pCNGNMTUxpNmQ4MG41dkE2UXFNbDVJOEpVcURFX2szTTlkQ2ZJUS00VmtFai1iUGlKSG5WVGtUa3NtSjNBYmtOc2RVVGxkZWRxc3JmbXVhQXJnc1hsa05aSGtIMk1NVm90WmlYS0FIOS1SQw?oc=5"
         },
         {
           "outlet": "Hindustan Times",
@@ -657,12 +717,17 @@
           "outlet": "Moneycontrol.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb1E3ZnY2RFBNaFJLQ3VUQWl2LVBLUjJyWHZpSzRmNmRFOGVCdzcwc3hJY2tkQWdNeF9MNkh2dE14MHpvU3p0RHJhdHhFVEQ1bEl3QzQxNldwa0txZUthNmloY0JTR05nQWV0ektKOUh2R00takhzS3k4aUtDVlVNbVJVcklxXzFOQ2pOTnJOa0h4aF9qUzJBZ3VDQ2lNYnVhTVI3Z3dPdVFyQ1BtS1JybGc3WXNoTUctM05jbVZfMFhPREtFQUxMOEtkWmV1cVlRMkZBTUhSLXJWSVBoTWtKMmVRTWt3bllkT082dEJZNlhTQdIB9wFBVV95cUxPTjBZb1ZkTGhmYklvYWJQWTBrSTBUNTNvdVhEb3RhUnhXYzdzZUREOUNubmZBLU9CVlNIZlpRZlVjTmhMbUlWRk1kUElMYmh1aUlNdy1nZVFpYmlWbWFwUno2TXJMNnRfTlg2TTNESS12Ny1DTU5zSm8xWGJIUjF2SmVQYVVIRTNUZ1YxYUNwRE1jUE9pamRQRXd5eXkyc3VvMXhERm50ZlJQTUJMZ0Qwd3cwLW5INEw4TVNfTXJxemVRbUdYU1ZqbkZzVzE0d0poR2NyY0lxdlkzUTE4TTJfZGh6Z1pYR3pOajR5MUhZRUY5R3p2ajYw?oc=5"
+        },
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1JfckJMZmRBRmpmaVpQbm5sNzVIZjRVOU04aG5jd2UwUEt2TjhkVWVPV2tnZGFCREZRZ2RiRExXUHprTHk0Sl9NYTVOaUZRS19oUS1udWpVQXltd3YyWnR2NDZaZ1VxUUhpdmNZTlR5ZWRmLXN4RVBUZmdQcXpUbmx5VEtLT3IxbXc5QU1pWk05QVNWSE1jeUkyYzZrZXRXc2E0ZUZQU1RjSk9Gc1dMZE5UbDdqem8xcXpuZ0JsLXN0azdyYU9JaUZpaGxRZ2NWbmgzQtIB2gFBVV95cUxPUThiVEd4Uy1hX1lpemVBTFQtdHg4RkUxMlowSTRaMGpDWWJBclNBV0RkU2trU210X3FSSXE2MGVYdzdoakhYNDVGR2U1bWVCd2RwMjU1LWh3RFhQRXhfSGFKZWRYdm9pa1ZUNDF2M1c0VE90Z1dCRlpIbDBCRDlNQkNYVkNwYm9abE9wejlsSXpwaWpMSGhPYngxRW9zRTlRdEktWXM3UmZIcUVzLWVVM1lLUWpzZS1xUEUxelN6bHl1V08wNVFRenpMaXBVWkhJTW5EcVZFOWFPUQ?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Patna-Lucknow Indigo flight struck by lightning at 17,000 feet; aircraft nose damaged but 110 on board... A weather-related story. Covered by 4 outlets, including NDTV and India Today.",
+      "brief": "Patna-Lucknow Indigo flight struck by lightning at 17,000 feet; aircraft nose damaged but 110 on board... A weather-related story. Covered by 5 outlets, including India Today and NDTV.",
       "image": "images/patna-lucknow-indigo-flight-struck-by-lightning-at-17-000-fe.jpg",
       "image_kind": "photo"
     },
