@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10 02:35 UTC",
-  "generated_at_ist": "10 Oct 2026, 08:05 AM IST",
+  "generated_at": "2026-10-10 03:37 UTC",
+  "generated_at_ist": "10 Oct 2026, 09:07 AM IST",
   "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -14,6 +14,11 @@
       ],
       "sources": [
         {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa09qZkdoZ1lNU0dSYkRCX08yUnJlWnU0YWE5a2ZZcTU1RFowWXhPYl9YSXNaZENidTJzTVhRWnh5Q215cUhSMGZ4Uzg1dnYwdWt2NF8yUWFaLXdsVHkwNE9JeDdpeWQ3ZFFFRS15dlFpMVdUQ1NSYlpKRC1NMDRUbkoyeG5oXzFnSnBpWmdyM0JTWS1k?oc=5"
+        },
+        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
@@ -22,11 +27,6 @@
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2UtYTJCMUhpTkhRSjR3TmhiMTJ0WmlNUWlOekNlb2VMeVpKTkk2RkZ2eUNIRTJUS2k5b19GX05zTXJWVkFITjk1TU8yMHhpUkJ1bVdfaWF3WmJ6Uk0wRHRsRTFOaTJfbmczamJBNVM3YnBBWWJ2M2lsRmQ2cXA0UW45QlFTdHRHUDZlZmtMdHB0a1drTGNmYmNyUTk1R0QtTm9SalVMUGtKZVRSREI3NmhnODB0M01YV00xaHRVSVgxcnk5Y084bzBB0gHPAUFVX3lxTFBsNDVVUkxBM3M4aVgyLVM4dnVtZ3VFWFVjeWlrN3doMFRaWTAzRHJlb3BfTkx3cFJ1YTJDQkNWZ0luNENUUG5rVjBYVF9Yd3hyTnF1SnJ1aUc4NEVMYkZNanA4ZEJRVk5GdlFOMTNuX0kwM2JTdVNxYkt4el9oVTlWbzJWMzR3ZHBvQUk4bHlZTloxTFc5cG1vZURaN1pTSG83QTN3dmZhSXBObUdsSmgwZTAzNVpwaDUxd1JDMGFjSkZBM1hGbGtsVHJzRVJaMA?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa09qZkdoZ1lNU0dSYkRCX08yUnJlWnU0YWE5a2ZZcTU1RFowWXhPYl9YSXNaZENidTJzTVhRWnh5Q215cUhSMGZ4Uzg1dnYwdWt2NF8yUWFaLXdsVHkwNE9JeDdpeWQ3ZFFFRS15dlFpMVdUQ1NSYlpKRC1NMDRUbkoyeG5oXzFnSnBpWmdyM0JTWS1k?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -52,7 +52,7 @@
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना से प्रयागराज के लिए 11 अक्टूबर से चलेगी मेला स्पेशल मेमू ट्रेन, विंध्याचल में भी होगा ठहराव, कल से परिचालन। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
+      "brief": "पटना से प्रयागराज के लिए 11 अक्टूबर से चलेगी मेला स्पेशल मेमू ट्रेन, विंध्याचल में भी होगा ठहराव, कल से परिचालन। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Jagran शामिल हैं।",
       "image": "images/11-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
@@ -382,70 +382,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "dainik-bhaskar",
-      "headline": "इंडिगो फ्लाइट पर बिजली गिरी, लखनऊ में इमरजेंसी लैंडिंग: विमान का अगला हिस्सा क्षतिग्रस्त; पटना से अहमदाबाद ... - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHNmLWNYUHhVNE40bVpaSEVLZFJYT1NrekJTck9WWERpcE9mMHNkbHY3d0RzVkVueVVxVUlqODEtOWhBV1JzQXJseWFnT3ZZMWVLU1VZekdNSFYyUXR3Wlh5ZW9Ed2s1YUlUU3g5S1hOVm5OWDBScEc1NVFGWERKaHNYLWlHbzJ3dFBGbmtBLV9OV2dJZGc?oc=5"
-        },
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFVORDNqT1ZNSXZhZTBWeko0cmlJWUNfeC1veFFLNzUwR29GSTZacWg4VXVhVnpqeHlRSTJDMm9IWTFZM2phSFpJQXZSMDY1SWxyeGNqelpfTk9ZZE9vamJaNjQ5b3RuOTItLTBKRERMMjVmR3hVZWpJN2diZGFzTXZ2dzBlMmEtNmJSelUxcjQ1YV9rVUVIdV9PSWV3LVU1Y2pkSHlZTVdpeFp2bTBTYmtabDVhSzhxRFNDUTQ4Mjkwa1FCRmN5dDlnb9IB0AFBVV95cUxQZVZza3poSmw2cGdSQzlnZWZDb3hlU1REZFFzaFh0TGwwQWowWHc1dkMyTWZ4OWl2dGRzU2M4dTlPV1BJcWNTVXUyUTltWHBWT0VzR3FOd3dvcWUzTzBnQ1QxTWhLM09iLU5NQnM0RFl6dWlHdTgzY0Y0X0pVRU5DczAzck9nbnJOdDgtbm1pcUhjOWR4dFJqbEU3RjBad0pFVFNVUmpBc3pYcTlNUVI4WFI0cXh3Wm1sb3RTak80YXl1STZkbDlqXzJaNHFXWUNC?oc=5"
-        },
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWZVU3kwRDBFeVN1UnhZUlYzWFdaLU1wUUY1Z2NlcnFsM2tJcnotZ3Z3VDB5SjFuYmNyVVJkTzc4QjlUYndLZ0lzWW1TeDVLOFEyellPUmRQYVc1VXNLbDJHUzVjQjRkOVlUVi0zWnZ3eW9QNldPSnJrZExBaE1BM2xwUzFlMWdwWjctbWY2RklGOEJsQ01fQkJ0Z1NvRWdCQVFwd1VyTjJaSUg4c0lQa2UteVNaeXRhQktwWENKTk41ZFN1dDlGcE9BZWVRSlFGa21ubXpkR29pRUtkWGfSAeMBQVVfeXFMT2R1RzJtV2Jwa1FaSDVOS0ctWGNCVDdBbmJocGxnbk1NRzdmQXQ2RTJyMW5ydzRpbzZsRzRHYzhyd0d5VS1iODc2YWREUkxaaXdiWURpek1UZUxTdE9oX084VF96NUlIVTlrX21SMlBvS3ZMcVZCbzZBZTd0ZlVCdkpWRUNodDZKanJNRE9nR252cWJHWU9WdW9DNHdJWDduaXJpbmJRbXZqVVBrZjlGZ1ltOWxuY2Y0OXdPMW1WRTJ1V09RZlZBQV85Vk5pYmlRSWZaVVBrS1g4NnZqTHg5QTNrVG8?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWnkxVWkxRmlRVE1zNGR0c0xBRVJxdzhZQWZ2MmF4UXZLb21DSENQazZaTTJYVlZ4RVNtQVhxT1RGU2ZDT2ZURW5Za0FQSjI5NHdxQTNWMVh2TjdvOHpCc0R3eVljOHhZaUcxd2hpSHBRM21KM001QU9tQU85Rk95dy1aTmdIZ1BLclNYenRpdzdKYnZta29QUU90NzZwY1hWZkJVSHJiekZZb3NjaWVxQWVzejBwSjNFTklxaW5udkN0LVUwSzRTUVpRQUlXRlNmV25DT2YydGlHX1BmN0NDQ1Nka9IB6AFBVV95cUxQRWp6MjNlZ3dDSWpEVUlobGFraTViR2hTcXhvcjJfZVdsSFktWmpZM200TTlrZmY2ejlsVlMyZkJVWDhzclNYZDVUUjVrLV9VU19VaFV4QUh0WV9lN1dKWjd4Vl96Mlg1cFRYQldRSmYtQl9XTjhmT0hOMXpaa3dYYWVtdkR6aXNLSWlOYkF2Zmt5eGhQLWJLWXFjX1lyN3cxRllieWVnbGVtMklVNEpWWmxVX2VqcGJTX0VlWmpPbEZqRWFEZktVRndxNFlJa3lfVHZqOXVtanBXdzZzODlVOERiT1ZJdlhZ?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "इंडिगो फ्लाइट पर बिजली गिरी, लखनऊ में इमरजेंसी लैंडिंग: विमान का अगला हिस्सा क्षतिग्रस्त; पटना से अहमदाबाद ... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें NDTV India और Aaj Tak शामिल हैं।",
-      "image": "images/dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "20-jagran",
-      "headline": "पटना में पान की दुकान पर 20 हजार घूस लेते क्लर्क गिरफ्तार, निगरानी विभाग का बड़ा एक्शन - Jagran",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEdESm1VU3BYYjRLdjk5Y2JzUXN0TDZrUkppekNxb2tpMF9CZkE3NDVPZ1cxbU9UbWVzSU1QMXJGa0txUVgxeHNhR01oSllrQmx1VnFHdGJ6QThJX0J3Z3FHaG02dWJFbFgtUnMwcUFrOE9IeUZCNjFveEZqUmt2Y3EtM1lsVmc3R3A2U0U2MmxlNmdCNEttVjFCR1BZNGpONzJRSG5WX2hjcXEwQ0plVVo0OWNud0JhT0pkdEp2cUpjak5wczJV0gHMAUFVX3lxTE5rSHBvNXBRNUxZdE9uUllPSjQzRXE0bEFPQUYwVlhSVHhGZ0d3Ymg1cVZNcTczMGJ3dnMwZXZyX2NSRWpGZ0dSUEZ5azhaVGFuMmpxQkdENXFEN0ZrV2k2YjRvanFNcEU2aDJ2MU5hcHBvWHh1emFFMjVHNVBvdUJwUE91akFfenJJRUxRRDhhZDdlYmxuRmlaRGsxTkhBNDNpcV9kMFN6LURianM4bURNRFN3b01ZR2tFMFhySEp1ZERtRmZHUUo2dVFvYg?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2U5dUhQVlZ0MWJVNldKR2xhU19Xdm5hUUE2elc2UXdLMDRfMlJjeTUzTkZaMjFibXczbWM4U1BHeHM5aEJYVXJRS0FtcW1LYVZPSEhtb3FOMnNwYllwalFSaDdJX2xWVXM5YjRkMUZLLTNSNEVpeTV6VVNaXzBSaWEzMGd4NjRLdUZtTGc1bjdTaGxfamgxVlNyYVdiekF2dDdONVlScFFwdXJfQm5DcVkwVQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में पान की दुकान पर 20 हजार घूस लेते क्लर्क गिरफ्तार, निगरानी विभाग का बड़ा एक्शन। इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।",
-      "image": "images/20-jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "4-cjp-dainik-bhaskar",
       "headline": "बिहार से दिल्ली जाने वाली 4 ट्रेनें रद्द: तेजस राजधानी-संपूर्ण क्रांति एक्सप्रेस भी शामिल, CJP के प्रोटेस्ट... - Dainik Bhaskar",
       "summary": "",
@@ -480,6 +416,65 @@
       "genuineness_label": "Verified",
       "brief": "बिहार से दिल्ली जाने वाली 4 ट्रेनें रद्द: तेजस राजधानी-संपूर्ण क्रांति एक्सप्रेस भी शामिल, CJP के प्रोटेस्ट... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और News18 Hindi शामिल हैं।",
       "image": "images/4-cjp-dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "20-jagran",
+      "headline": "पटना में पान की दुकान पर 20 हजार घूस लेते क्लर्क गिरफ्तार, निगरानी विभाग का बड़ा एक्शन - Jagran",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEdESm1VU3BYYjRLdjk5Y2JzUXN0TDZrUkppekNxb2tpMF9CZkE3NDVPZ1cxbU9UbWVzSU1QMXJGa0txUVgxeHNhR01oSllrQmx1VnFHdGJ6QThJX0J3Z3FHaG02dWJFbFgtUnMwcUFrOE9IeUZCNjFveEZqUmt2Y3EtM1lsVmc3R3A2U0U2MmxlNmdCNEttVjFCR1BZNGpONzJRSG5WX2hjcXEwQ0plVVo0OWNud0JhT0pkdEp2cUpjak5wczJV0gHMAUFVX3lxTE5rSHBvNXBRNUxZdE9uUllPSjQzRXE0bEFPQUYwVlhSVHhGZ0d3Ymg1cVZNcTczMGJ3dnMwZXZyX2NSRWpGZ0dSUEZ5azhaVGFuMmpxQkdENXFEN0ZrV2k2YjRvanFNcEU2aDJ2MU5hcHBvWHh1emFFMjVHNVBvdUJwUE91akFfenJJRUxRRDhhZDdlYmxuRmlaRGsxTkhBNDNpcV9kMFN6LURianM4bURNRFN3b01ZR2tFMFhySEp1ZERtRmZHUUo2dVFvYg?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2U5dUhQVlZ0MWJVNldKR2xhU19Xdm5hUUE2elc2UXdLMDRfMlJjeTUzTkZaMjFibXczbWM4U1BHeHM5aEJYVXJRS0FtcW1LYVZPSEhtb3FOMnNwYllwalFSaDdJX2xWVXM5YjRkMUZLLTNSNEVpeTV6VVNaXzBSaWEzMGd4NjRLdUZtTGc1bjdTaGxfamgxVlNyYVdiekF2dDdONVlScFFwdXJfQm5DcVkwVQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में पान की दुकान पर 20 हजार घूस लेते क्लर्क गिरफ्तार, निगरानी विभाग का बड़ा एक्शन। इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/20-jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "dainik-bhaskar",
+      "headline": "इंडिगो फ्लाइट पर बिजली गिरी, लखनऊ में इमरजेंसी लैंडिंग: विमान का अगला हिस्सा क्षतिग्रस्त; पटना से अहमदाबाद ... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Aaj Tak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFVORDNqT1ZNSXZhZTBWeko0cmlJWUNfeC1veFFLNzUwR29GSTZacWg4VXVhVnpqeHlRSTJDMm9IWTFZM2phSFpJQXZSMDY1SWxyeGNqelpfTk9ZZE9vamJaNjQ5b3RuOTItLTBKRERMMjVmR3hVZWpJN2diZGFzTXZ2dzBlMmEtNmJSelUxcjQ1YV9rVUVIdV9PSWV3LVU1Y2pkSHlZTVdpeFp2bTBTYmtabDVhSzhxRFNDUTQ4Mjkwa1FCRmN5dDlnb9IB0AFBVV95cUxQZVZza3poSmw2cGdSQzlnZWZDb3hlU1REZFFzaFh0TGwwQWowWHc1dkMyTWZ4OWl2dGRzU2M4dTlPV1BJcWNTVXUyUTltWHBWT0VzR3FOd3dvcWUzTzBnQ1QxTWhLM09iLU5NQnM0RFl6dWlHdTgzY0Y0X0pVRU5DczAzck9nbnJOdDgtbm1pcUhjOWR4dFJqbEU3RjBad0pFVFNVUmpBc3pYcTlNUVI4WFI0cXh3Wm1sb3RTak80YXl1STZkbDlqXzJaNHFXWUNC?oc=5"
+        },
+        {
+          "outlet": "Aaj Tak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWZVU3kwRDBFeVN1UnhZUlYzWFdaLU1wUUY1Z2NlcnFsM2tJcnotZ3Z3VDB5SjFuYmNyVVJkTzc4QjlUYndLZ0lzWW1TeDVLOFEyellPUmRQYVc1VXNLbDJHUzVjQjRkOVlUVi0zWnZ3eW9QNldPSnJrZExBaE1BM2xwUzFlMWdwWjctbWY2RklGOEJsQ01fQkJ0Z1NvRWdCQVFwd1VyTjJaSUg4c0lQa2UteVNaeXRhQktwWENKTk41ZFN1dDlGcE9BZWVRSlFGa21ubXpkR29pRUtkWGfSAeMBQVVfeXFMT2R1RzJtV2Jwa1FaSDVOS0ctWGNCVDdBbmJocGxnbk1NRzdmQXQ2RTJyMW5ydzRpbzZsRzRHYzhyd0d5VS1iODc2YWREUkxaaXdiWURpek1UZUxTdE9oX084VF96NUlIVTlrX21SMlBvS3ZMcVZCbzZBZTd0ZlVCdkpWRUNodDZKanJNRE9nR252cWJHWU9WdW9DNHdJWDduaXJpbmJRbXZqVVBrZjlGZ1ltOWxuY2Y0OXdPMW1WRTJ1V09RZlZBQV85Vk5pYmlRSWZaVVBrS1g4NnZqTHg5QTNrVG8?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWnkxVWkxRmlRVE1zNGR0c0xBRVJxdzhZQWZ2MmF4UXZLb21DSENQazZaTTJYVlZ4RVNtQVhxT1RGU2ZDT2ZURW5Za0FQSjI5NHdxQTNWMVh2TjdvOHpCc0R3eVljOHhZaUcxd2hpSHBRM21KM001QU9tQU85Rk95dy1aTmdIZ1BLclNYenRpdzdKYnZta29QUU90NzZwY1hWZkJVSHJiekZZb3NjaWVxQWVzejBwSjNFTklxaW5udkN0LVUwSzRTUVpRQUlXRlNmV25DT2YydGlHX1BmN0NDQ1Nka9IB6AFBVV95cUxQRWp6MjNlZ3dDSWpEVUlobGFraTViR2hTcXhvcjJfZVdsSFktWmpZM200TTlrZmY2ejlsVlMyZkJVWDhzclNYZDVUUjVrLV9VU19VaFV4QUh0WV9lN1dKWjd4Vl96Mlg1cFRYQldRSmYtQl9XTjhmT0hOMXpaa3dYYWVtdkR6aXNLSWlOYkF2Zmt5eGhQLWJLWXFjX1lyN3cxRllieWVnbGVtMklVNEpWWmxVX2VqcGJTX0VlWmpPbEZqRWFEZktVRndxNFlJa3lfVHZqOXVtanBXdzZzODlVOERiT1ZJdlhZ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "इंडिगो फ्लाइट पर बिजली गिरी, लखनऊ में इमरजेंसी लैंडिंग: विमान का अगला हिस्सा क्षतिग्रस्त; पटना से अहमदाबाद ... इसे Aaj Tak और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
