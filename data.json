@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10 01:54 UTC",
-  "generated_at_ist": "10 Oct 2026, 07:24 AM IST",
-  "story_count": 54,
+  "generated_at": "2026-10-10 02:35 UTC",
+  "generated_at_ist": "10 Oct 2026, 08:05 AM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -14,14 +14,19 @@
       ],
       "sources": [
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa09qZkdoZ1lNU0dSYkRCX08yUnJlWnU0YWE5a2ZZcTU1RFowWXhPYl9YSXNaZENidTJzTVhRWnh5Q215cUhSMGZ4Uzg1dnYwdWt2NF8yUWFaLXdsVHkwNE9JeDdpeWQ3ZFFFRS15dlFpMVdUQ1NSYlpKRC1NMDRUbkoyeG5oXzFnSnBpWmdyM0JTWS1k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
         },
         {
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2UtYTJCMUhpTkhRSjR3TmhiMTJ0WmlNUWlOekNlb2VMeVpKTkk2RkZ2eUNIRTJUS2k5b19GX05zTXJWVkFITjk1TU8yMHhpUkJ1bVdfaWF3WmJ6Uk0wRHRsRTFOaTJfbmczamJBNVM3YnBBWWJ2M2lsRmQ2cXA0UW45QlFTdHRHUDZlZmtMdHB0a1drTGNmYmNyUTk1R0QtTm9SalVMUGtKZVRSREI3NmhnODB0M01YV00xaHRVSVgxcnk5Y084bzBB0gHPAUFVX3lxTFBsNDVVUkxBM3M4aVgyLVM4dnVtZ3VFWFVjeWlrN3doMFRaWTAzRHJlb3BfTkx3cFJ1YTJDQkNWZ0luNENUUG5rVjBYVF9Yd3hyTnF1SnJ1aUc4NEVMYkZNanA4ZEJRVk5GdlFOMTNuX0kwM2JTdVNxYkt4el9oVTlWbzJWMzR3ZHBvQUk4bHlZTloxTFc5cG1vZURaN1pTSG83QTN3dmZhSXBObUdsSmgwZTAzNVpwaDUxd1JDMGFjSkZBM1hGbGtsVHJzRVJaMA?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa09qZkdoZ1lNU0dSYkRCX08yUnJlWnU0YWE5a2ZZcTU1RFowWXhPYl9YSXNaZENidTJzTVhRWnh5Q215cUhSMGZ4Uzg1dnYwdWt2NF8yUWFaLXdsVHkwNE9JeDdpeWQ3ZFFFRS15dlFpMVdUQ1NSYlpKRC1NMDRUbkoyeG5oXzFnSnBpWmdyM0JTWS1k?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -47,8 +52,40 @@
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना से प्रयागराज के लिए 11 अक्टूबर से चलेगी मेला स्पेशल मेमू ट्रेन, विंध्याचल में भी होगा ठहराव, कल से परिचालन। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Hindustan शामिल हैं।",
+      "brief": "पटना से प्रयागराज के लिए 11 अक्टूबर से चलेगी मेला स्पेशल मेमू ट्रेन, विंध्याचल में भी होगा ठहराव, कल से परिचालन। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
       "image": "images/11-prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "1-45-2-dainik-bhaskar",
+      "headline": "पटना- ऑनलाइन गेम में ₹1.45 लाख हारा दसवीं का छात्र: खुद के अपहरण की रची साजिश, पिता से मांगी 2 लाख की फिरौत... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-10",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU15N2FleGtLQTNmQlZ5Q1ZDdmg0X0JxdDBuTXdIa3lRQXU1UDNpRzNsWGtndEQtRjRxZG1FdjI4ZXNzbGk3cFJDSlVCS1lIQjROTVlTRFpORmV1QktYSEFzNmNRbG4yOEk2eFpsb1lYcVlmanh4YmJrUGRKM3g3eUttNmg2bXJfYzVPWVRaY1dLZldCTnFZUFIxLWptWm5vdTI3SnEzYXZSQTFQUENTOEZpaWxVckd1QlRSaEp3OTAtYWJpdmFiOHZB0gHPAUFVX3lxTE13dUVUT3hkQURqLVJhSzBhbGIxNUd5VVNGZHEzX2NpVUcwenpYLWdlUEljODFUQkRtd19VeV9lcXdBRDMzYi1ibDFFcHRLM0tTcjd6OWtSV0lIRERDNEI2Y05XQkdYc1F0MmZTN1lNYkNZbEoyaW1mZjBkTV9nZVd6ZmQ5WmdqeVpndG82d0xKZHp0dFc1a2pTWU90bUwwdGo4clg3T3JEcWhJc1c2MkptelJ6b3RjZzV6ajd0cWZNMTAwLTZVMVNFdE82X3Y4WQ?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFpMZmJVSjdFb3BIY21uVDZVRE5hankza0ZodTJCQ1JKel9uWUdIWElxcnZmTVBTTE93YXVjWGtxcnFwSTRrOTlnNDBTbVF2b3kyZHhhdmVZT3Y2WXNkTFZWVGdpM1NzV0otb3Bta0c2SVZSay1uX1U1SDlQcEw2eWJ3OXIycWI2RElBanBlVWp2dE9tNjVkM1Q3MW9lR08yWFo2SGRNSnF1dw?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUJSaFl4eE4tak5KTW5vRjBHS0laOTVTYU04eHVKYlpyZXZSa2FlVVdGSHEwaC1ZaDQwLU45ZXF5R3oxWGZ2LTY3MGtiempQQ3RsaU1neHFSS0g5MC1XVk5JMTFpblpaWEpwRndneEtSX2RaSlZiV1R6VGJCWHZ0RE4zMGZGdzM2TzdpNjVEdThRelhYTEtSY1NOS2lNM05Nc1JzcXFYZnNzNmYzTDI2NmJ0UDRRcUlmU2pR0gHAAUFVX3lxTE1GQVJvcmRSaUMyNHhrQUE1R0ZKa2FVZDRuemh6czNQR0drNmFKZE01SzItM3doRkJ6bU1fREVaZzJta09HanUtM1l4TDNIQTBlbVh4WWxwVlZOY1FmVWkzcG5KMGtDUExFUVp1XzRnT2xhdDNSa3NmelBOd0plTFBaZFBXU0lXMkIwcHRJSURsdG1COXdQbHNKUi1sRmFoLVQ5ZGViZHc4T1lZZUNzN0FSdnVDS085SFc3MENhQk5JdQ?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना- ऑनलाइन गेम में ₹1.45 लाख हारा दसवीं का छात्र: खुद के अपहरण की रची साजिश, पिता से मांगी 2 लाख की फिरौत... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Jagran शामिल हैं।",
+      "image": "images/1-45-2-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -162,6 +199,11 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQktqV1kzUHp0OFdmalpjeklPVFJ4MDlnT2JrWmRsZFMxUEdLZ21Xa0Vic1RlT1FZU3djTWRfU2xzSkFpVjRTcC1ZS1BTYXg3LTdTWFhEQTQ5bDRkTUYzOEJxSE9HS1plbWFpQlZldmVLSkpnQkZlX3ZBdWVvZ2ROd2pCWGhVVnN1MWhqenhtcw?oc=5"
         },
         {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMlVxT0NiWGN1Qnd4bGtnb2I4TmgxWnRvMkMtZXhBa29ENmlUNEljWFVWWkItWlZnRmI2WTZuQkl0aW9uNk9Fbk0xcEVPeWIxenpoWXhYemt1VUVHWk5ybllBRUlfOWtjQkpFVnlUMXVLU29YWlhWd3RseTdNVU0zV2tTdDNSX2Q0NXdEMFc0M1QtcThfVVlmSFBIeExwa21idUVDRzd5MG95Q28wLW5TTUZURFRReDZiY1VqWi1zdHh1Z9IBxwFBVV95cUxQTU90aUQtWHZLcGlxVy1UdHFEZE0zdzNXX3ZMYzA1YV8wOGV1dnUwZTZUOGVkc3lyVWJKY0lLVkNwV2hIYk1qTHZKM3lDd3hvaWZ6RHpsSlNFcGtMdXc5blA5SndHYWhYODNTVDVoWm50X2dmR1JOdnFxdEMtR3JfcHVPNmdkTXpMbUhZV2xjNjN3amh5YkhpQ0RqMzcxMWJ3WHRQRGpDTVM1cTl5bF8wZ3ZZN0xkTHkwMm1NZF9sSWhwSlNheDBr?oc=5"
+        },
+        {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmpISmpmWGYzNDVDelBLWjVKWWZLVG9HejJXQTBFamxmRmNhLTFGcUpyRXJ0bTlXWVQ1dEV4bzlMaE0zMTVTZkJXY0psMVJPRkw4NkU4Z0xvRmNtOWZQTkI2MHh6TEVRN0pmemlWaHlJNmozRmMxNEFkYTJ6N094dmlMZUpDbkkxdFFoMEVSVkt3N3l0RlpSMDVxaVVUS0lmdHVUdFBPeG_SAa4BQVVfeXFMTTFtS25ZQzc1U2lTYmVuUW55V2M5RzBxdEpaRmZYTEZMNkhmYXAyN1V1aDY1S1dpOWptTWowREdQWVdsMjNHUDZfRnZrTHkxQWlTY3Nodm5CSjdfVjRwWkJpejhhZURQM0puT3U2d2FWUmpxTGUzRVFzdGFYU3BjTmhTcENQQk5NQ2pWM1QtTkpUdHNiTmMxVnNOejBjQlNKbUxCazhtRG9fVTNvMUl3?oc=5"
@@ -177,10 +219,10 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUU0bVpIbzFWU2ZLWFRfNWxENXVuMFE5LThibmtZQlFMd1NRN1ZOMm1fclc1Yl80SDBwaFRKMWZUWXBLNUtqVjJuVVB0bnV0VkNINjZJSzgwOExnNVpxRmQ4dUN3elI4X0YxeU9MaVk4VnltZjhQSEoxNm80Qkl0SWVpQjNwamNNQTVEaE5DUXJqMF9WMEctSGJOLTZxWjBNSVpmcDlESHdnZFJZWkFtQ0w4YzkyY09BZldrUHBtd1k0SVBaVVVr0gHMAUFVX3lxTFBwdUQzbTd6Sy00bFlXcThZMjZfaFBaUmZ4b25zWUJLVFE2TTVqMk1RTlNNQzVUZTljZUtTdXNtV3FvRkYxQVZmWnVtdGhteGstTHpXRERpVW9oc2dxYkJ5VDBOY3pyWDFhNXBNbU56NjFGREh0Nnh1T2NNMy1vd1NvZ2lOZTdDSVMtUDNLU3BiZFlKT2tUeWxFczRTNUdmMURVajVKVFItTUFDTU1NNnBGeU5lU054U1UtRE5WdUdoZkVPN01SZ1BkeTBTVg?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises. A crime-related story. Covered by 3 outlets, including The Times of India and Hindustan Times.",
+      "brief": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises. A crime-related story. Covered by 4 outlets, including The Times of India and Hindustan Times.",
       "image": "images/bihar-eou-recovers-52-lakh-cash-35-lakh-ornaments-from-execu.jpg",
       "image_kind": "photo"
     },
@@ -340,33 +382,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-weatther-update-18-jagran",
-      "headline": "Bihar Weatther Update: बिहार में मानसून विदाई से पहले बदला मौसम, पटना समेत 18 जिलों में वज्रपात-बारिश का अलर्ट - Jagran",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnZKZzZlMVVIb1VIYXFJN0xWMFdLdWdBdFJkUXBRRUgxcjVIN09RdS1FcUU4bEQxdGJtWXVkNG9ZYmV1Z3ptaTAyb1FjYkxaVUNVY2VXTTZ3Y0pQYTllSjFFS0xJXzR3QllEdzFNV0ZVODBTVjkxQjZndXFVVnhCR0czN2Z3TWxzWERRSGZGVldMMjlyOEJ3czVEVURNdlhQTENRdkU3eU1RdzlkOVpFZkk3NzB2dw?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOE1HaUFnNngwZ0tqZElrT3A5MUk4TUNFdnFfdTVJcVZ0dWFEMUtkNnBkcnZPY1Fxc1ZDYzhrdTNZakExcUQ0VU1Mb1puaFNfc3k5d2tZbGI4YllxbVJkeTZRb2F2TnF6MGEweVJKTWZsUUtNUktKWUhEd3NTTV9maExFVzRGSlFaYi1OX2JrUmhVXzJ2NWNITFJVUlRzV0s3SGdYTy1DQVQwejlZTlBNTFpGVUxzaXE5eXQ5QVJiSFZiSGtyT0Q3N0JlT3Z3RzNsZE10OGRBR1hJUWYtbGsxNnBmSW1EUkE3THNkMGpqdFBLZ3JZRFBzWlB4bnBrczliM0sxNXJR0gGLAkFVX3lxTE5mNWJod3hObG1oSzBacm5vVEhOd2hpRFhrQXJkREF3Ynh3XzBPVjRLQjh0cmUzS2RkUUU1QU9yTk1yTk9sa1c2MTRlLVdlRXZ4SkZKaVJUc3pHRXVVaDQzS0ZWTldNTWhPVWNoRFYtcjRPejZhQlViMDUzWVlaNkprakxzcGVPZU9WY0dxMUI2Y1JWTGNYaWtya1J5YTNJczJENmpmNkswUEFIdmJEbDZPUTMzZFo3MmdoNUluTXlVRUx0eFFad2hDVE1FQmY0a3dobDVqU2xIRmtLUDRLbUJmRzJvb0ppR2p0YjB0V3pLRGdWbk0tNUpVRDRqSUpUX1FnT1pfdTJ2dkx4cw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Weatther Update: बिहार में मानसून विदाई से पहले बदला मौसम, पटना समेत 18 जिलों में वज्रपात-बारिश का अलर्ट। इसे Jagran और News18 Hindi ने रिपोर्ट किया है।",
-      "image": "images/bihar-weatther-update-18-jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "dainik-bhaskar",
       "headline": "इंडिगो फ्लाइट पर बिजली गिरी, लखनऊ में इमरजेंसी लैंडिंग: विमान का अगला हिस्सा क्षतिग्रस्त; पटना से अहमदाबाद ... - Dainik Bhaskar",
       "summary": "",
@@ -401,33 +416,6 @@
       "genuineness_label": "Verified",
       "brief": "इंडिगो फ्लाइट पर बिजली गिरी, लखनऊ में इमरजेंसी लैंडिंग: विमान का अगला हिस्सा क्षतिग्रस्त; पटना से अहमदाबाद ... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें NDTV India और Aaj Tak शामिल हैं।",
       "image": "images/dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "1-45-2-dainik-bhaskar",
-      "headline": "पटना- ऑनलाइन गेम में ₹1.45 लाख हारा दसवीं का छात्र: खुद के अपहरण की रची साजिश, पिता से मांगी 2 लाख की फिरौत... - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU15N2FleGtLQTNmQlZ5Q1ZDdmg0X0JxdDBuTXdIa3lRQXU1UDNpRzNsWGtndEQtRjRxZG1FdjI4ZXNzbGk3cFJDSlVCS1lIQjROTVlTRFpORmV1QktYSEFzNmNRbG4yOEk2eFpsb1lYcVlmanh4YmJrUGRKM3g3eUttNmg2bXJfYzVPWVRaY1dLZldCTnFZUFIxLWptWm5vdTI3SnEzYXZSQTFQUENTOEZpaWxVckd1QlRSaEp3OTAtYWJpdmFiOHZB0gHPAUFVX3lxTE13dUVUT3hkQURqLVJhSzBhbGIxNUd5VVNGZHEzX2NpVUcwenpYLWdlUEljODFUQkRtd19VeV9lcXdBRDMzYi1ibDFFcHRLM0tTcjd6OWtSV0lIRERDNEI2Y05XQkdYc1F0MmZTN1lNYkNZbEoyaW1mZjBkTV9nZVd6ZmQ5WmdqeVpndG82d0xKZHp0dFc1a2pTWU90bUwwdGo4clg3T3JEcWhJc1c2MkptelJ6b3RjZzV6ajd0cWZNMTAwLTZVMVNFdE82X3Y4WQ?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFpMZmJVSjdFb3BIY21uVDZVRE5hankza0ZodTJCQ1JKel9uWUdIWElxcnZmTVBTTE93YXVjWGtxcnFwSTRrOTlnNDBTbVF2b3kyZHhhdmVZT3Y2WXNkTFZWVGdpM1NzV0otb3Bta0c2SVZSay1uX1U1SDlQcEw2eWJ3OXIycWI2RElBanBlVWp2dE9tNjVkM1Q3MW9lR08yWFo2SGRNSnF1dw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना- ऑनलाइन गेम में ₹1.45 लाख हारा दसवीं का छात्र: खुद के अपहरण की रची साजिश, पिता से मांगी 2 लाख की फिरौत... इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।",
-      "image": "images/1-45-2-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -472,6 +460,11 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUG5yYVBBdThXUmdNMEdxMmJiQzlseHpJZ0hmeWVYUFpNUWl6R3hPd05OQlk3Q3pzUGJaT2xia1VvXzF3NXloUUZoMGZoQjIzQ19mU29Gb24zQUJBZVJ3UTdhbEFPTm5sMU1IQWpKQVp2YmdSYWJNMjl1Yl9wSmtsRkhCcEVlVnVnbnlSZk5IZkJBR3hIQlY4THBNN293Y2N6VC1NMUNnQzB4VXl1SC1hbDRkTDE2T0JtQlNzZmZ1YmFtcDM4bzNXekQ4Tk5GUW95SFpTWdIB2gFBVV95cUxNbTVsOEs2STE0NkhWQTVDVUMzU0pyWENWb3ZaX3B1Zi01Qm9yVWh1ZnMyRGFhY2Y5LVlWVjRSM3FRM0ZQU1FpYkM0SU5xcExTRzZLYklZRWhsRjRmdGVXUnc4WDVURy13MmdwWHE4aTY0VVlJLUtDeXVKcXBjS2o2WlI5RjNSUzgyMmlfTjAxSDB4M1dhN0t5aEhCMmxfNXlqQzc4MnVIcjR1dFozTEstN1l3Q09BWlRjWFJoZnViWGJxcmU3QXZ2bUduMnNnRGFSZWxCVUpOM09rZw?oc=5"
         },
         {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanU0WWh1OHpaZGZEYkxaWkp0dU14QVgtU05pbEVLZXVUcEltZ2hnQ3hsSnp1VWpZQXhWaHdMNmR3SlB4bGIxTUhWMjlVTDF3cTJFbTI0VkVxb0NTUEVHMTNZTHFqWkNUTS13SWVaR2F3UV9DbEx0MXdva29QZF9XTFBqeXNYLVVib2ZoUGNCSUwtLUJjWHU2Yy1abE0yUHloUHhib2lfMlBvQXFkYmxmeUJna2Y1bm5GNFB0ZFBiM2Z4TG5sYzlCdlZHS1dzLWxRV2Fyb01uS1HSAd4BQVVfeXFMTWthNVNhTGJMM2lHMTBxYWhCVExYOTBGVzJZY3hoS0wzRUlQR2JkWmdPZzZqRlJLZnIzN3hUbnNFQzJ4NGxiMlFqb3FpN3N3Wm1IY1VfTVZLQW81cTc1QlNUZTFFXzhjTEVid1Q5elRRVUl6dE5LZkhIOXFpcHdCakRyY0hnOXl2cm0yTjhFbGJrc0VodjJJckx3dDhXbEg5djdtY2x0UnZ6Ym1IdGNubUdNLVNzQnJLeGRxTGZPU0ZtSWlMYUg3bUVVMVBnR2s2SmJ5bXdUZVJDNHRCaU53?oc=5"
+        },
+        {
           "outlet": "ABP News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaTRHdWVDTW5EVGpPWmliQzlxZzF2SnR3cEpSNElOVU4tU0NrNGZ0d3hVdjg5T0F4SkNEZlBvWmNIV090NHMzcy10WmNQQkg5ZTlqY29Vd1VMdTZDV3czTFZMM3lPbENpVndHSkFDWlZuWG1MZ0Vxa0xvS2hUbmJTVzZPSnZDYUZuTGZZUFpRQ21UbzFXSkNzRXFDWktkWEY3TGtwMU9RVmJndjY0S3AtdkxjUVhwWGlQWG1BTTJSTTRIRnlzY3pZ0gHMAUFVX3lxTE1IaGZIbnVjYm0zOUhsNy04RlRjLVVlX0tEeldjbVNUZDFlTlRYT0NtY2E2SzFBMkxFVzJsWFBuS09KaV9vZFVvZmRpc0YwdEhwRnVWOU95Z3BZbFF5TVpyQ2EyN0RYalFFYTNRc2hkVnBmQ3B3MzJuTUx3WUpOVUdoZW1jZVZqOUNNZ3hNYWdQeHZXLWRWdXRHVUhXcHFsWkExZ0tsbFczQzQxaUFrczlGbFQzb2gxOXV4ZzNWNzRwekhMSW9CcTNPTFlhUA?oc=5"
@@ -482,10 +475,10 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZWRsaHAtZGFEaFlXM0dLVlkydV94OTZzUHBpY1NGZ0F3dlNhQ0JuUzV2Y1VzMGctRUEwSVJla3BpSzFRZzdTWE11TC1xOHgtdlZtb2xYSnJQemIxdGktbkxCOFg0QkFnaWZQYi0xcUotMXp3SDJWTWluQ01XNTY2akFjaFFfdXhObWdnbVhoeTBQWmxENGs3eE9vZWZZdk1LdnctVzg3bTdRZW9SNml0WTdJNkpxOHpUVGt4blVVZXN0NVF6dWJmUV9LSGlkUdIB0wFBVV95cUxPd04zbXZTel9fOUN6NHRnQTJ6QnBJLTNCdVpiUUZWWl9PSEFrNmpHUlR2Sk9kQjlBUENHUWxWNWdyQmFvVE8zWEFKWGIwUVFtcTZvRnZsbFlyZGFBU0hTYWM2LWVKZS1QcXNPNDBRQ1JLbXdnVjlRc1d5ZmM3REl1VWdKVkE5SmtlWjFRNnR4dEFGdXhNR01nT3duR3NZYXFWZHlIb3ljVFlwaFNSSDhGcDRGdnFuVUp6YlhwQTk2ZVdRbnB0eURyQU01VThQZzJMT1dj?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बिहार से दिल्ली जाने वाली 4 ट्रेनें रद्द: तेजस राजधानी-संपूर्ण क्रांति एक्सप्रेस भी शामिल, CJP के प्रोटेस्ट... इसे Dainik Bhaskar और ABP News ने रिपोर्ट किया है।",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "बिहार से दिल्ली जाने वाली 4 ट्रेनें रद्द: तेजस राजधानी-संपूर्ण क्रांति एक्सप्रेस भी शामिल, CJP के प्रोटेस्ट... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और News18 Hindi शामिल हैं।",
       "image": "images/4-cjp-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -514,6 +507,33 @@
       "genuineness_label": "Corroborated",
       "brief": "दोस्त की बर्थडे पार्टी में पटना गए सीतामढ़ी के युवक की संदिग्ध स्थिति में मौत, हत्या का आरोप। इसे Jagran और ETV Bharat ने रिपोर्ट किया है।",
       "image": "images/jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-weatther-update-18-jagran",
+      "headline": "Bihar Weatther Update: बिहार में मानसून विदाई से पहले बदला मौसम, पटना समेत 18 जिलों में वज्रपात-बारिश का अलर्ट - Jagran",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnZKZzZlMVVIb1VIYXFJN0xWMFdLdWdBdFJkUXBRRUgxcjVIN09RdS1FcUU4bEQxdGJtWXVkNG9ZYmV1Z3ptaTAyb1FjYkxaVUNVY2VXTTZ3Y0pQYTllSjFFS0xJXzR3QllEdzFNV0ZVODBTVjkxQjZndXFVVnhCR0czN2Z3TWxzWERRSGZGVldMMjlyOEJ3czVEVURNdlhQTENRdkU3eU1RdzlkOVpFZkk3NzB2dw?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZjViaHd4TmxtaEswWnJub1RITndoaURYa0FyZERBd2J4d18wT1Y0S0I4dHJlM0tkZFFFNUFPck5Nck5PbGtXNjE0ZS1XZUV2eEpGSmlSVHN6R0V1VWg0M0tGVk5XTU1oT1VjaERWLXI0T3o2YUJVYjA1M1lZWjZKa2pMc3BlT2VPVmNHcTFCNmNSVkxjWGlrcmtSeWEzSXMyRDZqZjZLMFBBSHZiRGw2T1EzM2RaNzJnaDVJbk15VUVMdHhRWndoQ1RNRUJmNGt3aGw1alNsSEZrS1A0S21CZkcyb29KaUdqdGIwdFd6S0RnVm5NLTVKVUQ0aklKVF9RZ09aX3UydnZMeHPSAYsCQVVfeXFMTmY1Ymh3eE5sbWhLMFpybm9USE53aGlEWGtBcmREQXdieHdfME9WNEtCOHRyZTNLZGRRRTVBT3JOTXJOT2xrVzYxNGUtV2VFdnhKRkppUlRzekdFdVVoNDNLRlZOV01NaE9VY2hEVi1yNE96NmFCVWIwNTNZWVo2SmtqTHNwZU9lT1ZjR3ExQjZjUlZMY1hpa3JrUnlhM0lzMkQ2amY2SzBQQUh2YkRsNk9RMzNkWjcyZ2g1SW5NeVVFTHR4UVp3aENUTUVCZjRrd2hsNWpTbEhGa0tQNEttQmZHMm9vSmlHanRiMHRXektEZ1ZuTS01SlVENGpJSlRfUWdPWl91MnZ2THhz?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar Weatther Update: बिहार में मानसून विदाई से पहले बदला मौसम, पटना समेत 18 जिलों में वज्रपात-बारिश का अलर्ट। इसे Jagran और News18 Hindi ने रिपोर्ट किया है।",
+      "image": "images/bihar-weatther-update-18-jagran.jpg",
       "image_kind": "photo"
     },
     {
@@ -643,38 +663,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar targets making one crore families self-reliant through entrepreneurship: CM Samrat Choudhary. An economy-related story. Covered by ThePrint and The New Indian Express.",
       "image": "images/bihar-targets-making-one-crore-families-self-reliant-through.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "live-news18-hindi",
-      "headline": "LIVE: पटना में विपक्ष का हल्ला बोल, ज्ञानेश कुमार के इस्तीफे की मांग, तेजस्वी यादव हिरासत में - News18 Hindi",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHRzTHlzdFhObElwRVhlZEJjWE9DQ1Vvbi1FMGRYZnBHYjd5ZGJ3alRHQWVaaWp2Vnd4b24tZFpmWmIzdmw3MjcxWUhfLURqNUNYZUxuMTVIdE5WWnFBSUluSEFQRXEzTFFyNEV6cTN2WW5xYTlTUG5zNUdDMHlERENTWDktekxSY2ZkbERBQmEtQmZMWUdGUFo0OUdnb052T0lsUUdNM09RbmdEV1JfMkE1YmZ3M3JTbXBIX0hLV0nSAcYBQVVfeXFMUEd1LWNfSGJXMC1INmxSSHg2VE4wUnQyOFRnMGZrRklTRThJMk1adGJzMUlpcThrZl8tcnlWUlBYa2k3RHN4V0twbGJoWEdPbGFoTTc5M2lxSTdnckRsVkdNandlZU5vckpqaDBuRWNJc2trSDk2dVB1dU85a0MtaXpZZnlaUTZjSmtrWnBsR1VRZXlNSzluTzNlOWl3VFo3V1VNTjYwRUJ4TWFMUkJVNHk3aDNOWTZ0ejFDSHZXUkVOVnlnMHZB?oc=5"
-        },
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU1UxcXlkWlJ1a1U1REVYV1BXdHFoTUJ4anA5czExSS1lbW9VMTM1VFJIOGRvX2JjNVk2UERYMnRMamkwX2JKaEJFUnhQYldlYnNTYUxlTUJCRE1FWjVYUVZjYVZJRzZ4d2l2aDFHZlZQR3RJaEEySmpLbHpvZWptOUtiNTZpc3FDR2E0RlJjREFneUJRYm5GMDEyUlhJdVJjdTJuNVRYVFNRN2NaRnpIWFU1aDl1ZDVsM1FvRldreEJzQkhrTGhV0gHMAUFVX3lxTE56dlZ2aUl0RzFhcXNKMjdJVUhoVmMzZU1CTDVta2xqT3AtbUZERkRmNDZDWlFRR0dTLXhsSkZnb29DdHM4VURQM2hGS1lySUhHbnk4a05SSzJsb0Q5cUp5bm1YbWRTWVVPTjB3eVMtdXZhTlB2eDJjbnFQR2l3aDRFTDZ3SjYyam9nMVR3TFNTaUcxNDQwcnVNVjA1ZU1pZkRzNGdpclFFQWtHVHhDdlRpYU5SbzB4UF8zNkdfV3JwN0VvX3ZKTFJDbDVnNw?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0xWZVdOZ0M2Wk11RW5KUGNtRVNhU29LaVlqZDVPTjNRVzVaNEljeWRXaGh1dHl2dUp3T0tlYk9qN2NLcHVOTUtXOENsbGpqRDIxVHJXUlYxQmEyU1hzZ0JEQkpGczhGWUMtOFdYcWZlUkM1SS04cHdxc3FyLV9JdGN4QkEzQndTUWs5LUhaZF9zSVZwTU1TemdEejVMQVVqWFlyU0FWNU9fVkVLTzRsRWdGWXF0V1FpSE1IU2JOWEFVdWJudHNoQnNwUTFwMmdKSWE0bNIB2gFBVV95cUxPbF8zbjNVNG5pZUZlQVNYNVJGY1E2VV95ekJXVV96ekhtd1haTmJNUmlObDdkWmVyamFzbl9wU2twVXRIem9YMEhQVVRQcUpRWkRmU3h4S09ZZWJSRWpDWUhnbmR1ellveVJzbWJHTGNUdWh6b3JNWk9od3N1alNyU2dSUWhsVXR3SlctbHF6MnhwY2d0YXlvVG9sRTBYVVZYdFIwc1pxX2kwX0FmWnE1ZC1FLXhCUGo3TFppN1RxdjFTdC1wWW0tVXVYU0RKVUJtdldoOVRjQWlWZw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "LIVE: पटना में विपक्ष का हल्ला बोल, ज्ञानेश कुमार के इस्तीफे की मांग, तेजस्वी यादव हिरासत में - News18 Hindi। इसे Aaj Tak और News18 Hindi ने रिपोर्ट किया है।",
-      "image": "images/live-news18-hindi.jpg",
       "image_kind": "photo"
     },
     {
