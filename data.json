@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10 03:37 UTC",
-  "generated_at_ist": "10 Oct 2026, 09:07 AM IST",
+  "generated_at": "2026-10-10 04:36 UTC",
+  "generated_at_ist": "10 Oct 2026, 10:06 AM IST",
   "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -14,11 +14,6 @@
       ],
       "sources": [
         {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa09qZkdoZ1lNU0dSYkRCX08yUnJlWnU0YWE5a2ZZcTU1RFowWXhPYl9YSXNaZENidTJzTVhRWnh5Q215cUhSMGZ4Uzg1dnYwdWt2NF8yUWFaLXdsVHkwNE9JeDdpeWQ3ZFFFRS15dlFpMVdUQ1NSYlpKRC1NMDRUbkoyeG5oXzFnSnBpWmdyM0JTWS1k?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
@@ -27,6 +22,11 @@
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2UtYTJCMUhpTkhRSjR3TmhiMTJ0WmlNUWlOekNlb2VMeVpKTkk2RkZ2eUNIRTJUS2k5b19GX05zTXJWVkFITjk1TU8yMHhpUkJ1bVdfaWF3WmJ6Uk0wRHRsRTFOaTJfbmczamJBNVM3YnBBWWJ2M2lsRmQ2cXA0UW45QlFTdHRHUDZlZmtMdHB0a1drTGNmYmNyUTk1R0QtTm9SalVMUGtKZVRSREI3NmhnODB0M01YV00xaHRVSVgxcnk5Y084bzBB0gHPAUFVX3lxTFBsNDVVUkxBM3M4aVgyLVM4dnVtZ3VFWFVjeWlrN3doMFRaWTAzRHJlb3BfTkx3cFJ1YTJDQkNWZ0luNENUUG5rVjBYVF9Yd3hyTnF1SnJ1aUc4NEVMYkZNanA4ZEJRVk5GdlFOMTNuX0kwM2JTdVNxYkt4el9oVTlWbzJWMzR3ZHBvQUk4bHlZTloxTFc5cG1vZURaN1pTSG83QTN3dmZhSXBObUdsSmgwZTAzNVpwaDUxd1JDMGFjSkZBM1hGbGtsVHJzRVJaMA?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa09qZkdoZ1lNU0dSYkRCX08yUnJlWnU0YWE5a2ZZcTU1RFowWXhPYl9YSXNaZENidTJzTVhRWnh5Q215cUhSMGZ4Uzg1dnYwdWt2NF8yUWFaLXdsVHkwNE9JeDdpeWQ3ZFFFRS15dlFpMVdUQ1NSYlpKRC1NMDRUbkoyeG5oXzFnSnBpWmdyM0JTWS1k?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -52,7 +52,7 @@
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना से प्रयागराज के लिए 11 अक्टूबर से चलेगी मेला स्पेशल मेमू ट्रेन, विंध्याचल में भी होगा ठहराव, कल से परिचालन। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Jagran शामिल हैं।",
+      "brief": "पटना से प्रयागराज के लिए 11 अक्टूबर से चलेगी मेला स्पेशल मेमू ट्रेन, विंध्याचल में भी होगा ठहराव, कल से परिचालन। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
       "image": "images/11-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
@@ -131,14 +131,14 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVFYd19CZmFiWDVsWTZkSjBSLU1WX3lHN2M1eUgtOW9aM29qeUJWTldyb3FaSm1PWm5pU2JqZzgwd2JodUJZSU82QVdrNXRQQ0tTYnhEVkxHclRBcGkyNjZ1TVBwUzVzSXpYd3l3RmtqeE5ILUpBeW5MdFpxaHhQV2lDc21NVVRqOVYxMUJfQVBUUDNfaTkzZC1WSktpM19EbURMYtIBqgFBVV95cUxNeU1lbVQybXZmd3BsYUJ2Sy1XQzc0WXIwelhIZDk3Qm1kR2ZJMGhENVhpYmtNMnR0SGtlMkRrMGJqb0JOZm9JUndYc0JfZzlWQkNSa0hOZ1RDT1JCRE5hNnUwSzd0WFZaN3EyTjVUNGQyS05Bb2c1UVlNTkk5UFhRX1Bjd1NUcnhpdEJQWE9mVnI1WXBzTDBkRFA1Z2pqdnlkWFQ4SWVjQW8xUQ?oc=5"
         },
         {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFFJMS1fMGVMcWRWc09lUElrN0ZYRHRNTDVnZVhoYkZQZS1pdXNMdVhDN2JabG0wZEVmejB4WDkxWWR4UnRtanByVGE2dDlWaUFrMUo1Z3RGZHJyQjZxb0ppc0tHZUFiR1oxc2l1c2trT1lIR1M5dUtJTHp4VW1iY2g3VEdRYllKaHRGdUU2TTJWdEJkd3N2RzMyaE8tV2I2N29ROXZIcmNaSGRvcDh5VVBTVXBteEtsdlJka05UdzNNNUtNcnIxQVFvbzhZTVJWRjJ1NWtPc9IB5AFBVV95cUxQaXNjT2JYOXpocUs0TlY3MXdka2VIQnRTdGk4emVOdk8zN01TZExSOXFWUkF3aUZXeVU3U2EwM1VZZGExcVo5bkY3ZVY1UWpvVjcwQXpRTDBteWVENThxZkp5NGhmQUpyd0QydDF6bEJ0T281NFNtcm9xSGVHVGgtYmNUSmxOeVdQWi1Vb3RWWWpsSnY5cW9Qc0s5TXZOZVlLbU5qSk9xQmF5dHZHN0tXcDFrXzBXaXE5TGhtZlI4c2Y2U0NfZzNuOFZaamFyZnhITUdlVW0wN1QzOGl3cnpwajV5Yy0?oc=5"
-        },
-        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVWVHRmRLenlIM01qQ1BxZC1YRUpEMGNBRjQwWEoyVml5QkpJTWM5Q2NSWXpQdk1mWTRKOFEybmpMTEhLdE8xMkEyVzFzSm92bjA5VFU5VWtSM3VRcnVKbFhhUEFwbFQ3Zml0RXNRRGRrSDdUaEtwQWtibmZtVVhVclktQjZKeFFaSmJkWjBReFFXaUhrSHB2dDdmWXRpeWNJZXZheGlBLTdGZ2RhcTU2eHluTHNPb0EybW0tS3BGbUk2ODRJMWFPQmtFbzdSOGc1eGMwWWhLN0dORVRrSTZSdXlJcndfZmVhX2dJ0gHwAUFVX3lxTE5FdThWTnRPOG5lNkVMWjBOZ0hOM2dqM3BpYlhmdWN4UWZxWW5kYWZCOGdlZHc1Q0cxd2FBQUhqRzM3bWhrYUV4ZmJvWnM2TW1KMXVQN2MwZzM4THNETzZxRlF0YlNmalR0Ym9xd1VMWGZjUTIybkgyTV84SFNocDJiOGw5bklSMTRvaTQ5Y0lMNGd5WjNTOVg5OGF4RDNjVEl6QUk4eTIySDRBRUI5R0dIRzcyTUJBNmZwS1RNTVg2UFN5VE8xM3pRRmVkcGJkVHVjQTc4U09rVVRTdzJGNXhvSndhTXRZeGFhOHRWdC0zaw?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFFJMS1fMGVMcWRWc09lUElrN0ZYRHRNTDVnZVhoYkZQZS1pdXNMdVhDN2JabG0wZEVmejB4WDkxWWR4UnRtanByVGE2dDlWaUFrMUo1Z3RGZHJyQjZxb0ppc0tHZUFiR1oxc2l1c2trT1lIR1M5dUtJTHp4VW1iY2g3VEdRYllKaHRGdUU2TTJWdEJkd3N2RzMyaE8tV2I2N29ROXZIcmNaSGRvcDh5VVBTVXBteEtsdlJka05UdzNNNUtNcnIxQVFvbzhZTVJWRjJ1NWtPc9IB5AFBVV95cUxQaXNjT2JYOXpocUs0TlY3MXdka2VIQnRTdGk4emVOdk8zN01TZExSOXFWUkF3aUZXeVU3U2EwM1VZZGExcVo5bkY3ZVY1UWpvVjcwQXpRTDBteWVENThxZkp5NGhmQUpyd0QydDF6bEJ0T281NFNtcm9xSGVHVGgtYmNUSmxOeVdQWi1Vb3RWWWpsSnY5cW9Qc0s5TXZOZVlLbU5qSk9xQmF5dHZHN0tXcDFrXzBXaXE5TGhtZlI4c2Y2U0NfZzNuOFZaamFyZnhITUdlVW0wN1QzOGl3cnpwajV5Yy0?oc=5"
         },
         {
           "outlet": "The Indian Express",
@@ -154,7 +154,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats. A politics-related story. Covered by 4 outlets, including ThePrint and The New Indian Express.",
+      "brief": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats. A politics-related story. Covered by 4 outlets, including ThePrint and India Today.",
       "image": "images/bihar-mlc-polls-prashant-kishor-claims-jsp-will-win-patna-gr.jpg",
       "image_kind": "photo"
     },
@@ -199,11 +199,6 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQktqV1kzUHp0OFdmalpjeklPVFJ4MDlnT2JrWmRsZFMxUEdLZ21Xa0Vic1RlT1FZU3djTWRfU2xzSkFpVjRTcC1ZS1BTYXg3LTdTWFhEQTQ5bDRkTUYzOEJxSE9HS1plbWFpQlZldmVLSkpnQkZlX3ZBdWVvZ2ROd2pCWGhVVnN1MWhqenhtcw?oc=5"
         },
         {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMlVxT0NiWGN1Qnd4bGtnb2I4TmgxWnRvMkMtZXhBa29ENmlUNEljWFVWWkItWlZnRmI2WTZuQkl0aW9uNk9Fbk0xcEVPeWIxenpoWXhYemt1VUVHWk5ybllBRUlfOWtjQkpFVnlUMXVLU29YWlhWd3RseTdNVU0zV2tTdDNSX2Q0NXdEMFc0M1QtcThfVVlmSFBIeExwa21idUVDRzd5MG95Q28wLW5TTUZURFRReDZiY1VqWi1zdHh1Z9IBxwFBVV95cUxQTU90aUQtWHZLcGlxVy1UdHFEZE0zdzNXX3ZMYzA1YV8wOGV1dnUwZTZUOGVkc3lyVWJKY0lLVkNwV2hIYk1qTHZKM3lDd3hvaWZ6RHpsSlNFcGtMdXc5blA5SndHYWhYODNTVDVoWm50X2dmR1JOdnFxdEMtR3JfcHVPNmdkTXpMbUhZV2xjNjN3amh5YkhpQ0RqMzcxMWJ3WHRQRGpDTVM1cTl5bF8wZ3ZZN0xkTHkwMm1NZF9sSWhwSlNheDBr?oc=5"
-        },
-        {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmpISmpmWGYzNDVDelBLWjVKWWZLVG9HejJXQTBFamxmRmNhLTFGcUpyRXJ0bTlXWVQ1dEV4bzlMaE0zMTVTZkJXY0psMVJPRkw4NkU4Z0xvRmNtOWZQTkI2MHh6TEVRN0pmemlWaHlJNmozRmMxNEFkYTJ6N094dmlMZUpDbkkxdFFoMEVSVkt3N3l0RlpSMDVxaVVUS0lmdHVUdFBPeG_SAa4BQVVfeXFMTTFtS25ZQzc1U2lTYmVuUW55V2M5RzBxdEpaRmZYTEZMNkhmYXAyN1V1aDY1S1dpOWptTWowREdQWVdsMjNHUDZfRnZrTHkxQWlTY3Nodm5CSjdfVjRwWkJpejhhZURQM0puT3U2d2FWUmpxTGUzRVFzdGFYU3BjTmhTcENQQk5NQ2pWM1QtTkpUdHNiTmMxVnNOejBjQlNKbUxCazhtRG9fVTNvMUl3?oc=5"
@@ -219,10 +214,10 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUU0bVpIbzFWU2ZLWFRfNWxENXVuMFE5LThibmtZQlFMd1NRN1ZOMm1fclc1Yl80SDBwaFRKMWZUWXBLNUtqVjJuVVB0bnV0VkNINjZJSzgwOExnNVpxRmQ4dUN3elI4X0YxeU9MaVk4VnltZjhQSEoxNm80Qkl0SWVpQjNwamNNQTVEaE5DUXJqMF9WMEctSGJOLTZxWjBNSVpmcDlESHdnZFJZWkFtQ0w4YzkyY09BZldrUHBtd1k0SVBaVVVr0gHMAUFVX3lxTFBwdUQzbTd6Sy00bFlXcThZMjZfaFBaUmZ4b25zWUJLVFE2TTVqMk1RTlNNQzVUZTljZUtTdXNtV3FvRkYxQVZmWnVtdGhteGstTHpXRERpVW9oc2dxYkJ5VDBOY3pyWDFhNXBNbU56NjFGREh0Nnh1T2NNMy1vd1NvZ2lOZTdDSVMtUDNLU3BiZFlKT2tUeWxFczRTNUdmMURVajVKVFItTUFDTU1NNnBGeU5lU054U1UtRE5WdUdoZkVPN01SZ1BkeTBTVg?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises. A crime-related story. Covered by 4 outlets, including The Times of India and Hindustan Times.",
+      "brief": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises. A crime-related story. Covered by 3 outlets, including The Times of India and Hindustan Times.",
       "image": "images/bihar-eou-recovers-52-lakh-cash-35-lakh-ornaments-from-execu.jpg",
       "image_kind": "photo"
     },
@@ -278,6 +273,40 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar hospital shocker: Masked man removes jewellery from dead body, calmly walks away. A health-related story. Covered by The Times of India and The Hindu.",
       "image": "images/bihar-hospital-shocker-masked-man-removes-jewellery-from-dea.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-police-driver-recruitment-aspirants-protest-in-patna-s",
+      "headline": "Bihar police driver recruitment aspirants protest in Patna, seek filling of vacant women's quota posts - Cityairnews",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "politics",
+        "crime",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "Cityairnews",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU20yOXB1YzB2NUdfeFItNXJid1I2UmUzeThoei1tbkViS2ZqV2c2cFVyU1l3VjZvczAwWFhGU1lLMkEyaG9NNUtnc1pyZnhIczFHa1FuYTE1QTh3cGtneFE5anVkUDJka2w3YVhublJwYnpRM3ZISlkzbWd4bGVXX2pKMGNNbG9XdVZHRTJBbzNHbjZ4QTdhNC1ybG5UZWRtRzVTeER4Tmh5Q3pjZDZ3Q2Y5anF1bUdQaVRXRnhiSmJVVGpmdjBwZ0RhTHViM0tlWHc?oc=5"
+        },
+        {
+          "outlet": "Mid-Day",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYVE3Z2t1YnJvVWpPMS1mRzMzai1CSUVqaEc4enUteldNU3RfdjA5cEFGb3pEUmVKN0t4MmJCSWtQZXY1bkk5SDdVTTB5dWpIdmZ4SVZ1Q2x0RTU3eHRweVFYa2RwbEJTSUgwR3VWdjg2LURNalBUMFNvdnRDTDJRd2NLZHFRZFV4YnNqQmQwcHdvUk9hMVZjNk4wS0VVeko2MmczTENLWGJ0eW90dUt2MDVadER1LWhYQVNpWWctYkdrRmVmWXFlRm9KY2JISlF0QW9Ld1BhemdISFc4dnU3TnVQM1FyTTJ30gHuAUFVX3lxTE44UVZUd2ZpNDA5dmNncWd5ZTluUUVoVTZlUEV0SGduazFYTDZ5QmZ0RnN4SmozVzhFUmFUUUZjSERSOGNxWVJWd0dGY0N3SDhPd18xWnF2U1BwQzlFT1c1OFRGMGJ1SEkyUDc0MHRLSEtEcy11NVViQUQySlk0MDBwajZZaW1YdDdJcWJKWWV2Qk1ORnBXWk5hNHFyZjY4OEJkbTFNQVh5VEhTYzZEak9oeDJBT3ZYSEhfa3NfRWZCRGJaUlpxSFd2NDRqSEZLUndseFBzcDY1Ujk1cVhSX0hwNFJqcXRQRjlzUDJQS2c?oc=5"
+        },
+        {
+          "outlet": "Mid-Day",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUTYxbzg4dDhxZy1yZEM3MkVockRvWEwwc3FTcnl5VWtFWkNYRWo4YWJQbTQ2YVRZYUZ4MERCUEgyV3JDNnlXNGxVMDBXUE11bF9aZElMVlUyODZuaVl5SzFYc1lZQ0dLZUxhemd0THBvN0hrNG1aTWg5TXlwNklBbG9YY1BHM28tWnhBVksyb1AzSEM2NDRRT0R1RGhDbmxXSzlmd0I5T1E4SHJ1S0hWZ1JXeEdwVWlnRlU3eEVlcFJYdXBtT3NjS3ZOQldoaXJvY0dXYWFFT1VJa3Jyb3dGR01rMXDSAeoBQVVfeXFMT0FsLVJER3FFWGZRWkstSW5yMTVpRkFhT1RGMnY4SHllZEpMMjlhRlVxMy1zR2g4ZFp0Z0FUcDFmYTh1RFA2aWdNSkk0d3ZKOG9CYWV5ZXNYbDZwZC1uOERqQ1FuZEVUQmgzLUsxZzdscW9OOG9YTW1ST0ExaDNVNGo0NkRyS2pUak1XelBsajJfU0RWaFB2MlNCdC1HNXZ0N1F5WkgyRmRDYnFGQ0t5a3JkdXJUZXlBMmlVREpaRElRLTBnSGhtTDEyWUNXOEd5YlZNaEloQU1neWUzTVlpT0p1Q3ZEN2ZUbUt3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar police driver recruitment aspirants protest in Patna, seek filling of vacant women's quota posts. A politics-related story. Covered by Cityairnews and Mid-Day.",
+      "image": "images/bihar-police-driver-recruitment-aspirants-protest-in-patna-s.jpg",
       "image_kind": "photo"
     },
     {
@@ -404,11 +433,6 @@
           "outlet": "ABP News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaTRHdWVDTW5EVGpPWmliQzlxZzF2SnR3cEpSNElOVU4tU0NrNGZ0d3hVdjg5T0F4SkNEZlBvWmNIV090NHMzcy10WmNQQkg5ZTlqY29Vd1VMdTZDV3czTFZMM3lPbENpVndHSkFDWlZuWG1MZ0Vxa0xvS2hUbmJTVzZPSnZDYUZuTGZZUFpRQ21UbzFXSkNzRXFDWktkWEY3TGtwMU9RVmJndjY0S3AtdkxjUVhwWGlQWG1BTTJSTTRIRnlzY3pZ0gHMAUFVX3lxTE1IaGZIbnVjYm0zOUhsNy04RlRjLVVlX0tEeldjbVNUZDFlTlRYT0NtY2E2SzFBMkxFVzJsWFBuS09KaV9vZFVvZmRpc0YwdEhwRnVWOU95Z3BZbFF5TVpyQ2EyN0RYalFFYTNRc2hkVnBmQ3B3MzJuTUx3WUpOVUdoZW1jZVZqOUNNZ3hNYWdQeHZXLWRWdXRHVUhXcHFsWkExZ0tsbFczQzQxaUFrczlGbFQzb2gxOXV4ZzNWNzRwekhMSW9CcTNPTFlhUA?oc=5"
-        },
-        {
-          "outlet": "ABP News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZWRsaHAtZGFEaFlXM0dLVlkydV94OTZzUHBpY1NGZ0F3dlNhQ0JuUzV2Y1VzMGctRUEwSVJla3BpSzFRZzdTWE11TC1xOHgtdlZtb2xYSnJQemIxdGktbkxCOFg0QkFnaWZQYi0xcUotMXp3SDJWTWluQ01XNTY2akFjaFFfdXhObWdnbVhoeTBQWmxENGs3eE9vZWZZdk1LdnctVzg3bTdRZW9SNml0WTdJNkpxOHpUVGt4blVVZXN0NVF6dWJmUV9LSGlkUdIB0wFBVV95cUxPd04zbXZTel9fOUN6NHRnQTJ6QnBJLTNCdVpiUUZWWl9PSEFrNmpHUlR2Sk9kQjlBUENHUWxWNWdyQmFvVE8zWEFKWGIwUVFtcTZvRnZsbFlyZGFBU0hTYWM2LWVKZS1QcXNPNDBRQ1JLbXdnVjlRc1d5ZmM3REl1VWdKVkE5SmtlWjFRNnR4dEFGdXhNR01nT3duR3NZYXFWZHlIb3ljVFlwaFNSSDhGcDRGdnFuVUp6YlhwQTk2ZVdRbnB0eURyQU01VThQZzJMT1dj?oc=5"
         }
       ],
       "source_count": 3,
@@ -475,33 +499,6 @@
       "genuineness_label": "Corroborated",
       "brief": "इंडिगो फ्लाइट पर बिजली गिरी, लखनऊ में इमरजेंसी लैंडिंग: विमान का अगला हिस्सा क्षतिग्रस्त; पटना से अहमदाबाद ... इसे Aaj Tak और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "jagran",
-      "headline": "दोस्त की बर्थडे पार्टी में पटना गए सीतामढ़ी के युवक की संदिग्ध स्थिति में मौत, हत्या का आरोप - Jagran",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZUQ2dEtQaW1CNG9LOUQtcWswLTNTbUkzcWZNYlB5d09jR3dXcFo1WWRKQWEwU1F1NVIxYUR0bFBFc184a2V1bGlDekk3TUpmVkNaY2E2X2pXUkdoWkpWdTd3S3FvUGpCVUtHbUEtcTVsMFJfVjNMWUtxeEU3SkFaRzU2OFd6SFYtUkZwSERRYndDWEtuTkJEamoyTEZxTTdtNU1LMlNWRll0Z05pdHhnVVdXNFU3X3RXQWc?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEJfS3p4bmN1TVUya2MtMi1XUG9ZZmJMSWI4YV92Z3FEblVyLWg0eHBheTRIRXhCMm9zVERfQUNKSUtJMVNuQjZzeFJXY2k1TEI3ckEwOUJXenBNbVVBeWpHSllBY054cDJjeE5FWVkybmtzcG11Z3RLRFp5SVB3UEUtUkEyeG1LQ3hhT1hjaWJZNEJheElhcTQya9IBoAFBVV95cUxNMThVTldUVkNjRDVQYXJHeHA0ZmpERVRPcXMwalJOT2hXdHFfR1BJcVBYMkpCaFFnZ2MtczJER3NsNng3S2V5WXI2SkJUNUhHeldtNmJ2dEt6RS1ZR3Z2SzF6dUNFQnNnaTdYSlNNR1VNUkFrejVpVWYwU203c18yM2duS0FrUGZTa0pkeFBrMVJMSFBMN1d6ZXFOOEJyTzNa?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "दोस्त की बर्थडे पार्टी में पटना गए सीतामढ़ी के युवक की संदिग्ध स्थिति में मौत, हत्या का आरोप। इसे Jagran और ETV Bharat ने रिपोर्ट किया है।",
-      "image": "images/jagran.jpg",
       "image_kind": "photo"
     },
     {
