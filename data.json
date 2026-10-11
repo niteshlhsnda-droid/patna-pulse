@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11 12:54 UTC",
-  "generated_at_ist": "11 Oct 2026, 06:24 PM IST",
-  "story_count": 46,
+  "generated_at": "2026-10-11 13:35 UTC",
+  "generated_at_ist": "11 Oct 2026, 07:05 PM IST",
+  "story_count": 48,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -14,6 +14,11 @@
       ],
       "sources": [
         {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0x4TjVfTmZLclFDUHZXalIwd2VLUndyVTBJTmFuS19PYUYtTElGWlRqTWFBd04xTXVhSXYtNDZjR0ZmdnRFZmVGRXR2NnhwbDVRVWp1RzBhSGZfNWlZSGlhbW5zQlJaRVk3WFlwWnd0NEFGbkdRMHZhMDRHX0paNnQ0a2JZcFZHTHFCNWdtbEY0VlZxcVl2a1JhTm1ncjFDUmVpOWlfdVZvZl80TzQyZUVfZ1k1elNsSkVJM01fY1nSAcYBQVVfeXFMTkZTUUxxM1hTV00zSy1nWDBRYUJhRklTWGs5c3k0eFVGc1J5SUZPbkZTXzdWZHJXYXBLRlFPdmhiczdmVDJyRFREZXljZ0tST0xKRl9lbjQ2ckVUUExadTZXYnBSRmhaczJSYk4tQXJhODdVdVgwVkgwOEdESTNsZFhQb3h6Z0JHTjlBcGgybC1MNmZDOC1WbzFiY1NvQUFkZDVkM1NFc1hoTmg1T1RVRXFlWXN0UmhUNVpBaU9CYTQwUWJDTUVR?oc=5"
+        },
+        {
           "outlet": "Telegraph India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFBZQmtrcG1NckJRVUxrdm5ST2otOFl4X3A2VzQySTFmN1hHYzBsMHItb3NRS3p1TDlFUndPUl80c1NydWlEUktRc2NZaUZ0WkdTLUVfNV9PVUdaYV9LRHN4YmduMEJJY0hWOG5YYWRiejJmRm5TR0N6VGVqeHQ4ZGJSWklRRmgwTDItREF2Sy1iVkl6VUVZMElJV1pPNjZYY1JRSTRKaVkyT2ZhMWRwR1I3bk5uUdIBuwFBVV95cUxQcHo1WVI3X1YtMzBrX0xobnl2OWFZQzBNRjRob0NuU2liVEg5aEk4OERvZmV5SERNWFRZdjVkX00wV2JWUjBDNjNXTkJHVnAzOXgyTFBpOU9LM284MDVrRGl6aVM1ZmJiQzVRNk9udzJCdzRrT1l5WEMteFVtMXE4R1Z6YThSa2Z3TE9mUHpxa21WLXllWm5rM09vc21VZU44eUNXZ0NBelpsRExwWExrRGFjM1NHcEx5UGNN?oc=5"
@@ -24,16 +29,16 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT3JGa1ZXbTJxb0ljLWNIdUxFRFdhcGFzOHZyRGVQNnRTNHRxUWh2RHN5RUlpQTRYNmdGMm9VR2hhTEViV2xPLWpyVm9LQzR4REdnY28tSUx4S2pnUnVpY3Z5OTJtVUJGRmJ5SmVkRHNvcGFuaEVPVTRLbGNPLVJGeWo3aEhfclpWZ0ROMXh0S1p6bmJtb29lODZPQ2x4RUthUjFaVVZOY0F0OW4zVEZ6TFh5U0d3bkxFUjF6MThRdU5OV1UtNmIyS1pTNkJpV1JwVGZYZ3pwLUIydjlzRFA2SENnS0hJVjI0?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar constable shoots himself dead in Kishanganj, investigation on. A crime-related story. Covered by Telegraph India and Rediff.",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar constable shoots himself dead in Kishanganj, investigation on. A crime-related story. Covered by 3 outlets, including The Times of India and Telegraph India.",
       "image": "images/bihar-constable-shoots-himself-dead-in-kishanganj-investigat.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "prabhat-khabar",
-      "headline": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल - Prabhat Khabar",
+      "id": "2028-2028-bhaskarhindi-com",
+      "headline": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी | ???? ?????? ???????? 2028 ?? ???? ???? ?? ??????, ????? ?? ?? ?? ??? ???????? ?????? : ???? ?????? ????? - bhaskarhindi.com",
       "summary": "",
       "date": "2026-10-11",
       "topics": [
@@ -41,19 +46,46 @@
       ],
       "sources": [
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU01aUllmMFdveDUxR2JXanZScjJnTEFoXzA5U2dOVWQ0ZlBTT2pnOE5UOFdoNEQyaVIwWGZfTjQ4STVKT2RUQ0ZEeEN4SGV6Mzh5cVBsOHRTWUdfVmVwS01icmRLcjFQQjN0b2xOclNESEJRNGlWcE9La2dRNlYxN29mX1FkZnBHazhDUF91eUhjZ3docWdYVTJSMHNlSFNuVUpz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTZPc2hCSHJYNkZmYkswX1ctSm5FLXZTQ25OdFVUQnBYLXZUOGNoOGVCaFBxYzBiQlYxS1FyRFBaZVlmMm1qVkhoLW15QWlHN29WSk5zT3dZQmxQTGJuRWRLc1Fvd0ltTUxqdzJsN0o3eklaTzd6bXhTb2FCQ0tjdzlJaHoySldSV1NLbXNDMm43NE9VVlhrdm45WF9Dc1B1eGhsS3BLT1VBQmV1SnBKMnJrUkktUVdGTEU4?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT20wbDNxSFI0MlNXR2tSeG54dmhKY3huRWxZc3p4WjYyZ2M5ZXNxZFFkRTRYbjQ5R3RPRVY5MTByUURRcWFLczhydGRYZHZjeDZ3NXJ1Q3NVWlRSaTZ3MnprNUFKR3BtRXdQSGUtNTZ1djVnWFI3MEYyZVdIYUJyQmpaMERhaS1fa1BkekV0NEdiRG1ITmgyR0RQcmctLVEyQmoyajgzZi1tS2Q3c2t5c1l5Zl9JaTFTbVZYTnotY3N3X3c3aEVhZVFvcDE1MFFXRDloVHgwdkJGamtCeVhGazJOclV6Z3hPZllBYmRRRzRKcXlSVlNjbkRLMWZuZF9CdUM0M3RpNXU1OHZpTG92bnFjZ1lUNDB50gGeAkFVX3lxTE0zOEZCRF81RjhWLVFsNjVIQ0VUTzljX3NTaXJYSzlETDRGNU5OQ3AxeTJiYkp3OVQtMW04TTlfVldIWDVRS0hWQzRsQU9lYmt2YllVRDdJV3I0ZjdWNmxOX09GcGlrNVBheWNPVnd4TEIyT1dJOXRWX1p2UkQ1ZXVNS21oOEY4X2IxbUpLMWFCaGtNM3E2WXJKUGp0YzJnelBsNnIwVVlranpHSzBHM3BWYmJDX2NxQW1DcUFVVUd4RG4zLURfVnJoX2dlUjNkYm9HRnpqcjl0UkRJenVGSDkzQ3BzcW5UUXpFWVBSUzBNYjJsazc4aXJxV1hfWWsyYjRhb21IT1hqMURtQjQyWTlnaS11UXVWR2Zob0NYcnc?oc=5"
+        },
+        {
+          "outlet": "bhaskarhindi.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQjR2RGF0TzJIeHY0ei1STUFHd2liaU5ZNWlwZlpEdENxQXo2WDRRTzM1Yk9BRXl2SUVvZFdMeWcyNDUtMXZtbzM0eVNkTWFqejYzZ25VX0Z6YlA1UlVFM2lwd2ZGRkdpNE4xTDJ5ZVl1WnlRckk2QzFuVjBWdzVlMk55NWxYYlNyaDNtdXFpd25rMlpnc2ZtOW4xUWhrT1dpc0JJdTQ2ajVsY25Xa2dxWi16NkptQkt4Yk9zZWtjMVZEdDlsa0ptMGY0eGdLajVTVTh2cV82V1c4Z3FJVUxUOWI4Nl9QQ3NKVHJpdlkzeVc?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Navbharat Times शामिल हैं।",
+      "image": "images/2028-2028-bhaskarhindi-com.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "12-dainik-bhaskar",
+      "headline": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONnFJbF9aNWlCa0V4dkpzVmFLN0lHdHJ1RzlyUWNuYjBsNGV6bHJIZDJ4UkhiMnNPaGQ1QXQ3aWJKTDZFdE1aSVdGTlFxbzVqSEI1bVFxSUV5ZWJSY0Z5U19oUmlEVmhfeFpkbVVmby1Mbl8zQ2RSNnJFV2U5eEdQN1FzMXZPR0s1cUN2a1U5SEhPdDlpbnJhUEZ2eExLSFVIM3ZOQUJGYTNYRWl0elFwYXZXeTR0QklydE5QUmNoV3otWGdGMHdqXzNRdnNKWklTRV9sb2M0dkxOcTlOaktILVVDY3d6SDg1WHfSAe8BQVVfeXFMTXNsTy1BUGszV2w3YV9CTkhlQ2tMa0ZJLXI1ck5nWkdnN3l2NlQwN2ZrVHUxVnM5WkVTS2NDRTN5eE4yOW14NHFtcDRJTWFlYU1PLXNmZjFsQzF5aHljbG55bDNTR1Vhbi1KZllELU5zY045WjF0dTVhb25ZOGlFMWgwWldCc1RONVNHbm1WbGNzY01iand4Ui0zTk5wRGk4bXE1M21GWjh3NE5CZzV6cUR5bkowU1hoVjQ4dEt0anFDOXdjRV9nUUNkUmxaTkRaWDVOZk5SNkRZc2twcFNMbU9ySVAwYnFMMGRVYjhZUzQ?oc=5"
         },
         {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONnFJbF9aNWlCa0V4dkpzVmFLN0lHdHJ1RzlyUWNuYjBsNGV6bHJIZDJ4UkhiMnNPaGQ1QXQ3aWJKTDZFdE1aSVdGTlFxbzVqSEI1bVFxSUV5ZWJSY0Z5U19oUmlEVmhfeFpkbVVmby1Mbl8zQ2RSNnJFV2U5eEdQN1FzMXZPR0s1cUN2a1U5SEhPdDlpbnJhUEZ2eExLSFVIM3ZOQUJGYTNYRWl0elFwYXZXeTR0QklydE5QUmNoV3otWGdGMHdqXzNRdnNKWklTRV9sb2M0dkxOcTlOaktILVVDY3d6SDg1WHfSAe8BQVVfeXFMTXNsTy1BUGszV2w3YV9CTkhlQ2tMa0ZJLXI1ck5nWkdnN3l2NlQwN2ZrVHUxVnM5WkVTS2NDRTN5eE4yOW14NHFtcDRJTWFlYU1PLXNmZjFsQzF5aHljbG55bDNTR1Vhbi1KZllELU5zY045WjF0dTVhb25ZOGlFMWgwWldCc1RONVNHbm1WbGNzY01iand4Ui0zTk5wRGk4bXE1M21GWjh3NE5CZzV6cUR5bkowU1hoVjQ4dEt0anFDOXdjRV9nUUNkUmxaTkRaWDVOZk5SNkRZc2twcFNMbU9ySVAwYnFMMGRVYjhZUzQ?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -64,13 +96,18 @@
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXg2a2tKUW44QURBNVJtMzJuY2UyclU3UTNuVGZqdUNLd3ZESDRlX2kxY1FZWG8xRVZ4dUlVQlpJdGdCckJPM3pKTVlrVFlVTTB5V0NVTjBBcFhadzRsZGc2SVZwMm9wT2Z0ZGZva1VhQjRUVXR4clRaUWpERmhYNk5HeUJxZjBoT2UzQ0JWZUV0Vk05V2lRdnBhcnR0VlRHYXNlVHN2Qy1lN2NEN0tWUV9MWEJvblJGRHBiWktlb1c5cWtMMksxU0FaamJULWhWTDdJ0gHYAUFVX3lxTE8zTms3TnVLcnpyU0wzdlEzLWU1SWc3SXlsM2p6UW9UYnQ0T3IxRTU5emVEc3JBeEpWZlozRVRhRU94Vzl3M01BQ0pnUXFwTUU5LXFYX0N0Vl9xWjBjZHFjSHZvX2xfdW9YNVRSaDdqWkF6TWVKVkdBWWlibVZlRjl0S28ycjRGR01pTmJ2a245elJTX1FhV2J1aHBOaEFPdFZ2QUdGbGRQQ2lKTzVneVJPTlhFb0JxaDBLRnJfWjBEMzUxeVEzSlNoWmY2OVNoYjlJZmJyeFQxZQ?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU01aUllmMFdveDUxR2JXanZScjJnTEFoXzA5U2dOVWQ0ZlBTT2pnOE5UOFdoNEQyaVIwWGZfTjQ4STVKT2RUQ0ZEeEN4SGV6Mzh5cVBsOHRTWUdfVmVwS01icmRLcjFQQjN0b2xOclNESEJRNGlWcE9La2dRNlYxN29mX1FkZnBHazhDUF91eUhjZ3docWdYVTJSMHNlSFNuVUpz?oc=5"
         }
       ],
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Jagran शामिल हैं।",
-      "image": "images/prabhat-khabar.jpg",
+      "brief": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Amar Ujala और Jagran शामिल हैं।",
+      "image": "images/12-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -99,33 +136,6 @@
       "brief": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/jagran.jpg",
       "image_kind": "photo"
-    },
-    {
-      "id": "2028-cm-2-navbharat-times",
-      "headline": "2028 तक पटना मेट्रो प्रोजेक्ट पूरा करने का लक्ष्य! CM सम्राट का ऐलान- नेहरू पथ पर बनेगा 2 फुट ओवरब्रिज - Navbharat Times",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTZPc2hCSHJYNkZmYkswX1ctSm5FLXZTQ25OdFVUQnBYLXZUOGNoOGVCaFBxYzBiQlYxS1FyRFBaZVlmMm1qVkhoLW15QWlHN29WSk5zT3dZQmxQTGJuRWRLc1Fvd0ltTUxqdzJsN0o3eklaTzd6bXhTb2FCQ0tjdzlJaHoySldSV1NLbXNDMm43NE9VVlhrdm45WF9Dc1B1eGhsS3BLT1VBQmV1SnBKMnJrUkktUVdGTEU4?oc=5"
-        },
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT20wbDNxSFI0MlNXR2tSeG54dmhKY3huRWxZc3p4WjYyZ2M5ZXNxZFFkRTRYbjQ5R3RPRVY5MTByUURRcWFLczhydGRYZHZjeDZ3NXJ1Q3NVWlRSaTZ3MnprNUFKR3BtRXdQSGUtNTZ1djVnWFI3MEYyZVdIYUJyQmpaMERhaS1fa1BkekV0NEdiRG1ITmgyR0RQcmctLVEyQmoyajgzZi1tS2Q3c2t5c1l5Zl9JaTFTbVZYTnotY3N3X3c3aEVhZVFvcDE1MFFXRDloVHgwdkJGamtCeVhGazJOclV6Z3hPZllBYmRRRzRKcXlSVlNjbkRLMWZuZF9CdUM0M3RpNXU1OHZpTG92bnFjZ1lUNDB50gGeAkFVX3lxTE0zOEZCRF81RjhWLVFsNjVIQ0VUTzljX3NTaXJYSzlETDRGNU5OQ3AxeTJiYkp3OVQtMW04TTlfVldIWDVRS0hWQzRsQU9lYmt2YllVRDdJV3I0ZjdWNmxOX09GcGlrNVBheWNPVnd4TEIyT1dJOXRWX1p2UkQ1ZXVNS21oOEY4X2IxbUpLMWFCaGtNM3E2WXJKUGp0YzJnelBsNnIwVVlranpHSzBHM3BWYmJDX2NxQW1DcUFVVUd4RG4zLURfVnJoX2dlUjNkYm9HRnpqcjl0UkRJenVGSDkzQ3BzcW5UUXpFWVBSUzBNYjJsazc4aXJxV1hfWWsyYjRhb21IT1hqMURtQjQyWTlnaS11UXVWR2Zob0NYcnc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "2028 तक पटना मेट्रो प्रोजेक्ट पूरा करने का लक्ष्य! CM सम्राट का ऐलान- नेहरू पथ पर बनेगा 2 फुट ओवरब्रिज। इसे Jagran और Navbharat Times ने रिपोर्ट किया है।",
-      "image": "images/2028-cm-2-navbharat-times.jpg",
-      "image_kind": "placeholder"
     },
     {
       "id": "liquor-bottles-found-at-patna-pharma-firm-3-arrested-drug-li",
@@ -348,14 +358,14 @@
       ],
       "sources": [
         {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOU13eXBranBNYWxKMVR5RkdWTkNiZXB3eE5GaThEWVc0YVNUczVucFh6eUsxMnVRNGpmZ3poQkl1cTk2MnVPa040VDZQT3JNTkkwQ3FNeTM2eGgtaG8xeDE1X3p6MzQ0ZDBVWkRWbUt1NWQ3NzZaTEhfb19zMUZzZXgtSVdWRzNvVUVmYWdmNHlHUEdOdGFvUUVHWTlRUFVYbkFPYnlXMFFyY21Od1BVaFV5LW1zUUhtLVZaQjVyRjczTHN1U0paanVQM19FM09UY1HSAdcBQVVfeXFMTUNZZlY0eHh5SWZxVWhuQm1FeXEzeWY1WXkxcElSa0hFREcxM3JMMzIxSy02MlQwYmdFamgwRmM3WHZoVWNQMUd5UHhkdENvbTQyMDgtVFZQUVFtOHdQWENYRzBadUl4aUhmWm9FRkpNTGFFMm1IcXZfREw4a2RpYXFjMnNhMmJ1Z1YxMV9MbUpOaWZWbW5GTU0yeWRvRk12OElGdjNyVlJtbXBIcXo4aVFKZ24xVVU2c2ZCVGlBUVB6ZWxjMmJaSndQektXOG8xYUYxQk52d0k?oc=5"
-        },
-        {
           "outlet": "Moneycontrol.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSkVPZ0hZX1RWLWtGVHg2QjY1ZzV2bF9SMXhoMXVsQUxIa180YUJYeWtta3BubFdhUVhLRVZfdTU2SV8zWm1xSmwwUHk0RkRDSE1Ram1qNkZZUW1xVmJwemRoTVdJMnJ2TkczNFlrTC1pQlhIZmdXd3lhY1NqS0dzTUhUTUsyMEphMGIwaEJWUS1iQ0NJUkdhRk43QjRZYnVOb3JDWVJfZUZJLUt2MEZxTTN5QWtnYi1wNUp6ei05bVBmRWJ1bTVyaGl4elBsdGNEcTZoU256REk2RTVRMF83UWpSVk0ycXRvb1JpODJTcjNmcG9pMnZXenRZcXhOdkpiRmfSAYcCQVVfeXFMT3gtNVQtTEt3cXhOZkQ0NWxUMmN0c1NlQ3J5QUZEdE1paW1yU3ktbVAzTjRkX1gwdVV2SFRySWczN0t6bDRtMi12T19EX2lWakEzcnE4WHlCLUhMWENsUGJFVi1oX1pqZ3ZMMVAxVE1XcEZkdVYtUmVYNHBqNXNMWkNrUlJBMTliR1dkZnBmUG9OUndYdFlVWUo0aFhqYUp1bHJRaTliRm5BUDctVVZZWjVxREFZTzdJTV93TVNlTkJPNEhPYmtBdkNFS3U5T1dxLUVubmdqRDZOMW9xYVV1MkwtbE82aUs0aDVfZUlaS2RBVEVmRGl3dEpVQXF2Ulc3YW9SYVdYWnc?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOU13eXBranBNYWxKMVR5RkdWTkNiZXB3eE5GaThEWVc0YVNUczVucFh6eUsxMnVRNGpmZ3poQkl1cTk2MnVPa040VDZQT3JNTkkwQ3FNeTM2eGgtaG8xeDE1X3p6MzQ0ZDBVWkRWbUt1NWQ3NzZaTEhfb19zMUZzZXgtSVdWRzNvVUVmYWdmNHlHUEdOdGFvUUVHWTlRUFVYbkFPYnlXMFFyY21Od1BVaFV5LW1zUUhtLVZaQjVyRjczTHN1U0paanVQM19FM09UY1HSAdcBQVVfeXFMTUNZZlY0eHh5SWZxVWhuQm1FeXEzeWY1WXkxcElSa0hFREcxM3JMMzIxSy02MlQwYmdFamgwRmM3WHZoVWNQMUd5UHhkdENvbTQyMDgtVFZQUVFtOHdQWENYRzBadUl4aUhmWm9FRkpNTGFFMm1IcXZfREw4a2RpYXFjMnNhMmJ1Z1YxMV9MbUpOaWZWbW5GTU0yeWRvRk12OElGdjNyVlJtbXBIcXo4aVFKZ24xVVU2c2ZCVGlBUVB6ZWxjMmJaSndQektXOG8xYUYxQk52d0k?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -376,8 +386,35 @@
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by 5 outlets, including India Today and Moneycontrol.com.",
+      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by 5 outlets, including Moneycontrol.com and India Today.",
       "image": "images/bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "cm-sets-target-to-link-1-crore-families-with-entrepreneurshi",
+      "headline": "CM sets target to link 1 crore families with entrepreneurship in Bihar, launches MSME policy - The Times of India",
+      "summary": "",
+      "date": "2026-10-09",
+      "topics": [
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb3NxMVQ1WHNzMmpRcjdibG1wUzRoMWNCSllkQjNOVHhTUm1lTzVWM1g2enhqMXBCNFpuVC12ckpCUWRMV1AtTkl5dW9Qc2FaemU4MnduUHBXb1NYUlU1SXVSQS1JR1pBb0dWdzNKUTFOcDJkRDZMX3BQNFhQN3R5NTNrekdGRVg0VVVaUXY3SVNHMWVOVEp1MkNWUGpGLXd6R2Z0S3MtMFlSYm1tM1pxd28wMTEzWXYtLW1NSmNOcDRrdkQ4ZVlFVDUzUHF3aHdmQkV5Y2ZRam1Lc2pObkZFTnpCRTlTRGI2VVg4YWQtdmhQeDBBc21R0gH8AUFVX3lxTE1nbVFjMW1PY2pZMlFObVNOYjV1d3htUU9UQm9ONHZvSWFGdTJwZmVuMWpKaDh5UWhzc2lYZ0RhLWJKaDROQmFrYVNQM2RWYUVmMnMwMGlneGM4dWRCZFpnTU0xVHFCYi1FbWZKazgwaVFNVC1DcTRTLW9CLTR6MjdsWkJCMUV1QTRVMXliMlRrbnNGWGVfQ2lpd0pEdkd1SFlJRHdhMXI5eW9yb1VBMm44MTA1dDdiUHdzY0xBYmxwTEctNFRfcExidk5XUTd1Q0FOTHM5OEZ1ZERBcDZzd3hmTUpyS1lMSWhnZDRxUU00SkJ1M3FOYVFCZTN6dQ?oc=5"
+        },
+        {
+          "outlet": "KNN India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVdGYXg2Smw0dnhWZ0hSZ2ZoQ3UzTGdFcjdCTEZIRDhXTWdFdWYzVERfTHZyUjVJal94a1BadU5ZOFZ4WHRJdDNkWlUxdnVNUzJLNnRyM1l2d1RKNGNaejF4akpGX1pVUEFWZmUtczVJX0hnbjkyVlZqQmlBZ0YtT2RBLVhKdXpBRHc5djNQX3ptM09HLTBjdVExQlctMUVtTzRkd0JBQXFWSnhmZmZ4MnBKdVVjbHN2eXJGNkVodkk?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "CM sets target to link 1 crore families with entrepreneurship in Bihar, launches MSME policy. An economy-related story. Covered by The Times of India and KNN India.",
+      "image": "images/cm-sets-target-to-link-1-crore-families-with-entrepreneurshi.jpg",
       "image_kind": "photo"
     },
     {
@@ -405,6 +442,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar targets making one crore families self-reliant through entrepreneurship: CM Samrat Choudhary. An economy-related story. Covered by The New Indian Express and ThePrint.",
       "image": "images/bihar-targets-making-one-crore-families-self-reliant-through.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local",
+      "headline": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production - ANI News",
+      "summary": "",
+      "date": "2026-10-08",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalR1d1B4dFliV3U0cFcxVlpreHpzLTlwRVJNUnhkU2ozdXNpbU9xWWNCZGd1M0ZYVEFqbDRrSGxpMjRTWFFHZEU3bTkyOGNkNlBtaTU4SEhURnFFODJFdDR6ZXc5c0xydWY5YVJ2M3NuM2lra2FLekNLb1dlc2FzeUZwRDZ3d2VsSDdYZGJrdnpsU2hqdTBzbkxjcmkyYUkzNFNMbE9iNllzNGpNRVkzZDBORlJUTF9YQ2pYRzJiNGtpZ3BNVHExUUZQc00tcVZZ?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUZWU08wM2FZWlB0RDN3UUtZd2VTR1FIT0JwMDNwUlM0S2dYMkQyTmotN0lXT0lmOVZyeThyRGVod282bHBhUzBLdHl1d2xzMFN4TzRobGZsVlNpNTEyUUZmckxoN05NblZNWUxBci1kd0J1eUZob0tNM3hpaGd1dmV1cUg4RUJkSDNSemhmWDR6RDFvWU83VTZyZ3pfZnFFTFg1Vw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production. Covered by ANI News and The News Mill.",
+      "image": "images/manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local.jpg",
       "image_kind": "photo"
     },
     {
