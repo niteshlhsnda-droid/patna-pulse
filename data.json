@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11 18:35 UTC",
-  "generated_at_ist": "12 Oct 2026, 12:05 AM IST",
+  "generated_at": "2026-10-11 19:54 UTC",
+  "generated_at_ist": "12 Oct 2026, 01:24 AM IST",
   "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -34,6 +34,62 @@
       "genuineness_label": "Verified",
       "brief": "Bihar constable shoots himself dead in Kishanganj, investigation on. A crime-related story. Covered by 3 outlets, including The Times of India and Telegraph India.",
       "image": "images/bihar-constable-shoots-himself-dead-in-kishanganj-investigat.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "jd-women-s-college-teachers-protest-mata-sita-university-aff",
+      "headline": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ - The Times of India",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "politics",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "Careers360",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGdBWkhSM1lRZUswRk1tWThQTWZsU3pXSkw3Snc2U0lUaHNETkpHZnAwRUZuNGtuQl9ELVQ3YldJbGE3UFFJY0F0aFMzVnRrbW95ODd4MUxvN0l6QTJGOG1JTkhLRXotY2VuakQ0VXRNQUJYQ0Q3Zm9aOHdjRzBxLXV3QjhaOG1jdUhtSTNWMUZpdnZVQVdkUTVIR1VzVkhZTjFvNW54MDZmd9IBrwFBVV95cUxQTjUzUmtrMlZmbE5KWUJuQmkyMndFMUJfLXlLdGFIWF9NektHNVN1VFEta0VWcFYzOUdjSXJOT3NtZ3poUFgzOVozdjhKVHRyNG44b1hSMFc1UE1jc0NxZ0FUc1FpdlV4Z2IzaWphbUdwT1o1OThNbXlBcW5uZm1JTU5jNnAzV1pQdnlhYjdTaGJWWXZiQ25OOExUcjA5eVVMaEl2WTBRY1doWEI0MUhZ?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeUJWRW15YVpfcHA3cjJ6UzF3Zzh0YTdtbk9wUmtKLUE2YjRMR0ZpeUQwQ0ViUk02dzlka1FYSFJjRXE1LXRsaFpVY0hWY2MzcjJMNkhhQ0hlODFyYXZPeFFyYTdBNWd6YjdvVFp5NUROMEotWk5DaFlFR1dXMzhpbk9uYU9ZTkl3Q1RaaDFIWmtPU0ZLdHctZzA4Q21HNzZlVVdaQWV0bjVWbmc3U1JvN1lwMHpIQWxUeGpDd2xuVWxnbHZYRGRmNGRPdGpZaldQd08yQWw4T1BuODdjUy1WOTFzUHZoYU52ZFBOcnZaOWxoNVFHcjE5UzA3VFFuLTBCQko0S0R2RlEzbWtOWVNaSG9MZURnSWFTYVg4VmY3bGdsNknSAagCQVVfeXFMUGJKQXhvR29TbkZjUi16eVNxWEFpZFhScHZsV3NxTFRURHcySnhMV3FEcnNxZ19jQkJEZzAtalFac1VHVVowOWFEZjNpcUExSkY3M2xwWjZ3YUhUd2ZBZEdCenBjVGNWN3YtTVBqNUFJMlpoTURNLXR6UWRXLW9kSW5vWFV5RjRLWGdKUGlXTGdMYWVBUU4xZVZCM1dKd0tnSUZuV0YySl80SUNUdmJxVzYtZUtlUXRleGR5QnI4LTVEVnVlOUlxOHppR2dnZnNFVVN2OEQ2OEN2N3lZdmZsM1czWlE5UEU2Mm5rR1k3MUU4ZEwybFlZbmZNMFFRNmpPd19IUDdtcFc5eS0wLXlLNDN6V2Z4QVRLTzIxYVg3TDFCQUpQLVVnOG4?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ. A politics-related story. Covered by Careers360 and The Times of India.",
+      "image": "images/jd-women-s-college-teachers-protest-mata-sita-university-aff.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "no-decision-taken-yet-on-maa-sita-university-consultations-t",
+      "headline": "No decision taken yet on Maa Sita University; consultations to begin after MLC polls, says Bihar CM Samrat C.. - ET Education",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "politics",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "ET Education",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLXRaTVdDLXdLcWZPamgwcWQ5OXNTbzlaakJGZHlWT2tPdFdiZGVRc1lDdHNZRkprZXY2SUhUYWMyWTVZc1pOd2ltR2FiWC1ja0MwT2dDVmZSX3l4aXRnLWJMZER1VmRoVU1JZHdDU3VROUhvQU12aXgtcUttNUJqNGRZSm9ER3k2ejcxc0VRYmVING9KUWFQdmpDTElUejhMWlh5T2R1bENWai10SWxXYmhIdzR5cHNVY3J0YTcwbncyYVlvblJWSkoxbnZsSTJLM29kay1QSW81YkZkLUVUQUdWSWJIMjlZVkdITndaQ0phRlpyOGdGMS10Z0pqREpNNkVvTmZBamM1clhtbGhCVnR5a9IBmAJBVV95cUxQUml0YUI3ZWhJR1ptX3U5Q0VjVUd5WDRlWXo0eEFkbnkwVkVFVnVBSVh5TEFkc3pQa1ZrRlhndng2OUZwQ2pjZHhtckZqbTh1NFJTbzNfclpUOHZ2MGkwSlBYa2MzS0M2T1M0WHpZc2VJeTFxVVZjMzRMS0dpUGJMOE5TbGhNTGwwUTh6UzlSQzJaLVFOZHpPMlBTcU93RjZ0WGp5UFpuWjlJNml4RmlsMzhISlV2c01mQ1BWOUxSWFpBVG5ndU40dHhMdk9YU0c5ZDRWR0dBWF9IS3I0SmUzX0xEMEZrSHdUZGdGVWphRko2RnBRbDFzZzRWajg2U2pzUmU1MGx4RDhOZ2lrNTRLZEJwNVNvbUFT?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0ZFNkgzWUxSX1lUWFJqNTJiNVpSejdzaHR6dUIzRkpnU0VLMmlILUVWQXM0aTBWZ2JRMHM4YWJwUjJZdTl6ZGswU2tKUXppNkJpcWl3a0RSWGdNcmFSemk4VjZOQThDSnNRcE5YWG5HeExfaHNmVU1fV19nczk0cERQMG1ib0FLVVBDdkdMXzIxN1E5VUVGZkVRTmoxTUJ2SXl2UmNkRFpjNE40azlF?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "No decision taken yet on Maa Sita University; consultations to begin after MLC polls, says Bihar CM Samrat C.. A politics-related story. Covered by ET Education and The News Mill.",
+      "image": "images/no-decision-taken-yet-on-maa-sita-university-consultations-t.jpg",
       "image_kind": "photo"
     },
     {
@@ -75,12 +131,12 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2NQNTlHMEZVckZHUlQwT05tQTdDVzFfNlVFbzdUbnpvY2QxVHBFb3ZCN3U1YXRhbE1MWmlZMnk3cWNWOWVlVnJzWWxoSXhrbi1DUjVla1c4UDJjUmVWb3c0YlJWQk9sWXhzdHNETF9STnBrcWF5NVlFRDVKQi01dkx5MHdTbGFvZkZvSXhWeTZxUjV0dXBwTlJ5UXZiNDhXX25Va2JGNGdQS1BSWi0yb2o4SmZyT1doeEVuc0lVNEVocVliNWctVWg4MWtrVUdkZ09YdmoyRmVUVzTSAeABQVVfeXFMTVJrTE4yY0ZRY21QVnFoQXBFTlZYNW9yVlVzNHlmNHBYYVBFdFRxMlpBeURxd2hKdHRMR3NtVXBEWnRGMHQ3WFBaUGlOMTRFWF9wZVp3cktfVW56bFVuQ09KNFd2U21JY2tiTTRZNVZudklCUlpvOVN6U3ZWVVBibmw0T2FFZENQdmI4MFVUZ3Ffc2xMWnZpdnRjTnIybk9Tc09ORHB6cnd3dzk5RlBWeHNwMjlGT0puSmtxYzIwTWRLOXlMdTBybVRUS1pMOXJ4LTJEek40MDA4UDZ6LWxEV1c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFpRWUlPTWlsaDFqcTFQSnl5MkxUWmowbG1GS0ZZYVgtQkVVZFJ5cVpwSGZvXzVRenlZSjdXNWZoOTc0Rm1JT0RBYldlVlo4SmFnWm1IX2JHVUlmYmt5R0RWakxfYkJ2WC1FQVV3alRJYkZHemZudWZmMjZNT0dIQkpKZV9EeHV0T2FZOEw1R2RwaGlZSzQ5ajdTOWlTMVlHVkw4TFVWQVVPbHc4SF9ENlpFZTA4TDZnWXIzX2FDVkFXWmloYlREYjhEcTVhUdIB0wFBVV95cUxQYlJmOUVaNVBrcXIzZWxnVjVseTFPclhzZG5vSjVzNWVNaDREZmdrOE5ybjFIenE5aUlaWHVQcl83ZVJuVzZBSW50WngySFNaSkticjNHT3RreXBoeWh2Mld6REZWNlBKZXRTaTVXcDJyVWo5Q1Y2ekJNYkdjaDlPQ2FRVmxSZ1dxbmdjeS0xTUh3S3dLY0lLSjFQeWlpUjJfSjM4WFpIMmNQcjZ6RHU2NDZpVHI0SXlSZU9zdFJxRng1LVIxZkd5UGxNMWRMMTNUMkxB?oc=5"
         },
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFpRWUlPTWlsaDFqcTFQSnl5MkxUWmowbG1GS0ZZYVgtQkVVZFJ5cVpwSGZvXzVRenlZSjdXNWZoOTc0Rm1JT0RBYldlVlo4SmFnWm1IX2JHVUlmYmt5R0RWakxfYkJ2WC1FQVV3alRJYkZHemZudWZmMjZNT0dIQkpKZV9EeHV0T2FZOEw1R2RwaGlZSzQ5ajdTOWlTMVlHVkw4TFVWQVVPbHc4SF9ENlpFZTA4TDZnWXIzX2FDVkFXWmloYlREYjhEcTVhUdIB0wFBVV95cUxQYlJmOUVaNVBrcXIzZWxnVjVseTFPclhzZG5vSjVzNWVNaDREZmdrOE5ybjFIenE5aUlaWHVQcl83ZVJuVzZBSW50WngySFNaSkticjNHT3RreXBoeWh2Mld6REZWNlBKZXRTaTVXcDJyVWo5Q1Y2ekJNYkdjaDlPQ2FRVmxSZ1dxbmdjeS0xTUh3S3dLY0lLSjFQeWlpUjJfSjM4WFpIMmNQcjZ6RHU2NDZpVHI0SXlSZU9zdFJxRng1LVIxZkd5UGxNMWRMMTNUMkxB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2NQNTlHMEZVckZHUlQwT05tQTdDVzFfNlVFbzdUbnpvY2QxVHBFb3ZCN3U1YXRhbE1MWmlZMnk3cWNWOWVlVnJzWWxoSXhrbi1DUjVla1c4UDJjUmVWb3c0YlJWQk9sWXhzdHNETF9STnBrcWF5NVlFRDVKQi01dkx5MHdTbGFvZkZvSXhWeTZxUjV0dXBwTlJ5UXZiNDhXX25Va2JGNGdQS1BSWi0yb2o4SmZyT1doeEVuc0lVNEVocVliNWctVWg4MWtrVUdkZ09YdmoyRmVUVzTSAeABQVVfeXFMTVJrTE4yY0ZRY21QVnFoQXBFTlZYNW9yVlVzNHlmNHBYYVBFdFRxMlpBeURxd2hKdHRMR3NtVXBEWnRGMHQ3WFBaUGlOMTRFWF9wZVp3cktfVW56bFVuQ09KNFd2U21JY2tiTTRZNVZudklCUlpvOVN6U3ZWVVBibmw0T2FFZENQdmI4MFVUZ3Ffc2xMWnZpdnRjTnIybk9Tc09ORHB6cnd3dzk5RlBWeHNwMjlGT0puSmtxYzIwTWRLOXlMdTBybVRUS1pMOXJ4LTJEek40MDA4UDZ6LWxEV1c?oc=5"
         },
         {
           "outlet": "Hindustan Times",
@@ -93,34 +149,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Ranji Trophy: Kaushik, Rinku hit unbeaten tons, put UP on top v Bihar. Covered by The Times of India and Hindustan Times.",
       "image": "images/ranji-trophy-kaushik-rinku-hit-unbeaten-tons-put-up-on-top-v.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "no-decision-taken-yet-on-maa-sita-university-consultations-t",
-      "headline": "No decision taken yet on Maa Sita University; consultations to begin after MLC polls, says Bihar CM Samrat C.. - ET Education",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "politics",
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Education",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLXRaTVdDLXdLcWZPamgwcWQ5OXNTbzlaakJGZHlWT2tPdFdiZGVRc1lDdHNZRkprZXY2SUhUYWMyWTVZc1pOd2ltR2FiWC1ja0MwT2dDVmZSX3l4aXRnLWJMZER1VmRoVU1JZHdDU3VROUhvQU12aXgtcUttNUJqNGRZSm9ER3k2ejcxc0VRYmVING9KUWFQdmpDTElUejhMWlh5T2R1bENWai10SWxXYmhIdzR5cHNVY3J0YTcwbncyYVlvblJWSkoxbnZsSTJLM29kay1QSW81YkZkLUVUQUdWSWJIMjlZVkdITndaQ0phRlpyOGdGMS10Z0pqREpNNkVvTmZBamM1clhtbGhCVnR5a9IBmAJBVV95cUxQUml0YUI3ZWhJR1ptX3U5Q0VjVUd5WDRlWXo0eEFkbnkwVkVFVnVBSVh5TEFkc3pQa1ZrRlhndng2OUZwQ2pjZHhtckZqbTh1NFJTbzNfclpUOHZ2MGkwSlBYa2MzS0M2T1M0WHpZc2VJeTFxVVZjMzRMS0dpUGJMOE5TbGhNTGwwUTh6UzlSQzJaLVFOZHpPMlBTcU93RjZ0WGp5UFpuWjlJNml4RmlsMzhISlV2c01mQ1BWOUxSWFpBVG5ndU40dHhMdk9YU0c5ZDRWR0dBWF9IS3I0SmUzX0xEMEZrSHdUZGdGVWphRko2RnBRbDFzZzRWajg2U2pzUmU1MGx4RDhOZ2lrNTRLZEJwNVNvbUFT?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0ZFNkgzWUxSX1lUWFJqNTJiNVpSejdzaHR6dUIzRkpnU0VLMmlILUVWQXM0aTBWZ2JRMHM4YWJwUjJZdTl6ZGswU2tKUXppNkJpcWl3a0RSWGdNcmFSemk4VjZOQThDSnNRcE5YWG5HeExfaHNmVU1fV19nczk0cERQMG1ib0FLVVBDdkdMXzIxN1E5VUVGZkVRTmoxTUJ2SXl2UmNkRFpjNE40azlF?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "No decision taken yet on Maa Sita University; consultations to begin after MLC polls, says Bihar CM Samrat C.. A politics-related story. Covered by ET Education and The News Mill.",
-      "image": "images/no-decision-taken-yet-on-maa-sita-university-consultations-t.jpg",
       "image_kind": "photo"
     },
     {
@@ -460,33 +488,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar targets making one crore families self-reliant through entrepreneurship: CM Samrat Choudhary. An economy-related story. Covered by The New Indian Express and ThePrint.",
       "image": "images/bihar-targets-making-one-crore-families-self-reliant-through.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local",
-      "headline": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production - ANI News",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalR1d1B4dFliV3U0cFcxVlpreHpzLTlwRVJNUnhkU2ozdXNpbU9xWWNCZGd1M0ZYVEFqbDRrSGxpMjRTWFFHZEU3bTkyOGNkNlBtaTU4SEhURnFFODJFdDR6ZXc5c0xydWY5YVJ2M3NuM2lra2FLekNLb1dlc2FzeUZwRDZ3d2VsSDdYZGJrdnpsU2hqdTBzbkxjcmkyYUkzNFNMbE9iNllzNGpNRVkzZDBORlJUTF9YQ2pYRzJiNGtpZ3BNVHExUUZQc00tcVZZ?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUZWU08wM2FZWlB0RDN3UUtZd2VTR1FIT0JwMDNwUlM0S2dYMkQyTmotN0lXT0lmOVZyeThyRGVod282bHBhUzBLdHl1d2xzMFN4TzRobGZsVlNpNTEyUUZmckxoN05NblZNWUxBci1kd0J1eUZob0tNM3hpaGd1dmV1cUg4RUJkSDNSemhmWDR6RDFvWU83VTZyZ3pfZnFFTFg1Vw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production. Covered by ANI News and The News Mill.",
-      "image": "images/manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local.jpg",
       "image_kind": "photo"
     },
     {
