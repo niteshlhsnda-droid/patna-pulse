@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11 22:35 UTC",
-  "generated_at_ist": "12 Oct 2026, 04:05 AM IST",
-  "story_count": 48,
+  "generated_at": "2026-10-11 23:35 UTC",
+  "generated_at_ist": "12 Oct 2026, 05:05 AM IST",
+  "story_count": 49,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -147,33 +147,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "72-sp-dainik-bhaskar",
-      "headline": "पटना में 72 पुलिसकर्मियों का वेतन रुका: ग्रामीण SP ने कम मामलों के निस्तारण, लापरवाही को लेकर कार्रवाई की, ... - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaWdqcTlNNDBuQWxUeVNiRjdrLXc4dkpLR1gyejEzbUt5eUZuZWh3VnFEMl9tbXpGSHY5Z3pDdTJiSzE4emFyZGV0NjctVnhFckFscjRlUUJoY0g1S01USENuNklWWjY5WUlhNUl5V2dRMzBwaC1SXzJMN1RjVVpYTXhtMUs4blpqamVYNGF2bC1lNzdqNjh5LUgtS3dIVHFWSEpQakEtcDdraVpISEIwall1SWtVY2RIeHJKaHVQc0JiRlljbGM2d9IBzgFBVV95cUxQa2V6dmVGQ3g5Y0ZkUExvVVdXZjB3czFKVV9LeE92VldDQjNFZHhtcGtObVBOT0VvcXl3R05DNlB1YnByRjFEU0YtdWlGRy1URWlPZEVDSlN1b3B6bmVRRXBPb3ZDYWc3X3NIRXBfMXdKd0dITndTcnR1MUNOM0RrSk9rUHJtVUZtUlFhN2stTDFaU0d4MjZnbHZKNTdoS1dzM1NsZXFVek5za1ZURm1hTTlGYXJGRUU3V3psMFNPQzExck11cG50ek4tN1ZmUQ?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRpWndlT3M3RkZMTmlXMHNnc3RCaGVwNlN5eE8yX1JTelRpcVNHbEFCM2p4QWlqSkJQNXpvQ01hRVlnSE5JMktZSUdmczdmaHhQemF3d0oyNHpLUEZ0UElDQ2s4cVBTMEd5Yk1GYWVSUlVUdG9yRGJuYVctRDZtQ0tCeWNUWkxzcm5LYVRHTnNINEF2?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में 72 पुलिसकर्मियों का वेतन रुका: ग्रामीण SP ने कम मामलों के निस्तारण, लापरवाही को लेकर कार्रवाई की, ... इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/72-sp-dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "prabhat-khabar",
       "headline": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल - Prabhat Khabar",
       "summary": "",
@@ -203,6 +176,33 @@
       "genuineness_label": "Verified",
       "brief": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें News18 Hindi और Prabhat Khabar शामिल हैं।",
       "image": "images/prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "72-sp-dainik-bhaskar",
+      "headline": "पटना में 72 पुलिसकर्मियों का वेतन रुका: ग्रामीण SP ने कम मामलों के निस्तारण, लापरवाही को लेकर कार्रवाई की, ... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaWdqcTlNNDBuQWxUeVNiRjdrLXc4dkpLR1gyejEzbUt5eUZuZWh3VnFEMl9tbXpGSHY5Z3pDdTJiSzE4emFyZGV0NjctVnhFckFscjRlUUJoY0g1S01USENuNklWWjY5WUlhNUl5V2dRMzBwaC1SXzJMN1RjVVpYTXhtMUs4blpqamVYNGF2bC1lNzdqNjh5LUgtS3dIVHFWSEpQakEtcDdraVpISEIwall1SWtVY2RIeHJKaHVQc0JiRlljbGM2d9IBzgFBVV95cUxQa2V6dmVGQ3g5Y0ZkUExvVVdXZjB3czFKVV9LeE92VldDQjNFZHhtcGtObVBOT0VvcXl3R05DNlB1YnByRjFEU0YtdWlGRy1URWlPZEVDSlN1b3B6bmVRRXBPb3ZDYWc3X3NIRXBfMXdKd0dITndTcnR1MUNOM0RrSk9rUHJtVUZtUlFhN2stTDFaU0d4MjZnbHZKNTdoS1dzM1NsZXFVek5za1ZURm1hTTlGYXJGRUU3V3psMFNPQzExck11cG50ek4tN1ZmUQ?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRpWndlT3M3RkZMTmlXMHNnc3RCaGVwNlN5eE8yX1JTelRpcVNHbEFCM2p4QWlqSkJQNXpvQ01hRVlnSE5JMktZSUdmczdmaHhQemF3d0oyNHpLUEZ0UElDQ2s4cVBTMEd5Yk1GYWVSUlVUdG9yRGJuYVctRDZtQ0tCeWNUWkxzcm5LYVRHTnNINEF2?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में 72 पुलिसकर्मियों का वेतन रुका: ग्रामीण SP ने कम मामलों के निस्तारण, लापरवाही को लेकर कार्रवाई की, ... इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/72-sp-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -260,6 +260,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "12-dainik-bhaskar",
+      "headline": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWVNPdVR0UWljZml6NDBLRzE4WFR4Nlh0MGZkbnNzTVlENDhTNTUydk94LXBZaXhfUmZNakFmT3JudkZOcTdaVlhaNERBazhSVjh5Mi1xS0hmQ2R2WklTXy1OaU4welpVTm9aRUN0a2xFaGRZWDlPakJxYWtnMXN6UFF2STNoUkNGX0lzNDdhaFF6QWFDRHJwd1pEVXpTWkt4aW1wRUY0TnJoSE5kRnpobGV1X0htQm9Tc2lyQUhMRlJQakpjTjFWNU5VUU1xaXRZcjczQ2ozQ3pmRUXSAeABQVVfeXFMTS1IYWRmLThaVEQ5djNNWE51S0FfbXRnUHFnNUNlUU9rckJWRGV6YXBzNWN5Y1A1OVV5Z21uOEswYVJzUFBZT1RWNlkzcml3TmZrbG1iYWU1VEhIRjRLbEo5MzRtOEV1MDNJcndzSEJ2SmU3UUJmNDBROU1Dem1MMDcwejU5V0tXeVR4YnpqN2tUNGU5Yk90M1IzejVaS0pMZjNCTTRua01XRFNqNEd3VWJMS09DVTQtLUZlQWx0YnNBdldBNUhNSk1Sdy1uVHNKN1RQRklWRFc2MDhyTjE1WkU?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXg2a2tKUW44QURBNVJtMzJuY2UyclU3UTNuVGZqdUNLd3ZESDRlX2kxY1FZWG8xRVZ4dUlVQlpJdGdCckJPM3pKTVlrVFlVTTB5V0NVTjBBcFhadzRsZGc2SVZwMm9wT2Z0ZGZva1VhQjRUVXR4clRaUWpERmhYNk5HeUJxZjBoT2UzQ0JWZUV0Vk05V2lRdnBhcnR0VlRHYXNlVHN2Qy1lN2NEN0tWUV9MWEJvblJGRHBiWktlb1c5cWtMMksxU0FaamJULWhWTDdJ0gHYAUFVX3lxTE8zTms3TnVLcnpyU0wzdlEzLWU1SWc3SXlsM2p6UW9UYnQ0T3IxRTU5emVEc3JBeEpWZlozRVRhRU94Vzl3M01BQ0pnUXFwTUU5LXFYX0N0Vl9xWjBjZHFjSHZvX2xfdW9YNVRSaDdqWkF6TWVKVkdBWWlibVZlRjl0S28ycjRGR01pTmJ2a245elJTX1FhV2J1aHBOaEFPdFZ2QUdGbGRQQ2lKTzVneVJPTlhFb0JxaDBLRnJfWjBEMzUxeVEzSlNoWmY2OVNoYjlJZmJyeFQxZQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... इसे Hindustan और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/12-dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "dainik-bhaskar-2b4784",
       "headline": "पटना में पिता ने बेटे-बहू पर तलवार से हमला किया: घरेलू विवाद में तीनों घायल, निजी अस्पताल में भर्ती - Dainik Bhaskar",
       "summary": "",
@@ -314,48 +341,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int",
-      "headline": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition | Trending - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSkVPZ0hZX1RWLWtGVHg2QjY1ZzV2bF9SMXhoMXVsQUxIa180YUJYeWtta3BubFdhUVhLRVZfdTU2SV8zWm1xSmwwUHk0RkRDSE1Ram1qNkZZUW1xVmJwemRoTVdJMnJ2TkczNFlrTC1pQlhIZmdXd3lhY1NqS0dzTUhUTUsyMEphMGIwaEJWUS1iQ0NJUkdhRk43QjRZYnVOb3JDWVJfZUZJLUt2MEZxTTN5QWtnYi1wNUp6ei05bVBmRWJ1bTVyaGl4elBsdGNEcTZoU256REk2RTVRMF83UWpSVk0ycXRvb1JpODJTcjNmcG9pMnZXenRZcXhOdkpiRmfSAYcCQVVfeXFMT3gtNVQtTEt3cXhOZkQ0NWxUMmN0c1NlQ3J5QUZEdE1paW1yU3ktbVAzTjRkX1gwdVV2SFRySWczN0t6bDRtMi12T19EX2lWakEzcnE4WHlCLUhMWENsUGJFVi1oX1pqZ3ZMMVAxVE1XcEZkdVYtUmVYNHBqNXNMWkNrUlJBMTliR1dkZnBmUG9OUndYdFlVWUo0aFhqYUp1bHJRaTliRm5BUDctVVZZWjVxREFZTzdJTV93TVNlTkJPNEhPYmtBdkNFS3U5T1dxLUVubmdqRDZOMW9xYVV1MkwtbE82aUs0aDVfZUlaS2RBVEVmRGl3dEpVQXF2Ulc3YW9SYVdYWnc?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQUFoyTTVBcmdqNnU4MF8wbWdDS1lvVHlHN2FCVURtNVVQX193TWhBc3RTclRxeVJyOXNIUTlnSWxGblhWbDRxZzI1clBXVXVvT3Ztd2ZRNXB5emhVMFJ6NXQ5amk5Q2hhQ0VSSEIzb29sYnRTU0dCQl9xc1F0QVJiS3FfS2IwVDZsbGEwUjJpak5LbVlpY3hnUTZFU21LMUFKNk5oUG1Fd3NFaFRfX0VHeEIwMktpLUoyQlJ0LXFIb0IxYjBSTUdNbUFWZ3RtZEtkd0R2S0h0aUlmM09vcllLLWNaZ3BCTEhweVNEQTgyTFVWbTlzUXI0QUZlQlFGVWVrVzFwZnM4ckphZnlTd1NhVjBFUUpHX3Y0N3BRUTBkOXJ0amRoWDlqTkRrOHhkZ9IBswJBVV95cUxQNnVOUVkwNDJ5OGdMWVlvbWlSaGlQWkpnb3NnclV3YVVwVmRub2lKalVfeWIwYk9BazY5N1lsVWhBeXAzZm5QZE44VXljY25qOXhaLVFrU2tLRzh6WTByRUp4VU92SmlkcE5nclk1Tkg5bXpnbWpRbGpJSHNYZ3lZbnZ0V3VUVW1OQ09DNTBFWWVJYVdxY1RVMnFqckVUZ0lldDhQZFp2WXRBQzdZNTBsUTBvYVNtWXdwTWdQSTZ3QXFRbk5TdDAtRUYzZzNtdVk3TkZqQ3ZRYUY0eWFYTzRKMDNuWVhGUUlPc0xLZ3dGMDE1ZEFSU0lZOEduRGRrcy1xZjV1bWFpZklDWkhvXzlTOEhfRml4ZjN2UnU1dGRHV0k2NkdxOXJvTTVMakxGUUJlcHBZ?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOU13eXBranBNYWxKMVR5RkdWTkNiZXB3eE5GaThEWVc0YVNUczVucFh6eUsxMnVRNGpmZ3poQkl1cTk2MnVPa040VDZQT3JNTkkwQ3FNeTM2eGgtaG8xeDE1X3p6MzQ0ZDBVWkRWbUt1NWQ3NzZaTEhfb19zMUZzZXgtSVdWRzNvVUVmYWdmNHlHUEdOdGFvUUVHWTlRUFVYbkFPYnlXMFFyY21Od1BVaFV5LW1zUUhtLVZaQjVyRjczTHN1U0paanVQM19FM09UY1HSAdcBQVVfeXFMTUNZZlY0eHh5SWZxVWhuQm1FeXEzeWY1WXkxcElSa0hFREcxM3JMMzIxSy02MlQwYmdFamgwRmM3WHZoVWNQMUd5UHhkdENvbTQyMDgtVFZQUVFtOHdQWENYRzBadUl4aUhmWm9FRkpNTGFFMm1IcXZfREw4a2RpYXFjMnNhMmJ1Z1YxMV9MbUpOaWZWbW5GTU0yeWRvRk12OElGdjNyVlJtbXBIcXo4aVFKZ24xVVU2c2ZCVGlBUVB6ZWxjMmJaSndQektXOG8xYUYxQk52d0k?oc=5"
-        },
-        {
-          "outlet": "Gulf News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzZQVVNlREZCYnZWdWtpZXpHbEt2TElHLVpMX0J3dm1ZVlhuaEM5YUN5VkNjR080NVM4TmplYjJOZk9aR3ljT1YwRHpoekNiOTE0WVcwN3FfcjB5V3o5c054VHB0WGJXOEpBbl9VbEY1cXBXRktOb2pMR0lSRHZRT2VwSE5lOGRzLWRxOThURXkzY3M0S0gyOC16a1BTT29JUW0xSllQZG55OFB0NWxWZ3RReERsNDJtekdaUWRR?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlpweXpNZk92dVhaMTc1endyZzNRTmpfV1JDQWJQTHltZ1k1LUg3dGNnSXkySGdWNjI0ODZtakdaNm10NFBVWW0yS1VuM0xtMnBVMU5VR3ROejlBLXZncF9QRzZzVzliX0pRYjRDZ0sxRnlzeHQtOW1TanY0Rk1RbG96YTJmT19jc2lMTEZSVFZKdEN2cDctOG5vM3BIc3lReXgxWXRTdlRtV2JwMVN5MUJ6QlZ3bHJDUENRcjhURmtDVWs5R1hjSTQ5QXJyc1NfMHI1b0w2WWJFcXZQdXlFcHpiXzjSAeoBQVVfeXFMUHVBc0VrTUhzOWlSbnZKWUpyTnd6eWVZakdQYWVsOFV1MjFpUGpOdl8yOC1ScUpJOGNyOFNCWTFlSndZN0ZCZmotU2dvRnJCd0d2ZFphVW9JczJrS0kwOTNMckNiVEFWUTlwRkVmOWhlNEt1VU12XzFzLWtOSzM4eDlOR1gyZmxaekZraXVtSk05bWZ5OGRQQURWa2UtakhUSHNnM3BDR29SMWFULUdyUTd5RExic1RQWmx3SVFPQk92TGhwQzVWbThnUi1RbzE0LW9DekNkSVI5SHc5dmhCWks1Y0lHMmhMVXVB?oc=5"
-        }
-      ],
-      "source_count": 5,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by 5 outlets, including Moneycontrol.com and The Times of India.",
-      "image": "images/bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "cm-sets-target-to-link-1-crore-families-with-entrepreneurshi",
       "headline": "CM sets target to link 1 crore families with entrepreneurship in Bihar, launches MSME policy - The Times of India",
       "summary": "",
@@ -380,6 +365,38 @@
       "genuineness_label": "Corroborated",
       "brief": "CM sets target to link 1 crore families with entrepreneurship in Bihar, launches MSME policy. An economy-related story. Covered by The Times of India and KNN India.",
       "image": "images/cm-sets-target-to-link-1-crore-families-with-entrepreneurshi.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int",
+      "headline": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition | Trending - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-08",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOU13eXBranBNYWxKMVR5RkdWTkNiZXB3eE5GaThEWVc0YVNUczVucFh6eUsxMnVRNGpmZ3poQkl1cTk2MnVPa040VDZQT3JNTkkwQ3FNeTM2eGgtaG8xeDE1X3p6MzQ0ZDBVWkRWbUt1NWQ3NzZaTEhfb19zMUZzZXgtSVdWRzNvVUVmYWdmNHlHUEdOdGFvUUVHWTlRUFVYbkFPYnlXMFFyY21Od1BVaFV5LW1zUUhtLVZaQjVyRjczTHN1U0paanVQM19FM09UY1HSAdcBQVVfeXFMTUNZZlY0eHh5SWZxVWhuQm1FeXEzeWY1WXkxcElSa0hFREcxM3JMMzIxSy02MlQwYmdFamgwRmM3WHZoVWNQMUd5UHhkdENvbTQyMDgtVFZQUVFtOHdQWENYRzBadUl4aUhmWm9FRkpNTGFFMm1IcXZfREw4a2RpYXFjMnNhMmJ1Z1YxMV9MbUpOaWZWbW5GTU0yeWRvRk12OElGdjNyVlJtbXBIcXo4aVFKZ24xVVU2c2ZCVGlBUVB6ZWxjMmJaSndQektXOG8xYUYxQk52d0k?oc=5"
+        },
+        {
+          "outlet": "Gulf News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzZQVVNlREZCYnZWdWtpZXpHbEt2TElHLVpMX0J3dm1ZVlhuaEM5YUN5VkNjR080NVM4TmplYjJOZk9aR3ljT1YwRHpoekNiOTE0WVcwN3FfcjB5V3o5c054VHB0WGJXOEpBbl9VbEY1cXBXRktOb2pMR0lSRHZRT2VwSE5lOGRzLWRxOThURXkzY3M0S0gyOC16a1BTT29JUW0xSllQZG55OFB0NWxWZ3RReERsNDJtekdaUWRR?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlpweXpNZk92dVhaMTc1endyZzNRTmpfV1JDQWJQTHltZ1k1LUg3dGNnSXkySGdWNjI0ODZtakdaNm10NFBVWW0yS1VuM0xtMnBVMU5VR3ROejlBLXZncF9QRzZzVzliX0pRYjRDZ0sxRnlzeHQtOW1TanY0Rk1RbG96YTJmT19jc2lMTEZSVFZKdEN2cDctOG5vM3BIc3lReXgxWXRTdlRtV2JwMVN5MUJ6QlZ3bHJDUENRcjhURmtDVWs5R1hjSTQ5QXJyc1NfMHI1b0w2WWJFcXZQdXlFcHpiXzjSAeoBQVVfeXFMUHVBc0VrTUhzOWlSbnZKWUpyTnd6eWVZakdQYWVsOFV1MjFpUGpOdl8yOC1ScUpJOGNyOFNCWTFlSndZN0ZCZmotU2dvRnJCd0d2ZFphVW9JczJrS0kwOTNMckNiVEFWUTlwRkVmOWhlNEt1VU12XzFzLWtOSzM4eDlOR1gyZmxaekZraXVtSk05bWZ5OGRQQURWa2UtakhUSHNnM3BDR29SMWFULUdyUTd5RExic1RQWmx3SVFPQk92TGhwQzVWbThnUi1RbzE0LW9DekNkSVI5SHc5dmhCWks1Y0lHMmhMVXVB?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by 3 outlets, including India Today and Gulf News.",
+      "image": "images/bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int.jpg",
       "image_kind": "photo"
     },
     {
