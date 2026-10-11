@@ -1,36 +1,9 @@
 {
-  "generated_at": "2026-10-11 04:35 UTC",
-  "generated_at_ist": "11 Oct 2026, 10:05 AM IST",
-  "story_count": 46,
+  "generated_at": "2026-10-11 05:36 UTC",
+  "generated_at_ist": "11 Oct 2026, 11:06 AM IST",
+  "story_count": 44,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
-    {
-      "id": "jagran",
-      "headline": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई - Jagran",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVBUUXNGcFJKZVJoZ0owVEd3OWYwNjZZMjRHMTRGcXdoQ25MMjBQOEtrNjdtV3B0YTJLNzFhV0hkR1N1YWVyaG11azRWOUJyV21CdmZrZTZOM3M1WFlLeEhoUll1bXRjdTUwc0t1Zl9YbWNWVUg1NVNUbHdCTm9hc1NXZjdUajlya1FsTGcxRzdfd1F1dWZMQTRaUThCTzA1QVlrb3Zhek94emROZHVHankzdHE?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT055ZUszTU5SQlZ3d2NudTE1aHgyblprNzNReDVDZjZ5XzBXOHJUM0xTQ2lYeGYzb0xac2trNFhlYWdSVWtiVnhFOFU3d0lVd04zVmFUQTN0cEl4MVJPSURmM2pQUGRLeGtNeTd6b2dnSUo1WDJsYjVYWkhOYnVoSE9UUXRYekJvZVZyeFIyM3JiZ2tJRHc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/jagran.jpg",
-      "image_kind": "photo"
-    },
     {
       "id": "navbharat-times",
       "headline": "दिल्ली में आंदोलन के बीच पटना में प्रदर्शनकारियों के लिए एडवाइजरी, गर्दनीबाग के अलावा कहीं और धरना-प्रदर्शन पर रोक - Navbharat Times",
@@ -59,6 +32,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "jagran",
+      "headline": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई - Jagran",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVBUUXNGcFJKZVJoZ0owVEd3OWYwNjZZMjRHMTRGcXdoQ25MMjBQOEtrNjdtV3B0YTJLNzFhV0hkR1N1YWVyaG11azRWOUJyV21CdmZrZTZOM3M1WFlLeEhoUll1bXRjdTUwc0t1Zl9YbWNWVUg1NVNUbHdCTm9hc1NXZjdUajlya1FsTGcxRzdfd1F1dWZMQTRaUThCTzA1QVlrb3Zhek94emROZHVHankzdHE?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT055ZUszTU5SQlZ3d2NudTE1aHgyblprNzNReDVDZjZ5XzBXOHJUM0xTQ2lYeGYzb0xac2trNFhlYWdSVWtiVnhFOFU3d0lVd04zVmFUQTN0cEl4MVJPSURmM2pQUGRLeGtNeTd6b2dnSUo1WDJsYjVYWkhOYnVoSE9UUXRYekJvZVZyeFIyM3JiZ2tJRHc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "58-5-kg-jagran",
       "headline": "पटना में फूड सेफ्टी विभाग का बड़ा एक्शन: पिस्ता हाउस से 58.5 KG ड्राय फ्रूट्स जब्त, एक्सपायरी मसाले नष्ट - Jagran",
       "summary": "",
@@ -83,17 +83,32 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना में फूड सेफ्टी विभाग का बड़ा एक्शन: पिस्ता हाउस से 58.5 KG ड्राय फ्रूट्स जब्त, एक्सपायरी मसाले नष्ट। इसे Navbharat Times और Jagran ने रिपोर्ट किया है।",
       "image": "images/58-5-kg-jagran.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
-      "id": "unreserved-memu-special-to-run-between-prayagraj-and-patna-d",
-      "headline": "नवरात्र मेले में प्रयागराज-पटना के बीच चलेगी अनारक्षित मेमू स्पेशल, विंध्याचल व मीरजापुर समेत पीडीडीयू जंक्शन पर ठहराव - unreserved memu special to run between prayagraj and patna during the navratri fair stops s - Jagran",
+      "id": "prabhat-khabar",
+      "headline": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल - Prabhat Khabar",
       "summary": "",
       "date": "2026-10-11",
       "topics": [
         "general"
       ],
       "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU01aUllmMFdveDUxR2JXanZScjJnTEFoXzA5U2dOVWQ0ZlBTT2pnOE5UOFdoNEQyaVIwWGZfTjQ4STVKT2RUQ0ZEeEN4SGV6Mzh5cVBsOHRTWUdfVmVwS01icmRLcjFQQjN0b2xOclNESEJRNGlWcE9La2dRNlYxN29mX1FkZnBHazhDUF91eUhjZ3docWdYVTJSMHNlSFNuVUpz?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONnFJbF9aNWlCa0V4dkpzVmFLN0lHdHJ1RzlyUWNuYjBsNGV6bHJIZDJ4UkhiMnNPaGQ1QXQ3aWJKTDZFdE1aSVdGTlFxbzVqSEI1bVFxSUV5ZWJSY0Z5U19oUmlEVmhfeFpkbVVmby1Mbl8zQ2RSNnJFV2U5eEdQN1FzMXZPR0s1cUN2a1U5SEhPdDlpbnJhUEZ2eExLSFVIM3ZOQUJGYTNYRWl0elFwYXZXeTR0QklydE5QUmNoV3otWGdGMHdqXzNRdnNKWklTRV9sb2M0dkxOcTlOaktILVVDY3d6SDg1WHfSAe8BQVVfeXFMTXNsTy1BUGszV2w3YV9CTkhlQ2tMa0ZJLXI1ck5nWkdnN3l2NlQwN2ZrVHUxVnM5WkVTS2NDRTN5eE4yOW14NHFtcDRJTWFlYU1PLXNmZjFsQzF5aHljbG55bDNTR1Vhbi1KZllELU5zY045WjF0dTVhb25ZOGlFMWgwWldCc1RONVNHbm1WbGNzY01iand4Ui0zTk5wRGk4bXE1M21GWjh3NE5CZzV6cUR5bkowU1hoVjQ4dEt0anFDOXdjRV9nUUNkUmxaTkRaWDVOZk5SNkRZc2twcFNMbU9ySVAwYnFMMGRVYjhZUzQ?oc=5"
+        },
         {
           "outlet": "Hindustan",
           "type": "news",
@@ -103,38 +118,13 @@
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXg2a2tKUW44QURBNVJtMzJuY2UyclU3UTNuVGZqdUNLd3ZESDRlX2kxY1FZWG8xRVZ4dUlVQlpJdGdCckJPM3pKTVlrVFlVTTB5V0NVTjBBcFhadzRsZGc2SVZwMm9wT2Z0ZGZva1VhQjRUVXR4clRaUWpERmhYNk5HeUJxZjBoT2UzQ0JWZUV0Vk05V2lRdnBhcnR0VlRHYXNlVHN2Qy1lN2NEN0tWUV9MWEJvblJGRHBiWktlb1c5cWtMMksxU0FaamJULWhWTDdJ0gHYAUFVX3lxTE8zTms3TnVLcnpyU0wzdlEzLWU1SWc3SXlsM2p6UW9UYnQ0T3IxRTU5emVEc3JBeEpWZlozRVRhRU94Vzl3M01BQ0pnUXFwTUU5LXFYX0N0Vl9xWjBjZHFjSHZvX2xfdW9YNVRSaDdqWkF6TWVKVkdBWWlibVZlRjl0S28ycjRGR01pTmJ2a245elJTX1FhV2J1aHBOaEFPdFZ2QUdGbGRQQ2lKTzVneVJPTlhFb0JxaDBLRnJfWjBEMzUxeVEzSlNoWmY2OVNoYjlJZmJyeFQxZQ?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDJSMDNRVFpFNnAtS0ptamt6MHVzT21iQ01ETDJicFBrNkVQSnJ5dkkzUzlDTVNSZ2NKV0dCVHFyeFQ5SVdDaThmdGxwVThRN1JObk1lbnRnaUtzcmhKcVBHTzVEMXlCaXBIbHVMdEFCWms2Y3E0MXZRa19JXzZWakM5NlYzTjN0YkpsUWVhMlNuOF9RcVp5SjZlNnpPUkxCaEE1aWJuSlR4Z2Z4c29HcDc0NA?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONnFJbF9aNWlCa0V4dkpzVmFLN0lHdHJ1RzlyUWNuYjBsNGV6bHJIZDJ4UkhiMnNPaGQ1QXQ3aWJKTDZFdE1aSVdGTlFxbzVqSEI1bVFxSUV5ZWJSY0Z5U19oUmlEVmhfeFpkbVVmby1Mbl8zQ2RSNnJFV2U5eEdQN1FzMXZPR0s1cUN2a1U5SEhPdDlpbnJhUEZ2eExLSFVIM3ZOQUJGYTNYRWl0elFwYXZXeTR0QklydE5QUmNoV3otWGdGMHdqXzNRdnNKWklTRV9sb2M0dkxOcTlOaktILVVDY3d6SDg1WHfSAe8BQVVfeXFMTXNsTy1BUGszV2w3YV9CTkhlQ2tMa0ZJLXI1ck5nWkdnN3l2NlQwN2ZrVHUxVnM5WkVTS2NDRTN5eE4yOW14NHFtcDRJTWFlYU1PLXNmZjFsQzF5aHljbG55bDNTR1Vhbi1KZllELU5zY045WjF0dTVhb25ZOGlFMWgwWldCc1RONVNHbm1WbGNzY01iand4Ui0zTk5wRGk4bXE1M21GWjh3NE5CZzV6cUR5bkowU1hoVjQ4dEt0anFDOXdjRV9nUUNkUmxaTkRaWDVOZk5SNkRZc2twcFNMbU9ySVAwYnFMMGRVYjhZUzQ?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQcG1fSmU2eUFkX0dZV2ZYX1haQXRvci1GeEE1UHdZb3Z6a1FkVV9HSUY5NHdsNC1kTDNyYUNSQ05mY3Nab1hJQl9FTm9zMzBMTWJtTVlBMHo2VmhCMjU0TE5VX2p6cGI4eVhlR3hqRC0xekx0RlhQemtzTW5zWEpFWm5OaGVJeC1ycGg2Sks0T3J0Z0xfQno1dHNTeThyLXJ0TWR1Y2xhMk5zU0xsQ2dxdGFZam5nMVNCVnMwVjQ0RGxxSllsVk1ib0xhdGZrV3JsdkpPN19qLU5GcHh3dFhNUVZJZUJnUGNydWphdjBSY1dZYjY5RjFmSnRBTWwtdkNLSFd4U2pwM0FYOHJqalFsNHpzU0tpS3g2WXVqQTBEbXpHMUtZUHlBcXFB?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU01aUllmMFdveDUxR2JXanZScjJnTEFoXzA5U2dOVWQ0ZlBTT2pnOE5UOFdoNEQyaVIwWGZfTjQ4STVKT2RUQ0ZEeEN4SGV6Mzh5cVBsOHRTWUdfVmVwS01icmRLcjFQQjN0b2xOclNESEJRNGlWcE9La2dRNlYxN29mX1FkZnBHazhDUF91eUhjZ3docWdYVTJSMHNlSFNuVUpz?oc=5"
         }
       ],
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "नवरात्र मेले में प्रयागराज-पटना के बीच चलेगी अनारक्षित मेमू स्पेशल, विंध्याचल व मीरजापुर समेत पीडीडीयू जंक्शन पर ठहराव - unreserved memu special to run between prayagraj and patna during the navratri fair stops s। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Dainik Bhaskar शामिल हैं।",
-      "image": "images/unreserved-memu-special-to-run-between-prayagraj-and-patna-d.jpg",
+      "brief": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Prabhat Khabar शामिल हैं।",
+      "image": "images/prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -282,65 +272,6 @@
       "genuineness_label": "Verified",
       "brief": "Bihar Board Registration 2028: BSEB Extends Class 9 and 11 Registration Deadline to October 24. An education-related story. Covered by 3 outlets, including Moneycontrol.com and The Indian Express.",
       "image": "images/bihar-board-registration-2028-bseb-extends-class-9-and-11-re.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "navbharat-times-75e106",
-      "headline": "दिल्ली-पटना रूट पर विमान किराया तीन गुना बढ़ा, आज की ट्रेनें रद्द होने से यात्रियों की बढ़ी मुश्किलें - Navbharat Times",
-      "summary": "",
-      "date": "2026-10-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORU5wVFNCMVFTSEt2WE52N3RnQ0txYUplYWtlbFF2UkVnNTlyVGw2YkU1aWZKNmZEUk55Q3lvcVZhNkhSdEJLZ1dod21RVGlHOWZrNmhZcWMxeUpUclJUTHo1U01Hb1ZIaUFIUXVZQmhmS3RIdmhyMHo5OElDSDNMbXhtTGpvQnBLYWFhcUt1WEFaVkZxemNwY19uR0Z6Rjh0ZVZRakpiS0tZRFpsbEFYY3dNQTcxX3ctMUluaEo4UENNdGhHeUQ3V1FhRTg5dk9NS1hJSG8tRW5weGY2bDFtWDJ4c1d1eDlsMldwOEl6aElET2tHWG1YbzJhTXlqdEIyVTZnWWVVYW1HTG5R0gGSAkFVX3lxTE94MHdNZ1NkbkRCYkhzOE5XS3NETVhYU2toUHFXWHh4eHZkYWpKS1R6cUhCRGJNS2wzRkZCclU4dElfWXBqUVQxTVNRRnlDUkFBRm81VE9QNGdPWHVIdHBqcWNMeV9mSl9ZSFo0eTJDQ25lbjdNUkQ1N25uOTRYQzZqYzRZR1RWQ083cEFQNndBR0lrNkYwa2tld3NBNHhwejBxVUNNMWMxMDFaNjZtX2FXWEdZTlpSM2FHRVVNM0Y1X2hoRThISGJGeUdxZW04VWhDUDV3YjRpVi1GU0g2bzlWZjhuTHFzMlFyWHR0ZzA3OTVWa3FiVzVwd3FSN1FJeGhxNUtHLWJaTDBsdkxhLUpndXc?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFl0dGRUTkFfUGJISFV4Ukh1NDE0SHNzUi1vU2pyTjB6cXB3MV9lNzFDUzJUQmNtZTNnNFo4aTVHQm50dzBaY2pTbWpzcmk1T0l1VkFBekNCeGhSV2Q2Q0RqcWswVTJVa2lYSDM4VGdvNUdnWEJ2V3FSLXRFTkxBdU5sVnlPVHNXVXlmZ3BUZGpOSjVjcmlvN2NodTNaMERCcF9tN0dmZTFrMTc3VVZfcWVLVEQ4SmJCVWZPdmYyajRXTGFWOENnVVIzQlNfbFZMY2ozeXVXMkdYVWRhVlhOYlBKR2RRUdIB6wFBVV95cUxPX3JTaGdKMzB4dHl6ei1UWi1idExudkJKNWtaYjhKc045TTdWNEZ4UEFpOUt5SzYzZWR0MGRuU1pOdW15NHAxdHBWOUppWUduZl83RGd5U3RWSHkyc0NraEFTR0JzNG1TTGI3NGFLaDlIS3NESHFwXy1KU2I2Q2xiVVdZTWVhcHpMUzZBM2JHdVg5MFRIWXVZWTVSclhnOEpSbDNWVGgwWWpROEFreHZLcmw3VkQyZmtVbkU5NlNLNEdyeExGQlY0NmZ5cVBFZ0MtMlNRQlppSnZkTS1tVUNWUGFfNEhyOHBEM3RJ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "दिल्ली-पटना रूट पर विमान किराया तीन गुना बढ़ा, आज की ट्रेनें रद्द होने से यात्रियों की बढ़ी मुश्किलें। इसे Navbharat Times और Hindustan ने रिपोर्ट किया है।",
-      "image": "images/navbharat-times-75e106.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "bihar-eou-recovers-52-lakh-cash-35-lakh-ornaments-from-execu",
-      "headline": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises | India News - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWkJuREhhaFF3OFVET0ljbkZiRVYzb04za1EwX09RdXN3TngwUHVXMUV1NXRoX2pLSWw2VlU1Ml9vSkpRV0dWMlQ4eU9zcklWS1NCaXhFRE1zR3BybDRBTW5ObkNyZUxMOFJVclphN0tHbC04emt5SFBvQVBhSFBaaVFoUnNJYXdJT0x2TzlocTRWang0ZWxtZFQyek5pVkNWamQ1Z2FRLUV4U2R0NWxKelp3SzZXQV9nRnQ0TkthMWJ1aGJQZEdRZk44bDZNQzFkaE9qVGRyT1MwRlROYl95Q3ZSc9IB6AFBVV95cUxQbXBiZlI4ek03WEZ1OXRWb25ZcXpoRDRKSUE1Q21kaU5BSGFmTTFnQ2I4M0lzYjd1OHI1bGdLOXFhMFFRTHhaZjQ3NnpScERaV3ZCZXlaOU9CN3l2MHhSRC1MYl9RT2ZJeUxUd3d6bk5PckFZU0tFRjllRTg5M253ZjhBZURmN0J1OWlJZHdEZUhoLUlKcHJteGlkajg2bUZ5QU9ONDhUNnBQOE1qdkZFQUN1WmRyM3M0Wnk3VXJlRlRsd09iYjc4ZlF4TFd5ZUppSHNvVmJQVEZMR0NtS3dIZmhRQ0RFTG9p?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUNHR1RfejRNb0RvMm14aFdDRldiT2MxdmY2ZnUtc1lMR0NjQkU2UmMtMmJOZG1BSlF3bHBqYk1zb1Zja0tqbkYzeTNDbEdfLXdKV2R6UzdOT2x0UWsydEloaHRKRUtOM005UEVyUU84cjcyeXRHUDJvdzJlTjVWSWdYM2hBdEVhU2Fha1NXbHlFSWZIcEllWkpvbzlrZnh6N3J5VG9CMndvNVpsdmkwRzZqb1BBanh3MnVtNFRR0gHDAUFVX3lxTFAtX01wNFE3bU5FTExVcGg0a1pnZnJBb3hrVDRBWVhObHBnQzIyRTJBdVB0RlAyV0ZHRENRRWRPcTJnNlVaQWNsdEI5R3Y2Z3ZwYWIyZGw2S203TWRkZkhmYUhTRTJuMnJZYXZFaC1OWTdaRlJqV1E2Rzg5V3lpWTBWMC0tckVaS2Y5cDRuTkpYWUxkeVlsQU1lWVdjR3AxdW03S0R6aVROcUkxak5FNFp4MHJES0pnaXRRUUpMeHdWRmUxcw?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUzg3eURmY3RvTENxa3FoTWphb290ekUwOXhqam9OOHFkZmdMWEdzVG5JVGVpVG9PSHplYlllNlZMUmJwNWw0d1hrUzhkNGdsM19HWVNqNkZpSVFzdk5iNWd2QUNXTWdXaDZpcVE4RzdhSU5faWZhZFhJWU9OcFUtX0FQaTJuenlsS2pGSzRZMFBmaDRDc3J2VW1UZ0VYdjRIMmIwNWdzUFFMOUdQVFpHaXdnWEFlVmtCX1dDSllWUnJQaV9jQ1FNeG9mNU5WdjRtcUVFOEpVd2pGOXfSAeABQVVfeXFMTjQ0QXczVzhZcmVhWWZRQnQtamtmeGVUaXhXNHlUZWtBNEdJNll2S1J5ZDkxakdiTnFUMi1sTGZ1eXhJbmE0TUZFYzZ6TE9GR0FvRmJxb3BkeWhNSGp5LTdIN0QtLVFHNDVqZlliSW1fQ1BXUUtnelA3eDRWVUZHS3E5bTg0QXZxYjlmcmFqVVlhamo3QkZWMTlrV1ZkaEhpNzNMbTlyVXlkSk00NTNwbmRrUHlMRWNQTFhodGRJSUtHYU1nNGdKLWFDdVFCTHNzelQ4TlJuenVGWWs2ZEVob20?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises. An economy-related story. Covered by The Times of India and Hindustan Times.",
-      "image": "images/bihar-eou-recovers-52-lakh-cash-35-lakh-ornaments-from-execu.jpg",
       "image_kind": "photo"
     },
     {
