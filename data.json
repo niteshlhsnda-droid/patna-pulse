@@ -1,12 +1,66 @@
 {
-  "generated_at": "2026-10-11 02:54 UTC",
-  "generated_at_ist": "11 Oct 2026, 08:24 AM IST",
-  "story_count": 43,
+  "generated_at": "2026-10-11 03:55 UTC",
+  "generated_at_ist": "11 Oct 2026, 09:25 AM IST",
+  "story_count": 44,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "12-dainik-bhaskar",
-      "headline": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... - Dainik Bhaskar",
+      "id": "jagran",
+      "headline": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई - Jagran",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVBUUXNGcFJKZVJoZ0owVEd3OWYwNjZZMjRHMTRGcXdoQ25MMjBQOEtrNjdtV3B0YTJLNzFhV0hkR1N1YWVyaG11azRWOUJyV21CdmZrZTZOM3M1WFlLeEhoUll1bXRjdTUwc0t1Zl9YbWNWVUg1NVNUbHdCTm9hc1NXZjdUajlya1FsTGcxRzdfd1F1dWZMQTRaUThCTzA1QVlrb3Zhek94emROZHVHankzdHE?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT055ZUszTU5SQlZ3d2NudTE1aHgyblprNzNReDVDZjZ5XzBXOHJUM0xTQ2lYeGYzb0xac2trNFhlYWdSVWtiVnhFOFU3d0lVd04zVmFUQTN0cEl4MVJPSURmM2pQUGRLeGtNeTd6b2dnSUo1WDJsYjVYWkhOYnVoSE9UUXRYekJvZVZyeFIyM3JiZ2tJRHc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "navbharat-times",
+      "headline": "दिल्ली में आंदोलन के बीच पटना में प्रदर्शनकारियों के लिए एडवाइजरी, गर्दनीबाग के अलावा कहीं और धरना-प्रदर्शन पर रोक - Navbharat Times",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0FhNGFFLWFTVGk2NXdXdDFERmY1Z3AzcGh6Y1hVRjdCekJFV29ETzI0QWcyODBaNXhPTlV2VUwzSWpQWklXMkYxT2NFSkg5NGFwNXZLNVRTbk9LNldmLXZyZENIQU5HOGtzZzBrU2RVZHVRT2YzdnJXM2piaXFLUFpYblNIR05UR0l4UkZsVmJodjh3ZFN5aFQ1SXk2cGp1SXB2SGpyZ25ISDJFZWgxT3RMZXZpMEd5Yi1BcEhDaXE2VEpLNmNuZzI5RUxNUV9NMU1Xc19fYjY5YWVNU0HSAeMBQVVfeXFMTU44X0RMZDZqTHZCRDRpU0RCV2Q1VkcyaGVFX0JzYktGcUFId1dWZEh6TTQwemlTeFNvLXJ6WEx4d3RkX19VbngzSlZCbG1jVXNXT0dXSlJGTXdESlN1bk4walN2VHN5dEVNMFNrcC1Ma2VzY2RUQURyOC1qZFZCalNfUHBjQXB2UlZXVWlDOUl3VXkxYjRyMy1RMjhVcjJxTWx4ZzIzckhZOW00OWh6UloyZS0yclotLURLOFFhVXhqdTVxQnZxbGtnNzg4Zmxxa0U0Y1M4RnFXd2hGRDdLakMyXzQ?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZS1MR05Vaml2bUVtWUF5Q3ZlSnY2NjJNSFZSbk9wYUhWaTdiM0REczhId1BjcHI3U1AzNHFMM00wZExLVkRXekZZZUdvN3RhYlNURngxYnhLY0xxQ0RDZWxjMzUzNkxqX2VBV19oUklYeVR1WkVJUGJuVHJ0ay1UeFdyeGdLdmtXTzAyNzVueGN5WjNEQmhEanExVVc5cDlsWUtPOUhkRjVPbm1KdDNxMnV2U2RFdnBQRVZ0MW5yeGdyVkppYTN1eW15Tk9fQjJGOWhOcXdzcmhJNEl5c25WSXdidWVXWjRrUFRLRHJSMzh5UG9JeDVDMWhubTNkN2xtNk1MVW5DZVVaeS13RWg2bXk0aEY5c1FuTEZwRUxwNTVTWlNP0gGqAkFVX3lxTFBoN2VndHJ0ODlQRjAzOGh3VTU3WlhpMmRTU3dxVjYtMkVSTXdoVy02RjAxQWozeGx3eVQtMGxISFBZazBLNjRJZlZ3OWV6WVg3eGp0Ri1na2RNcW1fcXdwb3NTM0ppdldrSEdPWDhMRmRwanVDZlpidHhIQmZubjZrdDFkdzdzUWFwTzNyQUR4dDFEVlYxU3h3dm1lR2RrTXVLYzE3TFlVZVBBX0todWJISHRfRWx0Y3IzcTNxb3RZU0VacDR5cXdRWDdmQ3o5c0RycXhhb0gtUDFtVnRRT3pIWHRjVnB2U3RQT3R3TVRPV1Q1SjUyYlBackgwUnBzVFpnOXZESnVhOS1QbXlUR01wWjBmdGlQbFBFaDJPQ2E0V1VFWUM2U1Rad2c?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "दिल्ली में आंदोलन के बीच पटना में प्रदर्शनकारियों के लिए एडवाइजरी, गर्दनीबाग के अलावा कहीं और धरना-प्रदर्शन पर रोक। इसे AajTak और Navbharat Times ने रिपोर्ट किया है।",
+      "image": "images/navbharat-times.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "unreserved-memu-special-to-run-between-prayagraj-and-patna-d",
+      "headline": "नवरात्र मेले में प्रयागराज-पटना के बीच चलेगी अनारक्षित मेमू स्पेशल, विंध्याचल व मीरजापुर समेत पीडीडीयू जंक्शन पर ठहराव - unreserved memu special to run between prayagraj and patna during the navratri fair stops s - Jagran",
       "summary": "",
       "date": "2026-10-11",
       "topics": [
@@ -31,7 +85,17 @@
         {
           "outlet": "Jagran",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDJSMDNRVFpFNnAtS0ptamt6MHVzT21iQ01ETDJicFBrNkVQSnJ5dkkzUzlDTVNSZ2NKV0dCVHFyeFQ5SVdDaThmdGxwVThRN1JObk1lbnRnaUtzcmhKcVBHTzVEMXlCaXBIbHVMdEFCWms2Y3E0MXZRa19JXzZWakM5NlYzTjN0YkpsUWVhMlNuOF9RcVp5SjZlNnpPUkxCaEE1aWJuSlR4Z2Z4c29HcDc0NA?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQcG1fSmU2eUFkX0dZV2ZYX1haQXRvci1GeEE1UHdZb3Z6a1FkVV9HSUY5NHdsNC1kTDNyYUNSQ05mY3Nab1hJQl9FTm9zMzBMTWJtTVlBMHo2VmhCMjU0TE5VX2p6cGI4eVhlR3hqRC0xekx0RlhQemtzTW5zWEpFWm5OaGVJeC1ycGg2Sks0T3J0Z0xfQno1dHNTeThyLXJ0TWR1Y2xhMk5zU0xsQ2dxdGFZam5nMVNCVnMwVjQ0RGxxSllsVk1ib0xhdGZrV3JsdkpPN19qLU5GcHh3dFhNUVZJZUJnUGNydWphdjBSY1dZYjY5RjFmSnRBTWwtdkNLSFd4U2pwM0FYOHJqalFsNHpzU0tpS3g2WXVqQTBEbXpHMUtZUHlBcXFB?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -42,8 +106,8 @@
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Dainik Bhaskar शामिल हैं।",
-      "image": "images/12-dainik-bhaskar.jpg",
+      "brief": "नवरात्र मेले में प्रयागराज-पटना के बीच चलेगी अनारक्षित मेमू स्पेशल, विंध्याचल व मीरजापुर समेत पीडीडीयू जंक्शन पर ठहराव - unreserved memu special to run between prayagraj and patna during the navratri fair stops s। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Dainik Bhaskar शामिल हैं।",
+      "image": "images/unreserved-memu-special-to-run-between-prayagraj-and-patna-d.jpg",
       "image_kind": "photo"
     },
     {
@@ -104,7 +168,7 @@
       "genuineness_label": "Verified",
       "brief": "Over 50 detained during protest against proposed Mata Sita Women's varsity in Patna. A politics-related story. Covered by 3 outlets, including The Times of India and The Hans India.",
       "image": "images/over-50-detained-during-protest-against-proposed-mata-sita-w.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "liquor-bottles-found-at-patna-pharma-firm-3-arrested-drug-li",
@@ -191,33 +255,6 @@
       "genuineness_label": "Verified",
       "brief": "Bihar Board Registration 2028: BSEB Extends Class 9 and 11 Registration Deadline to October 24. An education-related story. Covered by 3 outlets, including Moneycontrol.com and The Indian Express.",
       "image": "images/bihar-board-registration-2028-bseb-extends-class-9-and-11-re.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "navbharat-times",
-      "headline": "दिल्ली-पटना रूट पर विमान किराया तीन गुना बढ़ा, आज की ट्रेनें रद्द होने से यात्रियों की बढ़ी मुश्किलें - Navbharat Times",
-      "summary": "",
-      "date": "2026-10-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORU5wVFNCMVFTSEt2WE52N3RnQ0txYUplYWtlbFF2UkVnNTlyVGw2YkU1aWZKNmZEUk55Q3lvcVZhNkhSdEJLZ1dod21RVGlHOWZrNmhZcWMxeUpUclJUTHo1U01Hb1ZIaUFIUXVZQmhmS3RIdmhyMHo5OElDSDNMbXhtTGpvQnBLYWFhcUt1WEFaVkZxemNwY19uR0Z6Rjh0ZVZRakpiS0tZRFpsbEFYY3dNQTcxX3ctMUluaEo4UENNdGhHeUQ3V1FhRTg5dk9NS1hJSG8tRW5weGY2bDFtWDJ4c1d1eDlsMldwOEl6aElET2tHWG1YbzJhTXlqdEIyVTZnWWVVYW1HTG5R0gGSAkFVX3lxTE94MHdNZ1NkbkRCYkhzOE5XS3NETVhYU2toUHFXWHh4eHZkYWpKS1R6cUhCRGJNS2wzRkZCclU4dElfWXBqUVQxTVNRRnlDUkFBRm81VE9QNGdPWHVIdHBqcWNMeV9mSl9ZSFo0eTJDQ25lbjdNUkQ1N25uOTRYQzZqYzRZR1RWQ083cEFQNndBR0lrNkYwa2tld3NBNHhwejBxVUNNMWMxMDFaNjZtX2FXWEdZTlpSM2FHRVVNM0Y1X2hoRThISGJGeUdxZW04VWhDUDV3YjRpVi1GU0g2bzlWZjhuTHFzMlFyWHR0ZzA3OTVWa3FiVzVwd3FSN1FJeGhxNUtHLWJaTDBsdkxhLUpndXc?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFl0dGRUTkFfUGJISFV4Ukh1NDE0SHNzUi1vU2pyTjB6cXB3MV9lNzFDUzJUQmNtZTNnNFo4aTVHQm50dzBaY2pTbWpzcmk1T0l1VkFBekNCeGhSV2Q2Q0RqcWswVTJVa2lYSDM4VGdvNUdnWEJ2V3FSLXRFTkxBdU5sVnlPVHNXVXlmZ3BUZGpOSjVjcmlvN2NodTNaMERCcF9tN0dmZTFrMTc3VVZfcWVLVEQ4SmJCVWZPdmYyajRXTGFWOENnVVIzQlNfbFZMY2ozeXVXMkdYVWRhVlhOYlBKR2RRUdIB6wFBVV95cUxPX3JTaGdKMzB4dHl6ei1UWi1idExudkJKNWtaYjhKc045TTdWNEZ4UEFpOUt5SzYzZWR0MGRuU1pOdW15NHAxdHBWOUppWUduZl83RGd5U3RWSHkyc0NraEFTR0JzNG1TTGI3NGFLaDlIS3NESHFwXy1KU2I2Q2xiVVdZTWVhcHpMUzZBM2JHdVg5MFRIWXVZWTVSclhnOEpSbDNWVGgwWWpROEFreHZLcmw3VkQyZmtVbkU5NlNLNEdyeExGQlY0NmZ5cVBFZ0MtMlNRQlppSnZkTS1tVUNWUGFfNEhyOHBEM3RJ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "दिल्ली-पटना रूट पर विमान किराया तीन गुना बढ़ा, आज की ट्रेनें रद्द होने से यात्रियों की बढ़ी मुश्किलें। इसे Navbharat Times और Hindustan ने रिपोर्ट किया है।",
-      "image": "images/navbharat-times.jpg",
       "image_kind": "photo"
     },
     {
