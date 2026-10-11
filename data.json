@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11 14:35 UTC",
-  "generated_at_ist": "11 Oct 2026, 08:05 PM IST",
+  "generated_at": "2026-10-11 15:35 UTC",
+  "generated_at_ist": "11 Oct 2026, 09:05 PM IST",
   "story_count": 47,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -22,13 +22,46 @@
           "outlet": "Telegraph India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFBZQmtrcG1NckJRVUxrdm5ST2otOFl4X3A2VzQySTFmN1hHYzBsMHItb3NRS3p1TDlFUndPUl80c1NydWlEUktRc2NZaUZ0WkdTLUVfNV9PVUdaYV9LRHN4YmduMEJJY0hWOG5YYWRiejJmRm5TR0N6VGVqeHQ4ZGJSWklRRmgwTDItREF2Sy1iVkl6VUVZMElJV1pPNjZYY1JRSTRKaVkyT2ZhMWRwR1I3bk5uUdIBuwFBVV95cUxQcHo1WVI3X1YtMzBrX0xobnl2OWFZQzBNRjRob0NuU2liVEg5aEk4OERvZmV5SERNWFRZdjVkX00wV2JWUjBDNjNXTkJHVnAzOXgyTFBpOU9LM284MDVrRGl6aVM1ZmJiQzVRNk9udzJCdzRrT1l5WEMteFVtMXE4R1Z6YThSa2Z3TE9mUHpxa21WLXllWm5rM09vc21VZU44eUNXZ0NBelpsRExwWExrRGFjM1NHcEx5UGNN?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT3JGa1ZXbTJxb0ljLWNIdUxFRFdhcGFzOHZyRGVQNnRTNHRxUWh2RHN5RUlpQTRYNmdGMm9VR2hhTEViV2xPLWpyVm9LQzR4REdnY28tSUx4S2pnUnVpY3Z5OTJtVUJGRmJ5SmVkRHNvcGFuaEVPVTRLbGNPLVJGeWo3aEhfclpWZ0ROMXh0S1p6bmJtb29lODZPQ2x4RUthUjFaVVZOY0F0OW4zVEZ6TFh5U0d3bkxFUjF6MThRdU5OV1UtNmIyS1pTNkJpV1JwVGZYZ3pwLUIydjlzRFA2SENnS0hJVjI0?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar constable shoots himself dead in Kishanganj, investigation on. A crime-related story. Covered by 3 outlets, including The Times of India and Telegraph India.",
+      "image": "images/bihar-constable-shoots-himself-dead-in-kishanganj-investigat.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "jd-women-s-college-teachers-protest-mata-sita-university-aff",
+      "headline": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ - The Times of India",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "politics",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "Careers360",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGdBWkhSM1lRZUswRk1tWThQTWZsU3pXSkw3Snc2U0lUaHNETkpHZnAwRUZuNGtuQl9ELVQ3YldJbGE3UFFJY0F0aFMzVnRrbW95ODd4MUxvN0l6QTJGOG1JTkhLRXotY2VuakQ0VXRNQUJYQ0Q3Zm9aOHdjRzBxLXV3QjhaOG1jdUhtSTNWMUZpdnZVQVdkUTVIR1VzVkhZTjFvNW54MDZmd9IBrwFBVV95cUxQTjUzUmtrMlZmbE5KWUJuQmkyMndFMUJfLXlLdGFIWF9NektHNVN1VFEta0VWcFYzOUdjSXJOT3NtZ3poUFgzOVozdjhKVHRyNG44b1hSMFc1UE1jc0NxZ0FUc1FpdlV4Z2IzaWphbUdwT1o1OThNbXlBcW5uZm1JTU5jNnAzV1pQdnlhYjdTaGJWWXZiQ25OOExUcjA5eVVMaEl2WTBRY1doWEI0MUhZ?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeUJWRW15YVpfcHA3cjJ6UzF3Zzh0YTdtbk9wUmtKLUE2YjRMR0ZpeUQwQ0ViUk02dzlka1FYSFJjRXE1LXRsaFpVY0hWY2MzcjJMNkhhQ0hlODFyYXZPeFFyYTdBNWd6YjdvVFp5NUROMEotWk5DaFlFR1dXMzhpbk9uYU9ZTkl3Q1RaaDFIWmtPU0ZLdHctZzA4Q21HNzZlVVdaQWV0bjVWbmc3U1JvN1lwMHpIQWxUeGpDd2xuVWxnbHZYRGRmNGRPdGpZaldQd08yQWw4T1BuODdjUy1WOTFzUHZoYU52ZFBOcnZaOWxoNVFHcjE5UzA3VFFuLTBCQko0S0R2RlEzbWtOWVNaSG9MZURnSWFTYVg4VmY3bGdsNknSAagCQVVfeXFMUGJKQXhvR29TbkZjUi16eVNxWEFpZFhScHZsV3NxTFRURHcySnhMV3FEcnNxZ19jQkJEZzAtalFac1VHVVowOWFEZjNpcUExSkY3M2xwWjZ3YUhUd2ZBZEdCenBjVGNWN3YtTVBqNUFJMlpoTURNLXR6UWRXLW9kSW5vWFV5RjRLWGdKUGlXTGdMYWVBUU4xZVZCM1dKd0tnSUZuV0YySl80SUNUdmJxVzYtZUtlUXRleGR5QnI4LTVEVnVlOUlxOHppR2dnZnNFVVN2OEQ2OEN2N3lZdmZsM1czWlE5UEU2Mm5rR1k3MUU4ZEwybFlZbmZNMFFRNmpPd19IUDdtcFc5eS0wLXlLNDN6V2Z4QVRLTzIxYVg3TDFCQUpQLVVnOG4?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar constable shoots himself dead in Kishanganj, investigation on. A crime-related story. Covered by The Times of India and Telegraph India.",
-      "image": "images/bihar-constable-shoots-himself-dead-in-kishanganj-investigat.jpg",
+      "brief": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ. A politics-related story. Covered by Careers360 and The Times of India.",
+      "image": "images/jd-women-s-college-teachers-protest-mata-sita-university-aff.jpg",
       "image_kind": "photo"
     },
     {
@@ -264,6 +297,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "dainik-bhaskar",
+      "headline": "दीदारगंज में युवक की गोली मारकर हत्या: अपराधियों ने तीन गोली मारी, पटना में इलाज के दौरान दम तोड़ा - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-10",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2h5NkRUbUNYTHpaTzhNb2RmX0RCeWZBYUcxVWd6RUMtQmlzUy1WTFJaVlNJbWNKd0NjZWVjX1pjVEpFQUI1X0Ntbk9RVDBnYy1UVGo4anZCbDQ3S3BaZy1DNFBNN1E0SjdxcV9kLU5sMW5BelBaeXNLNUltZXNIeGxKMnNGTGdobVNqaFhSSmZSWFNveE5WczNGQVloWmdfbHNpMVRiTTR1blVUNjU3bzRCaDZYTHhVZW1pbHRUVFVuWV9rRkRQQ3M0YkJtVmFUaThYb9IB2gFBVV95cUxNQUplWTJxMEtYYlVCZHlBNk81UVZsbm9nbkc5S240V21qcFZqeXB3bjN3bmtjQ2ZETkpFWHlqUkdoYnN1MVlVT0Zhd2REMV9PYVRuUUFwNi1KNzVWY3lrSkpfLVR5bDlZSy1oVHhSUzFZcHVzd0Q1QTREcHllUWQzZHJDSm9ndXBNMTQ2MnpzLTVjNlpXcGFVSElwMTlaQ3FUUl9nRHI0M29ZYXp0SnItOUl4MjF3dXh6YjRzd2cwUER3R1VDYmpIcXAzbUtCcnJaNUNVaDNIa21fdw?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdnotWlRzTUpwQUFoY3c2aFFjNGhHUzEycEFULTJvRkdEcjZ3ZFpDY2gzZXlScE5XNWRXT1dMUkNJUThPdW03VUV2a2otZm0wVU80MlZQdS1EazlIUkhwZUpYeE05MGFzYVlPa2dITUsySjNjNHdnQnFOMWg4cm9GUWFaaFpIc2dQVVg1NV8wYXhJUXV5aWpjQ29LclBVaDB4MDBiQ2YtSkxGRGhobXdDNm1MQ2F2YVp6NGFxMmZXVjBuZlA30gHKAUFVX3lxTE1tbTVWZUNTNnNXUUM0allUTHhpeVZNb1FFdmc5U0hPV2dObTI3S1JRejhxbFAxU3dKZVNMcHdWR2FPSExKTHZzZGYza2tMSU93TFlTZjVhRDRxMnpQdXYzZFVMcDZJdFJRRHVPcWFYYl8wdDdidHNKZEVwVkNjNG5lTmZBbGctVlNBVTJEQk9vY3pWVzJmYWZCZTd2cXRJMmpJa0JqLUxJWlVWc3JGQU0wenpSeklDVHlQdnI4bnZZdUlBRDlUN3hyRUE?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "दीदारगंज में युवक की गोली मारकर हत्या: अपराधियों ने तीन गोली मारी, पटना में इलाज के दौरान दम तोड़ा। इसे Hindustan और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bihar-mlc-polls-prashant-kishor-claims-jsp-will-win-patna-gr",
       "headline": "Bihar MLC polls: Prashant Kishor claims JSP will win Patna Graduates, Teachers seats - The New Indian Express",
       "summary": "",
@@ -321,48 +381,16 @@
           "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQUFoyTTVBcmdqNnU4MF8wbWdDS1lvVHlHN2FCVURtNVVQX193TWhBc3RTclRxeVJyOXNIUTlnSWxGblhWbDRxZzI1clBXVXVvT3Ztd2ZRNXB5emhVMFJ6NXQ5amk5Q2hhQ0VSSEIzb29sYnRTU0dCQl9xc1F0QVJiS3FfS2IwVDZsbGEwUjJpak5LbVlpY3hnUTZFU21LMUFKNk5oUG1Fd3NFaFRfX0VHeEIwMktpLUoyQlJ0LXFIb0IxYjBSTUdNbUFWZ3RtZEtkd0R2S0h0aUlmM09vcllLLWNaZ3BCTEhweVNEQTgyTFVWbTlzUXI0QUZlQlFGVWVrVzFwZnM4ckphZnlTd1NhVjBFUUpHX3Y0N3BRUTBkOXJ0amRoWDlqTkRrOHhkZ9IBswJBVV95cUxQNnVOUVkwNDJ5OGdMWVlvbWlSaGlQWkpnb3NnclV3YVVwVmRub2lKalVfeWIwYk9BazY5N1lsVWhBeXAzZm5QZE44VXljY25qOXhaLVFrU2tLRzh6WTByRUp4VU92SmlkcE5nclk1Tkg5bXpnbWpRbGpJSHNYZ3lZbnZ0V3VUVW1OQ09DNTBFWWVJYVdxY1RVMnFqckVUZ0lldDhQZFp2WXRBQzdZNTBsUTBvYVNtWXdwTWdQSTZ3QXFRbk5TdDAtRUYzZzNtdVk3TkZqQ3ZRYUY0eWFYTzRKMDNuWVhGUUlPc0xLZ3dGMDE1ZEFSU0lZOEduRGRrcy1xZjV1bWFpZklDWkhvXzlTOEhfRml4ZjN2UnU1dGRHV0k2NkdxOXJvTTVMakxGUUJlcHBZ?oc=5"
         },
         {
-          "outlet": "Gulf News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzZQVVNlREZCYnZWdWtpZXpHbEt2TElHLVpMX0J3dm1ZVlhuaEM5YUN5VkNjR080NVM4TmplYjJOZk9aR3ljT1YwRHpoekNiOTE0WVcwN3FfcjB5V3o5c054VHB0WGJXOEpBbl9VbEY1cXBXRktOb2pMR0lSRHZRT2VwSE5lOGRzLWRxOThURXkzY3M0S0gyOC16a1BTT29JUW0xSllQZG55OFB0NWxWZ3RReERsNDJtekdaUWRR?oc=5"
-        },
-        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlpweXpNZk92dVhaMTc1endyZzNRTmpfV1JDQWJQTHltZ1k1LUg3dGNnSXkySGdWNjI0ODZtakdaNm10NFBVWW0yS1VuM0xtMnBVMU5VR3ROejlBLXZncF9QRzZzVzliX0pRYjRDZ0sxRnlzeHQtOW1TanY0Rk1RbG96YTJmT19jc2lMTEZSVFZKdEN2cDctOG5vM3BIc3lReXgxWXRTdlRtV2JwMVN5MUJ6QlZ3bHJDUENRcjhURmtDVWs5R1hjSTQ5QXJyc1NfMHI1b0w2WWJFcXZQdXlFcHpiXzjSAeoBQVVfeXFMUHVBc0VrTUhzOWlSbnZKWUpyTnd6eWVZakdQYWVsOFV1MjFpUGpOdl8yOC1ScUpJOGNyOFNCWTFlSndZN0ZCZmotU2dvRnJCd0d2ZFphVW9JczJrS0kwOTNMckNiVEFWUTlwRkVmOWhlNEt1VU12XzFzLWtOSzM4eDlOR1gyZmxaekZraXVtSk05bWZ5OGRQQURWa2UtakhUSHNnM3BDR29SMWFULUdyUTd5RExic1RQWmx3SVFPQk92TGhwQzVWbThnUi1RbzE0LW9DekNkSVI5SHc5dmhCWks1Y0lHMmhMVXVB?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by 5 outlets, including Moneycontrol.com and India Today.",
+      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by 4 outlets, including Moneycontrol.com and India Today.",
       "image": "images/bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "cm-sets-target-to-link-1-crore-families-with-entrepreneurshi",
-      "headline": "CM sets target to link 1 crore families with entrepreneurship in Bihar, launches MSME policy - The Times of India",
-      "summary": "",
-      "date": "2026-10-09",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb3NxMVQ1WHNzMmpRcjdibG1wUzRoMWNCSllkQjNOVHhTUm1lTzVWM1g2enhqMXBCNFpuVC12ckpCUWRMV1AtTkl5dW9Qc2FaemU4MnduUHBXb1NYUlU1SXVSQS1JR1pBb0dWdzNKUTFOcDJkRDZMX3BQNFhQN3R5NTNrekdGRVg0VVVaUXY3SVNHMWVOVEp1MkNWUGpGLXd6R2Z0S3MtMFlSYm1tM1pxd28wMTEzWXYtLW1NSmNOcDRrdkQ4ZVlFVDUzUHF3aHdmQkV5Y2ZRam1Lc2pObkZFTnpCRTlTRGI2VVg4YWQtdmhQeDBBc21R0gH8AUFVX3lxTE1nbVFjMW1PY2pZMlFObVNOYjV1d3htUU9UQm9ONHZvSWFGdTJwZmVuMWpKaDh5UWhzc2lYZ0RhLWJKaDROQmFrYVNQM2RWYUVmMnMwMGlneGM4dWRCZFpnTU0xVHFCYi1FbWZKazgwaVFNVC1DcTRTLW9CLTR6MjdsWkJCMUV1QTRVMXliMlRrbnNGWGVfQ2lpd0pEdkd1SFlJRHdhMXI5eW9yb1VBMm44MTA1dDdiUHdzY0xBYmxwTEctNFRfcExidk5XUTd1Q0FOTHM5OEZ1ZERBcDZzd3hmTUpyS1lMSWhnZDRxUU00SkJ1M3FOYVFCZTN6dQ?oc=5"
-        },
-        {
-          "outlet": "KNN India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVdGYXg2Smw0dnhWZ0hSZ2ZoQ3UzTGdFcjdCTEZIRDhXTWdFdWYzVERfTHZyUjVJal94a1BadU5ZOFZ4WHRJdDNkWlUxdnVNUzJLNnRyM1l2d1RKNGNaejF4akpGX1pVUEFWZmUtczVJX0hnbjkyVlZqQmlBZ0YtT2RBLVhKdXpBRHc5djNQX3ptM09HLTBjdVExQlctMUVtTzRkd0JBQXFWSnhmZmZ4MnBKdVVjbHN2eXJGNkVodkk?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "CM sets target to link 1 crore families with entrepreneurship in Bihar, launches MSME policy. An economy-related story. Covered by The Times of India and KNN India.",
-      "image": "images/cm-sets-target-to-link-1-crore-families-with-entrepreneurshi.jpg",
       "image_kind": "photo"
     },
     {
@@ -390,33 +418,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar targets making one crore families self-reliant through entrepreneurship: CM Samrat Choudhary. An economy-related story. Covered by The New Indian Express and ThePrint.",
       "image": "images/bihar-targets-making-one-crore-families-self-reliant-through.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local",
-      "headline": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production - ANI News",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalR1d1B4dFliV3U0cFcxVlpreHpzLTlwRVJNUnhkU2ozdXNpbU9xWWNCZGd1M0ZYVEFqbDRrSGxpMjRTWFFHZEU3bTkyOGNkNlBtaTU4SEhURnFFODJFdDR6ZXc5c0xydWY5YVJ2M3NuM2lra2FLekNLb1dlc2FzeUZwRDZ3d2VsSDdYZGJrdnpsU2hqdTBzbkxjcmkyYUkzNFNMbE9iNllzNGpNRVkzZDBORlJUTF9YQ2pYRzJiNGtpZ3BNVHExUUZQc00tcVZZ?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUZWU08wM2FZWlB0RDN3UUtZd2VTR1FIT0JwMDNwUlM0S2dYMkQyTmotN0lXT0lmOVZyeThyRGVod282bHBhUzBLdHl1d2xzMFN4TzRobGZsVlNpNTEyUUZmckxoN05NblZNWUxBci1kd0J1eUZob0tNM3hpaGd1dmV1cUg4RUJkSDNSemhmWDR6RDFvWU83VTZyZ3pfZnFFTFg1Vw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production. Covered by ANI News and The News Mill.",
-      "image": "images/manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local.jpg",
       "image_kind": "photo"
     },
     {
