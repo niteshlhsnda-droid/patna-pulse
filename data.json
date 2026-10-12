@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11 23:35 UTC",
-  "generated_at_ist": "12 Oct 2026, 05:05 AM IST",
+  "generated_at": "2026-10-12 00:35 UTC",
+  "generated_at_ist": "12 Oct 2026, 06:05 AM IST",
   "story_count": 49,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -120,6 +120,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p",
+      "headline": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir - The Right News",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "weather"
+      ],
+      "sources": [
+        {
+          "outlet": "The Right News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWNpYU9nM1BhREtlOEtPNjdOTVM4NnRRNEh2OXRhRExQa1FZdVdCU3Qyd0JYQ0lUVUxBOWd0R3hIY1B3VVlQRmFuSkZnUGxob0JWTEdlbHZuamRUTEhxVUZ3V3g3UGVBQ000V0xtMEo4bjNfTFhuM3JjWjdjdUhwU250R0l2UGM4QUFhYjhTa2ZiR1BnemxNY2V0M011NkZMeV9rQVgwemw4Y2cxc1pMME8zQTAwemtJa002Vw?oc=5"
+        },
+        {
+          "outlet": "News On AIR",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1ZobnNMdU9PX2tfejJqdjlLaUZLVWtWanV6cGdDU3hHbWZKU2tyMzNQZktlV0oxVzQyNjAxZmJtUFhXb01hOWxZVWd5UHVIN1hrTkFYY3c0SF9WUzEyYjRDQ1hxTktZZjlaX2RTZ2FpM2hKb3NDWlBJNDFqaS0xUkRjNUZOeEYyVnNDMERnMTJ3RVlOUmdXaXNXTUxHTnBTVmR5R0kzVHVVYXBvRXc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir. A weather-related story. Covered by The Right News and News On AIR.",
+      "image": "images/imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "bihar-board-extends-registration-deadline-for-matric-interme",
       "headline": "Bihar Board extends registration deadline for Matric, Intermediate exams 2028 - The Indian Express",
       "summary": "",
@@ -176,6 +203,33 @@
       "genuineness_label": "Verified",
       "brief": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें News18 Hindi और Prabhat Khabar शामिल हैं।",
       "image": "images/prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "58-5-kg-jagran",
+      "headline": "पटना में फूड सेफ्टी विभाग का बड़ा एक्शन: पिस्ता हाउस से 58.5 KG ड्राय फ्रूट्स जब्त, एक्सपायरी मसाले नष्ट - Jagran",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY04xbE1wWWpjTW9GVGdxQktQRlE4UDgzZWlLaTNEQmQtRjVBaFdzeVJFRlZUZGduMVdSaFVwSmdnUDRINmpZenhQZV9fX1VOaFAybGF3RmJPemtzZWhJNTducUZrZmxPbFJWLVJHVjA2dkQ1S0NQR0JRVVFNeko5YTRPVjBtYVh1ZnhZR1NQazB1VDJ6c25rMkdkMWwtUm01a1lkOFlKOWdPajZvZWFyM0pfSW8wMnBBa1JBdF9MaWhzMGtJM203LXY5eXQ1VnoyQk1YTk43NFJvTnQ3cG80eU1wWDRSNFXSAewBQVVfeXFMTURYOWd4TEVNRzJCR19qVmZHWTA3Q0wyMER4eXA5SnBjekV4V2xfR3hkbmVhSk9QS3hQM2RQalFUc3JGYUF4NHNMQ1djc0lTeTBFQmQ4MjZ3d0RTRG0xOTg3S0lzOXVzcHFiMlFZQi1DVThqdlE1c0F0ZlRCS2NvN2F6dVBVMUpDZ1J5SVZPaXZyRU5TY3VUdWZVRlFSbkhjR3FYUjRsRDJaa2NxLUlYSUhBeFdlSm5GZzJyYlo2Mk12dDBwSTQ4NDF6RVpteS05dndONTVCN2JoQ3NtUk9YZW15ZFNmQm8wWnI3WTY?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWhHcjRwaUhIUTJMMEVBLUhEb29iVjFvUnYwejhSYUt2RlA4T1Y5akNDZG1QbTdkX1g4Q0hfeHhBMFVvVFNsTU05Z2MxM281TFFfSTdXejYydXhTeF92SmpPZDBiNFBkZkJ0WHg3ckxUdC1NNHR1N24zVEVhTl90UVE3dXl4LVRrc3g0NVJ4Ymtnc08xX2hObmhwOUVlbVFYa1FGOThDQWNrNHh1NkxYU0djSDRTX19jRWtwOERtbEoyQTNhMEc3VEVROTJOc2xRR1Rr?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में फूड सेफ्टी विभाग का बड़ा एक्शन: पिस्ता हाउस से 58.5 KG ड्राय फ्रूट्स जब्त, एक्सपायरी मसाले नष्ट। इसे Navbharat Times और Jagran ने रिपोर्ट किया है।",
+      "image": "images/58-5-kg-jagran.jpg",
       "image_kind": "photo"
     },
     {
@@ -341,50 +395,28 @@
       "image_kind": "photo"
     },
     {
-      "id": "cm-sets-target-to-link-1-crore-families-with-entrepreneurshi",
-      "headline": "CM sets target to link 1 crore families with entrepreneurship in Bihar, launches MSME policy - The Times of India",
+      "id": "meet-shubham-kumar-19-year-old-bihar-engineering-student-rea",
+      "headline": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records - The Times of India",
       "summary": "",
       "date": "2026-10-09",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb3NxMVQ1WHNzMmpRcjdibG1wUzRoMWNCSllkQjNOVHhTUm1lTzVWM1g2enhqMXBCNFpuVC12ckpCUWRMV1AtTkl5dW9Qc2FaemU4MnduUHBXb1NYUlU1SXVSQS1JR1pBb0dWdzNKUTFOcDJkRDZMX3BQNFhQN3R5NTNrekdGRVg0VVVaUXY3SVNHMWVOVEp1MkNWUGpGLXd6R2Z0S3MtMFlSYm1tM1pxd28wMTEzWXYtLW1NSmNOcDRrdkQ4ZVlFVDUzUHF3aHdmQkV5Y2ZRam1Lc2pObkZFTnpCRTlTRGI2VVg4YWQtdmhQeDBBc21R0gH8AUFVX3lxTE1nbVFjMW1PY2pZMlFObVNOYjV1d3htUU9UQm9ONHZvSWFGdTJwZmVuMWpKaDh5UWhzc2lYZ0RhLWJKaDROQmFrYVNQM2RWYUVmMnMwMGlneGM4dWRCZFpnTU0xVHFCYi1FbWZKazgwaVFNVC1DcTRTLW9CLTR6MjdsWkJCMUV1QTRVMXliMlRrbnNGWGVfQ2lpd0pEdkd1SFlJRHdhMXI5eW9yb1VBMm44MTA1dDdiUHdzY0xBYmxwTEctNFRfcExidk5XUTd1Q0FOTHM5OEZ1ZERBcDZzd3hmTUpyS1lMSWhnZDRxUU00SkJ1M3FOYVFCZTN6dQ?oc=5"
-        },
-        {
-          "outlet": "KNN India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVdGYXg2Smw0dnhWZ0hSZ2ZoQ3UzTGdFcjdCTEZIRDhXTWdFdWYzVERfTHZyUjVJal94a1BadU5ZOFZ4WHRJdDNkWlUxdnVNUzJLNnRyM1l2d1RKNGNaejF4akpGX1pVUEFWZmUtczVJX0hnbjkyVlZqQmlBZ0YtT2RBLVhKdXpBRHc5djNQX3ptM09HLTBjdVExQlctMUVtTzRkd0JBQXFWSnhmZmZ4MnBKdVVjbHN2eXJGNkVodkk?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "CM sets target to link 1 crore families with entrepreneurship in Bihar, launches MSME policy. An economy-related story. Covered by The Times of India and KNN India.",
-      "image": "images/cm-sets-target-to-link-1-crore-families-with-entrepreneurshi.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int",
-      "headline": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition | Trending - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-08",
       "topics": [
         "general"
       ],
       "sources": [
         {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSkVPZ0hZX1RWLWtGVHg2QjY1ZzV2bF9SMXhoMXVsQUxIa180YUJYeWtta3BubFdhUVhLRVZfdTU2SV8zWm1xSmwwUHk0RkRDSE1Ram1qNkZZUW1xVmJwemRoTVdJMnJ2TkczNFlrTC1pQlhIZmdXd3lhY1NqS0dzTUhUTUsyMEphMGIwaEJWUS1iQ0NJUkdhRk43QjRZYnVOb3JDWVJfZUZJLUt2MEZxTTN5QWtnYi1wNUp6ei05bVBmRWJ1bTVyaGl4elBsdGNEcTZoU256REk2RTVRMF83UWpSVk0ycXRvb1JpODJTcjNmcG9pMnZXenRZcXhOdkpiRmfSAYcCQVVfeXFMT3gtNVQtTEt3cXhOZkQ0NWxUMmN0c1NlQ3J5QUZEdE1paW1yU3ktbVAzTjRkX1gwdVV2SFRySWczN0t6bDRtMi12T19EX2lWakEzcnE4WHlCLUhMWENsUGJFVi1oX1pqZ3ZMMVAxVE1XcEZkdVYtUmVYNHBqNXNMWkNrUlJBMTliR1dkZnBmUG9OUndYdFlVWUo0aFhqYUp1bHJRaTliRm5BUDctVVZZWjVxREFZTzdJTV93TVNlTkJPNEhPYmtBdkNFS3U5T1dxLUVubmdqRDZOMW9xYVV1MkwtbE82aUs0aDVfZUlaS2RBVEVmRGl3dEpVQXF2Ulc3YW9SYVdYWnc?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQUFoyTTVBcmdqNnU4MF8wbWdDS1lvVHlHN2FCVURtNVVQX193TWhBc3RTclRxeVJyOXNIUTlnSWxGblhWbDRxZzI1clBXVXVvT3Ztd2ZRNXB5emhVMFJ6NXQ5amk5Q2hhQ0VSSEIzb29sYnRTU0dCQl9xc1F0QVJiS3FfS2IwVDZsbGEwUjJpak5LbVlpY3hnUTZFU21LMUFKNk5oUG1Fd3NFaFRfX0VHeEIwMktpLUoyQlJ0LXFIb0IxYjBSTUdNbUFWZ3RtZEtkd0R2S0h0aUlmM09vcllLLWNaZ3BCTEhweVNEQTgyTFVWbTlzUXI0QUZlQlFGVWVrVzFwZnM4ckphZnlTd1NhVjBFUUpHX3Y0N3BRUTBkOXJ0amRoWDlqTkRrOHhkZw?oc=5"
+        },
+        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOU13eXBranBNYWxKMVR5RkdWTkNiZXB3eE5GaThEWVc0YVNUczVucFh6eUsxMnVRNGpmZ3poQkl1cTk2MnVPa040VDZQT3JNTkkwQ3FNeTM2eGgtaG8xeDE1X3p6MzQ0ZDBVWkRWbUt1NWQ3NzZaTEhfb19zMUZzZXgtSVdWRzNvVUVmYWdmNHlHUEdOdGFvUUVHWTlRUFVYbkFPYnlXMFFyY21Od1BVaFV5LW1zUUhtLVZaQjVyRjczTHN1U0paanVQM19FM09UY1HSAdcBQVVfeXFMTUNZZlY0eHh5SWZxVWhuQm1FeXEzeWY1WXkxcElSa0hFREcxM3JMMzIxSy02MlQwYmdFamgwRmM3WHZoVWNQMUd5UHhkdENvbTQyMDgtVFZQUVFtOHdQWENYRzBadUl4aUhmWm9FRkpNTGFFMm1IcXZfREw4a2RpYXFjMnNhMmJ1Z1YxMV9MbUpOaWZWbW5GTU0yeWRvRk12OElGdjNyVlJtbXBIcXo4aVFKZ24xVVU2c2ZCVGlBUVB6ZWxjMmJaSndQektXOG8xYUYxQk52d0k?oc=5"
-        },
-        {
-          "outlet": "Gulf News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzZQVVNlREZCYnZWdWtpZXpHbEt2TElHLVpMX0J3dm1ZVlhuaEM5YUN5VkNjR080NVM4TmplYjJOZk9aR3ljT1YwRHpoekNiOTE0WVcwN3FfcjB5V3o5c054VHB0WGJXOEpBbl9VbEY1cXBXRktOb2pMR0lSRHZRT2VwSE5lOGRzLWRxOThURXkzY3M0S0gyOC16a1BTT29JUW0xSllQZG55OFB0NWxWZ3RReERsNDJtekdaUWRR?oc=5"
         },
         {
           "outlet": "Hindustan Times",
@@ -392,11 +424,11 @@
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlpweXpNZk92dVhaMTc1endyZzNRTmpfV1JDQWJQTHltZ1k1LUg3dGNnSXkySGdWNjI0ODZtakdaNm10NFBVWW0yS1VuM0xtMnBVMU5VR3ROejlBLXZncF9QRzZzVzliX0pRYjRDZ0sxRnlzeHQtOW1TanY0Rk1RbG96YTJmT19jc2lMTEZSVFZKdEN2cDctOG5vM3BIc3lReXgxWXRTdlRtV2JwMVN5MUJ6QlZ3bHJDUENRcjhURmtDVWs5R1hjSTQ5QXJyc1NfMHI1b0w2WWJFcXZQdXlFcHpiXzjSAeoBQVVfeXFMUHVBc0VrTUhzOWlSbnZKWUpyTnd6eWVZakdQYWVsOFV1MjFpUGpOdl8yOC1ScUpJOGNyOFNCWTFlSndZN0ZCZmotU2dvRnJCd0d2ZFphVW9JczJrS0kwOTNMckNiVEFWUTlwRkVmOWhlNEt1VU12XzFzLWtOSzM4eDlOR1gyZmxaekZraXVtSk05bWZ5OGRQQURWa2UtakhUSHNnM3BDR29SMWFULUdyUTd5RExic1RQWmx3SVFPQk92TGhwQzVWbThnUi1RbzE0LW9DekNkSVI5SHc5dmhCWks1Y0lHMmhMVXVB?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by 3 outlets, including India Today and Gulf News.",
-      "image": "images/bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int.jpg",
+      "brief": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records. Covered by 4 outlets, including Moneycontrol.com and The Times of India.",
+      "image": "images/meet-shubham-kumar-19-year-old-bihar-engineering-student-rea.jpg",
       "image_kind": "photo"
     },
     {
@@ -424,33 +456,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar targets making one crore families self-reliant through entrepreneurship: CM Samrat Choudhary. An economy-related story. Covered by The New Indian Express and ThePrint.",
       "image": "images/bihar-targets-making-one-crore-families-self-reliant-through.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local",
-      "headline": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production - ANI News",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalR1d1B4dFliV3U0cFcxVlpreHpzLTlwRVJNUnhkU2ozdXNpbU9xWWNCZGd1M0ZYVEFqbDRrSGxpMjRTWFFHZEU3bTkyOGNkNlBtaTU4SEhURnFFODJFdDR6ZXc5c0xydWY5YVJ2M3NuM2lra2FLekNLb1dlc2FzeUZwRDZ3d2VsSDdYZGJrdnpsU2hqdTBzbkxjcmkyYUkzNFNMbE9iNllzNGpNRVkzZDBORlJUTF9YQ2pYRzJiNGtpZ3BNVHExUUZQc00tcVZZ?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUZWU08wM2FZWlB0RDN3UUtZd2VTR1FIT0JwMDNwUlM0S2dYMkQyTmotN0lXT0lmOVZyeThyRGVod282bHBhUzBLdHl1d2xzMFN4TzRobGZsVlNpNTEyUUZmckxoN05NblZNWUxBci1kd0J1eUZob0tNM3hpaGd1dmV1cUg4RUJkSDNSemhmWDR6RDFvWU83VTZyZ3pfZnFFTFg1Vw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "\"Manufacture here\": Bihar CM urges entrepreneurs to boost local production. Covered by ANI News and The News Mill.",
-      "image": "images/manufacture-here-bihar-cm-urges-entrepreneurs-to-boost-local.jpg",
       "image_kind": "photo"
     },
     {
