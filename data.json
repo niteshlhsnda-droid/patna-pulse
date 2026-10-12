@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12 12:35 UTC",
-  "generated_at_ist": "12 Oct 2026, 06:05 PM IST",
-  "story_count": 49,
+  "generated_at": "2026-10-12 13:35 UTC",
+  "generated_at_ist": "12 Oct 2026, 07:05 PM IST",
+  "story_count": 48,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -29,7 +29,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna Metro: CM Samrat Choudhary Directs Officials to Complete Project by 2028. Covered by Metro Rail News and The Times of India.",
       "image": "images/patna-metro-cm-samrat-choudhary-directs-officials-to-complet.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "gurmeet-choudhary-to-begin-tum-mere-ho-promotions-in-patna-a",
@@ -60,8 +60,115 @@
       "image_kind": "photo"
     },
     {
+      "id": "new-form-6-neither-approved-nor-rejected-supreme-court-clari",
+      "headline": "New Form 6 neither approved nor rejected: Supreme Court clarifies stance, ‘When Bihar SIR judgment was delivered…’ - Livemint",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRHZ5ajRzQ21xNlRiN2lwOFZhZDRQOVB6Y2x4V2tSYmJ3YnFES2dzWlRYUkF5SkhyenNkck1TUlltUmc5RTFsQjloUWF6UXFBNEN0VVhReVhNQlBPMUx1RWRLSlBjU2NlRmFxUWRPd3llSExRZEhPUG9PcjZkeExJek5VYmpVTnFKS2tycVA2ZkFJaVhmUXNRRUlXWXhXMk5BMXhnTFFtalNtN3Y5d1daN3FpYW4zcmcxZ1hMZWVmMmtBQTRndUJWNnhaOF9pck9xaExzV3lFMEcyeGtoRk1kSDh0NGNLSFc1ZG1WRDZjOVY4SnpP0gH6AUFVX3lxTE5BeXJnTTJJUldGU0paZEo2alFCQjUxSGFtczZZRDNraGxZbms2azFrejVZRTVxeklHOVJ5M3h6S2tXcFFQQmJ6ZGxFbUhzcHJqcTRLR2JDdHhmbHlGTzFkdVBXMlY0OHRpQ3A0UnNsLThkREVocV9xU3lTWW1HcVA0bFpaR1BmZi1SQmN4MDVLTVZiNUUyNG5FVmdCOUlDSHRUc1Z5VkI5OUE4bkRLeVdPdVhzUW9DSE9RUnRlN3BXbENXS1JIZ25IMUxIRFpXb1V0N0xEOXFZZDVNd1JZR0ZjMzNCY3BqZXduZnVnMUNqMHJPTjVoYXcxQlE?oc=5"
+        },
+        {
+          "outlet": "Daily Pioneer",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43Sm9sZmljTTdTVFhXanhuY255b3M5NGstVUtIN2lxOGV3bHR6WlJmZzdaWHV1eVRETENZbEF2VzUyUzlpRW5yS2xKUHJQWUNHdVpXRVlwazVrZWVwVHBSV1gzUEpvcDZEYS1aMkk3cVYzZw?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1Nzc3NsZ0VXeERNRmFnT1h0UW5iWWNkNjYyNUZwRkl2RGFmR2ZlMExaajZHNXFJckZJX0JHdFB6b0d1SnJ5cW9LcWUxUzhhME9Rb0dGeDZ0NmI2YndWZ3FHdjRLemRMMWZCWHZyeW5UaWYtbjNWdVZLRTloVlRUa2dERXYxa0IyWjc3T1R1eVY0TnNQajU1RGlSRGdhVmx4ak53X1NmQjlITDFMSlN3SkRjSUprU2RJWmNCcEc5SmbSAcYBQVVfeXFMTU9ZdjMyZWZHZmwwRS1PVVFfRzV4Mk9BR2Jndk4yenA2b21RekR6cWRBdEtXeExsbWpTTXp5dGdQVEY4cndILUh4TF93bm9aSTh1dzBxRGR2WnlyaG9xcHp4eUcybS03R0tQUUZ2dlY3OVEyQlYwOUJQR1J2V2lISjlST1lRbm5QbzBob0tDU01YcHUzdi1NRW1LbzRYeVItMTcycUFjRjliTVNnTlNFQVBYSGFoYldPUEY4YkZBQXlkZnk5dTdn?oc=5"
+        },
+        {
+          "outlet": "Livemint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWFtcXBFZk5QVHJXeTltN2dwcTVGWnRQQ21IMWxHV0pqeG1WQVEwc1duVWhZUzBOeHZXR0tDM2FtTGVYa00zVEVuVDRTa1c3NFhhLVFXS0hDVFlETTdwVGs2TTcyU3BSQjVkZXVnUjNhbWc4dkxDLW8wRzBIMmhoOU95WGJBaFdSejlycG5NSUN0aWtBcWlPcXM0Nm9YWWsxRnEzWWVORnJRZEtKdy05RzdLQmtwcEpUMU1LaTNyVULSAcYBQVVfeXFMUG5QYzV4U0kzSkx2QVgwSHFJU25IcjRSWTdvdGRISnhkRkVjQVZDLUE5anUwQW9laXpWTGlidDA1bUFxTlZkZUs2Q1ZiMnBNOVN6bnV5c04tMXpibFJPR1NHUzV2a183d2dLUGZ5MmFPV3o3UU44MXgwNlZVSzFPRFdUcm8tSlc3a3AtWWQtWU9zWWRSNm9fWDdVRkRsa1pENF9OOGdtS2tzbjQzemdwZHBYYjBMQjlPQlpCNE1uUTB5OGNieW1n?oc=5"
+        },
+        {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRnJkZGQwUFRueU5Id1JzYmxIYWhDRmQ4SVdBLVl3NjZpY2xpT21Oc0N3eFo5UTcwNnk0X3BiRFlNS1VHa2xsVnRiOXJpRGFHYkxwTmRIcFRxeUQzV190dDd1OFk2VENITlZwZUpZSGFZQThTM3V2VnpKc3JzLUU3d1RjN0JEaG9VSjZhc1ZYdGNDb3hhLUQ1MGtZVEFBM1lFMzROQ2NCWGxIUHBnRTduU3pDSVE5QXl6akx5TU1heVFFbk5DdXN3U3NJbHI2bE5BNVdjUGx1QjdRQUhDclY1TzdyVnTSAeoBQVVfeXFMT256TXBlOUIzMjFCRzBHSmVfNjVzaHdxNmx1d3RZaHN5eFl5QnVZOWR2aVJfYlB6UXo4YjJDZkxzYUN6WkROdG5BMlhMSS1jdHZVX0wzVWJCcHA4ZkxfNjh4bzRyUUNfU0lmZ0xHekdMU0EzV2dUWEJ6Zm9MTU43dS11OWNqNlZnUUxreFFZN2xrUXllN2ItNG9oVE11cXhJX0x5c1JyMS1yVGhlMkh0UEZIcWJqYzBnZk9STkpsc05TY2NsUVpMcE9HRjFXWWtDWWhmU0JlakxYbXpPRzllTk56RDNfdUVfQjB3?oc=5"
+        },
+        {
+          "outlet": "LawChakra",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95b0tQbElBMDl6dm5IU3ZhQlRqRXVQeUxDeno5OHpuNGR2U0JZcU40TkpibkpKTWFCaUxRLWM3d0owcnVQbEtyeGc3dWp3VjJTOWxFQi1lY05FVTBZQzg4bXAxUFhSaTBxT1NKVXNkdS1FZw?oc=5"
+        }
+      ],
+      "source_count": 6,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "New Form 6 neither approved nor rejected: Supreme Court clarifies stance, ‘When Bihar SIR judgment was delivered…’. Covered by 6 outlets, including The Times of India and Daily Pioneer.",
+      "image": "images/new-form-6-neither-approved-nor-rejected-supreme-court-clari.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "52-year-old-woman-allegedly-beaten-to-death-over-witchcraft-",
+      "headline": "52-year-old woman allegedly beaten to death over witchcraft suspicion in Bihar | Hindustan Times - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Deccan Chronicle",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3BGYVlDa0JmLVVvaHNUcVBnNGZHd3ZjX01JSWdkUlVOcHJjempMVEVXLWUtYXNXeW5JMnBDb0dhMms4cExRdVV4cGxvdmR3MWIwekpFb1JGWkE5TjFfNUhya1RseHlKNjk1MnliZWNCdnp2RHdQS3pmdTFuZURNaWdVaFlZVEJpMU5IMVY4bzJ4a2xIZy0yeDJ1UXpTZUY5QUVkdkhBdExFejdrRnpzVVRRb1YtVjDSAbwBQVVfeXFMTzNZU21JajE3T2h4MktfMXNsblBuYmFpdUtGYjZvazZYdGluckhsYzRXZVU2aXh0ME94WHlhcVZMaEpjb1pQWDNnUm1CU2Uwd2tzcnVaN1gzaXJfVzdMT2FqLTFmTUxMUTZFOTJLTmR6anVaSjFPNVd6Ym9pdUFROVRjWHRzUmFLNlVaZzdqRXdSOFFONnZZMVZ2cGM5STl5MG9WZDY2VEtRQ3B1aDFSa2ZmaHphTHludzVaanE?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbVhqaDFyX1BXMTBLRFhJakU5TnFNYUwzU0E2bmhMUDZxeHJNa2NsMDBZV1VDdXFia2s5M001bUd0U1FZZEliYXVCZE1OSVFGYk9ET1kxV3g4bGtabUZ0eUI3UUhnYWFlaEh2SXg5OTA0dzJWZ3lWOEpuakpXNkRGeTl5S1hsZm16czV3RFJZbFZPc2ZiNnc0ZUNENXFibmNORG1lUVMzcGJVVUZHZnVXbFBzR2ZxbXpxb3BOS2NmZHRaRFdYaGtnZXVxU3YzeXlXeXNuU0lsd2xxN0R0Tlhv0gHkAUFVX3lxTFBjUjNZU2JrQ3dKMTQweUV3cnFWbFJWVHROVzhta1RhU3FOanVOS0VKNzRuVFl5dGREVjU4YXJkNHRQNUt2Ulpybng5UHBFOGFyV1JoSFhxbEliVHp3UWs1Z3VtVFV6SnVXWGVVdVRyWWpqQUMycmx6WjUxWGtzbTRrd2VtUHBhZDE3ci1VYTZhX2JaV1lua0VmMXlkY2xMMGZrWmxwbk1tMXRhODdXcWZqeGgzV2xnanhPWkUwaWVWaHphVVZlQllDWW5XazgyVXd0VFBxN2xzN1VMYVdobkNWVk1NMg?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXcxRmRkbTVPX3RDcWRmakI2SE5zNUZVcVlYVXdoMmZFSTMzWkVkSzh5MkRYWjk5VGgxSHpVdzdTQmM5a1RTQkFpaEZkNnpLamxKeFNjbUREU3RXUm5Mbi1KTFVvczdwZndTZl9ieFp3T2VVM2R3TWVQeU1GbVVseFRhbmluNzdzWmVIZ0FmX3Y5TXJqWXgyUDJR0gGcAUFVX3lxTFBvNjZuZUhmc0lzOUxrb202UXo5ZE5QR1pWTFpndjlsRWdZMGs3WkhSMFY3UGRtVV93V3NTb3EtYXNqRnJaWkVQOVN1VGFqdExUeHY1V0psdGYzUkNCYk9iWHZ0dGJVdWs4OUlWWnIzdEo3WWhHMTBvcUd0RUctYXBoTFRfcHFWSXlXd28xbHdMb09EbmM3cElQSEpQcw?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "52-year-old woman allegedly beaten to death over witchcraft suspicion in Bihar. Covered by 3 outlets, including Deccan Chronicle and Hindustan Times.",
+      "image": "images/52-year-old-woman-allegedly-beaten-to-death-over-witchcraft-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-flood-relief-crosses-rs-726-crore-as-cm-transfers-fres",
+      "headline": "Bihar flood relief crosses Rs 726 crore as CM transfers fresh aid to 1.6 lakh families - prameyanews.com",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "civic",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "prameyanews.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3pMZzk4RXcyVFp5N2gzUGp4SzB0MU9xNFpWb0tfa2laQUVhV3ktUEZ4ekh2em9OZUNwV1NGaTFtMllLOEtUMWJ5UU1oeVU3bHkwUWM3VVZyNmZScDRoeGlVOTVXNDF5cTZfdWRDZXdBUVY4SUw2ZV93R0NpbjNoYV9wdktMaFBPU2gxd0lSTDktOTRUTUJkalh5SENfQ21MNU05cFZGMkpHUlFOa2s1U0xiVQ?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON05BQzlabGtsVE5XTzhJeUs4bTRHUFhRcTIxWnR4aGYxNWNNVG13bUx3aEFfM2ZJRFh6MmMwQndSSERZc0NoNlc0aWRRV2lHZjNrcFdLS3NwYmhjMGFUOGtBSktqa3gtZEJ0TVhMQTZlWnR1ek5MWTJCdFFZTnkyLTBaSC02M0dZeXJ4M2w4ZGg3T1Q5eUlFcmZIS0FiR0VLTmVOVHM1eXFJTnhMNDBrOExrbGNoQQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar flood relief crosses Rs 726 crore as CM transfers fresh aid to 1.6 lakh families - prameyanews.com. A civic-infrastructure story. Covered by prameyanews.com and The News Mill.",
+      "image": "images/bihar-flood-relief-crosses-rs-726-crore-as-cm-transfers-fres.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "rahul-gandhi-s-move-to-meet-cji-childish-attempt-to-pressure",
-      "headline": "Rahul Gandhi’s move to meet CJI ‘childish attempt’ to pressure judiciary: Bihar BJP chief - Telangana Today",
+      "headline": "Rahul Gandhi’s move to meet CJI 'childish attempt' to pressure judiciary: Bihar BJP chief - The Hans India",
       "summary": "",
       "date": "2026-10-12",
       "topics": [
@@ -69,9 +176,9 @@
       ],
       "sources": [
         {
-          "outlet": "Telangana Today",
+          "outlet": "The Hans India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVVPZlZtOGM5bFV5ZDNONWEya1pvVWFGaFpCY1BFRnZaeWF3RGNnd0p0TDd3UUtWeW83d0tPTl83T1oyZDVLT3pCZGFndmFlSkpuRUE3OUpleDhRdko5aG5HdG11cW1GbGpNak9sdXJlTklMU0RsSU1EcjZNUWktRlU5OFpXdGtZTHdEOEpCYU82dnBlbmFGVmpmZ294bmQyb01xQ0FBbTRoLVZhSFgzWXBn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVNkMXJjWlpYMEdydFJ0cTBQcnNXbmZOaGJPZXB6TTVIQjJzc2pSSFdOZmlwRUV3bmpycm1qbGlVaUU0R3FlTHNLQmxVb2pBa1pLUzBmc0dBMHI3dUtlY3pDbVpvY2pISWQ0T2FoVk4taXJmUTdWc2JERzdld3lKWVRZUVpQUGg0ckF2OVlsYkJuSUZGVHVJUTczQU9pdUVMR214cnZZM3pUUDFDNV9Ud09wX3lXYW8zUk9YMC1DYmZ5QkYtNVNIOWd0dUpZTUJNNlE?oc=5"
         },
         {
           "outlet": "INDToday",
@@ -82,7 +189,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Rahul Gandhi’s move to meet CJI ‘childish attempt’ to pressure judiciary: Bihar BJP chief. A politics-related story. Covered by Telangana Today and INDToday.",
+      "brief": "Rahul Gandhi’s move to meet CJI 'childish attempt' to pressure judiciary: Bihar BJP chief. A politics-related story. Covered by The Hans India and INDToday.",
       "image": "images/rahul-gandhi-s-move-to-meet-cji-childish-attempt-to-pressure.jpg",
       "image_kind": "photo"
     },
@@ -125,12 +232,7 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1pESEtuWTZoYXFlYmhNcEh1VDN2LWhVWGdqSE9JZnVTaDJXRGp5ZXJlcXhVNm5CNU1wdFlrZ05ob0JHdURQSkIxSktjSXBPYUdoajJlbVZlMjcwYmI4WC1ZQ2hIZkVtY3pFRTItcThsRFk1NExfVnVpWklyU3dqX19wMDZJTVlEUWQ3blN2RVN0LU5TSFFZVnNqei1peTRDeGRiMlpUcDlaRXJtNUV5OHRuQ3N6M2dTTDlOeEt1d0liY0Y0MVJYQ2hIQWw4X0RGV1M4M092Q3dncFA2aVZRc9IB5gFBVV95cUxOVUh3eE8tU2pDVDZKUmpuaTBzdW5zQ3c1SU5JaDgtZENBN1puYkg0YzF5cnVxZXJRX3l3a3ZCLXpMTEs0ZDF6bFktUTJkUFQ0T2hhMXVNUEtKNi1uVHE3YkdjYUl1a254blpHRU9MS3BlbFZraFp0ZmRIbi1WbEJCT1haNm9Ba1F1TlVsUnZvRk5HM1lDM285Z2lqVmUyTTBhb0xPODdtQlYzQXFRc0RlMzFKYmVWUy1VX2NnQzZVa0lsa2NCWmZiTGxOR2x0Tmk3cXdjLVBqa2hZbkp3T0dBNkFHb19vUQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFpRWUlPTWlsaDFqcTFQSnl5MkxUWmowbG1GS0ZZYVgtQkVVZFJ5cVpwSGZvXzVRenlZSjdXNWZoOTc0Rm1JT0RBYldlVlo4SmFnWm1IX2JHVUlmYmt5R0RWakxfYkJ2WC1FQVV3alRJYkZHemZudWZmMjZNT0dIQkpKZV9EeHV0T2FZOEw1R2RwaGlZSzQ5ajdTOWlTMVlHVkw4TFVWQVVPbHc4SF9ENlpFZTA4TDZnWXIzX2FDVkFXWmloYlREYjhEcTVhUdIB0wFBVV95cUxQYlJmOUVaNVBrcXIzZWxnVjVseTFPclhzZG5vSjVzNWVNaDREZmdrOE5ybjFIenE5aUlaWHVQcl83ZVJuVzZBSW50WngySFNaSkticjNHT3RreXBoeWh2Mld6REZWNlBKZXRTaTVXcDJyVWo5Q1Y2ekJNYkdjaDlPQ2FRVmxSZ1dxbmdjeS0xTUh3S3dLY0lLSjFQeWlpUjJfSjM4WFpIMmNQcjZ6RHU2NDZpVHI0SXlSZU9zdFJxRng1LVIxZkd5UGxNMWRMMTNUMkxB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ18teURxMWtQR0VwdTgzRjZDcHpFVlNKTVE5NlRYaG1KT1MwWms4cEhMclVmTm4tVk1DaENmcmswY0drZmpiM2xVT3ZTX0RvUVFTQnRCZElGLUdLU0VWdXI1OUJCdGMxZURKTVBFcmpua1NuZGtBV0FzTDFqcVFTeVo5UGRxUDlvM2xpQXluZDJvblJzYTdtVldRaXd6bVVlTTVRMUJJMW1INnpNN0NGcG12c1R4eGFUMVNWUDVlU05vOUXSAcgBQVVfeXFMUGdObVpybDF6UGJXNWdMbDlHdXJhS2RvTnRPQ2NIc3B3WWItbkJCU2Q1N2NjcWwyRUVSN3BQWlRpNjc0ZmY0VHRueXl6VTdUQmZTTHZKU3hnQlpybER5MnRPUE5lYml2OEFKQnVPaWtiaElWX3ZGRW5rb0N4UTYwS1dEMVpqdy1IWG9OZ1psaXh0cGl4dFJRRTM2bDNhVGhPUWZJeXFIb1N6RDFSNGxmR3FVLTk5S21zM0RKM2RsbmFCWTM3TFR1RTY?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -138,19 +240,19 @@
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2NQNTlHMEZVckZHUlQwT05tQTdDVzFfNlVFbzdUbnpvY2QxVHBFb3ZCN3U1YXRhbE1MWmlZMnk3cWNWOWVlVnJzWWxoSXhrbi1DUjVla1c4UDJjUmVWb3c0YlJWQk9sWXhzdHNETF9STnBrcWF5NVlFRDVKQi01dkx5MHdTbGFvZkZvSXhWeTZxUjV0dXBwTlJ5UXZiNDhXX25Va2JGNGdQS1BSWi0yb2o4SmZyT1doeEVuc0lVNEVocVliNWctVWg4MWtrVUdkZ09YdmoyRmVUVzTSAeABQVVfeXFMTVJrTE4yY0ZRY21QVnFoQXBFTlZYNW9yVlVzNHlmNHBYYVBFdFRxMlpBeURxd2hKdHRMR3NtVXBEWnRGMHQ3WFBaUGlOMTRFWF9wZVp3cktfVW56bFVuQ09KNFd2U21JY2tiTTRZNVZudklCUlpvOVN6U3ZWVVBibmw0T2FFZENQdmI4MFVUZ3Ffc2xMWnZpdnRjTnIybk9Tc09ORHB6cnd3dzk5RlBWeHNwMjlGT0puSmtxYzIwTWRLOXlMdTBybVRUS1pMOXJ4LTJEek40MDA4UDZ6LWxEV1c?oc=5"
         },
         {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFpRWUlPTWlsaDFqcTFQSnl5MkxUWmowbG1GS0ZZYVgtQkVVZFJ5cVpwSGZvXzVRenlZSjdXNWZoOTc0Rm1JT0RBYldlVlo4SmFnWm1IX2JHVUlmYmt5R0RWakxfYkJ2WC1FQVV3alRJYkZHemZudWZmMjZNT0dIQkpKZV9EeHV0T2FZOEw1R2RwaGlZSzQ5ajdTOWlTMVlHVkw4TFVWQVVPbHc4SF9ENlpFZTA4TDZnWXIzX2FDVkFXWmloYlREYjhEcTVhUdIB0wFBVV95cUxQYlJmOUVaNVBrcXIzZWxnVjVseTFPclhzZG5vSjVzNWVNaDREZmdrOE5ybjFIenE5aUlaWHVQcl83ZVJuVzZBSW50WngySFNaSkticjNHT3RreXBoeWh2Mld6REZWNlBKZXRTaTVXcDJyVWo5Q1Y2ekJNYkdjaDlPQ2FRVmxSZ1dxbmdjeS0xTUh3S3dLY0lLSjFQeWlpUjJfSjM4WFpIMmNQcjZ6RHU2NDZpVHI0SXlSZU9zdFJxRng1LVIxZkd5UGxNMWRMMTNUMkxB?oc=5"
+        },
+        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb09qU0ZpYW53ellYZ3d6SGhwZWVULVk4UTEyVk41Z2lsS2Yya3RwR19lV2lEQVNUbTNQRHVYSnM1UTNrelJieno2aTBodVdkcDdZNFZEb3RERHpyeEd6TG9CRXB2SVRDYWp1TWpXRUZveElESnNKRHhtV0M3Z0xrV1pBSnF4WWplQWoxdTRQMnZOS3RLTGFqSnN3S3pqdlZtOVZULVZnZ3pHNlBVY1hYbms4SnNLQlRHS1YtWjE0ZnpUUVFpMm0yZ2g4T3FCVndQMmxuMNIB2gFBVV95cUxNY0VDcTBvZ05WLVJVVDUzVnJTczU5aVR4amRjS1RWcTZQeE1TM2gxY1dXRVFLbGtza1R4eGk0RGtHX0JfT0pocU0xc3Y0QzNyU0hUYlVPX3ZyZlFDeVVOenVONGRVRURDN3pOdU90SjUtQy1PZnhBYmdxX1MtaWJ2RmpqdE1fcTdudnA4RTVNQ1AzNzZzT3lmMkRmY1MtSzROclhiRjk2TmdsVHJCV0JBNkFGM2R4OVNQbW50T21lRHg3TDNSWW9yUnJ5dF9Sc205c21kbXlqNUlwdw?oc=5"
         },
         {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXBlX3ZDVWhpdzFtd2p5UTROOV81TUJmbGhXLUd3Mlh1cnczYzNaaXoyVHcxS0lXYk0ySS1PUmIxN1lMRVVIUFZTcU5PSXBiYlplb3VEcnVIUFRaZUNTZUxIYmlNMWp1TGNpcTRSeDlod2NsdDE2bHl4VXpIYmdxOWFVSFU0cTZHOHh2WHNXNkx2azNkWGk0cDVWXzlXU2MySnZ5ZHVQNWs0ZVFpb1dacElMWk5UdlBJN2Q4Vk5CUFRuV21Y0gHKAUFVX3lxTE5jVHlxbThOckNRT3AyRS1VRnZwc1BaZWhnQXlDb21Qd2dYclVrZUNxYWpETzktTTRKSlNVN1FaUGJucHVnQVlMZ3pqLXhhSzRZRkdDdmdXS3V3aFJPZEFQS2hadmpCeVJhQ1ZvRGRwcFlTTlRONnVzWTFLYWVKLXZmVWx5a3ZXS3pzU1d0cld3OEtacDY2c04yblZ3SEVxZzBhMnJHZU9PbDFVNW5nOXhWQmx1SXVxSUxDeDdnRW53Q0tGVnAxQXpobnc?oc=5"
-        },
-        {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ18teURxMWtQR0VwdTgzRjZDcHpFVlNKTVE5NlRYaG1KT1MwWms4cEhMclVmTm4tVk1DaENmcmswY0drZmpiM2xVT3ZTX0RvUVFTQnRCZElGLUdLU0VWdXI1OUJCdGMxZURKTVBFcmpua1NuZGtBV0FzTDFqcVFTeVo5UGRxUDlvM2xpQXluZDJvblJzYTdtVldRaXd6bVVlTTVRMUJJMW1INnpNN0NGcG12c1R4eGFUMVNWUDVlU05vOUXSAcgBQVVfeXFMUGdObVpybDF6UGJXNWdMbDlHdXJhS2RvTnRPQ2NIc3B3WWItbkJCU2Q1N2NjcWwyRUVSN3BQWlRpNjc0ZmY0VHRueXl6VTdUQmZTTHZKU3hnQlpybER5MnRPUE5lYml2OEFKQnVPaWtiaElWX3ZGRW5rb0N4UTYwS1dEMVpqdy1IWG9OZ1psaXh0cGl4dFJRRTM2bDNhVGhPUWZJeXFIb1N6RDFSNGxmR3FVLTk5S21zM0RKM2RsbmFCWTM3TFR1RTY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1pESEtuWTZoYXFlYmhNcEh1VDN2LWhVWGdqSE9JZnVTaDJXRGp5ZXJlcXhVNm5CNU1wdFlrZ05ob0JHdURQSkIxSktjSXBPYUdoajJlbVZlMjcwYmI4WC1ZQ2hIZkVtY3pFRTItcThsRFk1NExfVnVpWklyU3dqX19wMDZJTVlEUWQ3blN2RVN0LU5TSFFZVnNqei1peTRDeGRiMlpUcDlaRXJtNUV5OHRuQ3N6M2dTTDlOeEt1d0liY0Y0MVJYQ2hIQWw4X0RGV1M4M092Q3dncFA2aVZRc9IB5gFBVV95cUxOVUh3eE8tU2pDVDZKUmpuaTBzdW5zQ3c1SU5JaDgtZENBN1puYkg0YzF5cnVxZXJRX3l3a3ZCLXpMTEs0ZDF6bFktUTJkUFQ0T2hhMXVNUEtKNi1uVHE3YkdjYUl1a254blpHRU9MS3BlbFZraFp0ZmRIbi1WbEJCT1haNm9Ba1F1TlVsUnZvRk5HM1lDM285Z2lqVmUyTTBhb0xPODdtQlYzQXFRc0RlMzFKYmVWUy1VX2NnQzZVa0lsa2NCWmZiTGxOR2x0Tmk3cXdjLVBqa2hZbkp3T0dBNkFHb19vUQ?oc=5"
         }
       ],
       "source_count": 2,
@@ -161,8 +263,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "52-year-old-woman-allegedly-beaten-to-death-over-witchcraft-",
-      "headline": "52-year-old woman allegedly beaten to death over witchcraft suspicion in Bihar | Hindustan Times - Hindustan Times",
+      "id": "bihar-s-development-journey-got-new-speed-under-pm-modi-cm-s",
+      "headline": "\"Bihar's development journey got new speed under PM Modi\": CM Samrat Choudhary lists state's gains over 25 years of Modi in public office - ANI News",
       "summary": "",
       "date": "2026-10-12",
       "topics": [
@@ -170,31 +272,26 @@
       ],
       "sources": [
         {
-          "outlet": "Rediff",
+          "outlet": "ANI News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXcxRmRkbTVPX3RDcWRmakI2SE5zNUZVcVlYVXdoMmZFSTMzWkVkSzh5MkRYWjk5VGgxSHpVdzdTQmM5a1RTQkFpaEZkNnpLamxKeFNjbUREU3RXUm5Mbi1KTFVvczdwZndTZl9ieFp3T2VVM2R3TWVQeU1GbVVseFRhbmluNzdzWmVIZ0FmX3Y5TXJqWXgyUDJR0gGcAUFVX3lxTFBvNjZuZUhmc0lzOUxrb202UXo5ZE5QR1pWTFpndjlsRWdZMGs3WkhSMFY3UGRtVV93V3NTb3EtYXNqRnJaWkVQOVN1VGFqdExUeHY1V0psdGYzUkNCYk9iWHZ0dGJVdWs4OUlWWnIzdEo3WWhHMTBvcUd0RUctYXBoTFRfcHFWSXlXd28xbHdMb09EbmM3cElQSEpQcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQODFLOGhKTXJsU0ttUGk0cUhpenJOYVFUaEhvRHVRMTlKblJjbkkzS0pFXzZNOFZYcTVLcTN6MjJLREZMSnRGZk1CX2o0VERrVGxETWFMX2ZNRU1pWktLc3pheFp0LTl3R1UxRExNdEd2cDZkWDFvdWEtVVRHcWF4enowM3BkcU5jN05hMEJpY2JKUWswRm42d3lyT0dteGdHY2N6MDRQR0VvV1FibURwcG90X2x4akVDZEtzT21ZS1oyTHlUeDd0aDlFaG5XR01SSzhqZG5ldmpkdURwWE83ZEJ6REZrSXlyRjFEQ3hXQlhEYVk5Y3RjM05VWTlnTzZrZ3VzeUNqYjJMbEk1Tk9Db2Z2SzJJVUt6YmI1LUdTRFc?oc=5"
         },
         {
-          "outlet": "Hindustan Times",
+          "outlet": "The News Mill",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbVhqaDFyX1BXMTBLRFhJakU5TnFNYUwzU0E2bmhMUDZxeHJNa2NsMDBZV1VDdXFia2s5M001bUd0U1FZZEliYXVCZE1OSVFGYk9ET1kxV3g4bGtabUZ0eUI3UUhnYWFlaEh2SXg5OTA0dzJWZ3lWOEpuakpXNkRGeTl5S1hsZm16czV3RFJZbFZPc2ZiNnc0ZUNENXFibmNORG1lUVMzcGJVVUZHZnVXbFBzR2ZxbXpxb3BOS2NmZHRaRFdYaGtnZXVxU3YzeXlXeXNuU0lsd2xxN0R0Tlhv0gHkAUFVX3lxTFBjUjNZU2JrQ3dKMTQweUV3cnFWbFJWVHROVzhta1RhU3FOanVOS0VKNzRuVFl5dGREVjU4YXJkNHRQNUt2Ulpybng5UHBFOGFyV1JoSFhxbEliVHp3UWs1Z3VtVFV6SnVXWGVVdVRyWWpqQUMycmx6WjUxWGtzbTRrd2VtUHBhZDE3ci1VYTZhX2JaV1lua0VmMXlkY2xMMGZrWmxwbk1tMXRhODdXcWZqeGgzV2xnanhPWkUwaWVWaHphVVZlQllDWW5XazgyVXd0VFBxN2xzN1VMYVdobkNWVk1NMg?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY1IzWVNia0N3SjE0MHlFd3JxVmxSVlR0Tlc4bWtUYVNxTmp1TktFSjc0blRZeXRkRFY1OGFyZDR0UDVLdlJacm54OVBwRThhcldSaEhYcWxJYlR6d1FrNWd1bVRVekp1V1hlVXVUcllqakFDMnJselo1MVhrc200a3dlbVBwYWQxN3ItVWE2YV9iWldZbmtFZjF5ZGNsTDBma1pscG5NbTF0YTg3V3FmanhoM1dsZ2p4T1pFMGllVmh6YVVWZUJZQ1luV2s4MlV3dFRQcTdsczdVTGFXaG5DVlZNTTLSAeQBQVVfeXFMUGNSM1lTYmtDd0oxNDB5RXdycVZsUlZUdE5XOG1rVGFTcU5qdU5LRUo3NG5UWXl0ZERWNThhcmQ0dFA1S3ZSWnJueDlQcEU4YXJXUmhIWHFsSWJUendRazVndW1UVXpKdVdYZVV1VHJZampBQzJybHpaNTFYa3NtNGt3ZW1QcGFkMTdyLVVhNmFfYlpXWW5rRWYxeWRjbEwwZmtabHBuTW0xdGE4N1dxZmp4aDNXbGdqeE9aRTBpZVZoemFVVmVCWUNZbldrODJVd3RUUHE3bHM3VUxhV2huQ1ZWTU0y?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGxMc0lZeE1OcDUtZThLdzd5OVA4Sm5TWVZ4SUttUmJfYlo1Ym9zMlBGa3pkbGVNODN1SWRQTzZGdEM0RDUzZkJiS1dMenlMQXl5YlJfS2J6a1MxZ3dYQ1d4YUJIMW9uT2tnTHc0VFIwWUJvODRibC1tTWthZVhqY2xiY0Y1RGoyZF8xN05vNUMwX2pPLUt3eS1xLU1IYXpvV0RrS1Q5aW80bFpCZjV3SmItN3I0RUpzN2dXMg?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "52-year-old woman allegedly beaten to death over witchcraft suspicion in Bihar. Covered by Rediff and Hindustan Times.",
-      "image": "images/52-year-old-woman-allegedly-beaten-to-death-over-witchcraft-.jpg",
-      "image_kind": "photo"
+      "brief": "\"Bihar's development journey got new speed under PM Modi\": CM Samrat Choudhary lists state's gains over 25 years of Modi in public office. Covered by ANI News and The News Mill.",
+      "image": "images/bihar-s-development-journey-got-new-speed-under-pm-modi-cm-s.jpg",
+      "image_kind": "placeholder"
     },
     {
-      "id": "new-form-6-neither-approved-nor-rejected-supreme-court-clari",
-      "headline": "New Form 6 neither approved nor rejected: Supreme Court clarifies stance, ‘When Bihar SIR judgment was delivered…’ - Livemint",
+      "id": "2028-2028-bhaskarhindi-com",
+      "headline": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी | ???? ?????? ???????? 2028 ?? ???? ???? ?? ??????, ????? ?? ?? ?? ??? ???????? ?????? : ???? ?????? ????? - bhaskarhindi.com",
       "summary": "",
       "date": "2026-10-12",
       "topics": [
@@ -202,31 +299,36 @@
       ],
       "sources": [
         {
-          "outlet": "India Today",
+          "outlet": "Hindustan",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1Nzc3NsZ0VXeERNRmFnT1h0UW5iWWNkNjYyNUZwRkl2RGFmR2ZlMExaajZHNXFJckZJX0JHdFB6b0d1SnJ5cW9LcWUxUzhhME9Rb0dGeDZ0NmI2YndWZ3FHdjRLemRMMWZCWHZyeW5UaWYtbjNWdVZLRTloVlRUa2dERXYxa0IyWjc3T1R1eVY0TnNQajU1RGlSRGdhVmx4ak53X1NmQjlITDFMSlN3SkRjSUprU2RJWmNCcEc5SmbSAcYBQVVfeXFMTU9ZdjMyZWZHZmwwRS1PVVFfRzV4Mk9BR2Jndk4yenA2b21RekR6cWRBdEtXeExsbWpTTXp5dGdQVEY4cndILUh4TF93bm9aSTh1dzBxRGR2WnlyaG9xcHp4eUcybS03R0tQUUZ2dlY3OVEyQlYwOUJQR1J2V2lISjlST1lRbm5QbzBob0tDU01YcHUzdi1NRW1LbzRYeVItMTcycUFjRjliTVNnTlNFQVBYSGFoYldPUEY4YkZBQXlkZnk5dTdn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcmZxT1o4T2xybHVTUGhkY0RMZmJ4aU9Ub0t3VGFxN2RPNEJUZHJROG9uVVdVZFdQZWFIZ00wZTZWc2NwN1FsbUY0aUxrOEdwSlFXQjBYOWxYbmZNUm5MbE5aV2dTeXhjZHZhSVRmYVYyR2swWE5lendGa09iV3MzOFFkZ1ZtX3A4a1FXUDZKXzg3N3l1OW02YlZld1BCdFJ6cDhqcER3Sm5pYVktTlBQRlhlVTg1UzFDNFVwQ2NUN2NRclFoRXQ0enl1dnVGeG13alJ4SEZfZXF5UlVXWlRSRDVaWm3SAeoBQVVfeXFMT0drdVRhV1lCb3oySVJNSnNrZTR5RzZ1eHFoZEpuYUYzSVBOZmNJSWtCcWZaanhxUjRrMzBLdVBaSVRfSjBGOTUwMmtnYkhfSno3RVJmUTZMN09rNzdLaHhhX25aOTVTaHdIcE5uTk1ocDRDTXp2UlpoRmZ1RFBpUk9renNuZ2MzNU90OVVxVVVsTk9aT3lHbnNNaV9LLVBYUlprdFJTVHc0Tnh3Y1c4MTdiYk1oRy1VNzhHczNnbU9POGNBOTBuQi1CYnVSdkJhSzFobzVEOFpMY0hMVFM3ekRiQ3VROGozSGxR?oc=5"
         },
         {
-          "outlet": "Livemint",
+          "outlet": "bhaskarhindi.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWFtcXBFZk5QVHJXeTltN2dwcTVGWnRQQ21IMWxHV0pqeG1WQVEwc1duVWhZUzBOeHZXR0tDM2FtTGVYa00zVEVuVDRTa1c3NFhhLVFXS0hDVFlETTdwVGs2TTcyU3BSQjVkZXVnUjNhbWc4dkxDLW8wRzBIMmhoOU95WGJBaFdSejlycG5NSUN0aWtBcWlPcXM0Nm9YWWsxRnEzWWVORnJRZEtKdy05RzdLQmtwcEpUMU1LaTNyVULSAcYBQVVfeXFMUG5QYzV4U0kzSkx2QVgwSHFJU25IcjRSWTdvdGRISnhkRkVjQVZDLUE5anUwQW9laXpWTGlidDA1bUFxTlZkZUs2Q1ZiMnBNOVN6bnV5c04tMXpibFJPR1NHUzV2a183d2dLUGZ5MmFPV3o3UU44MXgwNlZVSzFPRFdUcm8tSlc3a3AtWWQtWU9zWWRSNm9fWDdVRkRsa1pENF9OOGdtS2tzbjQzemdwZHBYYjBMQjlPQlpCNE1uUTB5OGNieW1n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQjR2RGF0TzJIeHY0ei1STUFHd2liaU5ZNWlwZlpEdENxQXo2WDRRTzM1Yk9BRXl2SUVvZFdMeWcyNDUtMXZtbzM0eVNkTWFqejYzZ25VX0Z6YlA1UlVFM2lwd2ZGRkdpNE4xTDJ5ZVl1WnlRckk2QzFuVjBWdzVlMk55NWxYYlNyaDNtdXFpd25rMlpnc2ZtOW4xUWhrT1dpc0JJdTQ2ajVsY25Xa2dxWi16NkptQkt4Yk9zZWtjMVZEdDlsa0ptMGY0eGdLajVTVTh2cV82V1c4Z3FJVUxUOWI4Nl9QQ3NKVHJpdlkzeVc?oc=5"
         },
         {
-          "outlet": "The Economic Times",
+          "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRnJkZGQwUFRueU5Id1JzYmxIYWhDRmQ4SVdBLVl3NjZpY2xpT21Oc0N3eFo5UTcwNnk0X3BiRFlNS1VHa2xsVnRiOXJpRGFHYkxwTmRIcFRxeUQzV190dDd1OFk2VENITlZwZUpZSGFZQThTM3V2VnpKc3JzLUU3d1RjN0JEaG9VSjZhc1ZYdGNDb3hhLUQ1MGtZVEFBM1lFMzROQ2NCWGxIUHBnRTduU3pDSVE5QXl6akx5TU1heVFFbk5DdXN3U3NJbHI2bE5BNVdjUGx1QjdRQUhDclY1TzdyVnTSAeoBQVVfeXFMT256TXBlOUIzMjFCRzBHSmVfNjVzaHdxNmx1d3RZaHN5eFl5QnVZOWR2aVJfYlB6UXo4YjJDZkxzYUN6WkROdG5BMlhMSS1jdHZVX0wzVWJCcHA4ZkxfNjh4bzRyUUNfU0lmZ0xHekdMU0EzV2dUWEJ6Zm9MTU43dS11OWNqNlZnUUxreFFZN2xrUXllN2ItNG9oVE11cXhJX0x5c1JyMS1yVGhlMkh0UEZIcWJqYzBnZk9STkpsc05TY2NsUVpMcE9HRjFXWWtDWWhmU0JlakxYbXpPRzllTk56RDNfdUVfQjB3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTZPc2hCSHJYNkZmYkswX1ctSm5FLXZTQ25OdFVUQnBYLXZUOGNoOGVCaFBxYzBiQlYxS1FyRFBaZVlmMm1qVkhoLW15QWlHN29WSk5zT3dZQmxQTGJuRWRLc1Fvd0ltTUxqdzJsN0o3eklaTzd6bXhTb2FCQ0tjdzlJaHoySldSV1NLbXNDMm43NE9VVlhrdm45WF9Dc1B1eGhsS3BLT1VBQmV1SnBKMnJrUkktUVdGTEU4?oc=5"
         },
         {
-          "outlet": "LawChakra",
+          "outlet": "ETV Bharat",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95b0tQbElBMDl6dm5IU3ZhQlRqRXVQeUxDeno5OHpuNGR2U0JZcU40TkpibkpKTWFCaUxRLWM3d0owcnVQbEtyeGc3dWp3VjJTOWxFQi1lY05FVTBZQzg4bXAxUFhSaTBxT1NKVXNkdS1FZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1d6TUhTa0pWai0tak9iamRvWC1SUDhaSnY1RmIySmFDcm1xdk9wb3RQU1A5eEItOVl5VExjTXhWN3QtcjdRcmJ4SW43Ty1PX1JHN0E0Um01cW9KNWFyZjdaNEh0WWNpRWpyeEFmS0lLbDFWZ0d6Rmw3eXBvOWJDLWxKNWYyVVRSemx4QTNyZy1QR3pMdnRpLUFoeFpVMWNYVTNjQ1RUNDFPdnc0T3c?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT20wbDNxSFI0MlNXR2tSeG54dmhKY3huRWxZc3p4WjYyZ2M5ZXNxZFFkRTRYbjQ5R3RPRVY5MTByUURRcWFLczhydGRYZHZjeDZ3NXJ1Q3NVWlRSaTZ3MnprNUFKR3BtRXdQSGUtNTZ1djVnWFI3MEYyZVdIYUJyQmpaMERhaS1fa1BkekV0NEdiRG1ITmgyR0RQcmctLVEyQmoyajgzZi1tS2Q3c2t5c1l5Zl9JaTFTbVZYTnotY3N3X3c3aEVhZVFvcDE1MFFXRDloVHgwdkJGamtCeVhGazJOclV6Z3hPZllBYmRRRzRKcXlSVlNjbkRLMWZuZF9CdUM0M3RpNXU1OHZpTG92bnFjZ1lUNDB50gGeAkFVX3lxTE0zOEZCRF81RjhWLVFsNjVIQ0VUTzljX3NTaXJYSzlETDRGNU5OQ3AxeTJiYkp3OVQtMW04TTlfVldIWDVRS0hWQzRsQU9lYmt2YllVRDdJV3I0ZjdWNmxOX09GcGlrNVBheWNPVnd4TEIyT1dJOXRWX1p2UkQ1ZXVNS21oOEY4X2IxbUpLMWFCaGtNM3E2WXJKUGp0YzJnelBsNnIwVVlranpHSzBHM3BWYmJDX2NxQW1DcUFVVUd4RG4zLURfVnJoX2dlUjNkYm9HRnpqcjl0UkRJenVGSDkzQ3BzcW5UUXpFWVBSUzBNYjJsazc4aXJxV1hfWWsyYjRhb21IT1hqMURtQjQyWTlnaS11UXVWR2Zob0NYcnc?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "New Form 6 neither approved nor rejected: Supreme Court clarifies stance, ‘When Bihar SIR judgment was delivered…’. Covered by 4 outlets, including India Today and Livemint.",
-      "image": "images/new-form-6-neither-approved-nor-rejected-supreme-court-clari.jpg",
+      "brief": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और bhaskarhindi.com शामिल हैं।",
+      "image": "images/2028-2028-bhaskarhindi-com.jpg",
       "image_kind": "photo"
     },
     {
@@ -294,34 +396,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "jd-women-s-college-teachers-protest-mata-sita-university-aff",
-      "headline": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ - The Times of India",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "politics",
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "Careers360",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGdBWkhSM1lRZUswRk1tWThQTWZsU3pXSkw3Snc2U0lUaHNETkpHZnAwRUZuNGtuQl9ELVQ3YldJbGE3UFFJY0F0aFMzVnRrbW95ODd4MUxvN0l6QTJGOG1JTkhLRXotY2VuakQ0VXRNQUJYQ0Q3Zm9aOHdjRzBxLXV3QjhaOG1jdUhtSTNWMUZpdnZVQVdkUTVIR1VzVkhZTjFvNW54MDZmd9IBrwFBVV95cUxQTjUzUmtrMlZmbE5KWUJuQmkyMndFMUJfLXlLdGFIWF9NektHNVN1VFEta0VWcFYzOUdjSXJOT3NtZ3poUFgzOVozdjhKVHRyNG44b1hSMFc1UE1jc0NxZ0FUc1FpdlV4Z2IzaWphbUdwT1o1OThNbXlBcW5uZm1JTU5jNnAzV1pQdnlhYjdTaGJWWXZiQ25OOExUcjA5eVVMaEl2WTBRY1doWEI0MUhZ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeUJWRW15YVpfcHA3cjJ6UzF3Zzh0YTdtbk9wUmtKLUE2YjRMR0ZpeUQwQ0ViUk02dzlka1FYSFJjRXE1LXRsaFpVY0hWY2MzcjJMNkhhQ0hlODFyYXZPeFFyYTdBNWd6YjdvVFp5NUROMEotWk5DaFlFR1dXMzhpbk9uYU9ZTkl3Q1RaaDFIWmtPU0ZLdHctZzA4Q21HNzZlVVdaQWV0bjVWbmc3U1JvN1lwMHpIQWxUeGpDd2xuVWxnbHZYRGRmNGRPdGpZaldQd08yQWw4T1BuODdjUy1WOTFzUHZoYU52ZFBOcnZaOWxoNVFHcjE5UzA3VFFuLTBCQko0S0R2RlEzbWtOWVNaSG9MZURnSWFTYVg4VmY3bGdsNknSAagCQVVfeXFMUGJKQXhvR29TbkZjUi16eVNxWEFpZFhScHZsV3NxTFRURHcySnhMV3FEcnNxZ19jQkJEZzAtalFac1VHVVowOWFEZjNpcUExSkY3M2xwWjZ3YUhUd2ZBZEdCenBjVGNWN3YtTVBqNUFJMlpoTURNLXR6UWRXLW9kSW5vWFV5RjRLWGdKUGlXTGdMYWVBUU4xZVZCM1dKd0tnSUZuV0YySl80SUNUdmJxVzYtZUtlUXRleGR5QnI4LTVEVnVlOUlxOHppR2dnZnNFVVN2OEQ2OEN2N3lZdmZsM1czWlE5UEU2Mm5rR1k3MUU4ZEwybFlZbmZNMFFRNmpPd19IUDdtcFc5eS0wLXlLNDN6V2Z4QVRLTzIxYVg3TDFCQUpQLVVnOG4?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ. A politics-related story. Covered by Careers360 and The Times of India.",
-      "image": "images/jd-women-s-college-teachers-protest-mata-sita-university-aff.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "no-major-impact-expected-at-bihar-barrage-from-nepal-flash-f",
       "headline": "No major impact expected at Bihar barrage from Nepal flash flood: Deputy CM - ThePrint",
       "summary": "",
@@ -346,87 +420,6 @@
       "genuineness_label": "Corroborated",
       "brief": "No major impact expected at Bihar barrage from Nepal flash flood: Deputy CM. A civic-infrastructure story. Covered by ThePrint and Rediff.",
       "image": "images/no-major-impact-expected-at-bihar-barrage-from-nepal-flash-f.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-board-extends-registration-deadline-for-matric-interme",
-      "headline": "Bihar Board extends registration deadline for Matric, Intermediate exams 2028 - The Indian Express",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY3F3V2tYYmhsT2dzZS16TWJiN1VxN1kxRktiWF9YUWk1NzFXTjlHUzU2WWw0eTQ5NXlTbkVMeUZibzV6NjVDdERHdzFYTG1Zc0tReTBkQ2FxemtJaE8yYWR2VVVqNDM2a0xfbFJ1Wk1iN2E0WWFDRGRFZmo4eWd2M09Nc2JtRkZpdVREQ0ROYWU2dC1LVS1Kd3ZnVEIzQ0RSd1hvSWF3SHZYZlhUZkxObm9VbzFHbU9xbl93LWNTRlVDZGpQbnZEclRtWTNYaTF6V3pMWVdwaGdJaGpLQXB0NVgyZVpqZlczZ0VJQjU5N0hYSDQ3Z0VjWU9mMFTSAYMCQVVfeXFMTnBqNlNSbHp6a0k3MmNtd1hKUHlqbE5xSGN1WVBSem1faWlFMmdzaXdpOTkwdmUyM2RNeFU5UnBLMWhMSWVBQU5PUHpJMVhwb3hRMFdtLVBackp2RVM0ODJ2ZGVmdkxhVEhDMHo4WDQyalhhVFdNTWZSN1JiSjhDZGZtSGk5eURBbm9jSk1MY0QtbUJobHJLOFJfVjF0TExGcjRLdVNlYUI3RERtSlV5dG1YSl9kM1BqQTNLMzVVQWdQTnl2N3dMZ3JPTXJacTBPR0RXWV83TXVfOGUtZXBYbDlab3M2Z3NzVHplMmMwVWU0Nm9hTjd3MklRaUM0SzZ4SDctSQ?oc=5"
-        },
-        {
-          "outlet": "BW Education",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeU5wb0pwRnBqODJ3Wl92VklFZ0VlOXp0MVhURzVhbUQ1b2lvUTdhWFFmbmotdDluUnhiOF9rdndBdl80Y2owaWljdVNmeFlRZFRoRk5GX0FSSm02UllwVDN3d2xMV1pSR1M5bVJ1QVhaSDlXbEplNjM3SDBoRTBqbUpsRWQzQVBQbk5VV05TRnF6Y3ZOYTBMaTRneEFINWJsVVoxUjRCQTlEN0NJWFE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Board extends registration deadline for Matric, Intermediate exams 2028. An education-related story. Covered by The Indian Express and BW Education.",
-      "image": "images/bihar-board-extends-registration-deadline-for-matric-interme.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "2028-cm-2-navbharat-times",
-      "headline": "2028 तक पटना मेट्रो प्रोजेक्ट पूरा करने का लक्ष्य! CM सम्राट का ऐलान- नेहरू पथ पर बनेगा 2 फुट ओवरब्रिज - Navbharat Times",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT20wbDNxSFI0MlNXR2tSeG54dmhKY3huRWxZc3p4WjYyZ2M5ZXNxZFFkRTRYbjQ5R3RPRVY5MTByUURRcWFLczhydGRYZHZjeDZ3NXJ1Q3NVWlRSaTZ3MnprNUFKR3BtRXdQSGUtNTZ1djVnWFI3MEYyZVdIYUJyQmpaMERhaS1fa1BkekV0NEdiRG1ITmgyR0RQcmctLVEyQmoyajgzZi1tS2Q3c2t5c1l5Zl9JaTFTbVZYTnotY3N3X3c3aEVhZVFvcDE1MFFXRDloVHgwdkJGamtCeVhGazJOclV6Z3hPZllBYmRRRzRKcXlSVlNjbkRLMWZuZF9CdUM0M3RpNXU1OHZpTG92bnFjZ1lUNDB50gGeAkFVX3lxTE0zOEZCRF81RjhWLVFsNjVIQ0VUTzljX3NTaXJYSzlETDRGNU5OQ3AxeTJiYkp3OVQtMW04TTlfVldIWDVRS0hWQzRsQU9lYmt2YllVRDdJV3I0ZjdWNmxOX09GcGlrNVBheWNPVnd4TEIyT1dJOXRWX1p2UkQ1ZXVNS21oOEY4X2IxbUpLMWFCaGtNM3E2WXJKUGp0YzJnelBsNnIwVVlranpHSzBHM3BWYmJDX2NxQW1DcUFVVUd4RG4zLURfVnJoX2dlUjNkYm9HRnpqcjl0UkRJenVGSDkzQ3BzcW5UUXpFWVBSUzBNYjJsazc4aXJxV1hfWWsyYjRhb21IT1hqMURtQjQyWTlnaS11UXVWR2Zob0NYcnc?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTZPc2hCSHJYNkZmYkswX1ctSm5FLXZTQ25OdFVUQnBYLXZUOGNoOGVCaFBxYzBiQlYxS1FyRFBaZVlmMm1qVkhoLW15QWlHN29WSk5zT3dZQmxQTGJuRWRLc1Fvd0ltTUxqdzJsN0o3eklaTzd6bXhTb2FCQ0tjdzlJaHoySldSV1NLbXNDMm43NE9VVlhrdm45WF9Dc1B1eGhsS3BLT1VBQmV1SnBKMnJrUkktUVdGTEU4?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "2028 तक पटना मेट्रो प्रोजेक्ट पूरा करने का लक्ष्य! CM सम्राट का ऐलान- नेहरू पथ पर बनेगा 2 फुट ओवरब्रिज। इसे Navbharat Times और Jagran ने रिपोर्ट किया है।",
-      "image": "images/2028-cm-2-navbharat-times.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "20-aajtak",
-      "headline": "पटना में युवक की हत्या से बवाल... 20 बाइकर्स ने पहले घेरा, फिर सिर-पीठ में मारी गोली - AajTak",
-      "summary": "",
-      "date": "2026-10-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Aaj Tak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX21YWXlZWENVemFHaDBKaWludnNtVjV0WVl6cjBmTF9WOTdoNjlRYjNKZUhKbjFGVkQycXViRkFBcmhYTkl1NkFkMUNaQ25fUkNuLURVakpVWFdIV3ZSUjFuSjh2cURuYi1sQUpJVWNHNVNOeWlmUUxjQVRScF9ENE5UMDB0cEpKdVZsWXdyNjNmZXNKLWhla1A2aWVDOXk2R2RYQ1k2d2ppNEVzRHVWdXo3NW52U2xJdjNtcHdnOWp1S1VtdlA4V2dlcU90Nzht0gHWAUFVX3lxTE1RRF9icU9hVmFJZFViZlZNVEc4R1dSdzgyRXR4dnFYUk5vR2dRUUdfa05Ob0Z5aExEWW4wS3NmcEk3WUxrSGI3SUFlVmxJMFp2OXQ2UGNhMEQ0aFR1WVB5XzZ6dXZzWVJFZmlhQjBORG5VVlVsLTFPWXI0azdhWXlNX1RhMXBEc1dYVjRHT0tGYjcyZEQ0T1ZQTXJ4dXQwV215VFVRem5pTUZnM05PeXgtRV9wY1Vkd0tNV3ZZSzVORWJqRjZqVzIxRUIweVUxOWdqb0JsRXc?oc=5"
-        },
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWRUcnJsSDZGUkVEN0Qxamp0NE00QjRIM0R6ZGVrTGNsMDZiSF84M3lCdGhPSnBZQk9Nd2JaUW1zWW1OdkxkRWtIc3ZuUHlpS3lXLTRKUW9yeG9YQ1ZiaktoMS1nNVREaUlZVmpMRDc2X3pMek5jcDV6OHVHYUNwcElzbnpLejQtREFFMVRURjBpdHFlclE3VkJPSURFVllmQ3dVdDE0cjV6dHkzbzlGVzVSX0UxWkszODVrOG1aQzRTNUVaMHgwMHllNEdCaDNTUTl0aXFEbVTSAd4BQVVfeXFMTWpWcUJyUWNVYlJDT25pSTA0T0xDRFBzeHl6dnJCOEswSnJQLTBJeTNJZVZDNkJHTHlGNXNXRVpKd2I5SDBzU096QmRtOVNYdUROWFViYVd4bTZWdUJzeHZhb2RVRW1oQVB4R2RqZXh4Z1lXNFZOWVMxVWh2ZnRzTnlPeElTUWxWNzJncTZ2U0dLc0dQX0dKd3hmWGVZczVNMXpweWRrTzJ6eWxITmdUR2JVX3NPcnRrUGpiQXRuM0hDN09QR2RkRUo3MVU0VzZ3c0FSdFVValdyUTBwc19n?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में युवक की हत्या से बवाल... 20 बाइकर्स ने पहले घेरा, फिर सिर-पीठ में मारी गोली। इसे Aaj Tak और AajTak ने रिपोर्ट किया है।",
-      "image": "images/20-aajtak.jpg",
       "image_kind": "photo"
     },
     {
