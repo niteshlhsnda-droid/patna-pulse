@@ -1,9 +1,95 @@
 {
-  "generated_at": "2026-10-12 07:35 UTC",
-  "generated_at_ist": "12 Oct 2026, 01:05 PM IST",
-  "story_count": 48,
+  "generated_at": "2026-10-12 08:35 UTC",
+  "generated_at_ist": "12 Oct 2026, 02:05 PM IST",
+  "story_count": 49,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "supreme-court-says-it-never-adjudicated-on-new-form-6-in-bih",
+      "headline": "Supreme Court says it never adjudicated on new Form 6 in Bihar SIR case - The Economic Times",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Daily Pioneer",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOajFPV1JRTURBQ2VZZVFnTkxHVFFYUldLb0NONnJnVDJoS0FVRVBPNl8xNVBrZ0pGX2pVLXJ6X2NVaXBiMXNsZHVUdWVrVG1DQTNnVVhBTS1Edm5pNU5uNkRCOVMzT0N1Z1M4ZktUUXYzNXNRZ2xWSENGRmdKRFdKbW56bmEwbGpMd2lpUQ?oc=5"
+        },
+        {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRnJkZGQwUFRueU5Id1JzYmxIYWhDRmQ4SVdBLVl3NjZpY2xpT21Oc0N3eFo5UTcwNnk0X3BiRFlNS1VHa2xsVnRiOXJpRGFHYkxwTmRIcFRxeUQzV190dDd1OFk2VENITlZwZUpZSGFZQThTM3V2VnpKc3JzLUU3d1RjN0JEaG9VSjZhc1ZYdGNDb3hhLUQ1MGtZVEFBM1lFMzROQ2NCWGxIUHBnRTduU3pDSVE5QXl6akx5TU1heVFFbk5DdXN3U3NJbHI2bE5BNVdjUGx1QjdRQUhDclY1TzdyVnTSAeoBQVVfeXFMT256TXBlOUIzMjFCRzBHSmVfNjVzaHdxNmx1d3RZaHN5eFl5QnVZOWR2aVJfYlB6UXo4YjJDZkxzYUN6WkROdG5BMlhMSS1jdHZVX0wzVWJCcHA4ZkxfNjh4bzRyUUNfU0lmZ0xHekdMU0EzV2dUWEJ6Zm9MTU43dS11OWNqNlZnUUxreFFZN2xrUXllN2ItNG9oVE11cXhJX0x5c1JyMS1yVGhlMkh0UEZIcWJqYzBnZk9STkpsc05TY2NsUVpMcE9HRjFXWWtDWWhmU0JlakxYbXpPRzllTk56RDNfdUVfQjB3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Supreme Court says it never adjudicated on new Form 6 in Bihar SIR case. Covered by Daily Pioneer and The Economic Times.",
+      "image": "images/supreme-court-says-it-never-adjudicated-on-new-form-6-in-bih.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "no-adjudication-on-new-form-6-while-hearing-bihar-sir-matter",
+      "headline": "No adjudication on new Form 6 while hearing Bihar SIR matter, says Supreme Court - Moneycontrol.com",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Livemint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWFtcXBFZk5QVHJXeTltN2dwcTVGWnRQQ21IMWxHV0pqeG1WQVEwc1duVWhZUzBOeHZXR0tDM2FtTGVYa00zVEVuVDRTa1c3NFhhLVFXS0hDVFlETTdwVGs2TTcyU3BSQjVkZXVnUjNhbWc4dkxDLW8wRzBIMmhoOU95WGJBaFdSejlycG5NSUN0aWtBcWlPcXM0Nm9YWWsxRnEzWWVORnJRZEtKdy05RzdLQmtwcEpUMU1LaTNyVULSAcYBQVVfeXFMUG5QYzV4U0kzSkx2QVgwSHFJU25IcjRSWTdvdGRISnhkRkVjQVZDLUE5anUwQW9laXpWTGlidDA1bUFxTlZkZUs2Q1ZiMnBNOVN6bnV5c04tMXpibFJPR1NHUzV2a183d2dLUGZ5MmFPV3o3UU44MXgwNlZVSzFPRFdUcm8tSlc3a3AtWWQtWU9zWWRSNm9fWDdVRkRsa1pENF9OOGdtS2tzbjQzemdwZHBYYjBMQjlPQlpCNE1uUTB5OGNieW1n?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOek9BZGtLWk1qSTVqaTVOc2RSR0diOFltM0E2V2pXU29LTEN1V2Z4bUhGNEdZWHY5aGF4Z0JqOUEzSGhLNmdkUXgwSktRWVVpM1JER2Jkcl94ZXZDVlFkNFpWOFlEN3RzQmZZR29EVTdGYXJkQ1g1dzBiR25kTFozOHhzNTZicGhXcTRqQldHcmxSUXpfLURsbkZlenp3MmM1M01GZ25rY3BUOHNWQ1BBbjh1SzNqTzVQTEtHdXhOcFY2UDZwak5ERUUtSzdZQdIB0wFBVV95cUxNZWpqb1VQRU9ZaldlQ1k0X0ZsUVI4V2JyR3lfZzF6SHl3dkRXRldnOWNDWDc1Tkl3dXpDMHdmd3lxcUtYQ0Jwem0wQTVPa2lORDE5RmVtbDgzOFd4NXNPY2Rna2w3OU1xai02UjRWa0NBalVkUHctemNmU1NwYlp0TkZ4MzZ4blV4eURNOGdJWFFGbjJHWlVlRTlFQ2d6aTBNZFZmTURSV0F4NEM4bHgyNktwLVVJUGVGWkNMYTNkT0ZjWUw4VFpnNVI0Z3l3WFpWME5Z?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "No adjudication on new Form 6 while hearing Bihar SIR matter, says Supreme Court. Covered by Livemint and Moneycontrol.com.",
+      "image": "images/no-adjudication-on-new-form-6-while-hearing-bihar-sir-matter.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "52-year-old-woman-allegedly-beaten-to-death-over-witchcraft-",
+      "headline": "52-year-old woman allegedly beaten to death over witchcraft suspicion in Bihar | Hindustan Times - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXcxRmRkbTVPX3RDcWRmakI2SE5zNUZVcVlYVXdoMmZFSTMzWkVkSzh5MkRYWjk5VGgxSHpVdzdTQmM5a1RTQkFpaEZkNnpLamxKeFNjbUREU3RXUm5Mbi1KTFVvczdwZndTZl9ieFp3T2VVM2R3TWVQeU1GbVVseFRhbmluNzdzWmVIZ0FmX3Y5TXJqWXgyUDJR0gGcAUFVX3lxTFBvNjZuZUhmc0lzOUxrb202UXo5ZE5QR1pWTFpndjlsRWdZMGs3WkhSMFY3UGRtVV93V3NTb3EtYXNqRnJaWkVQOVN1VGFqdExUeHY1V0psdGYzUkNCYk9iWHZ0dGJVdWs4OUlWWnIzdEo3WWhHMTBvcUd0RUctYXBoTFRfcHFWSXlXd28xbHdMb09EbmM3cElQSEpQcw?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbVhqaDFyX1BXMTBLRFhJakU5TnFNYUwzU0E2bmhMUDZxeHJNa2NsMDBZV1VDdXFia2s5M001bUd0U1FZZEliYXVCZE1OSVFGYk9ET1kxV3g4bGtabUZ0eUI3UUhnYWFlaEh2SXg5OTA0dzJWZ3lWOEpuakpXNkRGeTl5S1hsZm16czV3RFJZbFZPc2ZiNnc0ZUNENXFibmNORG1lUVMzcGJVVUZHZnVXbFBzR2ZxbXpxb3BOS2NmZHRaRFdYaGtnZXVxU3YzeXlXeXNuU0lsd2xxN0R0Tlhv0gHkAUFVX3lxTFBjUjNZU2JrQ3dKMTQweUV3cnFWbFJWVHROVzhta1RhU3FOanVOS0VKNzRuVFl5dGREVjU4YXJkNHRQNUt2Ulpybng5UHBFOGFyV1JoSFhxbEliVHp3UWs1Z3VtVFV6SnVXWGVVdVRyWWpqQUMycmx6WjUxWGtzbTRrd2VtUHBhZDE3ci1VYTZhX2JaV1lua0VmMXlkY2xMMGZrWmxwbk1tMXRhODdXcWZqeGgzV2xnanhPWkUwaWVWaHphVVZlQllDWW5XazgyVXd0VFBxN2xzN1VMYVdobkNWVk1NMg?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY1IzWVNia0N3SjE0MHlFd3JxVmxSVlR0Tlc4bWtUYVNxTmp1TktFSjc0blRZeXRkRFY1OGFyZDR0UDVLdlJacm54OVBwRThhcldSaEhYcWxJYlR6d1FrNWd1bVRVekp1V1hlVXVUcllqakFDMnJselo1MVhrc200a3dlbVBwYWQxN3ItVWE2YV9iWldZbmtFZjF5ZGNsTDBma1pscG5NbTF0YTg3V3FmanhoM1dsZ2p4T1pFMGllVmh6YVVWZUJZQ1luV2s4MlV3dFRQcTdsczdVTGFXaG5DVlZNTTLSAeQBQVVfeXFMUGNSM1lTYmtDd0oxNDB5RXdycVZsUlZUdE5XOG1rVGFTcU5qdU5LRUo3NG5UWXl0ZERWNThhcmQ0dFA1S3ZSWnJueDlQcEU4YXJXUmhIWHFsSWJUendRazVndW1UVXpKdVdYZVV1VHJZampBQzJybHpaNTFYa3NtNGt3ZW1QcGFkMTdyLVVhNmFfYlpXWW5rRWYxeWRjbEwwZmtabHBuTW0xdGE4N1dxZmp4aDNXbGdqeE9aRTBpZVZoemFVVmVCWUNZbldrODJVd3RUUHE3bHM3VUxhV2huQ1ZWTU0y?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "52-year-old woman allegedly beaten to death over witchcraft suspicion in Bihar. Covered by Rediff and Hindustan Times.",
+      "image": "images/52-year-old-woman-allegedly-beaten-to-death-over-witchcraft-.jpg",
+      "image_kind": "placeholder"
+    },
     {
       "id": "imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p",
       "headline": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir - The Right News",
@@ -106,6 +192,43 @@
       "image_kind": "photo"
     },
     {
+      "id": "4-dsp-7-prabhat-khabar",
+      "headline": "पटना में ड्यूटी से लापरवाही पर सब-इंस्पेक्टर सहित 4 ट्रैफिक पुलिसकर्मियों का वेतन रुका, DSP ने 7 दिन में मांगा जवाब - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaWdqcTlNNDBuQWxUeVNiRjdrLXc4dkpLR1gyejEzbUt5eUZuZWh3VnFEMl9tbXpGSHY5Z3pDdTJiSzE4emFyZGV0NjctVnhFckFscjRlUUJoY0g1S01USENuNklWWjY5WUlhNUl5V2dRMzBwaC1SXzJMN1RjVVpYTXhtMUs4blpqamVYNGF2bC1lNzdqNjh5LUgtS3dIVHFWSEpQakEtcDdraVpISEIwall1SWtVY2RIeHJKaHVQc0JiRlljbGM2d9IBzgFBVV95cUxQa2V6dmVGQ3g5Y0ZkUExvVVdXZjB3czFKVV9LeE92VldDQjNFZHhtcGtObVBOT0VvcXl3R05DNlB1YnByRjFEU0YtdWlGRy1URWlPZEVDSlN1b3B6bmVRRXBPb3ZDYWc3X3NIRXBfMXdKd0dITndTcnR1MUNOM0RrSk9rUHJtVUZtUlFhN2stTDFaU0d4MjZnbHZKNTdoS1dzM1NsZXFVek5za1ZURm1hTTlGYXJGRUU3V3psMFNPQzExck11cG50ek4tN1ZmUQ?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRpWndlT3M3RkZMTmlXMHNnc3RCaGVwNlN5eE8yX1JTelRpcVNHbEFCM2p4QWlqSkJQNXpvQ01hRVlnSE5JMktZSUdmczdmaHhQemF3d0oyNHpLUEZ0UElDQ2s4cVBTMEd5Yk1GYWVSUlVUdG9yRGJuYVctRDZtQ0tCeWNUWkxzcm5LYVRHTnNINEF2?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdnJoaHQ5a0ZweDlzbDBWMEpkY09jUW5lTU9zcTJlNmtGOW1xUFJFeFp2eXRmc1d2Z3dIQ09MdWZyR24zX09sTkFhRzVVRC1kRk9xTGFveVZuYnRvMndjUm1FMzF3WFBPUnp0eEVTcjBObFBZTGtTcmhrQVMyQnd4ZERpQjBBblBtTFZtdnpNeFdXTTl6dS16YVFEMTd6UTc0?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2d6UDBwVzZsMTVQREpseDNSREhpRFJtaHJ1eVExc2wwNGZ4QnRfcS1aQ1AtTFJKQUhMQW4tNDF2VU54WThyMVMyTXppeUZoYXJUWlMxcE1QNlg2b0pTbGkxTGJZV1pYMDRtTHFueVBMRWR4bGRwc1RSVWltQUh1TzdoeF9uYm9EM3lFbWNfUEFjTlNEMzhudG91ZGoxOVJEX0dVbXBQZFc1QQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में ड्यूटी से लापरवाही पर सब-इंस्पेक्टर सहित 4 ट्रैफिक पुलिसकर्मियों का वेतन रुका, DSP ने 7 दिन में मांगा जवाब। इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/4-dsp-7-prabhat-khabar.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "70-prabhat-khabar",
       "headline": "पटना में बेटे-बहू पर हमला करने वाले 70 वर्षीय शख्स का रेलवे ट्रैक पर मिला शव, घटना के बाद घर से निकल गए थे बुजुर्ग - Prabhat Khabar",
       "summary": "",
@@ -152,14 +275,14 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFBZQmtrcG1NckJRVUxrdm5ST2otOFl4X3A2VzQySTFmN1hHYzBsMHItb3NRS3p1TDlFUndPUl80c1NydWlEUktRc2NZaUZ0WkdTLUVfNV9PVUdaYV9LRHN4YmduMEJJY0hWOG5YYWRiejJmRm5TR0N6VGVqeHQ4ZGJSWklRRmgwTDItREF2Sy1iVkl6VUVZMElJV1pPNjZYY1JRSTRKaVkyT2ZhMWRwR1I3bk5uUdIBuwFBVV95cUxQcHo1WVI3X1YtMzBrX0xobnl2OWFZQzBNRjRob0NuU2liVEg5aEk4OERvZmV5SERNWFRZdjVkX00wV2JWUjBDNjNXTkJHVnAzOXgyTFBpOU9LM284MDVrRGl6aVM1ZmJiQzVRNk9udzJCdzRrT1l5WEMteFVtMXE4R1Z6YThSa2Z3TE9mUHpxa21WLXllWm5rM09vc21VZU44eUNXZ0NBelpsRExwWExrRGFjM1NHcEx5UGNN?oc=5"
         },
         {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT3JGa1ZXbTJxb0ljLWNIdUxFRFdhcGFzOHZyRGVQNnRTNHRxUWh2RHN5RUlpQTRYNmdGMm9VR2hhTEViV2xPLWpyVm9LQzR4REdnY28tSUx4S2pnUnVpY3Z5OTJtVUJGRmJ5SmVkRHNvcGFuaEVPVTRLbGNPLVJGeWo3aEhfclpWZ0ROMXh0S1p6bmJtb29lODZPQ2x4RUthUjFaVVZOY0F0OW4zVEZ6TFh5U0d3bkxFUjF6MThRdU5OV1UtNmIyS1pTNkJpV1JwVGZYZ3pwLUIydjlzRFA2SENnS0hJVjI0?oc=5"
-        },
-        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUll2Y3lxdGtPN1RUWGhlS3lLM0VGZmZsRHotZ243TWNKdHhlMzZKSWdCSjlzbVJpVDhRTVJmRnNqR1ItRW5wNmhQSnMtRnpKbnJUcjN5djZmRHB1Z25GSTViOUlSRlg2blVKZkdYd0lkWFBqc2dkUnMxRm5Ebm9GZGY1b3YyMGhpdkxaY0d3N2JfYzRmT3h4MHRJWkNMMVZEVGNkNkJ1a9IBrAFBVV95cUxOQ2c2SHJUNzVwcGtTU096Qk9DSVc2VkJuanNPcDJvQXYwZ084bEVCMFpfeU4xWEVzUzkwOHEyV1pIRjllLUluaHVhd2JhdEFYQ20wQ0NyWEFzbC1JbUp1OGtkR20xZmVFQS1fdGpqLVZ0bjhQb215ZVBrMVpxdEc0YXJ2QmFpekhEZHBLZWI5T1FLS1dnbG52SGRVd3pXMWNOQXNWZDJIanBFTGNw?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT3JGa1ZXbTJxb0ljLWNIdUxFRFdhcGFzOHZyRGVQNnRTNHRxUWh2RHN5RUlpQTRYNmdGMm9VR2hhTEViV2xPLWpyVm9LQzR4REdnY28tSUx4S2pnUnVpY3Z5OTJtVUJGRmJ5SmVkRHNvcGFuaEVPVTRLbGNPLVJGeWo3aEhfclpWZ0ROMXh0S1p6bmJtb29lODZPQ2x4RUthUjFaVVZOY0F0OW4zVEZ6TFh5U0d3bkxFUjF6MThRdU5OV1UtNmIyS1pTNkJpV1JwVGZYZ3pwLUIydjlzRFA2SENnS0hJVjI0?oc=5"
         }
       ],
       "source_count": 4,
@@ -167,34 +290,6 @@
       "genuineness_label": "Verified",
       "brief": "Bihar constable shoots himself dead in Kishanganj, investigation on. A crime-related story. Covered by 4 outlets, including The Times of India and Telegraph India.",
       "image": "images/bihar-constable-shoots-himself-dead-in-kishanganj-investigat.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "jd-women-s-college-teachers-protest-mata-sita-university-aff",
-      "headline": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ - The Times of India",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "politics",
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "Careers360",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGdBWkhSM1lRZUswRk1tWThQTWZsU3pXSkw3Snc2U0lUaHNETkpHZnAwRUZuNGtuQl9ELVQ3YldJbGE3UFFJY0F0aFMzVnRrbW95ODd4MUxvN0l6QTJGOG1JTkhLRXotY2VuakQ0VXRNQUJYQ0Q3Zm9aOHdjRzBxLXV3QjhaOG1jdUhtSTNWMUZpdnZVQVdkUTVIR1VzVkhZTjFvNW54MDZmd9IBrwFBVV95cUxQTjUzUmtrMlZmbE5KWUJuQmkyMndFMUJfLXlLdGFIWF9NektHNVN1VFEta0VWcFYzOUdjSXJOT3NtZ3poUFgzOVozdjhKVHRyNG44b1hSMFc1UE1jc0NxZ0FUc1FpdlV4Z2IzaWphbUdwT1o1OThNbXlBcW5uZm1JTU5jNnAzV1pQdnlhYjdTaGJWWXZiQ25OOExUcjA5eVVMaEl2WTBRY1doWEI0MUhZ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeUJWRW15YVpfcHA3cjJ6UzF3Zzh0YTdtbk9wUmtKLUE2YjRMR0ZpeUQwQ0ViUk02dzlka1FYSFJjRXE1LXRsaFpVY0hWY2MzcjJMNkhhQ0hlODFyYXZPeFFyYTdBNWd6YjdvVFp5NUROMEotWk5DaFlFR1dXMzhpbk9uYU9ZTkl3Q1RaaDFIWmtPU0ZLdHctZzA4Q21HNzZlVVdaQWV0bjVWbmc3U1JvN1lwMHpIQWxUeGpDd2xuVWxnbHZYRGRmNGRPdGpZaldQd08yQWw4T1BuODdjUy1WOTFzUHZoYU52ZFBOcnZaOWxoNVFHcjE5UzA3VFFuLTBCQko0S0R2RlEzbWtOWVNaSG9MZURnSWFTYVg4VmY3bGdsNknSAagCQVVfeXFMUGJKQXhvR29TbkZjUi16eVNxWEFpZFhScHZsV3NxTFRURHcySnhMV3FEcnNxZ19jQkJEZzAtalFac1VHVVowOWFEZjNpcUExSkY3M2xwWjZ3YUhUd2ZBZEdCenBjVGNWN3YtTVBqNUFJMlpoTURNLXR6UWRXLW9kSW5vWFV5RjRLWGdKUGlXTGdMYWVBUU4xZVZCM1dKd0tnSUZuV0YySl80SUNUdmJxVzYtZUtlUXRleGR5QnI4LTVEVnVlOUlxOHppR2dnZnNFVVN2OEQ2OEN2N3lZdmZsM1czWlE5UEU2Mm5rR1k3MUU4ZEwybFlZbmZNMFFRNmpPd19IUDdtcFc5eS0wLXlLNDN6V2Z4QVRLTzIxYVg3TDFCQUpQLVVnOG4?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ. A politics-related story. Covered by Careers360 and The Times of India.",
-      "image": "images/jd-women-s-college-teachers-protest-mata-sita-university-aff.jpg",
       "image_kind": "photo"
     },
     {
@@ -252,70 +347,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "2028-2028-bhaskarhindi-com",
-      "headline": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी | ???? ?????? ???????? 2028 ?? ???? ???? ?? ??????, ????? ?? ?? ?? ??? ???????? ?????? : ???? ?????? ????? - bhaskarhindi.com",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcmZxT1o4T2xybHVTUGhkY0RMZmJ4aU9Ub0t3VGFxN2RPNEJUZHJROG9uVVdVZFdQZWFIZ00wZTZWc2NwN1FsbUY0aUxrOEdwSlFXQjBYOWxYbmZNUm5MbE5aV2dTeXhjZHZhSVRmYVYyR2swWE5lendGa09iV3MzOFFkZ1ZtX3A4a1FXUDZKXzg3N3l1OW02YlZld1BCdFJ6cDhqcER3Sm5pYVktTlBQRlhlVTg1UzFDNFVwQ2NUN2NRclFoRXQ0enl1dnVGeG13alJ4SEZfZXF5UlVXWlRSRDVaWm3SAeoBQVVfeXFMT0drdVRhV1lCb3oySVJNSnNrZTR5RzZ1eHFoZEpuYUYzSVBOZmNJSWtCcWZaanhxUjRrMzBLdVBaSVRfSjBGOTUwMmtnYkhfSno3RVJmUTZMN09rNzdLaHhhX25aOTVTaHdIcE5uTk1ocDRDTXp2UlpoRmZ1RFBpUk9renNuZ2MzNU90OVVxVVVsTk9aT3lHbnNNaV9LLVBYUlprdFJTVHc0Tnh3Y1c4MTdiYk1oRy1VNzhHczNnbU9POGNBOTBuQi1CYnVSdkJhSzFobzVEOFpMY0hMVFM3ekRiQ3VROGozSGxR?oc=5"
-        },
-        {
-          "outlet": "bhaskarhindi.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQjR2RGF0TzJIeHY0ei1STUFHd2liaU5ZNWlwZlpEdENxQXo2WDRRTzM1Yk9BRXl2SUVvZFdMeWcyNDUtMXZtbzM0eVNkTWFqejYzZ25VX0Z6YlA1UlVFM2lwd2ZGRkdpNE4xTDJ5ZVl1WnlRckk2QzFuVjBWdzVlMk55NWxYYlNyaDNtdXFpd25rMlpnc2ZtOW4xUWhrT1dpc0JJdTQ2ajVsY25Xa2dxWi16NkptQkt4Yk9zZWtjMVZEdDlsa0ptMGY0eGdLajVTVTh2cV82V1c4Z3FJVUxUOWI4Nl9QQ3NKVHJpdlkzeVc?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTZPc2hCSHJYNkZmYkswX1ctSm5FLXZTQ25OdFVUQnBYLXZUOGNoOGVCaFBxYzBiQlYxS1FyRFBaZVlmMm1qVkhoLW15QWlHN29WSk5zT3dZQmxQTGJuRWRLc1Fvd0ltTUxqdzJsN0o3eklaTzd6bXhTb2FCQ0tjdzlJaHoySldSV1NLbXNDMm43NE9VVlhrdm45WF9Dc1B1eGhsS3BLT1VBQmV1SnBKMnJrUkktUVdGTEU4?oc=5"
-        },
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT20wbDNxSFI0MlNXR2tSeG54dmhKY3huRWxZc3p4WjYyZ2M5ZXNxZFFkRTRYbjQ5R3RPRVY5MTByUURRcWFLczhydGRYZHZjeDZ3NXJ1Q3NVWlRSaTZ3MnprNUFKR3BtRXdQSGUtNTZ1djVnWFI3MEYyZVdIYUJyQmpaMERhaS1fa1BkekV0NEdiRG1ITmgyR0RQcmctLVEyQmoyajgzZi1tS2Q3c2t5c1l5Zl9JaTFTbVZYTnotY3N3X3c3aEVhZVFvcDE1MFFXRDloVHgwdkJGamtCeVhGazJOclV6Z3hPZllBYmRRRzRKcXlSVlNjbkRLMWZuZF9CdUM0M3RpNXU1OHZpTG92bnFjZ1lUNDB50gGeAkFVX3lxTE0zOEZCRF81RjhWLVFsNjVIQ0VUTzljX3NTaXJYSzlETDRGNU5OQ3AxeTJiYkp3OVQtMW04TTlfVldIWDVRS0hWQzRsQU9lYmt2YllVRDdJV3I0ZjdWNmxOX09GcGlrNVBheWNPVnd4TEIyT1dJOXRWX1p2UkQ1ZXVNS21oOEY4X2IxbUpLMWFCaGtNM3E2WXJKUGp0YzJnelBsNnIwVVlranpHSzBHM3BWYmJDX2NxQW1DcUFVVUd4RG4zLURfVnJoX2dlUjNkYm9HRnpqcjl0UkRJenVGSDkzQ3BzcW5UUXpFWVBSUzBNYjJsazc4aXJxV1hfWWsyYjRhb21IT1hqMURtQjQyWTlnaS11UXVWR2Zob0NYcnc?oc=5"
-        }
-      ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और bhaskarhindi.com शामिल हैं।",
-      "image": "images/2028-2028-bhaskarhindi-com.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "72-sp-dainik-bhaskar",
-      "headline": "पटना में 72 पुलिसकर्मियों का वेतन रुका: ग्रामीण SP ने कम मामलों के निस्तारण, लापरवाही को लेकर कार्रवाई की, ... - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaWdqcTlNNDBuQWxUeVNiRjdrLXc4dkpLR1gyejEzbUt5eUZuZWh3VnFEMl9tbXpGSHY5Z3pDdTJiSzE4emFyZGV0NjctVnhFckFscjRlUUJoY0g1S01USENuNklWWjY5WUlhNUl5V2dRMzBwaC1SXzJMN1RjVVpYTXhtMUs4blpqamVYNGF2bC1lNzdqNjh5LUgtS3dIVHFWSEpQakEtcDdraVpISEIwall1SWtVY2RIeHJKaHVQc0JiRlljbGM2d9IBzgFBVV95cUxQa2V6dmVGQ3g5Y0ZkUExvVVdXZjB3czFKVV9LeE92VldDQjNFZHhtcGtObVBOT0VvcXl3R05DNlB1YnByRjFEU0YtdWlGRy1URWlPZEVDSlN1b3B6bmVRRXBPb3ZDYWc3X3NIRXBfMXdKd0dITndTcnR1MUNOM0RrSk9rUHJtVUZtUlFhN2stTDFaU0d4MjZnbHZKNTdoS1dzM1NsZXFVek5za1ZURm1hTTlGYXJGRUU3V3psMFNPQzExck11cG50ek4tN1ZmUQ?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmRpWndlT3M3RkZMTmlXMHNnc3RCaGVwNlN5eE8yX1JTelRpcVNHbEFCM2p4QWlqSkJQNXpvQ01hRVlnSE5JMktZSUdmczdmaHhQemF3d0oyNHpLUEZ0UElDQ2s4cVBTMEd5Yk1GYWVSUlVUdG9yRGJuYVctRDZtQ0tCeWNUWkxzcm5LYVRHTnNINEF2?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में 72 पुलिसकर्मियों का वेतन रुका: ग्रामीण SP ने कम मामलों के निस्तारण, लापरवाही को लेकर कार्रवाई की, ... इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/72-sp-dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "prabhat-khabar",
       "headline": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल - Prabhat Khabar",
       "summary": "",
@@ -343,33 +374,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "jagran",
-      "headline": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई - Jagran",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVBUUXNGcFJKZVJoZ0owVEd3OWYwNjZZMjRHMTRGcXdoQ25MMjBQOEtrNjdtV3B0YTJLNzFhV0hkR1N1YWVyaG11azRWOUJyV21CdmZrZTZOM3M1WFlLeEhoUll1bXRjdTUwc0t1Zl9YbWNWVUg1NVNUbHdCTm9hc1NXZjdUajlya1FsTGcxRzdfd1F1dWZMQTRaUThCTzA1QVlrb3Zhek94emROZHVHankzdHE?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT055ZUszTU5SQlZ3d2NudTE1aHgyblprNzNReDVDZjZ5XzBXOHJUM0xTQ2lYeGYzb0xac2trNFhlYWdSVWtiVnhFOFU3d0lVd04zVmFUQTN0cEl4MVJPSURmM2pQUGRLeGtNeTd6b2dnSUo1WDJsYjVYWkhOYnVoSE9UUXRYekJvZVZyeFIyM3JiZ2tJRHc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "12-dainik-bhaskar",
       "headline": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... - Dainik Bhaskar",
       "summary": "",
@@ -394,6 +398,60 @@
       "genuineness_label": "Corroborated",
       "brief": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... इसे Hindustan और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/12-dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "2028-cm-2-navbharat-times",
+      "headline": "2028 तक पटना मेट्रो प्रोजेक्ट पूरा करने का लक्ष्य! CM सम्राट का ऐलान- नेहरू पथ पर बनेगा 2 फुट ओवरब्रिज - Navbharat Times",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT20wbDNxSFI0MlNXR2tSeG54dmhKY3huRWxZc3p4WjYyZ2M5ZXNxZFFkRTRYbjQ5R3RPRVY5MTByUURRcWFLczhydGRYZHZjeDZ3NXJ1Q3NVWlRSaTZ3MnprNUFKR3BtRXdQSGUtNTZ1djVnWFI3MEYyZVdIYUJyQmpaMERhaS1fa1BkekV0NEdiRG1ITmgyR0RQcmctLVEyQmoyajgzZi1tS2Q3c2t5c1l5Zl9JaTFTbVZYTnotY3N3X3c3aEVhZVFvcDE1MFFXRDloVHgwdkJGamtCeVhGazJOclV6Z3hPZllBYmRRRzRKcXlSVlNjbkRLMWZuZF9CdUM0M3RpNXU1OHZpTG92bnFjZ1lUNDB50gGeAkFVX3lxTE0zOEZCRF81RjhWLVFsNjVIQ0VUTzljX3NTaXJYSzlETDRGNU5OQ3AxeTJiYkp3OVQtMW04TTlfVldIWDVRS0hWQzRsQU9lYmt2YllVRDdJV3I0ZjdWNmxOX09GcGlrNVBheWNPVnd4TEIyT1dJOXRWX1p2UkQ1ZXVNS21oOEY4X2IxbUpLMWFCaGtNM3E2WXJKUGp0YzJnelBsNnIwVVlranpHSzBHM3BWYmJDX2NxQW1DcUFVVUd4RG4zLURfVnJoX2dlUjNkYm9HRnpqcjl0UkRJenVGSDkzQ3BzcW5UUXpFWVBSUzBNYjJsazc4aXJxV1hfWWsyYjRhb21IT1hqMURtQjQyWTlnaS11UXVWR2Zob0NYcnc?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTZPc2hCSHJYNkZmYkswX1ctSm5FLXZTQ25OdFVUQnBYLXZUOGNoOGVCaFBxYzBiQlYxS1FyRFBaZVlmMm1qVkhoLW15QWlHN29WSk5zT3dZQmxQTGJuRWRLc1Fvd0ltTUxqdzJsN0o3eklaTzd6bXhTb2FCQ0tjdzlJaHoySldSV1NLbXNDMm43NE9VVlhrdm45WF9Dc1B1eGhsS3BLT1VBQmV1SnBKMnJrUkktUVdGTEU4?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "2028 तक पटना मेट्रो प्रोजेक्ट पूरा करने का लक्ष्य! CM सम्राट का ऐलान- नेहरू पथ पर बनेगा 2 फुट ओवरब्रिज। इसे Navbharat Times और Jagran ने रिपोर्ट किया है।",
+      "image": "images/2028-cm-2-navbharat-times.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "jagran",
+      "headline": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई - Jagran",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVBUUXNGcFJKZVJoZ0owVEd3OWYwNjZZMjRHMTRGcXdoQ25MMjBQOEtrNjdtV3B0YTJLNzFhV0hkR1N1YWVyaG11azRWOUJyV21CdmZrZTZOM3M1WFlLeEhoUll1bXRjdTUwc0t1Zl9YbWNWVUg1NVNUbHdCTm9hc1NXZjdUajlya1FsTGcxRzdfd1F1dWZMQTRaUThCTzA1QVlrb3Zhek94emROZHVHankzdHE?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT055ZUszTU5SQlZ3d2NudTE1aHgyblprNzNReDVDZjZ5XzBXOHJUM0xTQ2lYeGYzb0xac2trNFhlYWdSVWtiVnhFOFU3d0lVd04zVmFUQTN0cEl4MVJPSURmM2pQUGRLeGtNeTd6b2dnSUo1WDJsYjVYWkhOYnVoSE9UUXRYekJvZVZyeFIyM3JiZ2tJRHc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में धरना प्रदर्शन की जगह तय, सड़क जाम पर होगी सख्त कार्रवाई। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/jagran.jpg",
       "image_kind": "photo"
     },
     {
@@ -426,33 +484,6 @@
       "genuineness_label": "Verified",
       "brief": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records. Covered by 3 outlets, including The Times of India and India Today.",
       "image": "images/meet-shubham-kumar-19-year-old-bihar-engineering-student-rea.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-targets-making-one-crore-families-self-reliant-through",
-      "headline": "Bihar targets making one crore families self-reliant through entrepreneurship: CM Samrat Choudhary - The New Indian Express",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOUhCdHdLUWVqZUNjS3ZXb1VPRHJ0OWpEdVVQdk94RTA0X2M5My1JbkFBZHJVUFB3Rm9uM05uNzlVcWUzczR5VVpWcmRhV2NUTjV5QjZEZkd2bk9ldjVWR204dVpTZ2hVR0UzNUQ0WVBGckJhb01iYURmNXRBb1BxTTlOc3o5bWJMamgzQkVXaEh4ZzNSalVkY2FueTBuYTNWUGJveUc0ZENKMmFhNmlQaWVEVU1Wb2Q5SHVVZ1lxR0QyeGZxdkVWVlNMQUFUYklNRjBOemNidFhjeUNvd21LQnRoR093UXlZYW5Z0gH4AUFVX3lxTE1QR1dOQUZjWnRWdXRWRlF5ME5TaDliZk0tSFBJejVWMEdDZFlsY1FwRUxHc2RWY3hFM0RpYmdqYnRkTV82NnBlVkM0MGd1REJyM2RLYVRpWFFYbnFoU2lYMnJPWndGdTFBMFRoTWlXYWlJMUtEZWx2aklncFRfTTV0N3QwM2g1ZUliejFpcmhsM1R0dHNmM1hsSkFnemktLUJRWFdXaEoxYU1WdldHekZmazF4Vmx2RHZ1Ujd2VjBhUHU1YU5VUl8xeThpbHc0Rko3dGRBZlF2Nk1YSnpuMmkxX1VLSzlBZThXODBTNWhRRUxOSkg0MHdP?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEdqalV0czZvYzVuSDNNZ0JDM0V3Z2psYUhsU1lfMTJnajJhVk1NVnMtVE5RekczSnJEOHVoUlFFejFtVEFYVWlzUlNXVEZBVGtFNDF2aFJlSzBpemFhZnBmUlVVMVIxSWh0Q29PbVJKemhkUGRiejh0MUJnYjRqeUV1ek9pY2VJdXdlbl90cU1XcDdQNUY5ZnFMOUoxNDZmMk1BenM0ZlNNWUNnOEhjVnlCTV9xN3VlSWfSAb8BQVVfeXFMTXBTZWF6QXR0UlV3cm5ZVVk0MHRaUlNWLXM1UmhUdlJqSTBnUkxNdHdabzJJTWQxRE10Rl9ZWGg2S3NNM3pRNnpmR2xXOUFVVmd0a1lxRHlsdWlIQ3BPanVPbzY2NEE0OEtMWXFYVVJIaFgtelM5bEMtM1lSbTZWemo5WFNqc0o2dGVqcGtSNUF0U01sU3pIcFpKTXVKZHRQLWRTZ0psQjlXNEtJN0pnLXFHNGlLNVc4Q1oyNU5ZYzg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar targets making one crore families self-reliant through entrepreneurship: CM Samrat Choudhary. An economy-related story. Covered by The New Indian Express and ThePrint.",
-      "image": "images/bihar-targets-making-one-crore-families-self-reliant-through.jpg",
       "image_kind": "photo"
     },
     {
