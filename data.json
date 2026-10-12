@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-10-12 05:36 UTC",
-  "generated_at_ist": "12 Oct 2026, 11:06 AM IST",
+  "generated_at": "2026-10-12 06:54 UTC",
+  "generated_at_ist": "12 Oct 2026, 12:24 PM IST",
   "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
+      "id": "imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p",
+      "headline": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir - The Right News",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "weather"
+      ],
+      "sources": [
+        {
+          "outlet": "The Right News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWNpYU9nM1BhREtlOEtPNjdOTVM4NnRRNEh2OXRhRExQa1FZdVdCU3Qyd0JYQ0lUVUxBOWd0R3hIY1B3VVlQRmFuSkZnUGxob0JWTEdlbHZuamRUTEhxVUZ3V3g3UGVBQ000V0xtMEo4bjNfTFhuM3JjWjdjdUhwU250R0l2UGM4QUFhYjhTa2ZiR1BnemxNY2V0M011NkZMeV9rQVgwemw4Y2cxc1pMME8zQTAwemtJa002Vw?oc=5"
+        },
+        {
+          "outlet": "News On AIR",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1ZobnNMdU9PX2tfejJqdjlLaUZLVWtWanV6cGdDU3hHbWZKU2tyMzNQZktlV0oxVzQyNjAxZmJtUFhXb01hOWxZVWd5UHVIN1hrTkFYY3c0SF9WUzEyYjRDQ1hxTktZZjlaX2RTZ2FpM2hKb3NDWlBJNDFqaS0xUkRjNUZOeEYyVnNDMERnMTJ3RVlOUmdXaXNXTUxHTnBTVmR5R0kzVHVVYXBvRXc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir. A weather-related story. Covered by The Right News and News On AIR.",
+      "image": "images/imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "ranji-trophy-kaushik-rinku-hit-unbeaten-tons-put-up-on-top-v",
-      "headline": "Ranji Trophy: Kaushik, Rinku hit unbeaten tons, put UP on top v Bihar | Cricket - Hindustan Times",
+      "headline": "Ranji Trophy: Kaushik, Rinku hit unbeaten tons, put UP on top v Bihar | Hindustan Times - Hindustan Times",
       "summary": "",
       "date": "2026-10-12",
       "topics": [
@@ -16,12 +43,7 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ18teURxMWtQR0VwdTgzRjZDcHpFVlNKTVE5NlRYaG1KT1MwWms4cEhMclVmTm4tVk1DaENmcmswY0drZmpiM2xVT3ZTX0RvUVFTQnRCZElGLUdLU0VWdXI1OUJCdGMxZURKTVBFcmpua1NuZGtBV0FzTDFqcVFTeVo5UGRxUDlvM2xpQXluZDJvblJzYTdtVldRaXd6bVVlTTVRMUJJMW1INnpNN0NGcG12c1R4eGFUMVNWUDVlU05vOUXSAcgBQVVfeXFMUGdObVpybDF6UGJXNWdMbDlHdXJhS2RvTnRPQ2NIc3B3WWItbkJCU2Q1N2NjcWwyRUVSN3BQWlRpNjc0ZmY0VHRueXl6VTdUQmZTTHZKU3hnQlpybER5MnRPUE5lYml2OEFKQnVPaWtiaElWX3ZGRW5rb0N4UTYwS1dEMVpqdy1IWG9OZ1psaXh0cGl4dFJRRTM2bDNhVGhPUWZJeXFIb1N6RDFSNGxmR3FVLTk5S21zM0RKM2RsbmFCWTM3TFR1RTY?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2NQNTlHMEZVckZHUlQwT05tQTdDVzFfNlVFbzdUbnpvY2QxVHBFb3ZCN3U1YXRhbE1MWmlZMnk3cWNWOWVlVnJzWWxoSXhrbi1DUjVla1c4UDJjUmVWb3c0YlJWQk9sWXhzdHNETF9STnBrcWF5NVlFRDVKQi01dkx5MHdTbGFvZkZvSXhWeTZxUjV0dXBwTlJ5UXZiNDhXX25Va2JGNGdQS1BSWi0yb2o4SmZyT1doeEVuc0lVNEVocVliNWctVWg4MWtrVUdkZ09YdmoyRmVUVzTSAeABQVVfeXFMTVJrTE4yY0ZRY21QVnFoQXBFTlZYNW9yVlVzNHlmNHBYYVBFdFRxMlpBeURxd2hKdHRMR3NtVXBEWnRGMHQ3WFBaUGlOMTRFWF9wZVp3cktfVW56bFVuQ09KNFd2U21JY2tiTTRZNVZudklCUlpvOVN6U3ZWVVBibmw0T2FFZENQdmI4MFVUZ3Ffc2xMWnZpdnRjTnIybk9Tc09ORHB6cnd3dzk5RlBWeHNwMjlGT0puSmtxYzIwTWRLOXlMdTBybVRUS1pMOXJ4LTJEek40MDA4UDZ6LWxEV1c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1pESEtuWTZoYXFlYmhNcEh1VDN2LWhVWGdqSE9JZnVTaDJXRGp5ZXJlcXhVNm5CNU1wdFlrZ05ob0JHdURQSkIxSktjSXBPYUdoajJlbVZlMjcwYmI4WC1ZQ2hIZkVtY3pFRTItcThsRFk1NExfVnVpWklyU3dqX19wMDZJTVlEUWQ3blN2RVN0LU5TSFFZVnNqei1peTRDeGRiMlpUcDlaRXJtNUV5OHRuQ3N6M2dTTDlOeEt1d0liY0Y0MVJYQ2hIQWw4X0RGV1M4M092Q3dncFA2aVZRc9IB5gFBVV95cUxOVUh3eE8tU2pDVDZKUmpuaTBzdW5zQ3c1SU5JaDgtZENBN1puYkg0YzF5cnVxZXJRX3l3a3ZCLXpMTEs0ZDF6bFktUTJkUFQ0T2hhMXVNUEtKNi1uVHE3YkdjYUl1a254blpHRU9MS3BlbFZraFp0ZmRIbi1WbEJCT1haNm9Ba1F1TlVsUnZvRk5HM1lDM285Z2lqVmUyTTBhb0xPODdtQlYzQXFRc0RlMzFKYmVWUy1VX2NnQzZVa0lsa2NCWmZiTGxOR2x0Tmk3cXdjLVBqa2hZbkp3T0dBNkFHb19vUQ?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -31,12 +53,22 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1pESEtuWTZoYXFlYmhNcEh1VDN2LWhVWGdqSE9JZnVTaDJXRGp5ZXJlcXhVNm5CNU1wdFlrZ05ob0JHdURQSkIxSktjSXBPYUdoajJlbVZlMjcwYmI4WC1ZQ2hIZkVtY3pFRTItcThsRFk1NExfVnVpWklyU3dqX19wMDZJTVlEUWQ3blN2RVN0LU5TSFFZVnNqei1peTRDeGRiMlpUcDlaRXJtNUV5OHRuQ3N6M2dTTDlOeEt1d0liY0Y0MVJYQ2hIQWw4X0RGV1M4M092Q3dncFA2aVZRc9IB5gFBVV95cUxOVUh3eE8tU2pDVDZKUmpuaTBzdW5zQ3c1SU5JaDgtZENBN1puYkg0YzF5cnVxZXJRX3l3a3ZCLXpMTEs0ZDF6bFktUTJkUFQ0T2hhMXVNUEtKNi1uVHE3YkdjYUl1a254blpHRU9MS3BlbFZraFp0ZmRIbi1WbEJCT1haNm9Ba1F1TlVsUnZvRk5HM1lDM285Z2lqVmUyTTBhb0xPODdtQlYzQXFRc0RlMzFKYmVWUy1VX2NnQzZVa0lsa2NCWmZiTGxOR2x0Tmk3cXdjLVBqa2hZbkp3T0dBNkFHb19vUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2NQNTlHMEZVckZHUlQwT05tQTdDVzFfNlVFbzdUbnpvY2QxVHBFb3ZCN3U1YXRhbE1MWmlZMnk3cWNWOWVlVnJzWWxoSXhrbi1DUjVla1c4UDJjUmVWb3c0YlJWQk9sWXhzdHNETF9STnBrcWF5NVlFRDVKQi01dkx5MHdTbGFvZkZvSXhWeTZxUjV0dXBwTlJ5UXZiNDhXX25Va2JGNGdQS1BSWi0yb2o4SmZyT1doeEVuc0lVNEVocVliNWctVWg4MWtrVUdkZ09YdmoyRmVUVzTSAeABQVVfeXFMTVJrTE4yY0ZRY21QVnFoQXBFTlZYNW9yVlVzNHlmNHBYYVBFdFRxMlpBeURxd2hKdHRMR3NtVXBEWnRGMHQ3WFBaUGlOMTRFWF9wZVp3cktfVW56bFVuQ09KNFd2U21JY2tiTTRZNVZudklCUlpvOVN6U3ZWVVBibmw0T2FFZENQdmI4MFVUZ3Ffc2xMWnZpdnRjTnIybk9Tc09ORHB6cnd3dzk5RlBWeHNwMjlGT0puSmtxYzIwTWRLOXlMdTBybVRUS1pMOXJ4LTJEek40MDA4UDZ6LWxEV1c?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb09qU0ZpYW53ellYZ3d6SGhwZWVULVk4UTEyVk41Z2lsS2Yya3RwR19lV2lEQVNUbTNQRHVYSnM1UTNrelJieno2aTBodVdkcDdZNFZEb3RERHpyeEd6TG9CRXB2SVRDYWp1TWpXRUZveElESnNKRHhtV0M3Z0xrV1pBSnF4WWplQWoxdTRQMnZOS3RLTGFqSnN3S3pqdlZtOVZULVZnZ3pHNlBVY1hYbms4SnNLQlRHS1YtWjE0ZnpUUVFpMm0yZ2g4T3FCVndQMmxuMNIB2gFBVV95cUxNY0VDcTBvZ05WLVJVVDUzVnJTczU5aVR4amRjS1RWcTZQeE1TM2gxY1dXRVFLbGtza1R4eGk0RGtHX0JfT0pocU0xc3Y0QzNyU0hUYlVPX3ZyZlFDeVVOenVONGRVRURDN3pOdU90SjUtQy1PZnhBYmdxX1MtaWJ2RmpqdE1fcTdudnA4RTVNQ1AzNzZzT3lmMkRmY1MtSzROclhiRjk2TmdsVHJCV0JBNkFGM2R4OVNQbW50T21lRHg3TDNSWW9yUnJ5dF9Sc205c21kbXlqNUlwdw?oc=5"
         },
         {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXBlX3ZDVWhpdzFtd2p5UTROOV81TUJmbGhXLUd3Mlh1cnczYzNaaXoyVHcxS0lXYk0ySS1PUmIxN1lMRVVIUFZTcU5PSXBiYlplb3VEcnVIUFRaZUNTZUxIYmlNMWp1TGNpcTRSeDlod2NsdDE2bHl4VXpIYmdxOWFVSFU0cTZHOHh2WHNXNkx2azNkWGk0cDVWXzlXU2MySnZ5ZHVQNWs0ZVFpb1dacElMWk5UdlBJN2Q4Vk5CUFRuV21Y0gHKAUFVX3lxTE5jVHlxbThOckNRT3AyRS1VRnZwc1BaZWhnQXlDb21Qd2dYclVrZUNxYWpETzktTTRKSlNVN1FaUGJucHVnQVlMZ3pqLXhhSzRZRkdDdmdXS3V3aFJPZEFQS2hadmpCeVJhQ1ZvRGRwcFlTTlRONnVzWTFLYWVKLXZmVWx5a3ZXS3pzU1d0cld3OEtacDY2c04yblZ3SEVxZzBhMnJHZU9PbDFVNW5nOXhWQmx1SXVxSUxDeDdnRW53Q0tGVnAxQXpobnc?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ18teURxMWtQR0VwdTgzRjZDcHpFVlNKTVE5NlRYaG1KT1MwWms4cEhMclVmTm4tVk1DaENmcmswY0drZmpiM2xVT3ZTX0RvUVFTQnRCZElGLUdLU0VWdXI1OUJCdGMxZURKTVBFcmpua1NuZGtBV0FzTDFqcVFTeVo5UGRxUDlvM2xpQXluZDJvblJzYTdtVldRaXd6bVVlTTVRMUJJMW1INnpNN0NGcG12c1R4eGFUMVNWUDVlU05vOUXSAcgBQVVfeXFMUGdObVpybDF6UGJXNWdMbDlHdXJhS2RvTnRPQ2NIc3B3WWItbkJCU2Q1N2NjcWwyRUVSN3BQWlRpNjc0ZmY0VHRueXl6VTdUQmZTTHZKU3hnQlpybER5MnRPUE5lYml2OEFKQnVPaWtiaElWX3ZGRW5rb0N4UTYwS1dEMVpqdy1IWG9OZ1psaXh0cGl4dFJRRTM2bDNhVGhPUWZJeXFIb1N6RDFSNGxmR3FVLTk5S21zM0RKM2RsbmFCWTM3TFR1RTY?oc=5"
         }
       ],
       "source_count": 2,
@@ -45,6 +77,33 @@
       "brief": "Ranji Trophy: Kaushik, Rinku hit unbeaten tons, put UP on top v Bihar. Covered by The Times of India and Hindustan Times.",
       "image": "images/ranji-trophy-kaushik-rinku-hit-unbeaten-tons-put-up-on-top-v.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "jagran-c1aa7b",
+      "headline": "पटना-गोमती नगर वंदे भारत एक्सप्रेस से लखनऊ जाने वालों के लिए जरूरी खबर, बक्सर का स्टॉपेज और टाइमिंग जान लें - Jagran",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3NNZ2JCdXgzamtQWTRqTWtwUk5BVzlpcDJrXzJsYUFoeXJRelVSeFNuMlQ0MjJIVXp5V1pnaTZWV1hsOGt2TkJwaHAwS1A5dUVJNUZpMmpBNU5GSk1WTV80NktqZEVydGxhZjBTTy1tN0NFUVItQTBiTkctdDZON0VtRlhRQlczSDc3UWw3RVpiMk40VHQ5Vkp6ckdDTU1LZFA2NEdVZW1nUGVUWUhSY2ppam9yalk3SWdLME1tbElScjRj?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3B5MjZ5UnFRTy1VYVhfT1F5VExvYnRmTlIwUldqZExvbXFVYkxwMEU5aFBPWENxakw3Z215QXdVSTcxaXN3MnFpOGpxTjQ2LWh4ME1PeDNYYnhFLVNFdnlCN0hSMzMxaUFQczZjek92YUcydDBQNzFZcEZmUW5ySllBYW1nNDYxRlRCaDQ0a0ZtYndFWFdad3hYZXVRUVoxNm0wdGRVcHVpVkNZMFFMNXYxd3pOaHF2?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना-गोमती नगर वंदे भारत एक्सप्रेस से लखनऊ जाने वालों के लिए जरूरी खबर, बक्सर का स्टॉपेज और टाइमिंग जान लें। इसे Prabhat Khabar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/jagran-c1aa7b.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "70-prabhat-khabar",
@@ -248,6 +307,38 @@
       "image_kind": "photo"
     },
     {
+      "id": "2028-2028-bhaskarhindi-com",
+      "headline": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी | ???? ?????? ???????? 2028 ?? ???? ???? ?? ??????, ????? ?? ?? ?? ??? ???????? ?????? : ???? ?????? ????? - bhaskarhindi.com",
+      "summary": "",
+      "date": "2026-10-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcmZxT1o4T2xybHVTUGhkY0RMZmJ4aU9Ub0t3VGFxN2RPNEJUZHJROG9uVVdVZFdQZWFIZ00wZTZWc2NwN1FsbUY0aUxrOEdwSlFXQjBYOWxYbmZNUm5MbE5aV2dTeXhjZHZhSVRmYVYyR2swWE5lendGa09iV3MzOFFkZ1ZtX3A4a1FXUDZKXzg3N3l1OW02YlZld1BCdFJ6cDhqcER3Sm5pYVktTlBQRlhlVTg1UzFDNFVwQ2NUN2NRclFoRXQ0enl1dnVGeG13alJ4SEZfZXF5UlVXWlRSRDVaWm3SAeoBQVVfeXFMT0drdVRhV1lCb3oySVJNSnNrZTR5RzZ1eHFoZEpuYUYzSVBOZmNJSWtCcWZaanhxUjRrMzBLdVBaSVRfSjBGOTUwMmtnYkhfSno3RVJmUTZMN09rNzdLaHhhX25aOTVTaHdIcE5uTk1ocDRDTXp2UlpoRmZ1RFBpUk9renNuZ2MzNU90OVVxVVVsTk9aT3lHbnNNaV9LLVBYUlprdFJTVHc0Tnh3Y1c4MTdiYk1oRy1VNzhHczNnbU9POGNBOTBuQi1CYnVSdkJhSzFobzVEOFpMY0hMVFM3ekRiQ3VROGozSGxR?oc=5"
+        },
+        {
+          "outlet": "bhaskarhindi.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQjR2RGF0TzJIeHY0ei1STUFHd2liaU5ZNWlwZlpEdENxQXo2WDRRTzM1Yk9BRXl2SUVvZFdMeWcyNDUtMXZtbzM0eVNkTWFqejYzZ25VX0Z6YlA1UlVFM2lwd2ZGRkdpNE4xTDJ5ZVl1WnlRckk2QzFuVjBWdzVlMk55NWxYYlNyaDNtdXFpd25rMlpnc2ZtOW4xUWhrT1dpc0JJdTQ2ajVsY25Xa2dxWi16NkptQkt4Yk9zZWtjMVZEdDlsa0ptMGY0eGdLajVTVTh2cV82V1c4Z3FJVUxUOWI4Nl9QQ3NKVHJpdlkzeVc?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTZPc2hCSHJYNkZmYkswX1ctSm5FLXZTQ25OdFVUQnBYLXZUOGNoOGVCaFBxYzBiQlYxS1FyRFBaZVlmMm1qVkhoLW15QWlHN29WSk5zT3dZQmxQTGJuRWRLc1Fvd0ltTUxqdzJsN0o3eklaTzd6bXhTb2FCQ0tjdzlJaHoySldSV1NLbXNDMm43NE9VVlhrdm45WF9Dc1B1eGhsS3BLT1VBQmV1SnBKMnJrUkktUVdGTEU4?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और bhaskarhindi.com शामिल हैं।",
+      "image": "images/2028-2028-bhaskarhindi-com.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "72-sp-dainik-bhaskar",
       "headline": "पटना में 72 पुलिसकर्मियों का वेतन रुका: ग्रामीण SP ने कम मामलों के निस्तारण, लापरवाही को लेकर कार्रवाई की, ... - Dainik Bhaskar",
       "summary": "",
@@ -275,8 +366,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "navbharat-times",
-      "headline": "दिल्ली में आंदोलन के बीच पटना में प्रदर्शनकारियों के लिए एडवाइजरी, गर्दनीबाग के अलावा कहीं और धरना-प्रदर्शन पर रोक - Navbharat Times",
+      "id": "prabhat-khabar",
+      "headline": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल - Prabhat Khabar",
       "summary": "",
       "date": "2026-10-11",
       "topics": [
@@ -284,21 +375,21 @@
       ],
       "sources": [
         {
-          "outlet": "AajTak",
+          "outlet": "News18 Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0FhNGFFLWFTVGk2NXdXdDFERmY1Z3AzcGh6Y1hVRjdCekJFV29ETzI0QWcyODBaNXhPTlV2VUwzSWpQWklXMkYxT2NFSkg5NGFwNXZLNVRTbk9LNldmLXZyZENIQU5HOGtzZzBrU2RVZHVRT2YzdnJXM2piaXFLUFpYblNIR05UR0l4UkZsVmJodjh3ZFN5aFQ1SXk2cGp1SXB2SGpyZ25ISDJFZWgxT3RMZXZpMEd5Yi1BcEhDaXE2VEpLNmNuZzI5RUxNUV9NMU1Xc19fYjY5YWVNU0HSAeMBQVVfeXFMTU44X0RMZDZqTHZCRDRpU0RCV2Q1VkcyaGVFX0JzYktGcUFId1dWZEh6TTQwemlTeFNvLXJ6WEx4d3RkX19VbngzSlZCbG1jVXNXT0dXSlJGTXdESlN1bk4walN2VHN5dEVNMFNrcC1Ma2VzY2RUQURyOC1qZFZCalNfUHBjQXB2UlZXVWlDOUl3VXkxYjRyMy1RMjhVcjJxTWx4ZzIzckhZOW00OWh6UloyZS0yclotLURLOFFhVXhqdTVxQnZxbGtnNzg4Zmxxa0U0Y1M4RnFXd2hGRDdLakMyXzQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONm5mZVpZX1VjZlI5M2o2S0RBZ0hwc0pUSGhVUHhaNy1jVjVlZ3dEUWYyLTVtblRaX0NPNVZYZ09hd2RBTEhkVHVuLTNDVTh0ejhmRGEzNnp2UjdFdjE4Sy1uY05nWE5PaW9JNDNKU2lGbXhGVEd1TkM0TUx6ZmVXSGp2UmNOaGFnVXQ4UnZJZHd4U2psSFBaVndUb1dRaHRfeG1fZkthWEV6a1dpZnZoX0hwdDVxOVlBdkJST2syd2hWMzJDdkd4LWdXa0RtNVRjUjk0UFZBMGlrcmFucW9MU1NhMDRWWTlObU83d9IB8gFBVV95cUxQMi1YOUZKc0dMV2tZUDBHcXdCMWMwUXRVTUFXZ2FBci1abjhKZUx5ZHBhS2lCUmg3bUZfRzJoTktKNFNMaVdjRnptZ043ZC03cVNnUkpMTXhjYnFReXZ1dU9RamQ1eVVtRUN3WTVIZ2lvTjJvVFlKUzJDdFJSSXlweDcxblpDWjJqS01jck1HNUsyaUVzdWNfeXZzb0xVb0NxczNWOUZhODFBZmkzZGk4WHhzV0pHS201NHNycVA3YjNnWWZLa00wMGZLdk1PSTNmRHdhNUo5amdBVWlWUmpUQmRXZjlxNk1QWWl4VUFHcF80dw?oc=5"
         },
         {
-          "outlet": "Navbharat Times",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZS1MR05Vaml2bUVtWUF5Q3ZlSnY2NjJNSFZSbk9wYUhWaTdiM0REczhId1BjcHI3U1AzNHFMM00wZExLVkRXekZZZUdvN3RhYlNURngxYnhLY0xxQ0RDZWxjMzUzNkxqX2VBV19oUklYeVR1WkVJUGJuVHJ0ay1UeFdyeGdLdmtXTzAyNzVueGN5WjNEQmhEanExVVc5cDlsWUtPOUhkRjVPbm1KdDNxMnV2U2RFdnBQRVZ0MW5yeGdyVkppYTN1eW15Tk9fQjJGOWhOcXdzcmhJNEl5c25WSXdidWVXWjRrUFRLRHJSMzh5UG9JeDVDMWhubTNkN2xtNk1MVW5DZVVaeS13RWg2bXk0aEY5c1FuTEZwRUxwNTVTWlNP0gGqAkFVX3lxTFBoN2VndHJ0ODlQRjAzOGh3VTU3WlhpMmRTU3dxVjYtMkVSTXdoVy02RjAxQWozeGx3eVQtMGxISFBZazBLNjRJZlZ3OWV6WVg3eGp0Ri1na2RNcW1fcXdwb3NTM0ppdldrSEdPWDhMRmRwanVDZlpidHhIQmZubjZrdDFkdzdzUWFwTzNyQUR4dDFEVlYxU3h3dm1lR2RrTXVLYzE3TFlVZVBBX0todWJISHRfRWx0Y3IzcTNxb3RZU0VacDR5cXdRWDdmQ3o5c0RycXhhb0gtUDFtVnRRT3pIWHRjVnB2U3RQT3R3TVRPV1Q1SjUyYlBackgwUnBzVFpnOXZESnVhOS1QbXlUR01wWjBmdGlQbFBFaDJPQ2E0V1VFWUM2U1Rad2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU01aUllmMFdveDUxR2JXanZScjJnTEFoXzA5U2dOVWQ0ZlBTT2pnOE5UOFdoNEQyaVIwWGZfTjQ4STVKT2RUQ0ZEeEN4SGV6Mzh5cVBsOHRTWUdfVmVwS01icmRLcjFQQjN0b2xOclNESEJRNGlWcE9La2dRNlYxN29mX1FkZnBHazhDUF91eUhjZ3docWdYVTJSMHNlSFNuVUpz?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "दिल्ली में आंदोलन के बीच पटना में प्रदर्शनकारियों के लिए एडवाइजरी, गर्दनीबाग के अलावा कहीं और धरना-प्रदर्शन पर रोक। इसे AajTak और Navbharat Times ने रिपोर्ट किया है।",
-      "image": "images/navbharat-times.jpg",
+      "brief": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल। इसे News18 Hindi और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -329,38 +420,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "prabhat-khabar",
-      "headline": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONm5mZVpZX1VjZlI5M2o2S0RBZ0hwc0pUSGhVUHhaNy1jVjVlZ3dEUWYyLTVtblRaX0NPNVZYZ09hd2RBTEhkVHVuLTNDVTh0ejhmRGEzNnp2UjdFdjE4Sy1uY05nWE5PaW9JNDNKU2lGbXhGVEd1TkM0TUx6ZmVXSGp2UmNOaGFnVXQ4UnZJZHd4U2psSFBaVndUb1dRaHRfeG1fZkthWEV6a1dpZnZoX0hwdDVxOVlBdkJST2syd2hWMzJDdkd4LWdXa0RtNVRjUjk0UFZBMGlrcmFucW9MU1NhMDRWWTlObU83d9IB8gFBVV95cUxQMi1YOUZKc0dMV2tZUDBHcXdCMWMwUXRVTUFXZ2FBci1abjhKZUx5ZHBhS2lCUmg3bUZfRzJoTktKNFNMaVdjRnptZ043ZC03cVNnUkpMTXhjYnFReXZ1dU9RamQ1eVVtRUN3WTVIZ2lvTjJvVFlKUzJDdFJSSXlweDcxblpDWjJqS01jck1HNUsyaUVzdWNfeXZzb0xVb0NxczNWOUZhODFBZmkzZGk4WHhzV0pHS201NHNycVA3YjNnWWZLa00wMGZLdk1PSTNmRHdhNUo5amdBVWlWUmpUQmRXZjlxNk1QWWl4VUFHcF80dw?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU01aUllmMFdveDUxR2JXanZScjJnTEFoXzA5U2dOVWQ0ZlBTT2pnOE5UOFdoNEQyaVIwWGZfTjQ4STVKT2RUQ0ZEeEN4SGV6Mzh5cVBsOHRTWUdfVmVwS01icmRLcjFQQjN0b2xOclNESEJRNGlWcE9La2dRNlYxN29mX1FkZnBHazhDUF91eUhjZ3docWdYVTJSMHNlSFNuVUpz?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmZWMUFZRG9OMFM4bjdDcFZLcFUzRU1UaW5wYXdtSm1hVXJGYjNTMld1N0dDZzJLQ2xSclRBengzSmdPLWtWTGxLejVobENOZEd0eUYxbDJwMWl2bzFWNWJUbElwTDEtV1hPcVZGSE9HYWtOY1o5cWtzR1hHY3AxX3dUMU9iWVNXMUxhQnk2YnlncWdUaHJtNV92Z1ZkXzNfU2lmaFp3?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना-प्रयागराज के बीच आज से चलेगी मेला स्पेशल ट्रेन, दानापुर-आरा सहित इन स्टेशनों पर होगा ठहराव, जानिए शेड्यूल। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें News18 Hindi और Prabhat Khabar शामिल हैं।",
-      "image": "images/prabhat-khabar.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "12-dainik-bhaskar",
       "headline": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... - Dainik Bhaskar",
       "summary": "",
@@ -385,33 +444,6 @@
       "genuineness_label": "Corroborated",
       "brief": "नवरात्र में प्रयागराज-पटना के बीच चलेगी स्पेशल ट्रेन: श्रद्धालुओं को मिलेगी सुविधा, 12 मेमू कोच वाली ट्रेन ... इसे Hindustan और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/12-dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "dainik-bhaskar",
-      "headline": "पटना में पिता ने बेटे-बहू पर तलवार से हमला किया: घरेलू विवाद में तीनों घायल, निजी अस्पताल में भर्ती - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ3lyNnhrRHFseTI5N3ltTzlPbDJXZ1lUTXNLcWEzYU55UzYySzZCTHBfMkFNVUlIN21DQzltMGc3SFRCbmd2aU5fc2ZnN1ZFSHFxSTMzaFhnZVpBdkVXSjFqT0ZQcmJhSmNOd1F5NnZvWG84NkxuRkJzYVBWSTNUVXBDY3o3TVd5a0dWWElDOF9sekR2X045aTNLMEVqSjFJemFzb0dGWU40MnB4bXVIOFBXTmkydXc2U0FxSC1uay1xYUt0T3JWSzdWVzNaZzkxUU1wd3J2R3gydl9vQ0UyZVNzSGw0VjMtQ2J0X3VVT1FOU2lkSVlrWTh30gH_AUFVX3lxTFBaeVVneDdSa05VeXVGNThWOHBLOXFvRDBVT3JyeHBVUVUxNGZtM2NtVktudVl5cG1lcWwzWV9ZWXR1ZEhvU1RYb1pDWTlvclRibEZzc016LWJvU1RJQjRGWnQ1SzExQ1J6Tlp0blNCVVJqV1kxRU11dWxNTGRzV1JFSVVsb0lzUml5R0RUOHN6WUpfRmVLSGJmWlZpc05PT24yNU4yb0FaelVkcy1YTVVNZHA0eEJxeV9JRTVBcWZIU19ZTnZSa282YlhGbjk0b1M4QzBrSjRDM2U3TmNUNi1MU3VwVzVfVDR1cVo0OXh5RmNBeXJobEhYZnAxeUplcw?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnJFMVZZZktZcHNaM3lnS3c0bmItN05TWUhfR3JrY3hnWkowekpPeGNYdVVzUzU2aG9OdlpqVXEzY0JxWndQY19wQ1lUMG1SX2tzY2lrR0V5cGd6ZzhybWFnVVY1UkYxa05mdDNpbTMwOGd3aDNJT3NfYzgyR0htakFveDQ3NTNRQWZJYVBLQmpkaGpFelZIOVp6S2ctU09zbTJkejFzSzFzcXdZYlFGcS1NTXhQNmo2cFBPT28wT1JfRWhqT3BXb2R4UlYyRFltOVI5SHJKZUjSAd4BQVVfeXFMUHUxdER5YUZ5ZF81N2dGR0xUVHI1aW1YWjNuQjdER0l2S0pMMUduQ3lZU0lpREItVEF4VnlxdjdRakxWemJhSUpOVnJNckx3YjhzTFJoUmpQdkhjN2NGdkhXbDV1ZnFUeDV1dGtnbmtGX0RKcmE4ZVhPX2EwUHE4dlRMMTJ1Y2hFel9VNHAyUXVONE5KNFpmaHJyMFJEVmJFVTJJdmRzdDhHZ2JqM0EzUUtuVURrcnZvNUN6eDEtakJOTW43STVJVEFiN1dVbDYzRzU1LTJYQ2lrNXZmMm53?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में पिता ने बेटे-बहू पर तलवार से हमला किया: घरेलू विवाद में तीनों घायल, निजी अस्पताल में भर्ती। इसे India TV Hindi और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -471,33 +503,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar targets making one crore families self-reliant through entrepreneurship: CM Samrat Choudhary. An economy-related story. Covered by The New Indian Express and ThePrint.",
       "image": "images/bihar-targets-making-one-crore-families-self-reliant-through.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "over-rs-50-lakh-cash-recovered-from-bihar-executive-engineer",
-      "headline": "Over Rs 50 lakh cash recovered from Bihar executive engineer’s house in disproportionate assets case - The New Indian Express",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOczd2UktMd293RWJuUmlrZVczZ2REd3ZTeVp2N3I4N2tnaW1UdS1ZNE13Sy1CbkJUYTYwaEk4YTJFVFRBaHd1UnkzckZ3OWpyRm9HWU5zNVhZTFJ1VDJaQ1RkVG51WVZkTnBtclVrRG5RSGtPdUlFOGxhbzkwT3luUlRIZG5CUEpRLWdOSElxMnJHLVlZOUZTQkJyZTNha3FCMld3cFFfUDFmeHNDYzZYS3JmUGxCTEJhOUVoTDEtbGlUaVo0bzUyQTRxc2p3TE0tSDVBdmpvOEVoSnFZbk0wSmhDWVdEdEd1Z0xXbVpn0gH7AUFVX3lxTFBsSmpKYUV3S0RKTmxaU0g4Tk5CNE5lUjJkSHNaUXU1aHBzNzhKTk1WWFc3VzJpd211X2MtZEYwc2ZEVWRiREZLZENEMTBBaFBqWUVydE1DUXp3b0VfVmNjZmpDUlp4SG13cktxYWZ2d0N0U1dtV2ZEOGUyd0RaXzFUV1hHUVRhWkJoX0dGZkpWbXhPQllOdEhLQzJ5RFZad1N4OXBZNEU5dUhzZEY5dlJldnJNQTA0a0hXUlFPVU9KME5qQXRUYThwLWY3MEVGY1hsOUhDVk1RY2pwbGRwWnRMVlN0SFNuV1p5ZnhaNWJYNXhKRERPcjNUeEpj?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTTZieWJldU5Zb2lKZzVXNGFJa2Uxb0NkV0xib3pBU3JWNWczbWFhOFNzaWdMaGJTamJPMkxhUV9CdHp5UWZhVl9CQXFuQU9PbTB2RWhrTjhLOTZ6Uzh5MWE3OWRxZS1tdHRzYzU1TFh5THdBaWJHY09QRmVOTXU5NjRaZnExd2hBbzZzdnVvaGVLUUg0emN4Sl9fOFdGcEEzbm5YczRmVVJER0pMNXBIQU1ncmN0R0VELU1DTEg4Y1NMZjNzQ3MtTnpqaVFiTktqTVdSdnkyU0NoaG14WFhFRXBic0JRMjNkQ09jSWpFeFRuV0p6UEpiMA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Over Rs 50 lakh cash recovered from Bihar executive engineer’s house in disproportionate assets case. An economy-related story. Covered by The New Indian Express and ANI News.",
-      "image": "images/over-rs-50-lakh-cash-recovered-from-bihar-executive-engineer.jpg",
       "image_kind": "photo"
     },
     {
