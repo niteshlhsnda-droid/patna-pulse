@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-10-12 13:35 UTC",
-  "generated_at_ist": "12 Oct 2026, 07:05 PM IST",
-  "story_count": 48,
+  "generated_at": "2026-10-12 14:54 UTC",
+  "generated_at_ist": "12 Oct 2026, 08:24 PM IST",
+  "story_count": 44,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "gurmeet-choudhary-to-begin-tum-mere-ho-promotions-in-patna-a",
+      "headline": "Gurmeet Choudhary to begin Tum Mere Ho promotions in Patna; actor returns to hometown for his first film as producer - Bollywood Hungama",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "crime",
+        "entertainment"
+      ],
+      "sources": [
+        {
+          "outlet": "Bollywood Bubble",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRFdWQVZXT1NGMF9SR0lKRHY3V0d5cWFKdDcyalZIOTduOVVLZzNIdzMzWm1QV0xVN1JlTkxvd1FSSHpmUlFxWkg0eVRvSEVFLXAyYTIyY0RicjdiV3ZNU1VoazdUZWJVZWhyN2RjT2ZwZGtWeGtwRW56amdCUENySGVQTWxlOUhEMkhhaWRJbnRMMVowaElFNVdMbE1KWmhaZ2cyZi1vTS1pbnBLb3pHYVQ0QW5ZeEtZM3JBb1ZGQktBU3Z0bDVPeWVXZTE4T2dQSnZ2U25RTVJBLU9nWU1ra2lUVlFiRVU?oc=5"
+        },
+        {
+          "outlet": "Bollywood Hungama",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR0wwWUp5Ym02Sks1bEZfQVVaNkM2VmtIM1ZqNUdFZTZLanpiSTBWVzVzak9LR1JjVEg0V3BYV19pbTRuSk52SlpqX3NvaFdmT3hwcVN2ZFFfZ1ZGQnZCUUJqN3JtNzZYTnM1cVY4TDNYaFZ6elEyWDh2cDFsbFJyUzdYVTg0RXBaeS1XMEtwMjdXTTJQb0dVb3I4bDZKenpYbzJNOUNPTWhuTFhwdTNqRVpHLUtoVmhfQW04M09YMFBnYU14Y0duenJQQTl2dTRBNDJUWUFuVldYVVBiNUxWd3BNcEotc3NOZXRZYUhXOWJ0X01CaWfSAfsBQVVfeXFMUF9sUEphN2IyNlA3NWR4VUI5eUdkOFZBMVB3ZnJ2SGFybUQwYVpOR2MyNGotTkpxQU51Yk1aYXpWZVdEdmF2QUEwRHFKd1Y4dWhLOEVFOGVrUXkxMGlRTWktcWxkLVgwS0RrRy1vN2FQMnY3SFZfbEhHY0RDUkVIM3ZtazNYUzc3a2FlNWpsdGVUWGJ1VFVZX0Y0RV9CTGllZXRnbkdPeG9oUzBIY0k3QVhGaVVJaU1KM2tRTE9RamVWdTVjY3FjMzhwZ3RyZk1mXzJhanY0ZElGbVlLUUNEeTFuekhXSkxMQXJPXzdtdU1yYjN6WU83b1BZekk?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Gurmeet Choudhary to begin Tum Mere Ho promotions in Patna; actor returns to hometown for his first film as producer. A crime-related story. Covered by Bollywood Bubble and Bollywood Hungama.",
+      "image": "images/gurmeet-choudhary-to-begin-tum-mere-ho-promotions-in-patna-a.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "patna-metro-cm-samrat-choudhary-directs-officials-to-complet",
       "headline": "Patna Metro: CM Samrat Choudhary Directs Officials to Complete Project by 2028 - Metro Rail News",
@@ -29,34 +57,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna Metro: CM Samrat Choudhary Directs Officials to Complete Project by 2028. Covered by Metro Rail News and The Times of India.",
       "image": "images/patna-metro-cm-samrat-choudhary-directs-officials-to-complet.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "gurmeet-choudhary-to-begin-tum-mere-ho-promotions-in-patna-a",
-      "headline": "Gurmeet Choudhary to begin Tum Mere Ho promotions in Patna; actor returns to hometown for his first film as producer - Bollywood Hungama",
-      "summary": "",
-      "date": "2026-10-12",
-      "topics": [
-        "crime",
-        "entertainment"
-      ],
-      "sources": [
-        {
-          "outlet": "Bollywood Hungama",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR0wwWUp5Ym02Sks1bEZfQVVaNkM2VmtIM1ZqNUdFZTZLanpiSTBWVzVzak9LR1JjVEg0V3BYV19pbTRuSk52SlpqX3NvaFdmT3hwcVN2ZFFfZ1ZGQnZCUUJqN3JtNzZYTnM1cVY4TDNYaFZ6elEyWDh2cDFsbFJyUzdYVTg0RXBaeS1XMEtwMjdXTTJQb0dVb3I4bDZKenpYbzJNOUNPTWhuTFhwdTNqRVpHLUtoVmhfQW04M09YMFBnYU14Y0duenJQQTl2dTRBNDJUWUFuVldYVVBiNUxWd3BNcEotc3NOZXRZYUhXOWJ0X01CaWfSAfsBQVVfeXFMUF9sUEphN2IyNlA3NWR4VUI5eUdkOFZBMVB3ZnJ2SGFybUQwYVpOR2MyNGotTkpxQU51Yk1aYXpWZVdEdmF2QUEwRHFKd1Y4dWhLOEVFOGVrUXkxMGlRTWktcWxkLVgwS0RrRy1vN2FQMnY3SFZfbEhHY0RDUkVIM3ZtazNYUzc3a2FlNWpsdGVUWGJ1VFVZX0Y0RV9CTGllZXRnbkdPeG9oUzBIY0k3QVhGaVVJaU1KM2tRTE9RamVWdTVjY3FjMzhwZ3RyZk1mXzJhanY0ZElGbVlLUUNEeTFuekhXSkxMQXJPXzdtdU1yYjN6WU83b1BZekk?oc=5"
-        },
-        {
-          "outlet": "Bollywood Bubble",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRFdWQVZXT1NGMF9SR0lKRHY3V0d5cWFKdDcyalZIOTduOVVLZzNIdzMzWm1QV0xVN1JlTkxvd1FSSHpmUlFxWkg0eVRvSEVFLXAyYTIyY0RicjdiV3ZNU1VoazdUZWJVZWhyN2RjT2ZwZGtWeGtwRW56amdCUENySGVQTWxlOUhEMkhhaWRJbnRMMVowaElFNVdMbE1KWmhaZ2cyZi1vTS1pbnBLb3pHYVQ0QW5ZeEtZM3JBb1ZGQktBU3Z0bDVPeWVXZTE4T2dQSnZ2U25RTVJBLU9nWU1ra2lUVlFiRVU?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Gurmeet Choudhary to begin Tum Mere Ho promotions in Patna; actor returns to hometown for his first film as producer. A crime-related story. Covered by Bollywood Hungama and Bollywood Bubble.",
-      "image": "images/gurmeet-choudhary-to-begin-tum-mere-ho-promotions-in-patna-a.jpg",
       "image_kind": "photo"
     },
     {
@@ -164,7 +164,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar flood relief crosses Rs 726 crore as CM transfers fresh aid to 1.6 lakh families - prameyanews.com. A civic-infrastructure story. Covered by prameyanews.com and The News Mill.",
       "image": "images/bihar-flood-relief-crosses-rs-726-crore-as-cm-transfers-fres.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "rahul-gandhi-s-move-to-meet-cji-childish-attempt-to-pressure",
@@ -194,31 +194,31 @@
       "image_kind": "photo"
     },
     {
-      "id": "imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p",
-      "headline": "IMD forecasts heavy rainfall over Bihar, Karnataka, Himachal Pradesh & Jammu | Akashvani News - News On AIR",
+      "id": "six-stf-personnel-injured-in-clash-with-drug-smugglers-in-bi",
+      "headline": "Six STF personnel injured in clash with drug smugglers in Bihars Araria, 3 arrested - Daily Excelsior",
       "summary": "",
       "date": "2026-10-12",
       "topics": [
-        "weather"
+        "crime"
       ],
       "sources": [
         {
-          "outlet": "The Right News",
+          "outlet": "Daily Excelsior",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWNpYU9nM1BhREtlOEtPNjdOTVM4NnRRNEh2OXRhRExQa1FZdVdCU3Qyd0JYQ0lUVUxBOWd0R3hIY1B3VVlQRmFuSkZnUGxob0JWTEdlbHZuamRUTEhxVUZ3V3g3UGVBQ000V0xtMEo4bjNfTFhuM3JjWjdjdUhwU250R0l2UGM4QUFhYjhTa2ZiR1BnemxNY2V0M011NkZMeV9rQVgwemw4Y2cxc1pMME8zQTAwemtJa002Vw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUNTVGRBNVJnS3A4V1VJM3I5WUhPb2hSVkFoX3dTR1F0VVpLQzJKRFpvUVhYVW5HWTN2NV8wckJpMlpnSl9IR0JiTUxQWFpuY1ZSQ0xpX0Fmc2lvdlprZ09TVEVBeXA1dHVvc1pOdzZ3ZjFNUVlNNkRDMk5BZEsxcTNWWS0yMFN0YlBKSmlVUE1HczE1bzFpQWxsMlZkVUdxSlBISGNjS29vdGF2aExHQlppRXPSAbgBQVVfeXFMT295cHhoNjFMOUEwOE9CV2hzZk9QQnNzMVcwa2sybURuYlpDelNfNll1TFBVQjEyOTVJT3N6VGN3NnB5ZEQyTnlRVDNKSllRMVVLcl9tazlvRGotUklHZjg3UmMtaUxlaEp5Tk9UeFlzQUpRbzcwZE1LLTJ1bUY3VTRPcGNWNUh2aS1XQlpodmNRTVRWbzRzTWNHREVrYzNYaTJaZVp5ckk4TEtXU2R1QWlSLXZrWnVpRQ?oc=5"
         },
         {
-          "outlet": "News On AIR",
+          "outlet": "Rediff",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1ZobnNMdU9PX2tfejJqdjlLaUZLVWtWanV6cGdDU3hHbWZKU2tyMzNQZktlV0oxVzQyNjAxZmJtUFhXb01hOWxZVWd5UHVIN1hrTkFYY3c0SF9WUzEyYjRDQ1hxTktZZjlaX2RTZ2FpM2hKb3NDWlBJNDFqaS0xUkRjNUZOeEYyVnNDMERnMTJ3RVlOUmdXaXNXTUxHTnBTVmR5R0kzVHVVYXBvRXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNVgxN3VDUTh6eGZoa0ZMQkhTa190ZUpCRFl4UzV5aDNwNEVrQ0FRbFgwMnNRT0VpcDFveV9EQWZMVU9pUmNhb1FhT0xHSHVkcTVyT1BBRzR6QUdfd0pTY2psc05sazBTWF9BNXZxYTh5NEZONmRZYWRiYXR0S2hxV1NfSk9FN1ZkUlpXTmxHMmhIbW9QWHpwQk1DZXJnQ05pOW5wRE9IY0RjazdZS1dNZk52eWhaZjkwUlhZeUlzODJUUUxSNEFmWFNYQUFXUUVCWFFFajEydXlZTGV5NmI2YU5oc0VTelRscTk4WmpVNA?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "IMD forecasts heavy rainfall over Bihar, Karnataka, Himachal Pradesh & Jammu. A weather-related story. Covered by The Right News and News On AIR.",
-      "image": "images/imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p.jpg",
-      "image_kind": "photo"
+      "brief": "Six STF personnel injured in clash with drug smugglers in Bihars Araria, 3 arrested. A crime-related story. Covered by Daily Excelsior and Rediff.",
+      "image": "images/six-stf-personnel-injured-in-clash-with-drug-smugglers-in-bi.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "ranji-trophy-kaushik-rinku-hit-unbeaten-tons-put-up-on-top-v",
@@ -260,75 +260,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Ranji Trophy: Kaushik, Rinku hit unbeaten tons, put UP on top v Bihar. Covered by The Times of India and Hindustan Times.",
       "image": "images/ranji-trophy-kaushik-rinku-hit-unbeaten-tons-put-up-on-top-v.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-s-development-journey-got-new-speed-under-pm-modi-cm-s",
-      "headline": "\"Bihar's development journey got new speed under PM Modi\": CM Samrat Choudhary lists state's gains over 25 years of Modi in public office - ANI News",
-      "summary": "",
-      "date": "2026-10-12",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQODFLOGhKTXJsU0ttUGk0cUhpenJOYVFUaEhvRHVRMTlKblJjbkkzS0pFXzZNOFZYcTVLcTN6MjJLREZMSnRGZk1CX2o0VERrVGxETWFMX2ZNRU1pWktLc3pheFp0LTl3R1UxRExNdEd2cDZkWDFvdWEtVVRHcWF4enowM3BkcU5jN05hMEJpY2JKUWswRm42d3lyT0dteGdHY2N6MDRQR0VvV1FibURwcG90X2x4akVDZEtzT21ZS1oyTHlUeDd0aDlFaG5XR01SSzhqZG5ldmpkdURwWE83ZEJ6REZrSXlyRjFEQ3hXQlhEYVk5Y3RjM05VWTlnTzZrZ3VzeUNqYjJMbEk1Tk9Db2Z2SzJJVUt6YmI1LUdTRFc?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGxMc0lZeE1OcDUtZThLdzd5OVA4Sm5TWVZ4SUttUmJfYlo1Ym9zMlBGa3pkbGVNODN1SWRQTzZGdEM0RDUzZkJiS1dMenlMQXl5YlJfS2J6a1MxZ3dYQ1d4YUJIMW9uT2tnTHc0VFIwWUJvODRibC1tTWthZVhqY2xiY0Y1RGoyZF8xN05vNUMwX2pPLUt3eS1xLU1IYXpvV0RrS1Q5aW80bFpCZjV3SmItN3I0RUpzN2dXMg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "\"Bihar's development journey got new speed under PM Modi\": CM Samrat Choudhary lists state's gains over 25 years of Modi in public office. Covered by ANI News and The News Mill.",
-      "image": "images/bihar-s-development-journey-got-new-speed-under-pm-modi-cm-s.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "2028-2028-bhaskarhindi-com",
-      "headline": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी | ???? ?????? ???????? 2028 ?? ???? ???? ?? ??????, ????? ?? ?? ?? ??? ???????? ?????? : ???? ?????? ????? - bhaskarhindi.com",
-      "summary": "",
-      "date": "2026-10-12",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcmZxT1o4T2xybHVTUGhkY0RMZmJ4aU9Ub0t3VGFxN2RPNEJUZHJROG9uVVdVZFdQZWFIZ00wZTZWc2NwN1FsbUY0aUxrOEdwSlFXQjBYOWxYbmZNUm5MbE5aV2dTeXhjZHZhSVRmYVYyR2swWE5lendGa09iV3MzOFFkZ1ZtX3A4a1FXUDZKXzg3N3l1OW02YlZld1BCdFJ6cDhqcER3Sm5pYVktTlBQRlhlVTg1UzFDNFVwQ2NUN2NRclFoRXQ0enl1dnVGeG13alJ4SEZfZXF5UlVXWlRSRDVaWm3SAeoBQVVfeXFMT0drdVRhV1lCb3oySVJNSnNrZTR5RzZ1eHFoZEpuYUYzSVBOZmNJSWtCcWZaanhxUjRrMzBLdVBaSVRfSjBGOTUwMmtnYkhfSno3RVJmUTZMN09rNzdLaHhhX25aOTVTaHdIcE5uTk1ocDRDTXp2UlpoRmZ1RFBpUk9renNuZ2MzNU90OVVxVVVsTk9aT3lHbnNNaV9LLVBYUlprdFJTVHc0Tnh3Y1c4MTdiYk1oRy1VNzhHczNnbU9POGNBOTBuQi1CYnVSdkJhSzFobzVEOFpMY0hMVFM3ekRiQ3VROGozSGxR?oc=5"
-        },
-        {
-          "outlet": "bhaskarhindi.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQjR2RGF0TzJIeHY0ei1STUFHd2liaU5ZNWlwZlpEdENxQXo2WDRRTzM1Yk9BRXl2SUVvZFdMeWcyNDUtMXZtbzM0eVNkTWFqejYzZ25VX0Z6YlA1UlVFM2lwd2ZGRkdpNE4xTDJ5ZVl1WnlRckk2QzFuVjBWdzVlMk55NWxYYlNyaDNtdXFpd25rMlpnc2ZtOW4xUWhrT1dpc0JJdTQ2ajVsY25Xa2dxWi16NkptQkt4Yk9zZWtjMVZEdDlsa0ptMGY0eGdLajVTVTh2cV82V1c4Z3FJVUxUOWI4Nl9QQ3NKVHJpdlkzeVc?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTZPc2hCSHJYNkZmYkswX1ctSm5FLXZTQ25OdFVUQnBYLXZUOGNoOGVCaFBxYzBiQlYxS1FyRFBaZVlmMm1qVkhoLW15QWlHN29WSk5zT3dZQmxQTGJuRWRLc1Fvd0ltTUxqdzJsN0o3eklaTzd6bXhTb2FCQ0tjdzlJaHoySldSV1NLbXNDMm43NE9VVlhrdm45WF9Dc1B1eGhsS3BLT1VBQmV1SnBKMnJrUkktUVdGTEU4?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1d6TUhTa0pWai0tak9iamRvWC1SUDhaSnY1RmIySmFDcm1xdk9wb3RQU1A5eEItOVl5VExjTXhWN3QtcjdRcmJ4SW43Ty1PX1JHN0E0Um01cW9KNWFyZjdaNEh0WWNpRWpyeEFmS0lLbDFWZ0d6Rmw3eXBvOWJDLWxKNWYyVVRSemx4QTNyZy1QR3pMdnRpLUFoeFpVMWNYVTNjQ1RUNDFPdnc0T3c?oc=5"
-        },
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT20wbDNxSFI0MlNXR2tSeG54dmhKY3huRWxZc3p4WjYyZ2M5ZXNxZFFkRTRYbjQ5R3RPRVY5MTByUURRcWFLczhydGRYZHZjeDZ3NXJ1Q3NVWlRSaTZ3MnprNUFKR3BtRXdQSGUtNTZ1djVnWFI3MEYyZVdIYUJyQmpaMERhaS1fa1BkekV0NEdiRG1ITmgyR0RQcmctLVEyQmoyajgzZi1tS2Q3c2t5c1l5Zl9JaTFTbVZYTnotY3N3X3c3aEVhZVFvcDE1MFFXRDloVHgwdkJGamtCeVhGazJOclV6Z3hPZllBYmRRRzRKcXlSVlNjbkRLMWZuZF9CdUM0M3RpNXU1OHZpTG92bnFjZ1lUNDB50gGeAkFVX3lxTE0zOEZCRF81RjhWLVFsNjVIQ0VUTzljX3NTaXJYSzlETDRGNU5OQ3AxeTJiYkp3OVQtMW04TTlfVldIWDVRS0hWQzRsQU9lYmt2YllVRDdJV3I0ZjdWNmxOX09GcGlrNVBheWNPVnd4TEIyT1dJOXRWX1p2UkQ1ZXVNS21oOEY4X2IxbUpLMWFCaGtNM3E2WXJKUGp0YzJnelBsNnIwVVlranpHSzBHM3BWYmJDX2NxQW1DcUFVVUd4RG4zLURfVnJoX2dlUjNkYm9HRnpqcjl0UkRJenVGSDkzQ3BzcW5UUXpFWVBSUzBNYjJsazc4aXJxV1hfWWsyYjRhb21IT1hqMURtQjQyWTlnaS11UXVWR2Zob0NYcnc?oc=5"
-        }
-      ],
-      "source_count": 5,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना मेट्रो परियोजना 2028 तक पूरा करने का लक्ष्य, नेहरू पथ पर दो फुट ओवरब्रिज बनेंगे सीएम सम्राट चौधरी। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और bhaskarhindi.com शामिल हैं।",
-      "image": "images/2028-2028-bhaskarhindi-com.jpg",
       "image_kind": "photo"
     },
     {
@@ -420,60 +351,6 @@
       "genuineness_label": "Corroborated",
       "brief": "No major impact expected at Bihar barrage from Nepal flash flood: Deputy CM. A civic-infrastructure story. Covered by ThePrint and Rediff.",
       "image": "images/no-major-impact-expected-at-bihar-barrage-from-nepal-flash-f.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "dainik-bhaskar",
-      "headline": "पटना में पिता ने बेटे-बहू पर तलवार से हमला किया: घरेलू विवाद में तीनों घायल, निजी अस्पताल में भर्ती - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ3lyNnhrRHFseTI5N3ltTzlPbDJXZ1lUTXNLcWEzYU55UzYySzZCTHBfMkFNVUlIN21DQzltMGc3SFRCbmd2aU5fc2ZnN1ZFSHFxSTMzaFhnZVpBdkVXSjFqT0ZQcmJhSmNOd1F5NnZvWG84NkxuRkJzYVBWSTNUVXBDY3o3TVd5a0dWWElDOF9sekR2X045aTNLMEVqSjFJemFzb0dGWU40MnB4bXVIOFBXTmkydXc2U0FxSC1uay1xYUt0T3JWSzdWVzNaZzkxUU1wd3J2R3gydl9vQ0UyZVNzSGw0VjMtQ2J0X3VVT1FOU2lkSVlrWTh30gH_AUFVX3lxTFBaeVVneDdSa05VeXVGNThWOHBLOXFvRDBVT3JyeHBVUVUxNGZtM2NtVktudVl5cG1lcWwzWV9ZWXR1ZEhvU1RYb1pDWTlvclRibEZzc016LWJvU1RJQjRGWnQ1SzExQ1J6Tlp0blNCVVJqV1kxRU11dWxNTGRzV1JFSVVsb0lzUml5R0RUOHN6WUpfRmVLSGJmWlZpc05PT24yNU4yb0FaelVkcy1YTVVNZHA0eEJxeV9JRTVBcWZIU19ZTnZSa282YlhGbjk0b1M4QzBrSjRDM2U3TmNUNi1MU3VwVzVfVDR1cVo0OXh5RmNBeXJobEhYZnAxeUplcw?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnJFMVZZZktZcHNaM3lnS3c0bmItN05TWUhfR3JrY3hnWkowekpPeGNYdVVzUzU2aG9OdlpqVXEzY0JxWndQY19wQ1lUMG1SX2tzY2lrR0V5cGd6ZzhybWFnVVY1UkYxa05mdDNpbTMwOGd3aDNJT3NfYzgyR0htakFveDQ3NTNRQWZJYVBLQmpkaGpFelZIOVp6S2ctU09zbTJkejFzSzFzcXdZYlFGcS1NTXhQNmo2cFBPT28wT1JfRWhqT3BXb2R4UlYyRFltOVI5SHJKZUjSAd4BQVVfeXFMUHUxdER5YUZ5ZF81N2dGR0xUVHI1aW1YWjNuQjdER0l2S0pMMUduQ3lZU0lpREItVEF4VnlxdjdRakxWemJhSUpOVnJNckx3YjhzTFJoUmpQdkhjN2NGdkhXbDV1ZnFUeDV1dGtnbmtGX0RKcmE4ZVhPX2EwUHE4dlRMMTJ1Y2hFel9VNHAyUXVONE5KNFpmaHJyMFJEVmJFVTJJdmRzdDhHZ2JqM0EzUUtuVURrcnZvNUN6eDEtakJOTW43STVJVEFiN1dVbDYzRzU1LTJYQ2lrNXZmMm53?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में पिता ने बेटे-बहू पर तलवार से हमला किया: घरेलू विवाद में तीनों घायल, निजी अस्पताल में भर्ती। इसे India TV Hindi और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int",
-      "headline": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition | Trending - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOU13eXBranBNYWxKMVR5RkdWTkNiZXB3eE5GaThEWVc0YVNUczVucFh6eUsxMnVRNGpmZ3poQkl1cTk2MnVPa040VDZQT3JNTkkwQ3FNeTM2eGgtaG8xeDE1X3p6MzQ0ZDBVWkRWbUt1NWQ3NzZaTEhfb19zMUZzZXgtSVdWRzNvVUVmYWdmNHlHUEdOdGFvUUVHWTlRUFVYbkFPYnlXMFFyY21Od1BVaFV5LW1zUUhtLVZaQjVyRjczTHN1U0paanVQM19FM09UY1HSAdcBQVVfeXFMTUNZZlY0eHh5SWZxVWhuQm1FeXEzeWY1WXkxcElSa0hFREcxM3JMMzIxSy02MlQwYmdFamgwRmM3WHZoVWNQMUd5UHhkdENvbTQyMDgtVFZQUVFtOHdQWENYRzBadUl4aUhmWm9FRkpNTGFFMm1IcXZfREw4a2RpYXFjMnNhMmJ1Z1YxMV9MbUpOaWZWbW5GTU0yeWRvRk12OElGdjNyVlJtbXBIcXo4aVFKZ24xVVU2c2ZCVGlBUVB6ZWxjMmJaSndQektXOG8xYUYxQk52d0k?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlpweXpNZk92dVhaMTc1endyZzNRTmpfV1JDQWJQTHltZ1k1LUg3dGNnSXkySGdWNjI0ODZtakdaNm10NFBVWW0yS1VuM0xtMnBVMU5VR3ROejlBLXZncF9QRzZzVzliX0pRYjRDZ0sxRnlzeHQtOW1TanY0Rk1RbG96YTJmT19jc2lMTEZSVFZKdEN2cDctOG5vM3BIc3lReXgxWXRTdlRtV2JwMVN5MUJ6QlZ3bHJDUENRcjhURmtDVWs5R1hjSTQ5QXJyc1NfMHI1b0w2WWJFcXZQdXlFcHpiXzjSAeoBQVVfeXFMUHVBc0VrTUhzOWlSbnZKWUpyTnd6eWVZakdQYWVsOFV1MjFpUGpOdl8yOC1ScUpJOGNyOFNCWTFlSndZN0ZCZmotU2dvRnJCd0d2ZFphVW9JczJrS0kwOTNMckNiVEFWUTlwRkVmOWhlNEt1VU12XzFzLWtOSzM4eDlOR1gyZmxaekZraXVtSk05bWZ5OGRQQURWa2UtakhUSHNnM3BDR29SMWFULUdyUTd5RExic1RQWmx3SVFPQk92TGhwQzVWbThnUi1RbzE0LW9DekNkSVI5SHc5dmhCWks1Y0lHMmhMVXVB?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar teen reaches Level 22,222 in Candy Crush Saga, gets International Book of Records recognition. Covered by India Today and Hindustan Times.",
-      "image": "images/bihar-teen-reaches-level-22-222-in-candy-crush-saga-gets-int.jpg",
       "image_kind": "photo"
     },
     {
