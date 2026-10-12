@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12 00:35 UTC",
-  "generated_at_ist": "12 Oct 2026, 06:05 AM IST",
-  "story_count": 49,
+  "generated_at": "2026-10-12 01:36 UTC",
+  "generated_at_ist": "12 Oct 2026, 07:06 AM IST",
+  "story_count": 48,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -118,33 +118,6 @@
       "brief": "No decision taken yet on Maa Sita University; consultations to begin after MLC polls, says Bihar CM Samrat C.. A politics-related story. Covered by ET Education and The News Mill.",
       "image": "images/no-decision-taken-yet-on-maa-sita-university-consultations-t.jpg",
       "image_kind": "photo"
-    },
-    {
-      "id": "imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p",
-      "headline": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir - The Right News",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "weather"
-      ],
-      "sources": [
-        {
-          "outlet": "The Right News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWNpYU9nM1BhREtlOEtPNjdOTVM4NnRRNEh2OXRhRExQa1FZdVdCU3Qyd0JYQ0lUVUxBOWd0R3hIY1B3VVlQRmFuSkZnUGxob0JWTEdlbHZuamRUTEhxVUZ3V3g3UGVBQ000V0xtMEo4bjNfTFhuM3JjWjdjdUhwU250R0l2UGM4QUFhYjhTa2ZiR1BnemxNY2V0M011NkZMeV9rQVgwemw4Y2cxc1pMME8zQTAwemtJa002Vw?oc=5"
-        },
-        {
-          "outlet": "News On AIR",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1ZobnNMdU9PX2tfejJqdjlLaUZLVWtWanV6cGdDU3hHbWZKU2tyMzNQZktlV0oxVzQyNjAxZmJtUFhXb01hOWxZVWd5UHVIN1hrTkFYY3c0SF9WUzEyYjRDQ1hxTktZZjlaX2RTZ2FpM2hKb3NDWlBJNDFqaS0xUkRjNUZOeEYyVnNDMERnMTJ3RVlOUmdXaXNXTUxHTnBTVmR5R0kzVHVVYXBvRXc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir. A weather-related story. Covered by The Right News and News On AIR.",
-      "image": "images/imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p.jpg",
-      "image_kind": "placeholder"
     },
     {
       "id": "bihar-board-extends-registration-deadline-for-matric-interme",
@@ -404,11 +377,6 @@
       ],
       "sources": [
         {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSkVPZ0hZX1RWLWtGVHg2QjY1ZzV2bF9SMXhoMXVsQUxIa180YUJYeWtta3BubFdhUVhLRVZfdTU2SV8zWm1xSmwwUHk0RkRDSE1Ram1qNkZZUW1xVmJwemRoTVdJMnJ2TkczNFlrTC1pQlhIZmdXd3lhY1NqS0dzTUhUTUsyMEphMGIwaEJWUS1iQ0NJUkdhRk43QjRZYnVOb3JDWVJfZUZJLUt2MEZxTTN5QWtnYi1wNUp6ei05bVBmRWJ1bTVyaGl4elBsdGNEcTZoU256REk2RTVRMF83UWpSVk0ycXRvb1JpODJTcjNmcG9pMnZXenRZcXhOdkpiRmfSAYcCQVVfeXFMT3gtNVQtTEt3cXhOZkQ0NWxUMmN0c1NlQ3J5QUZEdE1paW1yU3ktbVAzTjRkX1gwdVV2SFRySWczN0t6bDRtMi12T19EX2lWakEzcnE4WHlCLUhMWENsUGJFVi1oX1pqZ3ZMMVAxVE1XcEZkdVYtUmVYNHBqNXNMWkNrUlJBMTliR1dkZnBmUG9OUndYdFlVWUo0aFhqYUp1bHJRaTliRm5BUDctVVZZWjVxREFZTzdJTV93TVNlTkJPNEhPYmtBdkNFS3U5T1dxLUVubmdqRDZOMW9xYVV1MkwtbE82aUs0aDVfZUlaS2RBVEVmRGl3dEpVQXF2Ulc3YW9SYVdYWnc?oc=5"
-        },
-        {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQUFoyTTVBcmdqNnU4MF8wbWdDS1lvVHlHN2FCVURtNVVQX193TWhBc3RTclRxeVJyOXNIUTlnSWxGblhWbDRxZzI1clBXVXVvT3Ztd2ZRNXB5emhVMFJ6NXQ5amk5Q2hhQ0VSSEIzb29sYnRTU0dCQl9xc1F0QVJiS3FfS2IwVDZsbGEwUjJpak5LbVlpY3hnUTZFU21LMUFKNk5oUG1Fd3NFaFRfX0VHeEIwMktpLUoyQlJ0LXFIb0IxYjBSTUdNbUFWZ3RtZEtkd0R2S0h0aUlmM09vcllLLWNaZ3BCTEhweVNEQTgyTFVWbTlzUXI0QUZlQlFGVWVrVzFwZnM4ckphZnlTd1NhVjBFUUpHX3Y0N3BRUTBkOXJ0amRoWDlqTkRrOHhkZw?oc=5"
@@ -424,10 +392,10 @@
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlpweXpNZk92dVhaMTc1endyZzNRTmpfV1JDQWJQTHltZ1k1LUg3dGNnSXkySGdWNjI0ODZtakdaNm10NFBVWW0yS1VuM0xtMnBVMU5VR3ROejlBLXZncF9QRzZzVzliX0pRYjRDZ0sxRnlzeHQtOW1TanY0Rk1RbG96YTJmT19jc2lMTEZSVFZKdEN2cDctOG5vM3BIc3lReXgxWXRTdlRtV2JwMVN5MUJ6QlZ3bHJDUENRcjhURmtDVWs5R1hjSTQ5QXJyc1NfMHI1b0w2WWJFcXZQdXlFcHpiXzjSAeoBQVVfeXFMUHVBc0VrTUhzOWlSbnZKWUpyTnd6eWVZakdQYWVsOFV1MjFpUGpOdl8yOC1ScUpJOGNyOFNCWTFlSndZN0ZCZmotU2dvRnJCd0d2ZFphVW9JczJrS0kwOTNMckNiVEFWUTlwRkVmOWhlNEt1VU12XzFzLWtOSzM4eDlOR1gyZmxaekZraXVtSk05bWZ5OGRQQURWa2UtakhUSHNnM3BDR29SMWFULUdyUTd5RExic1RQWmx3SVFPQk92TGhwQzVWbThnUi1RbzE0LW9DekNkSVI5SHc5dmhCWks1Y0lHMmhMVXVB?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records. Covered by 4 outlets, including Moneycontrol.com and The Times of India.",
+      "brief": "Meet Shubham Kumar: 19-year-old Bihar engineering student reaches Candy Crush Level 22,222, enters International Book of Records. Covered by 3 outlets, including The Times of India and India Today.",
       "image": "images/meet-shubham-kumar-19-year-old-bihar-engineering-student-rea.jpg",
       "image_kind": "photo"
     },
