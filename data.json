@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13 07:54 UTC",
-  "generated_at_ist": "13 Oct 2026, 01:24 PM IST",
-  "story_count": 46,
+  "generated_at": "2026-10-13 08:35 UTC",
+  "generated_at_ist": "13 Oct 2026, 02:05 PM IST",
+  "story_count": 47,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -38,6 +38,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "aisa-rya-protest-in-patna-demand-cec-gyanesh-kumar-s-resigna",
+      "headline": "AISA, RYA protest in Patna, demand CEC Gyanesh Kumar's resignation | Tap to know more | Inshorts - Inshorts",
+      "summary": "",
+      "date": "2026-10-13",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "Inshorts",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWlOUmVCVTFBZHBEVk1obENhLVhxaU5Gd0R6czZXSm1iYm9YdG5XOXFOUWlnMXNYY2plM0MtR1kydmJZR0hMQWh0TXUtZk4zMDJLWFdLbGlJV2s3bUpPUGhoTldzbE1BT1pSX2xvdWtwcG1RMXlSOG96VGt4V2swU1VXY1E5N0hzOGFFUUl0NkplQ1dvUTlkbmhZSGp6TTBNR3NCVWdnMUJlTmtBcUHSAbMBQVVfeXFMTjhZZnpCbU5PODVkUEtZTFpwQlZPOEd1Z3g2aU0tQUYwT3BDaWZLRUpNak94ZG9FMXNRLW5sV29UQlRWQzN3dEUxcWxqN1RKQ0dmS1JJUVQ0RUFnMm9XSXNqYmVMQzdTQ1Y3cVZHRVowQ0dqUm1zQ2dFQTY2T3pRM0taOWtmZWVsTFBDMmQyOEdhd2QzYVNYVExHTEpOUVJsSkZSZy15TDlTakdxN3ptbi1TODg?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDdqekdqWHhzY1BNMm9mUDVQMnJHTVR0amc2Yjd2R1p2b2xuRnNObWk1emtLTGF0QzBhMGVtM09NWWlXUngtMWF2NGs5TmxvSUttNEZIMkRpQ2k5NVpUa1pZc2llc3lGUDJFTEZlYW5IZnNISDhsVWdVb1RnamFrZnJQRURuaEF6OEd0bWlJWjJpXzhmYjFqNlNCVjk5LUJySmstTF9yV2ZIZjhXempSSWxSMlVEMDZsSGhTVGZ2a0wyUERYZ0hhaVZidkprLUZnRTNHTG0xWEJUUHRmZ0xacQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "AISA, RYA protest in Patna, demand CEC Gyanesh Kumar's resignation | Tap to know more. A politics-related story. Covered by Inshorts and ANI News.",
+      "image": "images/aisa-rya-protest-in-patna-demand-cec-gyanesh-kumar-s-resigna.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "police-hit-him-on-the-head-dilshad-ansari-dies-in-bihar-cust",
       "headline": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended - The Observer Post",
       "summary": "",
@@ -56,12 +83,17 @@
           "outlet": "The Observer Post",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTlzYkFJNG83RGZlcVV5VnhWVk11UlkxTHphMXB3TXpYNWpSRzVtRFR6RUVmZEVDUENRYmxhSUxwTmtSYS1IMmRILWNpQ2ZLOVJRV21VZFN5aW5tZ00tOHVXc09DakhPUVhQNzZrb0NQLVdlcWpvS1AwRzNMTmJCbEp2TUJPWURDOE9XTzVPXzVmZFdYTjctY1JBVy0yckZyaWlWWE9UZE9GSG5NczVyQQ?oc=5"
+        },
+        {
+          "outlet": "Muslim Mirror",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEZvT3hyTV9EX3NFS1g5UkdNLTRXZHVJbE5RMk9iTU40T3Q1bFhSTUpYV2FQNkdRS0xJRmk1dExzMFdsQW9jdVJEa2RGUW8tTW1IZmw4YWJpTTBzbURHTm1sNVlGOHFUQzY4d01GeE9KbmNQMzYzeFF2bEtBdGlxT1NneXRWYmZ1RGhIejVReHBpaUJ2amJLWEdBQmN0aHpCcTZuOWpiaThBQ0lvOHFfcnVR?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended. A crime-related story. Covered by Hindustan Times and The Observer Post.",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended. A crime-related story. Covered by 3 outlets, including Hindustan Times and The Observer Post.",
       "image": "images/police-hit-him-on-the-head-dilshad-ansari-dies-in-bihar-cust.jpg",
       "image_kind": "photo"
     },
@@ -90,6 +122,68 @@
       "genuineness_label": "Corroborated",
       "brief": "दिल्ली-पटना वंदे भारत 16 अक्टूबर से: कानपुर-प्रयागराज के यात्रियों को मिलेगा फायदा, जानें रूट और टाइमिंग। इसे RailJournal और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/16-prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "aisa-prabhat-khabar",
+      "headline": "पटना में AISA के लोक भवन मार्च से पहले सुरक्षा सख्त, गांधी मैदान से डाकबंगला तक पुलिस तैनात - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-10-13",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWItMjBjR2V5anBwcUJYcUJkWS1qTG5uN3Vocmh6SXJwR1ZOUHAtY2tlMGpCYS1BdGlMdHdYY0NkNm5QQmgzbmJRX1g5T3BfczJGd3FnREVHXzdSUGhQelh6QlNTWkpwWUlpUUZCZVNscFNWLXNaUDVjRjhNNDExa3dMaWY3QWxjdE51R0JXN0ExTzhPWVQ2YkRFQmPSAaIBQVVfeXFMTmEzeDNVeU4wRWlHQnlINEMySl9qRU9DMmhFN2h2LUo0a19jVjd6UjJ3QS1DdWY2WkV6R3BKdkVvVWdsUjZXNTdBalBCZnJMdVZ5ZHgxZVo3TkM4VWR4c1JtZGwyQUFoQlo2U1VlY1owaTZ3a1BnZjNLSjByS21mZ0ZXeUVKcTBfVURLbXBuV0oxUDQtWjN3ZV9tY0dBU1BIX0Vn?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbm0tUUlYQml1ZG4tSU9YdjlCUGV6dHpkcDRqV3VPazBDeUYyTmh3eVJVaEUyS1N0OUVDMXYxSk11ZEVjM2xZV0lwaWFhTmxMV1F4bkFDbGp5WjFKa0lTNGhoaXVhNm90alRjMTlOZkFhdzhfanVyLUtIQmE5V0dtZGg4Vk5obmtwREhxdlplVUo4MU44Ri1YaVRmYmh4N01rZ3FoUkhaaDY4OWhMclJIN3I3TjFGV1IyUlpyVlFXNmZSNTdDbkZLelNBRHrSAdIBQVVfeXFMT1M5NHNPcDlBTExfYUxQaDYxMHc2eXJOS3RGSzQwblRuZFdQdnVEbW9tWnhoc05wMWpfckc2LWZUekFFQU14N0F2YkNUeEtLckJmMnFKSTRzNDlHa0loLV9qVVZDa25acTM3WlN6SnExaGsySXNXSUVwcnR0SEtpdkdqTlRkZ2w1SUwyV1RMNzlUUUUzbGRoV01hUUJhUTNuUWlwYUdrZXJDXzdIQTVuTmxMU0wwSEw3VTAtdzBhWk4yTjFGY29NR2prY3czWDhmQ0dB?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFA5V3BLTlJtNXhidHF2aTdCUmdiQ09IWjRRQlRQN091bDZQVk1nUFZqRWk5S21Vbkl0S0dLVWgzTEp6YXdCelliRmxmcjFiQ25haG5ZU1V0RE1FTUJCT1JxN1lpSmNwTEl6NmhOSTliYnlMUG54NkVnZVBmSTladUxOa3AtSHN3QlhDNUJkRExmM3Rvb1ZGT016QzZvaGdiN1lWY0pXUmpmTFM0c3JXdS1vRDZ2V19u0gG-AUFVX3lxTE1wd1kzb3Vhc1ZiOGZ6c3FxSzhJaTZkOGhuM3M4RUgyOVJBQlpwOEFLTnUwVXc2Ullidy1CYmJ5SmtpSUc1Y3hZYmtHUkQyQ0tRUlM5NlR4YkRsd0xXUmVEenQzakNIUmNlYkFhMDRpWEtIdE9sRFJYTlRIVE1CaU5FNkVpMjJnakQ1eDNYR283UVlVSkNLU1kwU1VMUW5Ha3AwUkxqRUtYRzZZNWpycFpIZnhVWW9qTWhEaE5nUkE?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRTNyT2dpUl9NakJSczV4bXg2aWpjdm5MaEdIYjAtUTBidE16NWcyR3dIUzFPOTZNcmhUMW41S1h3VWtJRjUzUm9teU5FX0s2SHQyM0xmVV95ckpNU3VhQ0dNcXg1ZlprSmxqX29zaXpudjNlRGw5cFpOYi1QUFdNX3VxM3QzWjh2ZGFIYXJldzVhdjV6UVE4UWZFUm1IN1VuZkhBMUZhclA1RkIxRGZNYWJ2Y2lickdWcnJ3Z3V30gHDAUFVX3lxTE5LdlJDbGMzQXFmUUU5NTRoNWphU0QtYlIxcEdPZ3I3dG9zRnVRM0V5eGNaWHdEb1lFOWs5dzJpQVNEb1RQc3k5b0RpLUZEY0ZvbHJzRDFHQmJMMC0xdzA4YUE3UXFEdHc5QmhicnF6OTczSGJZd1pfOEp6OVFFYlY3aXd2TDY1VmlJS2ZROEp1cUtiTlBScWF0YjhncTBXcFJxSjVaNk5uVDJ2cXkxRFQ3OFd0dHJjUnJiT19XUzBjOGNpcw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1JhUFhMb1FJZGx6UDRfMFZNeHgyejM4Y3N4QTYxaUdDTEx6a2tMVVdOLUlOLUltdEExVjd0bFpxbVRSYnJHTmlWU3Rwclc4YUZfRWNhZWowU2RrbWlDY1JUY1NKSkMwUGZGcTFxZk5zcFR4MUhwMld5dmZBc3hmMkVHR0x5OW9RQlZXendsYVExaEtGWGp2UkhQUGx1NUdOaW9za2hWNTcxZmVCS2psY0NYRdIBuAFBVV95cUxOclRmUkJsWVpmVm9TWlVmVndYRE15eUtCX2xtSVVUNWl5elVMbnVQcFEtcHZqdUZ6dkVOUElxRnQ4MVhKTkRMS2x6VE5iQUUzREdqR0YzLUpIT0pmR2VwazRGRjlZbWFwdU4wMnloUUdDVnpjMUJPRW92aDNmRU92Uk1HQmktX2s0VTNPNzR2UWF6LTVXRTB4MG5RQ21iOHBmTENMZVJ5UFNJLUpaME5iMzZ0WV92eF9j?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3N4RlpGSEF3ZkNMQjE2aEhleGN6cjd2d3JPSTRiNVNBb2tnN1FFSmx4clppUkR0MzJ1Q1dPZ2JFc2c1VTY5dW9ORjB4clUwVUQ5Zzgta0FaYW5sYVdwM0c4cU83U2xCTlpMMlNHSGRETTV4UlhFYS1zVDBWNXhxRjBuVU5YQlFNdXA3S1hZRmRMNF9YQzZ6eXBpYjNTbjZzN3BqaHJkQ0s0Ung0eUZ2Y1JzeUNOc3ZYenNSTDRtN092dw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHEwcl9WR1RhSnRCNkpRUTM0Z2VtQ3MzODZKelc5ay1UYTc2bWFEeTlqdkZ4UFk4OHVCa2k5VjNHYTdvUW02LUlXMlZGOFlPNTFqLXRFOGc2VTYyWkpZQjVUanowRTJfTm9OZWVWdEU1QVJNUW1LY2pITFdpRGJGZ1NfdWVESGszbXVDZkxpbHpjZWxQSjNjeUR3YjJoQQ?oc=5"
+        },
+        {
+          "outlet": "ABP News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm1aZWpCSHY2am52dXZQTTlvNnFaRWNTdFlOaVhjMHdWS3lYNS1BU1d2amJJOU1HaV90czIzdVVGRWVWWWpaV3dhUURDNWJocTJmWGF3eXNHbWpjRFB5Mm9mcmUyODhyQkxHZm1GWDJiRnJpZGtTVjVBajFhVXRwMjI2aGNyS1kwa0hHVFRNdVc1VFI5UUJrMjNkaGpmNHp4T0NBU0xB0gGrAUFVX3lxTE1TVVBRdDdBQjdNMmxnVW1yWjM0Q1ZhZFIxNmtHakttRHE1MFJNTjRGOUMyZmJZNzhyZjgtS2ZqenJFVi01VWYtN2VjX0wzMzhCMHhjR3RzUkxGOXMwQmFjOHlIejlfWnhvNEVIeE9hVmRZUURUdEFQSFVmWHIzTm5vcFhtOHNqSE1hNW5oWHJpdk5KQ3dDcFFZSDV0ZzM2NEw2ODhLTmRHOEg4dw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGJlM19pYUZ2MkNMSmJjWkwzOWs5OUNJaUtqQkxSVnpqSGNvUXZudWI1allKTmRMLWx5Yl9PRU42RExRd09ZUDJFTl9jMF9EanlQX2hsSGtjZFB5NTRmX3BHdFpEOU1HQXMtelhEbnFyeTc3WmlTNVl2VnRYb0J0SFE3UjZSeFN6S1VsYzh0c2ZtWWRqTzFBa29mOVYxLWdpU3VLZGhNQWRQb29PQlhmM0E0QQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में AISA के लोक भवन मार्च से पहले सुरक्षा सख्त, गांधी मैदान से डाकबंगला तक पुलिस तैनात। इसे Prabhat Khabar और ABP News ने रिपोर्ट किया है।",
+      "image": "images/aisa-prabhat-khabar.jpg",
       "image_kind": "placeholder"
     },
     {
@@ -317,33 +411,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "rahul-gandhi-s-move-to-meet-cji-childish-attempt-to-pressure",
-      "headline": "Rahul Gandhi’s move to meet CJI ‘childish attempt’ to pressure judiciary: Bihar BJP chief - Telangana Today",
-      "summary": "",
-      "date": "2026-10-12",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hans India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVNkMXJjWlpYMEdydFJ0cTBQcnNXbmZOaGJPZXB6TTVIQjJzc2pSSFdOZmlwRUV3bmpycm1qbGlVaUU0R3FlTHNLQmxVb2pBa1pLUzBmc0dBMHI3dUtlY3pDbVpvY2pISWQ0T2FoVk4taXJmUTdWc2JERzdld3lKWVRZUVpQUGg0ckF2OVlsYkJuSUZGVHVJUTczQU9pdUVMR214cnZZM3pUUDFDNV9Ud09wX3lXYW8zUk9YMC1DYmZ5QkYtNVNIOWd0dUpZTUJNNlE?oc=5"
-        },
-        {
-          "outlet": "Telangana Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVVPZlZtOGM5bFV5ZDNONWEya1pvVWFGaFpCY1BFRnZaeWF3RGNnd0p0TDd3UUtWeW83d0tPTl83T1oyZDVLT3pCZGFndmFlSkpuRUE3OUpleDhRdko5aG5HdG11cW1GbGpNak9sdXJlTklMU0RsSU1EcjZNUWktRlU5OFpXdGtZTHdEOEpCYU82dnBlbmFGVmpmZ294bmQyb01xQ0FBbTRoLVZhSFgzWXBn?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Rahul Gandhi’s move to meet CJI ‘childish attempt’ to pressure judiciary: Bihar BJP chief. A politics-related story. Covered by The Hans India and Telangana Today.",
-      "image": "images/rahul-gandhi-s-move-to-meet-cji-childish-attempt-to-pressure.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-s-development-journey-got-new-speed-under-pm-modi-cm-s",
       "headline": "\"Bihar's development journey got new speed under PM Modi\": CM Samrat Choudhary lists state's gains over 25 years of Modi in public office - ANI News",
       "summary": "",
@@ -414,7 +481,7 @@
         {
           "outlet": "India TV Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcjU3X2dGNHdxYlFabWZ3Q19iRXQ2aU16UHVQd3JfaTJ4UDJLX19abFp5N29tV29WRU1ObVdEOW00UXd6dHlaNnd6ZGZaZlZaWHZwRXZ5eHFKb0UxS3ZjSF8wWVd4WElmUEo0VnR0bWFfazlTWF9lelNnbEFiTmxxeUh5NkhtdmMtUFFvNldwM0tQVUo2dmRTVVpiVFQ4UktIcjh1WXotd1RCeVpmVmtudFhlUDA1Ti0tV0ZNdEtERHBtT0FGUFQ0M1dDTExwc1ZDNmRBTllDTzRaZGcweGZhZm4tZWs4VHNH0gHuAUFVX3lxTE1tcFlBU1J0Tzd2S2dHRy1kWEI2YmF1ZUFhNVFHdk5rRTItMFBQdldfdnNQQklXQnFBSmdlZ3F6Vk1kazVMamJTa21ISlI4bkV3OTg1aHlxcmtrZ3pTU0JQd3VDTFNnZUt6MWtIdXVKNEZDclZ4Z1JWWV9RYzl4ZGVvMGRHVlZ3MFlTMFhuckxxMjZpTVBTOHRFZnNYdHg5QndBNDF5Zmk4LWRwQ3lWWjlRT29rRDY3VDB2eFhiQ1JmSTVzRm1jTTNsWGMyLVF3WnJqZ0czTGdpWU40RDAyZi1Qb0F1a3ptRkIxMjgtemc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbXBZQVNSdE83dktnR0ctZFhCNmJhdWVBYTVRR3ZOa0UyLTBQUHZXX3ZzUEJJV0JxQUpnZWdxelZNZGs1TGpiU2ttSEpSOG5Fdzk4NWh5cXJra2d6U1NCUHd1Q0xTZ2VLejFrSHV1SjRGQ3JWeGdSVllfUWM5eGRlbzBkR1ZWdzBZUzBYbnJMcTI2aU1QUzh0RWZzWHR4OUJ3QTQxeWZpOC1kcEN5Vlo5UU9va0Q2N1QwdnhYYkNSZkk1c0ZtY00zbFhjMi1Rd1pyamdHM0xnaVlONEQwMmYtUG9BdWt6bUZCMTI4LXpn0gHuAUFVX3lxTE1tcFlBU1J0Tzd2S2dHRy1kWEI2YmF1ZUFhNVFHdk5rRTItMFBQdldfdnNQQklXQnFBSmdlZ3F6Vk1kazVMamJTa21ISlI4bkV3OTg1aHlxcmtrZ3pTU0JQd3VDTFNnZUt6MWtIdXVKNEZDclZ4Z1JWWV9RYzl4ZGVvMGRHVlZ3MFlTMFhuckxxMjZpTVBTOHRFZnNYdHg5QndBNDF5Zmk4LWRwQ3lWWjlRT29rRDY3VDB2eFhiQ1JmSTVzRm1jTTNsWGMyLVF3WnJqZ0czTGdpWU40RDAyZi1Qb0F1a3ptRkIxMjgtemc?oc=5"
         }
       ],
       "source_count": 2,
