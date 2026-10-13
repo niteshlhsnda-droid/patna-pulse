@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13 04:35 UTC",
-  "generated_at_ist": "13 Oct 2026, 10:05 AM IST",
-  "story_count": 47,
+  "generated_at": "2026-10-13 05:35 UTC",
+  "generated_at_ist": "13 Oct 2026, 11:05 AM IST",
+  "story_count": 46,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -32,6 +32,34 @@
       "image_kind": "photo"
     },
     {
+      "id": "police-hit-him-on-the-head-dilshad-ansari-dies-in-bihar-cust",
+      "headline": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended - The Observer Post",
+      "summary": "",
+      "date": "2026-10-13",
+      "topics": [
+        "crime",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDl1MEN2VTgwanZCb0JFdTZuOWYtQ3J5WHNDUk5LQnE3MF9IbUVtRHlVTEZ3SVRuM283bTJhcU5iRmo4aFp4Ui1pYzM2cjdOTTc3QUpmME9VdEY1Y2FmdGVIbFpZa3pYckw1V3Z2Z2NHTzlkbmx0X2ZLcXVWSWtIenVzbzNNd3pnNnpVVUNPZl9iSjZNT2VxSFc4VUxSc1pIRTZSR1ZpS0FaalNwUTVoc2YzNnZtczhsaWN1c3VZQTVvYVdUS0ZiczBHeVdsUdIB0wFBVV95cUxNdUMwYTJGeVRpTUlmWTJBelRhWEZrNFQyWkJESkdMUHVMNU9hZTNwOE9LQk5yNjd2Y00yeW1idXlHcVEyTnAtYXozQ2hta1ViQkYtcENFNk1vdDhZRnRuSmNRNXh5OVJPUmNwODlrZWE1U3hGN3JCWkVRNS1uYnBLdkNyWTlvNWhsYThNdEZyRnh1eTdSOHdUTFc4OFRCNldzd2UxclZyeVgzZlNvWV9sZGNMRDRSUFVQVGVORFQzS0xFQkdxLWltcFVXU1ZySkw0RG5Z?oc=5"
+        },
+        {
+          "outlet": "The Observer Post",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTlzYkFJNG83RGZlcVV5VnhWVk11UlkxTHphMXB3TXpYNWpSRzVtRFR6RUVmZEVDUENRYmxhSUxwTmtSYS1IMmRILWNpQ2ZLOVJRV21VZFN5aW5tZ00tOHVXc09DakhPUVhQNzZrb0NQLVdlcWpvS1AwRzNMTmJCbEp2TUJPWURDOE9XTzVPXzVmZFdYTjctY1JBVy0yckZyaWlWWE9UZE9GSG5NczVyQQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended. A crime-related story. Covered by Hindustan Times and The Observer Post.",
+      "image": "images/police-hit-him-on-the-head-dilshad-ansari-dies-in-bihar-cust.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "bihar-flood-relief-crosses-rs-726-crore-as-cm-transfers-fres",
       "headline": "Bihar flood relief crosses Rs 726 crore as CM transfers fresh aid to 1.6 lakh families - prameyanews.com",
       "summary": "",
@@ -44,17 +72,17 @@
         {
           "outlet": "The Times of India",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdDg1NldoNklfUXVWYU8zRDhVa0RPTWdFNDFDbHJFNFZBU3NMZlFDYnI1WnBMNDNMRkRrbks3bURMLUFUakpMRXdweDBua2xXNHl5LU9IMl9Ia0poUjgyWklEbTVYeFhCSUN3akJrSlQxSzczNUUzUks3UHhyYTFYc3V5MkJ4dUQ0QWRpRzVuSDlxN195RDh2UEs2ekoteks0QnVQd0xUMEtSQVEzUmM4bHM5RDFrX1V4aEHSAb8BQVVfeXFMTWtoTEVjRnJ2a3pLWHhQMjdJM2JKQnpZUXF1aVhncnlqdW4yV1lHY0JnSHdmZ0RkeFFtTWE3WEJuR1lDaUtteHE0LWhReDUtY3drM3dybUFMRk9PaUtxSnhXX05vZzFiTXdNSFowSVhuOGlsNVV4aHZfc24zUi1sbEg0ODcxQVdhcGxlTkhVa2VCQTIwMzVURFctdFJyWDN1Y09KS3owWk0zNDl1UFFPTUlsVE9sUExVZVZYRXRQdDA?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0V3dUhfdFh2M0dCWnpjWXFkbXBJUzV3LUY3cUh3NEdJSjFXeHVJOEt1bHlTU0stdTViVHR4dnJGd1Q1QmJ4U042QjdDcnNNT25iM0c5ZWdMcjhPTTNQRlBzUU4zNEFDdHpTbHpzOGNJU0tYcDZkNWUwVDZWN2gtMVRoaU5GSUhfZDZtek83OVdrRnJjV3I3UWlQUDdjcm0yZGNRcFpMWXJ4d3NNQzY2Zkw0NWY0QzJMMTh1N9IBwgFBVV95cUxQNlcyY2o0NkRmNm9COEVCeV94cHQxWVNxaUdnejNtbDQ3YUduR3RBdzhaS1JSaWZyeTJSWkZ0Y1B4TFlkMTVXQXdjRk1IME5hTHhiWWhYcjhJMUhvSWdXbFBjZ0hodDZaZWNWd1RmdnVZakxvSVBhOVZwOHU5SkE2SzAyeG5fOS0yMG1POHAwSXNCN2tLejJpNlFFSGtJVllmUU8zdjBDNmQ5Tlo5dnd6WkotVGUyUjRLMnNLS3VxdlVmZw?oc=5"
         },
         {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzFzR0ZfV0dROXlEdmx6Y0dkMWVOd0RLcW1hd1JMYVg2eEl6cG1OUk9lQ1VLXy1lcHpPUUlGSGF2UkdvYnNGTVFUTUt3b1VjeVhBd1Q2YXAxY2kxNGpDSVFMX0lEMkdTLWlza0Z4Y1dMUHl3SndvZGZWdVVOMGZMV0ZXdGZ2Z1ppSFcxTFFZWHQ0c2xwNEhnR3VhT29NR0o0Z3J1eExQTWZCRlXSAbABQVVfeXFMTzJOdUNFUDRNNXpzN19mVzdOVy1wZm5hdHZUdkdla2ozQlhMRTlUeFJ1dzFtbnVDUzJvdTVEV1pUUkhTQjlTaXpTc2NZMEFOeGZXcFRVRTZYSnI3eHpZU0JiMmNtNEhkX081LTRRdnJkUmstSWctT3dFcFV5ejc4OEZkTnZhS2pVX2lHV29PNllDXzZZWFdsdlRNZnRJNlMzN0o3ZmYyOE8xX0hLdk9wbC0?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdDg1NldoNklfUXVWYU8zRDhVa0RPTWdFNDFDbHJFNFZBU3NMZlFDYnI1WnBMNDNMRkRrbks3bURMLUFUakpMRXdweDBua2xXNHl5LU9IMl9Ia0poUjgyWklEbTVYeFhCSUN3akJrSlQxSzczNUUzUks3UHhyYTFYc3V5MkJ4dUQ0QWRpRzVuSDlxN195RDh2UEs2ekoteks0QnVQd0xUMEtSQVEzUmM4bHM5RDFrX1V4aEHSAb8BQVVfeXFMTWtoTEVjRnJ2a3pLWHhQMjdJM2JKQnpZUXF1aVhncnlqdW4yV1lHY0JnSHdmZ0RkeFFtTWE3WEJuR1lDaUtteHE0LWhReDUtY3drM3dybUFMRk9PaUtxSnhXX05vZzFiTXdNSFowSVhuOGlsNVV4aHZfc24zUi1sbEg0ODcxQVdhcGxlTkhVa2VCQTIwMzVURFctdFJyWDN1Y09KS3owWk0zNDl1UFFPTUlsVE9sUExVZVZYRXRQdDA?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -77,6 +105,34 @@
       "genuineness_label": "Verified",
       "brief": "Bihar flood relief crosses Rs 726 crore as CM transfers fresh aid to 1.6 lakh families - prameyanews.com. A civic-infrastructure story. Covered by 3 outlets, including The Times of India and The News Mill.",
       "image": "images/bihar-flood-relief-crosses-rs-726-crore-as-cm-transfers-fres.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "gurmeet-choudhary-to-begin-tum-mere-ho-promotions-in-patna-a",
+      "headline": "Gurmeet Choudhary to begin Tum Mere Ho promotions in Patna; actor returns to hometown for his first film as producer - Bollywood Hungama",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "crime",
+        "entertainment"
+      ],
+      "sources": [
+        {
+          "outlet": "Bollywood Bubble",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRFdWQVZXT1NGMF9SR0lKRHY3V0d5cWFKdDcyalZIOTduOVVLZzNIdzMzWm1QV0xVN1JlTkxvd1FSSHpmUlFxWkg0eVRvSEVFLXAyYTIyY0RicjdiV3ZNU1VoazdUZWJVZWhyN2RjT2ZwZGtWeGtwRW56amdCUENySGVQTWxlOUhEMkhhaWRJbnRMMVowaElFNVdMbE1KWmhaZ2cyZi1vTS1pbnBLb3pHYVQ0QW5ZeEtZM3JBb1ZGQktBU3Z0bDVPeWVXZTE4T2dQSnZ2U25RTVJBLU9nWU1ra2lUVlFiRVU?oc=5"
+        },
+        {
+          "outlet": "Bollywood Hungama",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR0wwWUp5Ym02Sks1bEZfQVVaNkM2VmtIM1ZqNUdFZTZLanpiSTBWVzVzak9LR1JjVEg0V3BYV19pbTRuSk52SlpqX3NvaFdmT3hwcVN2ZFFfZ1ZGQnZCUUJqN3JtNzZYTnM1cVY4TDNYaFZ6elEyWDh2cDFsbFJyUzdYVTg0RXBaeS1XMEtwMjdXTTJQb0dVb3I4bDZKenpYbzJNOUNPTWhuTFhwdTNqRVpHLUtoVmhfQW04M09YMFBnYU14Y0duenJQQTl2dTRBNDJUWUFuVldYVVBiNUxWd3BNcEotc3NOZXRZYUhXOWJ0X01CaWfSAfsBQVVfeXFMUF9sUEphN2IyNlA3NWR4VUI5eUdkOFZBMVB3ZnJ2SGFybUQwYVpOR2MyNGotTkpxQU51Yk1aYXpWZVdEdmF2QUEwRHFKd1Y4dWhLOEVFOGVrUXkxMGlRTWktcWxkLVgwS0RrRy1vN2FQMnY3SFZfbEhHY0RDUkVIM3ZtazNYUzc3a2FlNWpsdGVUWGJ1VFVZX0Y0RV9CTGllZXRnbkdPeG9oUzBIY0k3QVhGaVVJaU1KM2tRTE9RamVWdTVjY3FjMzhwZ3RyZk1mXzJhanY0ZElGbVlLUUNEeTFuekhXSkxMQXJPXzdtdU1yYjN6WU83b1BZekk?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Gurmeet Choudhary to begin Tum Mere Ho promotions in Patna; actor returns to hometown for his first film as producer. A crime-related story. Covered by Bollywood Bubble and Bollywood Hungama.",
+      "image": "images/gurmeet-choudhary-to-begin-tum-mere-ho-promotions-in-patna-a.jpg",
       "image_kind": "photo"
     },
     {
@@ -141,11 +197,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMEpuRWFScEE1VGFTTjNDdEFncEdxMURNQ29TQkhXMGdVVUFlbnhvUVNOS2NnMDBjMHlnV0tOWUYtWUcxY09OMklxSTFEdWpPSVpkQ2NxbnEzY2ktM2YxaU5xUVl6czdTYVJHQVNOUGlPYTFDZ1Q2YXE1dTVVbEFDdmk2aEVjTWZfTlBFMTZBY0I3cTZ4Z1BWV2hrVGxoWkFWcUHSAaYBQVVfeXFMT2ZqcGpGbFBZdVM1cl9QemZIclhVY29XQVA5d3U4RHNXU29KMHFkSWNXcmZSbjEyYXhDXzRKNk5wQlRHNkRQUnRBY3JKSFF2Y2VzYmlxcXJBSTBYcWhRWjVOUDlUVzY2MXB1N1RIZmxCa3RwV2FXU3RLTkhhc3c0SFR4dWNudUEzdHlzcHFNMGZRZDA3RWhRcFlzWWJINzV1SnB6cW1tQQ?oc=5"
         },
         {
-          "outlet": "Business Standard",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXJ3cC1lODFxU1pLcFRGMDNrOWc2S1U5Y3ItaGRrOU1CeS1xdG84aGthTHdWd1Jsbll3bmo5VUJFSkE0ZURYaWM0NDNhalQzTEFzblFGbnJwOTBJRUJ3ZFRrSDk4cjhBTUFyM0ZBN1ZVVWZIQ2dUOG5TMm5qc0hnRzlVUWJOdDdjaHVPZGFLZmVwSFl4M3lNUTJ3OTNvYUc3ejdNOVNIbGZGTU1FX0tpa2ZrbDlRVU9meWt3eGlzSjFzbmRKcUxMSzlkSnV2d9IB0wFBVV95cUxNQ19iaEJWanVIejNCSlJNRUhFNkVnVWp0Y1BINm1rSU5xaUw4MndRSm9ZNlBBUEM4ZlVuOUJiSjhwbm1KTkNwMlMwWWkteFR2QktLYlg1cnJiNWU4Mkt4RERWSGlBTlNTc1lhS0swLW5FcGJRTnFIbGp0T3JzVy1OWlpNUDFndURZWFZnTUx5QnBXN0JqSG9LYm5JOVB0ZGFXUi1mLW1sZGd1WkEzRWZKU3J6b0wxMXhoSURNdTJLajJyclVYeVc4WmNLSEJqYlAtakNr?oc=5"
-        },
-        {
           "outlet": "Livemint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWFtcXBFZk5QVHJXeTltN2dwcTVGWnRQQ21IMWxHV0pqeG1WQVEwc1duVWhZUzBOeHZXR0tDM2FtTGVYa00zVEVuVDRTa1c3NFhhLVFXS0hDVFlETTdwVGs2TTcyU3BSQjVkZXVnUjNhbWc4dkxDLW8wRzBIMmhoOU95WGJBaFdSejlycG5NSUN0aWtBcWlPcXM0Nm9YWWsxRnEzWWVORnJRZEtKdy05RzdLQmtwcEpUMU1LaTNyVULSAcYBQVVfeXFMUG5QYzV4U0kzSkx2QVgwSHFJU25IcjRSWTdvdGRISnhkRkVjQVZDLUE5anUwQW9laXpWTGlidDA1bUFxTlZkZUs2Q1ZiMnBNOVN6bnV5c04tMXpibFJPR1NHUzV2a183d2dLUGZ5MmFPV3o3UU44MXgwNlZVSzFPRFdUcm8tSlc3a3AtWWQtWU9zWWRSNm9fWDdVRkRsa1pENF9OOGdtS2tzbjQzemdwZHBYYjBMQjlPQlpCNE1uUTB5OGNieW1n?oc=5"
@@ -156,9 +207,9 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWpRR0hfNW1DT19icDVuV25WX0pWVFpYcXBFSEd0d0xrX2tHS21xSGxwelY1d1hjXzNOVk1aZGwxaUxuWmZjaHNwZGlRQmRYeGdQYkM2YVlHaUZlQjI1ZHViZ0w4UjRIWFJ4OVc5ZnZfQmItOWMxdkFuN0FtN2NfOS1RcWMwSDJ3UDVGVlNFQnJSZGR5QXhJZGZIclhMblo0b3RNLWQwVElpUkFSS0Rsa1dpRQ?oc=5"
         },
         {
-          "outlet": "The Economic Times",
+          "outlet": "Verdictum",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRnJkZGQwUFRueU5Id1JzYmxIYWhDRmQ4SVdBLVl3NjZpY2xpT21Oc0N3eFo5UTcwNnk0X3BiRFlNS1VHa2xsVnRiOXJpRGFHYkxwTmRIcFRxeUQzV190dDd1OFk2VENITlZwZUpZSGFZQThTM3V2VnpKc3JzLUU3d1RjN0JEaG9VSjZhc1ZYdGNDb3hhLUQ1MGtZVEFBM1lFMzROQ2NCWGxIUHBnRTduU3pDSVE5QXl6akx5TU1heVFFbk5DdXN3U3NJbHI2bE5BNVdjUGx1QjdRQUhDclY1TzdyVnTSAeoBQVVfeXFMT256TXBlOUIzMjFCRzBHSmVfNjVzaHdxNmx1d3RZaHN5eFl5QnVZOWR2aVJfYlB6UXo4YjJDZkxzYUN6WkROdG5BMlhMSS1jdHZVX0wzVWJCcHA4ZkxfNjh4bzRyUUNfU0lmZ0xHekdMU0EzV2dUWEJ6Zm9MTU43dS11OWNqNlZnUUxreFFZN2xrUXllN2ItNG9oVE11cXhJX0x5c1JyMS1yVGhlMkh0UEZIcWJqYzBnZk9STkpsc05TY2NsUVpMcE9HRjFXWWtDWWhmU0JlakxYbXpPRzllTk56RDNfdUVfQjB3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hoOF9wUzZPaDlDcDB0TTloRDJfNFRrWFBNeDVNclRocWplUk9TSDJiTFczajJPVFZ4YXdOclNGSWRadHgyUTVLRVd6NGJPOW90OWZtUnhWTGNBQnFObHdIVDhhLWpyWEpVMjNCQ2FpM3hJemY4eDF1T2l6LVFtaEozUHl3cWVKc1Vydm9VRzAwcVF1V2JfSmxvT0J4OFpvMGxXaDdTeGM4Q3fSAbABQVVfeXFMUDhETWdfMmF2NmFIMFV2eTdaS29zVUwwMnIzalhUMVRSVVQ1d3VjRGFiLVFKaFlJZkFJUmRtb0ZSWGlCMVZrMHJfY080TG0yZi0zcVZsYlFfQkxaOTN1X3I3S3pCdzlhYUg2azNqcXVMY3JYYUJ4RHBTcHVkang2V1p6WlpHeUNNODlrREJWUjJ3cEhwckozWVVPMFYyeW5sMS0xQzN0QzJQRG1QTU1NTWQ?oc=5"
         },
         {
           "outlet": "Daily Pioneer",
@@ -166,10 +217,10 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM253QzNiaU01VG1lZGNqdWFIdWpYTEVBeHVEUDRIdVg3R3N0T3ZOQ2FVTG9nV1FWbGFZeTRVVUxBQjJya0VfM05mTnY3YTRKTmFOTGhuekNPbHIyWGJHWVI0NUtQd3Z6UTNWc3pLUWJUZEh0WGxzVWNwYkY2bks2MGtQckg4VV9Zc01iUWR2dVJLN0NrWTR5aw?oc=5"
         }
       ],
-      "source_count": 9,
+      "source_count": 8,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "New Form 6 neither approved nor rejected: Supreme Court clarifies stance, ‘When Bihar SIR judgment was delivered…’. Covered by 9 outlets, including The Times of India and India Today.",
+      "brief": "New Form 6 neither approved nor rejected: Supreme Court clarifies stance, ‘When Bihar SIR judgment was delivered…’. Covered by 8 outlets, including The Times of India and India Today.",
       "image": "images/new-form-6-neither-approved-nor-rejected-supreme-court-clari.jpg",
       "image_kind": "photo"
     },
@@ -215,20 +266,20 @@
       ],
       "sources": [
         {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUNTVGRBNVJnS3A4V1VJM3I5WUhPb2hSVkFoX3dTR1F0VVpLQzJKRFpvUVhYVW5HWTN2NV8wckJpMlpnSl9IR0JiTUxQWFpuY1ZSQ0xpX0Fmc2lvdlprZ09TVEVBeXA1dHVvc1pOdzZ3ZjFNUVlNNkRDMk5BZEsxcTNWWS0yMFN0YlBKSmlVUE1HczE1bzFpQWxsMlZkVUdxSlBISGNjS29vdGF2aExHQlppRXPSAbgBQVVfeXFMT295cHhoNjFMOUEwOE9CV2hzZk9QQnNzMVcwa2sybURuYlpDelNfNll1TFBVQjEyOTVJT3N6VGN3NnB5ZEQyTnlRVDNKSllRMVVLcl9tazlvRGotUklHZjg3UmMtaUxlaEp5Tk9UeFlzQUpRbzcwZE1LLTJ1bUY3VTRPcGNWNUh2aS1XQlpodmNRTVRWbzRzTWNHREVrYzNYaTJaZVp5ckk4TEtXU2R1QWlSLXZrWnVpRQ?oc=5"
-        },
-        {
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNVgxN3VDUTh6eGZoa0ZMQkhTa190ZUpCRFl4UzV5aDNwNEVrQ0FRbFgwMnNRT0VpcDFveV9EQWZMVU9pUmNhb1FhT0xHSHVkcTVyT1BBRzR6QUdfd0pTY2psc05sazBTWF9BNXZxYTh5NEZONmRZYWRiYXR0S2hxV1NfSk9FN1ZkUlpXTmxHMmhIbW9QWHpwQk1DZXJnQ05pOW5wRE9IY0RjazdZS1dNZk52eWhaZjkwUlhZeUlzODJUUUxSNEFmWFNYQUFXUUVCWFFFajEydXlZTGV5NmI2YU5oc0VTelRscTk4WmpVNA?oc=5"
+        },
+        {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUNTVGRBNVJnS3A4V1VJM3I5WUhPb2hSVkFoX3dTR1F0VVpLQzJKRFpvUVhYVW5HWTN2NV8wckJpMlpnSl9IR0JiTUxQWFpuY1ZSQ0xpX0Fmc2lvdlprZ09TVEVBeXA1dHVvc1pOdzZ3ZjFNUVlNNkRDMk5BZEsxcTNWWS0yMFN0YlBKSmlVUE1HczE1bzFpQWxsMlZkVUdxSlBISGNjS29vdGF2aExHQlppRXPSAbgBQVVfeXFMT295cHhoNjFMOUEwOE9CV2hzZk9QQnNzMVcwa2sybURuYlpDelNfNll1TFBVQjEyOTVJT3N6VGN3NnB5ZEQyTnlRVDNKSllRMVVLcl9tazlvRGotUklHZjg3UmMtaUxlaEp5Tk9UeFlzQUpRbzcwZE1LLTJ1bUY3VTRPcGNWNUh2aS1XQlpodmNRTVRWbzRzTWNHREVrYzNYaTJaZVp5ckk4TEtXU2R1QWlSLXZrWnVpRQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Six STF personnel injured in clash with drug smugglers in Bihars Araria, 3 arrested. A crime-related story. Covered by Daily Excelsior and Rediff.",
+      "brief": "Six STF personnel injured in clash with drug smugglers in Bihars Araria, 3 arrested. A crime-related story. Covered by Rediff and Daily Excelsior.",
       "image": "images/six-stf-personnel-injured-in-clash-with-drug-smugglers-in-bi.jpg",
       "image_kind": "photo"
     },
@@ -257,68 +308,6 @@
       "genuineness_label": "Corroborated",
       "brief": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir. A weather-related story. Covered by The Right News and News On AIR.",
       "image": "images/imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "ranji-trophy-kaushik-rinku-hit-unbeaten-tons-put-up-on-top-v",
-      "headline": "Ranji Trophy: Kaushik, Rinku hit unbeaten tons, put UP on top v Bihar | Hindustan Times - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-12",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1pESEtuWTZoYXFlYmhNcEh1VDN2LWhVWGdqSE9JZnVTaDJXRGp5ZXJlcXhVNm5CNU1wdFlrZ05ob0JHdURQSkIxSktjSXBPYUdoajJlbVZlMjcwYmI4WC1ZQ2hIZkVtY3pFRTItcThsRFk1NExfVnVpWklyU3dqX19wMDZJTVlEUWQ3blN2RVN0LU5TSFFZVnNqei1peTRDeGRiMlpUcDlaRXJtNUV5OHRuQ3N6M2dTTDlOeEt1d0liY0Y0MVJYQ2hIQWw4X0RGV1M4M092Q3dncFA2aVZRc9IB5gFBVV95cUxOVUh3eE8tU2pDVDZKUmpuaTBzdW5zQ3c1SU5JaDgtZENBN1puYkg0YzF5cnVxZXJRX3l3a3ZCLXpMTEs0ZDF6bFktUTJkUFQ0T2hhMXVNUEtKNi1uVHE3YkdjYUl1a254blpHRU9MS3BlbFZraFp0ZmRIbi1WbEJCT1haNm9Ba1F1TlVsUnZvRk5HM1lDM285Z2lqVmUyTTBhb0xPODdtQlYzQXFRc0RlMzFKYmVWUy1VX2NnQzZVa0lsa2NCWmZiTGxOR2x0Tmk3cXdjLVBqa2hZbkp3T0dBNkFHb19vUQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFpRWUlPTWlsaDFqcTFQSnl5MkxUWmowbG1GS0ZZYVgtQkVVZFJ5cVpwSGZvXzVRenlZSjdXNWZoOTc0Rm1JT0RBYldlVlo4SmFnWm1IX2JHVUlmYmt5R0RWakxfYkJ2WC1FQVV3alRJYkZHemZudWZmMjZNT0dIQkpKZV9EeHV0T2FZOEw1R2RwaGlZSzQ5ajdTOWlTMVlHVkw4TFVWQVVPbHc4SF9ENlpFZTA4TDZnWXIzX2FDVkFXWmloYlREYjhEcTVhUdIB0wFBVV95cUxQYlJmOUVaNVBrcXIzZWxnVjVseTFPclhzZG5vSjVzNWVNaDREZmdrOE5ybjFIenE5aUlaWHVQcl83ZVJuVzZBSW50WngySFNaSkticjNHT3RreXBoeWh2Mld6REZWNlBKZXRTaTVXcDJyVWo5Q1Y2ekJNYkdjaDlPQ2FRVmxSZ1dxbmdjeS0xTUh3S3dLY0lLSjFQeWlpUjJfSjM4WFpIMmNQcjZ6RHU2NDZpVHI0SXlSZU9zdFJxRng1LVIxZkd5UGxNMWRMMTNUMkxB?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR25KVzN5RHExOFJJUEhZMHhNdzU4X3VhQlRfbHBOaHdJR0tGOEUzbXN0UkMyWGFxWFZCTVdMV19ZUUFlMXNaU2R1ZjRGaXhOYVZ5T1ZmdWNlalZSUTVyeXBFTk1Qcy1heEF6MGNPQXhDTXdGNG9iMm1FX0FacjR4NmotNmtRZC1yTzItd1ZyUlFISHgzd2x5WGVCTmpZbm5ZUU1KV25GdkxlYlVsa1Nvem5ZRE1UNDFPU05rRlFUYU9ZdXdxaTA3d3p6MlRoX2pqLUZralNWQVVYZ2_SAeABQVVfeXFMTVFfbkRWd2xPeXBOdGpCUU0zSnlYMmdfWW5WaXVaNlNSTDgwcFVtX0FSUVdlbzNob3JuRTlMVVZQXzZkOFIxbTZUVXlmS1otSWlFSV9xbjFFclRzaFVlTXl1WFlUbG9JUmlSYVZ0dUlwT21ZdV8tV3ExS1NJaERXWjJIQVJuTjJDM29aQXM1bUdCbnVUWXVKRmRXcGV1VndnVkdCeE53cHQwX2tvb3hndFZSWlZiUXF5VHR2QVVQalBpcmlsaGpGVkhINWp4LUFUY0w3cDVFdVpIZzNXdk83RVo?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTThmcTNUX0xHd3laYURoMVFFa2t6QkhnSENRV0JLR29RMllZX3drXzV5cGdacnJMWmZBUEttd1VobFloamxmeWxWSHBkT0dhcUE5YVp2ZWgwZWxlTEZ5d19nOEJyVkliUTh6Zl9jLWNOVTZEa1ZUUXlRN2hGWGRfMnl4aUFtTnE2ZGVSaXlFQW4wRWZOSkVWWjV4VHl4WTlBWU9TOVM3dkJvVzd6bjRUNm1rN1JoeWd6a0M0MEtB0gHDAUFVX3lxTE5lcXAzUG1zLXpGcTFFUjNicEZxWUwxX0NjQzNzRG5lOExzSUhfeE9XZkhIc0RpckNnVkxlZk9BYnVhRERYeXdFbDllaGg0QkNtVTZwVDZhRmZzS3pYMHlYdUkwSGVia2FUUGZQOGg4VFNmVFJCOGRTS2lJaEQxQzVad1FVcUZ4TW9MejVwOUktWmU1TnQ2UGlqcXRPZVFicDlzb0xWZEpZbU9uSmNSYVREXzRKMlFyMnhpMXp0LXNJaFBNNA?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZF9BdlozM2g0bW1mOHRUXzNrOEUxRXJ3Sk9mNTdZa3BEUGJvUkpVUUJjTnV3YUd1NV81Z3V6OHJMcTFMWUdwZHlkN1pUb3F1MW12eWxRLXFHY2RlekpQcmVsNTJZbmlBU2IzeTBWUmNyMkZ1b0JGa0JtenRBU2FnanJJRFRzTUFyRWMwUC1HLXVNMjc1dWV0N0QycWlfWDJPaXIxdzlZX25EazB5bEZFaUFnbXRueE85cU5GdlhidDFra0swZzM4MzJkYU5OZVBTOFVubFhTd0VkdGlsRFZR0gHkAUFVX3lxTE9FdFk2dUhsek5WWUc0NzZPS05HU3dpQ1g2dkpRd2w5LW5kaHIwb011LXh0cXlUQVJ3Tk1BX2xGdUdFUGFmd3ZuSlNjNkl6eF9qTXJFUi1vZ3o3bnFXdzRyOTZjazhsX0ZuNTFhREYyYnoyeDBnTlhqQW9WZFA0a2ZDbmp2Wk1NeC14cDh3ZUNxaF9kbWVrRXJBLXBnYXZZT3dRX1BFeWNBVUhvel9VMW1QWnM1Z3p3Njc2eHNTTzJtQmhXYkpkbkJza1kyaHA1UjYyR2xEZ0RqaEpkYUYyLXhncm9YTA?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2NQNTlHMEZVckZHUlQwT05tQTdDVzFfNlVFbzdUbnpvY2QxVHBFb3ZCN3U1YXRhbE1MWmlZMnk3cWNWOWVlVnJzWWxoSXhrbi1DUjVla1c4UDJjUmVWb3c0YlJWQk9sWXhzdHNETF9STnBrcWF5NVlFRDVKQi01dkx5MHdTbGFvZkZvSXhWeTZxUjV0dXBwTlJ5UXZiNDhXX25Va2JGNGdQS1BSWi0yb2o4SmZyT1doeEVuc0lVNEVocVliNWctVWg4MWtrVUdkZ09YdmoyRmVUVzTSAeABQVVfeXFMTVJrTE4yY0ZRY21QVnFoQXBFTlZYNW9yVlVzNHlmNHBYYVBFdFRxMlpBeURxd2hKdHRMR3NtVXBEWnRGMHQ3WFBaUGlOMTRFWF9wZVp3cktfVW56bFVuQ09KNFd2U21JY2tiTTRZNVZudklCUlpvOVN6U3ZWVVBibmw0T2FFZENQdmI4MFVUZ3Ffc2xMWnZpdnRjTnIybk9Tc09ORHB6cnd3dzk5RlBWeHNwMjlGT0puSmtxYzIwTWRLOXlMdTBybVRUS1pMOXJ4LTJEek40MDA4UDZ6LWxEV1c?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb09qU0ZpYW53ellYZ3d6SGhwZWVULVk4UTEyVk41Z2lsS2Yya3RwR19lV2lEQVNUbTNQRHVYSnM1UTNrelJieno2aTBodVdkcDdZNFZEb3RERHpyeEd6TG9CRXB2SVRDYWp1TWpXRUZveElESnNKRHhtV0M3Z0xrV1pBSnF4WWplQWoxdTRQMnZOS3RLTGFqSnN3S3pqdlZtOVZULVZnZ3pHNlBVY1hYbms4SnNLQlRHS1YtWjE0ZnpUUVFpMm0yZ2g4T3FCVndQMmxuMNIB2gFBVV95cUxNY0VDcTBvZ05WLVJVVDUzVnJTczU5aVR4amRjS1RWcTZQeE1TM2gxY1dXRVFLbGtza1R4eGk0RGtHX0JfT0pocU0xc3Y0QzNyU0hUYlVPX3ZyZlFDeVVOenVONGRVRURDN3pOdU90SjUtQy1PZnhBYmdxX1MtaWJ2RmpqdE1fcTdudnA4RTVNQ1AzNzZzT3lmMkRmY1MtSzROclhiRjk2TmdsVHJCV0JBNkFGM2R4OVNQbW50T21lRHg3TDNSWW9yUnJ5dF9Sc205c21kbXlqNUlwdw?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkZscnptcXVialA5VzNwLUZERlJyc2R0bjBUZHlaanV0dUh2V2xVYlBDNmpBN0c2YkgzT1FWdXIwUWw5UjVvUGVkcFAtT0cyT1JhMjlfSlBUdW9VRTlQTUROLU0wVzNnM05lelYzMjR2Wks5V2Y2a3lWQXBGQWJSSXFXWWxfWmtYa0dTbFNMdlk4UHcwanptbkJBWmE5dy1sSV930gGoAUFVX3lxTE9USUlGRVdzRDhRNlZiN012YlRMNEJKQnVDY29QTHBQTHVqY0ZvYUtwT05hY0xvZF9xMHlyVmpLZ2lOSkJFTmZlN3pwVFhTakhtaV9NY0NsbDdDSC1RYUtTVEkwVGJfUjU2akQxNUJHYXdIUmdjUDZlRGtuQW02NlN2WHNyQkhmQWR5VW9BdW1FQmI4RUxDNm41YzMxa3ZjalhLWm5sOU9WWg?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ18teURxMWtQR0VwdTgzRjZDcHpFVlNKTVE5NlRYaG1KT1MwWms4cEhMclVmTm4tVk1DaENmcmswY0drZmpiM2xVT3ZTX0RvUVFTQnRCZElGLUdLU0VWdXI1OUJCdGMxZURKTVBFcmpua1NuZGtBV0FzTDFqcVFTeVo5UGRxUDlvM2xpQXluZDJvblJzYTdtVldRaXd6bVVlTTVRMUJJMW1INnpNN0NGcG12c1R4eGFUMVNWUDVlU05vOUXSAcgBQVVfeXFMUGdObVpybDF6UGJXNWdMbDlHdXJhS2RvTnRPQ2NIc3B3WWItbkJCU2Q1N2NjcWwyRUVSN3BQWlRpNjc0ZmY0VHRueXl6VTdUQmZTTHZKU3hnQlpybER5MnRPUE5lYml2OEFKQnVPaWtiaElWX3ZGRW5rb0N4UTYwS1dEMVpqdy1IWG9OZ1psaXh0cGl4dFJRRTM2bDNhVGhPUWZJeXFIb1N6RDFSNGxmR3FVLTk5S21zM0RKM2RsbmFCWTM3TFR1RTY?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Ranji Trophy: Kaushik, Rinku hit unbeaten tons, put UP on top v Bihar. Covered by The Times of India and Hindustan Times.",
-      "image": "images/ranji-trophy-kaushik-rinku-hit-unbeaten-tons-put-up-on-top-v.jpg",
       "image_kind": "photo"
     },
     {
@@ -392,7 +381,7 @@
         {
           "outlet": "India TV Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcjU3X2dGNHdxYlFabWZ3Q19iRXQ2aU16UHVQd3JfaTJ4UDJLX19abFp5N29tV29WRU1ObVdEOW00UXd6dHlaNnd6ZGZaZlZaWHZwRXZ5eHFKb0UxS3ZjSF8wWVd4WElmUEo0VnR0bWFfazlTWF9lelNnbEFiTmxxeUh5NkhtdmMtUFFvNldwM0tQVUo2dmRTVVpiVFQ4UktIcjh1WXotd1RCeVpmVmtudFhlUDA1Ti0tV0ZNdEtERHBtT0FGUFQ0M1dDTExwc1ZDNmRBTllDTzRaZGcweGZhZm4tZWs4VHNH0gHuAUFVX3lxTE1tcFlBU1J0Tzd2S2dHRy1kWEI2YmF1ZUFhNVFHdk5rRTItMFBQdldfdnNQQklXQnFBSmdlZ3F6Vk1kazVMamJTa21ISlI4bkV3OTg1aHlxcmtrZ3pTU0JQd3VDTFNnZUt6MWtIdXVKNEZDclZ4Z1JWWV9RYzl4ZGVvMGRHVlZ3MFlTMFhuckxxMjZpTVBTOHRFZnNYdHg5QndBNDF5Zmk4LWRwQ3lWWjlRT29rRDY3VDB2eFhiQ1JmSTVzRm1jTTNsWGMyLVF3WnJqZ0czTGdpWU40RDAyZi1Qb0F1a3ptRkIxMjgtemc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbXBZQVNSdE83dktnR0ctZFhCNmJhdWVBYTVRR3ZOa0UyLTBQUHZXX3ZzUEJJV0JxQUpnZWdxelZNZGs1TGpiU2ttSEpSOG5Fdzk4NWh5cXJra2d6U1NCUHd1Q0xTZ2VLejFrSHV1SjRGQ3JWeGdSVllfUWM5eGRlbzBkR1ZWdzBZUzBYbnJMcTI2aU1QUzh0RWZzWHR4OUJ3QTQxeWZpOC1kcEN5Vlo5UU9va0Q2N1QwdnhYYkNSZkk1c0ZtY00zbFhjMi1Rd1pyamdHM0xnaVlONEQwMmYtUG9BdWt6bUZCMTI4LXpn0gHuAUFVX3lxTE1tcFlBU1J0Tzd2S2dHRy1kWEI2YmF1ZUFhNVFHdk5rRTItMFBQdldfdnNQQklXQnFBSmdlZ3F6Vk1kazVMamJTa21ISlI4bkV3OTg1aHlxcmtrZ3pTU0JQd3VDTFNnZUt6MWtIdXVKNEZDclZ4Z1JWWV9RYzl4ZGVvMGRHVlZ3MFlTMFhuckxxMjZpTVBTOHRFZnNYdHg5QndBNDF5Zmk4LWRwQ3lWWjlRT29rRDY3VDB2eFhiQ1JmSTVzRm1jTTNsWGMyLVF3WnJqZ0czTGdpWU40RDAyZi1Qb0F1a3ptRkIxMjgtemc?oc=5"
         }
       ],
       "source_count": 2,
@@ -465,60 +454,6 @@
       "genuineness_label": "Corroborated",
       "brief": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ. A politics-related story. Covered by Careers360 and The Times of India.",
       "image": "images/jd-women-s-college-teachers-protest-mata-sita-university-aff.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "no-major-impact-expected-at-bihar-barrage-from-nepal-flash-f",
-      "headline": "No major impact expected at Bihar barrage from Nepal flash flood: Deputy CM - ThePrint",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQS1FbEVZQTIwRllaZ0F5c0plUVZaVDNQbTI4SG5jejQyVmlyX3d3Q0tiU1lzR0RqTjdESG45Xy1EX3cwazh4UTdEWWE1Nk9ERTNGaTFwbGdNTjdWdG1oNVNvXzlZekdtSXYxbFdMak9YaHJwMlZxT1hRZDZJNzF3SlFRTWpkVnZYREp2QUhuNDdLTmx1NmJEWVlZOHp1ZUZIX09rVXBkYkRiS29Hb2ktX0ttNV9YY0x0MzVmb1ZCWWQwN2pfX0JIRU9EUF9CZnIwMDFia19mZjd6cFF6LVFITU1GUVQ1c29IYjVUZUJoSQ?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjlOckhvdVlGOEFfNzNMQWFXSlVKRVBKZmt4cjVyRjBabWpSWlRxOHhLMmtIV1RuYkdrdFMwYlRGWjUtUHNsYVo3eU5zWE1vZ3BSek9TSi1YaU5GdW9HVUhneWtpUUp1c0JzSDZGZ0pRdkpOQmw3cTJySWRzWU5jOHotd1hVVVkxdllSZndnSUtNVFFyU0thUTlNLWhpS21WTm9ELU1lR3d2WC1SVXfSAbMBQVVfeXFMTmpMZThZZXNxTi02RlkxZ1ZCSElFLWE0eTl6UDdlLUEyc1k2ZS01MFlHcjM2VF9RYlAxWk00Y2MwUGFNZmJqdENuMjNCZEoyTjdkaTc4SS1ZcW50TmtHX0tjYnpOMTNadkpKbmk3eHA0RjJfZG5aTmhrSHpQbEtIWE9rREIzNm1GaGJvSlA5SVdPWF93SXdXaVBkZC1McnQ1ZUE5WFpGaWhNLUg4eTQ2OUdsOXM?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "No major impact expected at Bihar barrage from Nepal flash flood: Deputy CM. A civic-infrastructure story. Covered by Rediff and ThePrint.",
-      "image": "images/no-major-impact-expected-at-bihar-barrage-from-nepal-flash-f.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-lucknow-indigo-flight-s-nose-suffers-damage-lightning-",
-      "headline": "Patna-Lucknow IndiGo flight’s nose suffers damage, lightning strike among suspected causes | India News - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-07",
-      "topics": [
-        "weather"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT3d3QzZxRFJvdXdmN25KSXc1SFZ3eUxudkg4ckxGSzlDRWJDamVPQ2RYaUhDZ1ppZ0lfLUdXdVFJbE1WbGlnSFBSZFdWWjVLNnFTTmxJcG5mRWhFMjRTVUREWFAyRUdUVmVRczk2RmVHMmZhZVBLRHBYOWJnSF9iSEtvZTY2ZDdZZ0l6aVpVU0RJZzJ1eHN0TUZ1WjQ0RExDb3hCSWdnemRCTlJLOGlSTjRfU3BBbEh0Y0oybUQ2WlltQzFEVEJnMDlIeVdQMWxHcGdSRU9acDdRM0FSMzFlUEk0M2pQX3NvLTladNIB8gFBVV95cUxNbVBJdjZ5aHlFMkhBcmdBdXM0aFJNSjVNVU56MmlvQnRaMnhtSjQ2RnBaN28tN1hGRWNmdC1CekVYVWk2bGZ1aTFNWThGVHZpQkJKd01xS0Z0eDBkNnQ4eUFjTGFRdExWYmxuN3k0Z183VzN1TnZTeldwcFU4OEdScmNCMlo0cFpPdjdEczVhWkdtbmNXQTRvNG9tbVI2SF9hT2I2VHg4SFZaSjNlR3pjcHpwRXRPai1tOFJGR2h5cUZXZmEyenllbm84OGtldnI3WjA1OFFLY1FnWHRqSkpHR0tIU0JjS3cwTkY0UnRHQTZ5dw?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ2o0bVJCb05jSEhaNFFmQXEzUENFWWs0akNQckdkYnVpS05STGlPcVZRQzkwSzRVd01aZFRnWkh3SDRRODI5SHRJMFh2TElOSTkxQW1YVU9KNjBnV2QzVnotdUdBV29XeFNiVDNUNnZmOWZWVnhGcWpSdjhtM2xvVW04V01fa1JucEktM2NkWW1mTXpOT0MzblNvNTFXZWIxa09LOUJRbHFiUi1odHZXamNFWkMyME9YZ0JhQlhoWG9nWU9ZQkRGWmxDQnk2alhVazQwaDkza19qRm9nWlFfRDg2QjlxeVdZTkVtalRDOHHSAfYBQVVfeXFMTm56MVllQXIzUXBneWtFeEwyaG5uZVE4bDQwZ1FGdXRGSXF6anU5clBKdkNnTEZBb25qV0FzT1NNNWRzZW94ZkpTMVRKRnVTTE15NUdKWnFpMWFCM3FLR08zQ0VIcDNvbFhud3k2aTFjT1lZQTFOYWs0QVpwWDk5TXVTNTZGX1Z4SUR2SVZkd18zWHNUY2M4djA2bUNUeDlyTUN2eDFkMTBpeWhiR0E3dUZrMEFPSEltSjlpSXZGa3VBZkJIbzlCU3dHa2hmUkY0OVpGVWlUcjhodFNaX3U5a3lfV2NndlpwanBBdnE3R0huLVo3aGpn?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna-Lucknow IndiGo flight’s nose suffers damage, lightning strike among suspected causes. A weather-related story. Covered by Hindustan Times and India Today.",
-      "image": "images/patna-lucknow-indigo-flight-s-nose-suffers-damage-lightning-.jpg",
       "image_kind": "photo"
     },
     {
