@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13 05:35 UTC",
-  "generated_at_ist": "13 Oct 2026, 11:05 AM IST",
+  "generated_at": "2026-10-13 06:35 UTC",
+  "generated_at_ist": "13 Oct 2026, 12:05 PM IST",
   "story_count": 46,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -57,7 +57,7 @@
       "genuineness_label": "Corroborated",
       "brief": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended. A crime-related story. Covered by Hindustan Times and The Observer Post.",
       "image": "images/police-hit-him-on-the-head-dilshad-ansari-dies-in-bihar-cust.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihar-flood-relief-crosses-rs-726-crore-as-cm-transfers-fres",
@@ -108,6 +108,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "patna-metro-cm-samrat-choudhary-directs-officials-to-complet",
+      "headline": "Patna Metro: CM Samrat Choudhary Directs Officials to Complete Project by 2028 - Metro Rail News",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdEtEOEZHX1FwSmVZVllVcXJtLU1aU0NSOFRPMlJzbGgzVFJfc2ZWNDljSkktYk94aEZxMFVhbld2Sy1LdnlOS0t3WVFtQUt4NDg2Ti0xZnJud0d6ZDVwUXBRNlBaeFEwV0c1Rk5ibWJUMU1GZHBnVm5aWG5YQ0ZlT3ZWR0ZQcWh3dFM0ZzNPNVFvM3UtUUJKLTByNnlCWlJsWmE1dGQ5Y0pHLTdqdVZLcUJhbWJORlc0WVZxZnVyV19FRGgwcmV0V0dMMDVma0HSAdQBQVVfeXFMT2hGWHBNd0hXMktpeDc1aWppT0pzQVVWV0lHMmRLQzcxLWhuZkVqc1VLY01ZQklMQk1mQ2hucDhUMXZaOFZGOXZldkNkaWZrQVVaeWpHMzZOQlBBVkkzS3ZJcWZwczJMMlVHeXQ4eWNFa0d3SXlQTjlkdzhnTnZXdUtPZ0ozRFAtbmlPUDYwdF93OU5QdVpudWFPdy1BRHU1bEFyTmRlOHZkdl9xOTFGOWxKQ0F2Q29kV1ladWRmRXVyZFRrMkZtYXpKUEhTbnVSYWluSm4?oc=5"
+        },
+        {
+          "outlet": "Metro Rail News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3bzdTWHprQnl6c3doQ1p1ckVuT0o4TlZoajJrRk8wWkt5LU1DZWU1bjdPNVdoTjNLQUlhZG1XeVpnWXVsbE1YdHdwMllmSmhWem1zeE12ZnZPOFYxcXJMcmFHRERBTGtrc3RBdlNuT1p4QjBZV0k4UVkyTHdmUQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna Metro: CM Samrat Choudhary Directs Officials to Complete Project by 2028. Covered by The Times of India and Metro Rail News.",
+      "image": "images/patna-metro-cm-samrat-choudhary-directs-officials-to-complet.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "gurmeet-choudhary-to-begin-tum-mere-ho-promotions-in-patna-a",
       "headline": "Gurmeet Choudhary to begin Tum Mere Ho promotions in Patna; actor returns to hometown for his first film as producer - Bollywood Hungama",
       "summary": "",
@@ -136,33 +163,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "patna-metro-cm-samrat-choudhary-directs-officials-to-complet",
-      "headline": "Patna Metro: CM Samrat Choudhary Directs Officials to Complete Project by 2028 - Metro Rail News",
-      "summary": "",
-      "date": "2026-10-12",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdEtEOEZHX1FwSmVZVllVcXJtLU1aU0NSOFRPMlJzbGgzVFJfc2ZWNDljSkktYk94aEZxMFVhbld2Sy1LdnlOS0t3WVFtQUt4NDg2Ti0xZnJud0d6ZDVwUXBRNlBaeFEwV0c1Rk5ibWJUMU1GZHBnVm5aWG5YQ0ZlT3ZWR0ZQcWh3dFM0ZzNPNVFvM3UtUUJKLTByNnlCWlJsWmE1dGQ5Y0pHLTdqdVZLcUJhbWJORlc0WVZxZnVyV19FRGgwcmV0V0dMMDVma0HSAdQBQVVfeXFMT2hGWHBNd0hXMktpeDc1aWppT0pzQVVWV0lHMmRLQzcxLWhuZkVqc1VLY01ZQklMQk1mQ2hucDhUMXZaOFZGOXZldkNkaWZrQVVaeWpHMzZOQlBBVkkzS3ZJcWZwczJMMlVHeXQ4eWNFa0d3SXlQTjlkdzhnTnZXdUtPZ0ozRFAtbmlPUDYwdF93OU5QdVpudWFPdy1BRHU1bEFyTmRlOHZkdl9xOTFGOWxKQ0F2Q29kV1ladWRmRXVyZFRrMkZtYXpKUEhTbnVSYWluSm4?oc=5"
-        },
-        {
-          "outlet": "Metro Rail News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3bzdTWHprQnl6c3doQ1p1ckVuT0o4TlZoajJrRk8wWkt5LU1DZWU1bjdPNVdoTjNLQUlhZG1XeVpnWXVsbE1YdHdwMllmSmhWem1zeE12ZnZPOFYxcXJMcmFHRERBTGtrc3RBdlNuT1p4QjBZV0k4UVkyTHdmUQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna Metro: CM Samrat Choudhary Directs Officials to Complete Project by 2028. Covered by The Times of India and Metro Rail News.",
-      "image": "images/patna-metro-cm-samrat-choudhary-directs-officials-to-complet.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "new-form-6-neither-approved-nor-rejected-supreme-court-clari",
       "headline": "New Form 6 neither approved nor rejected: Supreme Court clarifies stance, ‘When Bihar SIR judgment was delivered…’ - Livemint",
       "summary": "",
@@ -182,11 +182,6 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1Nzc3NsZ0VXeERNRmFnT1h0UW5iWWNkNjYyNUZwRkl2RGFmR2ZlMExaajZHNXFJckZJX0JHdFB6b0d1SnJ5cW9LcWUxUzhhME9Rb0dGeDZ0NmI2YndWZ3FHdjRLemRMMWZCWHZyeW5UaWYtbjNWdVZLRTloVlRUa2dERXYxa0IyWjc3T1R1eVY0TnNQajU1RGlSRGdhVmx4ak53X1NmQjlITDFMSlN3SkRjSUprU2RJWmNCcEc5SmbSAcYBQVVfeXFMTU9ZdjMyZWZHZmwwRS1PVVFfRzV4Mk9BR2Jndk4yenA2b21RekR6cWRBdEtXeExsbWpTTXp5dGdQVEY4cndILUh4TF93bm9aSTh1dzBxRGR2WnlyaG9xcHp4eUcybS03R0tQUUZ2dlY3OVEyQlYwOUJQR1J2V2lISjlST1lRbm5QbzBob0tDU01YcHUzdi1NRW1LbzRYeVItMTcycUFjRjliTVNnTlNFQVBYSGFoYldPUEY4YkZBQXlkZnk5dTdn?oc=5"
         },
         {
-          "outlet": "The Tribune",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2dCWDZlb2FQWE0tLVRvQU1aSzk5Mkt6QmRNT0hOS0VHVThfQlhHckdPSFdob3N0aFdNLW05R1BKb2JlbzJWenh2RS14OS16T0pTLVVkMGpNdXI4QXNwRHl2U2JNRVZqVFdPWHVvdjJLeWI5SzVBUWpfYnhpQmdzYndMdEp4Y2Y2WG1odVA3d2VwYUN5b184Tlg5d1lqYlhUUFJ1cC1UcFbSAawBQVVfeXFMT0N1MnJla3lkMjF5XzAwQWxCNWxTLTg5Y21nU0JjWWRSeDhPMVZBbGNGc3hfclJieWpjWHBwTFhIbzBDaVZ2UFRjWTdnOTJoeXQzSHpIUEVzYzAxbms5aVQxNGYtMkdEQW13NVhIeUJGeVFFdlN0d0V4bkxaQWs0YzBpNnRGeTJMMEZtZVoySHVlUi1oZTVWR255SkdPSVpEQm40cDFpZmJPT3lmWg?oc=5"
-        },
-        {
           "outlet": "Moneycontrol.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOek9BZGtLWk1qSTVqaTVOc2RSR0diOFltM0E2V2pXU29LTEN1V2Z4bUhGNEdZWHY5aGF4Z0JqOUEzSGhLNmdkUXgwSktRWVVpM1JER2Jkcl94ZXZDVlFkNFpWOFlEN3RzQmZZR29EVTdGYXJkQ1g1dzBiR25kTFozOHhzNTZicGhXcTRqQldHcmxSUXpfLURsbkZlenp3MmM1M01GZ25rY3BUOHNWQ1BBbjh1SzNqTzVQTEtHdXhOcFY2UDZwak5ERUUtSzdZQdIB0wFBVV95cUxNZWpqb1VQRU9ZaldlQ1k0X0ZsUVI4V2JyR3lfZzF6SHl3dkRXRldnOWNDWDc1Tkl3dXpDMHdmd3lxcUtYQ0Jwem0wQTVPa2lORDE5RmVtbDgzOFd4NXNPY2Rna2w3OU1xai02UjRWa0NBalVkUHctemNmU1NwYlp0TkZ4MzZ4blV4eURNOGdJWFFGbjJHWlVlRTlFQ2d6aTBNZFZmTURSV0F4NEM4bHgyNktwLVVJUGVGWkNMYTNkT0ZjWUw4VFpnNVI0Z3l3WFpWME5Z?oc=5"
@@ -197,14 +192,19 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMEpuRWFScEE1VGFTTjNDdEFncEdxMURNQ29TQkhXMGdVVUFlbnhvUVNOS2NnMDBjMHlnV0tOWUYtWUcxY09OMklxSTFEdWpPSVpkQ2NxbnEzY2ktM2YxaU5xUVl6czdTYVJHQVNOUGlPYTFDZ1Q2YXE1dTVVbEFDdmk2aEVjTWZfTlBFMTZBY0I3cTZ4Z1BWV2hrVGxoWkFWcUHSAaYBQVVfeXFMT2ZqcGpGbFBZdVM1cl9QemZIclhVY29XQVA5d3U4RHNXU29KMHFkSWNXcmZSbjEyYXhDXzRKNk5wQlRHNkRQUnRBY3JKSFF2Y2VzYmlxcXJBSTBYcWhRWjVOUDlUVzY2MXB1N1RIZmxCa3RwV2FXU3RLTkhhc3c0SFR4dWNudUEzdHlzcHFNMGZRZDA3RWhRcFlzWWJINzV1SnB6cW1tQQ?oc=5"
         },
         {
+          "outlet": "The Tribune",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2dCWDZlb2FQWE0tLVRvQU1aSzk5Mkt6QmRNT0hOS0VHVThfQlhHckdPSFdob3N0aFdNLW05R1BKb2JlbzJWenh2RS14OS16T0pTLVVkMGpNdXI4QXNwRHl2U2JNRVZqVFdPWHVvdjJLeWI5SzVBUWpfYnhpQmdzYndMdEp4Y2Y2WG1odVA3d2VwYUN5b184Tlg5d1lqYlhUUFJ1cC1UcFbSAawBQVVfeXFMT0N1MnJla3lkMjF5XzAwQWxCNWxTLTg5Y21nU0JjWWRSeDhPMVZBbGNGc3hfclJieWpjWHBwTFhIbzBDaVZ2UFRjWTdnOTJoeXQzSHpIUEVzYzAxbms5aVQxNGYtMkdEQW13NVhIeUJGeVFFdlN0d0V4bkxaQWs0YzBpNnRGeTJMMEZtZVoySHVlUi1oZTVWR255SkdPSVpEQm40cDFpZmJPT3lmWg?oc=5"
+        },
+        {
+          "outlet": "Business Standard",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXJ3cC1lODFxU1pLcFRGMDNrOWc2S1U5Y3ItaGRrOU1CeS1xdG84aGthTHdWd1Jsbll3bmo5VUJFSkE0ZURYaWM0NDNhalQzTEFzblFGbnJwOTBJRUJ3ZFRrSDk4cjhBTUFyM0ZBN1ZVVWZIQ2dUOG5TMm5qc0hnRzlVUWJOdDdjaHVPZGFLZmVwSFl4M3lNUTJ3OTNvYUc3ejdNOVNIbGZGTU1FX0tpa2ZrbDlRVU9meWt3eGlzSjFzbmRKcUxMSzlkSnV2d9IB0wFBVV95cUxNQ19iaEJWanVIejNCSlJNRUhFNkVnVWp0Y1BINm1rSU5xaUw4MndRSm9ZNlBBUEM4ZlVuOUJiSjhwbm1KTkNwMlMwWWkteFR2QktLYlg1cnJiNWU4Mkt4RERWSGlBTlNTc1lhS0swLW5FcGJRTnFIbGp0T3JzVy1OWlpNUDFndURZWFZnTUx5QnBXN0JqSG9LYm5JOVB0ZGFXUi1mLW1sZGd1WkEzRWZKU3J6b0wxMXhoSURNdTJLajJyclVYeVc4WmNLSEJqYlAtakNr?oc=5"
+        },
+        {
           "outlet": "Livemint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWFtcXBFZk5QVHJXeTltN2dwcTVGWnRQQ21IMWxHV0pqeG1WQVEwc1duVWhZUzBOeHZXR0tDM2FtTGVYa00zVEVuVDRTa1c3NFhhLVFXS0hDVFlETTdwVGs2TTcyU3BSQjVkZXVnUjNhbWc4dkxDLW8wRzBIMmhoOU95WGJBaFdSejlycG5NSUN0aWtBcWlPcXM0Nm9YWWsxRnEzWWVORnJRZEtKdy05RzdLQmtwcEpUMU1LaTNyVULSAcYBQVVfeXFMUG5QYzV4U0kzSkx2QVgwSHFJU25IcjRSWTdvdGRISnhkRkVjQVZDLUE5anUwQW9laXpWTGlidDA1bUFxTlZkZUs2Q1ZiMnBNOVN6bnV5c04tMXpibFJPR1NHUzV2a183d2dLUGZ5MmFPV3o3UU44MXgwNlZVSzFPRFdUcm8tSlc3a3AtWWQtWU9zWWRSNm9fWDdVRkRsa1pENF9OOGdtS2tzbjQzemdwZHBYYjBMQjlPQlpCNE1uUTB5OGNieW1n?oc=5"
-        },
-        {
-          "outlet": "Daily Pioneer",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWpRR0hfNW1DT19icDVuV25WX0pWVFpYcXBFSEd0d0xrX2tHS21xSGxwelY1d1hjXzNOVk1aZGwxaUxuWmZjaHNwZGlRQmRYeGdQYkM2YVlHaUZlQjI1ZHViZ0w4UjRIWFJ4OVc5ZnZfQmItOWMxdkFuN0FtN2NfOS1RcWMwSDJ3UDVGVlNFQnJSZGR5QXhJZGZIclhMblo0b3RNLWQwVElpUkFSS0Rsa1dpRQ?oc=5"
         },
         {
           "outlet": "Verdictum",
@@ -217,10 +217,10 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM253QzNiaU01VG1lZGNqdWFIdWpYTEVBeHVEUDRIdVg3R3N0T3ZOQ2FVTG9nV1FWbGFZeTRVVUxBQjJya0VfM05mTnY3YTRKTmFOTGhuekNPbHIyWGJHWVI0NUtQd3Z6UTNWc3pLUWJUZEh0WGxzVWNwYkY2bks2MGtQckg4VV9Zc01iUWR2dVJLN0NrWTR5aw?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "New Form 6 neither approved nor rejected: Supreme Court clarifies stance, ‘When Bihar SIR judgment was delivered…’. Covered by 8 outlets, including The Times of India and India Today.",
+      "brief": "New Form 6 neither approved nor rejected: Supreme Court clarifies stance, ‘When Bihar SIR judgment was delivered…’. Covered by 9 outlets, including The Times of India and India Today.",
       "image": "images/new-form-6-neither-approved-nor-rejected-supreme-court-clari.jpg",
       "image_kind": "photo"
     },
@@ -281,6 +281,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Six STF personnel injured in clash with drug smugglers in Bihars Araria, 3 arrested. A crime-related story. Covered by Rediff and Daily Excelsior.",
       "image": "images/six-stf-personnel-injured-in-clash-with-drug-smugglers-in-bi.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "rahul-gandhi-s-move-to-meet-cji-childish-attempt-to-pressure",
+      "headline": "Rahul Gandhi’s move to meet CJI ‘childish attempt’ to pressure judiciary: Bihar BJP chief - Telangana Today",
+      "summary": "",
+      "date": "2026-10-12",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hans India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVNkMXJjWlpYMEdydFJ0cTBQcnNXbmZOaGJPZXB6TTVIQjJzc2pSSFdOZmlwRUV3bmpycm1qbGlVaUU0R3FlTHNLQmxVb2pBa1pLUzBmc0dBMHI3dUtlY3pDbVpvY2pISWQ0T2FoVk4taXJmUTdWc2JERzdld3lKWVRZUVpQUGg0ckF2OVlsYkJuSUZGVHVJUTczQU9pdUVMR214cnZZM3pUUDFDNV9Ud09wX3lXYW8zUk9YMC1DYmZ5QkYtNVNIOWd0dUpZTUJNNlE?oc=5"
+        },
+        {
+          "outlet": "Telangana Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVVPZlZtOGM5bFV5ZDNONWEya1pvVWFGaFpCY1BFRnZaeWF3RGNnd0p0TDd3UUtWeW83d0tPTl83T1oyZDVLT3pCZGFndmFlSkpuRUE3OUpleDhRdko5aG5HdG11cW1GbGpNak9sdXJlTklMU0RsSU1EcjZNUWktRlU5OFpXdGtZTHdEOEpCYU82dnBlbmFGVmpmZ294bmQyb01xQ0FBbTRoLVZhSFgzWXBn?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Rahul Gandhi’s move to meet CJI ‘childish attempt’ to pressure judiciary: Bihar BJP chief. A politics-related story. Covered by The Hans India and Telangana Today.",
+      "image": "images/rahul-gandhi-s-move-to-meet-cji-childish-attempt-to-pressure.jpg",
       "image_kind": "photo"
     },
     {
@@ -381,7 +408,7 @@
         {
           "outlet": "India TV Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbXBZQVNSdE83dktnR0ctZFhCNmJhdWVBYTVRR3ZOa0UyLTBQUHZXX3ZzUEJJV0JxQUpnZWdxelZNZGs1TGpiU2ttSEpSOG5Fdzk4NWh5cXJra2d6U1NCUHd1Q0xTZ2VLejFrSHV1SjRGQ3JWeGdSVllfUWM5eGRlbzBkR1ZWdzBZUzBYbnJMcTI2aU1QUzh0RWZzWHR4OUJ3QTQxeWZpOC1kcEN5Vlo5UU9va0Q2N1QwdnhYYkNSZkk1c0ZtY00zbFhjMi1Rd1pyamdHM0xnaVlONEQwMmYtUG9BdWt6bUZCMTI4LXpn0gHuAUFVX3lxTE1tcFlBU1J0Tzd2S2dHRy1kWEI2YmF1ZUFhNVFHdk5rRTItMFBQdldfdnNQQklXQnFBSmdlZ3F6Vk1kazVMamJTa21ISlI4bkV3OTg1aHlxcmtrZ3pTU0JQd3VDTFNnZUt6MWtIdXVKNEZDclZ4Z1JWWV9RYzl4ZGVvMGRHVlZ3MFlTMFhuckxxMjZpTVBTOHRFZnNYdHg5QndBNDF5Zmk4LWRwQ3lWWjlRT29rRDY3VDB2eFhiQ1JmSTVzRm1jTTNsWGMyLVF3WnJqZ0czTGdpWU40RDAyZi1Qb0F1a3ptRkIxMjgtemc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcjU3X2dGNHdxYlFabWZ3Q19iRXQ2aU16UHVQd3JfaTJ4UDJLX19abFp5N29tV29WRU1ObVdEOW00UXd6dHlaNnd6ZGZaZlZaWHZwRXZ5eHFKb0UxS3ZjSF8wWVd4WElmUEo0VnR0bWFfazlTWF9lelNnbEFiTmxxeUh5NkhtdmMtUFFvNldwM0tQVUo2dmRTVVpiVFQ4UktIcjh1WXotd1RCeVpmVmtudFhlUDA1Ti0tV0ZNdEtERHBtT0FGUFQ0M1dDTExwc1ZDNmRBTllDTzRaZGcweGZhZm4tZWs4VHNH0gHuAUFVX3lxTE1tcFlBU1J0Tzd2S2dHRy1kWEI2YmF1ZUFhNVFHdk5rRTItMFBQdldfdnNQQklXQnFBSmdlZ3F6Vk1kazVMamJTa21ISlI4bkV3OTg1aHlxcmtrZ3pTU0JQd3VDTFNnZUt6MWtIdXVKNEZDclZ4Z1JWWV9RYzl4ZGVvMGRHVlZ3MFlTMFhuckxxMjZpTVBTOHRFZnNYdHg5QndBNDF5Zmk4LWRwQ3lWWjlRT29rRDY3VDB2eFhiQ1JmSTVzRm1jTTNsWGMyLVF3WnJqZ0czTGdpWU40RDAyZi1Qb0F1a3ptRkIxMjgtemc?oc=5"
         }
       ],
       "source_count": 2,
@@ -426,34 +453,6 @@
       "genuineness_label": "Verified",
       "brief": "Bihar constable shoots himself dead in Kishanganj, investigation on. A crime-related story. Covered by 4 outlets, including The Times of India and Telegraph India.",
       "image": "images/bihar-constable-shoots-himself-dead-in-kishanganj-investigat.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "jd-women-s-college-teachers-protest-mata-sita-university-aff",
-      "headline": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ - The Times of India",
-      "summary": "",
-      "date": "2026-10-11",
-      "topics": [
-        "politics",
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "Careers360",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGdBWkhSM1lRZUswRk1tWThQTWZsU3pXSkw3Snc2U0lUaHNETkpHZnAwRUZuNGtuQl9ELVQ3YldJbGE3UFFJY0F0aFMzVnRrbW95ODd4MUxvN0l6QTJGOG1JTkhLRXotY2VuakQ0VXRNQUJYQ0Q3Zm9aOHdjRzBxLXV3QjhaOG1jdUhtSTNWMUZpdnZVQVdkUTVIR1VzVkhZTjFvNW54MDZmd9IBrwFBVV95cUxQTjUzUmtrMlZmbE5KWUJuQmkyMndFMUJfLXlLdGFIWF9NektHNVN1VFEta0VWcFYzOUdjSXJOT3NtZ3poUFgzOVozdjhKVHRyNG44b1hSMFc1UE1jc0NxZ0FUc1FpdlV4Z2IzaWphbUdwT1o1OThNbXlBcW5uZm1JTU5jNnAzV1pQdnlhYjdTaGJWWXZiQ25OOExUcjA5eVVMaEl2WTBRY1doWEI0MUhZ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeUJWRW15YVpfcHA3cjJ6UzF3Zzh0YTdtbk9wUmtKLUE2YjRMR0ZpeUQwQ0ViUk02dzlka1FYSFJjRXE1LXRsaFpVY0hWY2MzcjJMNkhhQ0hlODFyYXZPeFFyYTdBNWd6YjdvVFp5NUROMEotWk5DaFlFR1dXMzhpbk9uYU9ZTkl3Q1RaaDFIWmtPU0ZLdHctZzA4Q21HNzZlVVdaQWV0bjVWbmc3U1JvN1lwMHpIQWxUeGpDd2xuVWxnbHZYRGRmNGRPdGpZaldQd08yQWw4T1BuODdjUy1WOTFzUHZoYU52ZFBOcnZaOWxoNVFHcjE5UzA3VFFuLTBCQko0S0R2RlEzbWtOWVNaSG9MZURnSWFTYVg4VmY3bGdsNknSAagCQVVfeXFMUGJKQXhvR29TbkZjUi16eVNxWEFpZFhScHZsV3NxTFRURHcySnhMV3FEcnNxZ19jQkJEZzAtalFac1VHVVowOWFEZjNpcUExSkY3M2xwWjZ3YUhUd2ZBZEdCenBjVGNWN3YtTVBqNUFJMlpoTURNLXR6UWRXLW9kSW5vWFV5RjRLWGdKUGlXTGdMYWVBUU4xZVZCM1dKd0tnSUZuV0YySl80SUNUdmJxVzYtZUtlUXRleGR5QnI4LTVEVnVlOUlxOHppR2dnZnNFVVN2OEQ2OEN2N3lZdmZsM1czWlE5UEU2Mm5rR1k3MUU4ZEwybFlZbmZNMFFRNmpPd19IUDdtcFc5eS0wLXlLNDN6V2Z4QVRLTzIxYVg3TDFCQUpQLVVnOG4?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "JD Women’s College teachers protest Mata Sita University affiliation, demand repeal of Bihar Special Univ. A politics-related story. Covered by Careers360 and The Times of India.",
-      "image": "images/jd-women-s-college-teachers-protest-mata-sita-university-aff.jpg",
       "image_kind": "photo"
     },
     {
