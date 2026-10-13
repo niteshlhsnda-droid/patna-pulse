@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13 11:35 UTC",
-  "generated_at_ist": "13 Oct 2026, 05:05 PM IST",
-  "story_count": 52,
+  "generated_at": "2026-10-13 12:54 UTC",
+  "generated_at_ist": "13 Oct 2026, 06:24 PM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -28,12 +28,22 @@
           "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDdqekdqWHhzY1BNMm9mUDVQMnJHTVR0amc2Yjd2R1p2b2xuRnNObWk1emtLTGF0QzBhMGVtM09NWWlXUngtMWF2NGs5TmxvSUttNEZIMkRpQ2k5NVpUa1pZc2llc3lGUDJFTEZlYW5IZnNISDhsVWdVb1RnamFrZnJQRURuaEF6OEd0bWlJWjJpXzhmYjFqNlNCVjk5LUJySmstTF9yV2ZIZjhXempSSWxSMlVEMDZsSGhTVGZ2a0wyUERYZ0hhaVZidkprLUZnRTNHTG0xWEJUUHRmZ0xacQ?oc=5"
+        },
+        {
+          "outlet": "GujaratSamachar English",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemhXVlBVVTdHOXJ6VDF1SmpHck9iTkI1enktcnRyRkdnbm5nbHBzQkVzbG5zWXBVbmxwYVB5U196alFidEY5ODJ5N3F5NHRmSVRweDR3RDMtY282MDZCejBQRjQ0NXhRcTZLMDhhNnV1VFdEMGY3MWRlZFlzbGZlN0RNMWxramh2NVZxTk12bWxvcGJiLW1DSF9mWFZzX0xJcXFIZnlfZw?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckJidVJjNkRGM2lTQk5yYnVBUzRYY0s0eTZFTlA5NEJTMG5PQ2pwRmJiajZWdlk4UW91OXNCSldZdjkyY3N2aWJ3MGItS0ZTZm1kWTNpMUZFS1BoQ1VTRllCWkU3ZUpjQXZSdHJfZllDekhGZE15UzFmaFFuMWgzUnpuMVRLWll5RVBuYVk2RW1May1KM1E?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "AISA, RYA protest in Patna, demand CEC Gyanesh Kumar's resignation | Tap to know more. A politics-related story. Covered by 3 outlets, including Inshorts and NewsBytes.",
+      "brief": "AISA, RYA protest in Patna, demand CEC Gyanesh Kumar's resignation | Tap to know more. A politics-related story. Covered by 5 outlets, including Inshorts and NewsBytes.",
       "image": "images/aisa-rya-protest-in-patna-demand-cec-gyanesh-kumar-s-resigna.jpg",
       "image_kind": "photo"
     },
@@ -63,7 +73,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar Biodiversity Board, Patna Women’s College Join Hands For Environmental Education. An education-related story. Covered by EdexLive and BW Education.",
       "image": "images/bihar-biodiversity-board-patna-women-s-college-join-hands-fo.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihar-to-get-its-first-tech-park-at-patna-mou-to-be-signed-w",
@@ -131,6 +141,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "prolonged-incarceration-no-digital-or-financial-links-with-c",
+      "headline": "Prolonged Incarceration, No Digital Or Financial Links With Co-Accused: Patna High Court Grants Bail To... - Live Law",
+      "summary": "",
+      "date": "2026-10-13",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Live Law",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOamVKN2dVbmpOajZEdE1TRm5HQnNXTjZHalRsYms5VDNnN3ZtU1R0YndyOFNQeFd2aWNVajBEX0w1MzY5ZXF0X2tTOUVmR3hkUHlRQ1VDNVFub3M0aWp6eUNWX1JlamV0ZjJJNjZfNG40RVUtZVphWVFSUnFYSHhUTHJKZXFKNjNQM3AzZVpqVDM0YkhYSkVLUldzcXozWEItZ3lBNW9tNVNoS3dDVGxWSXhlYXltSWJmNFpRSG52UzBIUmlubElCTlFmaGbSAdIBQVVfeXFMTzdBSUNrTlJCVjQ2aVRLdExZRlNoZU52VmVraTEtUHFXaWhDTjFiODBCYmFIY2NtTld1LXVzRHlNZG5oR1pnNEhrcXlpSEFUMXZSMUUwbDZrZ3Z6c0JwQmhsRGZ6ZUNiYnczUFN5OW5BQTJlTEpxSW1keVFhWGRwOUpFeUlldlNBZmRqZkJBeVQ3cWxJaHc3TXB1cXQ1UkktS1VEYWI3Qm1ibGRVMm44V0IzTndHRGxSRGlCSnJlN01DeHNRdTZPY21tcWhVTEJWb0h3?oc=5"
+        },
+        {
+          "outlet": "Court Book",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0FYVnlnU0Y5OTJGRC1idFNQX1ZrWEc5SEt5SzE2YlJtM2ZVb3BnUUpsNlctZ1NsVmw4bjFzcDdSYXFJWVRCUVU2QlhMaVlZY3BmVmVBVVd3aTRoSkNjdHdCQW1idFhzMm53RzdVUDJDWDhwemFNZGg2TUwyTU90TzBMSWdEU3B2UWJuV1NTb2RJOTdDM3pyZUNWbWpqTUdhX3RPWjMyU1FkWTFHc1pOSk5wbDB2OVRFZV9Z?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Prolonged Incarceration, No Digital Or Financial Links With Co-Accused: Patna High Court Grants Bail To... Covered by Live Law and Court Book.",
+      "image": "images/prolonged-incarceration-no-digital-or-financial-links-with-c.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "patna-tejashwi-yadav-joins-india-bloc-protest-against-cec-gy",
       "headline": "Patna: Tejashwi Yadav joins INDIA bloc protest against CEC Gyanesh Kumar - ANI News",
       "summary": "",
@@ -155,6 +192,39 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna: Tejashwi Yadav joins INDIA bloc protest against CEC Gyanesh Kumar. A politics-related story. Covered by Mid-Day and ANI News.",
       "image": "images/patna-tejashwi-yadav-joins-india-bloc-protest-against-cec-gy.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "police-hit-him-on-the-head-dilshad-ansari-dies-in-bihar-cust",
+      "headline": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended - The Observer Post",
+      "summary": "",
+      "date": "2026-10-13",
+      "topics": [
+        "crime",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDl1MEN2VTgwanZCb0JFdTZuOWYtQ3J5WHNDUk5LQnE3MF9IbUVtRHlVTEZ3SVRuM283bTJhcU5iRmo4aFp4Ui1pYzM2cjdOTTc3QUpmME9VdEY1Y2FmdGVIbFpZa3pYckw1V3Z2Z2NHTzlkbmx0X2ZLcXVWSWtIenVzbzNNd3pnNnpVVUNPZl9iSjZNT2VxSFc4VUxSc1pIRTZSR1ZpS0FaalNwUTVoc2YzNnZtczhsaWN1c3VZQTVvYVdUS0ZiczBHeVdsUdIB0wFBVV95cUxNdUMwYTJGeVRpTUlmWTJBelRhWEZrNFQyWkJESkdMUHVMNU9hZTNwOE9LQk5yNjd2Y00yeW1idXlHcVEyTnAtYXozQ2hta1ViQkYtcENFNk1vdDhZRnRuSmNRNXh5OVJPUmNwODlrZWE1U3hGN3JCWkVRNS1uYnBLdkNyWTlvNWhsYThNdEZyRnh1eTdSOHdUTFc4OFRCNldzd2UxclZyeVgzZlNvWV9sZGNMRDRSUFVQVGVORFQzS0xFQkdxLWltcFVXU1ZySkw0RG5Z?oc=5"
+        },
+        {
+          "outlet": "The Observer Post",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTlzYkFJNG83RGZlcVV5VnhWVk11UlkxTHphMXB3TXpYNWpSRzVtRFR6RUVmZEVDUENRYmxhSUxwTmtSYS1IMmRILWNpQ2ZLOVJRV21VZFN5aW5tZ00tOHVXc09DakhPUVhQNzZrb0NQLVdlcWpvS1AwRzNMTmJCbEp2TUJPWURDOE9XTzVPXzVmZFdYTjctY1JBVy0yckZyaWlWWE9UZE9GSG5NczVyQQ?oc=5"
+        },
+        {
+          "outlet": "Muslim Mirror",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEZvT3hyTV9EX3NFS1g5UkdNLTRXZHVJbE5RMk9iTU40T3Q1bFhSTUpYV2FQNkdRS0xJRmk1dExzMFdsQW9jdVJEa2RGUW8tTW1IZmw4YWJpTTBzbURHTm1sNVlGOHFUQzY4d01GeE9KbmNQMzYzeFF2bEtBdGlxT1NneXRWYmZ1RGhIejVReHBpaUJ2amJLWEdBQmN0aHpCcTZuOWpiaThBQ0lvOHFfcnVR?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended. A crime-related story. Covered by 3 outlets, including Hindustan Times and The Observer Post.",
+      "image": "images/police-hit-him-on-the-head-dilshad-ansari-dies-in-bihar-cust.jpg",
       "image_kind": "photo"
     },
     {
@@ -185,36 +255,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "police-hit-him-on-the-head-dilshad-ansari-dies-in-bihar-cust",
-      "headline": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended - The Observer Post",
+      "id": "bihar-cm-sets-march-2027-deadline-for-completion-of-seva-san",
+      "headline": "Bihar CM sets March 2027 deadline for completion of 'Seva Sankalp and Kayakalp Abhiyan' - ANI News",
       "summary": "",
       "date": "2026-10-13",
       "topics": [
-        "crime",
-        "civic"
+        "general"
       ],
       "sources": [
         {
-          "outlet": "Muslim Mirror",
+          "outlet": "ANI News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEZvT3hyTV9EX3NFS1g5UkdNLTRXZHVJbE5RMk9iTU40T3Q1bFhSTUpYV2FQNkdRS0xJRmk1dExzMFdsQW9jdVJEa2RGUW8tTW1IZmw4YWJpTTBzbURHTm1sNVlGOHFUQzY4d01GeE9KbmNQMzYzeFF2bEtBdGlxT1NneXRWYmZ1RGhIejVReHBpaUJ2amJLWEdBQmN0aHpCcTZuOWpiaThBQ0lvOHFfcnVR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWDRUSWpzUmdvbkhJS0JfYnowMDNQanVIWHVTS05NX0t2cVNyMXZsS2I5S3h0cmxpTlM2WHRlNTMxWE0tNE4xOGhCX01LY0wyN2VPT1lUdkc5ZldxdTZ0bTh4aWc5RUZmNTVvaFY1THFRSGZCZTJiYXdFeDdwSXB2WWZ4TmpJV0o1SUxEcnpnWXV3SDVkR3d6TGdlN2FQZE1tSXl6RFR4NmpKRWd5VGJXbXZGcHo2WXBwcWwtT2tiaE1UaVE5ck9ENkp3NDJpMnVZNnQyWFpJeHpRWjBfcWc?oc=5"
         },
         {
-          "outlet": "The Observer Post",
+          "outlet": "The News Mill",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTlzYkFJNG83RGZlcVV5VnhWVk11UlkxTHphMXB3TXpYNWpSRzVtRFR6RUVmZEVDUENRYmxhSUxwTmtSYS1IMmRILWNpQ2ZLOVJRV21VZFN5aW5tZ00tOHVXc09DakhPUVhQNzZrb0NQLVdlcWpvS1AwRzNMTmJCbEp2TUJPWURDOE9XTzVPXzVmZFdYTjctY1JBVy0yckZyaWlWWE9UZE9GSG5NczVyQQ?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDl1MEN2VTgwanZCb0JFdTZuOWYtQ3J5WHNDUk5LQnE3MF9IbUVtRHlVTEZ3SVRuM283bTJhcU5iRmo4aFp4Ui1pYzM2cjdOTTc3QUpmME9VdEY1Y2FmdGVIbFpZa3pYckw1V3Z2Z2NHTzlkbmx0X2ZLcXVWSWtIenVzbzNNd3pnNnpVVUNPZl9iSjZNT2VxSFc4VUxSc1pIRTZSR1ZpS0FaalNwUTVoc2YzNnZtczhsaWN1c3VZQTVvYVdUS0ZiczBHeVdsUdIB0wFBVV95cUxNdUMwYTJGeVRpTUlmWTJBelRhWEZrNFQyWkJESkdMUHVMNU9hZTNwOE9LQk5yNjd2Y00yeW1idXlHcVEyTnAtYXozQ2hta1ViQkYtcENFNk1vdDhZRnRuSmNRNXh5OVJPUmNwODlrZWE1U3hGN3JCWkVRNS1uYnBLdkNyWTlvNWhsYThNdEZyRnh1eTdSOHdUTFc4OFRCNldzd2UxclZyeVgzZlNvWV9sZGNMRDRSUFVQVGVORFQzS0xFQkdxLWltcFVXU1ZySkw0RG5Z?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0FFZG9mNFZnMk9kNWlIMUZla0JBOGgxZEpab0hjMkFyV1lici1LVzExOGp1ZGlJSUN6R0JuY0x0YUhvQUlGUm5QYndaWXg1cjRYTk96VUFWdWx0SnEzbFRpVFJ3RHRGZWdCZFBfMjk1U2d0bG1CbUxpcHE0RWN0STcyRWZISmpHdjlqZ1VkV0xkWXBkT1RrM1AxQkc?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "‘Police Hit Him on the Head’: Dilshad Ansari Dies in Bihar Custody, Six Cops Suspended. A crime-related story. Covered by 3 outlets, including Muslim Mirror and The Observer Post.",
-      "image": "images/police-hit-him-on-the-head-dilshad-ansari-dies-in-bihar-cust.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar CM sets March 2027 deadline for completion of 'Seva Sankalp and Kayakalp Abhiyan'. Covered by ANI News and The News Mill.",
+      "image": "images/bihar-cm-sets-march-2027-deadline-for-completion-of-seva-san.jpg",
       "image_kind": "photo"
     },
     {
@@ -245,6 +309,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "16-jagran",
+      "headline": "छठ-दीपावली पर बड़ी राहत: 16 अक्टूबर से दौड़ेगी नई दिल्ली-पटना वंदे भारत स्पेशल, आरा में भी स्टॉपेज - Jagran",
+      "summary": "",
+      "date": "2026-10-13",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1RyMnBnYkhYZEowdG8yNXEyX1dVZGJJRHVSTjA5VHVLOHk3U20tOWlxWEZIbFBPSjN0N2xSLXItMVgwS0ZhRlU2d09qbmJKSDdJQmgyeE9RakdQM3ZoYkpmN3h5VS1vajlkQ1NJVUlFYzZOWnZEbmM3aURkbXR0bEtIYjBLTFROQWFic2REYll6Ti1NRHBILTBMUENJRkFhVE1MNUhIb1lrc1p5NmcwQUx1dm0zTzA?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd0gyU21jbHBRSHNQMXF6NVpSaVR6SmFCSDFaQlFTYTZGNUZNTXdNX0MtUDJUNHpSSFlIYjNHS2Z0TmZzQXBWaFFFVkFva2NRUnVTekN0STI4SkNFZ2JTblBVUHVHLThtUWZpSGFFNXZMcTNnNUtUQjM0Uk13Ti12dFhsZDNzdk5FeWlOSkVxczlfSlVhTk8yWDVBcWpOenRkelJ4aHk4SkpjWkVZOTRFNEUwMnFrZHNaT3lUTVZqMFcwMFVnZWItWnhOX29TeFFx0gHWAUFVX3lxTE14cVFUUDZ5NHVTamxIUlNqc2hZSHBFSWt4ejlTSTdPcF95SmxFbndjNGlwbkFkTkh4RU41bjUxRVE2U21CWlYwNko4dlRrZHZCSmt4WUgzRFdvbHpZclFfVjhKZkw5Z0hZblNvc2FBZ3pEbnJ6dFRXN3F5M0hTN0Z5UU5GMGFobG42cWd1djFpMTZjVmJZbDhtYXdsY1Y3OW5yM3hmQ1lFZ2JyVlMtbFpNMk1rYnRqNVN0MW9XaEM3X2tOODR4Zk0yT093QnN0VmMtNWZOeHc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "छठ-दीपावली पर बड़ी राहत: 16 अक्टूबर से दौड़ेगी नई दिल्ली-पटना वंदे भारत स्पेशल, आरा में भी स्टॉपेज। इसे Jagran और ETV Bharat ने रिपोर्ट किया है।",
+      "image": "images/16-jagran.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "dainik-bhaskar",
       "headline": "दिल्ली-पटना स्पेशल ट्रेन का दिलदारनगर में ठहराव शुरू: त्योहारों के लिए दोनों दिशाओं में चलेगी, आरा-बनारस पै... - Dainik Bhaskar",
       "summary": "",
@@ -272,8 +363,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "aisa-prabhat-khabar",
-      "headline": "पटना में AISA के लोक भवन मार्च से पहले सुरक्षा सख्त, गांधी मैदान से डाकबंगला तक पुलिस तैनात - Prabhat Khabar",
+      "id": "the-lallantop-the-lallantop",
+      "headline": "ज्ञानेश कुमार के इस्तीफे की मांग, पटना में छात्रों ने बैरिकेड तोड़े, फिर क्या हुआ? | The Lallantop - The Lallantop",
       "summary": "",
       "date": "2026-10-13",
       "topics": [
@@ -306,9 +397,9 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRTNyT2dpUl9NakJSczV4bXg2aWpjdm5MaEdIYjAtUTBidE16NWcyR3dIUzFPOTZNcmhUMW41S1h3VWtJRjUzUm9teU5FX0s2SHQyM0xmVV95ckpNU3VhQ0dNcXg1ZlprSmxqX29zaXpudjNlRGw5cFpOYi1QUFdNX3VxM3QzWjh2ZGFIYXJldzVhdjV6UVE4UWZFUm1IN1VuZkhBMUZhclA1RkIxRGZNYWJ2Y2lickdWcnJ3Z3V30gHDAUFVX3lxTE5LdlJDbGMzQXFmUUU5NTRoNWphU0QtYlIxcEdPZ3I3dG9zRnVRM0V5eGNaWHdEb1lFOWs5dzJpQVNEb1RQc3k5b0RpLUZEY0ZvbHJzRDFHQmJMMC0xdzA4YUE3UXFEdHc5QmhicnF6OTczSGJZd1pfOEp6OVFFYlY3aXd2TDY1VmlJS2ZROEp1cUtiTlBScWF0YjhncTBXcFJxSjVaNk5uVDJ2cXkxRFQ3OFd0dHJjUnJiT19XUzBjOGNpcw?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "The Lallantop",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3N4RlpGSEF3ZkNMQjE2aEhleGN6cjd2d3JPSTRiNVNBb2tnN1FFSmx4clppUkR0MzJ1Q1dPZ2JFc2c1VTY5dW9ORjB4clUwVUQ5Zzgta0FaYW5sYVdwM0c4cU83U2xCTlpMMlNHSGRETTV4UlhFYS1zVDBWNXhxRjBuVU5YQlFNdXA3S1hZRmRMNF9YQzZ6eXBpYjNTbjZzN3BqaHJkQ0s0Ung0eUZ2Y1JzeUNOc3ZYenNSTDRtN092dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ213ajc2U1dSY3BTZnBJNVJ6ak9YbWVtNXVQMEV3eUJOdUNLSmtxODFpUVc1eGliOHVyeGFLa3ZhcmJVWUFUenlDZWJXTGw5YTJRc0YtZk9YV3p0NzQ1ZE94cGJhTnhSMmZxZ3VQb2tyTW5PLS1menFFUVFReFNpRml2RUFUbE9STlc3ZXNzemtCbWlKbDhEbTFKU1RFRVJ5WW5Oc1Z1Tng0RVQ4UVNYTzJ6VjZCRk9GLUk00gHAAUFVX3lxTE1hX2NOMXlfbFE1bTRoS0x6eXRVaHJSSGpDNTdvNnYzMUFCSWtLN09KUmR5RmE4N3Mtd2ZBNGk3YTRUR1p6NGlkVjFpSUNCR3BQOVJ4TmRWNTBGbzV1UjFJZVBEeUxRcTF5Yk52b1QxRnYtMHAtZHNEcHNzY29yMjg4TWk1amNqMVI3MlhOT2NXVnFiWFFOWXg5Z2pDTElzXzc3ZFZNZC1fUEdmWUZxWXhQOG1iSFE1Yi01MXpGMmdkTQ?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -321,11 +412,48 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV1gzanNVYVJuWEJGMXM5cEtnc3VlM01EYlUyb1hWc2Q3cjNZX0R3LVREMHMwQm43ajJoWm5FLS1zYlVtNVp2YmduYVZ1NXZYOC1VVkM2eU03dER3ZGpUUS1UUUZ6ODV2eXp2SUdRNDR0WE94aDJFLUFCRXdicUxwWi1WZXdnT3ZMVjhwcHhlQ05rRmxXeDgzWG12a196NGU3eTk1LW91d1o1RW5GR2xWWU1MbEdHenZ3U3RUZVkxRUY2dGlnZmJ6RGRPb9IB0AFBVV95cUxNaTNtQ2JnM1BKOXZzUHVhNkpVZTFLRFdDTjFxbWJOTlg3U2kteXpTY2ZUbkhtS1dWYVMxZ25POV84SGVlRVdrY3VqU3VfQzlIUTBZbGFxVGtQempfeE9vQnB1Q040a0dzLVVFM1RlUFJtc2kydHFSLUt1U2JNUF96cUpWZzNyclhfOXRoQVJnYmtFV05PYV8wTDlUZjBEZ2dzVlVpSjYwOTFpTU1LY0IwdVBNb01RZ21UUjRGYmdTUXo4OFdXcG9iXzAtTjEyWXVf?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में AISA के लोक भवन मार्च से पहले सुरक्षा सख्त, गांधी मैदान से डाकबंगला तक पुलिस तैनात। इसे ABP News और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/aisa-prabhat-khabar.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "ज्ञानेश कुमार के इस्तीफे की मांग, पटना में छात्रों ने बैरिकेड तोड़े, फिर क्या हुआ? इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें ABP News और Prabhat Khabar शामिल हैं।",
+      "image": "images/the-lallantop-the-lallantop.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "neet-cbi-prabhat-khabar",
+      "headline": "पटना NEET छात्रा मौत केस: CBI की क्लोजर रिपोर्ट पर भड़का कोर्ट, जांच में लापरवाही पर लगाई फटकार - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-10-13",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTE9WRnRiMGxSd25PS2RZeFVDaFFjbXZ2QXBpN2dwWU1HNzhva3R1YkFiWE0xRU9yd3VEblROWEJmSGtJN3RBeFlsU19iNUU0TVdTR1R5R0RvbENNSjBZbTkzRWxTWWk3QlppX3VzREJrMGFwOGdZTVFzcW1iU21NOE9GNHZRM0UtdlNjUERtdndfZEhGWElBaE9LQkhzd0xSSU80WEloaDRBV0FnUnViZnFlekNvajhi?oc=5"
+        },
+        {
+          "outlet": "Aaj Tak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWZpY0liT0hUdUNBekxLTm93bXBPRkcyZ2U4LWlKNkRLb1I1bTZSdnJ6aTMxelE4aWdoczhvZmd3aGJZUFhCYVZCTVZtajNMeWdpLU1rTW5JVEpPbGNiZzNrR2puYll4eXIyUXJnaEFPNGRScmlPSVg1Vk1ubVZySy1zME14YW9pMmJ5cExJeHNGajIwY3JsS1NGZS1ydlozMlAxVWdyYmNwLTAyODhqRHhMX01xS1BkNHBtYkxRbVhabHh4ZnhrMDBn0gHPAUFVX3lxTE8yQVItUm1mQkxSTnhaVWpObzFBbDlsYU5vMVJFQVFxUDhYSXM3Tk12UFhCcmh0QW9mRjN4VzVJWDhRdnVzYm03aGZuQm1TYy1YYkQzb0w1ajJNejZ4bFBtVnhrN0dydGdPSlR1Q2x4T2dELU9XN000cDN1b0pqUmJzWnlpaThXd2pvTTE4Vk16WDF2Zjh3M0FYTExGelpoQkRuTXRHblNqN2tDU3hkcGM0dU55bkFWS3dLY3NMbUdQT25QdmNVYjZtZE9obnNBSQ?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVRXLW5XVUFOb25pY0dZZkYydi1HZmFzUld1RGVvd0tyR0xJX2IyM3FQRTVXdTNtYzNsMm1tdkVRYUdUZkhEU3JKY0pxaTFaT1lFeFlKOUtvU0FEdHpad29GdHM5ZURNX1NTLTFUNzRpOXQ0akRYbkxjUFV4TjJSSXA1YVZaMnE0LV9rMjlOZXZFSExuaVNrMWxWbGZWdmg3X0RLV3kzcnVJU3ppNFgxUG5VQ2lxdlJjM1FKdXFlWdIBvwFBVV95cUxPQVRXLW5XVUFOb25pY0dZZkYydi1HZmFzUld1RGVvd0tyR0xJX2IyM3FQRTVXdTNtYzNsMm1tdkVRYUdUZkhEU3JKY0pxaTFaT1lFeFlKOUtvU0FEdHpad29GdHM5ZURNX1NTLTFUNzRpOXQ0akRYbkxjUFV4TjJSSXA1YVZaMnE0LV9rMjlOZXZFSExuaVNrMWxWbGZWdmg3X0RLV3kzcnVJU3ppNFgxUG5VQ2lxdlJjM1FKdXFlWQ?oc=5"
+        },
+        {
+          "outlet": "ABP News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSExFejNjTjBFSHNleDNMOEZEX0s3QU9IMldLWlNLMDNlUWgwNDYyVE1sSG9Wd0ZRTklpeHhBQVAyTGw2UlIwMlZyMU9hRmpTQnIyVllONzZWU2V2dnRUUGg4TjFhbXVtdUdUNWZ6QmJwb3dpNHVRblhEd1hRalNBelZFVjBkVlBzRVowVURDaDVnbjBtR01wV09zbjhvWV9hZlBiM3VkZjdnQdIBrwFBVV95cUxPenJpelZVQy1UQkN4OFhHUThRdVR2ejZsWmdJMmt0b2h4Z2l6Z1ZJeURJaWlpdmM0MEhGQkZSeUQ2bjB0TmdsbXppak4zcUV1N1BaTDJqWnFzSjRjd0M3VkhES0VtWDBkRlhJSmZ6ZjJZRm5qTDdNcnpDYnFQRjd6b3FoTFFZeWJ6eDNmWExpYjlySXZzblE2Ty1zcGhkWHVLMVBVa0F4b1A0Nl9WTTF3?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना NEET छात्रा मौत केस: CBI की क्लोजर रिपोर्ट पर भड़का कोर्ट, जांच में लापरवाही पर लगाई फटकार। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Aaj Tak शामिल हैं।",
+      "image": "images/neet-cbi-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -383,33 +511,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "cbi-neet-news18-hindi",
-      "headline": "जांच में लापरवाही...कोर्ट ने लगाई CBI को जमकर फटकार, NEET छात्रा मौत केस में नया मोड़ - News18 Hindi",
-      "summary": "",
-      "date": "2026-10-13",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ABP News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSExFejNjTjBFSHNleDNMOEZEX0s3QU9IMldLWlNLMDNlUWgwNDYyVE1sSG9Wd0ZRTklpeHhBQVAyTGw2UlIwMlZyMU9hRmpTQnIyVllONzZWU2V2dnRUUGg4TjFhbXVtdUdUNWZ6QmJwb3dpNHVRblhEd1hRalNBelZFVjBkVlBzRVowVURDaDVnbjBtR01wV09zbjhvWV9hZlBiM3VkZjdnQdIBrwFBVV95cUxPenJpelZVQy1UQkN4OFhHUThRdVR2ejZsWmdJMmt0b2h4Z2l6Z1ZJeURJaWlpdmM0MEhGQkZSeUQ2bjB0TmdsbXppak4zcUV1N1BaTDJqWnFzSjRjd0M3VkhES0VtWDBkRlhJSmZ6ZjJZRm5qTDdNcnpDYnFQRjd6b3FoTFFZeWJ6eDNmWExpYjlySXZzblE2Ty1zcGhkWHVLMVBVa0F4b1A0Nl9WTTF3?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVRXLW5XVUFOb25pY0dZZkYydi1HZmFzUld1RGVvd0tyR0xJX2IyM3FQRTVXdTNtYzNsMm1tdkVRYUdUZkhEU3JKY0pxaTFaT1lFeFlKOUtvU0FEdHpad29GdHM5ZURNX1NTLTFUNzRpOXQ0akRYbkxjUFV4TjJSSXA1YVZaMnE0LV9rMjlOZXZFSExuaVNrMWxWbGZWdmg3X0RLV3kzcnVJU3ppNFgxUG5VQ2lxdlJjM1FKdXFlWdIBvwFBVV95cUxPQVRXLW5XVUFOb25pY0dZZkYydi1HZmFzUld1RGVvd0tyR0xJX2IyM3FQRTVXdTNtYzNsMm1tdkVRYUdUZkhEU3JKY0pxaTFaT1lFeFlKOUtvU0FEdHpad29GdHM5ZURNX1NTLTFUNzRpOXQ0akRYbkxjUFV4TjJSSXA1YVZaMnE0LV9rMjlOZXZFSExuaVNrMWxWbGZWdmg3X0RLV3kzcnVJU3ppNFgxUG5VQ2lxdlJjM1FKdXFlWQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "जांच में लापरवाही...कोर्ट ने लगाई CBI को जमकर फटकार, NEET छात्रा मौत केस में नया मोड़ - News18 Hindi। इसे ABP News और News18 Hindi ने रिपोर्ट किया है।",
-      "image": "images/cbi-neet-news18-hindi.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "patna-metro-cm-samrat-choudhary-directs-officials-to-complet",
       "headline": "Patna Metro: CM Samrat Choudhary Directs Officials to Complete Project by 2028 - Metro Rail News",
       "summary": "",
@@ -434,53 +535,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna Metro: CM Samrat Choudhary Directs Officials to Complete Project by 2028. Covered by Metro Rail News and The Times of India.",
       "image": "images/patna-metro-cm-samrat-choudhary-directs-officials-to-complet.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "neither-approved-nor-disapproved-supreme-court-clarifies-sta",
-      "headline": "‘Neither Approved Nor Disapproved’: Supreme Court Clarifies Stand On Revised Form 6 | Bihar SIR - The Times of India",
-      "summary": "",
-      "date": "2026-10-12",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRHZ5ajRzQ21xNlRiN2lwOFZhZDRQOVB6Y2x4V2tSYmJ3YnFES2dzWlRYUkF5SkhyenNkck1TUlltUmc5RTFsQjloUWF6UXFBNEN0VVhReVhNQlBPMUx1RWRLSlBjU2NlRmFxUWRPd3llSExRZEhPUG9PcjZkeExJek5VYmpVTnFKS2tycVA2ZkFJaVhmUXNRRUlXWXhXMk5BMXhnTFFtalNtN3Y5d1daN3FpYW4zcmcxZ1hMZWVmMmtBQTRndUJWNnhaOF9pck9xaExzV3lFMEcyeGtoRk1kSDh0NGNLSFc1ZG1WRDZjOVY4SnpP0gH6AUFVX3lxTE5BeXJnTTJJUldGU0paZEo2alFCQjUxSGFtczZZRDNraGxZbms2azFrejVZRTVxeklHOVJ5M3h6S2tXcFFQQmJ6ZGxFbUhzcHJqcTRLR2JDdHhmbHlGTzFkdVBXMlY0OHRpQ3A0UnNsLThkREVocV9xU3lTWW1HcVA0bFpaR1BmZi1SQmN4MDVLTVZiNUUyNG5FVmdCOUlDSHRUc1Z5VkI5OUE4bkRLeVdPdVhzUW9DSE9RUnRlN3BXbENXS1JIZ25IMUxIRFpXb1V0N0xEOXFZZDVNd1JZR0ZjMzNCY3BqZXduZnVnMUNqMHJPTjVoYXcxQlE?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1Nzc3NsZ0VXeERNRmFnT1h0UW5iWWNkNjYyNUZwRkl2RGFmR2ZlMExaajZHNXFJckZJX0JHdFB6b0d1SnJ5cW9LcWUxUzhhME9Rb0dGeDZ0NmI2YndWZ3FHdjRLemRMMWZCWHZyeW5UaWYtbjNWdVZLRTloVlRUa2dERXYxa0IyWjc3T1R1eVY0TnNQajU1RGlSRGdhVmx4ak53X1NmQjlITDFMSlN3SkRjSUprU2RJWmNCcEc5SmbSAcYBQVVfeXFMTU9ZdjMyZWZHZmwwRS1PVVFfRzV4Mk9BR2Jndk4yenA2b21RekR6cWRBdEtXeExsbWpTTXp5dGdQVEY4cndILUh4TF93bm9aSTh1dzBxRGR2WnlyaG9xcHp4eUcybS03R0tQUUZ2dlY3OVEyQlYwOUJQR1J2V2lISjlST1lRbm5QbzBob0tDU01YcHUzdi1NRW1LbzRYeVItMTcycUFjRjliTVNnTlNFQVBYSGFoYldPUEY4YkZBQXlkZnk5dTdn?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOek9BZGtLWk1qSTVqaTVOc2RSR0diOFltM0E2V2pXU29LTEN1V2Z4bUhGNEdZWHY5aGF4Z0JqOUEzSGhLNmdkUXgwSktRWVVpM1JER2Jkcl94ZXZDVlFkNFpWOFlEN3RzQmZZR29EVTdGYXJkQ1g1dzBiR25kTFozOHhzNTZicGhXcTRqQldHcmxSUXpfLURsbkZlenp3MmM1M01GZ25rY3BUOHNWQ1BBbjh1SzNqTzVQTEtHdXhOcFY2UDZwak5ERUUtSzdZQdIB0wFBVV95cUxNZWpqb1VQRU9ZaldlQ1k0X0ZsUVI4V2JyR3lfZzF6SHl3dkRXRldnOWNDWDc1Tkl3dXpDMHdmd3lxcUtYQ0Jwem0wQTVPa2lORDE5RmVtbDgzOFd4NXNPY2Rna2w3OU1xai02UjRWa0NBalVkUHctemNmU1NwYlp0TkZ4MzZ4blV4eURNOGdJWFFGbjJHWlVlRTlFQ2d6aTBNZFZmTURSV0F4NEM4bHgyNktwLVVJUGVGWkNMYTNkT0ZjWUw4VFpnNVI0Z3l3WFpWME5Z?oc=5"
-        },
-        {
-          "outlet": "The Tribune",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2dCWDZlb2FQWE0tLVRvQU1aSzk5Mkt6QmRNT0hOS0VHVThfQlhHckdPSFdob3N0aFdNLW05R1BKb2JlbzJWenh2RS14OS16T0pTLVVkMGpNdXI4QXNwRHl2U2JNRVZqVFdPWHVvdjJLeWI5SzVBUWpfYnhpQmdzYndMdEp4Y2Y2WG1odVA3d2VwYUN5b184Tlg5d1lqYlhUUFJ1cC1UcFbSAawBQVVfeXFMT0N1MnJla3lkMjF5XzAwQWxCNWxTLTg5Y21nU0JjWWRSeDhPMVZBbGNGc3hfclJieWpjWHBwTFhIbzBDaVZ2UFRjWTdnOTJoeXQzSHpIUEVzYzAxbms5aVQxNGYtMkdEQW13NVhIeUJGeVFFdlN0d0V4bkxaQWs0YzBpNnRGeTJMMEZtZVoySHVlUi1oZTVWR255SkdPSVpEQm40cDFpZmJPT3lmWg?oc=5"
-        },
-        {
-          "outlet": "Verdictum",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hoOF9wUzZPaDlDcDB0TTloRDJfNFRrWFBNeDVNclRocWplUk9TSDJiTFczajJPVFZ4YXdOclNGSWRadHgyUTVLRVd6NGJPOW90OWZtUnhWTGNBQnFObHdIVDhhLWpyWEpVMjNCQ2FpM3hJemY4eDF1T2l6LVFtaEozUHl3cWVKc1Vydm9VRzAwcVF1V2JfSmxvT0J4OFpvMGxXaDdTeGM4Q3fSAbABQVVfeXFMUDhETWdfMmF2NmFIMFV2eTdaS29zVUwwMnIzalhUMVRSVVQ1d3VjRGFiLVFKaFlJZkFJUmRtb0ZSWGlCMVZrMHJfY080TG0yZi0zcVZsYlFfQkxaOTN1X3I3S3pCdzlhYUg2azNqcXVMY3JYYUJ4RHBTcHVkang2V1p6WlpHeUNNODlrREJWUjJ3cEhwckozWVVPMFYyeW5sMS0xQzN0QzJQRG1QTU1NTWQ?oc=5"
-        },
-        {
-          "outlet": "Daily Pioneer",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM253QzNiaU01VG1lZGNqdWFIdWpYTEVBeHVEUDRIdVg3R3N0T3ZOQ2FVTG9nV1FWbGFZeTRVVUxBQjJya0VfM05mTnY3YTRKTmFOTGhuekNPbHIyWGJHWVI0NUtQd3Z6UTNWc3pLUWJUZEh0WGxzVWNwYkY2bks2MGtQckg4VV9Zc01iUWR2dVJLN0NrWTR5aw?oc=5"
-        }
-      ],
-      "source_count": 6,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "‘Neither Approved Nor Disapproved’: Supreme Court Clarifies Stand On Revised Form 6. Covered by 6 outlets, including The Times of India and India Today.",
-      "image": "images/neither-approved-nor-disapproved-supreme-court-clarifies-sta.jpg",
       "image_kind": "photo"
     },
     {
@@ -516,57 +570,40 @@
       "image_kind": "photo"
     },
     {
-      "id": "six-stf-personnel-injured-in-clash-with-drug-smugglers-in-bi",
-      "headline": "Six STF personnel injured in clash with drug smugglers in Bihars Araria, 3 arrested - Daily Excelsior",
+      "id": "no-adjudication-on-new-form-6-while-hearing-bihar-sir-matter",
+      "headline": "No adjudication on new Form 6 while hearing Bihar SIR matter, says Supreme Court - Moneycontrol.com",
       "summary": "",
       "date": "2026-10-12",
       "topics": [
-        "crime"
+        "general"
       ],
       "sources": [
         {
-          "outlet": "Rediff",
+          "outlet": "Verdictum",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNVgxN3VDUTh6eGZoa0ZMQkhTa190ZUpCRFl4UzV5aDNwNEVrQ0FRbFgwMnNRT0VpcDFveV9EQWZMVU9pUmNhb1FhT0xHSHVkcTVyT1BBRzR6QUdfd0pTY2psc05sazBTWF9BNXZxYTh5NEZONmRZYWRiYXR0S2hxV1NfSk9FN1ZkUlpXTmxHMmhIbW9QWHpwQk1DZXJnQ05pOW5wRE9IY0RjazdZS1dNZk52eWhaZjkwUlhZeUlzODJUUUxSNEFmWFNYQUFXUUVCWFFFajEydXlZTGV5NmI2YU5oc0VTelRscTk4WmpVNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hoOF9wUzZPaDlDcDB0TTloRDJfNFRrWFBNeDVNclRocWplUk9TSDJiTFczajJPVFZ4YXdOclNGSWRadHgyUTVLRVd6NGJPOW90OWZtUnhWTGNBQnFObHdIVDhhLWpyWEpVMjNCQ2FpM3hJemY4eDF1T2l6LVFtaEozUHl3cWVKc1Vydm9VRzAwcVF1V2JfSmxvT0J4OFpvMGxXaDdTeGM4Q3fSAbABQVVfeXFMUDhETWdfMmF2NmFIMFV2eTdaS29zVUwwMnIzalhUMVRSVVQ1d3VjRGFiLVFKaFlJZkFJUmRtb0ZSWGlCMVZrMHJfY080TG0yZi0zcVZsYlFfQkxaOTN1X3I3S3pCdzlhYUg2azNqcXVMY3JYYUJ4RHBTcHVkang2V1p6WlpHeUNNODlrREJWUjJ3cEhwckozWVVPMFYyeW5sMS0xQzN0QzJQRG1QTU1NTWQ?oc=5"
         },
         {
-          "outlet": "Daily Excelsior",
+          "outlet": "Daily Pioneer",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUNTVGRBNVJnS3A4V1VJM3I5WUhPb2hSVkFoX3dTR1F0VVpLQzJKRFpvUVhYVW5HWTN2NV8wckJpMlpnSl9IR0JiTUxQWFpuY1ZSQ0xpX0Fmc2lvdlprZ09TVEVBeXA1dHVvc1pOdzZ3ZjFNUVlNNkRDMk5BZEsxcTNWWS0yMFN0YlBKSmlVUE1HczE1bzFpQWxsMlZkVUdxSlBISGNjS29vdGF2aExHQlppRXPSAbgBQVVfeXFMT295cHhoNjFMOUEwOE9CV2hzZk9QQnNzMVcwa2sybURuYlpDelNfNll1TFBVQjEyOTVJT3N6VGN3NnB5ZEQyTnlRVDNKSllRMVVLcl9tazlvRGotUklHZjg3UmMtaUxlaEp5Tk9UeFlzQUpRbzcwZE1LLTJ1bUY3VTRPcGNWNUh2aS1XQlpodmNRTVRWbzRzTWNHREVrYzNYaTJaZVp5ckk4TEtXU2R1QWlSLXZrWnVpRQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Six STF personnel injured in clash with drug smugglers in Bihars Araria, 3 arrested. A crime-related story. Covered by Rediff and Daily Excelsior.",
-      "image": "images/six-stf-personnel-injured-in-clash-with-drug-smugglers-in-bi.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p",
-      "headline": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir - The Right News",
-      "summary": "",
-      "date": "2026-10-12",
-      "topics": [
-        "weather"
-      ],
-      "sources": [
-        {
-          "outlet": "The Right News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWNpYU9nM1BhREtlOEtPNjdOTVM4NnRRNEh2OXRhRExQa1FZdVdCU3Qyd0JYQ0lUVUxBOWd0R3hIY1B3VVlQRmFuSkZnUGxob0JWTEdlbHZuamRUTEhxVUZ3V3g3UGVBQ000V0xtMEo4bjNfTFhuM3JjWjdjdUhwU250R0l2UGM4QUFhYjhTa2ZiR1BnemxNY2V0M011NkZMeV9rQVgwemw4Y2cxc1pMME8zQTAwemtJa002Vw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM253QzNiaU01VG1lZGNqdWFIdWpYTEVBeHVEUDRIdVg3R3N0T3ZOQ2FVTG9nV1FWbGFZeTRVVUxBQjJya0VfM05mTnY3YTRKTmFOTGhuekNPbHIyWGJHWVI0NUtQd3Z6UTNWc3pLUWJUZEh0WGxzVWNwYkY2bks2MGtQckg4VV9Zc01iUWR2dVJLN0NrWTR5aw?oc=5"
         },
         {
-          "outlet": "News On AIR",
+          "outlet": "Moneycontrol.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1ZobnNMdU9PX2tfejJqdjlLaUZLVWtWanV6cGdDU3hHbWZKU2tyMzNQZktlV0oxVzQyNjAxZmJtUFhXb01hOWxZVWd5UHVIN1hrTkFYY3c0SF9WUzEyYjRDQ1hxTktZZjlaX2RTZ2FpM2hKb3NDWlBJNDFqaS0xUkRjNUZOeEYyVnNDMERnMTJ3RVlOUmdXaXNXTUxHTnBTVmR5R0kzVHVVYXBvRXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOek9BZGtLWk1qSTVqaTVOc2RSR0diOFltM0E2V2pXU29LTEN1V2Z4bUhGNEdZWHY5aGF4Z0JqOUEzSGhLNmdkUXgwSktRWVVpM1JER2Jkcl94ZXZDVlFkNFpWOFlEN3RzQmZZR29EVTdGYXJkQ1g1dzBiR25kTFozOHhzNTZicGhXcTRqQldHcmxSUXpfLURsbkZlenp3MmM1M01GZ25rY3BUOHNWQ1BBbjh1SzNqTzVQTEtHdXhOcFY2UDZwak5ERUUtSzdZQdIB0wFBVV95cUxNZWpqb1VQRU9ZaldlQ1k0X0ZsUVI4V2JyR3lfZzF6SHl3dkRXRldnOWNDWDc1Tkl3dXpDMHdmd3lxcUtYQ0Jwem0wQTVPa2lORDE5RmVtbDgzOFd4NXNPY2Rna2w3OU1xai02UjRWa0NBalVkUHctemNmU1NwYlp0TkZ4MzZ4blV4eURNOGdJWFFGbjJHWlVlRTlFQ2d6aTBNZFZmTURSV0F4NEM4bHgyNktwLVVJUGVGWkNMYTNkT0ZjWUw4VFpnNVI0Z3l3WFpWME5Z?oc=5"
+        },
+        {
+          "outlet": "The Tribune",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2dCWDZlb2FQWE0tLVRvQU1aSzk5Mkt6QmRNT0hOS0VHVThfQlhHckdPSFdob3N0aFdNLW05R1BKb2JlbzJWenh2RS14OS16T0pTLVVkMGpNdXI4QXNwRHl2U2JNRVZqVFdPWHVvdjJLeWI5SzVBUWpfYnhpQmdzYndMdEp4Y2Y2WG1odVA3d2VwYUN5b184Tlg5d1lqYlhUUFJ1cC1UcFbSAawBQVVfeXFMT0N1MnJla3lkMjF5XzAwQWxCNWxTLTg5Y21nU0JjWWRSeDhPMVZBbGNGc3hfclJieWpjWHBwTFhIbzBDaVZ2UFRjWTdnOTJoeXQzSHpIUEVzYzAxbms5aVQxNGYtMkdEQW13NVhIeUJGeVFFdlN0d0V4bkxaQWs0YzBpNnRGeTJMMEZtZVoySHVlUi1oZTVWR255SkdPSVpEQm40cDFpZmJPT3lmWg?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "IMD Forecasts Heavy Rainfall Over Bihar, Karnataka, Himachal Pradesh & Jammu-Kashmir. A weather-related story. Covered by The Right News and News On AIR.",
-      "image": "images/imd-forecasts-heavy-rainfall-over-bihar-karnataka-himachal-p.jpg",
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "No adjudication on new Form 6 while hearing Bihar SIR matter, says Supreme Court. Covered by 4 outlets, including Verdictum and Daily Pioneer.",
+      "image": "images/no-adjudication-on-new-form-6-while-hearing-bihar-sir-matter.jpg",
       "image_kind": "photo"
     },
     {
@@ -621,7 +658,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Constable shoots himself dead in police barracks in Bihar's Kishanganj. A crime-related story. Covered by The Times of India and Rediff.",
       "image": "images/constable-shoots-himself-dead-in-police-barracks-in-bihar-s-.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihar-makhana-reaches-greece-apeda-flags-off-1-tonne-purnea-",
