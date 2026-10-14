@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14 20:54 UTC",
-  "generated_at_ist": "15 Oct 2026, 02:24 AM IST",
-  "story_count": 48,
+  "generated_at": "2026-10-14 21:35 UTC",
+  "generated_at_ist": "15 Oct 2026, 03:05 AM IST",
+  "story_count": 47,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -54,6 +54,44 @@
       "genuineness_label": "Verified",
       "brief": "Vande Bharat Special between Delhi and Patna to halt at Kanpur, Prayagraj: Check complete timetable. A civic-infrastructure story. Covered by 7 outlets, including NDTV and News18.",
       "image": "images/vande-bharat-special-between-delhi-and-patna-to-halt-at-kanp.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-left-wing-students-defy-protest-curbs-demand-cec-gyane",
+      "headline": "Patna Left-wing students defy protest curbs, demand CEC Gyanesh Kumar’s resignation over SIR - The New Indian Express",
+      "summary": "",
+      "date": "2026-10-14",
+      "topics": [
+        "politics",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONnhWRjExa0FVZkFhVlFSTDlHZWVELWRKOXlQb0hxckluVWZCVmhRNGVNejROM2NFZjVHLVNld1ZVR011U0RjWjRQWFFUMFNWYW9oZzA0ZTRNN00yT0J6TXlQQU1GOWRmLUhvaUtjcDhxMC1UQ2tzNmtxV3Q1d0ZOSFdBM2VXd3BZVEdmTUQzMUZISlgtTTBvNnVFMHdpaVBHTjI5cDRuU2E3NkJJd0UycEhuNjAwYkxXdWNpOEQ0VGw0ZW83UGZ6T3JSeDQxZXJtOGUxUkd3MEZXSVNFSVJWdnR30gHvAUFVX3lxTE16bHl3U0RzRTAyRS1LU1FMS1lBNDl6YVA3ZWV1amlWSHBoVjBYd1hEdFlGVFhEVS00UFBRRzl4WDNraEdvTVZYZWpXVW03UVVMT1BlamJWYVU2aFpKMVRFeExWU21veWJQSEx3T09OWXJMYk1VZ2hlSW5UWjMxMUlsV1VXRjJwcFA5TUx2U2NsVjlQZVJwZFU5RlptWTZtZnkyQkotdVlMQklJTXA5S3hfZmJiWlU1djZGSFdsVkZMUVFVQ3lwMnNpb2Y5NWQ2bGtGSUk4SFNPenY1VTJfaGdieVRJTHFDc1k0ZWxCdzln?oc=5"
+        },
+        {
+          "outlet": "Inshorts",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWlOUmVCVTFBZHBEVk1obENhLVhxaU5Gd0R6czZXSm1iYm9YdG5XOXFOUWlnMXNYY2plM0MtR1kydmJZR0hMQWh0TXUtZk4zMDJLWFdLbGlJV2s3bUpPUGhoTldzbE1BT1pSX2xvdWtwcG1RMXlSOG96VGt4V2swU1VXY1E5N0hzOGFFUUl0NkplQ1dvUTlkbmhZSGp6TTBNR3NCVWdnMUJlTmtBcUHSAbMBQVVfeXFMTjhZZnpCbU5PODVkUEtZTFpwQlZPOEd1Z3g2aU0tQUYwT3BDaWZLRUpNak94ZG9FMXNRLW5sV29UQlRWQzN3dEUxcWxqN1RKQ0dmS1JJUVQ0RUFnMm9XSXNqYmVMQzdTQ1Y3cVZHRVowQ0dqUm1zQ2dFQTY2T3pRM0taOWtmZWVsTFBDMmQyOEdhd2QzYVNYVExHTEpOUVJsSkZSZy15TDlTakdxN3ptbi1TODg?oc=5"
+        },
+        {
+          "outlet": "Clarion India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXZ1ZlNFTjhCd004OEVPc1VOajBUTEExd0VVZHdYU09Nb1pGQXZ0Q0FKYnpJbXdqclJVbmcxQVlINHRwNHM0ZU8yUEJLRFJfR3AtUTlQaWlsdTU3RVRKRkNmU3pSS2xvRUs3TVlmYzhZMzEzR3lmQTVNWlBoeHBjWGVZclZGeGpfWDU5LWZOSENVNllRQmUwS0FsRTBKV09NQXRJVFJZT29vUFk?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDdqekdqWHhzY1BNMm9mUDVQMnJHTVR0amc2Yjd2R1p2b2xuRnNObWk1emtLTGF0QzBhMGVtM09NWWlXUngtMWF2NGs5TmxvSUttNEZIMkRpQ2k5NVpUa1pZc2llc3lGUDJFTEZlYW5IZnNISDhsVWdVb1RnamFrZnJQRURuaEF6OEd0bWlJWjJpXzhmYjFqNlNCVjk5LUJySmstTF9yV2ZIZjhXempSSWxSMlVEMDZsSGhTVGZ2a0wyUERYZ0hhaVZidkprLUZnRTNHTG0xWEJUUHRmZ0xacQ?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Patna Left-wing students defy protest curbs, demand CEC Gyanesh Kumar’s resignation over SIR. A politics-related story. Covered by 4 outlets, including The New Indian Express and Inshorts.",
+      "image": "images/patna-left-wing-students-defy-protest-curbs-demand-cec-gyane.jpg",
       "image_kind": "photo"
     },
     {
@@ -119,44 +157,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "patna-left-wing-students-defy-protest-curbs-demand-cec-gyane",
-      "headline": "Patna Left-wing students defy protest curbs, demand CEC Gyanesh Kumar’s resignation over SIR - The New Indian Express",
-      "summary": "",
-      "date": "2026-10-14",
-      "topics": [
-        "politics",
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "Inshorts",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWlOUmVCVTFBZHBEVk1obENhLVhxaU5Gd0R6czZXSm1iYm9YdG5XOXFOUWlnMXNYY2plM0MtR1kydmJZR0hMQWh0TXUtZk4zMDJLWFdLbGlJV2s3bUpPUGhoTldzbE1BT1pSX2xvdWtwcG1RMXlSOG96VGt4V2swU1VXY1E5N0hzOGFFUUl0NkplQ1dvUTlkbmhZSGp6TTBNR3NCVWdnMUJlTmtBcUHSAbMBQVVfeXFMTjhZZnpCbU5PODVkUEtZTFpwQlZPOEd1Z3g2aU0tQUYwT3BDaWZLRUpNak94ZG9FMXNRLW5sV29UQlRWQzN3dEUxcWxqN1RKQ0dmS1JJUVQ0RUFnMm9XSXNqYmVMQzdTQ1Y3cVZHRVowQ0dqUm1zQ2dFQTY2T3pRM0taOWtmZWVsTFBDMmQyOEdhd2QzYVNYVExHTEpOUVJsSkZSZy15TDlTakdxN3ptbi1TODg?oc=5"
-        },
-        {
-          "outlet": "Clarion India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXZ1ZlNFTjhCd004OEVPc1VOajBUTEExd0VVZHdYU09Nb1pGQXZ0Q0FKYnpJbXdqclJVbmcxQVlINHRwNHM0ZU8yUEJLRFJfR3AtUTlQaWlsdTU3RVRKRkNmU3pSS2xvRUs3TVlmYzhZMzEzR3lmQTVNWlBoeHBjWGVZclZGeGpfWDU5LWZOSENVNllRQmUwS0FsRTBKV09NQXRJVFJZT29vUFk?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONnhWRjExa0FVZkFhVlFSTDlHZWVELWRKOXlQb0hxckluVWZCVmhRNGVNejROM2NFZjVHLVNld1ZVR011U0RjWjRQWFFUMFNWYW9oZzA0ZTRNN00yT0J6TXlQQU1GOWRmLUhvaUtjcDhxMC1UQ2tzNmtxV3Q1d0ZOSFdBM2VXd3BZVEdmTUQzMUZISlgtTTBvNnVFMHdpaVBHTjI5cDRuU2E3NkJJd0UycEhuNjAwYkxXdWNpOEQ0VGw0ZW83UGZ6T3JSeDQxZXJtOGUxUkd3MEZXSVNFSVJWdnR30gHvAUFVX3lxTE16bHl3U0RzRTAyRS1LU1FMS1lBNDl6YVA3ZWV1amlWSHBoVjBYd1hEdFlGVFhEVS00UFBRRzl4WDNraEdvTVZYZWpXVW03UVVMT1BlamJWYVU2aFpKMVRFeExWU21veWJQSEx3T09OWXJMYk1VZ2hlSW5UWjMxMUlsV1VXRjJwcFA5TUx2U2NsVjlQZVJwZFU5RlptWTZtZnkyQkotdVlMQklJTXA5S3hfZmJiWlU1djZGSFdsVkZMUVFVQ3lwMnNpb2Y5NWQ2bGtGSUk4SFNPenY1VTJfaGdieVRJTHFDc1k0ZWxCdzln?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDdqekdqWHhzY1BNMm9mUDVQMnJHTVR0amc2Yjd2R1p2b2xuRnNObWk1emtLTGF0QzBhMGVtM09NWWlXUngtMWF2NGs5TmxvSUttNEZIMkRpQ2k5NVpUa1pZc2llc3lGUDJFTEZlYW5IZnNISDhsVWdVb1RnamFrZnJQRURuaEF6OEd0bWlJWjJpXzhmYjFqNlNCVjk5LUJySmstTF9yV2ZIZjhXempSSWxSMlVEMDZsSGhTVGZ2a0wyUERYZ0hhaVZidkprLUZnRTNHTG0xWEJUUHRmZ0xacQ?oc=5"
-        }
-      ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Patna Left-wing students defy protest curbs, demand CEC Gyanesh Kumar’s resignation over SIR. A politics-related story. Covered by 4 outlets, including Inshorts and Clarion India.",
-      "image": "images/patna-left-wing-students-defy-protest-curbs-demand-cec-gyane.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "patna-high-court-overturns-attempted-rape-conviction-upholds",
       "headline": "Patna High Court Overturns Attempted Rape Conviction, Upholds Assault Charge - Rediff",
       "summary": "",
@@ -213,12 +213,7 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbFV2a2t4eldULXVTdEJPMTczbUdSa3hKS1lsZmRneVZ4RkdSOGdhb0ZLV3RocE96VnJmemQ2a3Nfcy1IeFFYdG1IT3RZNTBaMGg2UllPRXNKdEMtc0dFOXpyN0VrbDJVbElTamRnWEpMdnJQdlhTVVluLXA2QlZUVEFMLTBpRi1zTHZvb21fXy1SYkhEazZaM1JKUS1lZm5FeXpHcTl4SldwTVVNZGx1NmJmek1UNVI4ZmYtMUJaOHdteTV6RFJBTVg1c3R3UjJ0MkxEbQ?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWFkwaUdTOHVLc2tUeThxVU9iOExMcTFhaXU0RVdVQW42Q1Z4MXNtcGZ5ZzRqYUtNWno3VE0zX2gxbTFhWTRUSzBHNGE5b2dFdEpXVnNDQWMwR0hieTA1Qm1zV08wZWlyTm85ZUVDWDB5bzVGbk55bWZfcUl0MVRKRThmSlF2UXdqSDZWcjJUQy1vaGlFNndLQ2VxTS1Lb191aktLVGplb016Ul9UNmRZUUVsVmFCSDFKSmxVRUdpQUo3NUphbVppM2Nhb2dnMmtrTEhxSUtaSm0wMTTSAeABQVVfeXFMTW01QUNSZlpKWllwMFhJQWdvbzJWbFllellfbnZ3clpzYkVLWlYtT2FMR19CeDBhX29kNmdQQ0ttS2dKeXJaaTdYNlBYS3NGV1E0Z3Y4NHRaYS0tVUpBUEdhVHo0ZjVRTE9nUlZnWG9lOFY0dUFYbXZmNUFjb0o3YnNwVjRRM3ZsYlNBUTZ5eW4takZUSDJhTnFiUVE3cUFWZFBsRG53cDBEaldwR1RLNjhIdXd4eVNkcnN5NFlBR0JBNzduSzZNZ21xbDhoWW1uem42aWFVczFvRGdxR1Z6VUs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbFV2a2t4eldULXVTdEJPMTczbUdSa3hKS1lsZmRneVZ4RkdSOGdhb0ZLV3RocE96VnJmemQ2a3Nfcy1IeFFYdG1IT3RZNTBaMGg2UllPRXNKdEMtc0dFOXpyN0VrbDJVbElTamRnWEpMdnJQdlhTVVluLXA2QlZUVEFMLTBpRi1zTHZvb21fXy1SYkhEazZaM1JKUS1lZm5FeXpHcTl4SldwTVVNZGx1NmJmek1UNVI4ZmYtMUJaOHdteTV6RFJBTVg1c3R3UjJ0MkxEbdIB2gFBVV95cUxPTER1TWtzVm5fRVBpOEtuQmQzOVhpMUlBTUlLeUhzSGEyckR2ejVhbURPMnZUZ1hJcFY2ZDBNVTRvRVo5ejk0T0VRVFNIQXdmVUh2Ny1MeWh3c084Zzl5VE50YjlJZTdZTExkR3FvVHBydXpsV3N4Q0djMEVnZW1DNTRHRnU3YUhLaV9kLVJmZm5oVHN3aTlJVncyQ2dRUnAyVVdxVkU1V2tBWmZXUi1veXRQbXFLVDlrd1ktMHRtdWFLeFlVWVlCa0o5elo0d29fVGtJTElMUFYtUQ?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -239,6 +234,11 @@
           "outlet": "ETV Bharat",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2tWc0l3REhKOUZPbnk0T0REalFiV0FaWkM5ZG80QUtYSEdoek5BRW94N1VZN0U4WGhkWjdpVUZNUnNaUlYzZHZBVzh1TWVXRDZOelhIejloR21BUXJsd0tnLUNmS3RVZ0t0dWFvV1RaRE1rdFg4TE1jcDdDdjhDZ2JHeHpQeTAzcGN3OHRxQzNEWUc3OWdRekpWN1_SAaIBQVVfeXFMT3UtQXRSVnBkazM0SFlYRWVPNDlmUVdvZlAtcnJPemttMEozZ1FkaXJMUzRXdllZcU9zTU9LNENIMDZzeDFJVm9oR2Ywa3JpcVpDWWFKd3JwakszZkRnSklQa2hHSUo0T2c0SWNxc2JZM0QzZDFwdC1XaDNLQURhVlZRTUFUcUFNQnBvNEJ6UFRTU2lGSnpRdC1YWl9HczMwM3RR?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWFkwaUdTOHVLc2tUeThxVU9iOExMcTFhaXU0RVdVQW42Q1Z4MXNtcGZ5ZzRqYUtNWno3VE0zX2gxbTFhWTRUSzBHNGE5b2dFdEpXVnNDQWMwR0hieTA1Qm1zV08wZWlyTm85ZUVDWDB5bzVGbk55bWZfcUl0MVRKRThmSlF2UXdqSDZWcjJUQy1vaGlFNndLQ2VxTS1Lb191aktLVGplb016Ul9UNmRZUUVsVmFCSDFKSmxVRUdpQUo3NUphbVppM2Nhb2dnMmtrTEhxSUtaSm0wMTTSAeABQVVfeXFMTW01QUNSZlpKWllwMFhJQWdvbzJWbFllellfbnZ3clpzYkVLWlYtT2FMR19CeDBhX29kNmdQQ0ttS2dKeXJaaTdYNlBYS3NGV1E0Z3Y4NHRaYS0tVUpBUEdhVHo0ZjVRTE9nUlZnWG9lOFY0dUFYbXZmNUFjb0o3YnNwVjRRM3ZsYlNBUTZ5eW4takZUSDJhTnFiUVE3cUFWZFBsRG53cDBEaldwR1RLNjhIdXd4eVNkcnN5NFlBR0JBNzduSzZNZ21xbDhoWW1uem42aWFVczFvRGdxR1Z6VUs?oc=5"
         },
         {
           "outlet": "Deccan Herald",
@@ -326,11 +326,6 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzRwOUFqT2IySGx1bzV5UERhQnhOb0JQTnFQemd0SmdLeWtnVHdqbTlQdlhhRHc4cjk3QUtJVV9TaUVEaWFpYmtVRFY2bVlnRnlzb2RzZDBwUS1YRUhWYmJTWF9XZTR3TDJrbGY5czNBLVVreS1uTTRoNVM0VzJaTkFhakFxUWFpOFl0aXpBMHB4cHEwNW53cVdveGh6TUpVS1BHSGY2UDFrWVpuOFVsVUl2UzNOU0JEQ0JzOHlmc2psd9IBxwFBVV95cUxQbkVqVmpVQmQ3cTNCRGp2YWRoaGNNRktaSjZ0eXVtbS1WdXlpYWVOVzNLNk12UE5IbUFVd05uTGtMNm1FTDlEbDhLRVhJVC1Rdm1seENTR0FXRGxuNE8xZEhIMXFiWGltV2dPUUs4aV9ieFlVLXJkTXFCc3VyUnVrU09EZDVzZUQwdVRXZXcyeGVyRFlkNnA2LVY1Y3FKQjNQNzk5ZmVvajhYaEp6eUR5eW8xYWVaTXhyZEs5cGJHemxUelNaTlZv?oc=5"
         },
         {
-          "outlet": "India TV News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQOXRwYkY0czRjWWpOMlF6bVN1cE4zeFhvNjg5QllSYzhseFFENGNmV0VBNE1WT2lGdllzTWFrZGlzaWYwOWxuU2xqREYwYW5yU0F3c0hGc3FQY01QWnZpQkhmcEZwWGVjVHhybjQzUThaVkdibE51LWJXeTJFNUg2dDFtS1YwNEVTVjQ3azF4MDY1TVc4RXh6MUdrMm56U0dlMi15ZVdfLWFoYjB5cUlfX0U3dzc1T0N5ZnlQZVMyUVR3VDBhS0plR3lxS0VJUUVlNUptWnRpM0lQU0FjU2ktM25PeFRJWnhDa2NpZG9RRkQ2QzBPd2J6ZHBxczZlSWxiczFMTjBpRmtPRnFhNTNR0gGUAkFVX3lxTE41OTVyRHhhUEN0UndZWHF6RllORXZwcjRYUDVsVjRLenlBR1V0amJhVWZobnc3ZWZETnRvaWJ5VVluaWhFQTBfYmtFeG5rZFJ3a3JXckJncFdBVlZONU96ZFNPQnhzUzRPVGdiUzl1MjdmZlBxaFRORmtJaEU1ODd5M1ZKOWRKalNaMWttZm9CamhURE4zNVdvOVZxaGVmUWs0Rzd2bjVVemhRZUVlVjIza2lQcndVNUtzTEp1MjQzdV80dUphbVdkOGpuYy1vVm8xdm0tWnVXU0ZNaktqdmVrMEtIY0ZmZmFUbDAzbmdsQWZWM1lXQnpXNUdTcF9RNFRUNURrbjE0UFNRUUVtbUk5d3hLUA?oc=5"
-        },
-        {
           "outlet": "Maktoob",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjNMQUpDY1AzekdLNFRTZF8yekNFck9BaVZ0VF9ISWZ0N0NmQW50a3hrRnNlSDdYMmRRQndaUHZvTjlOQlFzRU9pZlNfeEhkTXk5WVl5TlFTMXZXUjRrQWV2LTVwcjQtS1d4QkRid0liNjlXMWVPdzY5Z2lOZWdzcmg1U0J0Q1RleFhSVWdHN2laeFNlRVpkclFlMUEwMElBVXZYZlVESFF2UkQwTTA3b3RFenFiX01yS2c?oc=5"
@@ -354,6 +349,11 @@
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjhiRmRZeFFGcXNISFJmVVZ6bEIyR3VodFUtSmZ2UUFyR1A3M0FtaGpMdFZtLXN0bzVMVkVjdXJmY284aDZJemVVU3FZeWhCcklrSnA4YUpPeHVtRFFSVHZvSVNudlZSV1lyYjE1bHVPTm1jVUphakJWRWcxUVlqemlRY2ExenpYbzFVY1RFeGNiMlJkWlN1ekFqbk1FSEFMWXktVnNtYjZmeW1nZXfSAbYBQVVfeXFMTXpoMExZU0JJYlFhdVVMVjlqcXYwUlBDN2lKV0dtYThrRXNGcjBzVUV3dDZ3VTl6ZGN1R0tfTjRlNVFYZzl0b2hTMlppMVhwWnNKNzFLVGlZcDYzVXQwY1dQazczVlU0a3hNTnBxN3RnMEdGa1ExdUxIQVNXakVoT2ZuQVhMMk9abk5zNG9hc1lTa3RweGtvcFZVQXFZY0VEUklhX0J6ZVVDZXdGYTBnamNfTmRoSXc?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamViSFpUODZHeWptTzZWTEpHelRtaXVxY0xpYzRGeDhGTW8xbkxoblZYbzZvSUNPal9BYjBkUlVuVk1MdXJqOEJLZi1PQ2FFUWNCZ2IxU3pyY0E2WGNGcWNBeWFra2ZGSmlOVU0tZGhkYTRJUjNsc3daakNjNk1udENtWnZwMmY5dlJsXzR4Qi05SFVBTmpWSk5YNWFyRlJLQkRQTkNfMXl6WmZKZnh5dFplcmwzX3QxSUxEbkdPQ0V1T2FhYlRwVjdHbEpSelE1?oc=5"
         },
         {
           "outlet": "Daily Pioneer",
@@ -386,9 +386,9 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWNaYW1TdmF3bXRIODJoem5TUENLMnlCeVY1RGs2ZzJPd3plZGp0WS10R2FHTjRidkNXWWVSNWtkSVJ1c3R1QkRCd3paUi1PMkJITkttWS0tVjFnNnNHZnY1RWxRVlpQalVINDV0QzlRbjhwbENjWUE5X3Z5MmZmQ3o4MVNqQkpWZG5Ub2tMUXExSXNsdl9zd0VSOXZzRU5UX0pVMkpBYTUzR3psWkhRWm96eklKRW9VT2tCZE5Edw?oc=5"
         },
         {
-          "outlet": "Rediff",
+          "outlet": "The Economic Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamViSFpUODZHeWptTzZWTEpHelRtaXVxY0xpYzRGeDhGTW8xbkxoblZYbzZvSUNPal9BYjBkUlVuVk1MdXJqOEJLZi1PQ2FFUWNCZ2IxU3pyY0E2WGNGcWNBeWFra2ZGSmlOVU0tZGhkYTRJUjNsc3daakNjNk1udENtWnZwMmY5dlJsXzR4Qi05SFVBTmpWSk5YNWFyRlJLQkRQTkNfMXl6WmZKZnh5dFplcmwzX3QxSUxEbkdPQ0V1T2FhYlRwVjdHbEpSelE1?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMUE4VG9DQ0FWRGtMRG5mam9DcDY5d3hKWnBJYUM1VkxwVVpEVjVVa25JN3p5UV93NXNLRTQ5ZlVqUWJ3LUxaZmlvSU9wM1JON3p1NnhBSnpBcjZqYTNCRmRDTHgwRl9YMzl2OVZ6bW9JT0JsYTRUQTdfanJDcVFERUwxWXM5SWZ6d1NZWnl0UzdwQ0h6Rzhod2ZjY3JqWTduMU03WnJfbHJtQ1hQNTdxb3hkWE9xTzRHaFdXRmxwT1pGRWVDTnVjVldCU0plZmhUSUJGd2xyZ9IB0AFBVV95cUxOa3ZMWGhUZG9kSjJTcXpWQmtlYVF4alY1WGNXdjlFZjNySndIN0Uwbkc2ZWNEbnpwZE1xX29OWVEwWkdaQllEVzR3NW1MbldCWnJoUGdHWGE1YXk4Mno0dHJvVlRjbFVCQlRpRmxXZWVxa01pcUt2N0lET3I0UXdRelZOYVNhOFBwSHBaRldxZFBieHRYeGxtUkwtbDROOVFxTHUycGg2ckJmNHFWb2Rvb3phVk1YbWEyYUR1aTZsQ0xWT3QtNVBvOVg5UWVmZncw?oc=5"
         },
         {
           "outlet": "News18",
@@ -406,10 +406,10 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVltaWJLNXVvV3NLb0xtVVNUbTd2aUpEZnFxbFpocUFpS25XVWhzdHpfbTVtVVhSOEhzRXFnM29CWXlic0daR0xmcDR2S1JHZ2RHekJ6OXRFWVAtdURmamhsZm91SEl1SFhPcGljM1JkVzVOQTI0NlIyaUdES2lpTG5GeTVEYmhXY0x1U0FKYUs5cmplaW9lZ1JZT1ZDTHhjNllITEFtRDNMWnZ5c0FRdW5jU1R5cV9WRGc?oc=5"
         }
       ],
-      "source_count": 26,
+      "source_count": 27,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar’s Vaishali Boat Tragedy: At Least 13 Children Dead After Boat Capsizes; PM, CM Announce Ex-Gratia Relief. A crime-related story. Covered by 26 outlets, including The Times of India and Hindustan Times.",
+      "brief": "Bihar’s Vaishali Boat Tragedy: At Least 13 Children Dead After Boat Capsizes; PM, CM Announce Ex-Gratia Relief. A crime-related story. Covered by 27 outlets, including The Times of India and ThePrint.",
       "image": "images/bihar-s-vaishali-boat-tragedy-at-least-13-children-dead-afte.jpg",
       "image_kind": "photo"
     },
@@ -564,6 +564,11 @@
           "outlet": "The Siasat Daily",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHNCUE14RkFwd0JOdzdJNzdLRl8tU1BuTWVHeGdlRFM2T3VWd0t4djRkVEp0TTkxeTV6TXA0eUR2QUdsUmprWlo4b0xBSndiQ2xYc0EtclIxbGhkd2h4WTY3Tm5DQ0lEcThTbHRYN1RLVk1INEx4QVZDeGJqdFlXczdjazlKY2wtbk94b2hka05LU2VFMmIxR203ZTdfMVFZ0gGmAUFVX3lxTE1EdDZVOFVqOFQ2OVhGUGFmRmZjcjl3Z3phb1JndHFCTHNtS19WamdRLVI4SGk3QnVkMHg2ZUVyVV84Nnd0SlJoem9GYnhVNWNXN0xGQS1HenJRYnVPdWFCcE92eW9GeE9LUHdiN3RhZlBqX2dLZno3cmpuUWZFT3FabWstWm1GZWJGZkM0enYwTU9jY2piMVhfdHJDMTdTUVgwVmNZaUE?oc=5"
+        },
+        {
+          "outlet": "The Siasat Daily",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUkRCbEJZU2Y4Nk43QVA5Y1hneFNkVXlBNldtSklPek02U3d0SXFBaVluNjI3ZUgwYzBhWk9mSUxNbmhrZFdHbHFPajM5Q0NGMnE5QjFpSnhxa0pzaTBhVl9FUVFmQmFVamNTemZuN3V6eFdwd0Y0U09fLUpkV1gyT0VybDJ3WjVqc3JPVmw5eWrSAZYBQVVfeXFMTjBHYWRmenlyRk5lNmZwYng3ZGZKblRQMUtsVkxZRGtKOWpGSTVVRWRmc0F5REMwdkJ4bFYzUEcxTjdNX3dQQXh4TXlmTmthVVg0NENDekZoWF9CNTR3d3hEMk83U2lnQjFzbDdkdy1YS09FRG0zcnZDaTlwZHRJMmtuVFF5ZVQwdVJDZWRkenpEXy1WWmJ3?oc=5"
         }
       ],
       "source_count": 4,
@@ -638,19 +643,9 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbGFUalpaRVlTSkhvUzl1YjBLSkpabF9kU1ZYNFBTSUotSEhHTjFsakcwTmgzbnRPMmhFeEh0My1pOE5GZ05WYzQwNWlOZjhOSTBZTUlyWVRaR3I4ajhqQmN2U2pXeHdfX25oZ2VDN3ZkQkhob2YzUnFlaEV4NzJHWFAyeGEzOFdkMnVOdXJuTE1HcFBIeXhZd1h4NG1BbDJrT0NNOGxGclVKWnh3QngtOEhBR3VreXgyT00wYWlwdUQxaVRBOEFPUWg1a2dvTnQ4SFc1b1NrWWRWaG9FcUpKZU9CSWpRY0lXYXhYOW1mdU5NMHZ5S0ZaREl30gH_AUFVX3lxTE80clJCa1pCYk9tTk00WWViTmE3UUtiZ25oU1JReUUycHN6OTNmelJWWFJBTmNlcTJyenZKWHJ1NE1VcVZGX1hIaW8zZGN0UTdoZFRwQkZNWVlxcFd2TXl0NTFvTHNLdnk4cEFDYURXWGdzQzZKYm1TVXpDcHhQWTZwVTBWNUFNYnZ4Vmo3c1h4TkxxU3YyZUI3eFV1Ylh1QWQzeUxTMEg4Q3Z2TXYtc1o0WmNVVU9hdkFqV2p6VThTOG03T05SN2pLRE5HbU1sWXZnQ3pCT0tYZkVqSGhXVGd2bUs2bjBwdVA4RVBBTlI4a2pjWl84YjJXYzlDVU5oSQ?oc=5"
         },
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTDRnbTQtSUx5WnFXM01FeExvd3JtdV9VcG95amFyTG13eWMtUjVxbTd4QzZybGR6a3NDWmRvcGxyNmhyZUtEVktRN3NIdFNGaFNPbHQtMmctYmNKZzNxMXYyd2NCeFZaMXJ4WnFXc2RTb3JhaDNPQ3lwd2VOcVkwcFFzcmctU3NWdFdySFlSSGdrZDlHNTk2OWMyalpmWWtGaF94emtkZ3Q0Q3hoVkhr?oc=5"
-        },
-        {
           "outlet": "Amar Ujala",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcW81V0dTcVhlSHBxUkJzY2tLTWszMU56allhdVRaZHNkMHdRQjd6X2hOOHFkbEVCeUlCX3pnVTN2eXl6TGRLZm1KbzNFTGwtSmFhdWdWV0pvTUtsUnJFT090WkFVOWZSR1k2Z2FrZThlRWVnSWt1NlNwdjdFMzd4dEYtc3BNWjBjQ1EyWUVQSFdYLTloQ3RmSzNMOGpwdlhVVmRmVFB5enFUbTBfb3JBSEU0c29kUkwxRUEwT3RiemRDWF91RGZZaklBSkRqR0x0T0c4ZUxmc2M3d1Iz0gHiAUFVX3lxTFBvaTJ0ay1CbWdBR1BybzcxYlJuelVSM2d3ZVQ5X2RzdjBqMndsQVE2dkJjaHNjbHo2eFJISnduX0hNaWtucHRhUklPOHRXSEhCZERGSW40eFktY1lVdmtGbUYwMnBSQ0ZUa0xZaDF3LVM3R1RUQ2IzSmlQWDlMcWtPV3VwTFgyVGpiaFQxYUsxU3pIZWRWNWhCT2I3ZDZzM1o2cTRDM3BBUS1EcGJOUjZQMzBoM1Y5MzYwQWhjS1RiWkhxaUhvd1RDbjFtSklnM3JTSTFXdFdmc19kZDJHRFpNTlE?oc=5"
-        },
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUU3LXFBZzliVndheTN2WkpadW9DMDE4d3ZTYnZkLWZhdHRzVTNJZGxjaUF3ZDExQ2s5cTUyRmhSMk9EWFRabVFlWjBESE9OeVR1RW5zRlpRNEt6UDV6VnFZUUJ2OG5KVVU4bkhRWmVvNXBjMUlUc1RWamxzUkpzVVJBSWd6NVdpc0w3RVh5TW5jMzJBeVlpVG9BZ0l5eFNtWXBPdjFxSkF6QzlHR0JBcTNtSnRQcVhiZFhZN1E1ZlEzcWlHMlkwaEN1YlBCeWZkSEVXdndpcDFfUXVvMEsyelQ1bFhDcXJrVXd4UtIB8gFBVV95cUxPV2hMT3lGX0ZEWVB4SkozQW1JamNOdE5DRGJUNTRDaTZLT0xyYTg4R1Rra0JCeTUwR3AwX0NQY19uTnZxcFl4S2wxS3NBX0I1MWM5TmRJZHFMT3BsTnQ1NmRSTEtuLThOY2JuclJ3MTFaWjkxQXhrQ2laaTVHUUlpcXI0dDlFakFMRjQ3X2hjUHJUNHM2X0dTbjRBM19tN3A3aHlLVlZOWWdfbnprRGpkVmpoYWdaNEFGU3Y1SktXcWdheExqdkh0Mk8xQkQ5SEVYaUFfYndiZ0M2Z0dxaHBrVUJRNmwwWUFuVzdfajZ5NTRNZw?oc=5"
         },
         {
           "outlet": "ETV Bharat",
@@ -661,6 +656,11 @@
           "outlet": "Navbharat Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOX0F5Q2lUZWxmUkVxcWJiTjJnZEo5UXVoOXFQTWQ5YkRVSnNkZDFIVGRfMkRnNVVpVWl5bTNLcENPNExOSy11LUtXNUhVOVAzNzBjTlBPNVFXOE0waEV0RGt5Z0R6bGRDVnhVc21OT0VjOTRFTHdLVWZad3dvbmtaZGl6cGV1RjdOdURfbk1mSVNGNW9kWk1RcDdvbC0xQjZZZTRhODFFNGNXVXJ1R3hIaFdXcFNZTzBFMmsyazVuX2U5Qk1LaU9BMFp2OXRKcDF0c3AxTTNOTTVkU2JKRTRodi1lQUxnM2JXdFJrQ0VaNkxZcWpFWThBYTU3R1c5N3VqcTlPc2hFVUFrWXBMRnF0UHl2YW55NVI0R2I1NjM1UF9YdHZKMmVFOHBpVFJpbGk0OE1EU9IBugJBVV95cUxOVGM5Vm41czVoWE5NWG9TLV9nZ2pzYW81SWFvZHlCWGJvaG4zX0sxdFpPTlBSNlJsTGZoN0JqMExQTlpzNXRiNndwNlg0Wk9SOWdYRjNzdFBSX29DLXQwdmJYY1V5QzdIVUdySjl0TW9jaXhWSUlQVUlRcDhHMXRpM3Rua1FJZ2x0QzJ6SVRJLXhfalRHU0RoRzUxeGRGRUtLZEJlRzhCUmlSM21lN29feXVpazNHcUY5Q2QxZkRYaWdQemFiNGIwdnZkeWtTd0xGWFpTM1Z0c2tUcEczYi0zSzJXYTMxUjFmN2JTdVBNY3o1Rm1rWFpIQmFaX2p3RHhUVUF2cjBsVnNwcy1iaVZ4cWpoUGctQ0pvOHg1dC1VZGo1Ul9FOURUWW8yZnRzMVhqbVV1Q2dUbUh0QQ?oc=5"
+        },
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUU3LXFBZzliVndheTN2WkpadW9DMDE4d3ZTYnZkLWZhdHRzVTNJZGxjaUF3ZDExQ2s5cTUyRmhSMk9EWFRabVFlWjBESE9OeVR1RW5zRlpRNEt6UDV6VnFZUUJ2OG5KVVU4bkhRWmVvNXBjMUlUc1RWamxzUkpzVVJBSWd6NVdpc0w3RVh5TW5jMzJBeVlpVG9BZ0l5eFNtWXBPdjFxSkF6QzlHR0JBcTNtSnRQcVhiZFhZN1E1ZlEzcWlHMlkwaEN1YlBCeWZkSEVXdndpcDFfUXVvMEsyelQ1bFhDcXJrVXd4UtIB8gFBVV95cUxPV2hMT3lGX0ZEWVB4SkozQW1JamNOdE5DRGJUNTRDaTZLT0xyYTg4R1Rra0JCeTUwR3AwX0NQY19uTnZxcFl4S2wxS3NBX0I1MWM5TmRJZHFMT3BsTnQ1NmRSTEtuLThOY2JuclJ3MTFaWjkxQXhrQ2laaTVHUUlpcXI0dDlFakFMRjQ3X2hjUHJUNHM2X0dTbjRBM19tN3A3aHlLVlZOWWdfbnprRGpkVmpoYWdaNEFGU3Y1SktXcWdheExqdkh0Mk8xQkQ5SEVYaUFfYndiZ0M2Z0dxaHBrVUJRNmwwWUFuVzdfajZ5NTRNZw?oc=5"
         },
         {
           "outlet": "Dainik Bhaskar",
@@ -737,14 +737,14 @@
       ],
       "sources": [
         {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWR3RVdIWDROOXNNZjlYVlRWN0taT01ESEJEQWl0bm1TX0JDZ0VYcFN1X3lBX1M3TzlwSU5ZUUdEeFNUREpxMVg2a1MtWkJSRF8wcUl5emczLWxPQy1hZ3Vpclc2TDRwY0ZnSklEdE8tbG1CUEhWVmpfeXBJUlFhQmtrdWg4TnlxM0F6RnVuSmt4cVVKWkV1emhFLVJYZVNyYkRaYTV4NFZfOU82N0h2TkhybUs1anpzbk12MHRhY9IBxAFBVV95cUxNMGJJVC1tczRNM2NRLTdDZnJfbEZrSUxKYXlQNHc0N3pfZUZBc1VtUzhkc3Z2MmctczA2QkN0X2s5dURuTklJR3R5VWRac0d1bHcxVV9nOWZjZ0RsZ01obkVCeER3X1AxWlo5UWlFTWFSdlRHTGZBSDJKT3k1dTBlcEg4NWkwX2dLSVBtd3RPa0NaeXRnVTYwWXM4WkNia1ZjRExXRmxKY0wxdHlpYlNuZXk0LUJEZWRIOXhiTzUwbzR6UkU0?oc=5"
-        },
-        {
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHlVZ0tmRkVlU0tMTkdsQnRENjBVelp0aWZ6TVk0YkFOQXEwblQ5R29EQjdGRVZFVkJzdXpKZFF3c29aMUpfQzNNNVJ0aTUyMjRiWldIeE9ZWXdoS3hBNDR1SlZKMkhDOUdzSUV0b3FBQjF1WG1CVm0xa1ZScnU0LWpvdi1fUi1sRDZzeUN2eGJLWjdwRk9XdjNn?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWR3RVdIWDROOXNNZjlYVlRWN0taT01ESEJEQWl0bm1TX0JDZ0VYcFN1X3lBX1M3TzlwSU5ZUUdEeFNUREpxMVg2a1MtWkJSRF8wcUl5emczLWxPQy1hZ3Vpclc2TDRwY0ZnSklEdE8tbG1CUEhWVmpfeXBJUlFhQmtrdWg4TnlxM0F6RnVuSmt4cVVKWkV1emhFLVJYZVNyYkRaYTV4NFZfOU82N0h2TkhybUs1anpzbk12MHRhY9IBxAFBVV95cUxNMGJJVC1tczRNM2NRLTdDZnJfbEZrSUxKYXlQNHc0N3pfZUZBc1VtUzhkc3Z2MmctczA2QkN0X2s5dURuTklJR3R5VWRac0d1bHcxVV9nOWZjZ0RsZ01obkVCeER3X1AxWlo5UWlFTWFSdlRHTGZBSDJKT3k1dTBlcEg4NWkwX2dLSVBtd3RPa0NaeXRnVTYwWXM4WkNia1ZjRExXRmxKY0wxdHlpYlNuZXk0LUJEZWRIOXhiTzUwbzR6UkU0?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -760,35 +760,8 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना में सुनसान मकान से युवक का शव मिला: चेहरा बुरी तरह डैमेज मिला, नशीला इंजेक्शन-सिरिंज बरामद; पुलिस और F... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Prabhat Khabar शामिल हैं।",
+      "brief": "पटना में सुनसान मकान से युवक का शव मिला: चेहरा बुरी तरह डैमेज मिला, नशीला इंजेक्शन-सिरिंज बरामद; पुलिस और F... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Hindustan शामिल हैं।",
       "image": "images/f-dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "aisa-prabhat-khabar",
-      "headline": "पटना में AISA का प्रदर्शन, ज्ञानेश कुमार के इस्तीफे की मांग पर जुटे छात्र - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-14",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWItMjBjR2V5anBwcUJYcUJkWS1qTG5uN3Vocmh6SXJwR1ZOUHAtY2tlMGpCYS1BdGlMdHdYY0NkNm5QQmgzbmJRX1g5T3BfczJGd3FnREVHXzdSUGhQelh6QlNTWkpwWUlpUUZCZVNscFNWLXNaUDVjRjhNNDExa3dMaWY3QWxjdE51R0JXN0ExTzhPWVQ2YkRFQmPSAaIBQVVfeXFMTmEzeDNVeU4wRWlHQnlINEMySl9qRU9DMmhFN2h2LUo0a19jVjd6UjJ3QS1DdWY2WkV6R3BKdkVvVWdsUjZXNTdBalBCZnJMdVZ5ZHgxZVo3TkM4VWR4c1JtZGwyQUFoQlo2U1VlY1owaTZ3a1BnZjNLSjByS21mZ0ZXeUVKcTBfVURLbXBuV0oxUDQtWjN3ZV9tY0dBU1BIX0Vn?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUEpkZVBTbGVzS2JMSDhsVHBucVM3TmJFalpSN2NFdTJHX1pGbHpoRjZLSzcwa3dscDRJSVl4Q3VNaXpEeUNld2Q0NTNHY1BOSE5ocE8tOTA5LURoUDA5UUR0LUZwZVpHYWdMXy01eTdJWDVfYXpRWjJGcGtZeWtVTWE5YkptOHJObmFnVDA5R0pDTFgzSUNzTjN1XzA2R1RlZmJoUUhqb0puUlM0SjNLQW5JaW5hZzVNelFIRXZn0gHDAUFVX3lxTFBFajItMlkxdXJMc3FqcENGMS1VZXp0VGJzSld2aElmdk9lc0hnSW9KRjI3cUZheDM0WHVvMkN6MWRvaGpZd2JiblM4WWlMbGQ1QzZpdHR5WVBjWUNPTjBKcFRELVBReVY1OHUwdjYwaDU0ejFoNnJxc2JZSW1CRk9lYmM5VTZrWGhVeHRFdFBBdkNCb244S3gxTFhKc05zbDRrMm9PQ0dVM1BEVDVtM2tBR1ROcENqUVZBSXRCM011VDF4MA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में AISA का प्रदर्शन, ज्ञानेश कुमार के इस्तीफे की मांग पर जुटे छात्र। इसे Prabhat Khabar और ETV Bharat ने रिपोर्ट किया है।",
-      "image": "images/aisa-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
