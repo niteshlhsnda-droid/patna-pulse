@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17 18:54 UTC",
-  "generated_at_ist": "18 Oct 2026, 12:24 AM IST",
-  "story_count": 54,
+  "generated_at": "2026-10-17 19:54 UTC",
+  "generated_at_ist": "18 Oct 2026, 01:24 AM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -66,11 +66,6 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXgxa2FtYjdYdV9vSGs1T2xrb1ZsdUpJMFBQLUFDTmFNSDB6QVhkSUlHV0E3TVpVNUNHRXFfVGlINnRqUlhGTW1UMUFoSUdxZjk4eVdoazBpQm1GckcxTWdzTXg2ZENtUU5OQ1FudUJfRUcyT1Y4cGtxQ25XWFF2TEtoa29uS1NLZnN5QlpjUk9WZXhjWFdxOEkwS0J3UVo2SWxTQmVyZ0FfSTM5RkJqcS1tQ0NPNTl0bDh5c3ktWEJrMW1uRGdSaXVnb1hvMlFXdUHSAdgBQVVfeXFMTXFIcEFpcTZRNmFGd2hkekxVUXNweUNsWUpQclg1cU1VTjZicWswQ0xXZlAyOERkeXFEX05lRjRNS0R0MzN1Wjd1LU9uSUFRdzFTdWYwQjh1RmFvVFYtd0VJQUtKV1ZjcDNNTVZjWWw4VVJLaXAwcVhfc0pyaWxRVU5RSk5tYzd6V2x4OE1BSnNYYThDc1BCaW15Zk45UU5PZGlZZ2pkb1hGemhTb2hlcktFVkdoUDhZVjVVZXNTUjFyaklWOGI5SS1TS3B6VU5pYmROUUNlZDda?oc=5"
         },
         {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRDhuUjVHeFBSeVdGT2EwSkQzRFl4c2JBMEZwdjB6OUNaV25qMlE5eFVacjgtWjdGOWtjMm9XSnlSUTZxSWtRQjdNZXJBM2NBVE5qZmZmOXJWME9PRkVhZm95VENjYzRfN2I1bjktWDA4dnhiYzhyY29qalpJY3VYbmVjOTl3dm1ycThTWlFCX1VoSGxwUy1IVEFZcnJLalFaZXJna3pVM1I5b1BXVThHdHN0SngwTF9wUDRUOXJyVdIBxAFBVV95cUxNVEQ4QkRTMFVXai1yX0RUUzFYZzJRMWttVlZHSjc4VGdBLVFWc2hTZHREdlNyZnNrcEM1UEFablVKdVJkeERUdnFQcnR2aTl2RDNJV2t5TmpYVkpEVWw4TFBOR0RENGRCd1FneFZHX040X0RQeHdTRUNRRGhqdkV2TTViNmJZWDVQUnNoYzB6Q0c0bzZ2djNtUzRlZUYwMU1GLW56OWQ0UVNNc2FSaU9CMkV4a1phb25Ja3lVWDd4QVpCbjE5?oc=5"
-        },
-        {
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbDdZaXBnNDgyeUhxWEhkcFZ6VVFhRnJTcHVKTVZTNzZlR0ViX2FDeTFraG1tNENzS0tpcEVTajBBVDJTM1htUm5pMUVoV0stY1EtODlsOG5xYXFvZGwwMVFzdk5ycWs0aVk4VW1keUhnY3EyempWUjBPSTFzTkhLRWsxVEN6RktwLXY4TWQ4eEJYWFo1R3BqRXIxalNmSGYxc3c?oc=5"
@@ -99,7 +94,7 @@
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Nitin Nabin, Bihar CM visit Durga Puja pandals, pray for PM Modi’s strength to serve nation. A politics-related story. Covered by 5 outlets, including The Indian Express and Asianet Newsable.",
+      "brief": "Nitin Nabin, Bihar CM visit Durga Puja pandals, pray for PM Modi’s strength to serve nation. A politics-related story. Covered by 5 outlets, including The Indian Express and The News Mill.",
       "image": "images/nitin-nabin-bihar-cm-visit-durga-puja-pandals-pray-for-pm-mo.jpg",
       "image_kind": "photo"
     },
@@ -128,6 +123,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar: Four, including three minors, drown in Son River in Bhojpur during Navratri. Covered by The Times of India and The Hans India.",
       "image": "images/bihar-four-including-three-minors-drown-in-son-river-in-bhoj.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "prashant-kishor-praises-nitish-calls-him-one-of-10-all-time-",
+      "headline": "Prashant Kishor praises Nitish, calls him one of 10 all-time best political leaders of Bihar - ThePrint",
+      "summary": "",
+      "date": "2026-10-17",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1dyU3RNUGRUdzBEUk10QlBsckZKVVJOWnVmZ3JaaEZSSnJ6eFVYSVgwU1YxSlFmMkppZ3U5ajJsQWZUV2ZXZVJpdlFEMnNmWDh5NFlYdnlLaGVJdDZkVGlKZHRwNlRRX2JJR1g2Q1l0dTU5UGhnN3pzcE5JRW9Vd1JQSFhkSXRTcm15LU1BQzc1M0FFazhxRWMyOS1qbXI3MENXbWI1UFd1WC0yNEJiT0dMdnQwbmdnZUxkaEloRUtYb1BMX1NXS0hR0gHPAUFVX3lxTE1iWEVwVUFONmhBOGxVWmhEUnByaXhnSmJ4aGpNdG5hTUNUWHZQWTZXcVdON0l1QzlGSUVhaWwxZHlvRlpPRi1YeW9yM25aMVZFaGlic0x2QVQzZDVYVmItZVplYngzWWIwQ21BRDJrOXBiQUt3UjN0T3ZRVV96SFM4TUxqZDFBSzFHOVFhRUZuUmIwSWVybXhqd0paZ2VkVEdSeEo1OW45bGk5VUEzQnhYRVdkZkY0RDBTRVloT0E3NWpGQ3I4Y2h0QjM1TEZwbw?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYk4zWlJoSHlIaGY4dFdMVXpKZHZVcHRvQ2tleTZySE55a25VUmZnWks3UHVlU0RycnJYNnJxcGRfR19kTk5XTjlRQkZrYXFaTzZ0RTItemY1N2xXeTE3akVPOFNOY0hJVDQzbUpveTk4RXI2YjEzOEFjUXRRb05Yb2ZSNlRYYXVyekJfUThTaWFzdzI1bFh5T3hrZ18tLW1qdGFiemFsa2FZN1FYNEdJRndaall4QjlkemlWMHFxa2diTGRL0gHKAUFVX3lxTE1iNk81MWg3MVktMjZIMEI4RnBmdHo3UnJVb01xYmlBVzhZYmw1T2hNYk1mQkxWTEFEMHhJQ3M1UnpObV93ZU5hNmdkY3Q1dm1JS29ickhoejJmMmlqQjNQaE9kOWEzZDExV3FDVGVJVHFfeGp6VlJQb05LVFdySlNBeDFxV3hQY1lpRWFUc2pCZGVTTnI1Nnd6dXpsbmRNWDFpZVA0aV9rQUZ2cWdXblNyV2VxQUw3akdCYVRGZi0ydjZLQ0xkMTBfRFE?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Prashant Kishor praises Nitish, calls him one of 10 all-time best political leaders of Bihar. A politics-related story. Covered by India Today and ThePrint.",
+      "image": "images/prashant-kishor-praises-nitish-calls-him-one-of-10-all-time-.jpg",
       "image_kind": "photo"
     },
     {
@@ -199,6 +221,16 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbXF5YVJWTlFrcS1fLWpzYkhxY2htRG8tSWtEUHR4TzBqVzI5MjVqLWpSZHZ1MS15d0Z6bDE1MUNCeExBcHZseWd4Y1lTYkY2dHNpUTNwZXBOc0lBLXo2YjVQRGZ2ZHdiNjIzeTlyUEtzbzlZVnU3MExFdzlIcThVTDBBNHg1aGNlTWJEby1lQ3ctTFU4N2ZUZHlJbVNINmJ4RmVqUHd4elZtT28tT2NPSC1sRTBDaG52dUJlQmIzYl9pZWJBVDNsenpxUUhOWVHSAdQBQVVfeXFMUEFqWVZneVRyRExXcDFHTE1wbF9KZW9VUmxER0JqSm91d0RheW82OElNbjYyWkxKempYTXp1OHdaZ243MGl0a1dTV0diMzMwbzdSY2h1aGtqU2dIQ2ZkNHQxM25JdXZaR09VS2ZqUS1mN3VRQ3B3dEFaTEpzRmdWSXJCd2xiSGxmNWRiXzR3WkRnNElVbTYxZWJLTzl0SmdjVFB1LUxXMkdwLVM2d0dhbHdkcW5oT3g1eG1JMGtfX3RyZ0VIRVI0QU9aa2RuY1BkVVVIUU8?oc=5"
         },
         {
+          "outlet": "Careers360",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM25XRF9FT0ZBQlRzVVBPX0NrUmxSSkVCcEd0d251R3dFRm5RNWFqdXoxTkhCVjdFOHBUMUo0WnFaejlBYUFXQ1JnSnF2SEJwb1BPQ1duOGo1Umt3cXRvdXlPbHd6STRuREtUUHFYWDBYMFN3WW51RldHcDFTSjl1cEdUaVYwOWExRG55UnBpQ0hMbFNtdTItZmtGQjUxZEg4Q3RjZ0NvUmhYb2Q5ZHV4TW1lT2hKaUpScFNWdGln0gHDAUFVX3lxTFBtU0NGMVN1YzI3Z2pTRVUwNEphUkJ0RkdtYnJIZVhkS1VZWWFuR2hCU1NhVG13eHpSUzVEMWRtQnlIYWc3cEFEeTRjSC1VN0VVM0RaNUtySENUSWtIUHpKZFBDRG5lVnRHVUdKYktHVUM1YUl4dHQyV0R1cEluY3dPd2stZ1dQYzNkZDF5TmlaNE9Xc2hwdk1iMmFyTS14MFE1QXhOLVNFQ01xTXVsT0hvZXRVTU5ZYVBjbHpyLU5ON1JYNA?oc=5"
+        },
+        {
+          "outlet": "Sakshi Education",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTWFMRDNIdlNGR3BIcXZKeTN6UHYzNWwtYU94aEF4WjN0LUoyQjc1Q1FUT3JWRmNYbllMa0RiZXY3UGFzYlBiLUt0eTI2V0FvRmdfX0J3ZlMydUZSbncyeWJXM2d4QXpMSzlYYlBfdWR5d3RUSWdWb0dQOW44dVBNc05CVGJrSEdrS3ItVk13ckZCQk5YRnE0RG1tYnNVS1pJczBGSDdZd25Zck9sblFJN3NxQVlEYmw4cEFoRWV5dUZsY1lUZFBQRDdB?oc=5"
+        },
+        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkpZVzVnZ0s2Rk5Va0dKQ3ZETllMWFNFSFdPdm95R1ZOSnFHRU1lSEFfdmRNX1lvekx0SkhpUEJ4V2RVVXM3UjloZEJKc1ptU2RyNXJSWUN1V1lUdllDY0dVd3h3SDdlX1h6OEl2LXdOVmQwaHhlX3Rtb2x6dzBaMVNPQ052Skt3czN4MDJSVlk3VjJKRnVJQWllSlZyLWl4djZreVJCNHBoYkpfZEhubFVSanJrU1HSAb8BQVVfeXFMUEtmR3IwMFlaQnFfem0wb01NQ082cXJXUlB1SWM4SVVSZGZMUllDOG42ZThPcHd1dDB6SlgtMFJ0YXp4Q3RUSUJwWURPMG1iNnFLZFg1WU5LTHloYmZVS0paTlNtQXZoZ1pGU2szUlNmV3JDdjJkb055MElEbk1OYVhvNDlMSHBuYWZSQnNLcktpSnBkbFVWVk5LaVdHckhjdXBuam5SRG1wQzF1ejFBVGFGdFE1Wm9jdzJ3OEY2YkE?oc=5"
@@ -207,17 +239,12 @@
           "outlet": "Adda247",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTTnRiODBwSlpLbTEyNVdSd092dk1EZkpjR1M3Uzl3dkVSS1NtYkxxNXQ1bmdPNV84SUZFcWlsQkNyVmwxRXAwTFlrYjZ4NGdiVFBMeW4teFc4MEU3UzVoOS1tSXVxWWxqSWl6ZzZjSFJOQzRCSm9RaQ?oc=5"
-        },
-        {
-          "outlet": "Sakshi Education",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTWFMRDNIdlNGR3BIcXZKeTN6UHYzNWwtYU94aEF4WjN0LUoyQjc1Q1FUT3JWRmNYbllMa0RiZXY3UGFzYlBiLUt0eTI2V0FvRmdfX0J3ZlMydUZSbncyeWJXM2d4QXpMSzlYYlBfdWR5d3RUSWdWb0dQOW44dVBNc05CVGJrSEdrS3ItVk13ckZCQk5YRnE0RG1tYnNVS1pJczBGSDdZd25Zck9sblFJN3NxQVlEYmw4cEFoRWV5dUZsY1lUZFBQRDdB?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar STET Admit Card 2026 to be Out Tomorrow? BSEB Announces Release Date, Download Details. An education-related story. Covered by 5 outlets, including Telegraph India and Moneycontrol.com.",
+      "brief": "Bihar STET Admit Card 2026 to be Out Tomorrow? BSEB Announces Release Date, Download Details. An education-related story. Covered by 6 outlets, including Telegraph India and Moneycontrol.com.",
       "image": "images/bihar-stet-admit-card-2026-to-be-out-tomorrow-bseb-announces.jpg",
       "image_kind": "photo"
     },
@@ -317,14 +344,14 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcHhSR0ZmcGxuU1l2emhXcFczRG1XRUNVVjNPSU8tS0tBbXNPdl83dVdRUGRWQU1XcVN4LTFRMmp5QjhZdEJ4TlpYTlU0MFl3Z3dXcXJTMm9MbEhSTGd1U0VpUVliLTBzTGdQa21GRllJZkh2ZWc0M2tUWi00dXdON2w0aXpYYTdkUmhzX3FIcXNLczRUSHUtZnJIcm1kbm5uclYxWEJQbC1vVjJTZ2Z4aG1pWXN6YjRUWHhXQ1Rn?oc=5"
         },
         {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclVrYUpwaXBsalBKcjRLYkRaaTdIX25BSEwySHNKSkkwTHI4Ql82QllSdFRZQmdrN1VnSGN5cHpQdWdQRUxTZ0xhQUlZZ1F1MVliY0RFU2EzMGFkRjMzcmZKNEdJbWw0ZWlDbTdLZzdUR2d0MTNOLXpOV1NJSXEweVlDbllIbTRrLWxWWmFJTDNFOHdoQ3hXbmJad3lGYWhZb1VjWXBNY0xBODNRak9xTjZMdWVTMl9hYUHSAb8BQVVfeXFMTnBKZWlKNGhKSXEwaFZNVFc3emhjQTdZVU9HUVpweWRYOHJrRFU3ZTRZYlNyT2g4dUJHdHBubmV2UzBVUGMzTTNEanIyZHVUNm9FU3M5N3prSzBrckZMSVNRR2JpMDJCTDFINWFRWEx5dkFVV0VaTTctZS0xM3kxeDZfUXFtZ05nc0F4NU9yUWgzbXpIazF2WEJfdENZcnp0TVEzQUE2OHE0dGJ4QmdQV3hJMDE2dFFpeWhUT2R2d28?oc=5"
-        },
-        {
           "outlet": "Amar Ujala",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkV4NWRpVE5VRUlMV0pSNzh1eEVnYlU3bnpYY2pIN3M4TUhxOXlnTUVlbTc2T3NLRGxpcnAxVFRCcWtnZF9DM00yVkN1QmVTSU9EbExvR1o2U0dMbXY1TUlFVzU3SzhoME82SzhXd01TWmthcWttVDVWODNMWlA3ZE5VN1ByUlV5R2hINW9CVHd4MVdYQUJNMzJrc0YxbGhJZlo5bm1nUG5GLTRnR0d2cEZkd05vT2FwTkNscXJCbHJaUm5DWG9kc0tfMjNqalc0R1JjdC1IOFlVM1V5YzNN0gHkAUFVX3lxTE1ycUkzSW43dTJXOE96SjRjQ0lwM3Ixai03NzBqZFRESm9WSm5hMEJEMksyRWVsN2FHbUdHaURmbDlUZW5IYVUwQVB2aUx0N2xiWVN5RzJocm5tbVhrTEVSZGdpRmZXZzVLMVFBQmVOUHdLYV9oWi0tLWg3RG55UWJDbjFXRzBsQVVpTl9HRTlpc1FWUHNVZkFBVVJrU2hhOWZkbDNKekdDYnZEb2VuTjYwaHQtV3g1MmFSY1F1ZlVfLUQ0N2tKVkZEOTlidUd5ODhEQUp5aWtaZGdHcjJOOVVpODlrVg?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclVrYUpwaXBsalBKcjRLYkRaaTdIX25BSEwySHNKSkkwTHI4Ql82QllSdFRZQmdrN1VnSGN5cHpQdWdQRUxTZ0xhQUlZZ1F1MVliY0RFU2EzMGFkRjMzcmZKNEdJbWw0ZWlDbTdLZzdUR2d0MTNOLXpOV1NJSXEweVlDbllIbTRrLWxWWmFJTDNFOHdoQ3hXbmJad3lGYWhZb1VjWXBNY0xBODNRak9xTjZMdWVTMl9hYUHSAb8BQVVfeXFMTnBKZWlKNGhKSXEwaFZNVFc3emhjQTdZVU9HUVpweWRYOHJrRFU3ZTRZYlNyT2g4dUJHdHBubmV2UzBVUGMzTTNEanIyZHVUNm9FU3M5N3prSzBrckZMSVNRR2JpMDJCTDFINWFRWEx5dkFVV0VaTTctZS0xM3kxeDZfUXFtZ05nc0F4NU9yUWgzbXpIazF2WEJfdENZcnp0TVEzQUE2OHE0dGJ4QmdQV3hJMDE2dFFpeWhUT2R2d28?oc=5"
         },
         {
           "outlet": "Navbharat Times",
@@ -335,13 +362,13 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "डोमिनोज में मिला 160 खराब पिज्जा! मैकडॉनल्ड्स को भी फूड सेफ्टी विभाग की चेतावनी, पटना में चला खाद्य विभाग का डंडा। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Dainik Bhaskar शामिल हैं।",
+      "brief": "डोमिनोज में मिला 160 खराब पिज्जा! मैकडॉनल्ड्स को भी फूड सेफ्टी विभाग की चेतावनी, पटना में चला खाद्य विभाग का डंडा। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Amar Ujala शामिल हैं।",
       "image": "images/160-navbharat-times.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "bihar-hindi-news-hindustan",
-      "headline": "पटना की प्रखंड कृषि पदाधिकारी राजलक्ष्मी की डिलीवरी के बाद मौत, अस्पताल पर लापरवाही का आरोप, Bihar Hindi News - Hindustan",
+      "id": "hindustan",
+      "headline": "पटना की प्रखंड कृषि पदाधिकारी राजलक्ष्मी की डिलीवरी के बाद मौत, अस्पताल पर लापरवाही का आरोप - Hindustan",
       "summary": "",
       "date": "2026-10-17",
       "topics": [
@@ -351,7 +378,7 @@
         {
           "outlet": "Hindustan",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTWk4TWZ4WnZyOHhwZU00VGRNbVBnQ19zLURwSExWWGtiVGh6Ul9FcnI2X3Y3eVdKcVJpR25iQnFOU1p6ZEdFeExqYnc4Z0h2OUVSSG9vNDFSTWpZVVgwWHdIeW5hQ0xUM1BuMHJTaWROOGlUQjJkOUhQVVpBVGRHaEFXUzZhaDNWZlhoV3BBeWpIT3FBdVM1OE5UOS1teFI5RFFwRi1Dbnc1c0FWSVB1Uzk5TzV4VFpvdG5NbW45UnQ5bVhTelZFemNEMW13THJqcGFqYV9EekRNazhWbmpyMllpeFczdlhw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTWk4TWZ4WnZyOHhwZU00VGRNbVBnQ19zLURwSExWWGtiVGh6Ul9FcnI2X3Y3eVdKcVJpR25iQnFOU1p6ZEdFeExqYnc4Z0h2OUVSSG9vNDFSTWpZVVgwWHdIeW5hQ0xUM1BuMHJTaWROOGlUQjJkOUhQVVpBVGRHaEFXUzZhaDNWZlhoV3BBeWpIT3FBdVM1OE5UOS1teFI5RFFwRi1Dbnc1c0FWSVB1Uzk5TzV4VFpvdG5NbW45UnQ5bVhTelZFemNEMW13THJqcGFqYV9EekRNazhWbmpyMllpeFczdlhw0gHuAUFVX3lxTE43VnExWU1ZQ3lmRHFqRkxwRlpvcEVRbHgtYnhULWdZQThjdnRXaFlYSVlzLVltTlhEWlpnM2lqRGFzM0JjWFc2XzY0M0p1aE1SODBfV1Z6cndpa1M4NUlRVF9NWlhabzVvQi1MVVJYWTlCYkpPdXo1a3o1cFJHMU9pYWt6MUdUcWJ0dEVYSUNFdHMwX3hhVFl2QlNTVzV1R0R2UlpoTGZfd2JjR0NuT200Z1o0ZlUzSTE2WXRkSlRzLXVsOXI0c3hVcXllUkl6cEdpd1c1dkFhT0NhOXFNN1BPQ2tEMEh6NlVVSTJTV2c?oc=5"
         },
         {
           "outlet": "Jagran",
@@ -362,8 +389,8 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना की प्रखंड कृषि पदाधिकारी राजलक्ष्मी की डिलीवरी के बाद मौत, अस्पताल पर लापरवाही का आरोप, Bihar Hindi News। इसे Hindustan और Jagran ने रिपोर्ट किया है।",
-      "image": "images/bihar-hindi-news-hindustan.jpg",
+      "brief": "पटना की प्रखंड कृषि पदाधिकारी राजलक्ष्मी की डिलीवरी के बाद मौत, अस्पताल पर लापरवाही का आरोप। इसे Hindustan और Jagran ने रिपोर्ट किया है।",
+      "image": "images/hindustan.jpg",
       "image_kind": "photo"
     },
     {
@@ -376,20 +403,20 @@
       ],
       "sources": [
         {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDk3OXJJREk5MjEzeGdxVkJydHZvZXpjUHdoWlpQeEVTSFRXMy16WVFVRDZ6RjNyX2hQVFJzZE1SUnhidTMxZm9hbjRnalBwb28yaDFxcHI1UDJTeWZzekZMcTVSMGlSNWNTZDRucklTYV93QWRMTThhWHFUbDlrTVJHT2loUnJsejlmZ2JQaUk0bFFhbTF2bHI3dmJIWTJaQlMxWFpaV3J3TnM4TUdIMEZYVFZtWWNSQzR5LU52dENBbHVTYXJfTlc1Yjg0WmRrcXRDNFBLQXR2U2Vu0gHiAUFVX3lxTFBUT0w5N01BNUp4eVJXYkVKQ1kwdWxzWE5pd1FReGIzbUsxaXkxTHc3VUYxai1pbFNtNkViNkZwM3RYUTJCcWZIVDNDR1ZDVUI5elZPaVAyR3ZBR0p2eVJ4WmdMb0d3ajh5RDUxSGlyazNldkZ0ajByOGpkN0NsT2JBbkMwdFVseUtlUnhyREd4OTVGUVlvS2pwVkRzN0F1UWl4R0ZYcjhpdkJlVjlBUzlGaTRQd3dZNERMcVBJX0FmcGU3RVpfaGp1QlJUTWh6NDlXNk1QSmVGLUpoVUNJWmRuWFE?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXdkeVJSSjZRQ3JNcFlucG85ZGtSbVZaMjFTZF9pNmF1Y29mUW44dThNUDZkTmVUVjhZWnRCUW90YmFrT2hiMzk0WGY2TmxtRTFfZmNwU0hSckhtcEl1UERoNVRTZnM0R01RVERBSkVoeVhpQzJTdkpaaE1mOWZ4a0JpRG1DT2E5ZWhHNThZSzBxQ2lqWTk4U0Zya2swYnFQQW54TE9ZQ1pZWkhKamZMSUJvMjg1cWFEVU1vQUR2emh5ZUJmbkNBSmt2UkxULUdIdEpDMzlKaDU?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDk3OXJJREk5MjEzeGdxVkJydHZvZXpjUHdoWlpQeEVTSFRXMy16WVFVRDZ6RjNyX2hQVFJzZE1SUnhidTMxZm9hbjRnalBwb28yaDFxcHI1UDJTeWZzekZMcTVSMGlSNWNTZDRucklTYV93QWRMTThhWHFUbDlrTVJHT2loUnJsejlmZ2JQaUk0bFFhbTF2bHI3dmJIWTJaQlMxWFpaV3J3TnM4TUdIMEZYVFZtWWNSQzR5LU52dENBbHVTYXJfTlc1Yjg0WmRrcXRDNFBLQXR2U2Vu0gHiAUFVX3lxTFBUT0w5N01BNUp4eVJXYkVKQ1kwdWxzWE5pd1FReGIzbUsxaXkxTHc3VUYxai1pbFNtNkViNkZwM3RYUTJCcWZIVDNDR1ZDVUI5elZPaVAyR3ZBR0p2eVJ4WmdMb0d3ajh5RDUxSGlyazNldkZ0ajByOGpkN0NsT2JBbkMwdFVseUtlUnhyREd4OTVGUVlvS2pwVkRzN0F1UWl4R0ZYcjhpdkJlVjlBUzlGaTRQd3dZNERMcVBJX0FmcGU3RVpfaGp1QlJUTWh6NDlXNk1QSmVGLUpoVUNJWmRuWFE?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना से औरंगाबाद का सफर होगा आसान, दाउदनगर में फोरलेन बाईपास के लिए 136 करोड़ का टेंडर निकला। इसे Hindustan और Jagran ने रिपोर्ट किया है।",
+      "brief": "पटना से औरंगाबाद का सफर होगा आसान, दाउदनगर में फोरलेन बाईपास के लिए 136 करोड़ का टेंडर निकला। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
       "image": "images/136-hindustan.jpg",
       "image_kind": "photo"
     },
@@ -657,38 +684,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "ctrls-opens-rs-400-cr-data-centre-in-patna-plans-rs-10-000-c",
-      "headline": "CtrlS opens Rs 400 cr data centre in Patna, plans Rs 10,000 cr AI factory in Bodh Gaya - ThePrint",
-      "summary": "",
-      "date": "2026-10-14",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "GK Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcE44RTR3aGxIN1BvRUZOcnpfZkxQNnlPMjA4aWtBRDJIYXVyN2wtWUxNSlhQUlpUVDZUNkFVcnlHSHk5OXE1UEY5enowbmo4VTd3Yk5uNVR5eklpcy1rbFNoeE54RHc4cEhWRlh2T0FFX0V0RU1LdjJPbzZGVVJ5SlM0U3k?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ1dyTXVpdWU1b05RMElScERCMS1jSEh6bE8wXzJVeXN0c1ZjLUVvU21iU0dQR3NYX2FRem10VUI3RlNKMTNUbnZfdGtWTVRMOXNQam9DVjBZdEdycmRIamNRTHB6WkVVM25mSlVXMkdZTGxhbU9lTzR3Z2RsS0FqTFljZ2VXeFR3dk9GdjRFSXh3RnZnTW5HaG0zdEl3c3pGenV4Q0hONWItcWsxMUNyRFhveFp6QmlEVWxaMXlR0gHDAUFVX3lxTE9Db3BjZFpZSl91N0diYXc2VnJnaUhRLWVvMXNhb1FJYWFYaUR3Q0dFOXNqMHJuQUVsc3JXUFR2by1QQjRIcnRKWTMyeUIwX1hOLU9Wck5xM2JZNmlDR214ejQ3Z29hY19GTE1ObmtSMHdta3BoUzI5d2VVXzhWd2hQZ3VTb2JuWEpNRF93SzdCMTNGMWhYSlo0Y0dRbGtKek9xUkdRZUZTdXhIUHBNV0V6RzMwb2ZGX2g1cjVxa1JOeDhYYw?oc=5"
-        },
-        {
-          "outlet": "Data Centre Magazine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmV2ejlvUEJoTkc4V3FmbG1Lai1BTENyM1Iya3p0emxJTGxmcUNyQ3BNQkVxdWpGd0FlOWdSUTZfSmdkZmdlSTVYWUduYTFTQzFLNG1JcjlpVDYyenZSTjBrVmRwMXY0M0JXRXpfcUV0dGF6T2NZcktpRzgwamxUMzF3YWV5MnhnOUJnNFBlcw?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "CtrlS opens Rs 400 cr data centre in Patna, plans Rs 10,000 cr AI factory in Bodh Gaya. Covered by 3 outlets, including GK Today and ThePrint.",
-      "image": "images/ctrls-opens-rs-400-cr-data-centre-in-patna-plans-rs-10-000-c.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "delhi-patna-vande-bharat-special-for-diwali-chhath-route-sto",
       "headline": "Delhi-Patna Vande Bharat Special For Diwali, Chhath: Route, Stops And Fare - NDTV",
       "summary": "",
@@ -713,33 +708,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Delhi-Patna Vande Bharat Special For Diwali, Chhath: Route, Stops And Fare. A civic-infrastructure story. Covered by NDTV and Sarkaritel.com.",
       "image": "images/delhi-patna-vande-bharat-special-for-diwali-chhath-route-sto.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "thief-dangles-from-moving-train-in-bihar-after-passengers-ca",
-      "headline": "Thief dangles from moving train in Bihar after passengers catch him stealing phone - India Today",
-      "summary": "",
-      "date": "2026-10-14",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFpQY3F2aWRTUVNwckI3NUlMSTFCZ3ktRDAzZnF6dnJnRXdLcWRfOGxqRzkwc0N5RER0cVBkQ1ZsVG81VVVPZTUzVDNGSi1EaWlfZ2lIbHB2UU40cm10SmxZVVh2WUZZZFFQSEdkQWVtZ1NwT1VINFh6VjRZYWI0VnhNQS0zVllYOXVVSjZ0WWJaR2NWY2picDFodnVxcExlOWdYWXNLSFc3LUl3OHNlM21zSF9MNU5ieTFMSmU3T3d6UE5xOVM3bTNwcGfSAdQBQVVfeXFMTy1DdUd0ZXFtT1dKNk42SE1SV2JYdm83TXktYnFBZFJaZmN0M2NSS20ybjhkdVZDRTVKM0FwbjFGSDN2UkV1ejg1LVFZMXhnWnFkMkUwdzI1cEFDM0R0YWZuWXJfckU5bVRBRFpWQzJaakwxLUJ3TnJLaHJsUlNMV3FuYkdaN05CTXdiSWM2aFlRUGNFT0tsU1pudnlPZF9hb0d4ajRwRHh6MDNHQ09DNFV0eU5QRmFFc1hELWE5bDNJd0pKam1Cby1IOGNCTzE0aVRHLTY?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQWk5b2dQdU9yUEY1ZkpQcGFMNjBOR3VvLXdCemZvcUhucGlxXzZpOTlSV3BLM3F0V0ZpSVF6UFFmZW1JaUU3d1RrdUNpdjdoVm9XRkRLSUpTeWhJOWxPR0ZuTnlnOWZSdG1aVG1pV1FSSXRWUDBUUEJXbU9zNHBrVmZldHFDM1NURVZaV0RVR0ZYV2UyZHlWbm5La1U5M001eU9fOFRUekxLZnpoZjFmM2pvcnRnWWtka2JRM3dvbkxnaWtMSDJBcU9LSzZ4bEl0Y0xvXzhfcWtvYkFn0gHiAUFVX3lxTFBfSC15TXI3MkpxMUZ5UnhwZ3BDTHBaTFdpT0lTVWJOSXQtc19BQmg2UXZlMnBTYUJnSnlkYlFWTEljT1ZUeW5LbjFlR0toQXhONmVCNnIxamNXQ1RNREVVaUlyaGhOLXI0ZEZDSXczeUFteTNjWGtib3B6cng2QUFfNUhTZGxpaktueWEtMXN1Yi1CV3ZseG5ROFM1YjRoT1dxLTR1TnRJRVVxTFJwMzJaeWxDWHpmcW85eDJfd1NvdlVlSEtwVklBT1N4Z2hZY2dSSnlQNVVBZVRKeDdmWnc4OHc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Thief dangles from moving train in Bihar after passengers catch him stealing phone. A civic-infrastructure story. Covered by NDTV and India Today.",
-      "image": "images/thief-dangles-from-moving-train-in-bihar-after-passengers-ca.jpg",
       "image_kind": "photo"
     },
     {
