@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18 09:35 UTC",
-  "generated_at_ist": "18 Oct 2026, 03:05 PM IST",
-  "story_count": 56,
+  "generated_at": "2026-10-18 10:35 UTC",
+  "generated_at_ist": "18 Oct 2026, 04:05 PM IST",
+  "story_count": 57,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -82,7 +82,7 @@
       "genuineness_label": "Verified",
       "brief": "Vande Bharat special to operate between Delhi and Patna for Diwali, Chhath: Check dates, timings, stoppage. A civic-infrastructure story. Covered by 5 outlets, including NewsBytes and NDTV.",
       "image": "images/vande-bharat-special-to-operate-between-delhi-and-patna-for-.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihar-two-vendors-detained-after-made-in-pakistan-bedsheets-",
@@ -149,6 +149,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-stet-2026-admit-card-date-out-exam-from-october-25-che",
+      "headline": "Bihar STET 2026 Admit Card Date Out: Exam From October 25, Check Other Details - NDTV",
+      "summary": "",
+      "date": "2026-10-18",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "Adda247",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTTnRiODBwSlpLbTEyNVdSd092dk1EZkpjR1M3Uzl3dkVSS1NtYkxxNXQ1bmdPNV84SUZFcWlsQkNyVmwxRXAwTFlrYjZ4NGdiVFBMeW4teFc4MEU3UzVoOS1tSXVxWWxqSWl6ZzZjSFJOQzRCSm9RaQ?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkpZVzVnZ0s2Rk5Va0dKQ3ZETllMWFNFSFdPdm95R1ZOSnFHRU1lSEFfdmRNX1lvekx0SkhpUEJ4V2RVVXM3UjloZEJKc1ptU2RyNXJSWUN1V1lUdllDY0dVd3h3SDdlX1h6OEl2LXdOVmQwaHhlX3Rtb2x6dzBaMVNPQ052Skt3czN4MDJSVlk3VjJKRnVJQWllSlZyLWl4djZreVJCNHBoYkpfZEhubFVSanJrU1HSAb8BQVVfeXFMUEtmR3IwMFlaQnFfem0wb01NQ082cXJXUlB1SWM4SVVSZGZMUllDOG42ZThPcHd1dDB6SlgtMFJ0YXp4Q3RUSUJwWURPMG1iNnFLZFg1WU5LTHloYmZVS0paTlNtQXZoZ1pGU2szUlNmV3JDdjJkb055MElEbk1OYVhvNDlMSHBuYWZSQnNLcktpSnBkbFVWVk5LaVdHckhjdXBuam5SRG1wQzF1ejFBVGFGdFE1Wm9jdzJ3OEY2YkE?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar STET 2026 Admit Card Date Out: Exam From October 25, Check Other Details. An education-related story. Covered by Adda247 and NDTV.",
+      "image": "images/bihar-stet-2026-admit-card-date-out-exam-from-october-25-che.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "160-32-dainik-bhaskar",
       "headline": "पटना में डोमिनोज-मैकडॉनल्ड्स में रेड, 160 पिज्जा खराब मिले: स्वास्थ्य विभाग ने नष्ट कराए 32 हजार के पिज्जा,... - Dainik Bhaskar",
       "summary": "",
@@ -158,14 +185,14 @@
       ],
       "sources": [
         {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclVrYUpwaXBsalBKcjRLYkRaaTdIX25BSEwySHNKSkkwTHI4Ql82QllSdFRZQmdrN1VnSGN5cHpQdWdQRUxTZ0xhQUlZZ1F1MVliY0RFU2EzMGFkRjMzcmZKNEdJbWw0ZWlDbTdLZzdUR2d0MTNOLXpOV1NJSXEweVlDbllIbTRrLWxWWmFJTDNFOHdoQ3hXbmJad3lGYWhZb1VjWXBNY0xBODNRak9xTjZMdWVTMl9hYUHSAb8BQVVfeXFMTnBKZWlKNGhKSXEwaFZNVFc3emhjQTdZVU9HUVpweWRYOHJrRFU3ZTRZYlNyT2g4dUJHdHBubmV2UzBVUGMzTTNEanIyZHVUNm9FU3M5N3prSzBrckZMSVNRR2JpMDJCTDFINWFRWEx5dkFVV0VaTTctZS0xM3kxeDZfUXFtZ05nc0F4NU9yUWgzbXpIazF2WEJfdENZcnp0TVEzQUE2OHE0dGJ4QmdQV3hJMDE2dFFpeWhUT2R2d28?oc=5"
-        },
-        {
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSzB6TWRNUHhQcHd4MzlZd3BsU2pqb0lYUFJjWTdoQ0MtaGw2RDFJY3hlQjFMOVNuQTRmU05GZjFkQkh5TEdZMzVnaE02WUhST0p0MF9PUUs4dm9uV2NkbDJkdWc5T1JUaW9YVDZ0SVFiblNpVzVRTkJMZEtvdVRQcEl3WllyV0N6Z1c3MkhCLTdKTW9PWWx3RzhORE1JT20ybHZfY1I5WnpHbmsxTk5yOUY1dHZaZ1ZyNXQ2aHF5Ymx3N0R2ak1pQVFobTd5d1pUWDhuUmREaGlrTVFZbXdKWnNUbUpJWTJRRFMxNVp5dmVOd9IB9wFBVV95cUxQSDJCLVhmbzRORzNtOUlkR2ttQnpwQ2VnaWh5QnE1blNCRkdJUFJnZFRXWDRUX2kydnJvdzg1ZXg3SnIydHd2cFluTHhPMzFoaU9RdWZmT1JwLTl2bVlhc19nNGlfUEtKSWFsQXJqei10NlQ1dHBOYlNxNXFZb0FtbV9tQXFBWFlUMWJ6bnBLQnhoTzZ5Ukd3MEdoWHZodk1fMllQUm1EZTgxZnBJZXdrTHZ6MVhjTURKQU1IcUtkMW1xd2pERzRKRHZRYzlBRFl0ZzBXS2JlSUNydFVhLXBhNUJwdFJBMmxSdkN5OE43c3V6SWJlWlhR?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclVrYUpwaXBsalBKcjRLYkRaaTdIX25BSEwySHNKSkkwTHI4Ql82QllSdFRZQmdrN1VnSGN5cHpQdWdQRUxTZ0xhQUlZZ1F1MVliY0RFU2EzMGFkRjMzcmZKNEdJbWw0ZWlDbTdLZzdUR2d0MTNOLXpOV1NJSXEweVlDbllIbTRrLWxWWmFJTDNFOHdoQ3hXbmJad3lGYWhZb1VjWXBNY0xBODNRak9xTjZMdWVTMl9hYUHSAb8BQVVfeXFMTnBKZWlKNGhKSXEwaFZNVFc3emhjQTdZVU9HUVpweWRYOHJrRFU3ZTRZYlNyT2g4dUJHdHBubmV2UzBVUGMzTTNEanIyZHVUNm9FU3M5N3prSzBrckZMSVNRR2JpMDJCTDFINWFRWEx5dkFVV0VaTTctZS0xM3kxeDZfUXFtZ05nc0F4NU9yUWgzbXpIazF2WEJfdENZcnp0TVEzQUE2OHE0dGJ4QmdQV3hJMDE2dFFpeWhUT2R2d28?oc=5"
         },
         {
           "outlet": "Jagran",
@@ -181,7 +208,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना में डोमिनोज-मैकडॉनल्ड्स में रेड, 160 पिज्जा खराब मिले: स्वास्थ्य विभाग ने नष्ट कराए 32 हजार के पिज्जा,... इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
+      "brief": "पटना में डोमिनोज-मैकडॉनल्ड्स में रेड, 160 पिज्जा खराब मिले: स्वास्थ्य विभाग ने नष्ट कराए 32 हजार के पिज्जा,... इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Dainik Bhaskar शामिल हैं।",
       "image": "images/160-32-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -195,9 +222,14 @@
       ],
       "sources": [
         {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFBvMVNfQnRlVF9tLU1Hb0hxbDBVTWFDa1VJd091WTYybEdmNVpsUUUyQzlDUU1uQTZ4VnFha0p6Z1A1d0dyeEFWanljWHc4TjhydWl2Z1llc3JTY0JuVktxTmRpdnMtekJsaTM4MzBwanJ1cktybkNEeXVFQWRRN3pxSmhERURLLS1EeEVGQi1nc2l4YUt0dzN2a1ZIdDZhU2JRYWxrUk1TVnlkZ2N4X0pmOWtONUZIRFpRa1JpRFB6cDVkbkdzYkE5enVlTk5EX1FwMXl1Qktha0R0?oc=5"
+        },
+        {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXdkeVJSSjZRQ3JNcFlucG85ZGtSbVZaMjFTZF9pNmF1Y29mUW44dThNUDZkTmVUVjhZWnRCUW90YmFrT2hiMzk0WGY2TmxtRTFfZmNwU0hSckhtcEl1UERoNVRTZnM0R01RVERBSkVoeVhpQzJTdkpaaE1mOWZ4a0JpRG1DT2E5ZWhHNThZSzBxQ2lqWTk4U0Zya2swYnFQQW54TE9ZQ1pZWkhKamZMSUJvMjg1cWFEVU1vQUR2emh5ZUJmbkNBSmt2UkxULUdIdEpDMzlKaDU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXI5aUJjRGNUb2Nvc2V6RmVqZXpjVmJNVzk2eHlXOWtlNGlJcnB3SkJTU2ExTmk0VkF3Q2RlU3BaLU11ZU0tUDhrbDgyVVBrWmIzOU52Qno3VWNNZm91QzJ0VFJKLXp0UUROSFhtWTNFT0lQSW1weW9ZbFFRMWM2UXF6czZleU0tQ2RSN2JLQnpFR2hsNTlpZFdqcnlEUjdyMmJpdGIzTm9JNTdiZjgwbUYwRjhFZEdQQ1BNWDdB?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -207,12 +239,7 @@
         {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXI5aUJjRGNUb2Nvc2V6RmVqZXpjVmJNVzk2eHlXOWtlNGlJcnB3SkJTU2ExTmk0VkF3Q2RlU3BaLU11ZU0tUDhrbDgyVVBrWmIzOU52Qno3VWNNZm91QzJ0VFJKLXp0UUROSFhtWTNFT0lQSW1weW9ZbFFRMWM2UXF6czZleU0tQ2RSN2JLQnpFR2hsNTlpZFdqcnlEUjdyMmJpdGIzTm9JNTdiZjgwbUYwRjhFZEdQQ1BNWDdB?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFBvMVNfQnRlVF9tLU1Hb0hxbDBVTWFDa1VJd091WTYybEdmNVpsUUUyQzlDUU1uQTZ4VnFha0p6Z1A1d0dyeEFWanljWHc4TjhydWl2Z1llc3JTY0JuVktxTmRpdnMtekJsaTM4MzBwanJ1cktybkNEeXVFQWRRN3pxSmhERURLLS1EeEVGQi1nc2l4YUt0dzN2a1ZIdDZhU2JRYWxrUk1TVnlkZ2N4X0pmOWtONUZIRFpRa1JpRFB6cDVkbkdzYkE5enVlTk5EX1FwMXl1Qktha0R0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXdkeVJSSjZRQ3JNcFlucG85ZGtSbVZaMjFTZF9pNmF1Y29mUW44dThNUDZkTmVUVjhZWnRCUW90YmFrT2hiMzk0WGY2TmxtRTFfZmNwU0hSckhtcEl1UERoNVRTZnM0R01RVERBSkVoeVhpQzJTdkpaaE1mOWZ4a0JpRG1DT2E5ZWhHNThZSzBxQ2lqWTk4U0Zya2swYnFQQW54TE9ZQ1pZWkhKamZMSUJvMjg1cWFEVU1vQUR2emh5ZUJmbkNBSmt2UkxULUdIdEpDMzlKaDU?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -223,7 +250,7 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
+      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Jagran शामिल हैं।",
       "image": "images/2500-88-km-jagran.jpg",
       "image_kind": "photo"
     },
@@ -252,7 +279,34 @@
       "genuineness_label": "Corroborated",
       "brief": "ट्रेन से 13 घंटे में दिल्ली से पटना का सफर, 16 कोच वाली वंदे भारत का किराया कितना? इसे ABP News और NewsBytes ने रिपोर्ट किया है।",
       "image": "images/13-16-abp-news.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "bjp-mlc-prabhat-khabar",
+      "headline": "पटना पहुंचे BJP के राष्ट्रीय अध्यक्ष नितिन नवीन, MLC चुनाव पर नेताओं संग करेंगे मंथन, जायेंगे पूजा पंडालों में - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-10-18",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmc0bzRZdzFuTEc1b1dWNzhkOU55ZXJTVGpiSmdiUVlqWWVXaFpQTnBnOHJSLVVwR19yMElIVmVoRFA5MWN6MEtZZUh1bkNYQ2Rmay1KUlVUdmpTY0RzLXhCTlJuMnJDUzdWTS1sa1BiZWxhbzRyei1zc2VKNGxVal9fa21QTkZmVFdkVFNobkxiR1g1UVgxb0xMX01aRWN4WXlmemFwRDUwaVNJTTMtd3YxcGNJTmVVWkJRMjVZQjlRVnQwRnlWMzVOMEVHX0hnckNDOHA4WDd2ekZx?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVlFhTmt4M2kyOHg5aTFUdHNFakd1QlhGYmZ3VmV0Rkt3Y21BNUxZOWNmR0xsZ3JnR25iRmkybmtDcGg1cWVxdnBQaDBJOFlWM1ExZldGNWRJNzltT2t4ZmNsUnBpejBVNU12V0NldzZZU291bEJDM3VwSV9Xc1hZY3NmdlFvRWxRelFPNUV4UEZ2aHhNYlZWUzZscmlWemxGemdOcUlNelIxNjllRUJIWFBxekpyQ19OamU4VlhXVDlROTlPaEdYQnh3MUNnUdIB0wFBVV95cUxPbGhSaDNneThhXzhob1NzUklOWUpEQ0NTaXo0bktxYS1fV3VLZGNXaVctbnJ1SHA2YWwtSVkwTGtXdXRBRmVqZVUxWmFNSVhIbWJJZXgtdGtqblBjbkp4THU4NjRfWEhOR0l1LWtNVk9CaC14YktXbkpINHRrUXhjd3JMdnlqVWtiRFhIWk1CTXVlbWlJbG1aWEJBbzJzM19mQVhzVHFZRVhmMHp6YS11Zy1ILXBXRllacjlSdkwxVXVrdF9tcUZjcEFMWnhXdEx6dDRn?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना पहुंचे BJP के राष्ट्रीय अध्यक्ष नितिन नवीन, MLC चुनाव पर नेताओं संग करेंगे मंथन, जायेंगे पूजा पंडालों में। राजनीति से जुड़ी ख़बर। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/bjp-mlc-prabhat-khabar.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "prabhat-khabar",
@@ -272,6 +326,11 @@
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjlyV25SMFdQLXk5R3RNWEFBeGpNbzJWMU0zSzJDSFNrSER4LWc3ZzJIY2c2b1RoVnRDVkEzTUc0VHpCaXkwXzg0cGRTSU9kR1JONllibk8wU0dwRVdqQVc5T1hwTFFKR2J2X3J3ekhWUDJGcjEwNWhEMGVkWFdYSlM1Ty1yTS1NSmtELUFUV3hGSVBLQ2hNa1Q3TFR3WFhjLWFoR0NWQUhtS2E4U2NoaHZXQnlGV1poSHUzdmVn?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1QxSmlMZmJrM0h5RGhudHZ5UzA5NHFaMzR3YkNub1I0RW5fTU1HZ0VqZm9EMnpXazd4VXBJLVllMUphVXZRb3NmS3ZnWGR6UmFHMXVKZ21sUDBwUVNOVVBTN1pPOGY3cUxxZkR3WUVHR2NOenFGaEwyVTZ2MlhsTkZZcC1CcVd6WktoYWQySU5rNGdDNi1tVUViSVJ1eEp0Z20w?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -302,11 +361,6 @@
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEVJVFlzRjFUTEVDMTFVWE0tSXRjZ1pwaEhOaW5IV2ZtbFRVNlZoSFBSY084WVMxTHZfZlkyWWFyN2JpTjJZQU51c0ZKQ0JBUFd5NW96VUN3Y3diOHJzQnBjRXJ6WUpQbExRLVBaSWFjTm5hXy1Hc3JjVlFzeko5c0dkOTluNlRNYUs1N0dsR1VaVzlQakZZazI5eGlNa1NTd0dlUm95YkM0SzZSdDlPX1lMWnU?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1QxSmlMZmJrM0h5RGhudHZ5UzA5NHFaMzR3YkNub1I0RW5fTU1HZ0VqZm9EMnpXazd4VXBJLVllMUphVXZRb3NmS3ZnWGR6UmFHMXVKZ21sUDBwUVNOVVBTN1pPOGY3cUxxZkR3WUVHR2NOenFGaEwyVTZ2MlhsTkZZcC1CcVd6WktoYWQySU5rNGdDNi1tVUViSVJ1eEp0Z20w?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -373,33 +427,6 @@
       "genuineness_label": "Corroborated",
       "brief": "बर्ड हिट रोकने के लिए पटना एयरपोर्ट का नया प्लान, जानें कैसे काम करेंगे रिफ्लेक्टिव रिबन। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/prabhat-khabar-f29adf.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bjp-mlc-prabhat-khabar",
-      "headline": "पटना पहुंचे BJP के राष्ट्रीय अध्यक्ष नितिन नवीन, MLC चुनाव पर नेताओं संग करेंगे मंथन, जायेंगे पूजा पंडालों में - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-18",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmc0bzRZdzFuTEc1b1dWNzhkOU55ZXJTVGpiSmdiUVlqWWVXaFpQTnBnOHJSLVVwR19yMElIVmVoRFA5MWN6MEtZZUh1bkNYQ2Rmay1KUlVUdmpTY0RzLXhCTlJuMnJDUzdWTS1sa1BiZWxhbzRyei1zc2VKNGxVal9fa21QTkZmVFdkVFNobkxiR1g1UVgxb0xMX01aRWN4WXlmemFwRDUwaVNJTTMtd3YxcGNJTmVVWkJRMjVZQjlRVnQwRnlWMzVOMEVHX0hnckNDOHA4WDd2ekZx?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVlFhTmt4M2kyOHg5aTFUdHNFakd1QlhGYmZ3VmV0Rkt3Y21BNUxZOWNmR0xsZ3JnR25iRmkybmtDcGg1cWVxdnBQaDBJOFlWM1ExZldGNWRJNzltT2t4ZmNsUnBpejBVNU12V0NldzZZU291bEJDM3VwSV9Xc1hZY3NmdlFvRWxRelFPNUV4UEZ2aHhNYlZWUzZscmlWemxGemdOcUlNelIxNjllRUJIWFBxekpyQ19OamU4VlhXVDlROTlPaEdYQnh3MUNnUdIB0wFBVV95cUxPbGhSaDNneThhXzhob1NzUklOWUpEQ0NTaXo0bktxYS1fV3VLZGNXaVctbnJ1SHA2YWwtSVkwTGtXdXRBRmVqZVUxWmFNSVhIbWJJZXgtdGtqblBjbkp4THU4NjRfWEhOR0l1LWtNVk9CaC14YktXbkpINHRrUXhjd3JMdnlqVWtiRFhIWk1CTXVlbWlJbG1aWEJBbzJzM19mQVhzVHFZRVhmMHp6YS11Zy1ILXBXRllacjlSdkwxVXVrdF9tcUZjcEFMWnhXdEx6dDRn?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना पहुंचे BJP के राष्ट्रीय अध्यक्ष नितिन नवीन, MLC चुनाव पर नेताओं संग करेंगे मंथन, जायेंगे पूजा पंडालों में। राजनीति से जुड़ी ख़बर। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/bjp-mlc-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -524,30 +551,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-stet-2026-admit-card-date-out-exam-from-october-25-che",
-      "headline": "Bihar STET 2026 Admit Card Date Out: Exam From October 25, Check Other Details - NDTV",
+      "id": "kishor-challenges-bjp-govt-in-bihar-to-book-him-over-shoot-s",
+      "headline": "Kishor challenges BJP govt in Bihar to book him over ‘shoot Samrat’ remark - ThePrint",
       "summary": "",
       "date": "2026-10-17",
       "topics": [
-        "education"
+        "politics"
       ],
       "sources": [
         {
-          "outlet": "Adda247",
+          "outlet": "Rediff",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTTnRiODBwSlpLbTEyNVdSd092dk1EZkpjR1M3Uzl3dkVSS1NtYkxxNXQ1bmdPNV84SUZFcWlsQkNyVmwxRXAwTFlrYjZ4NGdiVFBMeW4teFc4MEU3UzVoOS1tSXVxWWxqSWl6ZzZjSFJOQzRCSm9RaQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlhTNDEtRk44dEoxUDBja09YOHExVTlmMnBHd3V2M2o3dTllekR3WVNMVWtUZFVoejRCNzRjcXFIYVl6M1l5Q0dkcW85YTFLODdFcnFseDF3WENRRFp2dDRGR3RYZzRPZmZ3NHU2bF9DQWlKUXN4T3JJRnZhZkpyV2ZBMzhfWHFYXzhZRThfeGR2RWZrMG5XQ0poUzkyUEc4RnRDS080S1lxYzNjZ2gxSjlSazhhV2EwcVNUQ0hHYlp5T1MtNEYzb3hWZ3dQMzd5ZDFrNW1jcXQ3aGtZTG9vXzZkb1cyekNETHc?oc=5"
         },
         {
-          "outlet": "NDTV",
+          "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkpZVzVnZ0s2Rk5Va0dKQ3ZETllMWFNFSFdPdm95R1ZOSnFHRU1lSEFfdmRNX1lvekx0SkhpUEJ4V2RVVXM3UjloZEJKc1ptU2RyNXJSWUN1V1lUdllDY0dVd3h3SDdlX1h6OEl2LXdOVmQwaHhlX3Rtb2x6dzBaMVNPQ052Skt3czN4MDJSVlk3VjJKRnVJQWllSlZyLWl4djZreVJCNHBoYkpfZEhubFVSanJrU1HSAb8BQVVfeXFMUEtmR3IwMFlaQnFfem0wb01NQ082cXJXUlB1SWM4SVVSZGZMUllDOG42ZThPcHd1dDB6SlgtMFJ0YXp4Q3RUSUJwWURPMG1iNnFLZFg1WU5LTHloYmZVS0paTlNtQXZoZ1pGU2szUlNmV3JDdjJkb055MElEbk1OYVhvNDlMSHBuYWZSQnNLcktpSnBkbFVWVk5LaVdHckhjdXBuam5SRG1wQzF1ejFBVGFGdFE1Wm9jdzJ3OEY2YkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFRkNzZkR2RfMXUtZ0E3MmhhaFhTbDJNMk9raVlMaVJ6cG1aa1J2c2E5RXg1OU55QnE3M2NtOHk0QlEyd0x4VFNCZy1QeGtvRlFqZGc3NGRrbnpZNWZDT1AzU2NWWl9XU09kUkJkX0NYN0owTzNSTEZ1YkZ1YllZLXFlS2F1N2lQMDkzVEpZTllwUF9ZMnh0OEFVUlp3VmQtWHVxUzZ3d2wyS0HSAbABQVVfeXFMTVMwRTR1RVpxYjJFbE5jeW94UVFNWVJTUmtiQ2ItTUZHd3kya0Y3R0ZwY2tGM3R1bEJ4ZlhEdkRPeUQ2UEE0V19IeURMZWxXeE90QlJfTDRnRXpKOEEwcTlEc21MWi1aUm1IQ0M1cWVEUk53a1JaYUdka2E4QUlvM3NOMk8wUUNQQUpfcnd6ODRWYTliTklsNnFYTFoyb1hmZEV3T1NaWkVONW9wOTlydkQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar STET 2026 Admit Card Date Out: Exam From October 25, Check Other Details. An education-related story. Covered by Adda247 and NDTV.",
-      "image": "images/bihar-stet-2026-admit-card-date-out-exam-from-october-25-che.jpg",
+      "brief": "Kishor challenges BJP govt in Bihar to book him over ‘shoot Samrat’ remark. A politics-related story. Covered by Rediff and ThePrint.",
+      "image": "images/kishor-challenges-bjp-govt-in-bihar-to-book-him-over-shoot-s.jpg",
       "image_kind": "photo"
     },
     {
@@ -802,11 +829,6 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0MzUkN4Ui1TMkMxMXdDR2wwcTA3emRDTmJYakNlRzk3dHlIRnZ6M0pLelRpSU83V3R5UWE2TmZTYUZUYjFCYXhnVW9vc2FhTVpvbzk4M0owU180T2F0cnBlTjZMVl9WSWtBZ0ZWN2ktbkotNFQtOUdYZXFsbFdnYjBDaURyaFYxbmdadnRrNEF2ekZsR2g2QVZn0gGcAUFVX3lxTFB6LWNweC03ZFFWaG5xd1VhUVF6M1AwcnJFYlZtQ081X3RmQTUyZXdyb1p6LXR6VmQxVDBWclZYOFJqV0hsYjA0UmdGZVJKNUdTSmlVVXMtOTdOQVNJUGV6dkwyRDMzdDVWc3RDZmxYbE5taXFiWS1wQ2FjWUdUOXltMU1mRXJCdkRuUElkaHdLY091SGlBYXZyYVdDUw?oc=5"
         },
         {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmkwcUYta2FGM1VDMnVKUmF5MUFlOU5XbHpYc2NJdjlCVjRWRVV4MXViNDZhMHZiRVItOG1DT0FlVkVyd1VVT0NxVGFTRndDMFRUOWNTUk0xQ1V2R2ZSMGMxSkVmZHpfTTNVNW9JNF9FM2RPZTg5aHM4dEpzVlc4ZFZ1RFd3OVZPSmRSSVo1QXhWS3hlc2w1NnFkZElMeUpFZk53eU81bEpDaGVxYlJIX09PMWRJSV9rSHBZRFg3SdIBzAFBVV95cUxQY2ZUVHZ3SVJPcWFORlFfb0F6RHhncGZFSEp3NGwwbk1KOGIwRlJ4a1lOODZrT0lhMFNHdWJQRmFwSk1jZEVCWXpqTjZ0dTNvTmM1em1SVmd1TldwMlk3ejdWc3R6QVFWUHFzZWk0SUdIUEtuSzF0ZUtIMG9PWUdsYnJCXzlNOW9vNTdvQW8waldxTVVqNFNvZnlMUzdxTlZpM2hmUDJmR0VGQzg1S0hUeTFaWUE1RGR1d25JTUo4a09iNy13OS12RXI1Um8?oc=5"
-        },
-        {
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHk3MFhFelVqa091ZnVrNWpGR3FFLXpZOEZ5aGFqX3BBUzFRTWtOTnhVQlY0aXRNdEdGWHI1SHBncncyM013bW53NDc2aThqSE5Rb2E4Tm9yR0dlYTNsdTU3R3BrQk1relAwYVp3UllGZHp5S25jU3hyT2tma1NNQm4wRExyd3RyeDczWDlGT01WY0xLc0FpRGQ4WExPcGtGSk84MU9EUHl6c0JDTkNBeFF5QXZ1S0ZpOWF5VFRZdGp2Q0VO?oc=5"
@@ -815,12 +837,17 @@
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTENBdTlyRGEtVGprM2dtQjFURURMUlItLWE1NVR3R3BEMEZWUEhXRnB2MjBlWHB5X2FYU3ZDbS1FdHZVNkk2Q1lVRFNaWDhCaDZfc3B4VzYxRmlCUk1tWWJETTRSc0tPUDdxOVRtOXJQeWh2Y3NpYjNycHlSdEtBX29BdlVVOXpsczhWN2hQdC1kTE85TGNiaHlqdDZKbzdhWDV6dXhESjlrN2h0blNJM3BTY2hKanpyeFB4VmFR0gHEAUFVX3lxTE4wRDRiaW9sVko3X01zMi1PMGdMQUlaVXhTZ01UWTNpMzRSOVZaSzA1NURmejJkVklUeDBBS0t0ZDUtRUVQTWItSzlsbG5BMzFkY013dERONzFFSGVwd2NSYkVWN3Z3MWRocUwtV3VZYUx2aUVhNno1VW1QQ3N6SVpWNTlUd1RuYk9VZ1lRVVVtTXlSM3BvWTlDam5YbzNiel9fUUhtMEpUX0JxWnlUelhLS2x4TmMzdFlBUjNWbUg0YXlqZVY?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmkwcUYta2FGM1VDMnVKUmF5MUFlOU5XbHpYc2NJdjlCVjRWRVV4MXViNDZhMHZiRVItOG1DT0FlVkVyd1VVT0NxVGFTRndDMFRUOWNTUk0xQ1V2R2ZSMGMxSkVmZHpfTTNVNW9JNF9FM2RPZTg5aHM4dEpzVlc4ZFZ1RFd3OVZPSmRSSVo1QXhWS3hlc2w1NnFkZElMeUpFZk53eU81bEpDaGVxYlJIX09PMWRJSV9rSHBZRFg3SdIBzAFBVV95cUxQY2ZUVHZ3SVJPcWFORlFfb0F6RHhncGZFSEp3NGwwbk1KOGIwRlJ4a1lOODZrT0lhMFNHdWJQRmFwSk1jZEVCWXpqTjZ0dTNvTmM1em1SVmd1TldwMlk3ejdWc3R6QVFWUHFzZWk0SUdIUEtuSzF0ZUtIMG9PWUdsYnJCXzlNOW9vNTdvQW8waldxTVVqNFNvZnlMUzdxTlZpM2hmUDJmR0VGQzg1S0hUeTFaWUE1RGR1d25JTUo4a09iNy13OS12RXI1Um8?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Excise constable shot dead by liquor smugglers in Bihar’s Nalanda. A crime-related story. Covered by 3 outlets, including Rediff and The New Indian Express.",
+      "brief": "Excise constable shot dead by liquor smugglers in Bihar’s Nalanda. A crime-related story. Covered by 3 outlets, including Rediff and The Hindu.",
       "image": "images/excise-constable-shot-dead-by-liquor-smugglers-in-bihar-s-na.jpg",
       "image_kind": "photo"
     },
