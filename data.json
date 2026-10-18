@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18 11:35 UTC",
-  "generated_at_ist": "18 Oct 2026, 05:05 PM IST",
-  "story_count": 57,
+  "generated_at": "2026-10-18 12:35 UTC",
+  "generated_at_ist": "18 Oct 2026, 06:05 PM IST",
+  "story_count": 56,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -205,7 +205,34 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar STET Admit Card 2026 OUT, Super TET Hall Ticket Download Link. Covered by Career Power and Adda247.",
       "image": "images/bihar-stet-admit-card-2026-out-super-tet-hall-ticket-downloa.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "mlc-dainik-bhaskar",
+      "headline": "अनंत सिंह के रोड शो में बुल्डोजर से पुष्प वर्षा: पटना स्नातक MLC चुनाव में डॉ. अनुज कुमार के समर्थन में बाढ... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-18",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb1VBRGFUN2VqdUJMcHFLNGtyY0FwcEM1Z0o0YkdGeGFKZG5NTEhLUE5hdnE0TVZ3cTNpY2gwSU1lbkVyOHdOSkpGYXRKTFNDSjJubDhIUzhOQU1IWmtMQ1pLTWc2V29YdVNWMWxGNy01R1FRMjZuTXJYR1VrUkV4MHBSTUVWYlZzWGQwblc4MHVCSmUyWHVSZkJkbHBpZGJhczJpbzBIS3puVFZPMDB2Yzh3REtpNV8zbzdlcUdHVzVpTEMyY2xobFRmcmI0bjJPWVBjRlViWW0zcGVP0gHiAUFVX3lxTE1ad0dSWDdVaHFRMm1McTBxOC1IWFVtb1h5ZFZmenRvVGdiRHNDTmdlMUJFbTJsN0QyWGZ5Q01mcFJkWXlYOGxSM3JoalVVajZIdGNJaEplRnkxR0R6VWtkVUFfdktVMjBoSERXUFd0aEpySmpYWXFUbmZVMHZnSjQxbWFLRm9LM1k1UXdVa2pDeml3OU5QMkhYS0ZWbkx0SXhOSTZEU2R4eDQ4NU10RVB4UmpEMmc0RzY3RDVnMWliLUttYzNtMFhPM0JPakJGVnA2VDM1Uldsbl9BVnhPM19ldlE?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV0FHMGxVVzc5UzVsR2JrS1RIQlJsQjJIZm9OelJoeW5HblhwR25lTUxzbHh6eGdLYV9ONFV0TjJQVUp5cmxobnNQT21jeXpVMHF1RzRWdXluWlF4amdCUjN1TVBWYm01ZTJ6aFlIVjBVNEVkS0pvbm5QSHhEYVQ2TGRlbHhlZE53MU9PMUJ5ZEZtOU85NWVGdEY0UnVqWEpyQkEwLTVieDFDY0RKSTRRR3pqZEl2X0Y1My1tX1NKeFZLWWJWR0ViWVlB0gHPAUFVX3lxTE80YnZ5Tjhxc3ZvblN0Xzkyd2JwRENYZ0FUVDF1ajV4Rzc4NUFNdWE4SU9KY0Y1aXRuUkIyT2d6RXBxbEc2MDcyUEJtRGlfX3Zya3lmbmktR1ZOTXNqaWJWRFlaVzZoSTF0eUMwVUZhMkRTQXpvS3pMSEVCcG5wLVpHZ2dhWE1yUjVQZUhCLW9EYXNTT1R0ZmdnMW1NRmhHdzFmeFdhbG5yeTZtWmxOSWdWdmpmNTFMU1duNTNRNi1CeFc0VzlfMFhNdVhJeUV1bw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "अनंत सिंह के रोड शो में बुल्डोजर से पुष्प वर्षा: पटना स्नातक MLC चुनाव में डॉ. अनुज कुमार के समर्थन में बाढ... इसे Amar Ujala और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/mlc-dainik-bhaskar.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "160-32-dainik-bhaskar",
@@ -217,30 +244,30 @@
       ],
       "sources": [
         {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclVrYUpwaXBsalBKcjRLYkRaaTdIX25BSEwySHNKSkkwTHI4Ql82QllSdFRZQmdrN1VnSGN5cHpQdWdQRUxTZ0xhQUlZZ1F1MVliY0RFU2EzMGFkRjMzcmZKNEdJbWw0ZWlDbTdLZzdUR2d0MTNOLXpOV1NJSXEweVlDbllIbTRrLWxWWmFJTDNFOHdoQ3hXbmJad3lGYWhZb1VjWXBNY0xBODNRak9xTjZMdWVTMl9hYUHSAb8BQVVfeXFMTnBKZWlKNGhKSXEwaFZNVFc3emhjQTdZVU9HUVpweWRYOHJrRFU3ZTRZYlNyT2g4dUJHdHBubmV2UzBVUGMzTTNEanIyZHVUNm9FU3M5N3prSzBrckZMSVNRR2JpMDJCTDFINWFRWEx5dkFVV0VaTTctZS0xM3kxeDZfUXFtZ05nc0F4NU9yUWgzbXpIazF2WEJfdENZcnp0TVEzQUE2OHE0dGJ4QmdQV3hJMDE2dFFpeWhUT2R2d28?oc=5"
-        },
-        {
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSzB6TWRNUHhQcHd4MzlZd3BsU2pqb0lYUFJjWTdoQ0MtaGw2RDFJY3hlQjFMOVNuQTRmU05GZjFkQkh5TEdZMzVnaE02WUhST0p0MF9PUUs4dm9uV2NkbDJkdWc5T1JUaW9YVDZ0SVFiblNpVzVRTkJMZEtvdVRQcEl3WllyV0N6Z1c3MkhCLTdKTW9PWWx3RzhORE1JT20ybHZfY1I5WnpHbmsxTk5yOUY1dHZaZ1ZyNXQ2aHF5Ymx3N0R2ak1pQVFobTd5d1pUWDhuUmREaGlrTVFZbXdKWnNUbUpJWTJRRFMxNVp5dmVOd9IB9wFBVV95cUxQSDJCLVhmbzRORzNtOUlkR2ttQnpwQ2VnaWh5QnE1blNCRkdJUFJnZFRXWDRUX2kydnJvdzg1ZXg3SnIydHd2cFluTHhPMzFoaU9RdWZmT1JwLTl2bVlhc19nNGlfUEtKSWFsQXJqei10NlQ1dHBOYlNxNXFZb0FtbV9tQXFBWFlUMWJ6bnBLQnhoTzZ5Ukd3MEdoWHZodk1fMllQUm1EZTgxZnBJZXdrTHZ6MVhjTURKQU1IcUtkMW1xd2pERzRKRHZRYzlBRFl0ZzBXS2JlSUNydFVhLXBhNUJwdFJBMmxSdkN5OE43c3V6SWJlWlhR?oc=5"
         },
         {
-          "outlet": "Jagran",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcHhSR0ZmcGxuU1l2emhXcFczRG1XRUNVVjNPSU8tS0tBbXNPdl83dVdRUGRWQU1XcVN4LTFRMmp5QjhZdEJ4TlpYTlU0MFl3Z3dXcXJTMm9MbEhSTGd1U0VpUVliLTBzTGdQa21GRllJZkh2ZWc0M2tUWi00dXdON2w0aXpYYTdkUmhzX3FIcXNLczRUSHUtZnJIcm1kbm5uclYxWEJQbC1vVjJTZ2Z4aG1pWXN6YjRUWHhXQ1Rn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclVrYUpwaXBsalBKcjRLYkRaaTdIX25BSEwySHNKSkkwTHI4Ql82QllSdFRZQmdrN1VnSGN5cHpQdWdQRUxTZ0xhQUlZZ1F1MVliY0RFU2EzMGFkRjMzcmZKNEdJbWw0ZWlDbTdLZzdUR2d0MTNOLXpOV1NJSXEweVlDbllIbTRrLWxWWmFJTDNFOHdoQ3hXbmJad3lGYWhZb1VjWXBNY0xBODNRak9xTjZMdWVTMl9hYUHSAb8BQVVfeXFMTnBKZWlKNGhKSXEwaFZNVFc3emhjQTdZVU9HUVpweWRYOHJrRFU3ZTRZYlNyT2g4dUJHdHBubmV2UzBVUGMzTTNEanIyZHVUNm9FU3M5N3prSzBrckZMSVNRR2JpMDJCTDFINWFRWEx5dkFVV0VaTTctZS0xM3kxeDZfUXFtZ05nc0F4NU9yUWgzbXpIazF2WEJfdENZcnp0TVEzQUE2OHE0dGJ4QmdQV3hJMDE2dFFpeWhUT2R2d28?oc=5"
         },
         {
           "outlet": "Amar Ujala",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkV4NWRpVE5VRUlMV0pSNzh1eEVnYlU3bnpYY2pIN3M4TUhxOXlnTUVlbTc2T3NLRGxpcnAxVFRCcWtnZF9DM00yVkN1QmVTSU9EbExvR1o2U0dMbXY1TUlFVzU3SzhoME82SzhXd01TWmthcWttVDVWODNMWlA3ZE5VN1ByUlV5R2hINW9CVHd4MVdYQUJNMzJrc0YxbGhJZlo5bm1nUG5GLTRnR0d2cEZkd05vT2FwTkNscXJCbHJaUm5DWG9kc0tfMjNqalc0R1JjdC1IOFlVM1V5YzNN0gHkAUFVX3lxTE1ycUkzSW43dTJXOE96SjRjQ0lwM3Ixai03NzBqZFRESm9WSm5hMEJEMksyRWVsN2FHbUdHaURmbDlUZW5IYVUwQVB2aUx0N2xiWVN5RzJocm5tbVhrTEVSZGdpRmZXZzVLMVFBQmVOUHdLYV9oWi0tLWg3RG55UWJDbjFXRzBsQVVpTl9HRTlpc1FWUHNVZkFBVVJrU2hhOWZkbDNKekdDYnZEb2VuTjYwaHQtV3g1MmFSY1F1ZlVfLUQ0N2tKVkZEOTlidUd5ODhEQUp5aWtaZGdHcjJOOVVpODlrVg?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcHhSR0ZmcGxuU1l2emhXcFczRG1XRUNVVjNPSU8tS0tBbXNPdl83dVdRUGRWQU1XcVN4LTFRMmp5QjhZdEJ4TlpYTlU0MFl3Z3dXcXJTMm9MbEhSTGd1U0VpUVliLTBzTGdQa21GRllJZkh2ZWc0M2tUWi00dXdON2w0aXpYYTdkUmhzX3FIcXNLczRUSHUtZnJIcm1kbm5uclYxWEJQbC1vVjJTZ2Z4aG1pWXN6YjRUWHhXQ1Rn?oc=5"
         }
       ],
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना में डोमिनोज-मैकडॉनल्ड्स में रेड, 160 पिज्जा खराब मिले: स्वास्थ्य विभाग ने नष्ट कराए 32 हजार के पिज्जा,... इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
+      "brief": "पटना में डोमिनोज-मैकडॉनल्ड्स में रेड, 160 पिज्जा खराब मिले: स्वास्थ्य विभाग ने नष्ट कराए 32 हजार के पिज्जा,... इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Dainik Bhaskar शामिल हैं।",
       "image": "images/160-32-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -254,9 +281,14 @@
       ],
       "sources": [
         {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFBvMVNfQnRlVF9tLU1Hb0hxbDBVTWFDa1VJd091WTYybEdmNVpsUUUyQzlDUU1uQTZ4VnFha0p6Z1A1d0dyeEFWanljWHc4TjhydWl2Z1llc3JTY0JuVktxTmRpdnMtekJsaTM4MzBwanJ1cktybkNEeXVFQWRRN3pxSmhERURLLS1EeEVGQi1nc2l4YUt0dzN2a1ZIdDZhU2JRYWxrUk1TVnlkZ2N4X0pmOWtONUZIRFpRa1JpRFB6cDVkbkdzYkE5enVlTk5EX1FwMXl1Qktha0R0?oc=5"
+        },
+        {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXdkeVJSSjZRQ3JNcFlucG85ZGtSbVZaMjFTZF9pNmF1Y29mUW44dThNUDZkTmVUVjhZWnRCUW90YmFrT2hiMzk0WGY2TmxtRTFfZmNwU0hSckhtcEl1UERoNVRTZnM0R01RVERBSkVoeVhpQzJTdkpaaE1mOWZ4a0JpRG1DT2E5ZWhHNThZSzBxQ2lqWTk4U0Zya2swYnFQQW54TE9ZQ1pZWkhKamZMSUJvMjg1cWFEVU1vQUR2emh5ZUJmbkNBSmt2UkxULUdIdEpDMzlKaDU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXI5aUJjRGNUb2Nvc2V6RmVqZXpjVmJNVzk2eHlXOWtlNGlJcnB3SkJTU2ExTmk0VkF3Q2RlU3BaLU11ZU0tUDhrbDgyVVBrWmIzOU52Qno3VWNNZm91QzJ0VFJKLXp0UUROSFhtWTNFT0lQSW1weW9ZbFFRMWM2UXF6czZleU0tQ2RSN2JLQnpFR2hsNTlpZFdqcnlEUjdyMmJpdGIzTm9JNTdiZjgwbUYwRjhFZEdQQ1BNWDdB?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -266,12 +298,7 @@
         {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXI5aUJjRGNUb2Nvc2V6RmVqZXpjVmJNVzk2eHlXOWtlNGlJcnB3SkJTU2ExTmk0VkF3Q2RlU3BaLU11ZU0tUDhrbDgyVVBrWmIzOU52Qno3VWNNZm91QzJ0VFJKLXp0UUROSFhtWTNFT0lQSW1weW9ZbFFRMWM2UXF6czZleU0tQ2RSN2JLQnpFR2hsNTlpZFdqcnlEUjdyMmJpdGIzTm9JNTdiZjgwbUYwRjhFZEdQQ1BNWDdB?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFBvMVNfQnRlVF9tLU1Hb0hxbDBVTWFDa1VJd091WTYybEdmNVpsUUUyQzlDUU1uQTZ4VnFha0p6Z1A1d0dyeEFWanljWHc4TjhydWl2Z1llc3JTY0JuVktxTmRpdnMtekJsaTM4MzBwanJ1cktybkNEeXVFQWRRN3pxSmhERURLLS1EeEVGQi1nc2l4YUt0dzN2a1ZIdDZhU2JRYWxrUk1TVnlkZ2N4X0pmOWtONUZIRFpRa1JpRFB6cDVkbkdzYkE5enVlTk5EX1FwMXl1Qktha0R0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXdkeVJSSjZRQ3JNcFlucG85ZGtSbVZaMjFTZF9pNmF1Y29mUW44dThNUDZkTmVUVjhZWnRCUW90YmFrT2hiMzk0WGY2TmxtRTFfZmNwU0hSckhtcEl1UERoNVRTZnM0R01RVERBSkVoeVhpQzJTdkpaaE1mOWZ4a0JpRG1DT2E5ZWhHNThZSzBxQ2lqWTk4U0Zya2swYnFQQW54TE9ZQ1pZWkhKamZMSUJvMjg1cWFEVU1vQUR2emh5ZUJmbkNBSmt2UkxULUdIdEpDMzlKaDU?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -282,13 +309,13 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
+      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Jagran शामिल हैं।",
       "image": "images/2500-88-km-jagran.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "13-994-km-2-600-aajtak",
-      "headline": "13 घंटे में 994 KM, खाने के साथ ₹2,600 किराया... नई दिल्ली-पटना स्पेशल वंदे भारत में बुकिंग स्टार्ट - AajTak",
+      "id": "13-16-abp-news",
+      "headline": "ट्रेन से 13 घंटे में दिल्ली से पटना का सफर, 16 कोच वाली वंदे भारत का किराया कितना? - ABP News",
       "summary": "",
       "date": "2026-10-18",
       "topics": [
@@ -304,18 +331,13 @@
           "outlet": "NewsBytes",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQkZta0s2R2duVFBJQ09LRVJGQlVTSlZFTVAxTGpjT2xwQTZIUG44UUYtQzVRMGEweE5tTlVxdTVIZGhpeHlCcGNSc3RrOVZFNkhBQ3N1VnVtYzBjbmNzMUVnczJfaEk2cUkxV0YwMXpxMHZOQkN0TnU2azJIdi1LZDk2amlialVJY1lNMm9vSzFvVEFPWjRnZWtPU3g1dW11b2dXbFdFbmxpU3l4b1Bac0VxeC1XSmxLSFJYRU1B?oc=5"
-        },
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNVRiRkFSV1FYcXI0OTdjV0ZEYkZhRFdUcUJsZG1GOTg1UmlYc0ZDcUtieUFGajZPeHFreFZBTGhTYklBNF9jRlFQQTQxOXdjN2V6czVveG9sNE1mN25uMHNTaUROU2RaRmExU3ZrLUJrcm1KNWozZUM2MFJnbUxlYVBDWFJOMTZ2bUk2aVhnbFVNbk4tS2diUnExcXd6VHBFOXUxOEI2d2hNcHlSY1JETU1XOXF1Y0p1RThUSDZZd2FCUnpoVjgzakRzTEhad2Rmay04WHE3V1NDZmQ4OUt1TWJIZkVOemhockUzT094Vnh4LXfSAfgBQVVfeXFMT3plMDBXZFhISGk0Tk1Sdmc5QnJWVnJiRG9VVUtYa2YzRzNVb244eDJENnpWSjNGRzdkclZwRWhaWDJQdGRPcUwyNXB3Rkc5WkgtaDhTbVA2Qk9kcjJNVi01cG9FR3V1cVRPbklJM3FKVUQ0N0JFR2dNT1JucW9pRkNUZEg4cmxLR1hfT0dIS19VWkx2bHZ4MDF2d0tNQnVLZ0NzQ0tXZmN0ZzJsRGhmdmtXNW5sX1ZVSVk5QlFBYzdPZy11dFc2V0xfTGNTbzF2T1VtUlJZWmN6VnNaeXpEYnRFUG1ySlVHWDhNd09GbGNjbFFXRnFqQWI?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "13 घंटे में 994 KM, खाने के साथ ₹2,600 किराया... नई दिल्ली-पटना स्पेशल वंदे भारत में बुकिंग स्टार्ट। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें ABP News और NewsBytes शामिल हैं।",
-      "image": "images/13-994-km-2-600-aajtak.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "ट्रेन से 13 घंटे में दिल्ली से पटना का सफर, 16 कोच वाली वंदे भारत का किराया कितना? इसे ABP News और NewsBytes ने रिपोर्ट किया है।",
+      "image": "images/13-16-abp-news.jpg",
       "image_kind": "photo"
     },
     {
@@ -510,7 +532,7 @@
     },
     {
       "id": "nitin-nabin-bihar-cm-visit-durga-puja-pandals-pray-for-pm-mo",
-      "headline": "Nitin Nabin, Bihar CM visit Durga Puja pandals, pray for PM Modis strength to serve nation - Daily Excelsior",
+      "headline": "Nitin Nabin, Bihar CM visit Durga Puja pandals, pray for PM Modi’s strength to serve nation - ThePrint",
       "summary": "",
       "date": "2026-10-17",
       "topics": [
@@ -528,11 +550,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbDdZaXBnNDgyeUhxWEhkcFZ6VVFhRnJTcHVKTVZTNzZlR0ViX2FDeTFraG1tNENzS0tpcEVTajBBVDJTM1htUm5pMUVoV0stY1EtODlsOG5xYXFvZGwwMVFzdk5ycWs0aVk4VW1keUhnY3EyempWUjBPSTFzTkhLRWsxVEN6RktwLXY4TWQ4eEJYWFo1R3BqRXIxalNmSGYxc3c?oc=5"
         },
         {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc20xdFFHWGt5NzY2cExGNGJVR09UaXd0T2M1SHhaNXZQVkxCMElJU2c5eE5XN3UyRUo5b3k0QVNQaEhkZ3c3LTdrclE4VGh4d3ZTZ2VFQTd5UjNfbXhGMzdwRVlKc0tHZ0hQdW1QZDBNV0dIZkh4SkZPU2hQYS1EOTFRWXN0NFNWYkc4WEZFQjBLMjhtVV9sbVZhOG5tQVdpZ3NhVy1zTXhEb3RJZU1NMTVRRWZPNTVyTFItUtIBwAFBVV95cUxQZ1IzX0lYd0dvWjg3cEZob0J4VkNoQThLYU1kR3pDNTRJajQ0cUR1WmdHcENsVTI1X0oySFhPZU5NUmlLeEc5YkU0ZHpXelVxeHh5U0VRc05lT3dsU1FFUVlETFlpQ2EtYWJiVGg0bGVZZVlNNnNtQlQwY0tTUWNBanVXUlNwdk9xZEFhYnFCWV9CQlFSNmVOOTBtcjN1WU82d3gxd2szNXk4Mnd4LWRpSUt0b2lpNm56M1gwb0p1cHo?oc=5"
-        },
-        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQenpnWkZHX2MyMk00Wmg4WmJrQVd3QXRPSExWUjNUX056RkF6RXpUOXF6WTZrYm5UQmZmanlDemhSejR0S0VfZWRrYk04Z0FTUVYwODJST3BLRVRGbk02QmlsSGVvSl9MZnlkRk9Lb2h2bUJualBkNUxrUzRoRVF6Tk5IRXMxQlVYaUlQakZ5NHN0WDJoWjI0bkI2R1Z2aVJXWl9TNjRiVUVBb3hGQmtEMndmZk5wMGZjbFpoLWRLQVPSAcYBQVVfeXFMTzVMVktLdmprY001VC1LM0ZyVTNSMGlhZVpVRUR3T0ZsSUFHeFRoMmtydjc2bWhVUFkzMDB0RWI5b0JnaVZTc1ZNUDE3NV9JR19FM3VtWllGcjhoYVVYSmZvdERJeG5iS0xlZ3J6bWZGczUzNGFPNF9ZX2l2c1ZwSUVrNjR0YW1kd0w4WV9lcng2eThHR215ODJ0Y292SGpKRFgtRkg3b2R5OUhhM0RhWUVKak1rTjRVNS1VM3ZOMTdpWVJhLTRB?oc=5"
@@ -548,10 +565,10 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTl9NeWEzZ3NqVjVCMEhjQlVJdHRla0VCZ09qWEJ6V2xsNExHeWthaGgyT0tMNGZjOUk5WTgtamNwUU8yNGM0eW1XeXNrdnZfYmZzRk9PSHpYY0NodXdrZGhvZ29WQjJnY3daSk5JeFFxZzJQUHNocnY3bnZCWFpuaTgtSFhaemlWb3FXbUN5UW5GWmlZbXJvYmIxQzE0YXppVi1vdkZIX205UEU?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Nitin Nabin, Bihar CM visit Durga Puja pandals, pray for PM Modis strength to serve nation. A politics-related story. Covered by 5 outlets, including The Indian Express and The News Mill.",
+      "brief": "Nitin Nabin, Bihar CM visit Durga Puja pandals, pray for PM Modi’s strength to serve nation. A politics-related story. Covered by 4 outlets, including The Indian Express and The News Mill.",
       "image": "images/nitin-nabin-bihar-cm-visit-durga-puja-pandals-pray-for-pm-mo.jpg",
       "image_kind": "photo"
     },
@@ -592,48 +609,21 @@
       ],
       "sources": [
         {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlhTNDEtRk44dEoxUDBja09YOHExVTlmMnBHd3V2M2o3dTllekR3WVNMVWtUZFVoejRCNzRjcXFIYVl6M1l5Q0dkcW85YTFLODdFcnFseDF3WENRRFp2dDRGR3RYZzRPZmZ3NHU2bF9DQWlKUXN4T3JJRnZhZkpyV2ZBMzhfWHFYXzhZRThfeGR2RWZrMG5XQ0poUzkyUEc4RnRDS080S1lxYzNjZ2gxSjlSazhhV2EwcVNUQ0hHYlp5T1MtNEYzb3hWZ3dQMzd5ZDFrNW1jcXQ3aGtZTG9vXzZkb1cyekNETHc?oc=5"
-        },
-        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFRkNzZkR2RfMXUtZ0E3MmhhaFhTbDJNMk9raVlMaVJ6cG1aa1J2c2E5RXg1OU55QnE3M2NtOHk0QlEyd0x4VFNCZy1QeGtvRlFqZGc3NGRrbnpZNWZDT1AzU2NWWl9XU09kUkJkX0NYN0owTzNSTEZ1YkZ1YllZLXFlS2F1N2lQMDkzVEpZTllwUF9ZMnh0OEFVUlp3VmQtWHVxUzZ3d2wyS0HSAbABQVVfeXFMTVMwRTR1RVpxYjJFbE5jeW94UVFNWVJTUmtiQ2ItTUZHd3kya0Y3R0ZwY2tGM3R1bEJ4ZlhEdkRPeUQ2UEE0V19IeURMZWxXeE90QlJfTDRnRXpKOEEwcTlEc21MWi1aUm1IQ0M1cWVEUk53a1JaYUdka2E4QUlvM3NOMk8wUUNQQUpfcnd6ODRWYTliTklsNnFYTFoyb1hmZEV3T1NaWkVONW9wOTlydkQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Kishor challenges BJP govt in Bihar to book him over ‘shoot Samrat’ remark. A politics-related story. Covered by Rediff and ThePrint.",
-      "image": "images/kishor-challenges-bjp-govt-in-bihar-to-book-him-over-shoot-s.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-cm-samrat-choudhary-welcomes-prakriti-hi-prabhu-hai-cy",
-      "headline": "Bihar CM Samrat Choudhary welcomes ‘Prakriti hi Prabhu hai’ cycle expedition team - The News Mill",
-      "summary": "",
-      "date": "2026-10-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY3NVZ1p5T3NGLTdJTUlEdmU3dzRqVDJMS2JGUU9OYm56QmpKeHVlNzBXRTJHLXc1TzZyRlU5cllndG03OEhsLXFvWlY1SXo4OTVXTnNyblFiYUpaOWJZUk5qbHZCVDR4dXhobHliTlVuV0JIangyRVptU3h2Zlp4YV93UVc3SnV3TU1ORjJSZ05WQjRoa2NOVFFNWE9YNHRud2p4aTFPVTJCcnYxcGRYdVhMSENGZDVGNW1jYkl2eUd2SC1NTnBFa1ZGMlJFX25JVjNuVm5aNmRIelBWYnpB?oc=5"
         },
         {
-          "outlet": "The News Mill",
+          "outlet": "Rediff",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRHF0Uy02ZFhhM3lIdVluallEemdIb2ktUkJQckRNbW56VndmX0dVZ2FsOEdVeHhjLXcwblZ5YzlwSmlPWm9MNHFUNVdLd0JoclpaZXN5ZnlnS0EzekV4VGFhQTJ4aGRucEttN09Zc3hmRFR3UXJhczE5YzQzUjVxUlRGSlFHM203UHZGTlktdDdmUTBiVkppRGt4TlZ1aGFXYW9tRXd5TmU3bWxURkhWOU53?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlhTNDEtRk44dEoxUDBja09YOHExVTlmMnBHd3V2M2o3dTllekR3WVNMVWtUZFVoejRCNzRjcXFIYVl6M1l5Q0dkcW85YTFLODdFcnFseDF3WENRRFp2dDRGR3RYZzRPZmZ3NHU2bF9DQWlKUXN4T3JJRnZhZkpyV2ZBMzhfWHFYXzhZRThfeGR2RWZrMG5XQ0poUzkyUEc4RnRDS080S1lxYzNjZ2gxSjlSazhhV2EwcVNUQ0hHYlp5T1MtNEYzb3hWZ3dQMzd5ZDFrNW1jcXQ3aGtZTG9vXzZkb1cyekNETHc?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar CM Samrat Choudhary welcomes ‘Prakriti hi Prabhu hai’ cycle expedition team. Covered by ANI News and The News Mill.",
-      "image": "images/bihar-cm-samrat-choudhary-welcomes-prakriti-hi-prabhu-hai-cy.jpg",
+      "brief": "Kishor challenges BJP govt in Bihar to book him over ‘shoot Samrat’ remark. A politics-related story. Covered by ThePrint and Rediff.",
+      "image": "images/kishor-challenges-bjp-govt-in-bihar-to-book-him-over-shoot-s.jpg",
       "image_kind": "photo"
     },
     {
@@ -726,33 +716,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar: Viral video shows three women, man consuming liquor inside Darbhanga hospital; police probe underway. A crime-related story. Covered by The Times of India and Hindustan Times.",
       "image": "images/bihar-viral-video-shows-three-women-man-consuming-liquor-ins.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-orders-scrutiny-of-education-staff-salaries-after-irre",
-      "headline": "Bihar orders scrutiny of education staff salaries after irregularities flagged - ET Education",
-      "summary": "",
-      "date": "2026-10-16",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Education",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc1hOR1Fnb0w0ZVh4U2d4VGU3MzhpVFhkbE1zX2tZNm1IWGRULVRKY0Q4UUs5Umt1ZFctMFQ4M0RpSGxoa1JuYWg3alM2VEZHdWpHTnlsdS15TDBNQ01IQ0NjREtsTTA5R2lPR1ZHblhEV3cwdFZCYm9tOXl6Z1NWdGZlTFRKbW1KT0dXRW10LW1PRTgxZlJsTXdHdzFMUjZQZzlhZWdhZXNqNlVtQkYybllBVnhaQ0ZzelhoUzJxSXlWM3JHcmZ4S1FadWcxVXlleUtPeXdDdHZ0emxaSFNWR2xuXzN0Vmh3S01BaF9sRm80QdIB9wFBVV95cUxPb0hNa2NuekhibVMtTnJMejNVZzZEUkJOZ3ZPVnVRMkE5Y0p2X1p2X2NrWDdMOUZDc1FDalFfYmx1Zy03SzQ4dHlSMUI0NUZUeW15TVNKRzhTdVlrNEZadTVOS0hNUmJNZThFT2ptWUxGdmtpNDdqeU5nYmkzMVJKLXNJZHJOaEtyWXVfMUVwM182M0czQU1OVVp5US1FVW5ZYjRFYlQwci0tQ2lzLWY2aXdBWHluelR3X1Z3RkVFQ0xqOUxVM0k0dnBHdG90X0JBY01acjkxTk1sZXlKeHNSQW5BcG91QnlmN0dJZVBHM01ncUZ5em84?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWktVekRpajRiMXJzT2EzRm5PNWdqUV9yemlSdlQ5Yk1wbVdnRzZVZEp3cHVsb0VKMnZEUWRMNXR3Mzg4MG52bXhfR29mZ1hsXzBCWEVKRVc2Yk5xRTdhUDdNcWVwdDgwT0ozd3FLb1hZTTFLcC1QdjFqa3ZrTTItN2toMk9VRGJiNndBWWtHZWFFWmM1RjlTNjZnRlJHWmVLQ1FyYXh2ZnlKdk45eEdBLWVkMNIBuAFBVV95cUxORWVfUDc2bVJwZTZ5T1g0aWFCb0ZGNWVpY1VZSlhYbFFsemE4NmZBd3BOazUtZUtiUGpUTUx1alROME0tbWRnUUVKRV9ETHlSb0NqYWVwOWhnelRVakl6UFJWN2M2TzFOU0oyX19KQmVTLUpfeDJwNEMzbVhYV2ZBR0NNbHozSWF0NHl3TmVZa3BHM2JUZDJtMGhlV3hKWE5jU3hSeWZGTWs4SEh4bVRFU2dPQ2dRNmRm?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar orders scrutiny of education staff salaries after irregularities flagged. Covered by ET Education and ThePrint.",
-      "image": "images/bihar-orders-scrutiny-of-education-staff-salaries-after-irre.jpg",
       "image_kind": "photo"
     },
     {
