@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19 08:54 UTC",
-  "generated_at_ist": "19 Oct 2026, 02:24 PM IST",
+  "generated_at": "2026-10-19 09:35 UTC",
+  "generated_at_ist": "19 Oct 2026, 03:05 PM IST",
   "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -66,6 +66,33 @@
       "genuineness_label": "Corroborated",
       "brief": "PACS president killed and Maner block chief’s husband injured in Patna firing. A crime-related story. Covered by Rediff and The News Mill.",
       "image": "images/pacs-president-killed-and-maner-block-chief-s-husband-injure.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-2-critically-injured-after-unidentified-assailants-ope",
+      "headline": "Bihar: 2 critically injured after unidentified assailants open fire in Patna’s Byapur village - KalingaTV",
+      "summary": "",
+      "date": "2026-10-19",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "KalingaTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHdURXltaXlPTVhlU2ZnS1k0b0FSaEVmbWhjMHNQZDZXaXYxbDdYRTF6NzVpQnlTanFOR25ma3d2QldybnhmWTE0bF9XdHFZT1NDQUNWT0VQMzk3THd6VWFxb2JXVGFVMkY4RzhqbU1sdDI3X2lzRWh5SmsxUUlyT1NDM0hCSld1Z2FaN09tVlI2XzQ5VUxJd1BGTmNlTGkzbGMyTnFBby1sb0piY1BZdm5EZTktdTlzYUwtWE9n?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ09lMERzS3puQzZadlFGTHdFcTZfNnNrRHVkZlpURjQ2OVRfY3BidFE2WUpPSzVrLTd1T0ZVcHhCSjl3eGR6U2NZNHNDcjN0U1VLNmF6TGJMaVdDVUwwR0tyTTlJQVZFczRIQjlrYUNkeThSdUJDUFV1U201Uld5cTZPT3RsN0g0SlNjbXJhTzZaaGF1Q2k3aWg4NTB1RWRHZlVtVGNqX3Z0VmZxUWMxaUdsUU14WkdtbDBnREZaaVhrN1ZJUGlhSzdrcTk4OWRmcGxKRmJZbmRQWmZ1QlJrelluVGYycElrTUtn?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar: 2 critically injured after unidentified assailants open fire in Patna’s Byapur village. A crime-related story. Covered by KalingaTV and ANI News.",
+      "image": "images/bihar-2-critically-injured-after-unidentified-assailants-ope.jpg",
       "image_kind": "placeholder"
     },
     {
@@ -121,7 +148,7 @@
       "summary": "",
       "date": "2026-10-19",
       "topics": [
-        "general"
+        "education"
       ],
       "sources": [
         {
@@ -140,15 +167,25 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQejBXV2pCb1hCejlaMGp5WFRzUUh2YVNaNjNhUDdJdDNaQTdXbk5Ia3lQWWVsWDJrQ1l0dnlaTjNUYV9DUHFSSVVtTEVUQnRRYVAwTVNsTVFqTzF1eFVseG11UDYydXZraXpxRDZhS0g1S29HUVZqZmVvU2RlX1NiVmo3eDMxeGpTemIwU1ZQbmpyRkNUOENtaWE5bm5LVVRxSEdmc0Jjc3lSbHByWTdDalhNT3RFS09sN0hYZ3FpNE44Y3pmTnZEQk9NZ9IB0AFBVV95cUxQMUJ1TU53bmU5V1VLT1hVWDBnb0otWTFBNE5TZHVWSGtqVkM5Vm9RVkt3elNxM3hzMXlLdW1LWVYxZEhlMUdTSlphSVN6UldsQjM3bmJ0MGJaamdTeDV2UnNnUE1NMjIzYzc5Mi1hRi1LZ0FIZEtuaGJLOWJJRS14bmlUdWlUeEp6MjFJWVF0OUY2XzZGTkVLSVlsWEQwUFR1T0lsQnlSeV9zUjBEZ3B4X3hrek9lWFpnN2lERG5rcXNxVGltU0FITTNmcTIydXdu?oc=5"
         },
         {
-          "outlet": "Career Power",
+          "outlet": "NDTV",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vQWNTRHBZcnFsWTNkWGpoZXYxNUxSR2JTRzNsTVZYN2ZqRWl4eXRMenpYcGRtN25FMjR1VkdJMk1NWldnb0dsaERUWmQ3Nkk1Q2xxckU2LXZxbm1SZXF5bjZaTzdYZ2tVZmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTU92Vk0zLUNkVkVfVllLOXd4aUI0R0pMeTJLbTRZNTlwdmkxSjZkdkxENFRWeWdraDUydE94em1sbGktOEV4Z3dra1ZITnlfNV9sTlVaRlljeWZYVDZaNUJ1ZU5tMVVvQk9OMXhadjNMRjNsVzcza0xndVMxY2x6ZTVLeWFVYXJBdmpMVUZPX1ZNSFJlSk10TTM5MVdXOUNl0gGoAUFVX3lxTE9xb1JITFFBNnBISXNSVDVfbGRoNlYyQ2FhQXJfLW14aGNwb1RMRlBTeU5ib2dCdmc5ZE9QV0gxT0gyWWowZGotVnFqdV82eGNKTzQ4UU56UVVJeVVQTVhvYW9LU00weXRNZ25aWHM3UFVoWEJjLXJWWDdWWFM4MW1aYWtUdzFVcjV3dXZRS3ZNYy05N2c0eEVZRkRWdV9relppdkxOQUI2Wg?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkpZVzVnZ0s2Rk5Va0dKQ3ZETllMWFNFSFdPdm95R1ZOSnFHRU1lSEFfdmRNX1lvekx0SkhpUEJ4V2RVVXM3UjloZEJKc1ptU2RyNXJSWUN1V1lUdllDY0dVd3h3SDdlX1h6OEl2LXdOVmQwaHhlX3Rtb2x6dzBaMVNPQ052Skt3czN4MDJSVlk3VjJKRnVJQWllSlZyLWl4djZreVJCNHBoYkpfZEhubFVSanJrU1HSAb8BQVVfeXFMUEtmR3IwMFlaQnFfem0wb01NQ082cXJXUlB1SWM4SVVSZGZMUllDOG42ZThPcHd1dDB6SlgtMFJ0YXp4Q3RUSUJwWURPMG1iNnFLZFg1WU5LTHloYmZVS0paTlNtQXZoZ1pGU2szUlNmV3JDdjJkb055MElEbk1OYVhvNDlMSHBuYWZSQnNLcktpSnBkbFVWVk5LaVdHckhjdXBuam5SRG1wQzF1ejFBVGFGdFE1Wm9jdzJ3OEY2YkE?oc=5"
+        },
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQTRFN3BtSGpvZDlfM2htVjNlak5GWXllRXE3Q3hVTUtSUi1sSmFISlFCVi11cVJsQmtmekp2eXc4Z25seFNseW1DbEZqYjQ3eWw1cEVkQzBmLTY3VzlIV2tJZ3JCLWtZZlZhU3lLcEdVMmZsaURpMm4wOTlNUnREUW51V2RGeDhpbGZzTjZ3TXVOS3FFS2w1Q0RSanluRFhsSFBEam9jc1JMcm5JUVc1MDFoUlRpRnd4cjBfLXRVVWRrOXc3b0E5a3gzaGloMEVqX1NncWZicU1SNkpxSGgxQnlZTdIB6gFBVV95cUxNR2VrQUdFZ1luT1pUbUNaZkZmRUNKM244a0JYVk9aZG83ZVJtaDJHdUdDb2NkaHdaaWlDTGFzbVo4R2hoVEc5OUdVMWlQLUhfSE5yS0xSUGZJaGVTZ25pbzN2dllJckRuVDlLdExlMzdVc3g3WVJEbkZ2S2pvUFhzMWdmX2JvWS01aFlVM0VtbldiaEJmV2llbTlaekFHOUdWZW1hbHRVaTcyQlRGMDRHWkJmQzZfZTd0TjVZS1pxZVIzc2xjTUlvY0oxZ0t5S3o2S19HeGNkUDlMY2IzaV9KUWdqTmxONWprN0E?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar STET admit card 2026 released at bsebstet.org: Direct link to download hall ticket here. Covered by 4 outlets, including The Times of India and Adda247.",
+      "brief": "Bihar STET admit card 2026 released at bsebstet.org: Direct link to download hall ticket here. An education-related story. Covered by 5 outlets, including The Times of India and Adda247.",
       "image": "images/bihar-stet-admit-card-2026-released-at-bsebstet-org-direct-l.jpg",
       "image_kind": "photo"
     },
@@ -167,14 +204,14 @@
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaXpCeUNUZWJ3VlNQRXZVOGs5ejFtQ3VXMHNpMFJGVFpOaWV4cXdkcVoyUnZoNm9tWUdYdnE4eElXZ2hVS1I3YTgwcVU0RlhuS2Z5aGFSV3dxd290U1p5UGFzVDBHN2JjMFpGMXNYcENySWFPUUE1NzVjb1IyTlMwRVVzOTN4REh3eUdaMGpBMkJpV2l4QW1KdEl2LUFZeVhCYm1qVC1mRy1IZkw3Z2xKV0R1ekVWaHJRNjZaUHVwUER4cGlSWHBvM3pTMkxGZE1DSmw5UkF0a0lVSDdLclczMTJscGM3ZjBQWDBxUGg2dkRpbHdZd1VlcHlDT25YSDRm?oc=5"
         },
         {
-          "outlet": "Education Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMjkwUmlGUXlNQzdvUUZJd19mVE5taTFiR1o0S3U3Q2twWFNpQ2QxcU9VejA3NEp1cmdOa2NWeG1RS1hjZmwxUEp1M0w5cFBhMWxVXzYwQzNMSWNuSWVZVVhuQXA3eVNyZVYxWkU5VFpHOVFnQkZPbjFtV2E3RFNKbV9ZZVl3eU5XVnVvTlU1cXVVdktXalc3MlUyd0xYLTc0NUVEVWd4emNZaUhDM0lmcHdISDJCbGdXTWttQkEwdWk?oc=5"
-        },
-        {
           "outlet": "Shiksha.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU1BaT2NoVnl4X2c5XzdWY0huTWxoZ0NCUU5UMFJnaFJrSmpFUXFHUlJXRG93bFZzOUNfQVY1VUVJdGlLbGJ5LWViV09zVjRSTFZfMGpKeGRvM1hYeUZCMHJ3ajNsb1lqMGFOWS1vOVFjMjBQN2M2Uk1Yc3Ntek9FWEh0Nko0bGQxVmRqbTF6NmprZnVvY0F1Yl9tTkJGeDJkbFEzS0p3emh3UG1JOEt6X0R4VjVncWdsMk96OG5naExRbVVJVXduSmJxUEwwUG92dkdTeTJ4eHFYU0l1bjBUeWFGQjJJZnYtLXQyYTdYUjVxMzJoOF9FcWowTU9sdHQtdnFlSkI0bkI?oc=5"
+        },
+        {
+          "outlet": "Education Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMjkwUmlGUXlNQzdvUUZJd19mVE5taTFiR1o0S3U3Q2twWFNpQ2QxcU9VejA3NEp1cmdOa2NWeG1RS1hjZmwxUEp1M0w5cFBhMWxVXzYwQzNMSWNuSWVZVVhuQXA3eVNyZVYxWkU5VFpHOVFnQkZPbjFtV2E3RFNKbV9ZZVl3eU5XVnVvTlU1cXVVdktXalc3MlUyd0xYLTc0NUVEVWd4emNZaUhDM0lmcHdISDJCbGdXTWttQkEwdWk?oc=5"
         }
       ],
       "source_count": 2,
@@ -213,7 +250,7 @@
     },
     {
       "id": "2-100-dainik-bhaskar",
-      "headline": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उलछते हुए गिरी गाड़ी... - Dainik Bhaskar",
+      "headline": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उछलते हुए गिरी गाड़ी... - Dainik Bhaskar",
       "summary": "",
       "date": "2026-10-19",
       "topics": [
@@ -246,11 +283,6 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTRRM3N1STNCN3U3Mmd3SkpTQ0RUajR1My11cEJMbjhUbGltOGJiQ2gtdVo4OUNfd09IVkNtSk5JaGl4ek56Y2dVbENQMlBiTXFjYThDY1RuUDhtVWJ4SDEyNE5yZ1hJZm1hamhFdFowZXZoY3BzYzhvZ21LVm1xc3Q5dTc2djFzR0pXcG9JdkppRl9ocHJnQ1VRcDNJREFyNlRMNGs5eWt6R19mUHRzTEdENnFkbXZKWFRTWDU5dw?oc=5"
         },
         {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbFFpRi1JdVJRUjVEenhMb1pFLTN0Z0dnWnBkd1FsSDhUZ3NOd05IZDRyd1N4S2laVW9XeVBJdG5lM0FSdm5CMFUtQ3ktYW9BQ3g5RzZacmw1TTd4aEstWHpXM0p4SFl5V09uLUZod2IwYmxFNDA4anhxTjItZm1Ud18taUhqVzFoX3hRTFNuY0sza2d2VzZPSkIzUDE1QjQxYUlidUtxUFJQOGFNTllodF9kb0J4SENmZENxNjN4MUozeE9Bc25Vbk1fR3I3SDQ5TXdlWFpIbGhNcmdo0gHiAUFVX3lxTFB0SG9qWHRuaGVpVkt4UFVnX1BaaTlaZTczVHh3cVdXQl9SbWtqMU9PSXE1NjRWaFNMUDk3TGxDVGY5aDg2VXJlMnl5RmRoY1d3a210R0lWQlJQYXZsNTN6OTZmWXQyMVNTeFVzZUZQWlVzbGpRSHlfR2dILXlzU3BSNWd5LWJBYUZtN3JiSnNzdUtGQlNCRFlEQlRja2ZZSTJpeVVELTRiOGJPZTF5TlpwNWxIOVFuUTkwdjN5eXdUR3IwaEl4ZTRQWEsxcVkzdW9qOGxkcXlRd252QUlZMEdDMHc?oc=5"
-        },
-        {
           "outlet": "ABP News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVlNNVhYenliUUdNVy1fZGlPQldoYzAyWDFBTm43ZXhFSUJ1SV8wTEhtLVNabm1Kc0dCejFMWVY4ZlgtN2ZZYjhoZU9icFpzTmh4VnlYWHQyREhnSFRBT3RkdDhIRHdHU2pKMXF6MmpzcWEwM2x2WGRmeGNSUjJtc3RkdS1NQ3hvckRVVmgwTEpZUVBPdHQxTGJDMzdJeEd6N3JLTk5vd0QyVjZZc1RLNzdn0gG3AUFVX3lxTE9oRkhBcmhOdVF3SHFGS0NxSTAyXzR3X3hDLXpRT01IakpSSGs2VnRFbFdQXzBfeFZoN1h3Q1Y5NEplOVVkaDVsa3h4NnM0VWVHQXFZcE5vZk9FeGItOHlOYmRqTmhua0RMSC1EZjhiNTNBRmw2eTZiTWtEZWdma3pzMmRNWGttV1FkU1MtYkVnNmc1NVpCWElUdWpFZVdjYzc3MTFvdHdiUFF4M1N3ekRjZGdlOWhETQ?oc=5"
@@ -261,15 +293,20 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT21VdHpWdWw3cE4zNzl6ZkRKUkJGdGVKMnBndUhKSWJMcVFhWlFFTkpUQ3J1LXJwbzRlRHVaTkRnY3ZBS0h1a0xBS0NOek9UQ1QyRGk0bjlLZE1XZC01Vk8xcjBwNWotWlg3TG9waVgySUpJWWJEd05nWHBFR1VzY3dGaWk0M1BrUERNc01ySDZlZHpSY00xXzhzRklucHN0OHFKa0MtekxDME13djN4SThGbEkxWmkx?oc=5"
         },
         {
-          "outlet": "www.bhaskarhindi.com",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVG1fSlEzRzRIMmVleE9zODh6N2NyRjd1MndsYVU4ZGtIWVgwMFU2VnZ0eHRwSU1yV0RkYkRqZHhDMTJqb25WMnZ0RVRJcEROZmdfbmotbE5BMUsyVnZFZGxLLUFiNG0xM0EtQlBrWnk5VEg5NWlUMmhOd0RYVTBDNnhwNlRBUnhRS2xkOFhKaGxxNVlVZEZrUUQ4Z2lfZFNKWjBZQl9URXJKSU1JRXZzb2hRQ0wxWlVtcFh3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1hYdlBNNG1mLWNGb1M3UmNEenNFaDBGUmFPaVFUT21CS2RXakhsNmpZVXRxR3o2RTJTN1BoODFCUk9sVHdQNUk2VmlkMHNvcEhJd3lqOWYxRUFuYkdnMGhhenJFU0tyVDVFclFqY1lzTDUtMnIzTjRMY3p6UFRCamptc2s1cFE?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbFFpRi1JdVJRUjVEenhMb1pFLTN0Z0dnWnBkd1FsSDhUZ3NOd05IZDRyd1N4S2laVW9XeVBJdG5lM0FSdm5CMFUtQ3ktYW9BQ3g5RzZacmw1TTd4aEstWHpXM0p4SFl5V09uLUZod2IwYmxFNDA4anhxTjItZm1Ud18taUhqVzFoX3hRTFNuY0sza2d2VzZPSkIzUDE1QjQxYUlidUtxUFJQOGFNTllodF9kb0J4SENmZENxNjN4MUozeE9Bc25Vbk1fR3I3SDQ5TXdlWFpIbGhNcmdo0gHiAUFVX3lxTFB0SG9qWHRuaGVpVkt4UFVnX1BaaTlaZTczVHh3cVdXQl9SbWtqMU9PSXE1NjRWaFNMUDk3TGxDVGY5aDg2VXJlMnl5RmRoY1d3a210R0lWQlJQYXZsNTN6OTZmWXQyMVNTeFVzZUZQWlVzbGpRSHlfR2dILXlzU3BSNWd5LWJBYUZtN3JiSnNzdUtGQlNCRFlEQlRja2ZZSTJpeVVELTRiOGJPZTF5TlpwNWxIOVFuUTkwdjN5eXdUR3IwaEl4ZTRQWEsxcVkzdW9qOGxkcXlRd252QUlZMEdDMHc?oc=5"
         }
       ],
       "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उलछते हुए गिरी गाड़ी... इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
+      "brief": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उछलते हुए गिरी गाड़ी... इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
       "image": "images/2-100-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -311,22 +348,12 @@
           "outlet": "News18 Hindi",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM3J5bmZuMnZKRW9wbV9kaXpLYTFhYkVZNkd6aERpZF84c0lGZnZYQzdGUlkyT0NVLXl1TnNaUGZYX21hMkowNUlnT3ZBLS0tNWJZc21jajlNM194RHFGWW1Rb3htb2p5Smp1MHVaeVdKdEdxYzRIRkp6T3MxdXR2eDJSd3Izb2xKYUV4czd1MGFpejB6cl82TzFGbDlBZ2haVi1kOThnR3M5TnNHM1kwSWlnT0JLQXVEODA4S3RkT055alpMM05qNGZlRDRzd2JpRmfSAdcBQVVfeXFMTXdWb3JZRUZESExJRk5zQUxtLWtXb2V1cUR1ZmM3dDlYX19wOFFpMF84UW5rS2gzc0dDTnRCRjRod2NVandPRVZBSlI3QjNlS2E0MnlZUW1zMU5ualRrYXE4eDcxcUFVS3h5WUJ5V1JDeEJEd1NEeklrUjZyM1JnR21PdkZqbEdKTjRsbzlZTjREZEJZRnFTRWRrd1hfMDBLbFV6Skx4ZlVGaXNTeXJZLVE5RWc1VGJqVkQweDVrWUJLamJjd0U0VHpibE5SS0NaTWhMUTBqRFE?oc=5"
-        },
-        {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGFkdUw2UWhkZkt1M3BnaEFTZ2J2R0RvcFZybXFub2RRczF0LThZX2I4b3FXRkFMamdQaW5INzZRWjFSS0dhTzN5UGhsdEpqRmduY3ZJdmxibEhRRU9yYWpIbURiYUtISnRPcnlINjlpMnBXck00ckFUeXk1TTk2SGhXUS0xY1BFQ2c1VTcwN0Q5MHZ2cnB5OEJRVHVraDlwMGdnaDllQXQyUXE3ckhySzM3WjlzcE9EVzgwSWJmRlZXa2JNRDc4R3N6eUjSAdIBQVVfeXFMUDRXSWpZakxWWUlOdDM0VnRWV3Joc3pLaWZVelozY1N6bVowa2xWRnBKMzBqalB2MlY2NjlKWndldWxDd2pXUlZKalhBaVl3QnNaR19Yc2UzOXAyMUMta25TMFRjRmtJTWZ3V0hyNWl5eWhiU2pZbHpvV2NOSVQyd19YM1BOUkJERjZQN2pFa3NMaDByRGFFcWVtLXkyYWhXNzBpa1Y1ZTQ0QTV2aUNPTmFWTFN4SFRRM2gxX1VZWkpqLUJsUzFYUTJLaDh1bDNHUXVB?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTWgwejg1U3ZWb0FSSnJqSk9PbFI5dWpIOURmbE1KMDhHSmQtWldWUm10d3FqMWZNNE93UExVVWR3dVd3bkR0LXlVRmJnNm5HS0g0ajNGRTV0RXBCTjlVb1Z5OEt3V05oV3lzYXJENVk3SndOWl9BRFJsZExnUmI0SWxRRUlDTTJvZHZmUU5oMzdlZm9PUGx3Rk9iczUyTDNwZkQ4T3FYQjZPQmZtXzc3dmlsUS1LUXp0cndqaVNTRHVoLThfeVhoR1BHVnd6elk4Vkw3UC12aFFrbmfSAeABQVVfeXFMT2ttN2dsVV9CU1haY2xQZDZWOTBJYWtFOUF5MW5sVVB0LUxLVl9wVWQyc2VJM2dZTkltWXZ1MHI2TU0tT0xRcmRiNkxzTnRMQ2JvVEZ0NHNzUW9TUkFURFp0bmtEMlZlU01VNmNHVnNFQTNTVl9EcXpRYkVZNTd5d2NSbENhbDVBWkk4QThET3p1T2djbUVQT2pZMlp0NUVaZGdIaTlqWlJQVElJZjVEdm5VaG1SOVQ0MXB4MGM5WXR5RkFXaE9xZzhvckVfNXVBSi1nblNTbmc2aGhoTlR4LUo?oc=5"
         }
       ],
-      "source_count": 7,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना के मनेर में पैक्स अध्यक्ष की गोली मारकर हत्या: बचाने पहुंचे प्रखंड प्रमुख पति को भी मारी गोली, दो बाइक से आए थे चार अपराधी। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
+      "brief": "पटना के मनेर में पैक्स अध्यक्ष की गोली मारकर हत्या: बचाने पहुंचे प्रखंड प्रमुख पति को भी मारी गोली, दो बाइक से आए थे चार अपराधी। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
       "image": "images/prabhat-khabar.jpg",
       "image_kind": "photo"
     },
@@ -598,33 +625,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "15-prabhat-khabar",
-      "headline": "पटना : 15 नवंबर से बदल जाएगा मसौढ़ी रोड मोड़ से जीरो माइल तक का रूट, जाम से मिलेगी राहत - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-18",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNFNkX18yYVFyS29XSHUwWmxDb1kwZDRlSVo4RFJ6anVPTW9OcDJLWFlReUlJZHYwQVU2ejA0V3V5NnVmT0FQQUJrOFdRTmxxbFR3bGQ1Q2ZhY1c2U0FmSVgtTVNjV3psNHV4MHhkOURZeU0wajB2UzRSS0VMYWgxMmNvamUzQnRZRHRpNUU3XzZZaFo3c0pVVzY5MWlVblNWeFIydmw3NE1uLW1I?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFBFc1pfaFpTTFRvX3BILUZkb0FxRURSMm5oSE5JYmlNWTZjbmo3ellwM1N3c09BSm1yVVZsZlBySmFzVHQ1T3lsd0FsalAxUlJMbXY4OHBBaWFFRUJhSXdHTEdDLW56VUljcHpVZGcyaWdraXZmR19wZUp6LXR6elM2OWtkeE9VT1pQYzhYNllpM2RVbUNva1ZWaFdYMVd6bjF0XzhOTkI5UGlrRXlzcUx3?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना : 15 नवंबर से बदल जाएगा मसौढ़ी रोड मोड़ से जीरो माइल तक का रूट, जाम से मिलेगी राहत। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/15-prabhat-khabar.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "patna-court-sentences-man-to-two-years-in-jail-under-anti-tr",
       "headline": "Patna court sentences man to two years in jail under anti-triple talaq law | Hindustan Times - Hindustan Times",
       "summary": "",
@@ -649,6 +649,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna court sentences man to two years in jail under anti-triple talaq law. Covered by Hindustan Times and The Hindu.",
       "image": "images/patna-court-sentences-man-to-two-years-in-jail-under-anti-tr.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "nitin-nabin-bihar-cm-visit-durga-puja-pandals-pray-for-pm-mo",
+      "headline": "Nitin Nabin, Bihar CM visit Durga Puja pandals, pray for PM Modis strength to serve nation - Daily Excelsior",
+      "summary": "",
+      "date": "2026-10-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQenpnWkZHX2MyMk00Wmg4WmJrQVd3QXRPSExWUjNUX056RkF6RXpUOXF6WTZrYm5UQmZmanlDemhSejR0S0VfZWRrYk04Z0FTUVYwODJST3BLRVRGbk02QmlsSGVvSl9MZnlkRk9Lb2h2bUJualBkNUxrUzRoRVF6Tk5IRXMxQlVYaUlQakZ5NHN0WDJoWjI0bkI2R1Z2aVJXWl9TNjRiVUVBb3hGQmtEMndmZk5wMGZjbFpoLWRLQVPSAcYBQVVfeXFMTzVMVktLdmprY001VC1LM0ZyVTNSMGlhZVpVRUR3T0ZsSUFHeFRoMmtydjc2bWhVUFkzMDB0RWI5b0JnaVZTc1ZNUDE3NV9JR19FM3VtWllGcjhoYVVYSmZvdERJeG5iS0xlZ3J6bWZGczUzNGFPNF9ZX2l2c1ZwSUVrNjR0YW1kd0w4WV9lcng2eThHR215ODJ0Y292SGpKRFgtRkg3b2R5OUhhM0RhWUVKak1rTjRVNS1VM3ZOMTdpWVJhLTRB?oc=5"
+        },
+        {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc20xdFFHWGt5NzY2cExGNGJVR09UaXd0T2M1SHhaNXZQVkxCMElJU2c5eE5XN3UyRUo5b3k0QVNQaEhkZ3c3LTdrclE4VGh4d3ZTZ2VFQTd5UjNfbXhGMzdwRVlKc0tHZ0hQdW1QZDBNV0dIZkh4SkZPU2hQYS1EOTFRWXN0NFNWYkc4WEZFQjBLMjhtVV9sbVZhOG5tQVdpZ3NhVy1zTXhEb3RJZU1NMTVRRWZPNTVyTFItUtIBwAFBVV95cUxQZ1IzX0lYd0dvWjg3cEZob0J4VkNoQThLYU1kR3pDNTRJajQ0cUR1WmdHcENsVTI1X0oySFhPZU5NUmlLeEc5YkU0ZHpXelVxeHh5U0VRc05lT3dsU1FFUVlETFlpQ2EtYWJiVGg0bGVZZVlNNnNtQlQwY0tTUWNBanVXUlNwdk9xZEFhYnFCWV9CQlFSNmVOOTBtcjN1WU82d3gxd2szNXk4Mnd4LWRpSUt0b2lpNm56M1gwb0p1cHo?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Nitin Nabin, Bihar CM visit Durga Puja pandals, pray for PM Modis strength to serve nation. Covered by ThePrint and Daily Excelsior.",
+      "image": "images/nitin-nabin-bihar-cm-visit-durga-puja-pandals-pray-for-pm-mo.jpg",
       "image_kind": "photo"
     },
     {
@@ -703,33 +730,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar suspends top officer over deaths of 14 children in Vaishali boat tragedy. Covered by The Times of India and India Today.",
       "image": "images/bihar-suspends-top-officer-over-deaths-of-14-children-in-vai.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "viral-bihar-man-russian-woman-s-love-story-turns-out-to-be-f",
-      "headline": "Viral Bihar man, Russian woman’s love story turns out to be fake; here’s what actually happened - The Times of India",
-      "summary": "",
-      "date": "2026-10-15",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUjJWTXNOYVhPYXduUHVFS3h0b1FGNEs0WlVOWHQ2a25Ja01LYXdjWDVJWXg1WGFrd3J5UVA4RHJLRU5WS01ZRkcyMzlxVzhqMWFhcm9Bd1BWWm1jRmM1RXE1b1VXTEVpZjRmLWxOVmE1QngtNlVrSVVGbjlHQWcxbUtzNzlSYmVOT3dzcGNWX010SzczNkxWVmx3OU5vTzQxa3hueS1IY05uX0JVTHViRllEWmR6WlpwZUluT2tocE1NUktsX3NWb2Y0WTluRHI0T1h5N2Q5cGRzWmJ0VTNTajVka2xGbHRqVDl6enRnN0tFc2VGSTZxcnNWSHNxY3fSAYQCQVVfeXFMTUJfbTU5ZVp4dDhYNW1lR29vRFV5Nm9IWGJTWVRVdUtGTDlJQ19IcmJzcVhSY3J1TjFKcUowSVplYUNjNVpwWVVUVHZaMG1EYmRYRlN5T2d6RHNhSThySFZ6SVpSZGRxNmp0WEVSYks3X0I5dllfM19nVEtWUE5XcFBYOFFNNEU3SnBpT0VvS1B4S2NaODYyUHA1b0dRWHJkRW5FX3pONmNIYkFNVWtyQk1aVW0zTm53OFl5cWNiMjYwMXFTYmNiRXRWd2FzMDl1S3ZsTllJRU5FQUE3OGRGQ1NSOXZsZUUzelJoZ3Z2OXNLMzFHSVVOSkE2X2RWS1dHMXNhOXo?oc=5"
-        },
-        {
-          "outlet": "WION",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSzhaSVZUWU1uRFFGanpBd211YklrT2UwV1RSVjRRWEJsOXB1d092aDhyUDZMbkVxY21TWVdOeXJiOVJ1Y3gtRVdfSzgyanFFNjRjTVA2MG1keFNiUmVRYkNtX016aDFwSUhTN3l0dmFWemdrY3lRbXVyMHhwNG4xQ1d6ZDJQR3loeGtla3VNRGJaMHpqc0FMSllCTVctcVZuQ094M21ucDJUaF80eHNsRnpobG5hUmg5dFJiZDRFUFVKZTJvdXhmazZGbkU0b05G0gHWAUFVX3lxTE9tTXlBVENQSG1Rd2NwQVo5ekJmdnBoQ0htVTlEWktqNm9yNV82SkVlTHRjWFEtWEc4aWc5QzhPQlZ5RjZ5TlpIRFRwa0tWXzBqVTRHNjhpS1lWRno5RUFJZHpIMGl2N0FwemJJOFZYLUFOMENISzdfQ0Ixb2w2UHB4bE5xSVBXMkVZQmotUjZHN0F0TnVVYUNWTTRiOU1JSjRqTUV6S3hoVUJBcTItUnEyT3ExN19nM2N4VW16bXNmdnNab19rQVpjV0FScUtjbjVsQjhJVkE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Viral Bihar man, Russian woman’s love story turns out to be fake; here’s what actually happened. Covered by The Times of India and WION.",
-      "image": "images/viral-bihar-man-russian-woman-s-love-story-turns-out-to-be-f.jpg",
       "image_kind": "photo"
     },
     {
