@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19 11:35 UTC",
-  "generated_at_ist": "19 Oct 2026, 05:05 PM IST",
-  "story_count": 55,
+  "generated_at": "2026-10-19 12:54 UTC",
+  "generated_at_ist": "19 Oct 2026, 06:24 PM IST",
+  "story_count": 58,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -29,20 +29,15 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXN1YzJCbHRZeXkzRkhyTXdBYXRjWFJpdk9TRlEwV3ZvMDJ6R3otcXZPM1V3VXdyTUJHYWhod2xrdmRLV0JoTGRQREozWkkwVm9ValpYektGUTh5a1VFMldjcW9MQXJmLU42Z0xJdXlWRkFDY21yZGZ4bjEtN3hWVkRnMUVXMFpBVkREZ2NyYlh6TVlXcGNJclFlYkdUdXpadkpzN0Ffb2N1WVFGd2ZIZERNQlNyQ2c?oc=5"
         },
         {
-          "outlet": "شبكة تواصل الإخبارية",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hTFJWN3pfbzJ1ZnVSN0JZdDdFYm1zNzRlYUlkamZiQ21YN29ONElZS09BZlcwU0QzTzNzT3V6dHlxMTQwS2d5cWhnWjZHSGlxYWlV?oc=5"
-        },
-        {
           "outlet": "Asianet Newsable",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0FMMW1xTUY4Y3R5VXNQT1RPMnFoNEtVYzdEb2JfSS12N1VsRE9KM1NvZTlqZVg1bmVsc0p4OVBqWGthT0FHMHlmd0RsallpZ3RGSDhzZU5aeVMzX3FoVHpGUmtrV3l6TWRKNWtWdWlMbWw1T2wwY2hkM2JaSEs1aTFyOGFmTS0xMHB5akZhN19oelZNWUZsajV4U25FalJ1cjYzYm4yRGZpekJTOVZjT0V0UTFvNWtYODAxT3l0MFZlUm9UT1HSAcsBQVVfeXFMTXZuRUh2YTJOOWs2X2U5NlFIRlJFVTdYdWhTYTd2b0pXR1dEMDJfZ3VFaWVEdXM2cWxIcExLa2xsWXg4WEF4LTFDSGJ2SHZYYVJsaGRJVnFYQTctdjlwR3F4N3ctNjNHNElNa21RdkNNTzdteXdyMjdRVUttaDh1OThwbmN3QzlhbEN1UXpXLXZLZmtCTWp2S0ZEU18tMGJBR0RxblFoYUVxTTRnYW5ZZk1aVGdaajI4Q2ZwS0ltclU4a1FNZ2NPSEdxMkk?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "One killed and several injured as speeding SUV hits pedestrians on Patna’s Atal Path. Covered by 5 outlets, including NDTV and ANI News.",
+      "brief": "One killed and several injured as speeding SUV hits pedestrians on Patna’s Atal Path. Covered by 4 outlets, including NDTV and ANI News.",
       "image": "images/one-killed-and-several-injured-as-speeding-suv-hits-pedestri.jpg",
       "image_kind": "photo"
     },
@@ -71,6 +66,33 @@
       "genuineness_label": "Corroborated",
       "brief": "PACS president killed and Maner block chief’s husband injured in Patna firing. A crime-related story. Covered by Rediff and The News Mill.",
       "image": "images/pacs-president-killed-and-maner-block-chief-s-husband-injure.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-2-critically-injured-after-unidentified-assailants-ope",
+      "headline": "Bihar: 2 critically injured after unidentified assailants open fire in Patna’s Byapur village - KalingaTV",
+      "summary": "",
+      "date": "2026-10-19",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "KalingaTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHdURXltaXlPTVhlU2ZnS1k0b0FSaEVmbWhjMHNQZDZXaXYxbDdYRTF6NzVpQnlTanFOR25ma3d2QldybnhmWTE0bF9XdHFZT1NDQUNWT0VQMzk3THd6VWFxb2JXVGFVMkY4RzhqbU1sdDI3X2lzRWh5SmsxUUlyT1NDM0hCSld1Z2FaN09tVlI2XzQ5VUxJd1BGTmNlTGkzbGMyTnFBby1sb0piY1BZdm5EZTktdTlzYUwtWE9n?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ09lMERzS3puQzZadlFGTHdFcTZfNnNrRHVkZlpURjQ2OVRfY3BidFE2WUpPSzVrLTd1T0ZVcHhCSjl3eGR6U2NZNHNDcjN0U1VLNmF6TGJMaVdDVUwwR0tyTTlJQVZFczRIQjlrYUNkeThSdUJDUFV1U201Uld5cTZPT3RsN0g0SlNjbXJhTzZaaGF1Q2k3aWg4NTB1RWRHZlVtVGNqX3Z0VmZxUWMxaUdsUU14WkdtbDBnREZaaVhrN1ZJUGlhSzdrcTk4OWRmcGxKRmJZbmRQWmZ1QlJrelluVGYycElrTUtn?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar: 2 critically injured after unidentified assailants open fire in Patna’s Byapur village. A crime-related story. Covered by KalingaTV and ANI News.",
+      "image": "images/bihar-2-critically-injured-after-unidentified-assailants-ope.jpg",
       "image_kind": "photo"
     },
     {
@@ -104,33 +126,49 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar Gets Approval For 32 Road Projects Under 2026 27 - PT Pulse. A civic-infrastructure story. Covered by The Times of India and Projects Today.",
       "image": "images/bihar-gets-approval-for-32-road-projects-under-2026-27-pt-pu.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
-      "id": "bihar-2-critically-injured-after-unidentified-assailants-ope",
-      "headline": "Bihar: 2 critically injured after unidentified assailants open fire in Patna’s Byapur village - KalingaTV",
+      "id": "lying-on-woman-covering-her-mouth-not-enough-to-prove-attemp",
+      "headline": "Lying on woman, covering her mouth not enough to prove attempt to rape, holds Patna HC; limits sentence | India News - Hindustan Times",
       "summary": "",
       "date": "2026-10-19",
       "topics": [
-        "crime"
+        "crime",
+        "economy"
       ],
       "sources": [
         {
-          "outlet": "KalingaTV",
+          "outlet": "India Today",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHdURXltaXlPTVhlU2ZnS1k0b0FSaEVmbWhjMHNQZDZXaXYxbDdYRTF6NzVpQnlTanFOR25ma3d2QldybnhmWTE0bF9XdHFZT1NDQUNWT0VQMzk3THd6VWFxb2JXVGFVMkY4RzhqbU1sdDI3X2lzRWh5SmsxUUlyT1NDM0hCSld1Z2FaN09tVlI2XzQ5VUxJd1BGTmNlTGkzbGMyTnFBby1sb0piY1BZdm5EZTktdTlzYUwtWE9n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX2lUZy1kT3JOY3c5YmhmcHFOQzdSb2xha01zaE03ZlViTmRpS09KTWlMZ2g0SGxic2p6NHY0d1ZkX052OWFnNW9Bb1NKa0lVeDhoU216Y1U0Q0pwNWdoa3A3Ti1KMjNUMkFaci1LR0JfaUN4UzhvcWlZeXhHN2s0enBNdzZWWEVXWTVMMjlSR2hmUnExZlRyei1JeUNYSDlfZmpLbU1kaFRlVmxMX1Z3Q1l4eUJtWTFYY0phbmlreEx3UlA0Qk9RcFRjYTFFbjN3OVdzZXp1WUN2QlZYSExYalEwYWdyUdIB6wFBVV95cUxNaDMwT2ZpTTUzalJ2dUx1Q2JpNXZHdURYS3IzM0U4WEI0TVAycmhKaVprcDlGZ3k3R2FLSWNmX2R5NmxBR1pkbS1ZZXZSUzFmZUJEbU5rVE16Si01d2Q2LWh6RTk2VXhmTEU2djZTMlkwRmhuZ0ZWZEJmM2pqNDNCOFdMRkQ4RU9GZzFWekJoc2lsd2J3X1RHY0Zzbng4RWtGQmJlTnlZRjI4aVFiS2lKRkZGdEtreUFhbDBkTkRSMlE4a2VISV9VUE9Pd0hEU19TaHR3dlJna1Z3WVp5NDhTSlROVjFxZmJJUW1B?oc=5"
         },
         {
-          "outlet": "ANI News",
+          "outlet": "Hindustan Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ09lMERzS3puQzZadlFGTHdFcTZfNnNrRHVkZlpURjQ2OVRfY3BidFE2WUpPSzVrLTd1T0ZVcHhCSjl3eGR6U2NZNHNDcjN0U1VLNmF6TGJMaVdDVUwwR0tyTTlJQVZFczRIQjlrYUNkeThSdUJDUFV1U201Uld5cTZPT3RsN0g0SlNjbXJhTzZaaGF1Q2k3aWg4NTB1RWRHZlVtVGNqX3Z0VmZxUWMxaUdsUU14WkdtbDBnREZaaVhrN1ZJUGlhSzdrcTk4OWRmcGxKRmJZbmRQWmZ1QlJrelluVGYycElrTUtn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVHNEN1l3NHM1WWtORnAxS2JONEg1WHJ3aGRwSVlVRVhFU1l2MGJ3YnJMRzhLQlFDaW9nR3FQeS1oZjdmZG5SU3lrZ2JyZDd5WTFNLTZ6cEdtdmJSWUU3R29zS3NFYWxTbTJ4ekN1c3VFYWlYMHV2bkhobTZ0ZXp5N0xuZy1iZDFpaXg0UGROVDU2OEtzRktTWkFtdkxoUGdJVHlSdjVyYmhaa1VGQ2s3bFM3V1B2Yk9DRnhZRC1pUDlzakEybmxNYi1wWVg2TGYxNEJfVmkwY2kxUWtITXA3cURJMWhZVjV5QjczT1hfdHV2Tkc4LThhSERsMlZnVlBDT2xvRlp2VdIBjAJBVV95cUxPMm1WY1JrMlFuVWRSR1NtT2JWaHNxaWd6R1pfd01KcnZtUHBCQ3BnX0NlanBERV9uVlNwaWtVd1VxX2NlWVZDalFSTHN6N2xGekhqZWxlb1pXVWxtdlVWZVg2dTFfdS1Uel9oT1JJSnlWUEFvUmE5QXp4LWh2TEg0Y3phckFCTnlaTnNBZEFDTkJCSFJrRW8xbVFtLW5LTFFpREJLSVhzX251SnNKQ0NwQVdCV3hVa1NXNE9uV29JdTB1TldsTXF2Uy1FN1Y3aXhaenVsR1lGLVBIbTlyeVVpbE9HbjRlMU5BYUpqRlY3bFpyeGhQdWhxNDB0clhvZm01MWh2MF8wT3cyQmJD?oc=5"
+        },
+        {
+          "outlet": "LawChakra",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tblltN2NIMWV6VkpWaEFxMzdaRDJHbWhEN3dhcFF4bXp4NC1kWGtYdkVRY3F1TFhwcDZVQklrbkU5Uk1tU1RyQlRMajhRdW1rQXlPN1NFdEJhdFVkN0pDWk01SW1CUHhYak5ELWowcC1RcGxxU2VXbHQ2OTRNajA?oc=5"
+        },
+        {
+          "outlet": "Bar and Bench",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaENEalJILTdrX21BMTZwcHVCdU9DTlZzbjV1Y0E5dmRDN3hTR1pQUnhGNE9fYUNqLW1ucHZYQUM0RmZRbnJhSEhzN2Uxb1lUNXJzZnlzR2V6eXBmZ0R4SmtDdTk1Q0RnOWNUZnREa3RjVjlkN0ZtYkEwbC13S0dva0xEczhoY2FKX1NRc3NlOWJlWDVud1BoTVZnQm5Fck5qS0Foemx4WkpBZVhQa2JSTHptcFVtZWRCRHlJMDhQUHd1Q1E?oc=5"
+        },
+        {
+          "outlet": "TheWire.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1FFc2VHb2Rac0tIT3dzSWxKY0gxSFBGR3kyTHBzX19iSG5NcHVid1JtalVlTWYyV0R1RjlXVnBoeXE4b2VsYXFFODZLMzJJY3hhaDNoQmlLdG9iMFQ3aEQ5UzZQWHZ0OE9PVFNpS3NkLTFpZXZlRklTWEE1YTdaV1FSUWFBX1hnN1ozZVNydThBaEU5SDNiaFZYYUV1UVpl0gGzAUFVX3lxTE9xZ1RkYUpxTkNLdlRPbm9wZ3J4ekVyTXpQX2RoZUtFVUN0TUZoV3M2M0JPODc5aUJtRmljeWhCQzRlcERRUGJuWmJUV3pHSkN6dHdVRlNVaGw3b2dPWW1pV0hDTWxVSkVHdkRBNzRmS29kcmtIcDhoQkNaaVgtMXFrcl8weFJGMEgwV3ZjdHZRN3pzTjdsa1pMNTA4SFFsTmJPY1VYczdTUE10NXZlN1ppbzVR?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar: 2 critically injured after unidentified assailants open fire in Patna’s Byapur village. A crime-related story. Covered by KalingaTV and ANI News.",
-      "image": "images/bihar-2-critically-injured-after-unidentified-assailants-ope.jpg",
+      "source_count": 5,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Lying on woman, covering her mouth not enough to prove attempt to rape, holds Patna HC; limits sentence. A crime-related story. Covered by 5 outlets, including India Today and Hindustan Times.",
+      "image": "images/lying-on-woman-covering-her-mouth-not-enough-to-prove-attemp.jpg",
       "image_kind": "photo"
     },
     {
@@ -198,13 +236,55 @@
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkpZVzVnZ0s2Rk5Va0dKQ3ZETllMWFNFSFdPdm95R1ZOSnFHRU1lSEFfdmRNX1lvekx0SkhpUEJ4V2RVVXM3UjloZEJKc1ptU2RyNXJSWUN1V1lUdllDY0dVd3h3SDdlX1h6OEl2LXdOVmQwaHhlX3Rtb2x6dzBaMVNPQ052Skt3czN4MDJSVlk3VjJKRnVJQWllSlZyLWl4djZreVJCNHBoYkpfZEhubFVSanJrU1HSAb8BQVVfeXFMUEtmR3IwMFlaQnFfem0wb01NQ082cXJXUlB1SWM4SVVSZGZMUllDOG42ZThPcHd1dDB6SlgtMFJ0YXp4Q3RUSUJwWURPMG1iNnFLZFg1WU5LTHloYmZVS0paTlNtQXZoZ1pGU2szUlNmV3JDdjJkb055MElEbk1OYVhvNDlMSHBuYWZSQnNLcktpSnBkbFVWVk5LaVdHckhjdXBuam5SRG1wQzF1ejFBVGFGdFE1Wm9jdzJ3OEY2YkE?oc=5"
+        },
+        {
+          "outlet": "BW Education",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnZPbTJyMDdGcnBKdVA3NXF3Wk5ya0VURkFCQnZsQVRNd1V1Vm1OZEtBYUNwWGFRU0hESV9HMW9pejdWNm04bEEwaWp5LTRrN2UtRmlGVG9vQkY3YS13WWo0Z19JS3BYN01aanZQcHgtbEJSODR3TmtTLURLOXNGeDFOZWNpZnM?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar STET admit card 2026 released at bsebstet.org: Direct link to download hall ticket here. An education-related story. Covered by 5 outlets, including The Times of India and NDTV.",
+      "brief": "Bihar STET admit card 2026 released at bsebstet.org: Direct link to download hall ticket here. An education-related story. Covered by 6 outlets, including The Times of India and NDTV.",
       "image": "images/bihar-stet-admit-card-2026-released-at-bsebstet-org-direct-l.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "slapped-with-defamation-notice-by-top-cop-in-bihar-rjd-mp-se",
+      "headline": "Slapped with defamation notice by top cop in Bihar, RJD MP seeks Speaker Om Birla's intervention | Hindustan Times - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-19",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "Deccan Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUlB2VFVVY3RIOGpnS3VsUnRfWXBtamN1MnZLV1doVjFBWE5Tc2U0MFRRVUx3ODBtTXJRVnFUaGFtZUliLW1rVmU3ZlVyblAzQUxRU2VGZWpLeFhkZVVpSHROWHMtSnNVRHJXUkFfVkwwUDdaUmZhd09mM1NUdG5pZHZNYjU4cG5PY2NTT0tVdUVOV19LS21USVdLUF96M0htNF95OUdiZ0tYcXNaVG1mWjFodUhGMEZsNzVBMlZBbWdsZ1ZRNXpZZXlId05YQVE3dl9LTEtVUFRIYTViYWhCRlpaUE5SWWliT1Q0a3pGWQ?oc=5"
+        },
+        {
+          "outlet": "The Hans India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVR3WTl3dmdoSENGejEzdjVVTUh0eXljRGk2RHM2MVpUQlFtRW1PZ0tqT19raUNiaE4wSnlMd3hMdkswNGh5R0NjNTlWTk5wQkU3c21aSFdZalZUX2ZFdngzNWRGX1JSZ1dmS253R2hnbzV0U1hQU3FfSWhmT092Z2pBT1RteFUxZS1FOXFhUndmUXpaMlZfQWZJQWRSdjZlMU5ocExlLWRNU3hrQWl2UmROUkVpNEJGS0p5RWZIQmxiNU45bzl2OFRucmcxOXc?oc=5"
+        },
+        {
+          "outlet": "Daily Pioneer",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ5VVZTMjdFNURVYTJBQU9xWEFFTzY2TDduOHF6R2tCeER3bjZ2VkZTeXI5SWM1OW5FQU9RMldRUHdONUoyUzR4Y0Ftb2NQYVc0RVhpSTBMamtIUHFVd01yLURmQ3pIYV9xZVRkamFvR294Ml9pUDNOa3Jpbk9JX2JkT0ZuZzg2VXRPZWkzX2xpdWVm0gGiAUFVX3lxTE80R3ZIQ3luWDExLWRZS1lQdEc4bFgyajJpYlNSQzlhYWxZOEJ2RmVkaklnSXJ1MVNocy1yZTJPa3FXaFRndGFCZ2JRdkdxMDlmUEVsRnQxazFqa1l0UmFZTC1wcEI2MmJBWGI1VnZFcEJITEF5TUhMbm5kbHBaZXc4cmI1QUZPSEd4NVhncHhVUXhLSFg0eE9QWlNtd3FZX1dOdw?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLVBvZnNQZ21ySDd4ZVBfQm10dHAybnN5NWI0WUFMUjU5TUNBdG1tWHF2NktBMUZmRGhucFpMQ0lxSC1sdE1LbkhZa1F6cGlkQVVHOFM4Q1NxT2dyM0wxX1FLS1Vsb25mcEZiRUFiaGJXN0doWjFYS0FFaV94ZG0zVmdaS1hFalhCamE2Z1RQbnpmVWcwbkVGb0xnYjBRN0l6eGpmWUNKWnFhREUtVHhnR2VkZEFkSy04UEdkd3BzcjJoZ181YURtSXR1SXB5Q3ljNTBOMWZfN2cyMmZncWtuaXRZNXVNanJXN2hlZ0NrRXRTZGF3c2NLZNIB_gFBVV95cUxOVm4zdTl1R25zTUZRMjJpNGl0QVp6eVVqWW9VckNPalVQVVhWeV80TkxNTFAxRTR5X3l2WVgzNTFVMktXdkJGSm96N2RMM3VaNFlkSDdYY012eTNHSmdQVzRBZDdpclZkQkxUeTd4NnYyTXBWdm9Udjl3U3NGbUtpTVg1cG15MDE2WUVRM2U3VDJBVjZPaldSMzF1TWNNUm5MQk5RZm1QYm40bmJBTmxwT3dIbVY0ZGU0TGpEOW4xSUlId3JuYnRmSWxqaTY3dHptZEo0RnRhUnMtWTM3Z0pYWlBjZUtpcXVVZWhfVmNpS2l1dmNmcEZsNXNjb09uQQ?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Slapped with defamation notice by top cop in Bihar, RJD MP seeks Speaker Om Birla's intervention. A politics-related story. Covered by 4 outlets, including Deccan Herald and The Hans India.",
+      "image": "images/slapped-with-defamation-notice-by-top-cop-in-bihar-rjd-mp-se.jpg",
       "image_kind": "photo"
     },
     {
@@ -235,40 +315,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "slapped-with-defamation-notice-by-top-cop-in-bihar-rjd-mp-se",
-      "headline": "Slapped with defamation notice by top cop in Bihar, RJD MP seeks Speaker Om Birla's intervention | Hindustan Times - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-19",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUlB2VFVVY3RIOGpnS3VsUnRfWXBtamN1MnZLV1doVjFBWE5Tc2U0MFRRVUx3ODBtTXJRVnFUaGFtZUliLW1rVmU3ZlVyblAzQUxRU2VGZWpLeFhkZVVpSHROWHMtSnNVRHJXUkFfVkwwUDdaUmZhd09mM1NUdG5pZHZNYjU4cG5PY2NTT0tVdUVOV19LS21USVdLUF96M0htNF95OUdiZ0tYcXNaVG1mWjFodUhGMEZsNzVBMlZBbWdsZ1ZRNXpZZXlId05YQVE3dl9LTEtVUFRIYTViYWhCRlpaUE5SWWliT1Q0a3pGWQ?oc=5"
-        },
-        {
-          "outlet": "Daily Pioneer",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ5VVZTMjdFNURVYTJBQU9xWEFFTzY2TDduOHF6R2tCeER3bjZ2VkZTeXI5SWM1OW5FQU9RMldRUHdONUoyUzR4Y0Ftb2NQYVc0RVhpSTBMamtIUHFVd01yLURmQ3pIYV9xZVRkamFvR294Ml9pUDNOa3Jpbk9JX2JkT0ZuZzg2VXRPZWkzX2xpdWVm0gGiAUFVX3lxTE80R3ZIQ3luWDExLWRZS1lQdEc4bFgyajJpYlNSQzlhYWxZOEJ2RmVkaklnSXJ1MVNocy1yZTJPa3FXaFRndGFCZ2JRdkdxMDlmUEVsRnQxazFqa1l0UmFZTC1wcEI2MmJBWGI1VnZFcEJITEF5TUhMbm5kbHBaZXc4cmI1QUZPSEd4NVhncHhVUXhLSFg0eE9QWlNtd3FZX1dOdw?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLVBvZnNQZ21ySDd4ZVBfQm10dHAybnN5NWI0WUFMUjU5TUNBdG1tWHF2NktBMUZmRGhucFpMQ0lxSC1sdE1LbkhZa1F6cGlkQVVHOFM4Q1NxT2dyM0wxX1FLS1Vsb25mcEZiRUFiaGJXN0doWjFYS0FFaV94ZG0zVmdaS1hFalhCamE2Z1RQbnpmVWcwbkVGb0xnYjBRN0l6eGpmWUNKWnFhREUtVHhnR2VkZEFkSy04UEdkd3BzcjJoZ181YURtSXR1SXB5Q3ljNTBOMWZfN2cyMmZncWtuaXRZNXVNanJXN2hlZ0NrRXRTZGF3c2NLZNIB_gFBVV95cUxOVm4zdTl1R25zTUZRMjJpNGl0QVp6eVVqWW9VckNPalVQVVhWeV80TkxNTFAxRTR5X3l2WVgzNTFVMktXdkJGSm96N2RMM3VaNFlkSDdYY012eTNHSmdQVzRBZDdpclZkQkxUeTd4NnYyTXBWdm9Udjl3U3NGbUtpTVg1cG15MDE2WUVRM2U3VDJBVjZPaldSMzF1TWNNUm5MQk5RZm1QYm40bmJBTmxwT3dIbVY0ZGU0TGpEOW4xSUlId3JuYnRmSWxqaTY3dHptZEo0RnRhUnMtWTM3Z0pYWlBjZUtpcXVVZWhfVmNpS2l1dmNmcEZsNXNjb09uQQ?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Slapped with defamation notice by top cop in Bihar, RJD MP seeks Speaker Om Birla's intervention. A politics-related story. Covered by 3 outlets, including Deccan Herald and Daily Pioneer.",
-      "image": "images/slapped-with-defamation-notice-by-top-cop-in-bihar-rjd-mp-se.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-neet-pg-2026-counselling-dates-out-at-bceceboard-bihar",
-      "headline": "Bihar NEET PG 2026 Counselling Dates Out at bceceboard.bihar.gov.in; PGMAC Registration Begins on Oct 22 - Shiksha.com",
+      "headline": "Bihar NEET PG 2026 Counselling Dates Out at bceceboard.bihar.gov.in; PGMAC Registration Begins on Oct 22 - Shiksha",
       "summary": "",
       "date": "2026-10-19",
       "topics": [
@@ -276,7 +324,7 @@
       ],
       "sources": [
         {
-          "outlet": "Shiksha.com",
+          "outlet": "Shiksha",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaXpCeUNUZWJ3VlNQRXZVOGs5ejFtQ3VXMHNpMFJGVFpOaWV4cXdkcVoyUnZoNm9tWUdYdnE4eElXZ2hVS1I3YTgwcVU0RlhuS2Z5aGFSV3dxd290U1p5UGFzVDBHN2JjMFpGMXNYcENySWFPUUE1NzVjb1IyTlMwRVVzOTN4REh3eUdaMGpBMkJpV2l4QW1KdEl2LUFZeVhCYm1qVC1mRy1IZkw3Z2xKV0R1ekVWaHJRNjZaUHVwUER4cGlSWHBvM3pTMkxGZE1DSmw5UkF0a0lVSDdLclczMTJscGM3ZjBQWDBxUGg2dkRpbHdZd1VlcHlDT25YSDRm?oc=5"
         },
@@ -291,10 +339,10 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMjkwUmlGUXlNQzdvUUZJd19mVE5taTFiR1o0S3U3Q2twWFNpQ2QxcU9VejA3NEp1cmdOa2NWeG1RS1hjZmwxUEp1M0w5cFBhMWxVXzYwQzNMSWNuSWVZVVhuQXA3eVNyZVYxWkU5VFpHOVFnQkZPbjFtV2E3RFNKbV9ZZVl3eU5XVnVvTlU1cXVVdktXalc3MlUyd0xYLTc0NUVEVWd4emNZaUhDM0lmcHdISDJCbGdXTWttQkEwdWk?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar NEET PG 2026 Counselling Dates Out at bceceboard.bihar.gov.in; PGMAC Registration Begins on Oct 22. An education-related story. Covered by 3 outlets, including Shiksha.com and Shiksha.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar NEET PG 2026 Counselling Dates Out at bceceboard.bihar.gov.in; PGMAC Registration Begins on Oct 22. An education-related story. Covered by Shiksha and Education Times.",
       "image": "images/bihar-neet-pg-2026-counselling-dates-out-at-bceceboard-bihar.jpg",
       "image_kind": "photo"
     },
@@ -338,11 +386,6 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVlNNVhYenliUUdNVy1fZGlPQldoYzAyWDFBTm43ZXhFSUJ1SV8wTEhtLVNabm1Kc0dCejFMWVY4ZlgtN2ZZYjhoZU9icFpzTmh4VnlYWHQyREhnSFRBT3RkdDhIRHdHU2pKMXF6MmpzcWEwM2x2WGRmeGNSUjJtc3RkdS1NQ3hvckRVVmgwTEpZUVBPdHQxTGJDMzdJeEd6N3JLTk5vd0QyVjZZc1RLNzdn0gG3AUFVX3lxTE9oRkhBcmhOdVF3SHFGS0NxSTAyXzR3X3hDLXpRT01IakpSSGs2VnRFbFdQXzBfeFZoN1h3Q1Y5NEplOVVkaDVsa3h4NnM0VWVHQXFZcE5vZk9FeGItOHlOYmRqTmhua0RMSC1EZjhiNTNBRmw2eTZiTWtEZWdma3pzMmRNWGttV1FkU1MtYkVnNmc1NVpCWElUdWpFZVdjYzc3MTFvdHdiUFF4M1N3ekRjZGdlOWhETQ?oc=5"
         },
         {
-          "outlet": "दैनिक भास्कर हिन्दी",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdzdJdVZVclhyQWhIeGMyRWktTWx1emRuRTJ6cVgtUzR1eFdwSnAyTjVjZmlyWWtyX3pPdVZiZlhfX2M5NHpoWHJ4OVVQNFBNZ01naW0yN0pzcWs2TUphcEZUYnJfc3loWGJ3eGktbDVIbTJ5QUZpSENHY1h1aEVQR2FYZ2xESHZ2ZDktTTIydTZVb0ZGa3o5ZEVlaklXZnNDNEVuMWZuMFpISlpqaDFUXzktNk9Ndk54c05CVGUweHJiOHBwVWZTclQtSTdfQQ?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT21VdHpWdWw3cE4zNzl6ZkRKUkJGdGVKMnBndUhKSWJMcVFhWlFFTkpUQ3J1LXJwbzRlRHVaTkRnY3ZBS0h1a0xBS0NOek9UQ1QyRGk0bjlLZE1XZC01Vk8xcjBwNWotWlg3TG9waVgySUpJWWJEd05nWHBFR1VzY3dGaWk0M1BrUERNc01ySDZlZHpSY00xXzhzRklucHN0OHFKa0MtekxDME13djN4SThGbEkxWmkx?oc=5"
@@ -353,10 +396,10 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbFFpRi1JdVJRUjVEenhMb1pFLTN0Z0dnWnBkd1FsSDhUZ3NOd05IZDRyd1N4S2laVW9XeVBJdG5lM0FSdm5CMFUtQ3ktYW9BQ3g5RzZacmw1TTd4aEstWHpXM0p4SFl5V09uLUZod2IwYmxFNDA4anhxTjItZm1Ud18taUhqVzFoX3hRTFNuY0sza2d2VzZPSkIzUDE1QjQxYUlidUtxUFJQOGFNTllodF9kb0J4SENmZENxNjN4MUozeE9Bc25Vbk1fR3I3SDQ5TXdlWFpIbGhNcmdo0gHiAUFVX3lxTFB0SG9qWHRuaGVpVkt4UFVnX1BaaTlaZTczVHh3cVdXQl9SbWtqMU9PSXE1NjRWaFNMUDk3TGxDVGY5aDg2VXJlMnl5RmRoY1d3a210R0lWQlJQYXZsNTN6OTZmWXQyMVNTeFVzZUZQWlVzbGpRSHlfR2dILXlzU3BSNWd5LWJBYUZtN3JiSnNzdUtGQlNCRFlEQlRja2ZZSTJpeVVELTRiOGJPZTF5TlpwNWxIOVFuUTkwdjN5eXdUR3IwaEl4ZTRQWEsxcVkzdW9qOGxkcXlRd252QUlZMEdDMHc?oc=5"
         }
       ],
-      "source_count": 7,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उछलते हुए गिरी गाड़ी... इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
+      "brief": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उछलते हुए गिरी गाड़ी... इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
       "image": "images/2-100-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -413,18 +456,94 @@
           "outlet": "ETV Bharat",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTWgwejg1U3ZWb0FSSnJqSk9PbFI5dWpIOURmbE1KMDhHSmQtWldWUm10d3FqMWZNNE93UExVVWR3dVd3bkR0LXlVRmJnNm5HS0g0ajNGRTV0RXBCTjlVb1Z5OEt3V05oV3lzYXJENVk3SndOWl9BRFJsZExnUmI0SWxRRUlDTTJvZHZmUU5oMzdlZm9PUGx3Rk9iczUyTDNwZkQ4T3FYQjZPQmZtXzc3dmlsUS1LUXp0cndqaVNTRHVoLThfeVhoR1BHVnd6elk4Vkw3UC12aFFrbmfSAeABQVVfeXFMT2ttN2dsVV9CU1haY2xQZDZWOTBJYWtFOUF5MW5sVVB0LUxLVl9wVWQyc2VJM2dZTkltWXZ1MHI2TU0tT0xRcmRiNkxzTnRMQ2JvVEZ0NHNzUW9TUkFURFp0bmtEMlZlU01VNmNHVnNFQTNTVl9EcXpRYkVZNTd5d2NSbENhbDVBWkk4QThET3p1T2djbUVQT2pZMlp0NUVaZGdIaTlqWlJQVElJZjVEdm5VaG1SOVQ0MXB4MGM5WXR5RkFXaE9xZzhvckVfNXVBSi1nblNTbmc2aGhoTlR4LUo?oc=5"
+        }
+      ],
+      "source_count": 8,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना के मनेर में पैक्स अध्यक्ष की गोली मारकर हत्या: बचाने पहुंचे प्रखंड प्रमुख पति को भी मारी गोली, दो बाइक से आए थे चार अपराधी। इसे 8 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
+      "image": "images/prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "mlc-dainik-bhaskar",
+      "headline": "अनंत सिंह के रोड शो में बुल्डोजर से पुष्प वर्षा: पटना स्नातक MLC चुनाव में डॉ. अनुज कुमार के समर्थन में बाढ... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-19",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb1VBRGFUN2VqdUJMcHFLNGtyY0FwcEM1Z0o0YkdGeGFKZG5NTEhLUE5hdnE0TVZ3cTNpY2gwSU1lbkVyOHdOSkpGYXRKTFNDSjJubDhIUzhOQU1IWmtMQ1pLTWc2V29YdVNWMWxGNy01R1FRMjZuTXJYR1VrUkV4MHBSTUVWYlZzWGQwblc4MHVCSmUyWHVSZkJkbHBpZGJhczJpbzBIS3puVFZPMDB2Yzh3REtpNV8zbzdlcUdHVzVpTEMyY2xobFRmcmI0bjJPWVBjRlViWW0zcGVP0gHiAUFVX3lxTE1ad0dSWDdVaHFRMm1McTBxOC1IWFVtb1h5ZFZmenRvVGdiRHNDTmdlMUJFbTJsN0QyWGZ5Q01mcFJkWXlYOGxSM3JoalVVajZIdGNJaEplRnkxR0R6VWtkVUFfdktVMjBoSERXUFd0aEpySmpYWXFUbmZVMHZnSjQxbWFLRm9LM1k1UXdVa2pDeml3OU5QMkhYS0ZWbkx0SXhOSTZEU2R4eDQ4NU10RVB4UmpEMmc0RzY3RDVnMWliLUttYzNtMFhPM0JPakJGVnA2VDM1Uldsbl9BVnhPM19ldlE?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV0FHMGxVVzc5UzVsR2JrS1RIQlJsQjJIZm9OelJoeW5HblhwR25lTUxzbHh6eGdLYV9ONFV0TjJQVUp5cmxobnNQT21jeXpVMHF1RzRWdXluWlF4amdCUjN1TVBWYm01ZTJ6aFlIVjBVNEVkS0pvbm5QSHhEYVQ2TGRlbHhlZE53MU9PMUJ5ZEZtOU85NWVGdEY0UnVqWEpyQkEwLTVieDFDY0RKSTRRR3pqZEl2X0Y1My1tX1NKeFZLWWJWR0ViWVlB0gHPAUFVX3lxTE80YnZ5Tjhxc3ZvblN0Xzkyd2JwRENYZ0FUVDF1ajV4Rzc4NUFNdWE4SU9KY0Y1aXRuUkIyT2d6RXBxbEc2MDcyUEJtRGlfX3Zya3lmbmktR1ZOTXNqaWJWRFlaVzZoSTF0eUMwVUZhMkRTQXpvS3pMSEVCcG5wLVpHZ2dhWE1yUjVQZUhCLW9EYXNTT1R0ZmdnMW1NRmhHdzFmeFdhbG5yeTZtWmxOSWdWdmpmNTFMU1duNTNRNi1CeFc0VzlfMFhNdVhJeUV1bw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "अनंत सिंह के रोड शो में बुल्डोजर से पुष्प वर्षा: पटना स्नातक MLC चुनाव में डॉ. अनुज कुमार के समर्थन में बाढ... इसे Amar Ujala और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/mlc-dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "3-fir-mlc-navbharat-times",
+      "headline": "मोकामा विधायक अनंत सिंह पर पटना पुलिस ने दर्ज किए 3 FIR, MLC उम्मीदवार अनुज सिंह भी फंसे - Navbharat Times",
+      "summary": "",
+      "date": "2026-10-19",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMERpMHl0M0ZlOTRYV2FhM19UUnhEaTFNOTBKckt6LWV3dTFRcWo2YkUyNXZUbG8xSXJzZ3BlSzNLallNLWNRMVJnbUVtUEUwamk2R0w4U21QTHRJUmF5MFhDQUc2MEJYR25SS0RJd084UmY0ZVJsTGNySXl0OWNDY3lQS0RDLURGTXU5TWJ0QnpyUTNpbjEydDRGZFdMalY1S1RhU3RmTk5wU0haRW0xZldSRGRJUU5KNkZ3VW03ZXNUU282Z044N1pZdVdDWHpqeGZ2YjZfVWVwZjF2bEEzUmt3MVdFcjVmdVV0QWFqNlVyWDYtNnh5d2cyRlgxaXNRSUJnQU5kT0hybHPSAZACQVVfeXFMTnZRdTMyQTRmelBvc1NnRXBnN21lM1hhX2pCaUl1OGZ4bm9fVGZiOHB1akJPRHIxM2NaZ2xpM3lqbFFBb08xNmloYm1fTklOWE5NWHJ0THZQU1BYS1VfUHNMVFBheDl5aDFsUlNoaUQtMW8yUUpTSlotNWJjeTQzc3ZYUUlnU0Q0QUtwRzNaN2l2akd0d28xQWxYaGtibWllU0JBVkFTX0wzMG1fWHNWN0lSeng1NVViNXhGb2VfVURkbjl4UTBkMldwQXZTS0lSaU1Sb2xTZVdJUDJnSFdJbjJTVi1ONWlSUEw3WEtNeTFLX0JIOGNPM2dWb2F1MVQ3eDlwV1RJNml4TnJQZlZxbTk?oc=5"
+        },
+        {
+          "outlet": "Kashish News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40MXhSWHQ5QlUzWXJRNEdTamFkeXp5UGZLbGpKT0NDMnU0elF1NVJsWW5JSXBudC05ZnRJcmxQb2ZrU3FKNlV2M3EyUkFTNjhRamxBNWhFMGpRcGc00gFiQVVfeXFMUGt0VHBHQ2VoNmZhc0lVendNRlJGQ05iLTR6MlA4bHQxcDAwTmRZdzRDVU95VXZQWUQwc01BMXBISFdNS0MwM1lWbV9uV3FxMkdQYk5pbVRHQ0FPNHd0bG9LRmc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "मोकामा विधायक अनंत सिंह पर पटना पुलिस ने दर्ज किए 3 FIR, MLC उम्मीदवार अनुज सिंह भी फंसे। अपराध से जुड़ी ख़बर। इसे Navbharat Times और Kashish News ने रिपोर्ट किया है।",
+      "image": "images/3-fir-mlc-navbharat-times.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "90-www-bhaskarhindi-com",
+      "headline": "पटना में 90 फीट के रावण का होगा दहन, आधे घंटे तक होगी इको-फ्रेंडली आतिशबाजी - www.bhaskarhindi.com",
+      "summary": "",
+      "date": "2026-10-19",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "www.bhaskarhindi.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTlnRHowR1ZBRDNSRzN2SE8wUXM0U3g5Ujk1ZTR2T3NSY3RkODA4czMzMEUtQjVjaFZTRmNMSlpVd2ZOd0FBQUlPQXFUVHJqamtUbmxOV21UdmttSlRJbm12dWlqT0dSZzRCQW5qanp3SDUxemhzeEN1dE1mQ2dDUm1ZdVkzSTZTMlBKSU85UkR5dm5Fc0JkNHBPaW16WlFjREVMeGE3TmVfNE5yel9uY21ib3VfR01jSUU2MVpWNUNrLVpBc1JvZA?oc=5"
         },
         {
           "outlet": "Navbharat Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU0VuZ3BYTThyRlZIc3BuTExMdEJRa1NVMGt2OHgzNDRfOTdGWk9lQTc3X1g4bnFmMUc4NjFqTl9oeEZkSGRXY1phTnphQ0RkU0xNV3JXZmliaUNBWVF4TV9oaFg5cFRWQUhzc1pXZ3BnNFpqVjZZbjJKaGlaQnlLVmYtTE1LUHUycGdvZVhPSUk1N2habFpmZE84RlVMMjJYdFg3cVV4N3dzYmlZTmxMWHNOSTVFMkZhNGxlYlVkOVpUbHlwc1IxeFoyYXRvSVlsSDZHN2F4MkVHV2p4MUpWaVotNXN1eHRIN1Q1U3hWVlNFc29iQUd0em9OSzRLQTjSAYQCQVVfeXFMTWw0eTJqYXp5NUwwZTZOY2ZlZ3ZPUzJ1Q3ZKNHdJczUyelNkUDBpaW5RYWl1alA0ekEwcjFPMmtMSjNzeU1vSGxoa2F3eHdrTGxtaVd3b3Y1MFRpUk9VS1JaakNDM3IzRmtKdE5aVzdaMEFGLTYzYWR5Tk14VzJTVE01YnRlS2dPS0pHXzJJMzFTeUNsblo3Mm9fc0NqZkN4ajFFNmNoMnlqTjlkV1BjVFVzSC1rNkNQd1FuWHNBcm5DM21rMU44NVFrYldrcFJVTjBEejhtVkpubmlVdEw5Mk5ZUjJya0cxWG11bTZUVHBtLXhDa0xWNTRfcWhhZXdOOENMcTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcUNTQXBKZjNvZll4SDdPbGdmd045UHJCMUZDSUVCTEszRVBSQ2EweDVtcGJUclBGZXB5eEtqZzBVblF2bV90Ti00MktJbTNEejROTlcydkxMNlNmWlpoVFFTeGE4Q0dxQlhEOHZlT2NFQjV3Z0ZmNkFmRGpsd1oyNjMtdHIwdGhWRnZMOE9aeFNqbWYweVZxVGthTTJqcHVLbG9oNVUzRWFfajJDVG1vRVdHZ1ZyMlRKLW1SSktLOEFDaFFMYXpfdVFxeGh3cXd1VFlNaVpKXzRVRGtHYW41UjctRzFaaEJOVmd0WmYySlN5Vmh0YmRxN3FCb1U4MXZqUXU1Z0tBTW_SAY4CQVVfeXFMTTF5YndxN24yMWNDT2dLc01CbHZ4Q2R5YUFOMDZ4WHZoM0dUb1lsTVplOURudDJCZWFBaTlRZ3gzbGFMekl1RW5mSWlSZGE3LUx6RVNKQnhicFd4ajlnM1ZmSHoxMkVJRzNnT3gyN20tZnl5QkVkMnFTaUhxV0hhN0paQndGTFIyQ1doSGcxMlFzcFN4MGpnWDB1UE9UYXZZWDA4NC1jT3RxRFA0MWhOYnVKU0o5Snc0SjhQWnE1N1lyZVBZMWV1NXhLQS1ZU3NGZ0UtRTBacDRIaGhjVUlhQmZOQW1pVVZQNi1YM0kxSE44UXRiLUVBbXd6c2MtdlVjXzRrNU1ObEFaUWx5V0RB?oc=5"
         }
       ],
-      "source_count": 9,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना के मनेर में पैक्स अध्यक्ष की गोली मारकर हत्या: बचाने पहुंचे प्रखंड प्रमुख पति को भी मारी गोली, दो बाइक से आए थे चार अपराधी। इसे 9 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
-      "image": "images/prabhat-khabar.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में 90 फीट के रावण का होगा दहन, आधे घंटे तक होगी इको-फ्रेंडली आतिशबाजी - www.bhaskarhindi.com। इसे www.bhaskarhindi.com और Navbharat Times ने रिपोर्ट किया है।",
+      "image": "images/90-www-bhaskarhindi-com.jpg",
       "image_kind": "photo"
     },
     {
@@ -460,44 +579,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "lying-on-woman-covering-her-mouth-not-enough-to-prove-attemp",
-      "headline": "Lying on woman, covering her mouth not enough to prove attempt to rape, holds Patna HC; limits sentence | India News - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-18",
-      "topics": [
-        "crime",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX2lUZy1kT3JOY3c5YmhmcHFOQzdSb2xha01zaE03ZlViTmRpS09KTWlMZ2g0SGxic2p6NHY0d1ZkX052OWFnNW9Bb1NKa0lVeDhoU216Y1U0Q0pwNWdoa3A3Ti1KMjNUMkFaci1LR0JfaUN4UzhvcWlZeXhHN2s0enBNdzZWWEVXWTVMMjlSR2hmUnExZlRyei1JeUNYSDlfZmpLbU1kaFRlVmxMX1Z3Q1l4eUJtWTFYY0phbmlreEx3UlA0Qk9RcFRjYTFFbjN3OVdzZXp1WUN2QlZYSExYalEwYWdyUdIB6wFBVV95cUxNaDMwT2ZpTTUzalJ2dUx1Q2JpNXZHdURYS3IzM0U4WEI0TVAycmhKaVprcDlGZ3k3R2FLSWNmX2R5NmxBR1pkbS1ZZXZSUzFmZUJEbU5rVE16Si01d2Q2LWh6RTk2VXhmTEU2djZTMlkwRmhuZ0ZWZEJmM2pqNDNCOFdMRkQ4RU9GZzFWekJoc2lsd2J3X1RHY0Zzbng4RWtGQmJlTnlZRjI4aVFiS2lKRkZGdEtreUFhbDBkTkRSMlE4a2VISV9VUE9Pd0hEU19TaHR3dlJna1Z3WVp5NDhTSlROVjFxZmJJUW1B?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVHNEN1l3NHM1WWtORnAxS2JONEg1WHJ3aGRwSVlVRVhFU1l2MGJ3YnJMRzhLQlFDaW9nR3FQeS1oZjdmZG5SU3lrZ2JyZDd5WTFNLTZ6cEdtdmJSWUU3R29zS3NFYWxTbTJ4ekN1c3VFYWlYMHV2bkhobTZ0ZXp5N0xuZy1iZDFpaXg0UGROVDU2OEtzRktTWkFtdkxoUGdJVHlSdjVyYmhaa1VGQ2s3bFM3V1B2Yk9DRnhZRC1pUDlzakEybmxNYi1wWVg2TGYxNEJfVmkwY2kxUWtITXA3cURJMWhZVjV5QjczT1hfdHV2Tkc4LThhSERsMlZnVlBDT2xvRlp2VdIBjAJBVV95cUxPMm1WY1JrMlFuVWRSR1NtT2JWaHNxaWd6R1pfd01KcnZtUHBCQ3BnX0NlanBERV9uVlNwaWtVd1VxX2NlWVZDalFSTHN6N2xGekhqZWxlb1pXVWxtdlVWZVg2dTFfdS1Uel9oT1JJSnlWUEFvUmE5QXp4LWh2TEg0Y3phckFCTnlaTnNBZEFDTkJCSFJrRW8xbVFtLW5LTFFpREJLSVhzX251SnNKQ0NwQVdCV3hVa1NXNE9uV29JdTB1TldsTXF2Uy1FN1Y3aXhaenVsR1lGLVBIbTlyeVVpbE9HbjRlMU5BYUpqRlY3bFpyeGhQdWhxNDB0clhvZm01MWh2MF8wT3cyQmJD?oc=5"
-        },
-        {
-          "outlet": "Bar and Bench",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaENEalJILTdrX21BMTZwcHVCdU9DTlZzbjV1Y0E5dmRDN3hTR1pQUnhGNE9fYUNqLW1ucHZYQUM0RmZRbnJhSEhzN2Uxb1lUNXJzZnlzR2V6eXBmZ0R4SmtDdTk1Q0RnOWNUZnREa3RjVjlkN0ZtYkEwbC13S0dva0xEczhoY2FKX1NRc3NlOWJlWDVud1BoTVZnQm5Fck5qS0Foemx4WkpBZVhQa2JSTHptcFVtZWRCRHlJMDhQUHd1Q1E?oc=5"
-        },
-        {
-          "outlet": "TheWire.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1FFc2VHb2Rac0tIT3dzSWxKY0gxSFBGR3kyTHBzX19iSG5NcHVid1JtalVlTWYyV0R1RjlXVnBoeXE4b2VsYXFFODZLMzJJY3hhaDNoQmlLdG9iMFQ3aEQ5UzZQWHZ0OE9PVFNpS3NkLTFpZXZlRklTWEE1YTdaV1FSUWFBX1hnN1ozZVNydThBaEU5SDNiaFZYYUV1UVpl0gGzAUFVX3lxTE9xZ1RkYUpxTkNLdlRPbm9wZ3J4ekVyTXpQX2RoZUtFVUN0TUZoV3M2M0JPODc5aUJtRmljeWhCQzRlcERRUGJuWmJUV3pHSkN6dHdVRlNVaGw3b2dPWW1pV0hDTWxVSkVHdkRBNzRmS29kcmtIcDhoQkNaaVgtMXFrcl8weFJGMEgwV3ZjdHZRN3pzTjdsa1pMNTA4SFFsTmJPY1VYczdTUE10NXZlN1ppbzVR?oc=5"
-        }
-      ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Lying on woman, covering her mouth not enough to prove attempt to rape, holds Patna HC; limits sentence. A crime-related story. Covered by 4 outlets, including India Today and Hindustan Times.",
-      "image": "images/lying-on-woman-covering-her-mouth-not-enough-to-prove-attemp.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "vande-bharat-special-to-operate-between-delhi-and-patna-for-",
       "headline": "Vande Bharat special to operate between Delhi and Patna for Diwali, Chhath: Check dates, timings, stoppage - The Economic Times",
       "summary": "",
@@ -530,8 +611,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "cannot-be-denied-prashant-kishor-calls-nitish-kumar-one-of-b",
-      "headline": "Cannot be denied: Prashant Kishor calls Nitish Kumar one of Bihar's 10 best leaders - India Today",
+      "id": "most-sensible-prashant-kishor-calls-nitish-kumar-one-of-biha",
+      "headline": "‘Most Sensible’: Prashant Kishor Calls Nitish Kumar One Of Bihar’s 10 Best Leaders, But With A Dig - News18",
       "summary": "",
       "date": "2026-10-18",
       "topics": [
@@ -547,13 +628,18 @@
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1dyU3RNUGRUdzBEUk10QlBsckZKVVJOWnVmZ3JaaEZSSnJ6eFVYSVgwU1YxSlFmMkppZ3U5ajJsQWZUV2ZXZVJpdlFEMnNmWDh5NFlYdnlLaGVJdDZkVGlKZHRwNlRRX2JJR1g2Q1l0dTU5UGhnN3pzcE5JRW9Vd1JQSFhkSXRTcm15LU1BQzc1M0FFazhxRWMyOS1qbXI3MENXbWI1UFd1WC0yNEJiT0dMdnQwbmdnZUxkaEloRUtYb1BMX1NXS0hR0gHPAUFVX3lxTE1iWEVwVUFONmhBOGxVWmhEUnByaXhnSmJ4aGpNdG5hTUNUWHZQWTZXcVdON0l1QzlGSUVhaWwxZHlvRlpPRi1YeW9yM25aMVZFaGlic0x2QVQzZDVYVmItZVplYngzWWIwQ21BRDJrOXBiQUt3UjN0T3ZRVV96SFM4TUxqZDFBSzFHOVFhRUZuUmIwSWVybXhqd0paZ2VkVEdSeEo1OW45bGk5VUEzQnhYRVdkZkY0RDBTRVloT0E3NWpGQ3I4Y2h0QjM1TEZwbw?oc=5"
+        },
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWRaVDlYRzBfMWx2bjFJbTJ5QUhlRmlPTWd1dGpSYWFncGRQZnRCdmFpRlY1VkVHRDFHU0R0NFlBdVFNZTFWdnctUEhfSWQwSzE2b1FLQWtveFVxYVBlb3c2MEJuejBRV200SHVTOVlmZGZqUnU0eE1DYnVVMGZMUk5tRFZOTFJ5Z25SY0x0SzA1ZEdZcGhka0ZScG96cXp6WU5BNjg5U05PRXMyWS1HMmJ0bEJYRmRhWHlYQTk2cGhrUkNTR1dackx4cE5sclc3OHlqb1dWOUTSAd4BQVVfeXFMTmR6ZTBDSWlXSXAtNnFOc0RtZUNTQVMxbmNkdzRjenB3TkVVbUx2aTJYbVdLYkpDdnFBdkdYTlRMMTRtZWtDdHlFamp6eGVxNDFwU3ROSW1kTDl2OFNqRnhSZUUxZ0F3c2FIUmYteXR4ZHAyT0xiWkM1cGpZblhnV0lZUTZlQWdxRHozbElUcWZlVjExRGVtVFc1QTZCTkVDLURSTU9vTWJpa3FTTE0tc2dWYXYtajUwTFE1d2dYTFFORVlLR3lneUtRWHQtYXlsVzUtNFBLY2g5ZnlpeUV3?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Cannot be denied: Prashant Kishor calls Nitish Kumar one of Bihar's 10 best leaders. A politics-related story. Covered by NDTV and India Today.",
-      "image": "images/cannot-be-denied-prashant-kishor-calls-nitish-kumar-one-of-b.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "‘Most Sensible’: Prashant Kishor Calls Nitish Kumar One Of Bihar’s 10 Best Leaders, But With A Dig - News18. A politics-related story. Covered by 3 outlets, including NDTV and India Today.",
+      "image": "images/most-sensible-prashant-kishor-calls-nitish-kumar-one-of-biha.jpg",
       "image_kind": "photo"
     },
     {
@@ -680,12 +766,17 @@
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS2ctLUc2QmRlY2lOeVltUFFBdlBWclFHM3hTdXhFWHBZQXRUckRfamlEU3F3MGdzRlhXTkZBejQtVkQ1eWdLV0RJTTQ1anNDTGVqS2IxZDRWYVU4U29hTDk0QlBCOG5mRkx1bk1fVENuLUZtdnU0b0JzYmZSclNLUVZxNmNKX3F3WEx1d2tnc1ZxeEtKcV9FQUNtc0NaY3lQcUJ2Ti1SdDJPWE8xQkVLWGFXR2VTLVJBMHoxZ2U1cVhXNlJ4VzdKdU9mYw?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDk3OXJJREk5MjEzeGdxVkJydHZvZXpjUHdoWlpQeEVTSFRXMy16WVFVRDZ6RjNyX2hQVFJzZE1SUnhidTMxZm9hbjRnalBwb28yaDFxcHI1UDJTeWZzekZMcTVSMGlSNWNTZDRucklTYV93QWRMTThhWHFUbDlrTVJHT2loUnJsejlmZ2JQaUk0bFFhbTF2bHI3dmJIWTJaQlMxWFpaV3J3TnM4TUdIMEZYVFZtWWNSQzR5LU52dENBbHVTYXJfTlc1Yjg0WmRrcXRDNFBLQXR2U2Vu0gHiAUFVX3lxTFBUT0w5N01BNUp4eVJXYkVKQ1kwdWxzWE5pd1FReGIzbUsxaXkxTHc3VUYxai1pbFNtNkViNkZwM3RYUTJCcWZIVDNDR1ZDVUI5elZPaVAyR3ZBR0p2eVJ4WmdMb0d3ajh5RDUxSGlyazNldkZ0ajByOGpkN0NsT2JBbkMwdFVseUtlUnhyREd4OTVGUVlvS2pwVkRzN0F1UWl4R0ZYcjhpdkJlVjlBUzlGaTRQd3dZNERMcVBJX0FmcGU3RVpfaGp1QlJUTWh6NDlXNk1QSmVGLUpoVUNJWmRuWFE?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Prabhat Khabar शामिल हैं।",
       "image": "images/2500-88-km-jagran.jpg",
       "image_kind": "photo"
     },
@@ -726,21 +817,48 @@
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOREl0VzJYOWxfempCVW05TFNoV3hKdm5nWmZXUFU4QUpCRjlzenk2SUZZMWp5Q2lfYTloOTlZcnJaTXdfTGtGamRNWFl6OTgyS0IxN21nVWQ0cmlXZGotaXhrMkZkbmFJRWJKdVdRaFdDbWZlZ21MVWNCNmpsX3lISnRLaUN2aHRycE12V1NRWDJZeGJuZXhacG5YdVRLR0xLNGlSbnZnWDJSLXVnTXlRX2pRb1lLVTB2ekdWOWlwcHNBa2lXM3JscGtILWFPLUZGWkVGeUln0gHcAUFVX3lxTFBINlFEYkxFQnVyNUM3V0E0dkk2b1V5MW1MalR1TjJLalZ1bFo1dmVjV2h2MGd6aUVtLTlKQ0hxMHlRRldTcHZVSkx1YnNVRzBvVVBRQmV5VFBtMnBIYjRLcXU5RDdYX2hScGlNdHI2a2htM0NIdWFVZ3FGSV9UdzFCUWMwRWtJdmx1VDVocm1LRGxVMVRRYmJnUUNnUkNRZUc4UXVlMW41TTBqZmtQcjJ3U1ZpT0ZkU2packNYTlZpeHpsSUxaaTFHaUhEZTA4NEV6a2J4TGhtUGZpeFM?oc=5"
-        },
-        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYmIyd0dubXp2Ukc2RnhmbEVNMFZPaUg4MVRUdFl3V0JXZGtPbkRCUXRZM0F6aXk3UndaVFYxeUpKam5udGpucE02dXJVeDVDTDhPeEtpTjNpZUFUZURuRWRPQ0g3TGxtcERxVWpfMjR5MG9kUVBkd0wzWWlNME5OTVoyVjgwcndtSGZUQXh3elRMa2pxa1FwSGZjREdMVk0xWHRkcktyc1BBVmpNYjdJZnFDMV9NVHhpVlprcEZGVnBacHpVdlhQS2hsSnpTNF9wTEZjTUFlS3dPbFR40gHiAUFVX3lxTE1MUTVVWUJqS3hDN2tPcXZLTTYxY0QzY0xQT0M5UEVReUllS2hManVEVVNaX1h2OENVTERSdXdWdWVvdGN5R2FkM2ZWOU1ZSm5UaWRxNk1HMVhLNi1aTVhPbVFQNnF2WmdabVNLVDNtWEZqVDFoV3NnU1k4cVBrVzYwM1BPRWdzcFphNlNORjVwaFk3QWdmNG5WQkExR2lHQjJYTzJtRlVTeERfU21PajlVdWtWSDgtMUNNTjBCak5JYkZGNnMySXJsNlJPRWF5N09DM1hOekh1dDluMVcwRlc3RXc?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOREl0VzJYOWxfempCVW05TFNoV3hKdm5nWmZXUFU4QUpCRjlzenk2SUZZMWp5Q2lfYTloOTlZcnJaTXdfTGtGamRNWFl6OTgyS0IxN21nVWQ0cmlXZGotaXhrMkZkbmFJRWJKdVdRaFdDbWZlZ21MVWNCNmpsX3lISnRLaUN2aHRycE12V1NRWDJZeGJuZXhacG5YdVRLR0xLNGlSbnZnWDJSLXVnTXlRX2pRb1lLVTB2ekdWOWlwcHNBa2lXM3JscGtILWFPLUZGWkVGeUln0gHcAUFVX3lxTFBINlFEYkxFQnVyNUM3V0E0dkk2b1V5MW1MalR1TjJLalZ1bFo1dmVjV2h2MGd6aUVtLTlKQ0hxMHlRRldTcHZVSkx1YnNVRzBvVVBRQmV5VFBtMnBIYjRLcXU5RDdYX2hScGlNdHI2a2htM0NIdWFVZ3FGSV9UdzFCUWMwRWtJdmx1VDVocm1LRGxVMVRRYmJnUUNnUkNRZUc4UXVlMW41TTBqZmtQcjJ3U1ZpT0ZkU2packNYTlZpeHpsSUxaaTFHaUhEZTA4NEV6a2J4TGhtUGZpeFM?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Patna court sentences man to two years in jail under anti-triple talaq law. Covered by The Hindu and Hindustan Times.",
+      "brief": "Patna court sentences man to two years in jail under anti-triple talaq law. Covered by Hindustan Times and The Hindu.",
       "image": "images/patna-court-sentences-man-to-two-years-in-jail-under-anti-tr.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "delhi-confidential-bjp-chief-nitin-nabin-to-visit-patna-duri",
+      "headline": "Delhi Confidential: BJP chief Nitin Nabin to visit Patna during Durga Puja - The Indian Express",
+      "summary": "",
+      "date": "2026-10-17",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXgxa2FtYjdYdV9vSGs1T2xrb1ZsdUpJMFBQLUFDTmFNSDB6QVhkSUlHV0E3TVpVNUNHRXFfVGlINnRqUlhGTW1UMUFoSUdxZjk4eVdoazBpQm1GckcxTWdzTXg2ZENtUU5OQ1FudUJfRUcyT1Y4cGtxQ25XWFF2TEtoa29uS1NLZnN5QlpjUk9WZXhjWFdxOEkwS0J3UVo2SWxTQmVyZ0FfSTM5RkJqcS1tQ0NPNTl0bDh5c3ktWEJrMW1uRGdSaXVnb1hvMlFXdUHSAdgBQVVfeXFMTXFIcEFpcTZRNmFGd2hkekxVUXNweUNsWUpQclg1cU1VTjZicWswQ0xXZlAyOERkeXFEX05lRjRNS0R0MzN1Wjd1LU9uSUFRdzFTdWYwQjh1RmFvVFYtd0VJQUtKV1ZjcDNNTVZjWWw4VVJLaXAwcVhfc0pyaWxRVU5RSk5tYzd6V2x4OE1BSnNYYThDc1BCaW15Zk45UU5PZGlZZ2pkb1hGemhTb2hlcktFVkdoUDhZVjVVZXNTUjFyaklWOGI5SS1TS3B6VU5pYmROUUNlZDda?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbDdZaXBnNDgyeUhxWEhkcFZ6VVFhRnJTcHVKTVZTNzZlR0ViX2FDeTFraG1tNENzS0tpcEVTajBBVDJTM1htUm5pMUVoV0stY1EtODlsOG5xYXFvZGwwMVFzdk5ycWs0aVk4VW1keUhnY3EyempWUjBPSTFzTkhLRWsxVEN6RktwLXY4TWQ4eEJYWFo1R3BqRXIxalNmSGYxc3c?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Delhi Confidential: BJP chief Nitin Nabin to visit Patna during Durga Puja. A politics-related story. Covered by The Indian Express and The News Mill.",
+      "image": "images/delhi-confidential-bjp-chief-nitin-nabin-to-visit-patna-duri.jpg",
       "image_kind": "photo"
     },
     {
@@ -768,33 +886,6 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना की प्रखंड कृषि पदाधिकारी राजलक्ष्मी की डिलीवरी के बाद मौत, अस्पताल पर लापरवाही का आरोप। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
       "image": "images/hindustan.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-suspends-top-officer-over-deaths-of-14-children-in-vai",
-      "headline": "Bihar suspends top officer over deaths of 14 children in Vaishali boat tragedy - India Today",
-      "summary": "",
-      "date": "2026-10-16",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFE3VFp4Z05HZnZBYUh3cks2OEpDd2xPMlNvYnhBNnYxTlgtUE1Jay1KVE1ZUTBVSHdzbFpFelJKVTY1NWRPa2U3MWRDSkFpdWVNQUxQemt3NzdjM0pLc29XeFZrT0lrZzNyd2xHUEtuTmhZcFFvbUhCa1hkWV9uV2xOdjRpMzNxSlJOZXFqNlBIcTdoRFdlT29hUVFzLWRza00zQU9UeWt2Z1dNbS1qc3Q1eUl3a2J4ZEdB0gHAAUFVX3lxTE9ZRVlVb0JWMnNqalFUSjBLbzZYdzdUTGt2RTFrMDhsdjB5R0g3c2xMbzJ1d1UxY1UwMmpLLTA0dGlEQUtWX0VpOHVuS2kwX3p5YzBDUU0xdHREOEk2Mk1ZTG44eGZPazREZHg4M3Z5b3o1Uk52aHhuYVQtRWRMa0tXZ2NIcms1UTQ4QlQzSkl2cmtlZ3dEbnE0bnhodlpNSWx4VXU2ai14Y0ExVDBneVYtWEVOb19hVENYbThUQ1FjaA?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmF5VGFyNGlYM2lVQUZrNkVZREs2UEhVcGpibWR6anByUXhEYU5GS0M0bFlSei12ZGF2QkVjUjJQRkdKS2xaeUN6SGVFQ1RtMWxyN3BOLUhUR3RuVl9UTmZJQlpqby1nTUZqV29pVW12cjVyaFZERzhFRlNjWDhsTHNkbDlUUXNPVkdQeXJZYlFHZUZrb1Z6VkFDcm9SWlY2RVA1bWJvWTU1VjZ3eFRJXzlOUjRLZVdGRlFER1o4bXpUVllPUEhB0gHMAUFVX3lxTE1NcFpoQS0zX0lHVkc5X21UQjJpdmdPaldTZ2JkZGFHUTktRTV3ZnAyLWlzSEhUcXQ2a1hKQ0RtaFNILW1sU0tBTVlHdkNJdEdfYWFSYmZ1dDJST1NVd1BTYmtYQzI3OUwtTXU3bzRjaFFJZ3ZqSFU2UDAzaW9fYmNtMXRqQndYRmNIanJwb1VHRkJ0N3NELUgtV2VWcWlaZTdudEIwZkNqRmd0TjlfTEdFdm9VYWQ4TnJ2cGNVMkg1YVJmbkIycDZyeXdpMQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar suspends top officer over deaths of 14 children in Vaishali boat tragedy. Covered by The Times of India and India Today.",
-      "image": "images/bihar-suspends-top-officer-over-deaths-of-14-children-in-vai.jpg",
       "image_kind": "photo"
     },
     {
