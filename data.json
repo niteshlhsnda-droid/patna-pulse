@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19 07:35 UTC",
-  "generated_at_ist": "19 Oct 2026, 01:05 PM IST",
-  "story_count": 51,
+  "generated_at": "2026-10-19 08:54 UTC",
+  "generated_at_ist": "19 Oct 2026, 02:24 PM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -42,8 +42,35 @@
       "image_kind": "photo"
     },
     {
-      "id": "police-tighten-security-at-puja-pandals-after-kolkata-stampe",
-      "headline": "Police tighten security at puja pandals after Kolkata stampede - The Times of India",
+      "id": "pacs-president-killed-and-maner-block-chief-s-husband-injure",
+      "headline": "PACS president killed and Maner block chief’s husband injured in Patna firing - The News Mill",
+      "summary": "",
+      "date": "2026-10-19",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWNsNXI4eUs1ekJ4ZTJjRFdCOWxuTVNZVkRsRktpeU5WTVEzdDlzMlE5dUxweXlSeHRCSm8zWGpVRDVRalVNZTZfbGlqLVJYZHMyQ3JINVZPcWstenFmSEphcEU0YnEyUzUtZFROMG9saVZGNmt4RjNMblBpWmdoUWdKRGFsbW50d25Ua2ZVWXFzQnFFRHpfeWpWSmkxbGk1RkdvZFdST3ZTNFA5bEVzVlMwUdIBtgFBVV95cUxQVENwelg4MWpZdHUtMVZ2ZTFjNUt4ZDN1NE5Lbi1JenVFS3VxV2dTLVMwdFNabDlJbm94akJxdkZaY3F6Ukk3dXF5NFhIYVM5SVk3V2tsMHlqZnF1Njk1UERreGpzbXJTZm1qT09PbkJib3dJU1UzUHN1QkR5d1hFeExMOVJJSEFoQWphRVRhdzBBeTBYLXNudmhwYW56U3dKZm1Za0JxREtQVXROOFN0b2dsRnVJdw?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdHN5UTFLWDRzZ09hZFlZWVBLQTdzaDVnTVdNTWNkazFITUNqVW9kQ3RTU0RYOVpKSzRQM0NBWTRvY3lsUlNOU1pNU0lsRXhuQVBvaTNsQThOQ1BPV3BsRG1zSHExdE13TGR4YnpkaENhTk0yYjZLYTZtWC1DMXFMM1VJNW1jSkRGNGUzamNyaC1HRFItSzc1UGdMa2sxd1FOZ1BTX2F5N1Q3Vm1qMmc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "PACS president killed and Maner block chief’s husband injured in Patna firing. A crime-related story. Covered by Rediff and The News Mill.",
+      "image": "images/pacs-president-killed-and-maner-block-chief-s-husband-injure.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "bihar-native-among-19-killed-in-chorbagan-durga-puja-pandal-",
+      "headline": "Bihar native among 19 killed in Chorbagan Durga Puja pandal stampede, confirms West Bengal CM - The Week",
       "summary": "",
       "date": "2026-10-19",
       "topics": [
@@ -59,14 +86,34 @@
           "outlet": "Urban Acres",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTDNGVXUtMDBZdTdRc3k2elNpUjBiSTh3Z05Vc2RkeTJUaS12ZWlHTF9qdzhFUUV4WE9INVM1TXFNN2NrU3B3QnEwMDZrUWZILUFKRGdDcmJ3dm9pVU1LLTg5WWg1ZkNndERYZlV4UjR6NVIxWkZKTllNeVc0UV8zRVk2N011bEU?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3dhQjlSYU9FRFcxaHF2NjdibDVsZnhWcS10OGd2ZHV3WHJHb21pYmRYb29MYVFGaXVEUjdKaHJ0bG9QcWR3VGk5d0pfM19MOWVBbmY4N3pvT3BFQU85eDlINHp3RkZWTkQ2X0dyX1lVM050TFZvMFpsRzl1VTRnd3lLSHVxaFpRaEVMQ0dzRVVqQlhnSFNVU19OeE1QQ0xmcWtqd25fMlNJRFZtUHRMWWhTcXN0aWNTdXBJ0gHAAUFVX3lxTFBEMkJST2dhNjg2Q2JTdUprQ2lvaWdUQ1Y3dGZoT0w2eThZQ1N1NFcxbmZQLXp1ekh2d3FmcFJyS3hPT3dIRVRHbXBEV3lGLS1qT3NvQUJKVkRFd2tkczVhRWFuczZjZ0xXVFI0cmVUbVMyUUVPZ05ab2F3WngtVkJwc2hsNE80SHJRN3JUbkc0bWJJM0lJbzRUT2kxNmFicGZVUzFOYXFrbG1xdUlpSzRaTzZIOFQ3TG1GNWlsbTdNTg?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzhBSzZVM0Q2elp6bFhOS3ZTcjFDamFpTUtVaFowWW1KZTQ3aklWZ3FvdW85NHpMM25kRWVGdEIyMHFKNTBEOTBYVlkzNWs2WXZhMld3Q1hNUjlTRWJGNndlUEZIbHpVVHJDdzBlaklTdUxaWGhWejdDWXhLM2ZMdGJRV3NCSUdMaHB5czIwY0I1Wk93TGt5T0JQRlI4VUxsVTRFWTN6VnhxOHFraWxCdVg0MXVwNlIz0gG-AUFVX3lxTFB6UFZST2NkaVh6aW50V3d3bzJ2Vm9TekFOUkZUY0lwVlY5R1NObDltcW8xY0xSWUJiRVlhWHNBZ01KM1FZTloxQzBLVm0zZkk4WE9pU3pOQWVkTkV2UURYOEdYZUFUNnM1bGcyek52S0t4LTVJRE1EYmE2MWxUcU9mcWpUMDhqLUxEY01lYWFIR3VRRGJQc29jZVF3dndoWDBaZE1EazQ4aTRTLW5KdzItemdkQ0tBaDNyNVhHU0E?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEZzLTNONlpjX1R2TDVUY09PU0UwRWZFM1g1YkNjdnNQbjg5UTRWLW1CQ0EzVmM3NlVzN1BtYXVORExwYXh2Wkl6QmxPenlEMTlncm5yaXBqNi1lWndBcjg1bTNBMlIyUnJDa01UTVV2R0JCOGtIR2pfbUgzbXF3MjNkM2QwNmRmeTFMbnMxOXRvUXh6OHFBTmFWbmVJb1lGTmVVS9IBqgFBVV95cUxNaGZ0cDJZNlhBZzFpSVFFRGUtZzctdnhsMTYwUFhEWDMxOVQwWG9vLTlmSmUxNnROTHZzODdoeHRZdXN1VWdQSG1la2ZkOTNIOVd0Z3VxRUhFQ1hEV2RVeWRNNUpUSVdNMDJ0NUtTNHV1VTVfR1QtdU1xSVZHZHRveG40WW1HREg2d19lMG04Ykljam14eG4wa2ZRR3gyckZya09ibHRYTktBQQ?oc=5"
+        },
+        {
+          "outlet": "The Week",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ3JzTWQ4SGJ0TkpSMjZEUzZxLU1qX1NISTZ1YlduSHpqTlJWaU1UamFCRXB1dXcxSnlDTDFrWHdkeWVqZmJhbmZVY05CczFJZXRReWJyeDI4V2tqa2R1MUhwcmxzVWZiY3V6QVhDM2hJSWF5aEFXbkVRbFRhR1dtZnR1dDdtUkVRTmY3ZG9lUEQybXJ6X2pheE5EMmZmZjZVTjkzNThOcl9YS3hGNUdPTzRxTVVsbTI3WlV5SElnX3Y2SEYxb2xBZ2Z6S3U1QdIB0wFBVV95cUxOZGxpaXQxTHNlTElyRjF1NUo2YXlETkh4d3AwWjB0b0RGYkhXekhkVjJWVzByVkFpS0JuQjZzX2V4TWNWX3lXNlFIWW44ZE10VFFaemJScXo1QXBfWTRNN0FCNzVvSXVSbklMelFwQno3dmpWYVFkSDFCZThtX2ZydEE0empKMHZVbVpXM20yemVGSDBpWEVqdXFRZ0xmN3Q5MEF1ck9vSTlMaWZhZmoyakYxdnBpeEtMVkREcVpOcVRkNlpnSlltMWVpTGNqLUg2ZGNJ?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Police tighten security at puja pandals after Kolkata stampede. A crime-related story. Covered by The Times of India and Urban Acres.",
-      "image": "images/police-tighten-security-at-puja-pandals-after-kolkata-stampe.jpg",
-      "image_kind": "placeholder"
+      "source_count": 5,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar native among 19 killed in Chorbagan Durga Puja pandal stampede, confirms West Bengal CM. A crime-related story. Covered by 5 outlets, including The Times of India and Urban Acres.",
+      "image": "images/bihar-native-among-19-killed-in-chorbagan-durga-puja-pandal-.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "bihar-stet-admit-card-2026-released-at-bsebstet-org-direct-l",
@@ -106,8 +153,67 @@
       "image_kind": "photo"
     },
     {
-      "id": "navbharat-times",
-      "headline": "पटना में दुर्गा पूजा देख कर लौट रहे लोगों को स्कॉर्पियो ने रौंदा, खुद भी पलटी , अटल पथ पर हुए हादसे से कोहराम - Navbharat Times",
+      "id": "bihar-neet-pg-2026-counselling-dates-out-at-bceceboard-bihar",
+      "headline": "Bihar NEET PG 2026 Counselling Dates Out at bceceboard.bihar.gov.in; PGMAC Registration Begins on Oct 22 - Shiksha.com",
+      "summary": "",
+      "date": "2026-10-19",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "Shiksha.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaXpCeUNUZWJ3VlNQRXZVOGs5ejFtQ3VXMHNpMFJGVFpOaWV4cXdkcVoyUnZoNm9tWUdYdnE4eElXZ2hVS1I3YTgwcVU0RlhuS2Z5aGFSV3dxd290U1p5UGFzVDBHN2JjMFpGMXNYcENySWFPUUE1NzVjb1IyTlMwRVVzOTN4REh3eUdaMGpBMkJpV2l4QW1KdEl2LUFZeVhCYm1qVC1mRy1IZkw3Z2xKV0R1ekVWaHJRNjZaUHVwUER4cGlSWHBvM3pTMkxGZE1DSmw5UkF0a0lVSDdLclczMTJscGM3ZjBQWDBxUGg2dkRpbHdZd1VlcHlDT25YSDRm?oc=5"
+        },
+        {
+          "outlet": "Education Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMjkwUmlGUXlNQzdvUUZJd19mVE5taTFiR1o0S3U3Q2twWFNpQ2QxcU9VejA3NEp1cmdOa2NWeG1RS1hjZmwxUEp1M0w5cFBhMWxVXzYwQzNMSWNuSWVZVVhuQXA3eVNyZVYxWkU5VFpHOVFnQkZPbjFtV2E3RFNKbV9ZZVl3eU5XVnVvTlU1cXVVdktXalc3MlUyd0xYLTc0NUVEVWd4emNZaUhDM0lmcHdISDJCbGdXTWttQkEwdWk?oc=5"
+        },
+        {
+          "outlet": "Shiksha.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU1BaT2NoVnl4X2c5XzdWY0huTWxoZ0NCUU5UMFJnaFJrSmpFUXFHUlJXRG93bFZzOUNfQVY1VUVJdGlLbGJ5LWViV09zVjRSTFZfMGpKeGRvM1hYeUZCMHJ3ajNsb1lqMGFOWS1vOVFjMjBQN2M2Uk1Yc3Ntek9FWEh0Nko0bGQxVmRqbTF6NmprZnVvY0F1Yl9tTkJGeDJkbFEzS0p3emh3UG1JOEt6X0R4VjVncWdsMk96OG5naExRbVVJVXduSmJxUEwwUG92dkdTeTJ4eHFYU0l1bjBUeWFGQjJJZnYtLXQyYTdYUjVxMzJoOF9FcWowTU9sdHQtdnFlSkI0bkI?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar NEET PG 2026 Counselling Dates Out at bceceboard.bihar.gov.in; PGMAC Registration Begins on Oct 22. An education-related story. Covered by Shiksha.com and Education Times.",
+      "image": "images/bihar-neet-pg-2026-counselling-dates-out-at-bceceboard-bihar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "dalit-hamlet-attacked-houses-set-on-fire-after-20-year-old-y",
+      "headline": "Dalit hamlet attacked, houses set on fire after 20-year-old youth's murder in Bihar - The New Indian Express",
+      "summary": "",
+      "date": "2026-10-19",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Observer Post",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUtXQ2F1VFJBdXhkVFhOX0J4TXFhUWVQemdoVjBWR1pCd3NSYndKZE9Ia3cwVnZ0R2xzX3dpX0taMHJGQzZRYnNXd245OE80YVc3ZjNXb0VTa09LSEhUTGdWdXJtRDhPUDhXU0JINlhJUUdBY3dXaEI5WUd2N2FhZm1WQk5ucWRodFpmeXBKUjhyVnUzTXRldmFDM3RiWE1wZG5IdjRB?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZDFWeGxPVHFyTEhBanZJVUp0SnJUalE5eVBQemZNajh1NFdPcmwwdDBhbHBiQ2lob2ZkOEFXN3JZWk9mVDMyNmJoOWZMQURWU01MX1hvX2NlNW5sV19SZTZXV0FtcXhtVTA2bGFnclZ3aTdSUk4tUXZqU1hGQ0gtUlpCZjYyalR3ei1RYWVWU2VKbHVxZXVvTEtQNnFTMkRGVnNXczNldng2b21qVklnVFpZNU9WbWk4eXZGcVVXSVhFcTNRREt2bjlYdy13c2JVckY2dXJ30gHjAUFVX3lxTFB3djRtT0RkaWZpSGV1MEhLbWpMb25yZlB5eEh5YzFaeWZtR05naHkwZjFDMGh5OXI2NmpKZ2gtNlFvT0RudkRPcVZVTVF5eHZFQVN6aEd5bmZOa3hDb0k1VG5UT0JFRkhUamN5SlUxWDM3WmVmTnJod1lfdUNMOWpYaGhxVi1vcWNlbHpWcDRoWTNMMTQ2emtPVnlkMU5kN29saTRDVXV1ZnVZRllEcV9odjJfZzNKSVhMWmo2UVZFeE1pUjU1bW40bEdqclMtRkRBVmtsZTdOV3dZOW9sRWlLajZJ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Dalit hamlet attacked, houses set on fire after 20-year-old youth's murder in Bihar. A crime-related story. Covered by The Observer Post and The New Indian Express.",
+      "image": "images/dalit-hamlet-attacked-houses-set-on-fire-after-20-year-old-y.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "2-100-dainik-bhaskar",
+      "headline": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उलछते हुए गिरी गाड़ी... - Dainik Bhaskar",
       "summary": "",
       "date": "2026-10-19",
       "topics": [
@@ -115,24 +221,24 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT21VdHpWdWw3cE4zNzl6ZkRKUkJGdGVKMnBndUhKSWJMcVFhWlFFTkpUQ3J1LXJwbzRlRHVaTkRnY3ZBS0h1a0xBS0NOek9UQ1QyRGk0bjlLZE1XZC01Vk8xcjBwNWotWlg3TG9waVgySUpJWWJEd05nWHBFR1VzY3dGaWk0M1BrUERNc01ySDZlZHpSY00xXzhzRklucHN0OHFKa0MtekxDME13djN4SThGbEkxWmkx?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUxDQ1huUDJUMktVQ2tiWm1EYWNBODFXLVJ6bUd0NmdaRDhsOXVOaTc1UEtUXy1OYmphaG1TeDJLQURiM3A3T0pvaEtDejhLLWc0UkpURWUzYTFqZnJXa1NBRGtSSkc0d0ItUnRhMTZBRVlnZnoyRkRuemZoeEtIUWUxSjhxMGI3dTM1clNJNjZJS1lZRlc4VXBuMG1XQTJDaTBSOUJoZXVrWXJySjRDZHBaOG1FZFFsNG1Tb21B0gHDAUFVX3lxTE5hR25DbWw1TVpqRlRua3FQeVBidVlPcUU1Y1JnM3JscmFWa2RNekZRbVMtYXRqOFgwOW4yd0VSdlczWUV6U0hJY3hxMlBwWlRfeE15bU1jcF91cjlLZUJOQTVWWV9xVE5wMHU0RTFSTmh4TUhqZjB6dFFlSmZLcE5FZ0oyNzJIQ0lTd3J1NjdkTGFqWlpnWVdXd0VpWWltdXlTTXd2aGN0M3Z4c0pRNVFzV1A3LXBQUEVsbklaV2pHaGpOYw?oc=5"
         },
         {
-          "outlet": "Hindustan",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHhGazd6MG9wVU9OSnA4Rkxnc1pzSEdSNmlwVXdBVEtoaE9QTGhCOUdTVGl6bjZMeU1tLU9LX0hKZ3d3dUM1U2d0N0loU2VVdkcyNVMwX1FocElEVWhIdmZaTk14U2pRRmgwWUF3djVhQ19Td2pHdV9QaFRfOEdIMERlbmE2T3ZVREN5bG8zdkpXNUVpNWVCbXZNTVpyYUF0SFlweWdkbmVSenNqRXkzdDd4amZfeE1IcUHSAb8BQVVfeXFMTmtCam15X3Q2MzBUT2w1bHE1eFJ5ZGttZmVIcGdVRXRtOUFVVHpIc0FZQW5yMHJWUkpaVlg5SGphdTJlckpBZkU4c0JKcWZablFaX1ZsSDV5SDdvRzd3Q0VHejB6QlJCU1dqdWpoRXl4eEhWUnl2b2I4ckRXOFMtWW1SVlBqTWZaNl94Szk2NnZ5bmFCc05lVkI3YlVWWTY2RnJLYUtrS2Nkd2UySDM3MWF2bUlOSnczbHk5b0RiU0E?oc=5"
-        },
-        {
-          "outlet": "www.bhaskarhindi.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdzdJdVZVclhyQWhIeGMyRWktTWx1emRuRTJ6cVgtUzR1eFdwSnAyTjVjZmlyWWtyX3pPdVZiZlhfX2M5NHpoWHJ4OVVQNFBNZ01naW0yN0pzcWs2TUphcEZUYnJfc3loWGJ3eGktbDVIbTJ5QUZpSENHY1h1aEVQR2FYZ2xESHZ2ZDktTTIydTZVb0ZGa3o5ZEVlaklXZnNDNEVuMWZuMFpISlpqaDFUXzktNk9Ndk54c05CVGUweHJiOHBwVWZTclQtSTdfQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJXZTQzSmFUaF9fc3Nwb3VTU0tEeDdCbnNUdl9nZ1JLV3ZkNFhUbklDYnhJSDVkQl9xYS0wY29wYzNrb1ctM3FvRVY3Y3ZEMlNIY0Jjd0NJcFdjT2drWFdOYjJ1eGExOEJ4R2x4SURJT2s3Zi1hcTlLMTN0N1VsSS10RjBHTzVSOHZqV005YkNwaEZubWxwNFZnREU5S2h0UXVjN2NTWUtCaWJvcUVzM2V5ajZPcHpvMXJ2TTF6SURUYV85SzRrVUV5dEZndw?oc=5"
         },
         {
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNm82M3lpRC1nZmhRbVNsTmRpZ1hhNElBckRhNDBtRERXMTNQZ3cybnRETWd1MGVnSTN1cU9oLUVSeDhwZnZLR3VENldROHpMRnhpRHNzTkRZajNnNWplRVpQcFRaSG1RN3kzX08yZ2hCTTlCczZEZG8tQkpVWUpPdFBrdVkzTzBEQU5PUmItOXJsZERSUy1GVS1FQ054bC1vSnJsU3l2emlNOW5QbW9iZWZFZm4zR1FuUFJnZUdzeE5TcndxSDVCRlV2aVQxWml4elpqN2puUjLSAd4BQVVfeXFMTk9USVBnblZWOGhJOFlRZlh2WVdvMlpWVkZzemRJQ1gxYWE4SEVPQm5GQ0E1LWltUTNQSnBpR3hXLTRhc2dRNzFjQmlRNzI3VGQxbUZWYklXSTlSWjEta0kycmo3YTdXODVyZ3BqNzFCM200VC0zeVM0Q0VZaWxhbVZBVHhBN3BGejVKNkJoY0twVzRlTHR3UHBScDdKX2xocGNmaW13UkZkWFhVREVreDJOTVBVcTJZQXFRSWFjV183Si1wekhCTjZwWVEwY09KQlhMa0JpYjViTW1PcXV3?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHhGazd6MG9wVU9OSnA4Rkxnc1pzSEdSNmlwVXdBVEtoaE9QTGhCOUdTVGl6bjZMeU1tLU9LX0hKZ3d3dUM1U2d0N0loU2VVdkcyNVMwX1FocElEVWhIdmZaTk14U2pRRmgwWUF3djVhQ19Td2pHdV9QaFRfOEdIMERlbmE2T3ZVREN5bG8zdkpXNUVpNWVCbXZNTVpyYUF0SFlweWdkbmVSenNqRXkzdDd4amZfeE1IcUHSAb8BQVVfeXFMTmtCam15X3Q2MzBUT2w1bHE1eFJ5ZGttZmVIcGdVRXRtOUFVVHpIc0FZQW5yMHJWUkpaVlg5SGphdTJlckpBZkU4c0JKcWZablFaX1ZsSDV5SDdvRzd3Q0VHejB6QlJCU1dqdWpoRXl4eEhWUnl2b2I4ckRXOFMtWW1SVlBqTWZaNl94Szk2NnZ5bmFCc05lVkI3YlVWWTY2RnJLYUtrS2Nkd2UySDM3MWF2bUlOSnczbHk5b0RiU0E?oc=5"
         },
         {
           "outlet": "Amar Ujala",
@@ -150,31 +256,21 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVlNNVhYenliUUdNVy1fZGlPQldoYzAyWDFBTm43ZXhFSUJ1SV8wTEhtLVNabm1Kc0dCejFMWVY4ZlgtN2ZZYjhoZU9icFpzTmh4VnlYWHQyREhnSFRBT3RkdDhIRHdHU2pKMXF6MmpzcWEwM2x2WGRmeGNSUjJtc3RkdS1NQ3hvckRVVmgwTEpZUVBPdHQxTGJDMzdJeEd6N3JLTk5vd0QyVjZZc1RLNzdn0gG3AUFVX3lxTE9oRkhBcmhOdVF3SHFGS0NxSTAyXzR3X3hDLXpRT01IakpSSGs2VnRFbFdQXzBfeFZoN1h3Q1Y5NEplOVVkaDVsa3h4NnM0VWVHQXFZcE5vZk9FeGItOHlOYmRqTmhua0RMSC1EZjhiNTNBRmw2eTZiTWtEZWdma3pzMmRNWGttV1FkU1MtYkVnNmc1NVpCWElUdWpFZVdjYzc3MTFvdHdiUFF4M1N3ekRjZGdlOWhETQ?oc=5"
         },
         {
-          "outlet": "Navbharat Times",
+          "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOWZlQ3NSYklWUlZRNWt2LXRQWmF5QXFldkd3aDdJNHdaTEljcGdDb0V6dlNoMnBVWXpHT0hwazlaRHgzY2U4ZTZGU3cyT243QmoxdHEtVU1QWmQxZzFjZ1hoR3FqY1cxZnRHTWV3MnRRMmRBdnVSV0JDVDhhSXVWZEYzMVJ0YWo0V0QxQ01TaU1OM2ZfM2hqMTBKd19Mb1FFR2wyUUl4Wkc5MjhuRklkWkVNY1BpUEZ4YVN0d0w0endoNk9QN0c0ay00dmctQV9UZkozZmhpalBQWUxzYUJYYmN6TFVpc3VPaVY3ZEl6TE8yQVlBajFNTtIB_gFBVV95cUxOMlItSW1sc3FSXzV4dnpMRXdXUUMyeEtmRTBKUVp0RGd5cFRQenhYLTJVOWwteTBuRDhpVmZ0QTcySjIwUk56Vk1RdW4tTlFZWkl2Slh2X09rTVhDWkdNa2lLMEszLUFIamtYYmc3Z3Q5QU5MRlR1MXRDcWFLc1JDTGZ4TVljNnZpSl9xaWNjU1hCSmRQM0xZZFhrMGFRQ29jblRjbVlmTV9RSjQzZ3BMUWh2TXhkRkUyVU5DWUQ2bEh3NEp3dWRSNUpCWnFlR010QTB3NUEtYzEtUkJ3R0Yxd2RIQ3RwOG5uM3JZZFd1SG9tZXl5UmlXcnFtLTR1QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT21VdHpWdWw3cE4zNzl6ZkRKUkJGdGVKMnBndUhKSWJMcVFhWlFFTkpUQ3J1LXJwbzRlRHVaTkRnY3ZBS0h1a0xBS0NOek9UQ1QyRGk0bjlLZE1XZC01Vk8xcjBwNWotWlg3TG9waVgySUpJWWJEd05nWHBFR1VzY3dGaWk0M1BrUERNc01ySDZlZHpSY00xXzhzRklucHN0OHFKa0MtekxDME13djN4SThGbEkxWmkx?oc=5"
         },
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "www.bhaskarhindi.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUxDQ1huUDJUMktVQ2tiWm1EYWNBODFXLVJ6bUd0NmdaRDhsOXVOaTc1UEtUXy1OYmphaG1TeDJLQURiM3A3T0pvaEtDejhLLWc0UkpURWUzYTFqZnJXa1NBRGtSSkc0d0ItUnRhMTZBRVlnZnoyRkRuemZoeEtIUWUxSjhxMGI3dTM1clNJNjZJS1lZRlc4VXBuMG1XQTJDaTBSOUJoZXVrWXJySjRDZHBaOG1FZFFsNG1Tb21B0gHDAUFVX3lxTE5hR25DbWw1TVpqRlRua3FQeVBidVlPcUU1Y1JnM3JscmFWa2RNekZRbVMtYXRqOFgwOW4yd0VSdlczWUV6U0hJY3hxMlBwWlRfeE15bU1jcF91cjlLZUJOQTVWWV9xVE5wMHU0RTFSTmh4TUhqZjB6dFFlSmZLcE5FZ0oyNzJIQ0lTd3J1NjdkTGFqWlpnWVdXd0VpWWltdXlTTXd2aGN0M3Z4c0pRNVFzV1A3LXBQUEVsbklaV2pHaGpOYw?oc=5"
-        },
-        {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNd042MWZqWjFJaGZkbnJnNUJkYVNiRzJGM3hMOEFWdDlUeEZubW9Tb01XSE9rUVVkT28wUXIxbi04T2FoR0lPSkRuQVFVZ2ZBSXVFY0J5bk1SM3hqVjFERERJYVNNRVU1dEliYmdCSnBZcU1rNy1QSlE0eXFiUXlKYUs4MFdkMk9oSUplbGM1ZG5VcXJqajVWclUwdWM1b1VFUnBhaS1tY1dSOTAyX0kxU0x1MmwzMm04blEzM0pLLW05Q2dBcHJiMzdJVndwNGxKMm5VTVFncHZ1dVZyT3pUWmU4VWZmUTBvOFN3djBrMU0xQ0FMZmpocUc4dGJWYVdWb2fSAYcCQVVfeXFMTVlYVXpGRG5ndUdfZlRqVE1fLUJqLXBUM2cwUF93TFVYeE9zTC0wbXl5OWhNUnJURDN3WEZWU05fWDRodGlaQm1TWXJESGJPWHRYRDVtNEdTZTlubzBJY1lxYmpsY25wMlZsRERvUDNDZlhULWJPN1hNV2E1YVAxcTJlXy1peVdVaGZuODBCYXNZUV9zWE4zZk5WUGRFRXFWVDhDbmdfQXFwdW1nSWNkdWlrYnk3ZG03dF9PODVjRVlWWHNwZHI4UFJFeno3VGZfZTVCelZuR0pXamlZX3ZUZmd5ZVlKekFic1JWd1YyV3FRbXZLM0swOE9YbFRETzE4VXNRY3lrTXM?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJXZTQzSmFUaF9fc3Nwb3VTU0tEeDdCbnNUdl9nZ1JLV3ZkNFhUbklDYnhJSDVkQl9xYS0wY29wYzNrb1ctM3FvRVY3Y3ZEMlNIY0Jjd0NJcFdjT2drWFdOYjJ1eGExOEJ4R2x4SURJT2s3Zi1hcTlLMTN0N1VsSS10RjBHTzVSOHZqV005YkNwaEZubWxwNFZnREU5S2h0UXVjN2NTWUtCaWJvcUVzM2V5ajZPcHpvMXJ2TTF6SURUYV85SzRrVUV5dEZndw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVG1fSlEzRzRIMmVleE9zODh6N2NyRjd1MndsYVU4ZGtIWVgwMFU2VnZ0eHRwSU1yV0RkYkRqZHhDMTJqb25WMnZ0RVRJcEROZmdfbmotbE5BMUsyVnZFZGxLLUFiNG0xM0EtQlBrWnk5VEg5NWlUMmhOd0RYVTBDNnhwNlRBUnhRS2xkOFhKaGxxNVlVZEZrUUQ4Z2lfZFNKWjBZQl9URXJKSU1JRXZzb2hRQ0wxWlVtcFh3?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना में दुर्गा पूजा देख कर लौट रहे लोगों को स्कॉर्पियो ने रौंदा, खुद भी पलटी , अटल पथ पर हुए हादसे से कोहराम। इसे 8 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
-      "image": "images/navbharat-times.jpg",
+      "brief": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उलछते हुए गिरी गाड़ी... इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
+      "image": "images/2-100-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -204,6 +300,11 @@
         {
           "outlet": "Dainik Bhaskar",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGpib1lsSzB0Vk1rZ0hpRFE3UUxqQzh3RGpEZ2JTVmlzYTBNRHAyTVhlUTZlbkRPbWh5RzFzQjEwMzFZNDhtVjVjQWJ6QUxWZHJraExqRlVuNW1iYmh1djlHNHJuLUxnVUNzZXR5NVp6Q3N4YWZuUmxJcHQwWm93Ui1aZVZJMFFFdlpmak8tZnY2X19ZYnc0N3VDcUI2cm9yY2VJak9xUGs3anRPbk92OUc3MzZNSEhUQXpWbG5Ld3Q4Qnpi0gHKAUFVX3lxTFA4Zzl3VExidktxRldkVndqU1VrSmpBVU42OVB3d3BnWGhkTDY4LUR3bXJueGZ1RXhHeFZmRFlxeFJfOVVsTjN1RFNxRktwUEZyeVZqRWVqYUVXeFlnM3hwY1laZDJnbXliV2dUdXA1SUQwME12ZkJyTkZnZURlajNoazhVVjZoTTFCd0xZbFVsamRPUDhLb1QxWVNFa0VKbkxiNl9iX1h5YVZZRVI3SWJSR0poSC1jeHozN05sOUc5eE0yUjdGMXFoU0E?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFRTZ21zUjJuNlFGSVdYWFJoWDNxOTl0ZVA2b1hvMzNaT3FkSEUyNUhLdGIyMklnNU5tN01hN1ZnMjRnMmZkME5veXBHeVJPNndseHBYYUFTR0xFRHYzUW1TcGgwYXJpeVQ0S0w5d28yU3JHOVRTQlg3c2ZNSWs2bXJJZlpGWDlNZHAtVmVXUWdKeUxzcDR0OVN2cGJsRmRJOUxid0lhY3o5OHJIQlF0ajA3dlZ0OVJZeGxMLWNyZ1p2WEZiQlVn0gHMAUFVX3lxTE9tb21rc2kzTC1GVTRJX3RGTWRoSVRxTW1ZeFhvcHFpZnBVSGZ2Yy1sWEJFSWdzSk9ObXNfOGpCaWFCR0hsNTNwSmVXRXpoN014WVBwTE9yZ19tenlJenZRanRXMmlnQTJMZ2lCVW1FZlBwZjdvNnRJczNPczhPVV9kd25oYkMzNlB3ZDNyQmdReV9xUGpzbWtfeFU2S0V2YXVQMGFmOE5uSXRMY1pQMk1zTnZJQ1ktbGY5OXpwSU9XeXROYWQ5SVhpa3Q5Mw?oc=5"
         },
         {
@@ -220,17 +321,12 @@
           "outlet": "ETV Bharat",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTWgwejg1U3ZWb0FSSnJqSk9PbFI5dWpIOURmbE1KMDhHSmQtWldWUm10d3FqMWZNNE93UExVVWR3dVd3bkR0LXlVRmJnNm5HS0g0ajNGRTV0RXBCTjlVb1Z5OEt3V05oV3lzYXJENVk3SndOWl9BRFJsZExnUmI0SWxRRUlDTTJvZHZmUU5oMzdlZm9PUGx3Rk9iczUyTDNwZkQ4T3FYQjZPQmZtXzc3dmlsUS1LUXp0cndqaVNTRHVoLThfeVhoR1BHVnd6elk4Vkw3UC12aFFrbmfSAeABQVVfeXFMT2ttN2dsVV9CU1haY2xQZDZWOTBJYWtFOUF5MW5sVVB0LUxLVl9wVWQyc2VJM2dZTkltWXZ1MHI2TU0tT0xRcmRiNkxzTnRMQ2JvVEZ0NHNzUW9TUkFURFp0bmtEMlZlU01VNmNHVnNFQTNTVl9EcXpRYkVZNTd5d2NSbENhbDVBWkk4QThET3p1T2djbUVQT2pZMlp0NUVaZGdIaTlqWlJQVElJZjVEdm5VaG1SOVQ0MXB4MGM5WXR5RkFXaE9xZzhvckVfNXVBSi1nblNTbmc2aGhoTlR4LUo?oc=5"
-        },
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU0VuZ3BYTThyRlZIc3BuTExMdEJRa1NVMGt2OHgzNDRfOTdGWk9lQTc3X1g4bnFmMUc4NjFqTl9oeEZkSGRXY1phTnphQ0RkU0xNV3JXZmliaUNBWVF4TV9oaFg5cFRWQUhzc1pXZ3BnNFpqVjZZbjJKaGlaQnlLVmYtTE1LUHUycGdvZVhPSUk1N2habFpmZE84RlVMMjJYdFg3cVV4N3dzYmlZTmxMWHNOSTVFMkZhNGxlYlVkOVpUbHlwc1IxeFoyYXRvSVlsSDZHN2F4MkVHV2p4MUpWaVotNXN1eHRIN1Q1U3hWVlNFc29iQUd0em9OSzRLQTjSAYQCQVVfeXFMTWw0eTJqYXp5NUwwZTZOY2ZlZ3ZPUzJ1Q3ZKNHdJczUyelNkUDBpaW5RYWl1alA0ekEwcjFPMmtMSjNzeU1vSGxoa2F3eHdrTGxtaVd3b3Y1MFRpUk9VS1JaakNDM3IzRmtKdE5aVzdaMEFGLTYzYWR5Tk14VzJTVE01YnRlS2dPS0pHXzJJMzFTeUNsblo3Mm9fc0NqZkN4ajFFNmNoMnlqTjlkV1BjVFVzSC1rNkNQd1FuWHNBcm5DM21rMU44NVFrYldrcFJVTjBEejhtVkpubmlVdEw5Mk5ZUjJya0cxWG11bTZUVHBtLXhDa0xWNTRfcWhhZXdOOENMcTQ?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना के मनेर में पैक्स अध्यक्ष की गोली मारकर हत्या: बचाने पहुंचे प्रखंड प्रमुख पति को भी मारी गोली, दो बाइक से आए थे चार अपराधी। इसे 8 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
+      "brief": "पटना के मनेर में पैक्स अध्यक्ष की गोली मारकर हत्या: बचाने पहुंचे प्रखंड प्रमुख पति को भी मारी गोली, दो बाइक से आए थे चार अपराधी। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
       "image": "images/prabhat-khabar.jpg",
       "image_kind": "photo"
     },
@@ -305,43 +401,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-suspends-top-officer-over-deaths-of-14-children-in-vai",
-      "headline": "Bihar suspends top officer over deaths of 14 children in Vaishali boat tragedy - India Today",
-      "summary": "",
-      "date": "2026-10-18",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFE3VFp4Z05HZnZBYUh3cks2OEpDd2xPMlNvYnhBNnYxTlgtUE1Jay1KVE1ZUTBVSHdzbFpFelJKVTY1NWRPa2U3MWRDSkFpdWVNQUxQemt3NzdjM0pLc29XeFZrT0lrZzNyd2xHUEtuTmhZcFFvbUhCa1hkWV9uV2xOdjRpMzNxSlJOZXFqNlBIcTdoRFdlT29hUVFzLWRza00zQU9UeWt2Z1dNbS1qc3Q1eUl3a2J4ZEdB0gHAAUFVX3lxTE9ZRVlVb0JWMnNqalFUSjBLbzZYdzdUTGt2RTFrMDhsdjB5R0g3c2xMbzJ1d1UxY1UwMmpLLTA0dGlEQUtWX0VpOHVuS2kwX3p5YzBDUU0xdHREOEk2Mk1ZTG44eGZPazREZHg4M3Z5b3o1Uk52aHhuYVQtRWRMa0tXZ2NIcms1UTQ4QlQzSkl2cmtlZ3dEbnE0bnhodlpNSWx4VXU2ai14Y0ExVDBneVYtWEVOb19hVENYbThUQ1FjaA?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmF5VGFyNGlYM2lVQUZrNkVZREs2UEhVcGpibWR6anByUXhEYU5GS0M0bFlSei12ZGF2QkVjUjJQRkdKS2xaeUN6SGVFQ1RtMWxyN3BOLUhUR3RuVl9UTmZJQlpqby1nTUZqV29pVW12cjVyaFZERzhFRlNjWDhsTHNkbDlUUXNPVkdQeXJZYlFHZUZrb1Z6VkFDcm9SWlY2RVA1bWJvWTU1VjZ3eFRJXzlOUjRLZVdGRlFER1o4bXpUVllPUEhB0gHMAUFVX3lxTE1NcFpoQS0zX0lHVkc5X21UQjJpdmdPaldTZ2JkZGFHUTktRTV3ZnAyLWlzSEhUcXQ2a1hKQ0RtaFNILW1sU0tBTVlHdkNJdEdfYWFSYmZ1dDJST1NVd1BTYmtYQzI3OUwtTXU3bzRjaFFJZ3ZqSFU2UDAzaW9fYmNtMXRqQndYRmNIanJwb1VHRkJ0N3NELUgtV2VWcWlaZTdudEIwZkNqRmd0TjlfTEdFdm9VYWQ4TnJ2cGNVMkg1YVJmbkIycDZyeXdpMQ?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVFpFOXhUTGpfX3ZuOHhQekljT2h2bzlaT0phYUwxTXpoZVdNcG45M2VGWVJ4VWd2bEQ1LXp0RERGOEJOelJlZmRFblphQmpOY3BPNXE3MHpvMnZndVRZcnl6Y1ZHS190SVMzVmViczBMVUhFSGd4VHg5ZzVqZ1dLTlJIN0lPczNRM2tvQm1LYldZSUtFMjlzWmRENnR6Y3VuTW1taTJ6TC1oSHlKTnZScmUtUFplUWE5OVpTWG5FeFZIUU9kTy12ci1hc0R2Z9IB1AFBVV95cUxNWHhZRnNhMjMwbGFZQV9JNmY4cXJGTk1xanp4Z3lLNmstRzJXX1FIYUlROHE1RXZ0WlRHRjhMTEpLS1h0ekpybnJJc0dQaGdvZjVWR2dXTnItUUxnQ3poODVHYXFwa3FnSHZKQ19ueFg2UmdlbEpBZnpyMHQtQ2NkNWRucnZ0aUgwVkZWYzVfU1g3aUxrN1ZhSm85YkV3YllUNXhhUEJPUlY3LU5qamR5S291UnlNWWlmYkZhTGFZUlpaYmhGaXJBQkZvanVPWUNUVFhIZA?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUE5tYjkxdzllaUxhRzBGYWUya25sNHJ6VW5MQlduVkM4VmpFZFA0VUdxWWRuZU1MUWNodVEwVjc0MUQ1NVpOT2pNZFpkcllQenpYQUhDYVVBdWdmOUlpZWNpVWpDWmh4a2tRcEtwOGdWTVZoS3NyVHY4UTk3RThCN21SR2hSQUFUZnBJZC04X2RiNjFQY3NaQ2hHVWpiUTUxY1ByQmxqVkJKTG_SAbIBQVVfeXFMTTkwc2l5MHQwemZyZ0Z2RGk4S2tLMUZyUDlyd1JlUjI4OVFqSF9pNFc5cGZYS2ZWTnJqZEg4ek85bjMxU1U1SHJQYW1tbkFPT0lWalpqYnBlMDdDbVlXYnFNVWhBcno3a3dpUlBNLVFLR29BN24xVTJpSkJ6YlhnM1A4b1p1a0xXLUNtREgwMGxHSHJ4NmZUbjVRaW1EZVVWNjV1ZDF1Z3pUcUZmSmU4Zmdvdw?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar suspends top officer over deaths of 14 children in Vaishali boat tragedy. A civic-infrastructure story. Covered by 3 outlets, including The Times of India and India Today.",
-      "image": "images/bihar-suspends-top-officer-over-deaths-of-14-children-in-vai.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "vande-bharat-special-to-operate-between-delhi-and-patna-for-",
       "headline": "Vande Bharat special to operate between Delhi and Patna for Diwali, Chhath: Check dates, timings, stoppage - The Economic Times",
       "summary": "",
@@ -372,33 +431,6 @@
       "brief": "Vande Bharat special to operate between Delhi and Patna for Diwali, Chhath: Check dates, timings, stoppage. A civic-infrastructure story. Covered by 3 outlets, including NDTV and The Economic Times.",
       "image": "images/vande-bharat-special-to-operate-between-delhi-and-patna-for-.jpg",
       "image_kind": "photo"
-    },
-    {
-      "id": "bihar-man-seven-year-old-son-among-19-dead-in-kolkata-puja-s",
-      "headline": "Bihar Man, Seven-Year-Old Son Among 19 Dead In Kolkata Puja Stampede - ETV Bharat",
-      "summary": "",
-      "date": "2026-10-18",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEZzLTNONlpjX1R2TDVUY09PU0UwRWZFM1g1YkNjdnNQbjg5UTRWLW1CQ0EzVmM3NlVzN1BtYXVORExwYXh2Wkl6QmxPenlEMTlncm5yaXBqNi1lWndBcjg1bTNBMlIyUnJDa01UTVV2R0JCOGtIR2pfbUgzbXF3MjNkM2QwNmRmeTFMbnMxOXRvUXh6OHFBTmFWbmVJb1lGTmVVS9IBqgFBVV95cUxNaGZ0cDJZNlhBZzFpSVFFRGUtZzctdnhsMTYwUFhEWDMxOVQwWG9vLTlmSmUxNnROTHZzODdoeHRZdXN1VWdQSG1la2ZkOTNIOVd0Z3VxRUhFQ1hEV2RVeWRNNUpUSVdNMDJ0NUtTNHV1VTVfR1QtdU1xSVZHZHRveG40WW1HREg2d19lMG04Ykljam14eG4wa2ZRR3gyckZya09ibHRYTktBQQ?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzhBSzZVM0Q2elp6bFhOS3ZTcjFDamFpTUtVaFowWW1KZTQ3aklWZ3FvdW85NHpMM25kRWVGdEIyMHFKNTBEOTBYVlkzNWs2WXZhMld3Q1hNUjlTRWJGNndlUEZIbHpVVHJDdzBlaklTdUxaWGhWejdDWXhLM2ZMdGJRV3NCSUdMaHB5czIwY0I1Wk93TGt5T0JQRlI4VUxsVTRFWTN6VnhxOHFraWxCdVg0MXVwNlIz0gG-AUFVX3lxTFB6UFZST2NkaVh6aW50V3d3bzJ2Vm9TekFOUkZUY0lwVlY5R1NObDltcW8xY0xSWUJiRVlhWHNBZ01KM1FZTloxQzBLVm0zZkk4WE9pU3pOQWVkTkV2UURYOEdYZUFUNnM1bGcyek52S0t4LTVJRE1EYmE2MWxUcU9mcWpUMDhqLUxEY01lYWFIR3VRRGJQc29jZVF3dndoWDBaZE1EazQ4aTRTLW5KdzItemdkQ0tBaDNyNVhHU0E?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Man, Seven-Year-Old Son Among 19 Dead In Kolkata Puja Stampede. Covered by ThePrint and ETV Bharat.",
-      "image": "images/bihar-man-seven-year-old-son-among-19-dead-in-kolkata-puja-s.jpg",
-      "image_kind": "placeholder"
     },
     {
       "id": "most-sensible-prashant-kishor-calls-nitish-kumar-one-of-biha",
@@ -433,7 +465,7 @@
       "image_kind": "photo"
     },
     {
-      "id": "navbharat-times-81d186",
+      "id": "navbharat-times",
       "headline": "बिहार टेंडर घोटाला पर पटना हाई कोर्ट की तल्ख टिप्पणी, कहा- कुछ अधिकारियों को बचाने की कोशिश का संदेह - Navbharat Times",
       "summary": "",
       "date": "2026-10-18",
@@ -456,7 +488,7 @@
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
       "brief": "बिहार टेंडर घोटाला पर पटना हाई कोर्ट की तल्ख टिप्पणी, कहा- कुछ अधिकारियों को बचाने की कोशिश का संदेह। इसे Navbharat Times और Amar Ujala ने रिपोर्ट किया है।",
-      "image": "images/navbharat-times-81d186.jpg",
+      "image": "images/navbharat-times.jpg",
       "image_kind": "photo"
     },
     {
@@ -474,11 +506,6 @@
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXdkeVJSSjZRQ3JNcFlucG85ZGtSbVZaMjFTZF9pNmF1Y29mUW44dThNUDZkTmVUVjhZWnRCUW90YmFrT2hiMzk0WGY2TmxtRTFfZmNwU0hSckhtcEl1UERoNVRTZnM0R01RVERBSkVoeVhpQzJTdkpaaE1mOWZ4a0JpRG1DT2E5ZWhHNThZSzBxQ2lqWTk4U0Zya2swYnFQQW54TE9ZQ1pZWkhKamZMSUJvMjg1cWFEVU1vQUR2emh5ZUJmbkNBSmt2UkxULUdIdEpDMzlKaDU?oc=5"
         },
         {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDk3OXJJREk5MjEzeGdxVkJydHZvZXpjUHdoWlpQeEVTSFRXMy16WVFVRDZ6RjNyX2hQVFJzZE1SUnhidTMxZm9hbjRnalBwb28yaDFxcHI1UDJTeWZzekZMcTVSMGlSNWNTZDRucklTYV93QWRMTThhWHFUbDlrTVJHT2loUnJsejlmZ2JQaUk0bFFhbTF2bHI3dmJIWTJaQlMxWFpaV3J3TnM4TUdIMEZYVFZtWWNSQzR5LU52dENBbHVTYXJfTlc1Yjg0WmRrcXRDNFBLQXR2U2Vu0gHiAUFVX3lxTFBUT0w5N01BNUp4eVJXYkVKQ1kwdWxzWE5pd1FReGIzbUsxaXkxTHc3VUYxai1pbFNtNkViNkZwM3RYUTJCcWZIVDNDR1ZDVUI5elZPaVAyR3ZBR0p2eVJ4WmdMb0d3ajh5RDUxSGlyazNldkZ0ajByOGpkN0NsT2JBbkMwdFVseUtlUnhyREd4OTVGUVlvS2pwVkRzN0F1UWl4R0ZYcjhpdkJlVjlBUzlGaTRQd3dZNERMcVBJX0FmcGU3RVpfaGp1QlJUTWh6NDlXNk1QSmVGLUpoVUNJWmRuWFE?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXI5aUJjRGNUb2Nvc2V6RmVqZXpjVmJNVzk2eHlXOWtlNGlJcnB3SkJTU2ExTmk0VkF3Q2RlU3BaLU11ZU0tUDhrbDgyVVBrWmIzOU52Qno3VWNNZm91QzJ0VFJKLXp0UUROSFhtWTNFT0lQSW1weW9ZbFFRMWM2UXF6czZleU0tQ2RSN2JLQnpFR2hsNTlpZFdqcnlEUjdyMmJpdGIzTm9JNTdiZjgwbUYwRjhFZEdQQ1BNWDdB?oc=5"
@@ -492,12 +519,17 @@
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS2ctLUc2QmRlY2lOeVltUFFBdlBWclFHM3hTdXhFWHBZQXRUckRfamlEU3F3MGdzRlhXTkZBejQtVkQ1eWdLV0RJTTQ1anNDTGVqS2IxZDRWYVU4U29hTDk0QlBCOG5mRkx1bk1fVENuLUZtdnU0b0JzYmZSclNLUVZxNmNKX3F3WEx1d2tnc1ZxeEtKcV9FQUNtc0NaY3lQcUJ2Ti1SdDJPWE8xQkVLWGFXR2VTLVJBMHoxZ2U1cVhXNlJ4VzdKdU9mYw?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDk3OXJJREk5MjEzeGdxVkJydHZvZXpjUHdoWlpQeEVTSFRXMy16WVFVRDZ6RjNyX2hQVFJzZE1SUnhidTMxZm9hbjRnalBwb28yaDFxcHI1UDJTeWZzekZMcTVSMGlSNWNTZDRucklTYV93QWRMTThhWHFUbDlrTVJHT2loUnJsejlmZ2JQaUk0bFFhbTF2bHI3dmJIWTJaQlMxWFpaV3J3TnM4TUdIMEZYVFZtWWNSQzR5LU52dENBbHVTYXJfTlc1Yjg0WmRrcXRDNFBLQXR2U2Vu0gHiAUFVX3lxTFBUT0w5N01BNUp4eVJXYkVKQ1kwdWxzWE5pd1FReGIzbUsxaXkxTHc3VUYxai1pbFNtNkViNkZwM3RYUTJCcWZIVDNDR1ZDVUI5elZPaVAyR3ZBR0p2eVJ4WmdMb0d3ajh5RDUxSGlyazNldkZ0ajByOGpkN0NsT2JBbkMwdFVseUtlUnhyREd4OTVGUVlvS2pwVkRzN0F1UWl4R0ZYcjhpdkJlVjlBUzlGaTRQd3dZNERMcVBJX0FmcGU3RVpfaGp1QlJUTWh6NDlXNk1QSmVGLUpoVUNJWmRuWFE?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
+      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Prabhat Khabar शामिल हैं।",
       "image": "images/2500-88-km-jagran.jpg",
       "image_kind": "photo"
     },
@@ -524,11 +556,6 @@
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUZrUnZuVWFZRkxMTzZkQ0diejljZ0gyQm5vWDFwMWpGRU5MdDFkTFR2NV9JWnlfU0ZWWGNzOThPd2ZwUGhtWEtSTExQajFET1Zaa0oxODc2c1pYdllSbFlZc2dZTnlTRnRDQmlwWnVNLXBHRmp1RXNBMmJ6ZGFDTkRvV3UtR1NX?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREZVOEhPNmIzWE5ZN29IZzFFMUloc1NOVklrMDU5SlBISS05c3JNdTlEaElINmV3b2ZCVmxheE9vdXhWeDVSTFZaSFNvNW5CcnBfRzRKQ0xicGRjY3YyZlpPVHV0aVpsWFZzdEpkUWt5NktvRVRXSm1tcE9ESnZERWI3amM4R0xaTTFjRVY2OHU5SDZ6aWpYVEJzQVU?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -649,6 +676,33 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना की प्रखंड कृषि पदाधिकारी राजलक्ष्मी की डिलीवरी के बाद मौत, अस्पताल पर लापरवाही का आरोप। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
       "image": "images/hindustan.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-suspends-top-officer-over-deaths-of-14-children-in-vai",
+      "headline": "Bihar suspends top officer over deaths of 14 children in Vaishali boat tragedy - India Today",
+      "summary": "",
+      "date": "2026-10-16",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFE3VFp4Z05HZnZBYUh3cks2OEpDd2xPMlNvYnhBNnYxTlgtUE1Jay1KVE1ZUTBVSHdzbFpFelJKVTY1NWRPa2U3MWRDSkFpdWVNQUxQemt3NzdjM0pLc29XeFZrT0lrZzNyd2xHUEtuTmhZcFFvbUhCa1hkWV9uV2xOdjRpMzNxSlJOZXFqNlBIcTdoRFdlT29hUVFzLWRza00zQU9UeWt2Z1dNbS1qc3Q1eUl3a2J4ZEdB0gHAAUFVX3lxTE9ZRVlVb0JWMnNqalFUSjBLbzZYdzdUTGt2RTFrMDhsdjB5R0g3c2xMbzJ1d1UxY1UwMmpLLTA0dGlEQUtWX0VpOHVuS2kwX3p5YzBDUU0xdHREOEk2Mk1ZTG44eGZPazREZHg4M3Z5b3o1Uk52aHhuYVQtRWRMa0tXZ2NIcms1UTQ4QlQzSkl2cmtlZ3dEbnE0bnhodlpNSWx4VXU2ai14Y0ExVDBneVYtWEVOb19hVENYbThUQ1FjaA?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmF5VGFyNGlYM2lVQUZrNkVZREs2UEhVcGpibWR6anByUXhEYU5GS0M0bFlSei12ZGF2QkVjUjJQRkdKS2xaeUN6SGVFQ1RtMWxyN3BOLUhUR3RuVl9UTmZJQlpqby1nTUZqV29pVW12cjVyaFZERzhFRlNjWDhsTHNkbDlUUXNPVkdQeXJZYlFHZUZrb1Z6VkFDcm9SWlY2RVA1bWJvWTU1VjZ3eFRJXzlOUjRLZVdGRlFER1o4bXpUVllPUEhB0gHMAUFVX3lxTE1NcFpoQS0zX0lHVkc5X21UQjJpdmdPaldTZ2JkZGFHUTktRTV3ZnAyLWlzSEhUcXQ2a1hKQ0RtaFNILW1sU0tBTVlHdkNJdEdfYWFSYmZ1dDJST1NVd1BTYmtYQzI3OUwtTXU3bzRjaFFJZ3ZqSFU2UDAzaW9fYmNtMXRqQndYRmNIanJwb1VHRkJ0N3NELUgtV2VWcWlaZTdudEIwZkNqRmd0TjlfTEdFdm9VYWQ4TnJ2cGNVMkg1YVJmbkIycDZyeXdpMQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar suspends top officer over deaths of 14 children in Vaishali boat tragedy. Covered by The Times of India and India Today.",
+      "image": "images/bihar-suspends-top-officer-over-deaths-of-14-children-in-vai.jpg",
       "image_kind": "photo"
     },
     {
