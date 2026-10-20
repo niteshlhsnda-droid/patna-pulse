@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20 06:35 UTC",
-  "generated_at_ist": "20 Oct 2026, 12:05 PM IST",
-  "story_count": 52,
+  "generated_at": "2026-10-20 07:35 UTC",
+  "generated_at_ist": "20 Oct 2026, 01:05 PM IST",
+  "story_count": 54,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -62,8 +62,35 @@
       "image_kind": "photo"
     },
     {
-      "id": "bhaskarhindi-com",
-      "headline": "बिहार जदयू एमएलसी प्रत्याशी नीरज कुमार की तबीयत बिगड़ी, पटना के मेदांता अस्पताल के आईसीयू में भर्ती | ?????: ???? ?????? ????????? ???? ????? ?? ????? ?????, ???? ?? ??????? ??????? ?? ?????? ??? ????? - bhaskarhindi.com",
+      "id": "6-dainik-bhaskar",
+      "headline": "पटना-बहू से अफेयर में चाचा ने भतीजे की हत्या की: 6 गोलियां मारीं, पिता बोले- पूरा परिवार शामिल; बेटे ने बहु... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-20",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeDNIU1BEYU9ZS043S2UyYzVsaHdIWFJtT1dzMk1icHBXVllRUFlITF84WS1LU1lQZWpuYlJpVUkyZEs3SWFZYjNnbF9ZUkV3MHBCbks3ZlJ4LWFkTVA2ZHFsU3BYZ3QtSHF6NHFURExUWWVBTGtvUmx2RWVIbVZ6c0M4R2dOT1hIT29vSnBRUmRpVWdnZDZJQ2YtbERIRUEtSVlEc0dud1ZuNFMxVW8tUXBQNU9tMnoyclNvTzJ1YjRpQ3l3bXhKU3gzblRQSU5Pa3FUbXVMeW_SAd4BQVVfeXFMTlYwek9QRUlRZmpudXFpMWl0N2EyR1RWQ2V5bDFGSTh5Wm9HWWhFa3pFMVdHMVd5QzlMRlNZZE9vZUxlMEd6eGVvd1Vkak4xc2k3b18tUlpjazJKZnFSSG8xV05oX3JDNER6NnVoQ19hUG5yck9GbkJ6WVEwb3hSVDgydWpIY3pvVHcwUkZkMlhOX2F0WTVTa0FHd2JIMmpJMUJFb2xqNU4wbXZNMlVrRnRFUks5dHFHSVFKaG1ua3FTUkdzSHMzNzQ5S0xiY3R4X2RaTWRiRVFfX2VtUXlB?oc=5"
+        },
+        {
+          "outlet": "ABP News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTUx1N2xRYmdKUDc0M09pRlZObGJMSFRXMHlveFdZWENiY3Bkem84OU82RC1qWVY0b0U3WlNLQ0dsemdRWm5kUTV5UlFidHBfdk9NYlhuYWFKcFl1RWpLWm9QbHNCZTlTTTE1S1F2WkpxZlBPMVloRkZUYmFKZ1V2VFdURVd3ekxSc09rRlBmQXlpYm96YlBSMUpEUnc0ZWVhbmVfQWY2V1BlYklXZ0NxdWE1S3RXYkpBaFhwU1ZYc1l1SENQQ1HSAcsBQVVfeXFMTUFRUnk3ZG1OMGxnSmRyZGxZZXBTSXJyUkl1UV9xbDBITWUwNVR5YUstMDQ5ZWlISndHRUtBazctUmctME1Lc1BaSEFpbk1KOTYyajdiNDMwbDN3bGpDWktlSjV3S19pR1FhVzZ3N281em0zdV81YV9Zd0VfdlNpNmdUYzhxTl9BVlkxV3Q2elh4STdRcDYtdk53SzZlb3VBM0Vuckx1Zjl0TURmWjY0cnhNYkJtVjYyOTQwNHRFQ1BLb1VJdGNOZlpHdG8?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना-बहू से अफेयर में चाचा ने भतीजे की हत्या की: 6 गोलियां मारीं, पिता बोले- पूरा परिवार शामिल; बेटे ने बहु... इसे Dainik Bhaskar और ABP News ने रिपोर्ट किया है।",
+      "image": "images/6-dainik-bhaskar.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "icu-dainik-bhaskar",
+      "headline": "पटना स्नातक सीट से जेडीयू प्रत्याशी की तबीयत बिगड़ी: नीरज कुमार मेदांता के ICU में भर्ती; अनंत सिंह से विवा... - Dainik Bhaskar",
       "summary": "",
       "date": "2026-10-20",
       "topics": [
@@ -81,21 +108,6 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHg5TE1xcXVjQ1dsZUFRNU1HbnRqbHU3T0E3aUNWQTlwazdSS0dsZy01cmxrR0JKX2ZpcjVVWVlVc20xb29RTlNMTjJtSmdGRG5zcTFEUnR5NWFyY3JzU3hMZDdHdHJhU1loeFFpYWc5cUNSTGcxcTRYbWlBQk14TGtXZHlZRjJJeUo0QllReElvMURLYkFjM0I1TDhvWk9PYm0xMUI1TkNDYWZLd3VFddIBtgFBVV95cUxOdHZVZG1kQXNkdk9RMmdsSFhEVTYyajlNaEY5dGZfV2NKOUxzRWxScEJkLV9DU0h5RTZfdUlIT3U2RVplQ2RUMjdXM2VSNEo2TERsRkVvTGJ2akU4RFEyMFlMYUNRMC1heEtILXVMb0tuQmk0cGh6clBTdktUR2I3WWpsZkpfeGlxNGpoSGUycHZ1YTNNdHFCdl91UDhCSEwwaVRHbkJUa2Fqdmg5bi1idHpTYm1mZw?oc=5"
         },
         {
-          "outlet": "bhaskarhindi.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVldndUNMWXJpMGcxNjBPV19WSm4xVFNvSVFvVGt0djB2WnRpRkdnWlhZTVZPRktPZDFKUS1wQmNmQ1NxSUZnMFBPVTRvQmNFSVprZGpBeXFDaDVxSFVUQ3NjVkNVYmVlZTlTS2ZtWF9xeGMzSmxaMFdMMEpzRFVsS2VxWk9zT0x2Ykt4VDVEYzNkNy1SaHpyOGRhOF9neXl4Rkt2VEp5bVdDOWk5MVoxbEw1UVI4MzFBTU1xMU5QU2lNbWVnWnRZenBybGgzTm9xczhMRXE3QQ?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQekMwN0stcVMwbS1zTktTQmoweFJVTkFsaFhmME83WkJRd05UUno1Y1lPMjNJd1llY25ZLVZjYU5aQ2hrMERfZFN0ZHFnbFdhd1BVdk5xWGFWRUp5YnU4VVNSek41WmJaXzJSaVJkMTMtbU1ZNXBoM3pfR09VYmxvTjN4dlBuQkxJVzgzYU44TnFsWDVkSTFCN1FWOTk0aEJCX21MVE9velBCSXIxUUdKVjlVYTdFdFVqTkppTjFDTS1DS1otTS1aUUU0Wi1nZXQ5cHfSAdcBQVVfeXFMT0o2WnFKZVNJeVNpUWRpUDhTeGNndi10dC1UYU4zX291cG1wUnNTXzlmOGlrNFpXVWp4eUtVRTJ4Z0x6VG9UZ0VtMUtMNmhPaVRmbE9pTF9EZTF2bDhkTkRQZ25BWGVEUHFjal82T1VjRmplNHA0SzVueW9fdkMxbVdSOVRoVm0xRUNZd0RfQzFxUXlsemxjekY3eWh0ZGJfaTRPTWNxeFVGcWV2TV9IbHNyMGZGYWxUTzY0bW5ENlNuNmktQzlrVkpVX1U5Z205aXg3Q0h2YlE?oc=5"
-        },
-        {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlZldTkzT05sWTRLVENlb1dTTnpaN0xzaWZMekx3V3BFSlJMWDk5ZFYya2tYV3BOb2JiLXhwT3FYWE9pNXdraDR3bGtQY2Y4b0RRYTVhZzFVUXc5bzBmeEdFLUpwbXMzeUFRcXJjN1Z2c21sMlVRdVUzVG80MlpLNUpIVmYxdGZBaHI1Qi1kcTZBTFp3LTMyWUdXNlpYc29rbm5qdmRkZk51b1liMHJKRkk2dTZnRHY5RFRGWHNTX1U1NUtuVXpLZFF6M1MyRUJH0gHWAUFVX3lxTE15NTJ6SHgxWWt3b2dtcy05SFhvTE9fSXZHR2M1cnhNamlvM3VXNEo1VDNVcFVYVkxuZDNCUXF0ay11TEpnYzBIV19TMzBydWpILVJQN19NdTNKbnh0N2hIZGRDTzhNYUxNM2dDbG85eHh0dVVSVzVNYUdsUzVwQWJEZVJncHBQTy1MUVNPMlFSZ0FLb19lSzFqQU8yOXREZ2NEMFhHbUEyRzN6U0tydHBEMW5lMXU5YVJaeU50N19jX21NeXRNNl9wOGdndnRZS3JIQlV6UFE?oc=5"
-        },
-        {
           "outlet": "ETV Bharat",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVXNIZml5cHN3NUttWlFVTUE3QmlFWEQ3M1ZEMFZQaFBING1RNzJPZmhBbDRfb3QwSTUxTm84SVNPeFFpeHdPLV9ZX3cwQ2o5bXV5cDlkY1FDZG8yU29hbWtFbG5sOGZRRkhtdkw5bllCRTdJSXk1dVBFdXYxQ19BT1FIMGNiUmVXSl9RVkp0SEZRSkVQZENwYW1uQXRXRTM3WkJYc0NzUzREcm50eDVwRDFoajlVZWRMWG9YTEJ2cXdCQ0nSAcgBQVVfeXFMUFQ1SEZfT0JqRVJJRTd6d215TGsyWVpkbkhZc2RycS1uR01CUjl5WUlCcEFuNXhldnlOb2x2YlJqemQ1bUEySmh0ZDJ4X05XdEh3Ny1sRHYybk5xUHJSVUdnZXJ0TXRoUnNTblQ4a0s2ZFlNQmhmSHdMWXdFTFg4QjlGeVQ0a1ZjaGs2a243UGYwQ0VvU3RsY01tV3Y2ZWVEaDh5UjBoVFIzWVFrQ05CRXFKWThxQzVEWW9STENobFd0a3dWQ2NPU1E?oc=5"
@@ -111,21 +123,26 @@
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUFZCU1Via05YdG5ld3otOGhzXzE4WUtaT3RkeUkxRUN3dlExU0pYM195UU5LOC1HYjd4ZXpIc2V5MlI0ZTJ3cHJGa3FqczhRUjhfRHRTZHI5LUdrOUlaQk5HMWVZdzJxaUNmdDVnYVplYkFZZHpTVzdSdEo2S1VoV0U2aVEzVHczMnB3cjMzdE9YTVJndEhWZXRBaDhTTzJWd2plbDE2Y0hvV0k3TkwzTVNEYUc4ZlNQbFJlcVZRa0pfR3d3ZEpkaV9hOEg3NEUyVVJIb3dVMnJocHZ3Q3lTZnpJaVAxanNidkF2a2hiOWNSTXUxZXlIbzZHN1AyUW9XUG1icmFMajTSAY4CQVVfeXFMT1BtcTRCQi1Gb3F5cElsUUlEVlJxS2RETm1zNG0wRFM3ZTB2TXlhYmh6QmxpSDduV2JzVEViV0lMTWFRSko5dnhsQVk4UDVzNlEwSnoxd01TZ0pXaEZINWFpN1Bha2tCTlBXREh1enlwZ0lsbWtrMmcwSXlIdXVSLW1rNjZpZlAyYnMxWFJiNE9CdGREci1jcTNRSFhJTWFNYmhMNGVienhNczJKdDFrMGJpVVExYU5Gd0NVaVdKTENtRzkzUjI1SkJydDhOdFRCa0VoVmh2dTg1dGxTMzJ3dGNpY1VvSzZUOHRBQ3pDX0FiQ2FoMzFvRUlWVVEtbnRfY1YwU0g1emJhdFZYbk13?oc=5"
         },
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "News18 Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUGpJMWxkME5oS19VeVhTNk8yc0dOOXdDQWY0d0lzdFJSV1hCbE5ndVl4MVltWmVlMzB0MGJmRFFkNXd1SUJIRGtGYll3YjBqWWFjYnQ2LUMwNEFxQnlHSWNCeFZ3d1dJNlcyLUxRN01mS1dpR2FveFRrRlhhZ3hsZ052Z1pkQklMQUJKR1d2clM5TXFNTEFFZXNUX3dBWkt4TXF2eXZVcGc1TFVaQXQ2Qms4OWE1RnVOM2pITEdOZXhTYWxsT0RUcTRadHBFaVBnUmRDVEhnSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQekMwN0stcVMwbS1zTktTQmoweFJVTkFsaFhmME83WkJRd05UUno1Y1lPMjNJd1llY25ZLVZjYU5aQ2hrMERfZFN0ZHFnbFdhd1BVdk5xWGFWRUp5YnU4VVNSek41WmJaXzJSaVJkMTMtbU1ZNXBoM3pfR09VYmxvTjN4dlBuQkxJVzgzYU44TnFsWDVkSTFCN1FWOTk0aEJCX21MVE9velBCSXIxUUdKVjlVYTdFdFVqTkppTjFDTS1DS1otTS1aUUU0Wi1nZXQ5cHfSAdcBQVVfeXFMT0o2WnFKZVNJeVNpUWRpUDhTeGNndi10dC1UYU4zX291cG1wUnNTXzlmOGlrNFpXVWp4eUtVRTJ4Z0x6VG9UZ0VtMUtMNmhPaVRmbE9pTF9EZTF2bDhkTkRQZ25BWGVEUHFjal82T1VjRmplNHA0SzVueW9fdkMxbVdSOVRoVm0xRUNZd0RfQzFxUXlsemxjekY3eWh0ZGJfaTRPTWNxeFVGcWV2TV9IbHNyMGZGYWxUTzY0bW5ENlNuNmktQzlrVkpVX1U5Z205aXg3Q0h2YlE?oc=5"
         },
         {
           "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV0FHMGxVVzc5UzVsR2JrS1RIQlJsQjJIZm9OelJoeW5HblhwR25lTUxzbHh6eGdLYV9ONFV0TjJQVUp5cmxobnNQT21jeXpVMHF1RzRWdXluWlF4amdCUjN1TVBWYm01ZTJ6aFlIVjBVNEVkS0pvbm5QSHhEYVQ2TGRlbHhlZE53MU9PMUJ5ZEZtOU85NWVGdEY0UnVqWEpyQkEwLTVieDFDY0RKSTRRR3pqZEl2X0Y1My1tX1NKeFZLWWJWR0ViWVlB0gHPAUFVX3lxTE80YnZ5Tjhxc3ZvblN0Xzkyd2JwRENYZ0FUVDF1ajV4Rzc4NUFNdWE4SU9KY0Y1aXRuUkIyT2d6RXBxbEc2MDcyUEJtRGlfX3Zya3lmbmktR1ZOTXNqaWJWRFlaVzZoSTF0eUMwVUZhMkRTQXpvS3pMSEVCcG5wLVpHZ2dhWE1yUjVQZUhCLW9EYXNTT1R0ZmdnMW1NRmhHdzFmeFdhbG5yeTZtWmxOSWdWdmpmNTFMU1duNTNRNi1CeFc0VzlfMFhNdVhJeUV1bw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMGtjUVJyMENwemE2WHMxdG92U0hSU1pRcTJOODlCMHVvLWNWbFB6YWtaU3ptNnlqb0dnay1RR3dXVWFuTl94OXhCeXo1X0R0cGNoNFdHRGhMUk44M0tuVHlRWHBDUGEzX1FaWHJUeVFGcVBNckJMNzVKd3N0RllKSEFEd3R2eEtRTXZCUFZCZjJqclNZWTZiTHEzTS1CN0gtNWt0Y0F0Z2stWTJJOHozQVF5c3pQWm90ckFvdDlXRWo4bjR1bk5PLWozZ3I5b3VsQ1RiOUEzWTVBZw?oc=5"
+        },
+        {
+          "outlet": "India TV Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlZldTkzT05sWTRLVENlb1dTTnpaN0xzaWZMekx3V3BFSlJMWDk5ZFYya2tYV3BOb2JiLXhwT3FYWE9pNXdraDR3bGtQY2Y4b0RRYTVhZzFVUXc5bzBmeEdFLUpwbXMzeUFRcXJjN1Z2c21sMlVRdVUzVG80MlpLNUpIVmYxdGZBaHI1Qi1kcTZBTFp3LTMyWUdXNlpYc29rbm5qdmRkZk51b1liMHJKRkk2dTZnRHY5RFRGWHNTX1U1NUtuVXpLZFF6M1MyRUJH0gHWAUFVX3lxTE15NTJ6SHgxWWt3b2dtcy05SFhvTE9fSXZHR2M1cnhNamlvM3VXNEo1VDNVcFVYVkxuZDNCUXF0ay11TEpnYzBIV19TMzBydWpILVJQN19NdTNKbnh0N2hIZGRDTzhNYUxNM2dDbG85eHh0dVVSVzVNYUdsUzVwQWJEZVJncHBQTy1MUVNPMlFSZ0FLb19lSzFqQU8yOXREZ2NEMFhHbUEyRzN6U0tydHBEMW5lMXU5YVJaeU50N19jX21NeXRNNl9wOGdndnRZS3JIQlV6UFE?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार जदयू एमएलसी प्रत्याशी नीरज कुमार की तबीयत बिगड़ी, पटना के मेदांता अस्पताल के आईसीयू में भर्ती। राजनीति से जुड़ी ख़बर। इसे 8 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और ABP News शामिल हैं।",
-      "image": "images/bhaskarhindi-com.jpg",
+      "brief": "पटना स्नातक सीट से जेडीयू प्रत्याशी की तबीयत बिगड़ी: नीरज कुमार मेदांता के ICU में भर्ती; अनंत सिंह से विवा... राजनीति से जुड़ी ख़बर। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और ABP News शामिल हैं।",
+      "image": "images/icu-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -148,14 +165,14 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS09YR01RbU1weFctZDlIeE1lT0VneEZIZmFkZDZzTzJHNXgzUmd2MWM4Smp3M2c2Mm0zTF9FanRSRFFYQ1VmbDZaUS01M0Ruazcybl80UEh1MWNuTHBxa1V3dHFZZmhFcW9lbHRBcDI4bURMN3VjQlpYYjZWaEpmemhNSTNhX0lvUXhkQlEyN0xuOHY4YklHVllmeGF2TVNKS3NpQ0RHZjJGQWlHRUptWUN0X1BaaWF3V2lJ0gHAAUFVX3lxTE9iLXJQX2VRSDdObi1vV29YMC11UnE2bTJiY0puZlVEb19YZE1xc05JOS1obUNpazN2Z0NTWV9BUlFzWXdBNXhUZUhTbVR2YXhYU2ZOX2FpYVpwUFFmMjU5ZWhqT2VIOTBjd1hXTXZFS1VackpYNkZsdmZfVU5Zb1FhSlRBZEhjb0M5T0NzNEozdHIwbUw0Vm4xWjJjbHVtT19zUEZhVHZkMktsdGpvQ1JCY0w5ZXp1VDlabmwyWUVzdQ?oc=5"
         },
         {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNb1d3Z05pYTQyd3BLakZaZ1pHT09DdUNnTzRQRk9RZ0p0X1Y2M2JmUktIelVfcjItaDYya0JZOEl6U21rcFZiNE9JbVc4VTdmUzM4SjNPQlFfbFhNeXU1ZTlmd095RHlhTnBObHJZZ0lsRkZPMmhfR2RJOFcxV2dzY2ljZ0FzLXVOOXFLelY4TkQxeHotQzNTUGpBakhQTzAyM1gtWHRKR19tTEdXdVp6N2hxUTI4TEN3MEdzY2JZd2dPN0JIbnM5b3VEU2tNamtEcVRJRzZ3NE9oa2wzVldkd0NkcUNwN25fZXlGMl9Obl9TSWc3Tnc5VTJMQWhaLTlXbHpEZXdQa2VfS0dQUFRWStIBlgJBVV95cUxNTUozVUJnSjFtUENlWDhhY2VMUlJoWlFsdWFBQ2hQck4zNEIzdXZWbU1mcWV0YmpMQVBkSUdXcGp6b3JXb0ZvOE1HWTl4aDN4aXNON1RVUlhfeC1ybVhXbF9CcDZzVGV2cUdqV2t3QnlRQ3NtT2d3YXhIT3JDMThBUTh2eUpaSDhqWms1djNiV0o5dTNmRmFSMnZEcThOaTJJak5KNzl6VFNxRHRqWmdINUszV0pfZlFQd3JJazdMZ0NrUld4SmEwNUk5N1ZscWVyS3RocHZFODQwZGcyNjBNZXZMRi1sbkMzZlJBdWFZbWxpZ0xMWElTaldzUmhFNDllaHdDbDhCUGNOVktSTVlLTWdMRUJZdw?oc=5"
-        },
-        {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTS11TDlSUVZzTk9TWERxQURmQjVqb0hJYWNfdVFqWnlBN29kT2lJUlR2Ti0zeVVmN2FrZWFlRGZVOEc4TjFNdWQyWkQzZG82NWZvTENOa0trQWJOOVB0OWg1VUZSdkltcmtfNUVrcjR4MlF2SkxGQk9sSlp6MGx2LWNBTml3MmhGblpTTk1OdmdIY1pjaHdMSEtpUXgxa2E5SDJpU1k2bC1pbXBOTHduSGZNU1hxbVVObFE3Umo5MnJjS1XSAcgBQVVfeXFMTlM0Y1ROSkQ5RTh4amExazRTZzJYajRIVUJUR0xOeFN6LWdqR2xLRFJUSnBTdmhnWHNJYUhNS1pHUkd6ajBub21LQTlKUjE5aXV1dC1TYU8tbFZ6VDRGQ015eWxRU01pdnRXNGlSVS1FZ2VNRG9IZXFxUk1Sa0E1dEN5M3ZxMUJVWnBySzNYWElzTFZ4bmUwWklxN0NfQVQ0b1NPS2hHemtnbkpDYlp3d2tyamtJcW91RDRPV2VRQmluTTcyRTFYUHY?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNb1d3Z05pYTQyd3BLakZaZ1pHT09DdUNnTzRQRk9RZ0p0X1Y2M2JmUktIelVfcjItaDYya0JZOEl6U21rcFZiNE9JbVc4VTdmUzM4SjNPQlFfbFhNeXU1ZTlmd095RHlhTnBObHJZZ0lsRkZPMmhfR2RJOFcxV2dzY2ljZ0FzLXVOOXFLelY4TkQxeHotQzNTUGpBakhQTzAyM1gtWHRKR19tTEdXdVp6N2hxUTI4TEN3MEdzY2JZd2dPN0JIbnM5b3VEU2tNamtEcVRJRzZ3NE9oa2wzVldkd0NkcUNwN25fZXlGMl9Obl9TSWc3Tnc5VTJMQWhaLTlXbHpEZXdQa2VfS0dQUFRWStIBlgJBVV95cUxNTUozVUJnSjFtUENlWDhhY2VMUlJoWlFsdWFBQ2hQck4zNEIzdXZWbU1mcWV0YmpMQVBkSUdXcGp6b3JXb0ZvOE1HWTl4aDN4aXNON1RVUlhfeC1ybVhXbF9CcDZzVGV2cUdqV2t3QnlRQ3NtT2d3YXhIT3JDMThBUTh2eUpaSDhqWms1djNiV0o5dTNmRmFSMnZEcThOaTJJak5KNzl6VFNxRHRqWmdINUszV0pfZlFQd3JJazdMZ0NrUld4SmEwNUk5N1ZscWVyS3RocHZFODQwZGcyNjBNZXZMRi1sbkMzZlJBdWFZbWxpZ0xMWElTaldzUmhFNDllaHdDbDhCUGNOVktSTVlLTWdMRUJZdw?oc=5"
         },
         {
           "outlet": "Dainik Bhaskar",
@@ -171,8 +188,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "2-100-dainik-bhaskar",
-      "headline": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उछलते हुए गिरी गाड़ी... - Dainik Bhaskar",
+      "id": "dainik-bhaskar",
+      "headline": "पटना में पुरानी रंजिश में फायरिंग और मारपीट: पूजा पंडाल के पास प्रसाद वितरण के दौरान हुआ विवाद; युवक के हाथ... - Dainik Bhaskar",
       "summary": "",
       "date": "2026-10-20",
       "topics": [
@@ -180,46 +197,21 @@
       ],
       "sources": [
         {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUxDQ1huUDJUMktVQ2tiWm1EYWNBODFXLVJ6bUd0NmdaRDhsOXVOaTc1UEtUXy1OYmphaG1TeDJLQURiM3A3T0pvaEtDejhLLWc0UkpURWUzYTFqZnJXa1NBRGtSSkc0d0ItUnRhMTZBRVlnZnoyRkRuemZoeEtIUWUxSjhxMGI3dTM1clNJNjZJS1lZRlc4VXBuMG1XQTJDaTBSOUJoZXVrWXJySjRDZHBaOG1FZFFsNG1Tb21B0gHDAUFVX3lxTE5hR25DbWw1TVpqRlRua3FQeVBidVlPcUU1Y1JnM3JscmFWa2RNekZRbVMtYXRqOFgwOW4yd0VSdlczWUV6U0hJY3hxMlBwWlRfeE15bU1jcF91cjlLZUJOQTVWWV9xVE5wMHU0RTFSTmh4TUhqZjB6dFFlSmZLcE5FZ0oyNzJIQ0lTd3J1NjdkTGFqWlpnWVdXd0VpWWltdXlTTXd2aGN0M3Z4c0pRNVFzV1A3LXBQUEVsbklaV2pHaGpOYw?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJXZTQzSmFUaF9fc3Nwb3VTU0tEeDdCbnNUdl9nZ1JLV3ZkNFhUbklDYnhJSDVkQl9xYS0wY29wYzNrb1ctM3FvRVY3Y3ZEMlNIY0Jjd0NJcFdjT2drWFdOYjJ1eGExOEJ4R2x4SURJT2s3Zi1hcTlLMTN0N1VsSS10RjBHTzVSOHZqV005YkNwaEZubWxwNFZnREU5S2h0UXVjN2NTWUtCaWJvcUVzM2V5ajZPcHpvMXJ2TTF6SURUYV85SzRrVUV5dEZndw?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNm82M3lpRC1nZmhRbVNsTmRpZ1hhNElBckRhNDBtRERXMTNQZ3cybnRETWd1MGVnSTN1cU9oLUVSeDhwZnZLR3VENldROHpMRnhpRHNzTkRZajNnNWplRVpQcFRaSG1RN3kzX08yZ2hCTTlCczZEZG8tQkpVWUpPdFBrdVkzTzBEQU5PUmItOXJsZERSUy1GVS1FQ054bC1vSnJsU3l2emlNOW5QbW9iZWZFZm4zR1FuUFJnZUdzeE5TcndxSDVCRlV2aVQxWml4elpqN2puUjLSAd4BQVVfeXFMTk9USVBnblZWOGhJOFlRZlh2WVdvMlpWVkZzemRJQ1gxYWE4SEVPQm5GQ0E1LWltUTNQSnBpR3hXLTRhc2dRNzFjQmlRNzI3VGQxbUZWYklXSTlSWjEta0kycmo3YTdXODVyZ3BqNzFCM200VC0zeVM0Q0VZaWxhbVZBVHhBN3BGejVKNkJoY0twVzRlTHR3UHBScDdKX2xocGNmaW13UkZkWFhVREVreDJOTVBVcTJZQXFRSWFjV183Si1wekhCTjZwWVEwY09KQlhMa0JpYjViTW1PcXV3?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHhGazd6MG9wVU9OSnA4Rkxnc1pzSEdSNmlwVXdBVEtoaE9QTGhCOUdTVGl6bjZMeU1tLU9LX0hKZ3d3dUM1U2d0N0loU2VVdkcyNVMwX1FocElEVWhIdmZaTk14U2pRRmgwWUF3djVhQ19Td2pHdV9QaFRfOEdIMERlbmE2T3ZVREN5bG8zdkpXNUVpNWVCbXZNTVpyYUF0SFlweWdkbmVSenNqRXkzdDd4amZfeE1IcUHSAb8BQVVfeXFMTmtCam15X3Q2MzBUT2w1bHE1eFJ5ZGttZmVIcGdVRXRtOUFVVHpIc0FZQW5yMHJWUkpaVlg5SGphdTJlckpBZkU4c0JKcWZablFaX1ZsSDV5SDdvRzd3Q0VHejB6QlJCU1dqdWpoRXl4eEhWUnl2b2I4ckRXOFMtWW1SVlBqTWZaNl94Szk2NnZ5bmFCc05lVkI3YlVWWTY2RnJLYUtrS2Nkd2UySDM3MWF2bUlOSnczbHk5b0RiU0E?oc=5"
-        },
-        {
-          "outlet": "दैनिक भास्कर हिन्दी",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVG1fSlEzRzRIMmVleE9zODh6N2NyRjd1MndsYVU4ZGtIWVgwMFU2VnZ0eHRwSU1yV0RkYkRqZHhDMTJqb25WMnZ0RVRJcEROZmdfbmotbE5BMUsyVnZFZGxLLUFiNG0xM0EtQlBrWnk5VEg5NWlUMmhOd0RYVTBDNnhwNlRBUnhRS2xkOFhKaGxxNVlVZEZrUUQ4Z2lfZFNKWjBZQl9URXJKSU1JRXZzb2hRQ0wxWlVtcFh3?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT21VdHpWdWw3cE4zNzl6ZkRKUkJGdGVKMnBndUhKSWJMcVFhWlFFTkpUQ3J1LXJwbzRlRHVaTkRnY3ZBS0h1a0xBS0NOek9UQ1QyRGk0bjlLZE1XZC01Vk8xcjBwNWotWlg3TG9waVgySUpJWWJEd05nWHBFR1VzY3dGaWk0M1BrUERNc01ySDZlZHpSY00xXzhzRklucHN0OHFKa0MtekxDME13djN4SThGbEkxWmkx?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ21WSUJjZEZ5aW1XUjhGVV9lWjhHWHNmckNUN09La0k0UG5fYkxTRTdSQl8xczA0RkxWMW03YXBMX2VuRVpVZnR1YVp6azhEWkpkUFVsc1RzbzR2VzJOWVlkMGNQU0VNS3l6UVJUSFVqWFRzTDVEOFpscUdQVGZKZkdCQmVXYTd1MzhqaE92eXhwSGZyZWVGT2lXb3Q2eGFPNXFoM1lIM1YxSWpSOFE?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1hYdlBNNG1mLWNGb1M3UmNEenNFaDBGUmFPaVFUT21CS2RXakhsNmpZVXRxR3o2RTJTN1BoODFCUk9sVHdQNUk2VmlkMHNvcEhJd3lqOWYxRUFuYkdnMGhhenJFU0tyVDVFclFqY1lzTDUtMnIzTjRMY3p6UFRCamptc2s1cFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3FXRTFWWVh5dUJnUXVJOF9MV3ROTi14a0F5dGZlTkpmc3ZzTEY1NHdVeVVzSmxWVUFZUUI0N0o1SUlENkRiVmNfWk1tR25ZS3RCTFBRUjduLXhiVXRfd2tlN25ZcG5RbXlHdFNDVmZjNU8yTlRWSzU0WE83NW9BZTRLcmZCY3lhQlJXemdXQWFIdF9iTFdqbVVlWHRqUE15T2NzX1dwNFFxaDlLeWVtby15b3lic25wTWZpZ2dIcGxYdFM50gHKAUFVX3lxTE5mcTZtMUVaYzZDSk5uV1dWUGUwTXhhZ1ZvSEFWdEdmRmRhcTFBdXF5SGk3YXh6TEJHU0JyeE9XWl9DazJZZGVDLTJ4X09NdjltVXUxWV9fWHUzZjZWWGQ1M19DMkRHQzZ0QXBDYmRIaDZXeFhmdzZRc3RTdnVIM0plTUVkajlqaS1zZTlmckRfOG56ZktiNjA3RllheUpMbUJsYVptVzVxRGJPcDFCX2N4TXk2NzctM1dNWmZjWkd4d0h2NlNrdFg4NVE?oc=5"
         }
       ],
-      "source_count": 5,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "मेला देखकर लौट रहे थे, स्कॉर्पियो ने कुचला,2 की मौत: पटना में 100 की स्पीड में हवा में उछलते हुए गिरी गाड़ी... इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
-      "image": "images/2-100-dainik-bhaskar.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में पुरानी रंजिश में फायरिंग और मारपीट: पूजा पंडाल के पास प्रसाद वितरण के दौरान हुआ विवाद; युवक के हाथ... इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -234,24 +226,61 @@
         {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3E4aXBKYTNvTUhlT3BRcGxwcTlFVGluVnlDTXoyN24tZUtCc2t5eE0zX0NQSTRlWjNxVWdkMTVXNVIyc2x1ZzFUV2huNDFuVmYtZ1BpMEMtblN6QXdBS0dhalk0cE9Eal9JdjhXZ2E3QkU4RE5RaG1RZG9KMjdXYUhMa0ZUN2Y3bXdOUFBOMVhjYnBZRHUybENwVV84UXFnZDRjNTZnejV5RFF6ZXNhampR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMUZvZTltOWVaeHRZd1VINHRFekZKeU91X2JSZWprUDliMlBDbFk1X25ZVmxGX2t5OG0yS2JuSjZzYUtvN0FGV2MwZzl4Z2g4S3plMG9DY2tlLXdFOUtSZ1BKa0FCd2E5WTB2cTUxLXJ2TlFiQWstdi1zVHZUMHZTTnNGbnpmMEliS0hzb1ZhdkdRWDR5ZXZDNWhMLXN3ek1abVZPN2xRSTRIaDBtZnkwX1BMR3hkaVREemNLai0xS1R1b05zckpJRA?oc=5"
         },
         {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMUZvZTltOWVaeHRZd1VINHRFekZKeU91X2JSZWprUDliMlBDbFk1X25ZVmxGX2t5OG0yS2JuSjZzYUtvN0FGV2MwZzl4Z2g4S3plMG9DY2tlLXdFOUtSZ1BKa0FCd2E5WTB2cTUxLXJ2TlFiQWstdi1zVHZUMHZTTnNGbnpmMEliS0hzb1ZhdkdRWDR5ZXZDNWhMLXN3ek1abVZPN2xRSTRIaDBtZnkwX1BMR3hkaVREemNLai0xS1R1b05zckpJRA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3E4aXBKYTNvTUhlT3BRcGxwcTlFVGluVnlDTXoyN24tZUtCc2t5eE0zX0NQSTRlWjNxVWdkMTVXNVIyc2x1ZzFUV2huNDFuVmYtZ1BpMEMtblN6QXdBS0dhalk0cE9Eal9JdjhXZ2E3QkU4RE5RaG1RZG9KMjdXYUhMa0ZUN2Y3bXdOUFBOMVhjYnBZRHUybENwVV84UXFnZDRjNTZnejV5RFF6ZXNhampR?oc=5"
         },
         {
           "outlet": "NDTV India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORDZ3SU1vQlJzRG83aEJtaU02WWF1cXhWWHlFRGNXVXZONGFneTdVTWRRWWtseGo4Y2NYb2ZDV0xnNG5XZE1INmp6SXY1dXUzU1ktd3h1NVZna0ZxcG9kMTF2QlFFRlRTYmNlR0FlMndlX29fOGt6U0NsSk9YMFBzdWxNNV9yMnVGSG5wZ1h1by14OUd2SWV0RnpyMERqY0ZyODJzOHhUZmx4d3dMUkc5dDM2TXhoNHctTXZSQkVjTG9Rc3EyaHY2QjNEeVU1QUFMTVNFSDJSR3ItV2Nuc09hYkFB?oc=5"
+        },
+        {
+          "outlet": "ABP News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaVVGaEx1OXhLLWRESHNJU1ZWdWRXektvaFJGcXhjblhjb3ZzczZybklzT1lrMnVBdy1GeEYxZFFWS2kxWlQzOS1ZX0NzTnlIdThFaDVhU24tOEd6ZEJ6Q2MxaS1qLXcwWUt3MmlQXzFqTHdwaUxfWWFJbE9nVWNyeUJyRVRscmY5bmpNcUt6TEpla0FDSktqZkNXeDE2UFFXeEZMN25pR2k5MC12VC1lazRGeEJEZ9IBuwFBVV95cUxPMXFHbW9zMDR3OVZzcnRjUXdzdVhfSWtuODYwc0pld0hvbWVtVDh6R0gzb0MzUlVtZlhhY2FXVDQ3LWhTcWtRSm40VFRISW9aMlBaV3FFa3dxV0RNaEJ2U25USWQyWVZTZFdEYXBLb1JnTTY1V1hrbXNwR0VqcDdNcmNPb0tad01lMGlwS1kxeXJ3V0ZibUtvWE1EZEgxeHM2MU92QVBfSlh5UGRUY2lUTF9vNmlmR1FmSi1J?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "दिल्ली-पटना वंदे भारत ट्रेन का विस्तार, साढ़े 11 घंटे का सफर, यूपी-बिहार वालों को दिवाली-छठ में मिलेगा कंफर्म टिकट। इसे Jagran और NDTV India ने रिपोर्ट किया है।",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "दिल्ली-पटना वंदे भारत ट्रेन का विस्तार, साढ़े 11 घंटे का सफर, यूपी-बिहार वालों को दिवाली-छठ में मिलेगा कंफर्म टिकट। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और NDTV India शामिल हैं।",
       "image": "images/11-ndtv-india.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "hindustan",
+      "headline": "चाचा के प्यार में पड़ गई भतीजे की पत्नी, पति को लगी भनक तो हुआ खून-खराबा; पटना में मर्डर - Hindustan",
+      "summary": "",
+      "date": "2026-10-20",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXZGQ1VhQXZoS29SWFZDbGZmSnUySXpETno5blNUY3gyZHpLTktSanBUdUpVTHhfVE8yOWg0MUhnZ2FjdlVXM1NhTG9kNlNQbHNyVVpiT1c3QUpXYkE3ZFJ1T1ptdmx5WDgwVmVZQmdtQlF5SVhCOXIyZDRneTFodlNCUHRZQzNvR3RIbFd4eHlOOUV1S2pTX0k5ZVhLbXhGQ2RPUWhjNDJDV09wcWVwZWtJd1c3emxsNUkyd2VRT2xUVVdfZ2hXN25fQQ?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1FCVEVlZFhwM0luUlkxZVg3cXRWYUtWUmFoUURTWlh2Z21UTG0zSHFlVkk3dzVEN1AtZ3U4dldVdUh6cmZWZW9mRmRRZjA4T1NwclBZVDJYYnFyWmE4aFFmd2hvRVFnejVvZFNVUGR6LWtDV2N6RElVaXlSTGJ6TTc5UjZfc1BDcUNDZERxaTBxc2I5QVdvYV9VNmhUT3VoQ2NHdDRvZHN1XzhXdWoxX9IBtgFBVV95cUxPTmdCMjg3RXl5ekQ0VTVJTzN2RUw0cC05bGdvTEs0dG5jbllwSnZJT3A1bUNFSWNmX0Q5Q21GY3pWbEJVUzhjM0NxaG01V0lJYWwzRFNhbXR3LTJDalNKbFBMdTgxblMtLTlodG94MjVxNnhPVVRkSG1Zd2hPS2xHZWVwNDdmcms3NkFoMWZTSllaXzJWX3dQZUFiM3p5elpmSFFxR3E2TFUwTnpvLU9jSERvT0VxZw?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVEVTNHM3eFZfb3J2UXh3cDV2VGljeEhnT281QlJPUkFfOWFjSWdma0tuMlVzbWsxVTdFMVZxYUUxRmpVdDlXR1JXOTF0a19BTkZJbHAwclVFMWhaVk9YcE5BY2IxaGVqSVJ5M2ZjakZGR3NEXzM1TzlFanpKTENudDZ2T2ZZWG83anlhcWUtUVV4b1RlMFBUbVlBV2lIdVF6eDNSeVFWLU5odlgtdUttOFdMQmlCZEEwNTJBazJ2VWZidXRqRU9DVExOSGlLY0hZMzdB0gHTAUFVX3lxTE1URVM0czd4Vl9vcnZReHdwNXZUaWN4SGdPbzVCUk9SQV85YWNJZ2ZrS24yVXNtazFVN0UxVnFhRTFGalV0OVdHUlc5MXRrX0FORklscDByVUUxaFpWT1hwTkFjYjFoZWpJUnkzZmNqRkZHc0RfMzVPOUVqekpMQ250NnZPZllYbzdqeWFxZS1RVXhvVGUwUFRtWUFXaUh1UXp4M1J5UVYtTmh2WC11S204V0xCaUJkQTA1MkFrMnZVZmJ1dGpFT0NUTE5IaUtjSFkzN0E?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "चाचा के प्यार में पड़ गई भतीजे की पत्नी, पति को लगी भनक तो हुआ खून-खराबा; पटना में मर्डर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और News18 Hindi शामिल हैं।",
+      "image": "images/hindustan.jpg",
       "image_kind": "photo"
     },
     {
@@ -277,51 +306,13 @@
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXN1YzJCbHRZeXkzRkhyTXdBYXRjWFJpdk9TRlEwV3ZvMDJ6R3otcXZPM1V3VXdyTUJHYWhod2xrdmRLV0JoTGRQREozWkkwVm9ValpYektGUTh5a1VFMldjcW9MQXJmLU42Z0xJdXlWRkFDY21yZGZ4bjEtN3hWVkRnMUVXMFpBVkREZ2NyYlh6TVlXcGNJclFlYkdUdXpadkpzN0Ffb2N1WVFGd2ZIZERNQlNyQ2c?oc=5"
-        },
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0FMMW1xTUY4Y3R5VXNQT1RPMnFoNEtVYzdEb2JfSS12N1VsRE9KM1NvZTlqZVg1bmVsc0p4OVBqWGthT0FHMHlmd0RsallpZ3RGSDhzZU5aeVMzX3FoVHpGUmtrV3l6TWRKNWtWdWlMbWw1T2wwY2hkM2JaSEs1aTFyOGFmTS0xMHB5akZhN19oelZNWUZsajV4U25FalJ1cjYzYm4yRGZpekJTOVZjT0V0UTFvNWtYODAxT3l0MFZlUm9UT1HSAcsBQVVfeXFMTXZuRUh2YTJOOWs2X2U5NlFIRlJFVTdYdWhTYTd2b0pXR1dEMDJfZ3VFaWVEdXM2cWxIcExLa2xsWXg4WEF4LTFDSGJ2SHZYYVJsaGRJVnFYQTctdjlwR3F4N3ctNjNHNElNa21RdkNNTzdteXdyMjdRVUttaDh1OThwbmN3QzlhbEN1UXpXLXZLZmtCTWp2S0ZEU18tMGJBR0RxblFoYUVxTTRnYW5ZZk1aVGdaajI4Q2ZwS0ltclU4a1FNZ2NPSEdxMkk?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "One killed and several injured as speeding SUV hits pedestrians on Patna’s Atal Path. Covered by 4 outlets, including NDTV and ANI News.",
+      "brief": "One killed and several injured as speeding SUV hits pedestrians on Patna’s Atal Path. Covered by 3 outlets, including NDTV and ANI News.",
       "image": "images/one-killed-and-several-injured-as-speeding-suv-hits-pedestri.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-gets-approval-for-32-road-projects-under-2026-27-pt-pu",
-      "headline": "Bihar Gets Approval For 32 Road Projects Under 2026 27 - PT Pulse - Projects Today",
-      "summary": "",
-      "date": "2026-10-19",
-      "topics": [
-        "civic",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2NSY0NiYTlpX3RMbWo4eVRjTHRSVURobTBvZHNEQTZRZnZucHFjY0NRYmJCTksybm5Cb2pBeW5SVF8welRCV2JvMmhwQl9XOHM2M0x6M3l5QmdxY3N1N0s5S2YyWFNZYkVVT2N3VENFaFd5LWV5N1FYRHFDbF8xdlNPckpSWUszc2IwMXdOaXVOVmxsaEE3RHlvS2dMZXRLd1ZoUjJhcWYxS2Rfa05wVUFRSzBUNknSAbwBQVVfeXFMTUVlY0c1bmRwQUI1VHNwUXZFVHJCUU5sa0ZHOGFkeHBfX3I4ZjJ5Zjd6Zk5UdldGMnZkMzJqbDFGNnF6ZTVkc05ZSVNuSUtkOExGVXhud2xWd1hRelVRakxobWphdzdFMmNKQ2xDU1FTZkN6MkUySXJxX2ZmX1NiOUdsNEJqZGlySzNOdTcxdjhxR2ZaZ2RRWVA0NDBacUF4cW8zLW02OEdSMGQyTUNQX3lDSkhQblEzbTJ1eGM?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEw4c2JJeWhGVFg2VmNpT0ZFSllJTFVkS2Z3UEM3amtEZUJVYVdZTkxXMDQ5cVktZ3ZFa0pPWU4wTkZ4Vk5ERUFHbGR0aFFfQVpQbUEyVENSV0lZdHlncjEtM3lFSlhTT3pRVENGRDd6SVIzRzBzRlNfc2ZRWUp0VDNZSXIyYjM0ZHVhU0NXZ3ZsNG5YMTVjd2xyUUZyTDR5Ympva0RUbllQVWxQOVAtWUdOeUdTQTJ1MEk0bWM4ekIxajJsWlpj0gHMAUFVX3lxTE05bTRkQkVlbXlzV0xrY21pQ0stTEdmNHlUeGYyNndZSmNBeXJhOU1ENWk1eVk2OXl1Z0hMbVBsTFM3NW10OE83cHk4MTFFTGMtVllQcUVranY3eXBnVWZUeHEzSnZQckxyLU1PVm80ajRtTnU3alJ3VkZhemRZWmJCVGs1Yy1qWWRnWWVKS1VMLVNyUFhXbG5VQjVoTVNfN25fSm9leURWWDhEa2lmdHdMXzB0V24tc3ZkMW5idHZ3QUhmd215Zk5VdUVZdg?oc=5"
-        },
-        {
-          "outlet": "Projects Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWFGelNYeF9rNlA2a1Vfd3NXci1BbUtacGFkTkxtLTlHZVdlSk5tMThWTlhoMzFZVHhwcjBnbXhfVlJaOUdEWWVLVUw1Y1FGOVY1aXBxYUtPQkVVYkV1dzU3aVBkX1RhYnZuLTJxbEJyZWRBUHlSUndycHZLdHV5Z3hTeWpESk9yQUtYbHNmM2pINUxCMWxWd2J6RDM4eDB1QTZJ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Gets Approval For 32 Road Projects Under 2026 27 - PT Pulse. A civic-infrastructure story. Covered by The Times of India and Projects Today.",
-      "image": "images/bihar-gets-approval-for-32-road-projects-under-2026-27-pt-pu.jpg",
       "image_kind": "photo"
     },
     {
@@ -478,32 +469,37 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ5VVZTMjdFNURVYTJBQU9xWEFFTzY2TDduOHF6R2tCeER3bjZ2VkZTeXI5SWM1OW5FQU9RMldRUHdONUoyUzR4Y0Ftb2NQYVc0RVhpSTBMamtIUHFVd01yLURmQ3pIYV9xZVRkamFvR294Ml9pUDNOa3Jpbk9JX2JkT0ZuZzg2VXRPZWkzX2xpdWVm0gGiAUFVX3lxTE80R3ZIQ3luWDExLWRZS1lQdEc4bFgyajJpYlNSQzlhYWxZOEJ2RmVkaklnSXJ1MVNocy1yZTJPa3FXaFRndGFCZ2JRdkdxMDlmUEVsRnQxazFqa1l0UmFZTC1wcEI2MmJBWGI1VnZFcEJITEF5TUhMbm5kbHBaZXc4cmI1QUZPSEd4NVhncHhVUXhLSFg0eE9QWlNtd3FZX1dOdw?oc=5"
         },
         {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUlB2VFVVY3RIOGpnS3VsUnRfWXBtamN1MnZLV1doVjFBWE5Tc2U0MFRRVUx3ODBtTXJRVnFUaGFtZUliLW1rVmU3ZlVyblAzQUxRU2VGZWpLeFhkZVVpSHROWHMtSnNVRHJXUkFfVkwwUDdaUmZhd09mM1NUdG5pZHZNYjU4cG5PY2NTT0tVdUVOV19LS21USVdLUF96M0htNF95OUdiZ0tYcXNaVG1mWjFodUhGMEZsNzVBMlZBbWdsZ1ZRNXpZZXlId05YQVE3dl9LTEtVUFRIYTViYWhCRlpaUE5SWWliT1Q0a3pGWQ?oc=5"
-        },
-        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLVBvZnNQZ21ySDd4ZVBfQm10dHAybnN5NWI0WUFMUjU5TUNBdG1tWHF2NktBMUZmRGhucFpMQ0lxSC1sdE1LbkhZa1F6cGlkQVVHOFM4Q1NxT2dyM0wxX1FLS1Vsb25mcEZiRUFiaGJXN0doWjFYS0FFaV94ZG0zVmdaS1hFalhCamE2Z1RQbnpmVWcwbkVGb0xnYjBRN0l6eGpmWUNKWnFhREUtVHhnR2VkZEFkSy04UEdkd3BzcjJoZ181YURtSXR1SXB5Q3ljNTBOMWZfN2cyMmZncWtuaXRZNXVNanJXN2hlZ0NrRXRTZGF3c2NLZNIB_gFBVV95cUxOVm4zdTl1R25zTUZRMjJpNGl0QVp6eVVqWW9VckNPalVQVVhWeV80TkxNTFAxRTR5X3l2WVgzNTFVMktXdkJGSm96N2RMM3VaNFlkSDdYY012eTNHSmdQVzRBZDdpclZkQkxUeTd4NnYyTXBWdm9Udjl3U3NGbUtpTVg1cG15MDE2WUVRM2U3VDJBVjZPaldSMzF1TWNNUm5MQk5RZm1QYm40bmJBTmxwT3dIbVY0ZGU0TGpEOW4xSUlId3JuYnRmSWxqaTY3dHptZEo0RnRhUnMtWTM3Z0pYWlBjZUtpcXVVZWhfVmNpS2l1dmNmcEZsNXNjb09uQQ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Slapped with defamation notice by top cop in Bihar, RJD MP seeks Speaker Om Birla's intervention. A politics-related story. Covered by 3 outlets, including Daily Pioneer and Deccan Herald.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Slapped with defamation notice by top cop in Bihar, RJD MP seeks Speaker Om Birla's intervention. A politics-related story. Covered by Daily Pioneer and Hindustan Times.",
       "image": "images/slapped-with-defamation-notice-by-top-cop-in-bihar-rjd-mp-se.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "prabhat-khabar",
-      "headline": "पटना के मनेर में पैक्स अध्यक्ष की गोली मारकर हत्या: बचाने पहुंचे प्रखंड प्रमुख पति को भी मारी गोली, दो बाइक से आए थे चार अपराधी - Prabhat Khabar",
+      "id": "india-tv-hindi",
+      "headline": "पटना के मनेर में खूनी वारदात, पैक्स अध्यक्ष की गोली मारकर हत्या, ब्लॉक प्रमुख के पति पर भी बरसाईं गोलियां - India TV Hindi",
       "summary": "",
       "date": "2026-10-19",
       "topics": [
         "general"
       ],
       "sources": [
+        {
+          "outlet": "ThePrint Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkpPN0ZIYWZGSmYtbUYteVpGVzJaVDZCeklKeHlmcnh0cm5MZzNiWVl1R1B0Zi1PLUdCM2g1ZFNGbWR4bW1FT25VUFVOdjY5WEE0ZFBJS1ozTkd1TkpkS1pNWi05NV8yVU5yR2JGZ1dKSnd3amlDeXM3NUxoaW1WaFRUY0JvWGZLWjdNTHViZlJJdGtOVHF1QzlZQzZjX09lcTFkMUVn0gGrAUFVX3lxTE50THUzWnlNQWFiVmJZQ19qVnFSemZQWnNWdFBNMXBCNHBCZWFtdzg5alJUVjFnRm85VExwWUw4c3RnZ1JkbjRnb2NJaEg0VjZZUmNPZ0tOa2VrWTdSbjJuclBubFMtX2hZTEUtQkQtNllQSzlrZkdaMDNjVWltNGdnRnlEN2w3Y2NMV0t6ejJXN3NvR1hwMVZOQjdsczJJLXU2blZPNnFzeERPTQ?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlNrTWZVVTFMZFNrcEgyS1Nua2loRUFzdkRqcy14UEI2TlQ3UTNJYTlIWXl3ODlMQUd2cmdZd3daNXp4ZXYwbjFQRjFydFdnN0pDVFRBeVlEVzBjdHpWdmp3dUxWbnI0UkhCMWFHWFJuSndzZWlfRG5HWHF2UHdzbkJNRTdBb3pFYnIxUV9OeHBDdXJUR3hCQktpcGJGUjdndHJWdU1pVHFtTEJMYnZaRHVaQWRHd3g5ZjB0Ti1ibw?oc=5"
+        },
         {
           "outlet": "India TV Hindi",
           "type": "news",
@@ -513,38 +509,13 @@
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV0lPem9TWnNBN3dDOVJCLXhoYzdSTFIxM0tPUkNQNjNNZ1BlYXFPQnhNOEx0YU5LZVZ5djQ4OFd5MllsM19MRXhFTjZtMF9BLUNHRGJEYTlhVkdlSC1yMndmT1UtMnZITEhub2ZRRzdnU0JpOVBaYnhaa0QzcVhRaWMwdDdiR0RRUERYa0FHbGJ3T2FKSDBxZnI0dWhyUlBSMG9hU3Y4R1JYaXdkRWhKQ0UwMV84WlVvRmdSM21fblhTS0F5TU80dnd2YU1QRENUY2VxZGh0WVY3UWF3Y0VURjB30gHnAUFVX3lxTE9PbnpONDhXczJQZEJBM1dmVnpwcDdIeWdBZWtRSFZEcl9kOURRUlBtMklKUXBKWWhHUUpIVi1WRmNCa0RWMzRkSWlSUDRLMm5Qb19ZRmRVMlN1LXl3OWFOZUtKazdRSGhWV09WUnhDUU1IRDJkRy1SZS1lcXRVUWw2OWJvdk1qOGM4N3pVWmI2bTJJQnpRVWhJYi1VcVRoa1NXS1dEZ1MxTGt6ZUhlNEQxRTFaSktwSU14Zjh4QXY2WXpEdktLZ01qUndtZWpvYjJtOVo5R2Z5Sll5OEpTWkJKczZXUFpqUQ?oc=5"
-        },
-        {
-          "outlet": "ThePrint Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkpPN0ZIYWZGSmYtbUYteVpGVzJaVDZCeklKeHlmcnh0cm5MZzNiWVl1R1B0Zi1PLUdCM2g1ZFNGbWR4bW1FT25VUFVOdjY5WEE0ZFBJS1ozTkd1TkpkS1pNWi05NV8yVU5yR2JGZ1dKSnd3amlDeXM3NUxoaW1WaFRUY0JvWGZLWjdNTHViZlJJdGtOVHF1QzlZQzZjX09lcTFkMUVn0gGrAUFVX3lxTE50THUzWnlNQWFiVmJZQ19qVnFSemZQWnNWdFBNMXBCNHBCZWFtdzg5alJUVjFnRm85VExwWUw4c3RnZ1JkbjRnb2NJaEg0VjZZUmNPZ0tOa2VrWTdSbjJuclBubFMtX2hZTEUtQkQtNllQSzlrZkdaMDNjVWltNGdnRnlEN2w3Y2NMV0t6ejJXN3NvR1hwMVZOQjdsczJJLXU2blZPNnFzeERPTQ?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM3J5bmZuMnZKRW9wbV9kaXpLYTFhYkVZNkd6aERpZF84c0lGZnZYQzdGUlkyT0NVLXl1TnNaUGZYX21hMkowNUlnT3ZBLS0tNWJZc21jajlNM194RHFGWW1Rb3htb2p5Smp1MHVaeVdKdEdxYzRIRkp6T3MxdXR2eDJSd3Izb2xKYUV4czd1MGFpejB6cl82TzFGbDlBZ2haVi1kOThnR3M5TnNHM1kwSWlnT0JLQXVEODA4S3RkT055alpMM05qNGZlRDRzd2JpRmfSAdcBQVVfeXFMTXdWb3JZRUZESExJRk5zQUxtLWtXb2V1cUR1ZmM3dDlYX19wOFFpMF84UW5rS2gzc0dDTnRCRjRod2NVandPRVZBSlI3QjNlS2E0MnlZUW1zMU5ualRrYXE4eDcxcUFVS3h5WUJ5V1JDeEJEd1NEeklrUjZyM1JnR21PdkZqbEdKTjRsbzlZTjREZEJZRnFTRWRrd1hfMDBLbFV6Skx4ZlVGaXNTeXJZLVE5RWc1VGJqVkQweDVrWUJLamJjd0U0VHpibE5SS0NaTWhMUTBqRFE?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbUFYeUZaZmdPWExCbE56dGZBazlfM2xya183UnVuYVZlZXlhYWplTjRVV0FWZlM5eURrX2VBZUhBSmxqZnhyNjZJdDdmelNHNXJtX3lraXlLSjh4VEtFMDB0UW14NXB2QWlJXzRTYWktbUlXdmN4M3VUOWFvLXZrWTBOOFFPN0hoZURfeGFmb3hsWXZ4elZ1cnRiVDRfbjlVYUNLY3p2Z284ZFFob2MydHJGR3Vtb1F6YmJadUhCMDhIdmc?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFRTZ21zUjJuNlFGSVdYWFJoWDNxOTl0ZVA2b1hvMzNaT3FkSEUyNUhLdGIyMklnNU5tN01hN1ZnMjRnMmZkME5veXBHeVJPNndseHBYYUFTR0xFRHYzUW1TcGgwYXJpeVQ0S0w5d28yU3JHOVRTQlg3c2ZNSWs2bXJJZlpGWDlNZHAtVmVXUWdKeUxzcDR0OVN2cGJsRmRJOUxid0lhY3o5OHJIQlF0ajA3dlZ0OVJZeGxMLWNyZ1p2WEZiQlVn0gHMAUFVX3lxTE9tb21rc2kzTC1GVTRJX3RGTWRoSVRxTW1ZeFhvcHFpZnBVSGZ2Yy1sWEJFSWdzSk9ObXNfOGpCaWFCR0hsNTNwSmVXRXpoN014WVBwTE9yZ19tenlJenZRanRXMmlnQTJMZ2lCVW1FZlBwZjdvNnRJczNPczhPVV9kd25oYkMzNlB3ZDNyQmdReV9xUGpzbWtfeFU2S0V2YXVQMGFmOE5uSXRMY1pQMk1zTnZJQ1ktbGY5OXpwSU9XeXROYWQ5SVhpa3Q5Mw?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlNrTWZVVTFMZFNrcEgyS1Nua2loRUFzdkRqcy14UEI2TlQ3UTNJYTlIWXl3ODlMQUd2cmdZd3daNXp4ZXYwbjFQRjFydFdnN0pDVFRBeVlEVzBjdHpWdmp3dUxWbnI0UkhCMWFHWFJuSndzZWlfRG5HWHF2UHdzbkJNRTdBb3pFYnIxUV9OeHBDdXJUR3hCQktpcGJGUjdndHJWdU1pVHFtTEJMYnZaRHVaQWRHd3g5ZjB0Ti1ibw?oc=5"
         }
       ],
-      "source_count": 7,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना के मनेर में पैक्स अध्यक्ष की गोली मारकर हत्या: बचाने पहुंचे प्रखंड प्रमुख पति को भी मारी गोली, दो बाइक से आए थे चार अपराधी। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें India TV Hindi और Hindustan शामिल हैं।",
-      "image": "images/prabhat-khabar.jpg",
+      "brief": "पटना के मनेर में खूनी वारदात, पैक्स अध्यक्ष की गोली मारकर हत्या, ब्लॉक प्रमुख के पति पर भी बरसाईं गोलियां। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें ThePrint Hindi और Jagran शामिल हैं।",
+      "image": "images/india-tv-hindi.jpg",
       "image_kind": "photo"
     },
     {
@@ -639,8 +610,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "2500-88-km-jagran",
-      "headline": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास - Jagran",
+      "id": "15-prabhat-khabar",
+      "headline": "पटना : 15 नवंबर से बदल जाएगा मसौढ़ी रोड मोड़ से जीरो माइल तक का रूट, जाम से मिलेगी राहत - Prabhat Khabar",
       "summary": "",
       "date": "2026-10-18",
       "topics": [
@@ -650,29 +621,19 @@
         {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXI5aUJjRGNUb2Nvc2V6RmVqZXpjVmJNVzk2eHlXOWtlNGlJcnB3SkJTU2ExTmk0VkF3Q2RlU3BaLU11ZU0tUDhrbDgyVVBrWmIzOU52Qno3VWNNZm91QzJ0VFJKLXp0UUROSFhtWTNFT0lQSW1weW9ZbFFRMWM2UXF6czZleU0tQ2RSN2JLQnpFR2hsNTlpZFdqcnlEUjdyMmJpdGIzTm9JNTdiZjgwbUYwRjhFZEdQQ1BNWDdB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNFNkX18yYVFyS29XSHUwWmxDb1kwZDRlSVo4RFJ6anVPTW9OcDJLWFlReUlJZHYwQVU2ejA0V3V5NnVmT0FQQUJrOFdRTmxxbFR3bGQ1Q2ZhY1c2U0FmSVgtTVNjV3psNHV4MHhkOURZeU0wajB2UzRSS0VMYWgxMmNvamUzQnRZRHRpNUU3XzZZaFo3c0pVVzY5MWlVblNWeFIydmw3NE1uLW1I?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS2ctLUc2QmRlY2lOeVltUFFBdlBWclFHM3hTdXhFWHBZQXRUckRfamlEU3F3MGdzRlhXTkZBejQtVkQ1eWdLV0RJTTQ1anNDTGVqS2IxZDRWYVU4U29hTDk0QlBCOG5mRkx1bk1fVENuLUZtdnU0b0JzYmZSclNLUVZxNmNKX3F3WEx1d2tnc1ZxeEtKcV9FQUNtc0NaY3lQcUJ2Ti1SdDJPWE8xQkVLWGFXR2VTLVJBMHoxZ2U1cVhXNlJ4VzdKdU9mYw?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXdkeVJSSjZRQ3JNcFlucG85ZGtSbVZaMjFTZF9pNmF1Y29mUW44dThNUDZkTmVUVjhZWnRCUW90YmFrT2hiMzk0WGY2TmxtRTFfZmNwU0hSckhtcEl1UERoNVRTZnM0R01RVERBSkVoeVhpQzJTdkpaaE1mOWZ4a0JpRG1DT2E5ZWhHNThZSzBxQ2lqWTk4U0Zya2swYnFQQW54TE9ZQ1pZWkhKamZMSUJvMjg1cWFEVU1vQUR2emh5ZUJmbkNBSmt2UkxULUdIdEpDMzlKaDU?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFBvMVNfQnRlVF9tLU1Hb0hxbDBVTWFDa1VJd091WTYybEdmNVpsUUUyQzlDUU1uQTZ4VnFha0p6Z1A1d0dyeEFWanljWHc4TjhydWl2Z1llc3JTY0JuVktxTmRpdnMtekJsaTM4MzBwanJ1cktybkNEeXVFQWRRN3pxSmhERURLLS1EeEVGQi1nc2l4YUt0dzN2a1ZIdDZhU2JRYWxrUk1TVnlkZ2N4X0pmOWtONUZIRFpRa1JpRFB6cDVkbkdzYkE5enVlTk5EX1FwMXl1Qktha0R0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFBFc1pfaFpTTFRvX3BILUZkb0FxRURSMm5oSE5JYmlNWTZjbmo3ellwM1N3c09BSm1yVVZsZlBySmFzVHQ1T3lsd0FsalAxUlJMbXY4OHBBaWFFRUJhSXdHTEdDLW56VUljcHpVZGcyaWdraXZmR19wZUp6LXR6elM2OWtkeE9VT1pQYzhYNllpM2RVbUNva1ZWaFdYMVd6bjF0XzhOTkI5UGlrRXlzcUx3?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/2500-88-km-jagran.jpg",
+      "brief": "पटना : 15 नवंबर से बदल जाएगा मसौढ़ी रोड मोड़ से जीरो माइल तक का रूट, जाम से मिलेगी राहत। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/15-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -713,7 +674,7 @@
       "image_kind": "photo"
     },
     {
-      "id": "hindustan",
+      "id": "hindustan-2aff22",
       "headline": "पटना की प्रखंड कृषि पदाधिकारी राजलक्ष्मी की डिलीवरी के बाद मौत, अस्पताल पर लापरवाही का आरोप - Hindustan",
       "summary": "",
       "date": "2026-10-17",
@@ -722,22 +683,22 @@
       ],
       "sources": [
         {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTWk4TWZ4WnZyOHhwZU00VGRNbVBnQ19zLURwSExWWGtiVGh6Ul9FcnI2X3Y3eVdKcVJpR25iQnFOU1p6ZEdFeExqYnc4Z0h2OUVSSG9vNDFSTWpZVVgwWHdIeW5hQ0xUM1BuMHJTaWROOGlUQjJkOUhQVVpBVGRHaEFXUzZhaDNWZlhoV3BBeWpIT3FBdVM1OE5UOS1teFI5RFFwRi1Dbnc1c0FWSVB1Uzk5TzV4VFpvdG5NbW45UnQ5bVhTelZFemNEMW13THJqcGFqYV9EekRNazhWbmpyMllpeFczdlhw0gHuAUFVX3lxTE43VnExWU1ZQ3lmRHFqRkxwRlpvcEVRbHgtYnhULWdZQThjdnRXaFlYSVlzLVltTlhEWlpnM2lqRGFzM0JjWFc2XzY0M0p1aE1SODBfV1Z6cndpa1M4NUlRVF9NWlhabzVvQi1MVVJYWTlCYkpPdXo1a3o1cFJHMU9pYWt6MUdUcWJ0dEVYSUNFdHMwX3hhVFl2QlNTVzV1R0R2UlpoTGZfd2JjR0NuT200Z1o0ZlUzSTE2WXRkSlRzLXVsOXI0c3hVcXllUkl6cEdpd1c1dkFhT0NhOXFNN1BPQ2tEMEh6NlVVSTJTV2c?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2YyaWsyMDJ0ZkRhTTBwdmFTWTdIczliVEV0Sk9nNkJqWVJjbkZpbTFDUUREMGRkVFYtY1JPc1c5VDNWY3N3Qk1XVll5ZURsbWN3bUhHUTJRbFlueFNaNTI5ZUlLQmxvd0JpX2hicS13a0VFaW56blNsSTQ4YjJRcEg5eVVjU0I4aEh4Y05QbF9ubTZPcTJGM3JTWS0tbDZkTDJLUTg1eFRFRFpRNzRGVjZ6QlBEV3NrcTk0ZQ?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTWk4TWZ4WnZyOHhwZU00VGRNbVBnQ19zLURwSExWWGtiVGh6Ul9FcnI2X3Y3eVdKcVJpR25iQnFOU1p6ZEdFeExqYnc4Z0h2OUVSSG9vNDFSTWpZVVgwWHdIeW5hQ0xUM1BuMHJTaWROOGlUQjJkOUhQVVpBVGRHaEFXUzZhaDNWZlhoV3BBeWpIT3FBdVM1OE5UOS1teFI5RFFwRi1Dbnc1c0FWSVB1Uzk5TzV4VFpvdG5NbW45UnQ5bVhTelZFemNEMW13THJqcGFqYV9EekRNazhWbmpyMllpeFczdlhw0gHuAUFVX3lxTE43VnExWU1ZQ3lmRHFqRkxwRlpvcEVRbHgtYnhULWdZQThjdnRXaFlYSVlzLVltTlhEWlpnM2lqRGFzM0JjWFc2XzY0M0p1aE1SODBfV1Z6cndpa1M4NUlRVF9NWlhabzVvQi1MVVJYWTlCYkpPdXo1a3o1cFJHMU9pYWt6MUdUcWJ0dEVYSUNFdHMwX3hhVFl2QlNTVzV1R0R2UlpoTGZfd2JjR0NuT200Z1o0ZlUzSTE2WXRkSlRzLXVsOXI0c3hVcXllUkl6cEdpd1c1dkFhT0NhOXFNN1BPQ2tEMEh6NlVVSTJTV2c?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना की प्रखंड कृषि पदाधिकारी राजलक्ष्मी की डिलीवरी के बाद मौत, अस्पताल पर लापरवाही का आरोप। इसे Hindustan और Jagran ने रिपोर्ट किया है।",
-      "image": "images/hindustan.jpg",
-      "image_kind": "photo"
+      "brief": "पटना की प्रखंड कृषि पदाधिकारी राजलक्ष्मी की डिलीवरी के बाद मौत, अस्पताल पर लापरवाही का आरोप। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
+      "image": "images/hindustan-2aff22.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "bihar-suspends-top-officer-over-deaths-of-14-children-in-vai",
@@ -774,6 +735,38 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar suspends top officer over deaths of 14 children in Vaishali boat tragedy. A politics-related story. Covered by The Times of India and India Today.",
       "image": "images/bihar-suspends-top-officer-over-deaths-of-14-children-in-vai.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "where-does-indecent-assault-end-and-attempted-rape-begin-pat",
+      "headline": "Where does indecent assault end and attempted rape begin? Patna High Court weighs in - The Indian Express",
+      "summary": "",
+      "date": "2026-10-15",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1U2QWlISk1HZTlWd3R3Q0l4VERlU3lNWHFwa3lxQWhaajdBUFEtTEl1eWRpbGxPYWJ2MGxvc1BCY3JHRGc5bnhobllRdWdNUU9wa1J1dGtTVVhPRFRMMlhMeUZCTHFWWkZSQ2R5RHNsaHFacTRFZWNRR05UaUQ1eDk4X09TYW83Z2hNRExrZDYxVDhGR2hFSmdyVDF0YkVkdGhlTGRZZWRVSUlRemhPSk12QkdMLU80cVg5c1RtTXFzUEQ2aXhhd2dTMnVaUdIB1AFBVV95cUxPampBRjRXSkR1WXBBVkJpVC1MSHN3NU5jQzdFQ09kTkpFSmw2ZGlEYkg1THBzMkEwZG1acW43TGZpc05wZThFMDBlVnRGSnBZQTNuSGR1d3NtUjhhMjJlRzQyOGZnSzFvMW9EQzZ1TWY0cGlMQ0tMSEh6U2tDcVo5YUVXbXpnVDdCNnYyOWYwWmxUOVVPeWxKczdPZ01oanFpQ1VRMGtVcGhPSTlzdE5FclRqM2xMMDZTaDhhMjlrbG1xWXEzeUpSWUwwYktCLUFpQnY4SQ?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjB5OFRPQTFEMzRHcGh5NmNzcngxTFl6dVhOcWVhMF9ZbHhyRldKV3EzSXNEY1NxMl9pQllIRy1sbmx1T1hjUm9yMG5Tb05NdElvT0E0V2hrRDJzdHQ2YjV6SVRUaXE1Vi1KbG5oYVBSWFJkMDJTRWk5WEN0NVRuYWZSbDhQQnRQZ1JRMm5tOVlvVGVYbHdIRTVIeEJsdlhZRDBkQjRtSU9tVjh5SDhONtIBswFBVV95cUxPeW45VW1HeU14QThRdXRlMGowX1RUa0tYOU5TekZiMDZSWk9ZYUZvMDhBcG4tRlJzVWFnZDQwVWxVWHhGVzhhdDQyRnhSMHdjYnlnS01zUmR2eElweENvUV8zOU9EODB4SjNUTmpqaTF5THZZZl83bmExdjB1Tmo5ZjAzYXZIeTZpZG1yQ1FTSld5XzgyTzVTVEN3VTlJXzVFTnZ6QktGYlN4bVdkZ1JkQWdROA?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUjdzS3JNbjdBOFFDMGNXTG5xbEpQVmVmdlE0ZWM4TUFSY0E1NFF6aUJHc2JTNzJ6Q0NRdFF6OVQ0SE5rWUxvY3o0dVd0SXJhZXh1STFkUEI0Qm5WQUJjTWkwYjc2SzhBc3hCbDVhSVZlNlJWQTQ4WUJKYWNCY1FPQ0wxaEYwdmE3SGNvSE00Z19NeXNIVExuVnNwUGhiOUxLd0FUTnZoaDU3d9IBrwFBVV95cUxOX2xhdWpNWVBwdnp3MTNsMVEzM2hYR25HZTBUbDJyRzJTNjNLY0djOU5wc3FDaHVtYkl6VjlxTUJkbXhuQTJGY21jS1hXd2c1akRxb3FGYmpuQ01VVmYwd0NaV3FWeDhHYkNRVHgyeTZDYjNZQ0QyanVDM3Q1WHEyWHowYVpCOWNrWmhQT0xZa2tXSmU5a0NSZFloNkt1bERhZDNpYlp6UkhtRFg1clBv?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Where does indecent assault end and attempted rape begin? Patna High Court weighs in. A crime-related story. Covered by 3 outlets, including The Indian Express and Rediff.",
+      "image": "images/where-does-indecent-assault-end-and-attempted-rape-begin-pat.jpg",
       "image_kind": "photo"
     },
     {
