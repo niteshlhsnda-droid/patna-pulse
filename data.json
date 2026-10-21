@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21 15:35 UTC",
-  "generated_at_ist": "21 Oct 2026, 09:05 PM IST",
-  "story_count": 56,
+  "generated_at": "2026-10-21 16:35 UTC",
+  "generated_at_ist": "21 Oct 2026, 10:05 PM IST",
+  "story_count": 57,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -158,14 +158,14 @@
       ],
       "sources": [
         {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2NONTVpOW4walp3RGhpdzU3VFVVdGVKTG9Sb1VMWVZ1TjdjazJvVVlzVmdGQUhUcjlqYzZvdEE1ZGJEZkwzOXBHM01EaWhHU2RuWFVWejV5QV9BR0k5bTB3Wlg5Q1lNZEMwVnhpMzRTTC05Rm1tTkNwcWlmZEx4eC1SZkJVTmJPYTA0eXg0TmZBa1Q2LVJCSjl6MXrSAaIBQVVfeXFMTmg3XzZXQktqbGU2eWtzQW9PalRTRnhtb1JPM0E0VXNKLV81cFhvakk2Z01VRFJwY2JwSnRpMzdSOU1TdlJ6ZjFzRGFTaXl0VUpKaVR1VlEyVy1QeUVadUFGd3BfMWRNUzBCVHRDTFZySFZNTEFNeS1mVS1rckp0bldxVGdpOEJoVW1HaVdyR1BWYklCS1d1RXg0YmZTMTRKYmhn?oc=5"
-        },
-        {
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0J0VXNlQmN3ZEVRUlhRLWYwN1hiaTBMbi1vRE94TnZQNS1SWlVBSzBILXBJWWxibmJfTnFRUWM4UjVQcDYyUlBvSXdPRjUxSXk0WVhYVEtybWZMb1N5b0JyYzlLRUR3X1FLT3pSTmhiSmpRdzEySVdSMFhXUWhmZVRxaVU5OTFhNHdab3NmZzdyMENRUXpzSzNYWldiU1ZQd254UU1nY3E4djQ2UmxwS2JMd3R6Yy1wcFU3YXZZb1h2ZVJ6VDZFZnl5WGJ0WWZhdTl6TFNWUzFQRTIwNEE?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2NONTVpOW4walp3RGhpdzU3VFVVdGVKTG9Sb1VMWVZ1TjdjazJvVVlzVmdGQUhUcjlqYzZvdEE1ZGJEZkwzOXBHM01EaWhHU2RuWFVWejV5QV9BR0k5bTB3Wlg5Q1lNZEMwVnhpMzRTTC05Rm1tTkNwcWlmZEx4eC1SZkJVTmJPYTA0eXg0TmZBa1Q2LVJCSjl6MXrSAaIBQVVfeXFMTmg3XzZXQktqbGU2eWtzQW9PalRTRnhtb1JPM0E0VXNKLV81cFhvakk2Z01VRFJwY2JwSnRpMzdSOU1TdlJ6ZjFzRGFTaXl0VUpKaVR1VlEyVy1QeUVadUFGd3BfMWRNUzBCVHRDTFZySFZNTEFNeS1mVS1rckp0bldxVGdpOEJoVW1HaVdyR1BWYklCS1d1RXg0YmZTMTRKYmhn?oc=5"
         },
         {
           "outlet": "Udayavani",
@@ -176,8 +176,68 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "5 kids among 10 injured in fire at Durga Puja pandal in Bihar. A crime-related story. Covered by 3 outlets, including ThePrint and Rediff.",
+      "brief": "5 kids among 10 injured in fire at Durga Puja pandal in Bihar. A crime-related story. Covered by 3 outlets, including Rediff and ThePrint.",
       "image": "images/5-kids-among-10-injured-in-fire-at-durga-puja-pandal-in-biha.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "vidhanasabha-uda-diya-bengaluru-police-arrest-bihar-man-over",
+      "headline": "'Vidhanasabha uda diya': Bengaluru police arrest Bihar man over AI-generated Vidhana Soudha blast video - The Times of India",
+      "summary": "",
+      "date": "2026-10-21",
+      "topics": [
+        "politics",
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeVpRNmk4R3hTbDNQdW5xTVZzNVlMbVJTeE83UEwxZTdnVnhSWC1JVlB4Z2Qxc0NNR3ZzTHJoYlI4Sk1NVmtCT1N4dmxIUkw5TlAycTB4RS1fLW9NMDdiQXZENExTQ05Hb2U0WXNTNGVRbHhvWlBzblBxa1oxa09mc3hya19WNjllQ2sxd2dtM2YxU3phNUVBeGE1b0NBWWZ6UkJSbHRneHJtWWh5ejEtOEFud0ZvQ3l4aHBfTkYwb2h4Vk1wMENURmxBaVZSN0pERUNMZHc0U2g3eERKUm5NYVZvREMxUTNzWWRpeE1ncmNydlk2ZHNCTHBlVk9qOElidXBUNGJScUvSAY4CQVVfeXFMTmlmSlpOLWNvcDFKVnAxcVQ0ODhHelFiMWtWaEk1aU00NktXXzk2NWhEYm1aQnBMdjJ3ckpTTVJiUE5sbUVKb0ptQjF3Q3NXekdxaTdVaXA2VVhUY0hvb1lyNGRPMDBEdE9vaXpRZkZlOUpqaVROY2w5dnFvdHJNWU9tYVB0QWV4RDZHRWxJV21yUFkzcGtaQ1RjZmYwSGt3U0FaWHJoNkxzYTVJY2RtQTkwajZxTFhia3p6MGNSMThnMnoyR0h3bG9XcE9Dc05TMWkzakkzU0JSa0RtM3RCRENXeUJUZlZqTG8tZUtyUjUtNHVEVHUyV09IaW5lOFByTV9DeDlBZ0hpbFRUZFF3?oc=5"
+        },
+        {
+          "outlet": "India TV News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZGc4cm50MWM1cnYwTDJ4Sl9RX0dtQ0lwTnZVMUYyS2E1Y3VQVWp2XzZfajhFZ3pxWTBrUEdJUHBLU18tTGdsRTJMYnRaOVFHZk5zZjM2Mlh3bElLbXBTR3BtN0JmZ0k3d05YNVlZUENvTjA0cUlHdEEtSk5ld0tHZTFJN2lDSmRrbTVrOFIzSVBNeHFkWnpWS2VkbjJMOUJLVENVTXpqakx4R05hOGtjcWpHY3d6V3JIS2trSEtGalNobGZtYjAwU1lhLS1TenpRV0xadnlXWdIB3AFBVV95cUxQUG5Da2c2a3B2SjJuRjJkVjlMWU5tenpJT000LUItcjJNTURWLW9jcmt5MDN2VDJOTm1iUVlsMnZvR3VodjRkX2tXTXdnTEE4SnRGUGxrT1NoTC1qODI0NXdveDRpSjlrUUltZ2g5NVJiVnlZQU9FRzV0VGY2WUhRMW4tMmRoZkVQVTZIVTdSS3ZXd0hMUmxGZlplblBWeWRPZ2JUby1aU3hTYzlDQXJJTG5FYnNvZWthNk5OU0xmMkhPeEdseFl0TEhtNjdDdm0zSFpFMjBlTi1XSWdW?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "'Vidhanasabha uda diya': Bengaluru police arrest Bihar man over AI-generated Vidhana Soudha blast video. A politics-related story. Covered by The Times of India and India TV News.",
+      "image": "images/vidhanasabha-uda-diya-bengaluru-police-arrest-bihar-man-over.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "bihar-woman-sachita-devi-dies-after-nine-day-navratri-ritual",
+      "headline": "Bihar woman Sachita Devi dies after nine-day Navratri ritual with kalash on chest - - Millat Times",
+      "summary": "",
+      "date": "2026-10-21",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRzdlbkZnVU45R3BYeG9lbGJHc3ZQa3d4Y1F6Ui1UR1NtTFRpYWR2N1dWUEI5VDBWUTgzSkJaNXVPZGJLNC1XeXJobDdMbERQQTFTbXA0SXVXUHhkTGVVcjQwQW01TlU0TEE1QkJHcTlKcEtlTkhSZlRyQ3U5WWtNYW8zWG1VRS1VYkI3UFMtYmRjUGdJY2g1VXRHVFpIaVNqNjZudENqVlBZRzlxZGFYQUxMdzbSAboBQVVfeXFMUEpzTDlINElySnhLV1BqZXd0UTg5T2tQSFlYdDBsSkZTZU05aWVOZHBfZl8zNDdkMV9JdmV1MTUwWC1kc3Jmb2hBaEM4WjhCLWtPT1pDYTlEQ2RKVUpjYkxHYmtwMExQNTNoYXlIRG1acEZhQVZNNk5wdHV3bzYtM0ZURUVFbjJSMnVTa1VfSXBNVkF6eHBKNXBQTWtLODBoU1NHcXVfT3FUWW5qX2dOWXA2X0dlLUlmdkJn?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVU5EU01pLVNfeWcwZzJiaC1MajRFdTc0OFRQY2NsMENuU1BZVFhHLUxSNlB5Z3pweDdOYTVObTlBcDdqMHZJLUlYeUtJZWIyaXFiSlhFOU1zSUlNMkoyU0NYaV9xdjc0bTNuVXZqMERDVEZXLVh1aTRfNEdTbEFENlV6QVVHMHdrX3ZoU0YyRmZtV1d3Z3hqd0pBX0tscElpQVpGQVpsZDUyV3kzMlB6VGpRY0FXZ0FjMV95OXRhX1ZRQkNzdXZPejVBdHB0d1FiWVQwNUNpdTdKUdIB3wFBVV95cUxOa1kybVhHZU51czVVbGpTd3Y3RzBjQ1FRc0t3Nl9TNS12bGNTVW9yQXVDWFR6cG42R3BYZ2Vfc0NNcG16a0FYNlVlV2FnaTI4S2NBazB4YlhtUHFERjdrUlhleVV5VlJBeG0zc2J6aE1fSjNvWXNlVkdkM2R6UzYzcGdQdzdvdDlnaEZYekFpRy0yUEMxbHN5VzBhZDdnS0dsR21XYXBtMUR4NWFlanMxcEZabGhUY21JRHRRbUQxNTRHMWg2cExieHYzU29RNGc2bUV1SmRCdHNUa3VGT0VN?oc=5"
+        },
+        {
+          "outlet": "Millat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOERaZkk1WjhhLW8zTDRyZXYzQ3NFdVZtTk01TUlMV2htdzJ3MFA0LWZrODN1SFpkN1o1ZndHbHRkZl9NQ2pGU3VzVXBXWTdGZFZ6SEpUM24tOW9ON3ZxeXlJQWhCQVAxcTgzN1psbnAyelNYUlQzYVNhRU1vMkFaOEEtZDhEVW95NjV4Z0ctbW5RaDU3ZXBfLWJMblUtQ1kta3FzOWROZnJTUQ?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar woman Sachita Devi dies after nine-day Navratri ritual with kalash on chest -. Covered by 3 outlets, including ThePrint and ETV Bharat.",
+      "image": "images/bihar-woman-sachita-devi-dies-after-nine-day-navratri-ritual.jpg",
       "image_kind": "photo"
     },
     {
@@ -208,33 +268,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-woman-sachita-devi-dies-after-nine-day-navratri-ritual",
-      "headline": "Bihar woman Sachita Devi dies after nine-day Navratri ritual with kalash on chest - - Millat Times",
-      "summary": "",
-      "date": "2026-10-21",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVU5EU01pLVNfeWcwZzJiaC1MajRFdTc0OFRQY2NsMENuU1BZVFhHLUxSNlB5Z3pweDdOYTVObTlBcDdqMHZJLUlYeUtJZWIyaXFiSlhFOU1zSUlNMkoyU0NYaV9xdjc0bTNuVXZqMERDVEZXLVh1aTRfNEdTbEFENlV6QVVHMHdrX3ZoU0YyRmZtV1d3Z3hqd0pBX0tscElpQVpGQVpsZDUyV3kzMlB6VGpRY0FXZ0FjMV95OXRhX1ZRQkNzdXZPejVBdHB0d1FiWVQwNUNpdTdKUdIB3wFBVV95cUxOa1kybVhHZU51czVVbGpTd3Y3RzBjQ1FRc0t3Nl9TNS12bGNTVW9yQXVDWFR6cG42R3BYZ2Vfc0NNcG16a0FYNlVlV2FnaTI4S2NBazB4YlhtUHFERjdrUlhleVV5VlJBeG0zc2J6aE1fSjNvWXNlVkdkM2R6UzYzcGdQdzdvdDlnaEZYekFpRy0yUEMxbHN5VzBhZDdnS0dsR21XYXBtMUR4NWFlanMxcEZabGhUY21JRHRRbUQxNTRHMWg2cExieHYzU29RNGc2bUV1SmRCdHNUa3VGT0VN?oc=5"
-        },
-        {
-          "outlet": "Millat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOERaZkk1WjhhLW8zTDRyZXYzQ3NFdVZtTk01TUlMV2htdzJ3MFA0LWZrODN1SFpkN1o1ZndHbHRkZl9NQ2pGU3VzVXBXWTdGZFZ6SEpUM24tOW9ON3ZxeXlJQWhCQVAxcTgzN1psbnAyelNYUlQzYVNhRU1vMkFaOEEtZDhEVW95NjV4Z0ctbW5RaDU3ZXBfLWJMblUtQ1kta3FzOWROZnJTUQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar woman Sachita Devi dies after nine-day Navratri ritual with kalash on chest -. Covered by ETV Bharat and Millat Times.",
-      "image": "images/bihar-woman-sachita-devi-dies-after-nine-day-navratri-ritual.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "prabhat-khabar-bc58da",
       "headline": "दिवाली-छठ पर चलेगी पटना-दिल्ली वंदे भारत स्पेशल, जानिए दोनों तरफ का पूरा टाइमटेबल, इन स्टेशनों पर भी रुकेगी - Prabhat Khabar",
       "summary": "",
@@ -259,19 +292,24 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd1piVHFQMklZbDN6UF9YVlB2QnRmYlRGQU1xQ1RiZDY0Si1JcXRnQVIyM3R2MkpITy1ORWxKZW5uMHVaZi00ZHVQbTNvYzhLTlpTMWViSHBRVzhmWDVWckNpZFZOZTFLMkY1eEdkTThyZE1HYlhCeVZyWWhSUUY5U1ZpaGhoN1pPbXB5OXpFMUMyUDh1cVNjN1BhSmZibklzd3hOenozX0w3RVphRFotR1E1WXdfbWc4QUgzNE9qVVZxaHZaWlFoVHljUENRMnNvR0HSAdcBQVVfeXFMTU5naTVsOVZOTVJGaFhWZ3NFVmRPdjE5VGV5UGZZWm9IWUttdUdodTZwNDdPZjB6NFdqdE1YMmRncWZUaG9pSFpNYkFfbU5TdFRlVGZYb25xRUE5N2NMc0NmUTkxOHZrOHNxM3A2UTAwS3A3VXN3SURQV2JCWWFKc0VkdWI5VWw4RENxZFp0OWkyeUtoUnNWMkdtRUZiRzRjR3ZzS0psbmJ0M04za2tvNGFmOW54MmJ6UmprQWgyaDIyNDNUVUp6YTBzeDRHLWVEVU1XZlZMVkE?oc=5"
         },
         {
-          "outlet": "Hindustan",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN2d4SkFjRUxsbHlfNUZ2NWZab2J4TkhNNWNwNEVCWHZlOTVqMm5FbURXWk4wWmlydkdLRjJaTUNzSG0xT1ZmYWxPNzl1NXZnQnlMRHYzdlI3V2x3RVlyZk9WX0NfclJUcjZ2MTM2aGJTc2ZvbTVLOU9McTI4MTJYRTNLRXFuZlJ6V1o0cUpMLXRLVzRuajVkQnA2QUJ3b0c1TFRsdUQwWUFsbW1oWHpkeGNTem1zemZycmZycHctRl83VXpySVRmQ0VlQ1g4ZXJ5RVNUYWRFcGlpVGJYVXd6QjVQTdIB6AFBVV95cUxOeDJOdkd1UFJUelc1ZWhjMXZnZHVJM3NGN1M2c3JabHMyTXRjSkhwUTlVamxwcFNKM1A0R3NSTVB1aDF1anVwZUthUmdpTzZpSk56b280c1JSbjkycWJxRG9ubnBEdVE2OFNiTXhkZmxwQlZSUnBsMTdwaFB6UGNyQWRabkNFRDFtWEFLOFhid2d6ejBSaFpOTnF6Rk15TnBOeERLaW4tUkJKQVZOaXhSY2hvQThmZVV5ZVM2WERGbUhVOFNNNW11RWt6S1BZNThiaGI3WWlmdGpNdmc1Rnh1QUlLbDRLdXc5?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ2VVc2RQanlXbnBGZVVWMDN3cjRncTl0emtTSHJRd1ZsTi1KTzVpNF9ZWXFnZFlHSWNualJ2V1pYMHNHaWY1Y1AweDhBM2FhQWdsT1N5TVpqUlBNcVZ3RHE5bENVNUk2aHNSeGJEVmJGcW5ZSmtBdzdwTFIyd0FHVThYQ256RnNManRnQzhpZm9jSC10Y1Rrak1BNmFYdS1JeHNtWm1QWklOU19od0hoOGFYaEstbGNFamZ0ZHE0YUNBVlpfMUo0ZTNBY3BUUVNTUUpDZ3FTcw?oc=5"
         },
         {
-          "outlet": "Jagran",
+          "outlet": "Hindustan",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3E4aXBKYTNvTUhlT3BRcGxwcTlFVGluVnlDTXoyN24tZUtCc2t5eE0zX0NQSTRlWjNxVWdkMTVXNVIyc2x1ZzFUV2huNDFuVmYtZ1BpMEMtblN6QXdBS0dhalk0cE9Eal9JdjhXZ2E3QkU4RE5RaG1RZG9KMjdXYUhMa0ZUN2Y3bXdOUFBOMVhjYnBZRHUybENwVV84UXFnZDRjNTZnejV5RFF6ZXNhampR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN2d4SkFjRUxsbHlfNUZ2NWZab2J4TkhNNWNwNEVCWHZlOTVqMm5FbURXWk4wWmlydkdLRjJaTUNzSG0xT1ZmYWxPNzl1NXZnQnlMRHYzdlI3V2x3RVlyZk9WX0NfclJUcjZ2MTM2aGJTc2ZvbTVLOU9McTI4MTJYRTNLRXFuZlJ6V1o0cUpMLXRLVzRuajVkQnA2QUJ3b0c1TFRsdUQwWUFsbW1oWHpkeGNTem1zemZycmZycHctRl83VXpySVRmQ0VlQ1g4ZXJ5RVNUYWRFcGlpVGJYVXd6QjVQTQ?oc=5"
         },
         {
           "outlet": "Amar Ujala",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2c1OWxydDNhdHFYVE1DaTl6dGlxUzhnaWR2QnpQbjBBY2RSTUpSVlV2MEFvUUdCQy02TE5OTEFzZmJsdGNPVzdoRlJRU2wzZEI5ckpCSTVBMUxkZS02VVlONXN3ZTBKd3pmN25LTF9NN0RhNGRMRTdKNWZhMzVPZENJbEJaU1dPV2FmRmt0MTF2WWtHLXBwUm1XUkFqV08tR0pTenBuTFZpWUx4VGJSNjdsYTdyMFZpcjdYcGV0OU9yUTlBNG5sVg?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3E4aXBKYTNvTUhlT3BRcGxwcTlFVGluVnlDTXoyN24tZUtCc2t5eE0zX0NQSTRlWjNxVWdkMTVXNVIyc2x1ZzFUV2huNDFuVmYtZ1BpMEMtblN6QXdBS0dhalk0cE9Eal9JdjhXZ2E3QkU4RE5RaG1RZG9KMjdXYUhMa0ZUN2Y3bXdOUFBOMVhjYnBZRHUybENwVV84UXFnZDRjNTZnejV5RFF6ZXNhampR?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -294,7 +332,7 @@
       "genuineness_label": "Verified",
       "brief": "दिवाली-छठ पर चलेगी पटना-दिल्ली वंदे भारत स्पेशल, जानिए दोनों तरफ का पूरा टाइमटेबल, इन स्टेशनों पर भी रुकेगी। इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Jansatta शामिल हैं।",
       "image": "images/prabhat-khabar-bc58da.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "jdu-mlc-dainik-bhaskar",
@@ -324,27 +362,12 @@
           "outlet": "ABP News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMzJyb3lPVnQ4UXlvcmZGdlZzeGN5UlRzMk4wUFlpX0Z3QzJLZ08xRW1aLURYSXQzRGtsUzRqU3hQNm9BZTRsdlVncUdJOVI0a2JFX096MXdSbVE4WmVtYVFVNmxCLVpkZE9sSGpSNm1tVkhaT3lmazZ3eGVMc1JHZHJDbXBMeE1ya210b1JSV2NBTW01cWJhQ0hZdXpVMm5QZnVwVTBRdWFjZzhqcmdtenZNU1lSMmU4MGFGVDJlcXRTTnhoVGJIc3h3NDnSAdIBQVVfeXFMT2JsT1h4NExzUUo5dXIyZ2RiQ0V3MkxVb1NrWUJpTzN1S0tQcW9SYVNBWjEteU83VWNaNUdzc0oxY245N3doX2F4NXcwaGF3clFoYUR1YmhFSURJTF90dzFQWTZoV3hBRFRRNTBaZ2pVb0h6ZHl6OElkZE43UzBqUkcwZXdXQTYzX3c1OVhQQUw5bnpyeU1LWWtRVTdmRFh2QXNmUnFkTkl0VHNJODYtVkp1eDd0MC0xTHhDcjBxUU9sYWdEdnVNdEh5NlIxUlZfSVBB?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQekMwN0stcVMwbS1zTktTQmoweFJVTkFsaFhmME83WkJRd05UUno1Y1lPMjNJd1llY25ZLVZjYU5aQ2hrMERfZFN0ZHFnbFdhd1BVdk5xWGFWRUp5YnU4VVNSek41WmJaXzJSaVJkMTMtbU1ZNXBoM3pfR09VYmxvTjN4dlBuQkxJVzgzYU44TnFsWDVkSTFCN1FWOTk0aEJCX21MVE9velBCSXIxUUdKVjlVYTdFdFVqTkppTjFDTS1DS1otTS1aUUU0Wi1nZXQ5cHfSAdcBQVVfeXFMT0o2WnFKZVNJeVNpUWRpUDhTeGNndi10dC1UYU4zX291cG1wUnNTXzlmOGlrNFpXVWp4eUtVRTJ4Z0x6VG9UZ0VtMUtMNmhPaVRmbE9pTF9EZTF2bDhkTkRQZ25BWGVEUHFjal82T1VjRmplNHA0SzVueW9fdkMxbVdSOVRoVm0xRUNZd0RfQzFxUXlsemxjekY3eWh0ZGJfaTRPTWNxeFVGcWV2TV9IbHNyMGZGYWxUTzY0bW5ENlNuNmktQzlrVkpVX1U5Z205aXg3Q0h2YlE?oc=5"
-        },
-        {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlZldTkzT05sWTRLVENlb1dTTnpaN0xzaWZMekx3V3BFSlJMWDk5ZFYya2tYV3BOb2JiLXhwT3FYWE9pNXdraDR3bGtQY2Y4b0RRYTVhZzFVUXc5bzBmeEdFLUpwbXMzeUFRcXJjN1Z2c21sMlVRdVUzVG80MlpLNUpIVmYxdGZBaHI1Qi1kcTZBTFp3LTMyWUdXNlpYc29rbm5qdmRkZk51b1liMHJKRkk2dTZnRHY5RFRGWHNTX1U1NUtuVXpLZFF6M1MyRUJH0gHWAUFVX3lxTE15NTJ6SHgxWWt3b2dtcy05SFhvTE9fSXZHR2M1cnhNamlvM3VXNEo1VDNVcFVYVkxuZDNCUXF0ay11TEpnYzBIV19TMzBydWpILVJQN19NdTNKbnh0N2hIZGRDTzhNYUxNM2dDbG85eHh0dVVSVzVNYUdsUzVwQWJEZVJncHBQTy1MUVNPMlFSZ0FLb19lSzFqQU8yOXREZ2NEMFhHbUEyRzN6U0tydHBEMW5lMXU5YVJaeU50N19jX21NeXRNNl9wOGdndnRZS3JIQlV6UFE?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOGlBbGx2cmNoREQ2T1BqZTFLSnV6MVhUQzVMdktHczJRRnhJQTM0aEZ0QXk4cFhxakVLaWI0aDl4dDVpcHBrQjFqUG9QTzlpbUZtaU15VE5zN2cxb3B5Q3VFUWhOSko2RVFORl9ldGstQ0lRc3k2ZE54dFV4Y0dKM1R6UmRlMmp3aU1TRTlBWTFQV1VhUFhnanZsVnl2RUZIR0N0VEtjbVBnQW5KT0RZVUhMVmtxdVRqUFpHakN4UjBMVTdwZFhjTGt2Z25RQ1o2TklaR3RtVzE?oc=5"
         }
       ],
-      "source_count": 5,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना- JDU MLC नीरज कुमार की तबीयत बिगड़ी: सीएम सम्राट मिलने पहुंचे हॉस्पिटल, अनंत बोले-बूथ पर पैसा भेजना हो... राजनीति से जुड़ी ख़बर। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और ABP News शामिल हैं।",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना- JDU MLC नीरज कुमार की तबीयत बिगड़ी: सीएम सम्राट मिलने पहुंचे हॉस्पिटल, अनंत बोले-बूथ पर पैसा भेजना हो... राजनीति से जुड़ी ख़बर। इसे Dainik Bhaskar और ABP News ने रिपोर्ट किया है।",
       "image": "images/jdu-mlc-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -496,14 +519,14 @@
       ],
       "sources": [
         {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV0lPem9TWnNBN3dDOVJCLXhoYzdSTFIxM0tPUkNQNjNNZ1BlYXFPQnhNOEx0YU5LZVZ5djQ4OFd5MllsM19MRXhFTjZtMF9BLUNHRGJEYTlhVkdlSC1yMndmT1UtMnZITEhub2ZRRzdnU0JpOVBaYnhaa0QzcVhRaWMwdDdiR0RRUERYa0FHbGJ3T2FKSDBxZnI0dWhyUlBSMG9hU3Y4R1JYaXdkRWhKQ0UwMV84WlVvRmdSM21fblhTS0F5TU80dnd2YU1QRENUY2VxZGh0WVY3UWF3Y0VURjB30gHnAUFVX3lxTE9PbnpONDhXczJQZEJBM1dmVnpwcDdIeWdBZWtRSFZEcl9kOURRUlBtMklKUXBKWWhHUUpIVi1WRmNCa0RWMzRkSWlSUDRLMm5Qb19ZRmRVMlN1LXl3OWFOZUtKazdRSGhWV09WUnhDUU1IRDJkRy1SZS1lcXRVUWw2OWJvdk1qOGM4N3pVWmI2bTJJQnpRVWhJYi1VcVRoa1NXS1dEZ1MxTGt6ZUhlNEQxRTFaSktwSU14Zjh4QXY2WXpEdktLZ01qUndtZWpvYjJtOVo5R2Z5Sll5OEpTWkJKczZXUFpqUQ?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlNrTWZVVTFMZFNrcEgyS1Nua2loRUFzdkRqcy14UEI2TlQ3UTNJYTlIWXl3ODlMQUd2cmdZd3daNXp4ZXYwbjFQRjFydFdnN0pDVFRBeVlEVzBjdHpWdmp3dUxWbnI0UkhCMWFHWFJuSndzZWlfRG5HWHF2UHdzbkJNRTdBb3pFYnIxUV9OeHBDdXJUR3hCQktpcGJGUjdndHJWdU1pVHFtTEJMYnZaRHVaQWRHd3g5ZjB0Ti1ibw?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV0lPem9TWnNBN3dDOVJCLXhoYzdSTFIxM0tPUkNQNjNNZ1BlYXFPQnhNOEx0YU5LZVZ5djQ4OFd5MllsM19MRXhFTjZtMF9BLUNHRGJEYTlhVkdlSC1yMndmT1UtMnZITEhub2ZRRzdnU0JpOVBaYnhaa0QzcVhRaWMwdDdiR0RRUERYa0FHbGJ3T2FKSDBxZnI0dWhyUlBSMG9hU3Y4R1JYaXdkRWhKQ0UwMV84WlVvRmdSM21fblhTS0F5TU80dnd2YU1QRENUY2VxZGh0WVY3UWF3Y0VURjB30gHnAUFVX3lxTE9PbnpONDhXczJQZEJBM1dmVnpwcDdIeWdBZWtRSFZEcl9kOURRUlBtMklKUXBKWWhHUUpIVi1WRmNCa0RWMzRkSWlSUDRLMm5Qb19ZRmRVMlN1LXl3OWFOZUtKazdRSGhWV09WUnhDUU1IRDJkRy1SZS1lcXRVUWw2OWJvdk1qOGM4N3pVWmI2bTJJQnpRVWhJYi1VcVRoa1NXS1dEZ1MxTGt6ZUhlNEQxRTFaSktwSU14Zjh4QXY2WXpEdktLZ01qUndtZWpvYjJtOVo5R2Z5Sll5OEpTWkJKczZXUFpqUQ?oc=5"
         },
         {
           "outlet": "News18 Hindi",
@@ -519,7 +542,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना- प्रखंड प्रमुख पति और पैक्स अध्यक्ष को मारी गोली: इलाज के दौरान संजीत की मौत, दूसरा गंभीर: पुलिस बोली-... इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
+      "brief": "पटना- प्रखंड प्रमुख पति और पैक्स अध्यक्ष को मारी गोली: इलाज के दौरान संजीत की मौत, दूसरा गंभीर: पुलिस बोली-... इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
       "image": "images/dainik-bhaskar-7ffecb.jpg",
       "image_kind": "photo"
     },
@@ -711,38 +734,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-neet-pg-2026-counselling-dates-out-at-bceceboard-bihar",
-      "headline": "Bihar NEET PG 2026 Counselling Dates Out at bceceboard.bihar.gov.in; PGMAC Registration Begins on Oct 22 - Shiksha.com",
-      "summary": "",
-      "date": "2026-10-19",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "Education Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMjkwUmlGUXlNQzdvUUZJd19mVE5taTFiR1o0S3U3Q2twWFNpQ2QxcU9VejA3NEp1cmdOa2NWeG1RS1hjZmwxUEp1M0w5cFBhMWxVXzYwQzNMSWNuSWVZVVhuQXA3eVNyZVYxWkU5VFpHOVFnQkZPbjFtV2E3RFNKbV9ZZVl3eU5XVnVvTlU1cXVVdktXalc3MlUyd0xYLTc0NUVEVWd4emNZaUhDM0lmcHdISDJCbGdXTWttQkEwdWk?oc=5"
-        },
-        {
-          "outlet": "Shiksha.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaXpCeUNUZWJ3VlNQRXZVOGs5ejFtQ3VXMHNpMFJGVFpOaWV4cXdkcVoyUnZoNm9tWUdYdnE4eElXZ2hVS1I3YTgwcVU0RlhuS2Z5aGFSV3dxd290U1p5UGFzVDBHN2JjMFpGMXNYcENySWFPUUE1NzVjb1IyTlMwRVVzOTN4REh3eUdaMGpBMkJpV2l4QW1KdEl2LUFZeVhCYm1qVC1mRy1IZkw3Z2xKV0R1ekVWaHJRNjZaUHVwUER4cGlSWHBvM3pTMkxGZE1DSmw5UkF0a0lVSDdLclczMTJscGM3ZjBQWDBxUGg2dkRpbHdZd1VlcHlDT25YSDRm?oc=5"
-        },
-        {
-          "outlet": "Shiksha",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU1BaT2NoVnl4X2c5XzdWY0huTWxoZ0NCUU5UMFJnaFJrSmpFUXFHUlJXRG93bFZzOUNfQVY1VUVJdGlLbGJ5LWViV09zVjRSTFZfMGpKeGRvM1hYeUZCMHJ3ajNsb1lqMGFOWS1vOVFjMjBQN2M2Uk1Yc3Ntek9FWEh0Nko0bGQxVmRqbTF6NmprZnVvY0F1Yl9tTkJGeDJkbFEzS0p3emh3UG1JOEt6X0R4VjVncWdsMk96OG5naExRbVVJVXduSmJxUEwwUG92dkdTeTJ4eHFYU0l1bjBUeWFGQjJJZnYtLXQyYTdYUjVxMzJoOF9FcWowTU9sdHQtdnFlSkI0bkI?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar NEET PG 2026 Counselling Dates Out at bceceboard.bihar.gov.in; PGMAC Registration Begins on Oct 22. An education-related story. Covered by 3 outlets, including Education Times and Shiksha.com.",
-      "image": "images/bihar-neet-pg-2026-counselling-dates-out-at-bceceboard-bihar.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "lying-on-woman-pressing-her-mouth-is-not-attempt-to-rape-unl",
       "headline": "Lying on Woman, Pressing Her Mouth is Not Attempt to Rape Unless There is Any Act Towards Penetration: Patna HC - TheWire.in",
       "summary": "",
@@ -812,21 +803,48 @@
       ],
       "sources": [
         {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEZzLTNONlpjX1R2TDVUY09PU0UwRWZFM1g1YkNjdnNQbjg5UTRWLW1CQ0EzVmM3NlVzN1BtYXVORExwYXh2Wkl6QmxPenlEMTlncm5yaXBqNi1lWndBcjg1bTNBMlIyUnJDa01UTVV2R0JCOGtIR2pfbUgzbXF3MjNkM2QwNmRmeTFMbnMxOXRvUXh6OHFBTmFWbmVJb1lGTmVVS9IBqgFBVV95cUxNaGZ0cDJZNlhBZzFpSVFFRGUtZzctdnhsMTYwUFhEWDMxOVQwWG9vLTlmSmUxNnROTHZzODdoeHRZdXN1VWdQSG1la2ZkOTNIOVd0Z3VxRUhFQ1hEV2RVeWRNNUpUSVdNMDJ0NUtTNHV1VTVfR1QtdU1xSVZHZHRveG40WW1HREg2d19lMG04Ykljam14eG4wa2ZRR3gyckZya09ibHRYTktBQQ?oc=5"
-        },
-        {
           "outlet": "ETV Bharat",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzhBSzZVM0Q2elp6bFhOS3ZTcjFDamFpTUtVaFowWW1KZTQ3aklWZ3FvdW85NHpMM25kRWVGdEIyMHFKNTBEOTBYVlkzNWs2WXZhMld3Q1hNUjlTRWJGNndlUEZIbHpVVHJDdzBlaklTdUxaWGhWejdDWXhLM2ZMdGJRV3NCSUdMaHB5czIwY0I1Wk93TGt5T0JQRlI4VUxsVTRFWTN6VnhxOHFraWxCdVg0MXVwNlIz0gG-AUFVX3lxTFB6UFZST2NkaVh6aW50V3d3bzJ2Vm9TekFOUkZUY0lwVlY5R1NObDltcW8xY0xSWUJiRVlhWHNBZ01KM1FZTloxQzBLVm0zZkk4WE9pU3pOQWVkTkV2UURYOEdYZUFUNnM1bGcyek52S0t4LTVJRE1EYmE2MWxUcU9mcWpUMDhqLUxEY01lYWFIR3VRRGJQc29jZVF3dndoWDBaZE1EazQ4aTRTLW5KdzItemdkQ0tBaDNyNVhHU0E?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEZzLTNONlpjX1R2TDVUY09PU0UwRWZFM1g1YkNjdnNQbjg5UTRWLW1CQ0EzVmM3NlVzN1BtYXVORExwYXh2Wkl6QmxPenlEMTlncm5yaXBqNi1lWndBcjg1bTNBMlIyUnJDa01UTVV2R0JCOGtIR2pfbUgzbXF3MjNkM2QwNmRmeTFMbnMxOXRvUXh6OHFBTmFWbmVJb1lGTmVVS9IBqgFBVV95cUxNaGZ0cDJZNlhBZzFpSVFFRGUtZzctdnhsMTYwUFhEWDMxOVQwWG9vLTlmSmUxNnROTHZzODdoeHRZdXN1VWdQSG1la2ZkOTNIOVd0Z3VxRUhFQ1hEV2RVeWRNNUpUSVdNMDJ0NUtTNHV1VTVfR1QtdU1xSVZHZHRveG40WW1HREg2d19lMG04Ykljam14eG4wa2ZRR3gyckZya09ibHRYTktBQQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar Man, Seven-Year-Old Son Among 19 Dead In Kolkata Puja Stampede. Covered by ThePrint and ETV Bharat.",
+      "brief": "Bihar Man, Seven-Year-Old Son Among 19 Dead In Kolkata Puja Stampede. Covered by ETV Bharat and ThePrint.",
       "image": "images/bihar-man-seven-year-old-son-among-19-dead-in-kolkata-puja-s.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "2500-88-km-jagran",
+      "headline": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास - Jagran",
+      "summary": "",
+      "date": "2026-10-18",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS2ctLUc2QmRlY2lOeVltUFFBdlBWclFHM3hTdXhFWHBZQXRUckRfamlEU3F3MGdzRlhXTkZBejQtVkQ1eWdLV0RJTTQ1anNDTGVqS2IxZDRWYVU4U29hTDk0QlBCOG5mRkx1bk1fVENuLUZtdnU0b0JzYmZSclNLUVZxNmNKX3F3WEx1d2tnc1ZxeEtKcV9FQUNtc0NaY3lQcUJ2Ti1SdDJPWE8xQkVLWGFXR2VTLVJBMHoxZ2U1cVhXNlJ4VzdKdU9mYw?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXI5aUJjRGNUb2Nvc2V6RmVqZXpjVmJNVzk2eHlXOWtlNGlJcnB3SkJTU2ExTmk0VkF3Q2RlU3BaLU11ZU0tUDhrbDgyVVBrWmIzOU52Qno3VWNNZm91QzJ0VFJKLXp0UUROSFhtWTNFT0lQSW1weW9ZbFFRMWM2UXF6czZleU0tQ2RSN2JLQnpFR2hsNTlpZFdqcnlEUjdyMmJpdGIzTm9JNTdiZjgwbUYwRjhFZEdQQ1BNWDdB?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बिहार में 2500 करोड़ से 88 KM लंबी सड़क बनेगी फोरलेन, पटना से झारखंड जाना होगा आसान; अरवल-औरंगाबाद में बाईपास। इसे Prabhat Khabar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/2500-88-km-jagran.jpg",
       "image_kind": "photo"
     },
     {
