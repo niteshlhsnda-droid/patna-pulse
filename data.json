@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22 22:35 UTC",
-  "generated_at_ist": "23 Oct 2026, 04:05 AM IST",
-  "story_count": 46,
+  "generated_at": "2026-10-22 23:35 UTC",
+  "generated_at_ist": "23 Oct 2026, 05:05 AM IST",
+  "story_count": 49,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -34,33 +34,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Second Vande Bharat Special train on Delhi-Patna route: Check stops, travel time, timings, ticket price. A civic-infrastructure story. Covered by The Indian Express and The Times of India.",
       "image": "images/second-vande-bharat-special-train-on-delhi-patna-route-check.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "police-misusing-ndps-act-in-cases-involving-codeine-cough-sy",
-      "headline": "Police misusing NDPS Act in cases involving codeine cough syrup: Patna High Court - Bar and Bench",
-      "summary": "",
-      "date": "2026-10-22",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "Bar and Bench",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOXg5UUdENHY3ekU4dGtFYVh1VTZFT3hSVDBLV09JX0paYTZYMDVEbVI4YWpUQzRXeW84cUxCUlQwclUyMW4tTk9QR1lOYWkxT1lDaWZvUHBQa09nWldXY0lQdTJCZWF6RnBtUktqRGFBN2hkOS1UQkJVcWZEM0c5dkFRTzBoRmlmUHI2akliRFVrd3BDLVU3bHl6VV82UnRaZi1rUmM3clpvLWtEcHFWZEo0YUVLVmJJOW1EX2pBM0dod9IBzwFBVV95cUxNdFFhazgwOVpSekhuVXlHVlFGTDZ1YVd3T3hSSTg2TGpzVEwyZ19ZOXBHcXQ3NG5EUjl0eEdTTE56UWJWVlVfY0tWb2FibzBmU2trNzdNT1NXRjRhSXJDQlNWejMzb1MtMm4xRS1wQ0pFYV9vd29ra1BnS3VKM3JuVVEwQUVzTTB2bE1laURUT1hReEJDLTRKOHZUaFNPVDZCcGxETC1jSjNtUEJJekY4a0JuNGdoOVpkbWRTQ0RTTnlzZV9LeHMtb05KQ1lnbGs?oc=5"
-        },
-        {
-          "outlet": "Court Book",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSUNRMVFidzFVYTlxZFAzMnZmclVLY3RUZHBZY1JCR2VOaDhLOGVLRjVEZVllSGFoZzBTQ2FNWEs2OG4xOUFNSzVqcEEzamVKVURVbW1hUVRKRkxoU05Fb3BtVWdzX3k0V19oR2I4ck9YT0JCR2pwdlg5LThjQ2p4QkpoYWktMEtCdGlxd1ZXbjM4M0FtUlpRR0ZZaC1JcDl0NU1USjVfZGdFa1VleG9hSENQUVM1SGdTd2dWWVdJdVVtWU9rSDhF?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Police misusing NDPS Act in cases involving codeine cough syrup: Patna High Court. A crime-related story. Covered by Bar and Bench and Court Book.",
-      "image": "images/police-misusing-ndps-act-in-cases-involving-codeine-cough-sy.jpg",
       "image_kind": "photo"
     },
     {
@@ -163,6 +136,60 @@
       "brief": "Ganga Vilas cruise departs Patna for Varanasi with 15 tourists. Covered by The Times of India and Urban Acres.",
       "image": "images/ganga-vilas-cruise-departs-patna-for-varanasi-with-15-touris.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "patna-airport-to-operate-47-flights-under-winter-schedule-th",
+      "headline": "Patna airport to operate 47 flights under winter schedule - The Times of India",
+      "summary": "",
+      "date": "2026-10-22",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVERkM2dpNmpYU05nZ3JDUWJPTi1xVnlSbDNOUTBwQ01SV0gzXzI4YnljUkY3SWU1Tkl5bFVVYWxZZDBpbEhTbUJoYVQwSzdRYjlhQnQ0VTJET1NhV2VNUU9QR2RwNUhUbkFKNXhyTmdfamRUTHZJYlNURUd0TW9qX3VUSEdibVotWFgzNE92Yzh3UURiRi1GN09PR2RhMmdEc0xsVmx1dmZyRUw3U0JObDZGdVhhNjZzNm9WLUFOZ2Eyc3d1RV9CR01B0gHPAUFVX3lxTFBPbHZuSVhhQ3hVclNueHVzMEEybzMyaThnbzIzelY1RElNaXRmVm95Q3QyWWxQX0JkMmQ5VmxyOTlFRkhnM3V1ZGNsdmVDcmlFYk1uWDdJZTllMlJ6WlhEcFp5Nk9rZmlmTGZYTkpuTHpEUGlGYTJIdGJrVktEei1BNXBWcVhLSGxTZ1NBUDBwVUp0NHB3cXdjT1Q4UHpybFVaSGNZZWFYay1mUWYzYUZibmt5X3lqLXhybjE2a2JTNTVaM2dPXzEtUERBZkotUQ?oc=5"
+        },
+        {
+          "outlet": "urbanacres.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUk0wQnV6NHBvWTlrVnBLM1VIT3dtMUIyQ1BMQ240ZVJpY0pjbVkySmdSaU9FZXFYMUZwSWptMXMtZEZFY055ODF6TGEzRDVMN3lZS3htNGh3TDlFSl9vU1FkS1JjZzlfWlFuUi02WlFITGo4WXpGZ3p1bnQ2UUtmUjcxeDN2bFRfZ281eFp6RkMxUEQ1djlCQw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna airport to operate 47 flights under winter schedule. A civic-infrastructure story. Covered by The Times of India and urbanacres.in.",
+      "image": "images/patna-airport-to-operate-47-flights-under-winter-schedule-th.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "launch-quick-response-team-to-counter-misleading-reports-cm-",
+      "headline": "Launch quick response team to counter misleading reports: CM - The Times of India",
+      "summary": "",
+      "date": "2026-10-22",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXlNeEJ2Mk8tN3g4ZXBfRDdyN21oeWc5WjBRLTRsaHVOOEpiYWJSWFdWSzM4RmZydXhRelRTVE83MDJjRk04Vld6dHlLaWI5eGI3akVaSUUzTG4wNk9uLXJhZzRFLVBsbUMxRkhZMUFCUHVkZjJ0MWVoUnpELTZHWVJyWEl5S3RhVlU2ODRnc1lReC1BOG5rQ3czeHNCSGlIUEtqVzlaWDYyWUpyZ0EzU29MZjJ6cDNfUGtISW40d1NvZGZOWGlienc2T2LSAdIBQVVfeXFMUEQ3dDBsdjR3dmFiUGQ5UndqUE15aTR0bzNnSVY0cnpBOFU1YmpsTjlhWVZxa0xKckFZbzNrbWw5WmgyU1BHZENrdjhZLWJ0eFBfWGdDRDlHQkxSSGdJYzZnM21lLVAzOXpxVG5ZVDBrX3VZNk5JaUpYTFUxMUpSSC1fSWtuV25pR1NDWnBhLXVzWXhvdS1pN1U3ckdRd1ZFOUN6alJKSXAzWUpiZHZCY1hlSWk1SmEtMnNUSGVaeTI4TEtZSk5hWkRtMlgtaFY3N3RR?oc=5"
+        },
+        {
+          "outlet": "Urban Acres",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzlrNWFoWGF0MnktMUs1QndQNGRMbGxBNlBnT0xhU1FBbzJ1NXhBYVI5OGhRdk9ra3hRT3gwLXVtT2ZJSG1VZ1lMN28wQVM0MTlGZkl0OW91c1BwNkxSaXB4eVdVWGJNY0l3a3pJZURiTlBFYy0yLXQ4ajJiQmNEcnpiY1dyaElkYmhPLU5FSkFrQQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Launch quick response team to counter misleading reports: CM. Covered by The Times of India and Urban Acres.",
+      "image": "images/launch-quick-response-team-to-counter-misleading-reports-cm-.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "bjp-launches-15-day-campaign-to-counter-opposition-s-sir-pro",
@@ -290,30 +317,35 @@
       "image_kind": "photo"
     },
     {
-      "id": "pm-modi-to-visit-bihar-s-bhagalpur-on-november-20-to-launch-",
-      "headline": "PM Modi to visit Bihar’s Bhagalpur on November 20 to launch projects - The Hindu",
+      "id": "bihar-man-arrested-in-bengaluru-over-wife-s-killing-body-dum",
+      "headline": "Bihar man arrested in Bengaluru over wife’s killing, body dumped in drain - The News Mill",
       "summary": "",
       "date": "2026-10-22",
       "topics": [
-        "general"
+        "crime"
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
+          "outlet": "Republic World",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3VUb2tvMC1BOXp2ZVNacldTMEl1M2U1MklST3R4djJPNkFJbGxDaUVTR053cXY5ZXAyakxXdmdicHY0WjN5bENweW9EazAtMnBlN2tPbUMtaUdTMWZpOVN3RXNMd0xHV29mbWp2a1hZTnpkb2UzMlc2R1NVSmhBb2MtQVpZc2cydWVISzI3YjlsRXhIWVk4dG5KUk0zUHBhTmc4RmJUN1VTUWlweVU4UUhBZjFXVlQwa2g5bkRXVXlwSDlhZG9HRDFKY0rSAdMBQVVfeXFMTkY2emFSQ2NMMHdxY3hGbXlzcGdfdDBUbmpwYVVXdUFvZ3dqX1RZU2w2UHhBRGxlbVhsMGp2ZENCQUhHUjhxVm50aDNVS3FUa1ByVXFIVzdRQXM3SEtoVWplZzVYdHFMNThsaHVUa0MxZjdldEI1MEhLQlFlUzRrczVjV1pqN0I3NkF6WnhWNXUySGl0ekZJaWtsZ01pUmpicS13c3lnSUI2RE1LMlp2cGF1OTdLRUhiNXBvT09xQUlvcFY4ajY5c0NOZUVRcmgtUHNsaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0FOUGFhd0RqQTBSbTlDMFJXYXR6dzI5REJDUldLMXRPNnhzRnVuWE1QMUpla3laQmNqRzJjVUxma2ItcndiVFBYRV8tb0MxOG1JUDFkRHFHWkFjdU5lc2RHMzk2b3pMb3JhUkpUcDFoR1MxMU11UTA0eDZ4TGNNZnh2Qm5ZZkZTR3RFcUNFS1o2SVVqU0tlcUpER3Q5SF91NnVDajZ2MWFrUW9FR1hIc3hWUW5ObF9IN3F1aNIBwgFBVV95cUxQSERySmg4dHlKMWpHclNJU2tJZ0RtSHNEM1NJdkMwT0lWR3lWSEI0NXFqc2hDVDBiVmlGd0wtRVJGekNpYjI2MTZWTG54R3p1cHhDM0d4cXJQNnFNVE9sQ2E4ejBXRlVFLUgyeEpDaUl3ZHlodjl5TWhoaF9VYmFCTzBoajhXMU5jbHhnOUZXeGpSWVN0bUpjaEt2OTc2ek1TUkkybF9NeThtSF9KTDZWWEdTaVdIMTFqX1RDeWN1NmNMdw?oc=5"
         },
         {
-          "outlet": "The New Indian Express",
+          "outlet": "NDTV",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmtweTh3d3g4NndVeG8xeXhLR3RmQngzYlZOdmo5T0NFTW1OaG9EeUNpLXZmcDRIYUZOeEVudi1nTmp3bldRaVp6eW55Mk9mVEl6SmRlRkRDT3lfYTNKOHc0dGQyQjFjdG5BUXlVWk1vdFlfMk91dy1hZFZMQ0V6c1Fxa2hzdW8wVFVKazRhczJmVWVNWk1VeDUzUHlLODQ3aVAxYll2ejhHNVRaVlHSAbsBQVVfeXFMT002d2lxZWNEM1RCSDdMQm4zb0kxSTg4SUszUDcwbDRKQ0NTcWJ5NWRfcjdOVmJFQkNPOWJuYWtuRjl5eTVVdkV3ZVdRT1cyNjZGSlVRR2RsUGhBWnBncUZ6LTN1RVlXcHVNeXk1b05UM01SY0JTOXcybC1jTEZ2RnpTNXdNUmRpbVZyY3piZWtZN0tXUXZINEFiN0RjRkFMZVVzemVBV3lXZG1pZV9TTFNBUGctdHQwTHVaQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczlFbWhobUxJdzBoSlczQ0toV0dWNjdVUjZDUkJpUWtlRkpEWXkzSzhJc293ZF9qZjRxYXNhdUNQdW5vRm1xdkJWUjBqcV9Xd1ZaVDdvQl9tVmx0MHpnaFRWUGVHWDI3dXRtR3ExTl90Yy1qbzJWZjl3WkhzNGV3VDNEQUdtaDZYVDgzbklOeE5fQzJZODdxa01zaVo0REVOaHBia2N5Szl2dTRWX2Zfa2wwY9IBuwFBVV95cUxPRTNxVE5TalVLZnNJTTNUN2lUMktxMGE1amoxZW11Q1JzTFhKQUNYb0dFNnMweW53TEthWmdmZzRCY0pYTTQzYzZsRGl5b1RpNk1ZMjNBRDY4TmctQk84OGhUcGJlRzRURUs4V2JIY1htY0sxSC01NVQxYUdLNnRRenFibmpvSjVvTTF1MTRDT2FFQ002WG9wcDRJZnZzbm5jWnFRejZQYU9JVzBYenlGdk5EMGVvQ1VQSHBn?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNEhNendDVXJMYkowNEFYcWozcGstOWJ4QVZCOGw0S29FUXBNaDRFTXVGUVlQU29YMUl6VGVDS1hpaU1XdUlZOVYzTnUwRzVyaXRhanN4dVNkNHVGU1dCOFhJZnZ1YlZYcmI0UksyR2VyZFRqZDRVUVU1M09VZkFtaFlpMWY3UTh6bUNEcTZrTGVyb1Rmd3BiNHYzTlV4WFNpQkpUVzYxRERaSTFhZUE?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "PM Modi to visit Bihar’s Bhagalpur on November 20 to launch projects. Covered by The Hindu and The New Indian Express.",
-      "image": "images/pm-modi-to-visit-bihar-s-bhagalpur-on-november-20-to-launch-.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar man arrested in Bengaluru over wife’s killing, body dumped in drain. A crime-related story. Covered by 3 outlets, including Republic World and NDTV.",
+      "image": "images/bihar-man-arrested-in-bengaluru-over-wife-s-killing-body-dum.jpg",
       "image_kind": "photo"
     },
     {
@@ -379,40 +411,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-man-arrested-in-bengaluru-over-wife-s-killing-body-dum",
-      "headline": "Bihar man arrested in Bengaluru over wife’s killing, body dumped in drain - The News Mill",
-      "summary": "",
-      "date": "2026-10-22",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "Republic World",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0FOUGFhd0RqQTBSbTlDMFJXYXR6dzI5REJDUldLMXRPNnhzRnVuWE1QMUpla3laQmNqRzJjVUxma2ItcndiVFBYRV8tb0MxOG1JUDFkRHFHWkFjdU5lc2RHMzk2b3pMb3JhUkpUcDFoR1MxMU11UTA0eDZ4TGNNZnh2Qm5ZZkZTR3RFcUNFS1o2SVVqU0tlcUpER3Q5SF91NnVDajZ2MWFrUW9FR1hIc3hWUW5ObF9IN3F1aNIBwgFBVV95cUxQSERySmg4dHlKMWpHclNJU2tJZ0RtSHNEM1NJdkMwT0lWR3lWSEI0NXFqc2hDVDBiVmlGd0wtRVJGekNpYjI2MTZWTG54R3p1cHhDM0d4cXJQNnFNVE9sQ2E4ejBXRlVFLUgyeEpDaUl3ZHlodjl5TWhoaF9VYmFCTzBoajhXMU5jbHhnOUZXeGpSWVN0bUpjaEt2OTc2ek1TUkkybF9NeThtSF9KTDZWWEdTaVdIMTFqX1RDeWN1NmNMdw?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczlFbWhobUxJdzBoSlczQ0toV0dWNjdVUjZDUkJpUWtlRkpEWXkzSzhJc293ZF9qZjRxYXNhdUNQdW5vRm1xdkJWUjBqcV9Xd1ZaVDdvQl9tVmx0MHpnaFRWUGVHWDI3dXRtR3ExTl90Yy1qbzJWZjl3WkhzNGV3VDNEQUdtaDZYVDgzbklOeE5fQzJZODdxa01zaVo0REVOaHBia2N5Szl2dTRWX2Zfa2wwY9IBuwFBVV95cUxPRTNxVE5TalVLZnNJTTNUN2lUMktxMGE1amoxZW11Q1JzTFhKQUNYb0dFNnMweW53TEthWmdmZzRCY0pYTTQzYzZsRGl5b1RpNk1ZMjNBRDY4TmctQk84OGhUcGJlRzRURUs4V2JIY1htY0sxSC01NVQxYUdLNnRRenFibmpvSjVvTTF1MTRDT2FFQ002WG9wcDRJZnZzbm5jWnFRejZQYU9JVzBYenlGdk5EMGVvQ1VQSHBn?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNEhNendDVXJMYkowNEFYcWozcGstOWJ4QVZCOGw0S29FUXBNaDRFTXVGUVlQU29YMUl6VGVDS1hpaU1XdUlZOVYzTnUwRzVyaXRhanN4dVNkNHVGU1dCOFhJZnZ1YlZYcmI0UksyR2VyZFRqZDRVUVU1M09VZkFtaFlpMWY3UTh6bUNEcTZrTGVyb1Rmd3BiNHYzTlV4WFNpQkpUVzYxRERaSTFhZUE?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar man arrested in Bengaluru over wife’s killing, body dumped in drain. A crime-related story. Covered by 3 outlets, including Republic World and NDTV.",
-      "image": "images/bihar-man-arrested-in-bengaluru-over-wife-s-killing-body-dum.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "prabhat-khabar",
-      "headline": "पटना और नई दिल्ली के बीच चलेगी एक और वंदे भारत स्पेशल एक्सप्रेस, दीवाली-छठ पर रेलवे की बड़ी सौगात - Prabhat Khabar",
+      "id": "pm-modi-to-visit-bihar-s-bhagalpur-on-november-20-to-launch-",
+      "headline": "PM Modi to visit Bihar’s Bhagalpur on November 20 to launch projects - The Hindu",
       "summary": "",
       "date": "2026-10-22",
       "topics": [
@@ -420,9 +420,46 @@
       ],
       "sources": [
         {
-          "outlet": "Jansatta",
+          "outlet": "The Hindu",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU25WQUdxT2xCNER0OW4wa2xsUXFhdk1SZFFfTlRqN1JIeHlNdnVZUHBUM1lxUVF4NEdaMWJkbHVaMzBGbGMxRG5VeUxONlhwNFY4TElwTUUtaUZCM3J5OG9rTUhpakUtemM5RDNhRTJIOUMzMElKT1pYT21KR1hYNmtKdTlBX1ZZeUVHVkltZS1nTjJ0ci1GTlVHeGliLW5LWi1nZ1RlelBNblhaVUh6b2ZuNnZEcTJVeGZiM1pPTFp2U3lmMGfSAcwBQVVfeXFMUDQ4ejl0c1Bia19yeVhHaFpyd1lMNmFjemp6RXhjWmFya195Y05iUVVpTWlFOE5XcUdSN2hDaWRkVk85Qkxyazl5Y0V0YXRQUmNONThDLTlXWFNUbWc5REFCWng0VkFKaGd5dVZXMzQ5d3JTZHZublRheU5yUVZ1cUtqem9saE1JYjdMcXdWVVZ6N3RGUmhrNmk2dks0aWNLWDItUUM1OGFPdmYxUDVsNm9aZ2hzUDgzV1pDVUljMWF1OGpzb2RQdV9kOENF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3VUb2tvMC1BOXp2ZVNacldTMEl1M2U1MklST3R4djJPNkFJbGxDaUVTR053cXY5ZXAyakxXdmdicHY0WjN5bENweW9EazAtMnBlN2tPbUMtaUdTMWZpOVN3RXNMd0xHV29mbWp2a1hZTnpkb2UzMlc2R1NVSmhBb2MtQVpZc2cydWVISzI3YjlsRXhIWVk4dG5KUk0zUHBhTmc4RmJUN1VTUWlweVU4UUhBZjFXVlQwa2g5bkRXVXlwSDlhZG9HRDFKY0rSAdMBQVVfeXFMTkY2emFSQ2NMMHdxY3hGbXlzcGdfdDBUbmpwYVVXdUFvZ3dqX1RZU2w2UHhBRGxlbVhsMGp2ZENCQUhHUjhxVm50aDNVS3FUa1ByVXFIVzdRQXM3SEtoVWplZzVYdHFMNThsaHVUa0MxZjdldEI1MEhLQlFlUzRrczVjV1pqN0I3NkF6WnhWNXUySGl0ekZJaWtsZ01pUmpicS13c3lnSUI2RE1LMlp2cGF1OTdLRUhiNXBvT09xQUlvcFY4ajY5c0NOZUVRcmgtUHNsaw?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmtweTh3d3g4NndVeG8xeXhLR3RmQngzYlZOdmo5T0NFTW1OaG9EeUNpLXZmcDRIYUZOeEVudi1nTmp3bldRaVp6eW55Mk9mVEl6SmRlRkRDT3lfYTNKOHc0dGQyQjFjdG5BUXlVWk1vdFlfMk91dy1hZFZMQ0V6c1Fxa2hzdW8wVFVKazRhczJmVWVNWk1VeDUzUHlLODQ3aVAxYll2ejhHNVRaVlHSAbsBQVVfeXFMT002d2lxZWNEM1RCSDdMQm4zb0kxSTg4SUszUDcwbDRKQ0NTcWJ5NWRfcjdOVmJFQkNPOWJuYWtuRjl5eTVVdkV3ZVdRT1cyNjZGSlVRR2RsUGhBWnBncUZ6LTN1RVlXcHVNeXk1b05UM01SY0JTOXcybC1jTEZ2RnpTNXdNUmRpbVZyY3piZWtZN0tXUXZINEFiN0RjRkFMZVVzemVBV3lXZG1pZV9TTFNBUGctdHQwTHVaQQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "PM Modi to visit Bihar’s Bhagalpur on November 20 to launch projects. Covered by The Hindu and The New Indian Express.",
+      "image": "images/pm-modi-to-visit-bihar-s-bhagalpur-on-november-20-to-launch-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "delhi-patna-vande-bharat-2026-jagran",
+      "headline": "Delhi-Patna Vande Bharat 2026: दिल्ली-पटना वंदे भारत से बिहार जाने वालों को मिलेगी राहत, कंफर्म टिकट की उम्मीद - Jagran",
+      "summary": "",
+      "date": "2026-10-22",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ABP News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjZtYzkyZHBxTUJBUkx1WVZkZ3VVVS1iODRMWm04OGp2WWNzQjRVZWVvN2ZNRmtYMWVkS2VGZEQ3TXFNSS02OWx2a09iZlJPRU1idGRwdjFvS0NQQWRwQjZ2UVJHengzVmJNUmFlT2EyUTg4cm1BWTItOHA4SUVxUWFYZDB3SnJUekIwQmdodDNlVVZueEJiZ0hfUTV1d2JrSDlDeEdkNF9hWml4c0JZcUpMRWNCb0hrN3g4eGxKVHc0dVZzVGN30gHMAUFVX3lxTE4zRTktNzU5TU05eUNWV3FYWGc0OTU3X0lpVFF5M2IzdmFrbVFEeGFnYmFnMlNObVdsbndscktrZWRaaWNlVmx6c205VjNMZWVMVFprSVk1a1lsMVNLX0NJMjZsZXJiNGxqeHhvRHlsOHloSUtNUC12bjJac1Z1Z1FwRW5WcUQ4TWtWbWFQaUZZejRydFR6cnlONnFQTlhaREp6RGdQTF90X0FISzR3Wnl4ZXZsYkk0T2FQb0tsVlFKb21EQl82M1V3b2tZVg?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3E4aXBKYTNvTUhlT3BRcGxwcTlFVGluVnlDTXoyN24tZUtCc2t5eE0zX0NQSTRlWjNxVWdkMTVXNVIyc2x1ZzFUV2huNDFuVmYtZ1BpMEMtblN6QXdBS0dhalk0cE9Eal9JdjhXZ2E3QkU4RE5RaG1RZG9KMjdXYUhMa0ZUN2Y3bXdOUFBOMVhjYnBZRHUybENwVV84UXFnZDRjNTZnejV5RFF6ZXNhampR?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMUZvZTltOWVaeHRZd1VINHRFekZKeU91X2JSZWprUDliMlBDbFk1X25ZVmxGX2t5OG0yS2JuSjZzYUtvN0FGV2MwZzl4Z2g4S3plMG9DY2tlLXdFOUtSZ1BKa0FCd2E5WTB2cTUxLXJ2TlFiQWstdi1zVHZUMHZTTnNGbnpmMEliS0hzb1ZhdkdRWDR5ZXZDNWhMLXN3ek1abVZPN2xRSTRIaDBtZnkwX1BMR3hkaVREemNLai0xS1R1b05zckpJRA?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -435,19 +472,34 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzFZMWVfRW53LUdDRVMxSk9qVWZIemFWeWd4UFh4MnpxNnF6MzhPNFY3Nl81QlZxdUVqWHRVbktBYlBBUzNCd2M0akhvWEpMZmlMdExxSG9WWVVsSHZMMVB0Q1J2dWFpb3RxM3htWHdvQjlwOWtEaFlaYklKdHlyTXJ2UzQxOTFsVFhNSk1yM2lVUDlvbERRN2NHTVhNTDFBUjdVbUhnTTlfYS1mcGc?oc=5"
         },
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2Fldngwa1lUcEhkeHJCaXVkVXNBaWJxS1RMLV9rRDNjcFJhRkpKc2N2QUZqVHhUbnhJZm5qczdXWVYyU2d5U20yYUlwRXlDNFVNWlRMSXd4eUhVQUlKTW1jSlR0V0lBNzRhcGw1clJpZ2NFcTZ0MHB0dWR4SDc0LXI5MXNid1ZZQnpJMFVzdGpJcnBqZHRoWDN1SF9BczdJbFNVdjlVaEl6dktsd05qbzlKRS1jZUJaalNN?oc=5"
-        },
-        {
           "outlet": "News18 Hindi",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOVh3SExfRjVBdUJxVFJfZXhJUWNfMHdnd2lwd2U5X3IwaGFoRXlsN3JXVW1aQTdVM1BFLWszbllpUWdsbzMxZTc5X1hXTDVoNjBtLU1TVWtoZV9oSF9GODRxdlNaVHpQVnZpdVhVSlYwSVA3MWR2QnltQVdCaVpzTHBrcTBQbWJkTndsaW05S1VSWUU5Smlrc1A1Mlk4R243VnQtNXg5b3lWczYwNnltU3Z5bEQwYnJjUTZoQ2dwNkZEZmRNYmFwTXVWQnJuNnV0bkNQWGZFMmxjTFJwRTlLWnFYV0NnVG1teHRZVdIB8gFBVV95cUxQMWdveFc0akt6V3duYUxsMzZTRERnYTZLRERaV0NzVlZtX2lTTnFNcXJ1UWV3eXZhNE41U2lSVmRYZnRfMGFRdUpLMk1HZ21nLUs5dlItVHdWY2JhUmE4MC1jUE0tNE92aW16b291MnVIM1JKYUMwZVVWVlkwVlRLZndxN2hVSVEyNnlLTmttb1dZeW5pN0x4QURELVdWVWx6VTdxRkJma3NKQjhmaC0xS0twWkRXQkF6UEdNUktlZm5zSzg0X2s0RTFoOS0yNl9GSjhBTHh1ZzVCNTcyWFhYdGZaZmtUS2UxU3FKN2JlUkR4QQ?oc=5"
         },
         {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2Fldngwa1lUcEhkeHJCaXVkVXNBaWJxS1RMLV9rRDNjcFJhRkpKc2N2QUZqVHhUbnhJZm5qczdXWVYyU2d5U20yYUlwRXlDNFVNWlRMSXd4eUhVQUlKTW1jSlR0V0lBNzRhcGw1clJpZ2NFcTZ0MHB0dWR4SDc0LXI5MXNid1ZZQnpJMFVzdGpJcnBqZHRoWDN1SF9BczdJbFNVdjlVaEl6dktsd05qbzlKRS1jZUJaalNN?oc=5"
+        },
+        {
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ2VVc2RQanlXbnBGZVVWMDN3cjRncTl0emtTSHJRd1ZsTi1KTzVpNF9ZWXFnZFlHSWNualJ2V1pYMHNHaWY1Y1AweDhBM2FhQWdsT1N5TVpqUlBNcVZ3RHE5bENVNUk2aHNSeGJEVmJGcW5ZSmtBdzdwTFIyd0FHVThYQ256RnNManRnQzhpZm9jSC10Y1Rrak1BNmFYdS1JeHNtWm1QWklOU19od0hoOGFYaEstbGNFamZ0ZHE0YUNBVlpfMUo0ZTNBY3BUUVNTUUpDZ3FTcw?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN2lVLWZrQy1oR0w2eUFTTVpyMHdBcW1HcUlmNGItcGxoMkEtX0tzOTFaRWNORGVjRy1iSHEyMGh4UmhGQ3lEbmJHczBOcEFHUHJHSUpkSlRraTZOdkdIRWlIalhqd2cyN2RSWVp1LTBlYzVGU0drR1JSeVQ5dHRxaEYyS2YwSXpuQTZrMm5mYmIzR0VRei1fZWVqWm9meXJQbDBhLXQ2b3V1aVZVVnMwSFZvdnJSV0NoWEJGUmdfOHVQWkVHYWI4U2VGb0ZYSG1DVHpKYWhEWVFTVVdxVkVYWUxCenVSdVlyTVJad3NoeVdkU2RF?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQkJHS0NlSGszX2R3bHk4S0NjZDUtN1JyaE1Bc2pia0JJb3c5SGdZWGR1b2locDgtLTJQM3BreXZteFAxaE11QUJJc0IwMmZCQ0tnNUQtNmxCdGZwOGlVNElMSXVaRFFjb1ppZHNwTWNqMW5rR3ZkWTFQUktfU1lHTENKTlBtT0NTNHA5T0o2NnNxNXFaRmdaaF9GNk5lb2ZxdS1CRXRUS1ZnbHI1OV9xbHJpUm5GS3NaTHB4S1Q1QWJJdWExcExPdl8zd1NUbVFWekFIbl9MZWlZTEV2TGltcXBIeVVwNUpxdGIzNGdqM3V4cTU5SEZVTg?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN2d4SkFjRUxsbHlfNUZ2NWZab2J4TkhNNWNwNEVCWHZlOTVqMm5FbURXWk4wWmlydkdLRjJaTUNzSG0xT1ZmYWxPNzl1NXZnQnlMRHYzdlI3V2x3RVlyZk9WX0NfclJUcjZ2MTM2aGJTc2ZvbTVLOU9McTI4MTJYRTNLRXFuZlJ6V1o0cUpMLXRLVzRuajVkQnA2QUJ3b0c1TFRsdUQwWUFsbW1oWHpkeGNTem1zemZycmZycHctRl83VXpySVRmQ0VlQ1g4ZXJ5RVNUYWRFcGlpVGJYVXd6QjVQTQ?oc=5"
         },
         {
           "outlet": "Amar Ujala",
@@ -458,18 +510,23 @@
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamppc3hzcWxRUklCMVF4MDdYdk0yWmhaMjFmZUFVcFlfOU5zaU9pZUJ5dFFVNVJ2MExNWThuSTI0MEppTFR3TWM1U29naG0xSXV3Y1YtVV9tZzNwUHJyY01IX3BseEpLaTI5VGlMMmFNV3pLdERnTTlxOFcwYnZWNk9SUndCc3B2aEJBenZ0N0s5NWU0NTYtWGNyUjEzWWxGcmxCQUhWVno1VmJOZUVTR0VTOFhJTlk?oc=5"
+        },
+        {
+          "outlet": "Jansatta",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU25WQUdxT2xCNER0OW4wa2xsUXFhdk1SZFFfTlRqN1JIeHlNdnVZUHBUM1lxUVF4NEdaMWJkbHVaMzBGbGMxRG5VeUxONlhwNFY4TElwTUUtaUZCM3J5OG9rTUhpakUtemM5RDNhRTJIOUMzMElKT1pYT21KR1hYNmtKdTlBX1ZZeUVHVkltZS1nTjJ0ci1GTlVHeGliLW5LWi1nZ1RlelBNblhaVUh6b2ZuNnZEcTJVeGZiM1pPTFp2U3lmMGfSAcwBQVVfeXFMUDQ4ejl0c1Bia19yeVhHaFpyd1lMNmFjemp6RXhjWmFya195Y05iUVVpTWlFOE5XcUdSN2hDaWRkVk85Qkxyazl5Y0V0YXRQUmNONThDLTlXWFNUbWc5REFCWng0VkFKaGd5dVZXMzQ5d3JTZHZublRheU5yUVZ1cUtqem9saE1JYjdMcXdWVVZ6N3RGUmhrNmk2dks0aWNLWDItUUM1OGFPdmYxUDVsNm9aZ2hzUDgzV1pDVUljMWF1OGpzb2RQdV9kOENF?oc=5"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना और नई दिल्ली के बीच चलेगी एक और वंदे भारत स्पेशल एक्सप्रेस, दीवाली-छठ पर रेलवे की बड़ी सौगात। इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें Jansatta और Hindustan शामिल हैं।",
-      "image": "images/prabhat-khabar.jpg",
-      "image_kind": "photo"
+      "brief": "Delhi-Patna Vande Bharat 2026: दिल्ली-पटना वंदे भारत से बिहार जाने वालों को मिलेगी राहत, कंफर्म टिकट की उम्मीद। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें ABP News और Jagran शामिल हैं।",
+      "image": "images/delhi-patna-vande-bharat-2026-jagran.jpg",
+      "image_kind": "placeholder"
     },
     {
-      "id": "23-25-500-ai-30-dainik-bhaskar",
-      "headline": "पटना में 23-25 जुटेंगे 500 से ज्यादा सर्जन: रोबोटिक सर्जरी और AI पर होगा मंथन, नई तकनीकों पर होंगे 30 से ज्... - Dainik Bhaskar",
+      "id": "navbharat-times",
+      "headline": "पटना में मूर्ति विसर्जन के दौरान खूनी वारदात, युवक को पहले चाकू गोदा फिर मारी गोली, अस्पताल में मौत - Navbharat Times",
       "summary": "",
       "date": "2026-10-22",
       "topics": [
@@ -477,21 +534,48 @@
       ],
       "sources": [
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Hindustan",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcEdLaVJrcnNSUjZMTkJUeWRfdWExZDNjQWVwMlhFbzg5Z09lVnB6Tl8wdXlVVExYcm9VVlZWcDVuU29lQzU5TlVrYkFobWRyNDYxb2JXUmZDWGhTVDlsblc5TkptMkZIZklHaHQ4bVRLTG5PeGdRY2FSdmd6RGl0NU5va3l1dFFmZmxJZFZNSU12SDQzY05jdWxDZkhRU0tIbGYzQmlpRXdtd0k4Y1J2LTc5ZHB0V2hpaGZKRWxNR1lKVjRlSnfSAcsBQVVfeXFMUFptNkZIQ05VOUprTUdBd3U4VjBaZjVNOXVkQVNOUFRoYm4tNWlBTmZuMllyRlRFbEc2cVc0aGJMVmY2dVBEMkE5RmdSRnNrd0ZockFhWnE2bHFWM19MXzAyZUZmdWRURE1xY3F1dzZvaGhOOXhpajBrQWFHbTZTQ3U0amVuTlZFdXNEQkxHNnFvZEloNkJxTGlSb0hnMFpubHhSUk9lZ3p6cFRLdktuakNFeWsxZVR1aWdYX2JOSERDamZsUFFRNGN5RDg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaTVMaWZrR0lwNENvRk5RdFFtVXUzc19ieGxQSGs2YjBvd29YbTc2OTY1ekVXdjdvdWpXRTVwa3puVy1vbWRuZWphQWdDeUpFZ1FYWEhGYk5YSXNTWWQyQ2tlcjVJUV95SUF2eGRwT3BGWXFFeThHMGhEbWNWRndubXQ3enJ3MDktMnpzam1BZzlkX2l1eXlsbTNQQTBXNmp5RmdGUkhPWlRiSWU0T29UMGo1eUVNczFOZkRsYU52bGh5QXZma3BqZng3V0lvMWdTdllrYk1TVdIB3AFBVV95cUxOaFZpWHJ2YUZDNHpELW9xZjQ4UlNEcTE0YVdKeTdOYkpVQ0FzdGJ2X1BtU1BxTGFBU3hsMUtUTi1SYnZESXVDVFFCbUNHTTQwcWVqYWdDSy15T1BUZmh0bzgtWlItb29PaUN6RExUdTBkdk45c2dRX2VsMUlIWWhCOHdJR3BEZl9zeld4LW5WcEthUk9MRmliWlhRWWRCdlV2TG5DaUdCTVlIeFIzOXdma1VsSUFCWHdHVS15MnJibmExbm5KOGVJWVNJSHg3WDh2WkltVjBXMVhtc2Zh?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Navbharat Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFlQVy1vazJCNy1jWUdSRVZBU2lvUnpFdTlkNDQ0WDFEa3ZxdlpJTTU0TjRtWkF6WjNIbU9ZcDA4c3ZINUVXMk05NXRHd2FQdFJRdUxyVHJmOC04SmpWQ3diaHpSbXlnQWxZbG1ubm5nTWZfaWdqNk5VVDgtR2JFcGFScTJaX3VHZHBtS280Tm1YY2ZvdW53cDBKWElBTGlKb2JyOURhQmpSN1ZLTFhGc3VBYmRiR1k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWEhZcHVsWDluTXZRMHFsMGRLVGc3TW9JMzV3V0VnUkJHTUJmNkdHbXVBZUg5RnUzRlh4MWl1c3RNbVUwblFVN2QtTnBiRjFLTS16Mm1ndWJNR3Z3dW5jU0ZGQU03bkJRR2dtSVNoVFNMTHZUeTV2eXBWbG5xeXFYQzBfMnZValNEaDR2dVNBblZLZThxN0pQMFZtZ0liakxYM2pxWDcybnJwN3NjSXJuOEt3YWFoYTV5VmtiVGRvaUxLeUtlMzBkQ0hMSEtmX25RT0pOYWE2M3BSWDRocE9nbGJucmE2UkQxVnQwcTRDRHVPZ9IB9wFBVV95cUxQZmprTXlCRmZ3ajUzTm8yV3loX2JLUmUxWEpsdENWOEhOUWs2QW1JS2x3ZWxNUjZVMVlGSFVfRHpsRXdFQjZtVUhsd2hPYW1DdDVLVTFvbjhoWjJrSXVNQ29WZklCendBbWhMb3dJQTNXdmt1SmQtdDl1NW1GTWxSalVkcmI3MjJENF9vWkNrN2FPM3pCaktzLTd4OVUxT1BMNmpIcy13OVpQVUUwOGozd3BvS0Q4NzVkc19CTDF5R0RmVlZoWm1nc0RBc3diR2hkd1cwZElvM3lEVzdzbktKaXNpNGpIekU4bkRaU1otbTdzcFc0QXFr?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना में 23-25 जुटेंगे 500 से ज्यादा सर्जन: रोबोटिक सर्जरी और AI पर होगा मंथन, नई तकनीकों पर होंगे 30 से ज्... इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/23-25-500-ai-30-dainik-bhaskar.jpg",
+      "brief": "पटना में मूर्ति विसर्जन के दौरान खूनी वारदात, युवक को पहले चाकू गोदा फिर मारी गोली, अस्पताल में मौत। इसे Hindustan और Navbharat Times ने रिपोर्ट किया है।",
+      "image": "images/navbharat-times.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "dainik-bhaskar",
+      "headline": "पटना में पुरानी रंजिश में फायरिंग और मारपीट: पूजा पंडाल के पास प्रसाद वितरण के दौरान हुआ विवाद; युवक के हाथ... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-10-22",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ21WSUJjZEZ5aW1XUjhGVV9lWjhHWHNmckNUN09La0k0UG5fYkxTRTdSQl8xczA0RkxWMW03YXBMX2VuRVpVZnR1YVp6azhEWkpkUFVsc1RzbzR2VzJOWVlkMGNQU0VNS3l6UVJUSFVqWFRzTDVEOFpscUdQVGZKZkdCQmVXYTd1MzhqaE92eXhwSGZyZWVGT2lXb3Q2eGFPNXFoM1lIM1YxSWpSOFE?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3FXRTFWWVh5dUJnUXVJOF9MV3ROTi14a0F5dGZlTkpmc3ZzTEY1NHdVeVVzSmxWVUFZUUI0N0o1SUlENkRiVmNfWk1tR25ZS3RCTFBRUjduLXhiVXRfd2tlN25ZcG5RbXlHdFNDVmZjNU8yTlRWSzU0WE83NW9BZTRLcmZCY3lhQlJXemdXQWFIdF9iTFdqbVVlWHRqUE15T2NzX1dwNFFxaDlLeWVtby15b3lic25wTWZpZ2dIcGxYdFM50gHKAUFVX3lxTE5mcTZtMUVaYzZDSk5uV1dWUGUwTXhhZ1ZvSEFWdEdmRmRhcTFBdXF5SGk3YXh6TEJHU0JyeE9XWl9DazJZZGVDLTJ4X09NdjltVXUxWV9fWHUzZjZWWGQ1M19DMkRHQzZ0QXBDYmRIaDZXeFhmdzZRc3RTdnVIM0plTUVkajlqaS1zZTlmckRfOG56ZktiNjA3RllheUpMbUJsYVptVzVxRGJPcDFCX2N4TXk2NzctM1dNWmZjWkd4d0h2NlNrdFg4NVE?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में पुरानी रंजिश में फायरिंग और मारपीट: पूजा पंडाल के पास प्रसाद वितरण के दौरान हुआ विवाद; युवक के हाथ... इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -541,6 +625,11 @@
       ],
       "sources": [
         {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbENhemxWM3NXcFlhRmJrdEFjU0hDdkgtWWlhNDhydTdWOW5KZGVwRUxBRjRWQ2w5LUIyUlhoREgwRFRKNFBTaV9vMDdKRnhIN1NCbUNkZDNWSlVvbHpHNHMtNFhKbHNHUnNYN1ljdWNuenZ0UVZyMW93amFkN3FjZVFNeXlreEF3Y0xCSTMyUVhTX1RlZmRfLUp5Q0xmd3hjb2thMmxtVGktakVRaXd0ZHlPaHNWeG03c0RaSEtZR09mQkpaNlNhOUZwWWV1dFY5VVMxRTVwWdIB3AFBVV95cUxQX2x5anFVbHVVUjhvUURVV0IxbEJYdVZZVW1wcUNxeFNDVEp0SEhtdXJJWElkb1lyQXNFOXUycWJjZmFZN2NiQXRDWWh0SDB3UHZDVl8zUDc3ZTdRVnVTcWZpVkwzazlZUGpBWG1ESHdOLVd4QUJ3SGJFTklEeGh0X2ZKMExCemx5Q3h1RnMyZ09zWUtZT2RKX3ZEREpWWnliTW8zaHRNaFRhdE5CUkJLaTFTbFRjNEZocVU1S2JOVHk4VTlRM0lYU2pXOEU1UmhEUi13VXpqaVNDblBQ?oc=5"
+        },
+        {
           "outlet": "NDTV India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNktjVGwzdXYzNnMyc0JtTEdlWDNVZEJZSTFTZk1ja3k1dUFOV1RVR1R5dUNLa0hOVEpDOXhyYzRIT2l5VWlITHpzMFFrRmlfVHBOLUdZaVI0OGV3SUJ5UXhicnlvbkdTN1pJN0lfYTYtUWd6SlFrUzdMdHlfUFl4MFJKaTYtSGRTVUJpNjh4T3NDVldoSHJNRVlNQmhzVF84SlhZeEdna3hqVWZzZDdpcm9uQ0FLR195Y2VRWXhzSnNZcHl5QWFrSk1IYTR1MnlQZ01yNU45UG1TRWhSR2dDWGJDUXQxdzA?oc=5"
@@ -549,18 +638,50 @@
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3k2OWotMU1fQkVudHA4cHBuZnR2RUtPLUFRamhVYWg0M0dEc1IyRS1ERVlUMG1VTHctLXEzRlh6VmlCVm82U3JwS1pPMmdqRlNJeTh4dW5uNHFCT0puMmRzOTRLZW56R0ZnMS1tdzFKdTBwa1pFd2d2eEtIbW9ERlVub0VpRm1TMWJmbXBlS0Y5WkVDQlFhS2l6R0pjWUliMndLWWZ1SmFsMnFRNW9jdXRWOA?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbENhemxWM3NXcFlhRmJrdEFjU0hDdkgtWWlhNDhydTdWOW5KZGVwRUxBRjRWQ2w5LUIyUlhoREgwRFRKNFBTaV9vMDdKRnhIN1NCbUNkZDNWSlVvbHpHNHMtNFhKbHNHUnNYN1ljdWNuenZ0UVZyMW93amFkN3FjZVFNeXlreEF3Y0xCSTMyUVhTX1RlZmRfLUp5Q0xmd3hjb2thMmxtVGktakVRaXd0ZHlPaHNWeG03c0RaSEtZR09mQkpaNlNhOUZwWWV1dFY5VVMxRTVwWdIB3AFBVV95cUxQX2x5anFVbHVVUjhvUURVV0IxbEJYdVZZVW1wcUNxeFNDVEp0SEhtdXJJWElkb1lyQXNFOXUycWJjZmFZN2NiQXRDWWh0SDB3UHZDVl8zUDc3ZTdRVnVTcWZpVkwzazlZUGpBWG1ESHdOLVd4QUJ3SGJFTklEeGh0X2ZKMExCemx5Q3h1RnMyZ09zWUtZT2RKX3ZEREpWWnliTW8zaHRNaFRhdE5CUkJLaTFTbFRjNEZocVU1S2JOVHk4VTlRM0lYU2pXOEU1UmhEUi13VXpqaVNDblBQ?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "50 साल पुराना जमीन अधिग्रहण केस: पटना HC का बड़ा फैसला, पूर्व लोकसभा स्पीकर मीरा कुमार को मिलेगा मुआवजा। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें NDTV India और Jagran शामिल हैं।",
+      "brief": "50 साल पुराना जमीन अधिग्रहण केस: पटना HC का बड़ा फैसला, पूर्व लोकसभा स्पीकर मीरा कुमार को मिलेगा मुआवजा। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और NDTV India शामिल हैं।",
       "image": "images/50-hc-ndtv-india.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "prabhat-khabar",
+      "headline": "गांधी मैदान में रावण दहन के बाद पटना के अस्पतालों में उमड़ी मरीजों की भीड़: बेचैनी, चक्कर और डिहाइड्रेशन के केस बढ़े - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-10-21",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0ZJVVRXZWpubmpTLVBRTXRzN0NfUlgtVXZFcEdiNy1WWEZGako5THJGaU44b3M3bERfSnJJWmI1Tk1XMUczOVBmcGxZcHpQMXlBQTd4VE9hQ0VUNVdWZ05ZaFhvVHFyNDFHSlpVWmpqZ05FcXM4NlZSWFBvczhURGZtcWRicnBZVnYwZnZnT19EQVJ2UzhmUUpuNGp3SDBOTDA2cG5OYTBLb2tWQUZSakdvbFBLVzQzRE16eFV30gHDAUFVX3lxTE1zbm9ia2FqeXZMR2hpVXIwVXFqNWhjSDJBRHR0cVp4U2hqYS13TWpoVnhPdXlUUXhOQy1KdnJlUDEzSU1QZXRObVd2eDR2bkhKM0RvQkp3SlA1SVVmV01HdnpTODYtS1p5UlhZMjJtTlo5M2tEVEhnZ1l4U0Y3MTkxRllBYWFYaUllUzZmSDFjVlZ3ajVteEZlcEtsUGJrRU5SQjJEc01rM21kNGxJaXRVQWtNdjZQT3VxeG9IMGp1N09Ddw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzZ6NGtQVE5CN00zcUZRQjNCZ3pKcHN3ekQ4VDA0a0pRTzQ5QnFKRmYzYjVhMkhGRkxiSG16aEl4Y2trdzlFQnpPMWRxNjN6TjVORmNtRmNmMTJUS3Z0NWZDRjlpWnFsZXFJN09FeDB3VDlfTURobU9zeTJaVXhpQVZDckZqX2hUbmhaeFJRakRlb2xZNXBrYkp6TGptOXI3UTJz0gGoAUFVX3lxTE03WnY0LTdxM1FEeUROVzNtVG9xc0JVRXlOczJGNXNQLUczbUpDSHdhOTQ3NG04SWQ3MGZ4eHBab0tUVy1rRzFzd3plTVRzZGtIQndGek9acWZGUmU2WU9nY3ZLOTI0TFB0TFYxWDVPcVhQaWZWMWJ3WVphNkxfMmtNSm9BaWczWlc3anZaRGhhOVN4N05KTW9KZVNaY280UU1oeGY0RjlGYw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUNYSzNadllncnQzemo1eTVlUDdGMERfX19ranpKY1MxWVVCMVdFUXFxbFROM0VBVEt1SGFEUlIyTXZwZFM3U0lIZ1FPNUp3aE9WOGR0Z3FMNXVrenBzbE54Y3FHdGN6R0o3Ynp0UEdYWGZzSTM4bEV3akFKeldZUkE2aktQZUpsYzFKUVlFdjNzdkE1VlQ1VEJ1R21WUHk5X0M0Y2FhX3lKbkZJTmNMUEoxWE5qNEVTSEE?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2NmVTJsLWl1bEp2TnAyQ3pYTXZncGVoWWVkU0VJcVZKdVhWcVY3YnRtcGN4aW5Ic2c4WnRuYXVkNUlWR09ITy1uU085S2MyS3hiYUM2WElodnp5VnFjZEpnWGx0emdJZkRfYmYtRVRab1dIZXh0NVY0OVpSNmZ1S3RubTNuYk5WWDRvMDI4UElLVDBh?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "गांधी मैदान में रावण दहन के बाद पटना के अस्पतालों में उमड़ी मरीजों की भीड़: बेचैनी, चक्कर और डिहाइड्रेशन के केस बढ़े। इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
