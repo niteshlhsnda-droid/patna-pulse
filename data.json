@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23 10:54 UTC",
-  "generated_at_ist": "23 Oct 2026, 04:24 PM IST",
-  "story_count": 50,
+  "generated_at": "2026-10-23 11:54 UTC",
+  "generated_at_ist": "23 Oct 2026, 05:24 PM IST",
+  "story_count": 51,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -24,6 +24,16 @@
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNjBLRksyMmpfMXl4aXB1ZkNQMDVNN2ExRlMyWEFTVTNwQ3lLNUZfUlB5cWhBRS1ZN1NWNFRSVHFod08xSE1rd3RlVmFnb0ZXZU9VOTktQkdsd0l4SmFldXJXLUppYk55QjZWNklqY0dPVnpjMkxiNVY4T2Zad29CS2Q3TjNwU3VnWGZrRmVlbTlKV1Q2cWZqZ1Z6ZjVRRnFLdWY5SjJMeDNYZDQ3akcwM0g3Uk9jUTQzMkx5akhkQWItOWhxVDQwbnZYUVVaZzJWNW4zQXpiSDZnc19PSjM3ekZHTDBHcnItZzY40gHyAUFVX3lxTFBTbkRLLXBEb040SURRc1RDZ3NMUm9jT3N4SENDak1ud3Z2UWlSQUV0Si0xSHFaSzZ1czZuZ0xicHpwdmN1UWhjdFRTZjFpUncyRG5wQ3NOV1JJYm5kOTV1eVBUNGZwbjhpang0bmN6UVhWZEVWUlI4M1Y5aGViR1VQbVZ4aUNtbVA1bm1vOXE5NkJ4djB1eFZ1cFlJMG54UmdaYVhrMEtySVMxRFkzT3g5NFFJOE1ITXRYcW81eThjcEl0RjJvZWVpYUQwUjFrZk01bkpob184Tzd0T1ZJYkhnS2o1SDBsNy1BN0RyWHc2d1ZB?oc=5"
         },
         {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUhKcC1CNmJQWjRkREUxVFR1Q2gzakpRelRia1huNnM3bzE1Q3Y4azEzVjQxMVJBcURCU3hKVFRfYU5NZm9mWUJUcEhVZUdNbi1aQ2RiTG1pY2tCRG14QWpWNDhUaHVIbVhUQTVfWktHWkdHUEpoZHdtSGlBNk80d29qVWZ5R2hPS0tNeThNMGZSS2owajJwWjFmQ3dITlpETW5iRmdCRG9fbmlNZnRBY3dOQXhfaVBacVFwRktaeWkyd3dyRzVLUlRR0gHPAUFVX3lxTE1GWV9kOG5qcm50ZV94YjhzVmVPcER0VmtmMVdfdDFFY2w2XzVnUzJpOHpEWm5Wb2xXN0daTVMtNHVqMjBOdXM4SHVwSVJNdmI0ZkN2aW9BQ3BHeFR5SEZrUXpqSEd0WXF0YURheUY2WWl5a0thX3l4Tk8zVEZ1NEZGZjFuTXRwSk00ak5KdWF0WWxKd0U3aUtBaVpHa0ttSEZHQnk5RVdsUGU2bHJsWU9yYnpaQ1BRUUJCOTZjVDJpTXNLZVlFUl9jTGZLM0FPZw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWmhjSjJscERtMW40RjVCSHNoeEMtTHNNb3NHRlZ0UXdYSG1BaDVZS1hNT0taZmVubHRLUzlkNV9qbnBmWjJhZ2lRcmd4NjlvSndmTi01QkcxSGxIakxRbUlVTThnYTVSZ3ZPZ2Z1dTgyNWhvYjN3TGt1MmtKRzRLbTc5YmpmdjZkNnFTR056Y1JTOEx2QXBKU25Vc2RSOVkybkZQTWNXNFB0MUt3NWxYcWJHNmp5a3gweHhIU0NNaFAyd044cW03NkFEd9IB0AFBVV95cUxPaXBLem9FdTZPY09pQkRDekdkZ19RS09lZ1NQMjNLbVZXbURBTjlxWWljWDhjN3hGSG1rZjJJRm1CR1c4MDU4MDBIVkRRazVGLTM0d0VCdld6aTlJTURELWwzZURaVjBXOWxoRURINnpySDVJSG9JV21IWU5zMTVLcERXcUxFUmFHSVFLTVlPM3Roa0tXWVY4dy02RGZNMTdRdkIya1pOUGNyNjBmRmdURnR3TXVfRldleDdIM2QxVzhxRlJqSWJKOTJHN05mVzly?oc=5"
+        },
+        {
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbzgwNlBvUFp0dDhIcm93dlItWlpHczUtTEZ6eU1YVURGSGFtSlpmMm5jREhUemJjWElzcFh2Vi12NzlNSHZaeWh4ZzI5MlBMcjRnS3JMbFdfNTJjTElzQ0MzVGYtc29EQllUVnVySFZOQmcwSno2S2ZOYVJXTFpZckxBQ2pYVXd5T205c0pFS0Z5dHpuQVlNOWJIUVl4VE5tRnJlQm1fN3lLODRWREx6alp2UWhzck15eGpLNWhCcndkWE80a0Y1OVQtVWJMMXhzLTVXMWxobzN0VHowbTFkbdIB7gFBVV95cUxOZDNydG1jSGhZWVlmRG5adEZrMERpSGhmUktsOTdaWktmSHk4ay02bWEteXBsYkFWT2p3dFh5NG14TTlFMlZDeFVJQU1POVExMkNWQl9rTEJVQnMxQU1IWEZndmlOOGtBRDdIclEtaXVKVWUwSU1qNXN5OVVpNUE2QTZJYTNYUVlVMVhpNkJEa0lDMlFTYmJGblZ2NlZjaHB2cG5sMERsUU5IZG56bmhXSzRDcGxGblg0bEJJOV8yTEsxSTJZcV9qaUZUbnpPQkxrcWJYSTJTTXZFdzUzMXpFZ0RiVUY2bTVLMHhUaFF3?oc=5"
@@ -37,16 +47,6 @@
           "outlet": "India Legal",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ0ctWU0zQWNSSDZHeWpnSzVBSkdubFcwZXlQMTZqb2I1QVRTNTZ6THJOb1JtckQycVR0Qm9qdFBlckwtQndYaE5DQjVHS3RXaW0tWk1sUGEtQXh3YXhmVUczcHNoam1Da1VtUS1xVldvQVE3SU1qWDVKcjJFTTBPYkhfOTlWZkt6Y3Q2VWZHOUNWVWpFcFI0a1FjeU1fUl9Ob1EzcUpXMjc1NVZHRUF6WGgtVEw5bmMyYXgwUEhzaUpOeGx1Qk1hZTZMN0EyNTNGQ0tXeDE2YzhnVk94aFpWdHVsYVZwTVJhVWtHMlBocUotSTQ2UGpUaVpoaTVLSk1pRTY5cDlhc1F3TEZsUGdNcg?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUhKcC1CNmJQWjRkREUxVFR1Q2gzakpRelRia1huNnM3bzE1Q3Y4azEzVjQxMVJBcURCU3hKVFRfYU5NZm9mWUJUcEhVZUdNbi1aQ2RiTG1pY2tCRG14QWpWNDhUaHVIbVhUQTVfWktHWkdHUEpoZHdtSGlBNk80d29qVWZ5R2hPS0tNeThNMGZSS2owajJwWjFmQ3dITlpETW5iRmdCRG9fbmlNZnRBY3dOQXhfaVBacVFwRktaeWkyd3dyRzVLUlRR0gHPAUFVX3lxTE1GWV9kOG5qcm50ZV94YjhzVmVPcER0VmtmMVdfdDFFY2w2XzVnUzJpOHpEWm5Wb2xXN0daTVMtNHVqMjBOdXM4SHVwSVJNdmI0ZkN2aW9BQ3BHeFR5SEZrUXpqSEd0WXF0YURheUY2WWl5a0thX3l4Tk8zVEZ1NEZGZjFuTXRwSk00ak5KdWF0WWxKd0U3aUtBaVpHa0ttSEZHQnk5RVdsUGU2bHJsWU9yYnpaQ1BRUUJCOTZjVDJpTXNLZVlFUl9jTGZLM0FPZw?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWmhjSjJscERtMW40RjVCSHNoeEMtTHNNb3NHRlZ0UXdYSG1BaDVZS1hNT0taZmVubHRLUzlkNV9qbnBmWjJhZ2lRcmd4NjlvSndmTi01QkcxSGxIakxRbUlVTThnYTVSZ3ZPZ2Z1dTgyNWhvYjN3TGt1MmtKRzRLbTc5YmpmdjZkNnFTR056Y1JTOEx2QXBKU25Vc2RSOVkybkZQTWNXNFB0MUt3NWxYcWJHNmp5a3gweHhIU0NNaFAyd044cW03NkFEd9IB0AFBVV95cUxPaXBLem9FdTZPY09pQkRDekdkZ19RS09lZ1NQMjNLbVZXbURBTjlxWWljWDhjN3hGSG1rZjJJRm1CR1c4MDU4MDBIVkRRazVGLTM0d0VCdld6aTlJTURELWwzZURaVjBXOWxoRURINnpySDVJSG9JV21IWU5zMTVLcERXcUxFUmFHSVFLTVlPM3Roa0tXWVY4dy02RGZNMTdRdkIya1pOUGNyNjBmRmdURnR3TXVfRldleDdIM2QxVzhxRlJqSWJKOTJHN05mVzly?oc=5"
         }
       ],
       "source_count": 6,
@@ -158,23 +158,46 @@
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYko3eGZEMmJxYUs5OUxmQmx4NkhOdlJCVEdMN0hqdFJiMnFndFc1UjNwUHVuZnBuQzZCNmVNT0pHUEtyMVJCNmxZaTVkRjJSb3VNTkZKaHA0ZVZUbVppMFZuc1F3NU5iNThxQjBWcXQySzE1bVFiMmNVbE9OX2hMTVdVdUxSczkwMFdQYnphR1RTbmYyR3ZzUE80alRDRkxqdTVPa1JpSFNjQXNESzNtMDJadXhWcUdvN3AwbkNEQ0RDdUlKN2tVbjFxRdIB0AFBVV95cUxNclZNaENnV21YYUJVdmVKUHBIYnFSZ2RTaHFEek5uT0N1Q05MRF9IeWt4Z0VLVWo2TUhDTndNRVVLd19pOW5GZy1vdV84MXNwSUpaSkN3VEVKbWU1X1U4VlVkeTFwWGRMdzVPQzE1aDRqdUM2aExBVmNXaDl6ZlJDWmdxZjBJOWNHbkp3c3Y3aU5PTmhpUk5fSGZOLV9zYU5MbzJXdEIzcHU0aGkzU2s0enJpREF1cEoxYUVaTWJMaGZZTEFDZF9NcThaM2ZMUmJ0?oc=5"
-        },
-        {
-          "outlet": "MillenniumPost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFBfWW8wY1NScnhWMkdseHZpdUlTZFBYX0RXRU95UzlxbE1KelZNc0VKUGRzZ1RPZzBDMzdPWlU1UmxqVjE0XzFHTEtpUURFOVlkZ0g0aDFWXzNSWkhXWENhUzczYjlYRkV5UWUwWFFRNVlqU01RN2N6dEZRUzRhX2J6UTkwYmN3YThNUmFvSUtEMHZhTS1VbjRqWHrSAaIBQVVfeXFMTUZlZEw2R21hRXpPS0RHM2xLb1p5ZXhnZFdDRlJmZEs4eU1NTjU5cnA4NjRmZkh1bGJjOHNhMDlaeXlubzE4VnoxaFdUWGtyVzV2eVBmTE5tQ0JHVGg0aW8zM1ZnYy11cTU3THFDejJ5SFBDRWNoZzBaTXQwcEtncXM0YUpsMmwzMm04YW5BRVY1ZV9VOVUyb3E5RG9VRmhITFhn?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar MLC polls begin amid tight security, 150 candidates in fray for 8 seats. A politics-related story. Covered by 4 outlets, including The Hindu and Moneycontrol.com.",
+      "brief": "Bihar MLC polls begin amid tight security, 150 candidates in fray for 8 seats. A politics-related story. Covered by 3 outlets, including The Hindu and Moneycontrol.com.",
       "image": "images/bihar-mlc-polls-begin-amid-tight-security-150-candidates-in-.jpg",
       "image_kind": "photo"
     },
     {
+      "id": "bihar-mlc-polls-57-2-pc-turnout-in-teachers-seats-29-32-pc-i",
+      "headline": "Bihar MLC polls: 57.2 pc turnout in teachers’ seats, 29.32 pc in graduates’ seats in six hours - The Meghalayan Express",
+      "summary": "",
+      "date": "2026-10-23",
+      "topics": [
+        "politics",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "The Meghalayan Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGNLUFFLWFBFTG15SnRnbDhSdFpPdmR6LVRyZDdkNmxvalpVTUphcS1QYVI0WThKcnlocWZtcDdVSThoUTQxZXkxbmE3cW5telFPRXNLQnVnSnFiZ3REMFVaT0NiMVNDMndKYlI0RUlzM0h5emdMeUdSdnhWOGYweVFEcDY5dmNtVG5hTUFyNW1pRHNiQ2JJZ2pWSUhtLTVuQUtzelpsbU5iRUxIMGk3VHJQMnVWWFpQQWxpRG8yTDM3UQ?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ2NXUkN4VzBrWWVoY3hGWTRDei1wdUZZOW00TUNTdXhNMloyYV9tbjVzcHpzcGl5bm1XcjNQN2hVWUN4VmVZZE5mcGlLVU1BQ0FDR2JqWEdkTnNtZmZlNHlEWnZrRDU4MS10czBTNHhjeGVRWVRvUm5fN21WX09yalNDTzdkdGZnWHJqSE01N1VScU5pZFh1bGZRaE04T0Y2aE1WUXA5ZElyV3FyN0hvdTMzc2ptRzQ5RFowVzlQTWd0YjNkcXk1dTNCdUpGODh6bk5FR2N3ZU9abTJq0gHiAUFVX3lxTE5yOXA1UTBJU1VJZWQ4R05aTzBReXNudDN2cEdxNEFfZDZOWUNvMnVoRVJtTER6YXNvQ0JpSHM3MWgzRFhPamZFOV84Q3FrM05XLUdoMjVSZzlIbzZnM0p3ZlpWa280LVNOQnBfdlVXUEFiU24xVWI1dzNIR29xTXVxb2VUYnloRU9TSlFDbzBLaVRZaVY3aFBVSWRFODREZ3RyTmczVjllOE9GbEhoQUR5dGRXaW94clNzLTBnVlpFWVU2OVItaGkwUTBPVm9Yam1kNWFFTDN2T3hxT29GVUhGWFE?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar MLC polls: 57.2 pc turnout in teachers’ seats, 29.32 pc in graduates’ seats in six hours. A politics-related story. Covered by The Meghalayan Express and Moneycontrol.com.",
+      "image": "images/bihar-mlc-polls-57-2-pc-turnout-in-teachers-seats-29-32-pc-i.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "polling-begins-for-28-legislative-council-seats-across-bihar",
-      "headline": "Polling Begins for 28 Legislative Council Seats Across Bihar, Karnataka, Maharashtra and Uttar Pradesh - DD India",
+      "headline": "Polling Begins for 28 Legislative Council Seats Across Bihar, Karnataka, Maharashtra and Uttar Pradesh - DD News",
       "summary": "",
       "date": "2026-10-23",
       "topics": [
@@ -187,14 +210,14 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdHc0Mmpza3BMRUFpVmhFWGUxSU9FNmliZE13M0hDaExhUUktVk9LaVlycjJzZXhpVnNqRnpKaGwxYWxmZHRtWVN2WGctSzFDajR5bmlOOUM4b3VVY3hnbTA5X3dkeHozWXQ5SVJ2YUtsV0ZMZ25iVWFZNE9iVFF3alpMVW9FYUZRS29hNHpoY3R4UW1uTFhsMTdPZ0xVRHJPSEx5Y3FLNHYwdXpfZXEtOThrT3plejZhSm1zZEgzRzJDM2hkZU1peW91QzI?oc=5"
         },
         {
-          "outlet": "DD India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWF81ck5zY2tCZXdfUkdrMUptYmNUWGdDakVhbEhTQmF0VnoxWHUwaFRZUEtndm9GYnNNdEN0N2M5Q21QVmVLd3lIRVN0a0FNWnVsQzBFSWx1NVd1Rk8wNE82R1dHQ3VRWHZ6ZWJYdjI5MnNTU3JqQjhGSHEwNXZGQjZqVmNreFFyY2Rjd01yekFhb2dqZy04WXZ4RDR2bkxpSm13Sk5lRFZiUkd1NGtCSGU0cWNNZTBFUTZkdzNkZ25sd2ZxbDVBYk1scw?oc=5"
-        },
-        {
           "outlet": "Open Magazine",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOW42aVdBSFNfTURDNm9INGMwYXJzR0FWcS1hSzJZczlIb09GRDMzX1NfNkpxc0NCbnZjVkh1LVhnRHNISjJIMldnZ25VNWI3UGFxOW9DT3JfNFROdVE0WEpTdzJycjJPb09lYWk5RGJUVmpRS2FzTjlhUWJFU3VaWHNZLVlqNVZYQmFwMkdmSWdLZlU4ZExZLTBPTnJlNWY4MVVZNjFpUm5hYTBhd1ZZRDZNZHBHV0o3akFmMjRUNA?oc=5"
+        },
+        {
+          "outlet": "DD News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMmZxRHJLSnpHbFU4cTFLa2x4dXdoNHk0Qm5xajIyVU5OdzNxTThGNUlBRHFVRUxxMDI4Ym1mZnBnV083dWVWWmVaVm9xajVpWEZGWElMM0cxUjI0aHZNTHVBQUZBRC1aazdKVDN0aHRBS3cyT3dNZ3RSV3FNUmtYZnNYaENTVlZnVk1GamlDRi1zbzBSbVpfa3RUakdnUkdEM3Z2VUFmaVZUS1JaLWY0cUl5elFlczJ2amRYVkxJamxOdXFp?oc=5"
         },
         {
           "outlet": "ANI News",
@@ -205,7 +228,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Polling Begins for 28 Legislative Council Seats Across Bihar, Karnataka, Maharashtra and Uttar Pradesh. A politics-related story. Covered by 4 outlets, including Rediff and DD India.",
+      "brief": "Polling Begins for 28 Legislative Council Seats Across Bihar, Karnataka, Maharashtra and Uttar Pradesh. A politics-related story. Covered by 4 outlets, including Rediff and Open Magazine.",
       "image": "images/polling-begins-for-28-legislative-council-seats-across-bihar.jpg",
       "image_kind": "photo"
     },
@@ -227,13 +250,46 @@
           "outlet": "News18",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjdVc0VPUjY0aFVBYUk2M3dKOFg0WHMwM29acHNMM1hPZHhfZ19jc1BoLUZzd2ZKTU02b0R2MTAyLS1qa3hsN3JyQ2FRNzFDT2FGSm85elRRWlA3TnYwMkZQeVJhQzRRWmFjSjhiU1ZWV25rUUNDUUZyd2FYbkszeXgxei1PVFcxdEMtb3FtOHFESWoyMW11YXJrcUoxLXZjcUI5UzdERmV2WlhiSlFBdzNXbm1ENWtwZ04tVDAtYng3TmpPUVpTd3BVZUlmSC1rdVE0ZzI5LUlQcjZUUWtWR9IB5gFBVV95cUxNaElhb3AzVkNhQ01qQWo3S1l4S3I1Y3VaeXNKMjdzWTRJZFNVSG9VdURiYVRqVkc2eHBKX2p2UTQ3dEQ1UDZnVHFTX1BmRmxGSTBPcF9PSVVXajQ0ZlRrMDVJUHRaWjF1eVhqTlZ0N0kwY2tEeXY1QTFQM1ppNEFsWHIzRkRNeUstQlVTc0MyT0NOQmtfVnVEZ1YxbnRFQTN3NVBWUC1qS2k3Y0Y2aV9vbHZ6eWUwU0NRRXRMX0RWZ2NVUkVXQS1PbkRxNTc1LWg2MXVaLXA1aG1qSER2cHdhM3phR29mdw?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdG85NDNuX3J6ZDNHMzlEN1Fza2tuVXkzaHJCZFB1OGdMaFVwZUZ2aXFFb2NWaUs1Wm9xVWpiMFphTWl3UmlvQk10QlMzZVdBRWd2MGd6VkxQdkpyZkhzN2htS3dVWDlhVGJlbDVkbW5QY3ZXS0lyS2djMnotVm9yM2pjRDZpTFJzZ3Z0SWZtdGk4aTVwX1F5TXZwNF9xQVFpY2lIMmlB0gGuAUFVX3lxTE5STlNpSjNmZTFFM1hua2FYRldOZGZjaFo2WUpvaWNhb0Vtc2hobWYxeTNWa3hSVF9sc1M0SjBkcTBDTmtCVzNLemhxVGZwY3FEblNWUjNuTHgtUkNQUEFtSW9WRUFQdWkzRTZ0VHpNbjc1R1lmMUpfbmgzLVJkSzBBbUVFR3VSekF1TWMtdnk3eDA2UXMwaG0wMkpSeEVwUW9xUGZoZUxyUzZmMWdtQQ?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar’s 19-year-old Monu Meturbala runs 8,000 Km to visit 12 Jyotirlingas after mother recovers from... A health-related story. Covered by 3 outlets, including Moneycontrol.com and News18.",
+      "image": "images/bihar-s-19-year-old-monu-meturbala-runs-8-000-km-to-visit-12.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "tejashwi-yadav-accuses-bihar-govt-of-misusing-police-against",
+      "headline": "Tejashwi Yadav accuses Bihar govt of ‘misusing’ police against RJD candidate - National Herald",
+      "summary": "",
+      "date": "2026-10-23",
+      "topics": [
+        "politics",
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hans India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRVhxam5tMWFmWUZucHdFbUtqaFRrS2dpVnlNZVFxamVjTzJpTlVNVENnbWp6OGVQVHVDbkNETlh4czlyNC1BOW9OYnl1STRjQ0NlZGlkYW84NDlCbmVTaHpoNzYweXdqaEZLemI0MWI5U2dYc0w3QV9Qc1JicjgwWk1NanZmMTh0dlhFbTZBT0FnOXJJU2czcGFvbzlpR3RwZWVjTTVjWHAzNWxzOWFteUhtODhTSlU5X1VabkxYUmpvNXc?oc=5"
+        },
+        {
+          "outlet": "National Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGZuWjBLRml2QXI0RXpzZlhUZTRJREJCa055MFhJcm42TTY0eTd0Mmc5Qm9zN2xBUi12V1hZakNvQ1dkeXgzVU9DOUVxZkdHSnY4N1lERkppYjNEX19wVV9zTEtnbk9MTFFMZEttRUFWUDVfeVZyODZOeTZlSGxxWWtmRERIN0Z4d05tZGd2YlBOQzFQX2RCdG01Mk1CVUxHMlI3ckxtLVZHN0JzYjhGQW1XbUpTaGx1bXBj0gHIAUFVX3lxTFBHOFNGbXV5OHBHWms0YzhnUUFLTWJsRy1nQzRhejNnUGZ1bTVjRHJYcjBVUTBlRkZSOWxzV3BaLXdKMHcxQkozLThWWUVuXzVXTzFsYlFrSUxxT3dFRTFWNDA0ekpjZkpSY2E2Z3l3dFBfM2VSTkU0SGFCUzBoN1pxV0FpTk1QWGFlOFRHVXlPTlRFVlo2OTZ6Z2ExQVUxaGRrOW1RY2pqb2xvU1VGTjRYanlpNFotWm5qeVF3TkFRZ2hfOFdtQ2c2?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar’s 19-year-old Monu Meturbala runs 8,000 Km to visit 12 Jyotirlingas after mother recovers from... A health-related story. Covered by Moneycontrol.com and News18.",
-      "image": "images/bihar-s-19-year-old-monu-meturbala-runs-8-000-km-to-visit-12.jpg",
+      "brief": "Tejashwi Yadav accuses Bihar govt of ‘misusing’ police against RJD candidate. A politics-related story. Covered by The Hans India and National Herald.",
+      "image": "images/tejashwi-yadav-accuses-bihar-govt-of-misusing-police-against.jpg",
       "image_kind": "placeholder"
     },
     {
@@ -301,53 +357,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "boy-shot-dead-during-idol-immersion-procession-in-patna-outl",
-      "headline": "Boy 'Shot Dead' During Idol Immersion Procession In Patna - Outlook India",
-      "summary": "",
-      "date": "2026-10-22",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Outlook India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlhYbzMwOHEyTnZmZmFBME1pLVRLQ2xpbWZkWFhmY1M5Z1JQTUtBTWxITEdGUk9qdk1PNEpSUjNCRDhDTDVuQkttdVFQaVpSd2JzZTlvaFBmaGtpYXNTeUxaVWNyeXZEUjBmMWZOUWZQSmI1eVgwU2FLUG5tX2Z0R1QtUTJqMDdkRFp3dEJ5dFlzZ1VTbmhxZ9IBpgFBVV95cUxNZEw4cWt5WVhuZ2NYT0ZZby1HWjhKWGhVNWpvS2lYRDVCWGFndjJ6TjRhVEloYW5aRTNMMHNBN204dDNSV3I5TU9iNWxHVkVMVGE0Yy1XU2FHNS1iQmVBU0FHaTEwbXF4M19Db0sybGNhTkpTV0V2dTRpR1hPWnlwZjB5X1Zpay10SmlKX093ZXVvY1FYV0p6LUgxanlQOFpfUGRWNEFB?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFQ0R0txVUhjMEFBS19WSW1tMXdxRUREcU1jYmtGUlRrYi1VQnhqSnpGaDUyV1EzcTFfckN5WURiYm1Lc2c4NXJFdUNWLWZLc2pncS1YOXhCaTQyS1hqc1FGMi1fNUhFd1ZvbXIzUXN5RDRBNURHVWhZMXRqWnVxSnVCYkVfVC04R1JicXZPcm5TTEpraUo2VWI2Qi1MQXIzX3NsTXFSSnhSWVhMRTN0cHRwMXlkMm1pWk5YelVTUXjSAcYBQVVfeXFMTWVRdGxzUWZyNV9jd1hxNE1CU1JaNFpjcy1wX0NfeldOeEtTdjZ2aUxWSl8wamg1aHU1emRjbXVSaFFxY2g5eTlqc2NDQ3gxTHhNdE8teVUtdkNqTFM3V2daUE1acFRMQ2RNQk1Lb3NMUmNoUTAzdFZvTWhZUmZJSmVNRWM0bjA0czh2amQxWkFvcUlkTW1pRUhzSjVkcjhlRUtJSk1xUXZtUU1yRGd6RHREM1BEMnF1Vm1jaTlrLXAySjFiNkR3?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0JaRlIxcHZBa2tmb19tSnVFdTg4RTF1V2oyeWY2QjB3R3lmUkVGWlBWSWU5UUZJUmNwNF9WTkxYNjRnSWhxUkEySWZMX1EwQVcwRi1YU3hyeHZmeGE4WVVFZUdiY3VBbFJycUpFMF9RZ0xfb3hpd0dkYUF6ZkxZR1JQY1NHbEZTMUJybE81OUtfa1c3bFk1S1pXN2Q0UXBpeTZ4WFlQR2dYTUFGbWV3cldWRV8wbjE4Ymw0c2hGbmRtZ1XSAcgBQVVfeXFMUENiTmU5TXM2aEliU0R1Uk96Nk1Ncjk3bmgxcm5JWjJsUy14QWxVQ2VaNWNCQmN2cEtIS05CT2ZfNTN4YXZsZ3hodmFyRWg2d0xIREtDSXdPYzJYWHI5N1BHVGZZdE50RXBZQXV1VzdFQ2tNam9raEtmV081eTBnOGlHLXEtMFZGdWtKNHpaOUdja2Qwd2wtc2R0dDFBZFF1Z2FuTDdTOW9QTmF1aXZkVGFTNkNBMGhtdkZnTXIxNjBSd3NNY2JtNUk?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT05XdDhfRHVEaVN3eW9tMGJKMXA5U3g3NTM1R0p6aEJORGl2UnNpRHBTeUZkRFV6bjNGdUVqcXAwUllCZnZacEJIb0xkSnNuQjlmOEg3WlNvSVloc0xWR2I4bzdQc004YkJGNVlZTWFJbDRMSG1YTDk3U28zQmhKUERkd3Z0YkRUX1lGYkxOM1FzVFZyQXFwR2h3U3dkWUQ5Tk04eFBjbUpIX3VxaE5PMVVrMTlDTGxfbUtV0gHAAUFVX3lxTE4xeFRBMFFlN2RVeFA4aFZjaDR3WVp6UWtHVi1DLUZFaENDNGJ4RFB0V1Y5TkxTSW9ELWxwQUtoY0F6RnE3a1IwRTdySG5LSDYya2dKT3RHVnYtc1R4VzFVa2FXb1ZldG1vYUltVk9VZ1dYU28waVVUYm5KNGdCX3BYaGZjRG0xbzhKZ1BCUkFjYmZFRURtZm5VcVQ2U2NxR0x1WjR3NVlyOW5lbTdmYy14d2dUQ2NPVm5CYnA4Z05WeA?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2lHZEllcjZIcHBqeFBtX0NmbFBteFVGTjVlWkI1ZktjbkxINFlwVlVBem9nVXVLN1FkOENaVVRpeWdQanZ6eENaX0RoWVZZZXpKNGNaT1dNSTRNQ3JGR3RseDBrQThRVG1ROE5pWFJvVjhjdUxvQkhYbFhRczdVT2NtMW5OWVZjaV9vUGV6RHlXWWlFajIzQkVIYzNzbW9KdHJzbjIwQXowVnRtSG9QNGdoU21mVUN5SWVQWtIBwgFBVV95cUxOcGhIU1d1aUd5NTNTM2VGMEdDcUlNWlEybFY5dmxGQnZEajR5b1B3ZGY4WG1TYV9XTWtzNG1mQXJoQzZKOXVSQXJVRmVQOXlqUnhONUJJRkZVNUNqLUd0dzBkUkQ5eGhoQ1FhR21OeEE4TkZsUlhVc244UkozQ2pYR2docU9vX3g1TXRzLVBEVk1JQUt0TTVvVXBFSEdxdk5qdlJieVBpal9SeEVDeGQ3M0pjLWtLaFRwUlh3MmRESlhIQQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUY2ajg2MVpUN1VYdlZ5YzVBdm9ocWpOcUxkMHpRVzE0bV94b3owVGZBZGxBQ0ZYSVZicFh6QUZMcWlOcUlxQlpSNUtQODBqOUVoUEJyakV1bFNnM1lsVnFob1ZtcDhTeW55NmJWZGlZSzdiVnRIV1lGa2x1WjVtZXFDSDZnWmtDbncyNjJXbTd2UFNYTUVuZ2NpZTNsMm1BcWxDcU9GWld3dlUzZTNJX3Q1c3k1STh2VVFjaNIBwgFBVV95cUxPbXlZaE1aU3NsQTdPZ05mN3V6S2gwak93MDA1ZFM4dlNLUE5TY0g0UGhydjJfVjZpYUsxM2hSYXZ1dm5XZy1qWFB0ajYzQXFkQ1NpTm4xQWVVb0RKSEFqQjRkNmhYM3BRVTBCVGRoNWFvSmRPd1hzY2o4aFdxMHM5Y1JKN1V0M3YzUGt4VTgzUlg1Zk1kZXhhTGd4eTFKVWZIVFVpbkxKNDNCVHl3RjJnVkFGSWlLZ3czNmJXTHk0d1VHZw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Boy 'Shot Dead' During Idol Immersion Procession In Patna. Covered by Outlook India and The Times of India.",
-      "image": "images/boy-shot-dead-during-idol-immersion-procession-in-patna-outl.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-12-injured-in-attack-on-dalit-family-amid-idol-immersi",
       "headline": "Bihar: 12 Injured in Attack on Dalit Family Amid Idol Immersion Dispute, Two Critical - Clarion India",
       "summary": "",
@@ -402,8 +411,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "launch-quick-response-team-to-counter-misleading-reports-cm-",
-      "headline": "Launch quick response team to counter misleading reports: CM - The Times of India",
+      "id": "tractor-driver-shot-dead-in-nalanda-over-parking-row-the-tim",
+      "headline": "Tractor driver shot dead in Nalanda over parking row - The Times of India",
       "summary": "",
       "date": "2026-10-22",
       "topics": [
@@ -413,20 +422,40 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXlNeEJ2Mk8tN3g4ZXBfRDdyN21oeWc5WjBRLTRsaHVOOEpiYWJSWFdWSzM4RmZydXhRelRTVE83MDJjRk04Vld6dHlLaWI5eGI3akVaSUUzTG4wNk9uLXJhZzRFLVBsbUMxRkhZMUFCUHVkZjJ0MWVoUnpELTZHWVJyWEl5S3RhVlU2ODRnc1lReC1BOG5rQ3czeHNCSGlIUEtqVzlaWDYyWUpyZ0EzU29MZjJ6cDNfUGtISW40d1NvZGZOWGlienc2T2LSAdIBQVVfeXFMUEQ3dDBsdjR3dmFiUGQ5UndqUE15aTR0bzNnSVY0cnpBOFU1YmpsTjlhWVZxa0xKckFZbzNrbWw5WmgyU1BHZENrdjhZLWJ0eFBfWGdDRDlHQkxSSGdJYzZnM21lLVAzOXpxVG5ZVDBrX3VZNk5JaUpYTFUxMUpSSC1fSWtuV25pR1NDWnBhLXVzWXhvdS1pN1U3ckdRd1ZFOUN6alJKSXAzWUpiZHZCY1hlSWk1SmEtMnNUSGVaeTI4TEtZSk5hWkRtMlgtaFY3N3RR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFQ0R0txVUhjMEFBS19WSW1tMXdxRUREcU1jYmtGUlRrYi1VQnhqSnpGaDUyV1EzcTFfckN5WURiYm1Lc2c4NXJFdUNWLWZLc2pncS1YOXhCaTQyS1hqc1FGMi1fNUhFd1ZvbXIzUXN5RDRBNURHVWhZMXRqWnVxSnVCYkVfVC04R1JicXZPcm5TTEpraUo2VWI2Qi1MQXIzX3NsTXFSSnhSWVhMRTN0cHRwMXlkMm1pWk5YelVTUXjSAcYBQVVfeXFMTWVRdGxzUWZyNV9jd1hxNE1CU1JaNFpjcy1wX0NfeldOeEtTdjZ2aUxWSl8wamg1aHU1emRjbXVSaFFxY2g5eTlqc2NDQ3gxTHhNdE8teVUtdkNqTFM3V2daUE1acFRMQ2RNQk1Lb3NMUmNoUTAzdFZvTWhZUmZJSmVNRWM0bjA0czh2amQxWkFvcUlkTW1pRUhzSjVkcjhlRUtJSk1xUXZtUU1yRGd6RHREM1BEMnF1Vm1jaTlrLXAySjFiNkR3?oc=5"
         },
         {
-          "outlet": "Urban Acres",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzlrNWFoWGF0MnktMUs1QndQNGRMbGxBNlBnT0xhU1FBbzJ1NXhBYVI5OGhRdk9ra3hRT3gwLXVtT2ZJSG1VZ1lMN28wQVM0MTlGZkl0OW91c1BwNkxSaXB4eVdVWGJNY0l3a3pJZURiTlBFYy0yLXQ4ajJiQmNEcnpiY1dyaElkYmhPLU5FSkFrQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUY2ajg2MVpUN1VYdlZ5YzVBdm9ocWpOcUxkMHpRVzE0bV94b3owVGZBZGxBQ0ZYSVZicFh6QUZMcWlOcUlxQlpSNUtQODBqOUVoUEJyakV1bFNnM1lsVnFob1ZtcDhTeW55NmJWZGlZSzdiVnRIV1lGa2x1WjVtZXFDSDZnWmtDbncyNjJXbTd2UFNYTUVuZ2NpZTNsMm1BcWxDcU9GWld3dlUzZTNJX3Q1c3k1STh2VVFjaNIBwgFBVV95cUxPbXlZaE1aU3NsQTdPZ05mN3V6S2gwak93MDA1ZFM4dlNLUE5TY0g0UGhydjJfVjZpYUsxM2hSYXZ1dm5XZy1qWFB0ajYzQXFkQ1NpTm4xQWVVb0RKSEFqQjRkNmhYM3BRVTBCVGRoNWFvSmRPd1hzY2o4aFdxMHM5Y1JKN1V0M3YzUGt4VTgzUlg1Zk1kZXhhTGd4eTFKVWZIVFVpbkxKNDNCVHl3RjJnVkFGSWlLZ3czNmJXTHk0d1VHZw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0JaRlIxcHZBa2tmb19tSnVFdTg4RTF1V2oyeWY2QjB3R3lmUkVGWlBWSWU5UUZJUmNwNF9WTkxYNjRnSWhxUkEySWZMX1EwQVcwRi1YU3hyeHZmeGE4WVVFZUdiY3VBbFJycUpFMF9RZ0xfb3hpd0dkYUF6ZkxZR1JQY1NHbEZTMUJybE81OUtfa1c3bFk1S1pXN2Q0UXBpeTZ4WFlQR2dYTUFGbWV3cldWRV8wbjE4Ymw0c2hGbmRtZ1XSAcgBQVVfeXFMUENiTmU5TXM2aEliU0R1Uk96Nk1Ncjk3bmgxcm5JWjJsUy14QWxVQ2VaNWNCQmN2cEtIS05CT2ZfNTN4YXZsZ3hodmFyRWg2d0xIREtDSXdPYzJYWHI5N1BHVGZZdE50RXBZQXV1VzdFQ2tNam9raEtmV081eTBnOGlHLXEtMFZGdWtKNHpaOUdja2Qwd2wtc2R0dDFBZFF1Z2FuTDdTOW9QTmF1aXZkVGFTNkNBMGhtdkZnTXIxNjBSd3NNY2JtNUk?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT05XdDhfRHVEaVN3eW9tMGJKMXA5U3g3NTM1R0p6aEJORGl2UnNpRHBTeUZkRFV6bjNGdUVqcXAwUllCZnZacEJIb0xkSnNuQjlmOEg3WlNvSVloc0xWR2I4bzdQc004YkJGNVlZTWFJbDRMSG1YTDk3U28zQmhKUERkd3Z0YkRUX1lGYkxOM1FzVFZyQXFwR2h3U3dkWUQ5Tk04eFBjbUpIX3VxaE5PMVVrMTlDTGxfbUtV0gHAAUFVX3lxTE4xeFRBMFFlN2RVeFA4aFZjaDR3WVp6UWtHVi1DLUZFaENDNGJ4RFB0V1Y5TkxTSW9ELWxwQUtoY0F6RnE3a1IwRTdySG5LSDYya2dKT3RHVnYtc1R4VzFVa2FXb1ZldG1vYUltVk9VZ1dYU28waVVUYm5KNGdCX3BYaGZjRG0xbzhKZ1BCUkFjYmZFRURtZm5VcVQ2U2NxR0x1WjR3NVlyOW5lbTdmYy14d2dUQ2NPVm5CYnA4Z05WeA?oc=5"
+        },
+        {
+          "outlet": "Outlook India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlhYbzMwOHEyTnZmZmFBME1pLVRLQ2xpbWZkWFhmY1M5Z1JQTUtBTWxITEdGUk9qdk1PNEpSUjNCRDhDTDVuQkttdVFQaVpSd2JzZTlvaFBmaGtpYXNTeUxaVWNyeXZEUjBmMWZOUWZQSmI1eVgwU2FLUG5tX2Z0R1QtUTJqMDdkRFp3dEJ5dFlzZ1VTbmhxZ9IBpgFBVV95cUxNZEw4cWt5WVhuZ2NYT0ZZby1HWjhKWGhVNWpvS2lYRDVCWGFndjJ6TjRhVEloYW5aRTNMMHNBN204dDNSV3I5TU9iNWxHVkVMVGE0Yy1XU2FHNS1iQmVBU0FHaTEwbXF4M19Db0sybGNhTkpTV0V2dTRpR1hPWnlwZjB5X1Zpay10SmlKX093ZXVvY1FYV0p6LUgxanlQOFpfUGRWNEFB?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2lHZEllcjZIcHBqeFBtX0NmbFBteFVGTjVlWkI1ZktjbkxINFlwVlVBem9nVXVLN1FkOENaVVRpeWdQanZ6eENaX0RoWVZZZXpKNGNaT1dNSTRNQ3JGR3RseDBrQThRVG1ROE5pWFJvVjhjdUxvQkhYbFhRczdVT2NtMW5OWVZjaV9vUGV6RHlXWWlFajIzQkVIYzNzbW9KdHJzbjIwQXowVnRtSG9QNGdoU21mVUN5SWVQWtIBwgFBVV95cUxOcGhIU1d1aUd5NTNTM2VGMEdDcUlNWlEybFY5dmxGQnZEajR5b1B3ZGY4WG1TYV9XTWtzNG1mQXJoQzZKOXVSQXJVRmVQOXlqUnhONUJJRkZVNUNqLUd0dzBkUkQ5eGhoQ1FhR21OeEE4TkZsUlhVc244UkozQ2pYR2docU9vX3g1TXRzLVBEVk1JQUt0TTVvVXBFSEdxdk5qdlJieVBpal9SeEVDeGQ3M0pjLWtLaFRwUlh3MmRESlhIQQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Launch quick response team to counter misleading reports: CM. Covered by The Times of India and Urban Acres.",
-      "image": "images/launch-quick-response-team-to-counter-misleading-reports-cm-.jpg",
-      "image_kind": "photo"
+      "brief": "Tractor driver shot dead in Nalanda over parking row. Covered by The Times of India and Outlook India.",
+      "image": "images/tractor-driver-shot-dead-in-nalanda-over-parking-row-the-tim.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "bjp-launches-15-day-campaign-to-counter-opposition-s-sir-pro",
@@ -514,17 +543,12 @@
           "outlet": "Telangana Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOellrS0VkQjI5bEVpVFVkTmhIZWZXX2FXUnhfM25UeDR2OFVFSk9ZTE9ZRGxnaE10REN5S2FEX0xGNmw4TGhVU0g0S3dKVFc0NmNseHFzZGJwODI2Ymx4eEJYS3Bxa1A1UEFVWTlpWmhzenpDcU5JNlVvQklrRTBLUWo3XzFhM25VSDJoazBtTlhpVjE0dllMN2dNc0hZTzA?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYWl2NFNJMHFZT1BDbVh6V1QtaUU0RzRyS3hPZWIxUkF0dTNNZV9vR09kVmJKQ3drOTN0UUQtdEhMYlBhRTVidE12TEM4MGFoNm9OckdxNUhpMVlFWGdhZnA3YTVNaktOYnJacDJWNVQ2LU10alllZVUtUlFBSUJBSllac3Y1OHNiS3JlZlIxYWpfOXhybWFHQy1rWnhxTGFMYmRLakRMd2RDM3JIU1VSSC1McDZQZFpvQl9WVklMc2N1WGJva2R5YllRWkg4OGdfYkU2ZGtPNGx5QkNCQXdzTWNlRklnWERP0gHuAUFVX3lxTE9kaTFGeVY2QUxjZmZFX1h6ZGk5cXdNdGh0SGhUZ2gxZmlySl9fYWtNOEF5TTAySVZXT0dzZklDU2huODZkazdNX1RuSXVIOVN6UTU3OHNYMS1fNWxtTXhMS045ZjdDSThfdlc4V3NJZVFlWWx6V3JWa3JoS3lYYjljTzlTZzBKRG9aTTNuVjIyS21wOWd4YTlwVzBmS25JNDliMnN4NkFXeXVWOWFMZ3hVdk1QaVZhLWNIX1NFNDJDVWI1VndyQlRYanp6SExpN3NEOUMyQ1VQX3c5X0NqbHM2NHNla2pKb09DV0NMdEE?oc=5"
         }
       ],
-      "source_count": 11,
+      "source_count": 10,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'Bombed the Vidhana Soudha': Bihar man arrested over AI-generated Bengaluru blast video; netizens slam 'zero freedom of speech'. A politics-related story. Covered by 11 outlets, including NDTV and The Times of India.",
+      "brief": "'Bombed the Vidhana Soudha': Bihar man arrested over AI-generated Bengaluru blast video; netizens slam 'zero freedom of speech'. A politics-related story. Covered by 10 outlets, including NDTV and The Times of India.",
       "image": "images/bombed-the-vidhana-soudha-bihar-man-arrested-over-ai-generat.jpg",
       "image_kind": "photo"
     },
@@ -570,20 +594,20 @@
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3VUb2tvMC1BOXp2ZVNacldTMEl1M2U1MklST3R4djJPNkFJbGxDaUVTR053cXY5ZXAyakxXdmdicHY0WjN5bENweW9EazAtMnBlN2tPbUMtaUdTMWZpOVN3RXNMd0xHV29mbWp2a1hZTnpkb2UzMlc2R1NVSmhBb2MtQVpZc2cydWVISzI3YjlsRXhIWVk4dG5KUk0zUHBhTmc4RmJUN1VTUWlweVU4UUhBZjFXVlQwa2g5bkRXVXlwSDlhZG9HRDFKY0rSAdMBQVVfeXFMTkY2emFSQ2NMMHdxY3hGbXlzcGdfdDBUbmpwYVVXdUFvZ3dqX1RZU2w2UHhBRGxlbVhsMGp2ZENCQUhHUjhxVm50aDNVS3FUa1ByVXFIVzdRQXM3SEtoVWplZzVYdHFMNThsaHVUa0MxZjdldEI1MEhLQlFlUzRrczVjV1pqN0I3NkF6WnhWNXUySGl0ekZJaWtsZ01pUmpicS13c3lnSUI2RE1LMlp2cGF1OTdLRUhiNXBvT09xQUlvcFY4ajY5c0NOZUVRcmgtUHNsaw?oc=5"
-        },
-        {
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmtweTh3d3g4NndVeG8xeXhLR3RmQngzYlZOdmo5T0NFTW1OaG9EeUNpLXZmcDRIYUZOeEVudi1nTmp3bldRaVp6eW55Mk9mVEl6SmRlRkRDT3lfYTNKOHc0dGQyQjFjdG5BUXlVWk1vdFlfMk91dy1hZFZMQ0V6c1Fxa2hzdW8wVFVKazRhczJmVWVNWk1VeDUzUHlLODQ3aVAxYll2ejhHNVRaVlHSAbsBQVVfeXFMT002d2lxZWNEM1RCSDdMQm4zb0kxSTg4SUszUDcwbDRKQ0NTcWJ5NWRfcjdOVmJFQkNPOWJuYWtuRjl5eTVVdkV3ZVdRT1cyNjZGSlVRR2RsUGhBWnBncUZ6LTN1RVlXcHVNeXk1b05UM01SY0JTOXcybC1jTEZ2RnpTNXdNUmRpbVZyY3piZWtZN0tXUXZINEFiN0RjRkFMZVVzemVBV3lXZG1pZV9TTFNBUGctdHQwTHVaQQ?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3VUb2tvMC1BOXp2ZVNacldTMEl1M2U1MklST3R4djJPNkFJbGxDaUVTR053cXY5ZXAyakxXdmdicHY0WjN5bENweW9EazAtMnBlN2tPbUMtaUdTMWZpOVN3RXNMd0xHV29mbWp2a1hZTnpkb2UzMlc2R1NVSmhBb2MtQVpZc2cydWVISzI3YjlsRXhIWVk4dG5KUk0zUHBhTmc4RmJUN1VTUWlweVU4UUhBZjFXVlQwa2g5bkRXVXlwSDlhZG9HRDFKY0rSAdMBQVVfeXFMTkY2emFSQ2NMMHdxY3hGbXlzcGdfdDBUbmpwYVVXdUFvZ3dqX1RZU2w2UHhBRGxlbVhsMGp2ZENCQUhHUjhxVm50aDNVS3FUa1ByVXFIVzdRQXM3SEtoVWplZzVYdHFMNThsaHVUa0MxZjdldEI1MEhLQlFlUzRrczVjV1pqN0I3NkF6WnhWNXUySGl0ekZJaWtsZ01pUmpicS13c3lnSUI2RE1LMlp2cGF1OTdLRUhiNXBvT09xQUlvcFY4ajY5c0NOZUVRcmgtUHNsaw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "PM Modi to visit Bihar’s Bhagalpur on November 20 to launch projects. Covered by The Hindu and The New Indian Express.",
+      "brief": "PM Modi to visit Bihar’s Bhagalpur on November 20 to launch projects. Covered by The New Indian Express and The Hindu.",
       "image": "images/pm-modi-to-visit-bihar-s-bhagalpur-on-november-20-to-launch-.jpg",
       "image_kind": "photo"
     },
