@@ -1,18 +1,75 @@
 {
-  "generated_at": "2026-10-24 05:54 UTC",
-  "generated_at_ist": "24 Oct 2026, 11:24 AM IST",
-  "story_count": 52,
+  "generated_at": "2026-10-24 06:36 UTC",
+  "generated_at_ist": "24 Oct 2026, 12:06 PM IST",
+  "story_count": 51,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "4-dead-more-casualties-feared-after-blast-at-firecracker-fac",
-      "headline": "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan | India News - Hindustan Times",
+      "id": "bihar-firecracker-factory-blast-2-cops-suspended-over-neglig",
+      "headline": "Bihar firecracker factory blast: 2 cops suspended over negligence after 4 killed in Siwan - The Week",
       "summary": "",
       "date": "2026-10-24",
       "topics": [
         "crime",
         "civic",
         "health"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXk5cUttLW9DUkloYmtkZV9Qb1BBckxoS2x4dDdLck9aYV96SEQydWQxbEg4NWlZYWlOVURuXzVzSHgybmRTb01wS1NNVERYS3BwbzV5Rjhkcnk1VlNXTV9mbzNLeDUzQ1hiMGkwaVhNZGFHX0dwWEJIVU1aQ01kZFZsVDREOThmZUtTSVdNckp4cHgzZ2xCWmp4WlVCem9kX0RTQVZ4LXFGdG9RbVhfcEFUZUNBY2M?oc=5"
+        },
+        {
+          "outlet": "The Week",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckZwTDFiUTRDM2lGSFZHTng3bzhHV3FlNjI2SnE1MUFzbUJhcXBkNW50VVBXTnpDS1FUVFliMlpIT3EzWElIb0NtSG5tUXZkWUhzMXE2VzczOWg1cm5QUTg1RDV3S2tqWVJrSW9jWlNaTGRZeEk5eWZoakZqZUd3MXk2YjJHWXpIUXF2a253bHlIN29XMHfSAZsBQVVfeXFMTlFaY1dfcXBSdkZubGNQRmhtckRralJhY3gwU0NDbnBPSFAtQ2hkVzBCRV8tTmxSYVF4YUJFQ0lNWkRKanBhSVVpODJkUGRkenJSRUxWTnNYUENtRkMtdWIzcVMycEZXd242bEYyMENOSUFzS2xhN0FtN1VZYWtTZFVPQlVwTUlNNG9UWHU0T0RmNzB1MU9WcmJFTmc?oc=5"
+        },
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDZXakFVU2l1OXhXYlJ1RF9nc29MSDNvMTdaV2ttV1NEZmU3LXZTUEdPMUhnSVdVNjAydzRwOHFqWHFHSURFX2RBYUxCNWl0dC1Gd2NnQkRwRTlsQkpEeU5oUE5qOGFieEJEY1JYYnd0bVpEZE9TY2xMMU9uNzJZYkp1cV9yclhPbnhfeTBvRkRZMzJ5aVJsWUVpTXlnTHVLeVhlWXRObjNMX29qMmJtTENtcG5OZzZiSENCbtIBwgFBVV95cUxNa2h2U3pHOFF6Z01GWUtNWExuTlpJaWNyc2xTRUdKbW5vZmNlY21tNkVORV9zYlBMRzdlTlR1OWZHRl9xUTJtNlVkeW9pcXJRMENaYklMUlFHcHVicVNSTHp6ZFItLXExbkY5b2huNE5pdDZZTUY1a1QxYmdIaTZHZmxJREd0SHhrbGYxZTNzbzJhVWdmbkIxZkRKaXhYQ0VNVDR2UW5uQzl1ZVlJcWNZdDJvNUlZY3pIQkllXzJrdHdJQQ?oc=5"
+        },
+        {
+          "outlet": "News On AIR",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEpVNThtMElkZU1kT2pzU0o4SzFsaVJIOElVVVVvYmNjUnlBVU1XQjh0R3F1ektsdkVVVmpVOXRvQXNHRWpxcEItVWlkZjcyM0hQN0pDNU1ZcUJwUFUwOVNRTXlWWGh6dlZHaU5nTERaVGlwWG0tekhJRGYzZ0FZSXBfcHRiMktrc0lGUll6czItbVBYM1E?oc=5"
+        },
+        {
+          "outlet": "WION",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTDdfYTI1UlRkWVFoOWpqd0gtYzJqMUxPUmRGSjZZUGNucUJiTjRPUTZCWGlHXzhoRlJ3QXd0N0dMdm5UR1hYdmhieGRrSkhZLWlJa3VYeDBrN2ExUTg1cm05LVhjS3lOcmg1Z0Ywd1NLbUg5MjgxT2xSR0JkQlpiNmd5UEwwOGs3ZVhYcFRrSkY2N25veWFOYl9sd1R6SUJIOEJzVnFUODU2eWVaVE9OMHlDUFNBaGJNRUNieHdzc0Rkc3VaeTZSdFJOY0lEaEI0TFHSAdcBQVVfeXFMTU5IcXd1eVV2QWgxOUtCSmdPcm5GUlNfVjZhLXpRaFBIN1RXSzN5d09MXzgtSlpMWDZueW01ZGVXYkRZLWY3VjNnckpER0V6RjVXOFl6REFpcXBjbXFCWWZNeUhNVFE5MzNheXJLakI0QjdOMDAwNWphenIya29xVHJJUjdoRkstQmtfdUt0S0pxSUJNR0pEc3ZwZnFkaDhXWVZCMlZFOHRRN19fWTZibzA2aUlXaVEzWnRydzh1UWdkeVkwaEo3cUtfQUpDenZFbDlSQWxrWlE?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNC1ZcGU2STl2TFpqN202TnNjNGt2aFBWeTZIdmlWWkhyeEtiS3oxV0V4eWVrUTdGVDMwR0o2YlBfN0ZaNEVxclp0Q244N0kzQXJhc25yYVZpcTgybVJXNkNna1JYNG5zRTFLTm1Idy1OX1ZETXRFM25WVG11RDh1S3lTUHBvbkZkc1ozZWMzTzJhbUItdnpvNWszUlM2YUwtUXZtT2lGY1B0WG1ZZDlreDVqR2VmMldmQjUyWFg1eUVhMWNhYlpOa0xLd0pxSzBYMktBOTl4QW1kcU9yamw1UDh3?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjZEMWQ2S1Y4ZXRJczlVQUh1YXdVRnRmQldsUU5FcVdWUkxEN3FiYy15cDRwZHpKSll4TFJSdEV2VFpCTDFrRjBXamNrMm5iX2NEekE1NkxVQlV1THhQdC10TjBydTNVVU9pdE5QSVBNVnNUN2VvcDVleXM5QTBqZ3pZa2p3TVd1eUxCNFM0NTk4SkVzS3U3TFpHSUk2bjQ?oc=5"
+        },
+        {
+          "outlet": "prameyanews.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnNYU21PbXJPc1FSemhHdDVhMWplMHpTQnF1VFIxZTJUbUpIVXRUUWpuNGFtQ0R6bS1WTnh4MGd1WmlEQnVxTUZqcHEydElnTWlvNEhmTmRLN0JuZzR1ZkNqd2Faa3d3a21XTmIxNU52Z0hzWHo3MUlXb1NuSnk4UG1SSTNULUJXLW9PTHNCMDhMempEdDBYeUN1T19OaVE?oc=5"
+        }
+      ],
+      "source_count": 8,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar firecracker factory blast: 2 cops suspended over negligence after 4 killed in Siwan. A crime-related story. Covered by 8 outlets, including NDTV and The Week.",
+      "image": "images/bihar-firecracker-factory-blast-2-cops-suspended-over-neglig.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "4-dead-more-casualties-feared-after-blast-at-firecracker-fac",
+      "headline": "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan | India News - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-24",
+      "topics": [
+        "crime"
       ],
       "sources": [
         {
@@ -26,45 +83,15 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTS05eWJQeDNFTUd1bG05LWt6QTV4b0lkMzNJVFUyQmQ0TEVPc1BkTlhzS1ota2dveXVjbWVaRTkzWUNZaHA0YWk1MGNIeEEtcjRFdmJRV0Izb20zYmg3bTVJMHhTTzlSaEpQRFFwc0VxMmxHUjNtV0lxdzE0eUl3Ukh5SThMdW1TeGw3LTFWWmFuUnVjRFBwSjBn?oc=5"
         },
         {
-          "outlet": "The News Mill",
+          "outlet": "Hindustan Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjNScnBCbmtpbGV5MXZkekp5dXU0ZV9hOG10LWY4VHdPa2wzVDRmWVMyUjZib2dzNEc3M0VPX0pVMUYzNnd2cmt0YTN1Wk5LWXNEek8tS1RyZ01lTnhDQXpOa2pzR0hnYU9lS0ZQNTdGeWVCdUlEd0w4LWtvVkNxNUM4aDRmNnRKQjk4WlRxeWdHX3hFdWlWWVZGVWltMzA?oc=5"
-        },
-        {
-          "outlet": "News On AIR",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEpVNThtMElkZU1kT2pzU0o4SzFsaVJIOElVVVVvYmNjUnlBVU1XQjh0R3F1ektsdkVVVmpVOXRvQXNHRWpxcEItVWlkZjcyM0hQN0pDNU1ZcUJwUFUwOVNRTXlWWGh6dlZHaU5nTERaVGlwWG0tekhJRGYzZ0FZSXBfcHRiMktrc0lGUll6czItbVBYM1E?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNC1ZcGU2STl2TFpqN202TnNjNGt2aFBWeTZIdmlWWkhyeEtiS3oxV0V4eWVrUTdGVDMwR0o2YlBfN0ZaNEVxclp0Q244N0kzQXJhc25yYVZpcTgybVJXNkNna1JYNG5zRTFLTm1Idy1OX1ZETXRFM25WVG11RDh1S3lTUHBvbkZkc1ozZWMzTzJhbUItdnpvNWszUlM2YUwtUXZtT2lGY1B0WG1ZZDlreDVqR2VmMldmQjUyWFg1eUVhMWNhYlpOa0xLd0pxSzBYMktBOTl4QW1kcU9yamw1UDh3?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjZEMWQ2S1Y4ZXRJczlVQUh1YXdVRnRmQldsUU5FcVdWUkxEN3FiYy15cDRwZHpKSll4TFJSdEV2VFpCTDFrRjBXamNrMm5iX2NEekE1NkxVQlV1THhQdC10TjBydTNVVU9pdE5QSVBNVnNUN2VvcDVleXM5QTBqZ3pZa2p3TVd1eUxCNFM0NTk4SkVzS3U3TFpHSUk2bjQ?oc=5"
-        },
-        {
-          "outlet": "The Week",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckZwTDFiUTRDM2lGSFZHTng3bzhHV3FlNjI2SnE1MUFzbUJhcXBkNW50VVBXTnpDS1FUVFliMlpIT3EzWElIb0NtSG5tUXZkWUhzMXE2VzczOWg1cm5QUTg1RDV3S2tqWVJrSW9jWlNaTGRZeEk5eWZoakZqZUd3MXk2YjJHWXpIUXF2a253bHlIN29XMHfSAZsBQVVfeXFMTlFaY1dfcXBSdkZubGNQRmhtckRralJhY3gwU0NDbnBPSFAtQ2hkVzBCRV8tTmxSYVF4YUJFQ0lNWkRKanBhSVVpODJkUGRkenJSRUxWTnNYUENtRkMtdWIzcVMycEZXd242bEYyMENOSUFzS2xhN0FtN1VZYWtTZFVPQlVwTUlNNG9UWHU0T0RmNzB1MU9WcmJFTmc?oc=5"
-        },
-        {
-          "outlet": "prameyanews.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnNYU21PbXJPc1FSemhHdDVhMWplMHpTQnF1VFIxZTJUbUpIVXRUUWpuNGFtQ0R6bS1WTnh4MGd1WmlEQnVxTUZqcHEydElnTWlvNEhmTmRLN0JuZzR1ZkNqd2Faa3d3a21XTmIxNU52Z0hzWHo3MUlXb1NuSnk4UG1SSTNULUJXLW9PTHNCMDhMempEdDBYeUN1T19OaVE?oc=5"
-        },
-        {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDZXakFVU2l1OXhXYlJ1RF9nc29MSDNvMTdaV2ttV1NEZmU3LXZTUEdPMUhnSVdVNjAydzRwOHFqWHFHSURFX2RBYUxCNWl0dC1Gd2NnQkRwRTlsQkpEeU5oUE5qOGFieEJEY1JYYnd0bVpEZE9TY2xMMU9uNzJZYkp1cV9yclhPbnhfeTBvRkRZMzJ5aVJsWUVpTXlnTHVLeVhlWXRObjNMX29qMmJtTENtcG5OZzZiSENCbtIBwgFBVV95cUxNa2h2U3pHOFF6Z01GWUtNWExuTlpJaWNyc2xTRUdKbW5vZmNlY21tNkVORV9zYlBMRzdlTlR1OWZHRl9xUTJtNlVkeW9pcXJRMENaYklMUlFHcHVicVNSTHp6ZFItLXExbkY5b2huNE5pdDZZTUY1a1QxYmdIaTZHZmxJREd0SHhrbGYxZTNzbzJhVWdmbkIxZkRKaXhYQ0VNVDR2UW5uQzl1ZVlJcWNZdDJvNUlZY3pIQkllXzJrdHdJQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2VkaFJxd01KQ1pxb2xneUV4VjI3d05TZHAzRGdNOHNRMXpkUzRkY2FzY1dxWm5WM3lMbFpoLWVIT2wwTGRhM3YzT1lOUUp0NV9kRGlMZGpYUzdMV21UZzhQUElFYXRnUUljZFB3UDJ0VnczRU9XcjZQRmw3MDRoOFVaOFNMaDFFWkk2YjBRWHd0cGZBVWlsSWQxd2d0cTFOOHNMRWE0SVhUNmw1U2JpVzFobFFvYndjLVHSAb8BQVVfeXFMUGNneUo5QWw0dkJLM2hFZERURjdXWG5kLUFqazZtbUNVNXVQMDc1SjhSUk5jS0h3QVVhdWJjdE4xdXhkMUNHUUpVQVV2NjBndDRUR0FDNXNRNmNnbWR5cE1kVEdReGJnZElvaEdBcm5aMV9WaFdBbWI1QTh3SXVYeWZpOTducHBLTUVwbVZDMHo0Vl9TZGlEazhCUlNCcTJMRDNMdWNJY3VSRTlVQ1pUZE1WX3I1NGZ1d3YzZzFyWmM?oc=5"
         }
       ],
-      "source_count": 8,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan. A crime-related story. Covered by 8 outlets, including Hindustan Times and The Shillong Times.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan. A crime-related story. Covered by Hindustan Times and The Shillong Times.",
       "image": "images/4-dead-more-casualties-feared-after-blast-at-firecracker-fac.jpg",
       "image_kind": "photo"
     },
@@ -278,23 +305,18 @@
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYko3eGZEMmJxYUs5OUxmQmx4NkhOdlJCVEdMN0hqdFJiMnFndFc1UjNwUHVuZnBuQzZCNmVNT0pHUEtyMVJCNmxZaTVkRjJSb3VNTkZKaHA0ZVZUbVppMFZuc1F3NU5iNThxQjBWcXQySzE1bVFiMmNVbE9OX2hMTVdVdUxSczkwMFdQYnphR1RTbmYyR3ZzUE80alRDRkxqdTVPa1JpSFNjQXNESzNtMDJadXhWcUdvN3AwbkNEQ0RDdUlKN2tVbjFxRdIB0AFBVV95cUxNclZNaENnV21YYUJVdmVKUHBIYnFSZ2RTaHFEek5uT0N1Q05MRF9IeWt4Z0VLVWo2TUhDTndNRVVLd19pOW5GZy1vdV84MXNwSUpaSkN3VEVKbWU1X1U4VlVkeTFwWGRMdzVPQzE1aDRqdUM2aExBVmNXaDl6ZlJDWmdxZjBJOWNHbkp3c3Y3aU5PTmhpUk5fSGZOLV9zYU5MbzJXdEIzcHU0aGkzU2s0enJpREF1cEoxYUVaTWJMaGZZTEFDZF9NcThaM2ZMUmJ0?oc=5"
-        },
-        {
-          "outlet": "CNBC TV18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVnptUHNrT3FfYjNQNldzczRTa2lzdHJnX2FmV2xYdkU0SG5MSWdRSHpURU9HZnN3VC1PZlJncEhoUDJxZ0k3Q3puNXBnVzVrQnJOSVZ1dmJ6dnQ0YnI2RlVKaWl0SXNrckZWMmRRclJiRzVZbkloVVVCUHR0RFNER1F2dWx5Nlc5U2ItcDNXYWVVQWJXM2NTU3kwRzhlNzh2RkY5d2JR0gGrAUFVX3lxTE8tN1AxaVEzeVQ0enFCM1d0dUxzR2xZYm9yVUMwU0ZQUWcwLVNVcU40cnIxcG5tX29qaU9VMGN0ZjBRR01jME9KWlRzT2dveXdNR1ZCcThqeENzTVZpX0g5eDZkNVBJU0loTXNfOVJYam9JZTgtMmZhTHc5Y2UtM3FHdEFLalpGUVZWTnN2WEYtVGxoTVhtX2ZMSFdwLWwtSmVaREhoMUwtd0txZw?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar MLC polls begin amid tight security, 150 candidates in fray for 8 seats. A politics-related story. Covered by 4 outlets, including The Hindu and Moneycontrol.com.",
+      "brief": "Bihar MLC polls begin amid tight security, 150 candidates in fray for 8 seats. A politics-related story. Covered by 3 outlets, including The Hindu and Moneycontrol.com.",
       "image": "images/bihar-mlc-polls-begin-amid-tight-security-150-candidates-in-.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "at-least-four-killed-in-blast-at-house-storing-firecrackers-",
-      "headline": "At least four killed in blast at house storing firecrackers in Bihar’s Siwan - The Hindu",
+      "id": "at-least-seven-killed-in-blast-at-house-storing-firecrackers",
+      "headline": "At least seven killed in blast at house storing firecrackers in Bihar’s Siwan - The Hindu",
       "summary": "",
       "date": "2026-10-23",
       "topics": [
@@ -315,9 +337,9 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "At least four killed in blast at house storing firecrackers in Bihar’s Siwan. A crime-related story. Covered by The Hindu and NDTV.",
-      "image": "images/at-least-four-killed-in-blast-at-house-storing-firecrackers-.jpg",
-      "image_kind": "photo"
+      "brief": "At least seven killed in blast at house storing firecrackers in Bihar’s Siwan. A crime-related story. Covered by The Hindu and NDTV.",
+      "image": "images/at-least-seven-killed-in-blast-at-house-storing-firecrackers.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "bombed-the-vidhana-soudha-bihar-man-arrested-over-ai-generat",
@@ -395,38 +417,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-s-19-year-old-monu-meturbala-runs-8-000-km-to-visit-12",
-      "headline": "Bihar’s 19-year-old Monu Meturbala runs 8,000 Km to visit 12 Jyotirlingas after mother recovers from... - Moneycontrol.com",
-      "summary": "",
-      "date": "2026-10-23",
-      "topics": [
-        "health"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdG85NDNuX3J6ZDNHMzlEN1Fza2tuVXkzaHJCZFB1OGdMaFVwZUZ2aXFFb2NWaUs1Wm9xVWpiMFphTWl3UmlvQk10QlMzZVdBRWd2MGd6VkxQdkpyZkhzN2htS3dVWDlhVGJlbDVkbW5QY3ZXS0lyS2djMnotVm9yM2pjRDZpTFJzZ3Z0SWZtdGk4aTVwX1F5TXZwNF9xQVFpY2lIMmlB0gGuAUFVX3lxTE5STlNpSjNmZTFFM1hua2FYRldOZGZjaFo2WUpvaWNhb0Vtc2hobWYxeTNWa3hSVF9sc1M0SjBkcTBDTmtCVzNLemhxVGZwY3FEblNWUjNuTHgtUkNQUEFtSW9WRUFQdWkzRTZ0VHpNbjc1R1lmMUpfbmgzLVJkSzBBbUVFR3VSekF1TWMtdnk3eDA2UXMwaG0wMkpSeEVwUW9xUGZoZUxyUzZmMWdtQQ?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcWZOVG5BMVl3YkFfSG5oZjBEaXE0cWppTmJMNkowc2lLMTltSkFqY0E4cThBaXRacU4yNF9aUzgtRjliZjlySFU5TTRPNVloT1hpRXBtVlgtS0VvemJtNWxhNHVicE1WVHJSUXdFby1JRTM2LXFNVERzRzVrVDYxUERGWUdVbGZJXzhyWkdPSjQ5Zk1POWljN3RXY3JJMEJjMUNWc3BqRk42cU85aFNkM0FIMEZ0VDVWREY4TFl1enJ0YXUyQ3lPcmI5MnlWNzlkMFdxbzZ6OFdZVEVKcWV4Qm9fMjdyS1JDcWRFQm83alRoZmZvbXVQcE9qSWllUdIBgwJBVV95cUxNdktWcTAyLXFzNnhSbjZWbGNBT255cUYwUVltNUcyZmRjVWRCaVl0dTB1OTZSOU83TlRPM0E5dVdmakpvQWJXVEVfMU9BalNCdFljeUNiUGVOTUdTTlpXQ3lNY2NfVEVKaVB3UzBYZ09vWllTcFNIM3BFMVJSOXdZRU5OZVY1dGdlSFlTeXlLNng3eWk4SFk2MEN1SzR5RXRKLWJsam1SZnd5NThBUkZvTXhWS043eGNoMC11WWZSb0IxblpWZ0Q2VFJLLWMyMHBiV09hYXpwSWkteDRMZVc3NWlXbVJobzBwYW5TZ3RWZk9qb0taUERHTngxb1dmV0dDYWtN?oc=5"
-        },
-        {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjdVc0VPUjY0aFVBYUk2M3dKOFg0WHMwM29acHNMM1hPZHhfZ19jc1BoLUZzd2ZKTU02b0R2MTAyLS1qa3hsN3JyQ2FRNzFDT2FGSm85elRRWlA3TnYwMkZQeVJhQzRRWmFjSjhiU1ZWV25rUUNDUUZyd2FYbkszeXgxei1PVFcxdEMtb3FtOHFESWoyMW11YXJrcUoxLXZjcUI5UzdERmV2WlhiSlFBdzNXbm1ENWtwZ04tVDAtYng3TmpPUVpTd3BVZUlmSC1rdVE0ZzI5LUlQcjZUUWtWR9IB5gFBVV95cUxNaElhb3AzVkNhQ01qQWo3S1l4S3I1Y3VaeXNKMjdzWTRJZFNVSG9VdURiYVRqVkc2eHBKX2p2UTQ3dEQ1UDZnVHFTX1BmRmxGSTBPcF9PSVVXajQ0ZlRrMDVJUHRaWjF1eVhqTlZ0N0kwY2tEeXY1QTFQM1ppNEFsWHIzRkRNeUstQlVTc0MyT0NOQmtfVnVEZ1YxbnRFQTN3NVBWUC1qS2k3Y0Y2aV9vbHZ6eWUwU0NRRXRMX0RWZ2NVUkVXQS1PbkRxNTc1LWg2MXVaLXA1aG1qSER2cHdhM3phR29mdw?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar’s 19-year-old Monu Meturbala runs 8,000 Km to visit 12 Jyotirlingas after mother recovers from... A health-related story. Covered by 3 outlets, including NDTV and Moneycontrol.com.",
-      "image": "images/bihar-s-19-year-old-monu-meturbala-runs-8-000-km-to-visit-12.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "polling-begins-for-28-legislative-council-seats-across-bihar",
       "headline": "Polling Begins for 28 Legislative Council Seats Across Bihar, Karnataka, Maharashtra and Uttar Pradesh - DD News",
       "summary": "",
@@ -456,6 +446,38 @@
       "genuineness_label": "Verified",
       "brief": "Polling Begins for 28 Legislative Council Seats Across Bihar, Karnataka, Maharashtra and Uttar Pradesh. A politics-related story. Covered by 3 outlets, including Rediff and DD News.",
       "image": "images/polling-begins-for-28-legislative-council-seats-across-bihar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-s-19-year-old-monu-meturbala-runs-8-000-km-to-visit-12",
+      "headline": "Bihar’s 19-year-old Monu Meturbala runs 8,000 Km to visit 12 Jyotirlingas after mother recovers from... - Moneycontrol.com",
+      "summary": "",
+      "date": "2026-10-23",
+      "topics": [
+        "health"
+      ],
+      "sources": [
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjdVc0VPUjY0aFVBYUk2M3dKOFg0WHMwM29acHNMM1hPZHhfZ19jc1BoLUZzd2ZKTU02b0R2MTAyLS1qa3hsN3JyQ2FRNzFDT2FGSm85elRRWlA3TnYwMkZQeVJhQzRRWmFjSjhiU1ZWV25rUUNDUUZyd2FYbkszeXgxei1PVFcxdEMtb3FtOHFESWoyMW11YXJrcUoxLXZjcUI5UzdERmV2WlhiSlFBdzNXbm1ENWtwZ04tVDAtYng3TmpPUVpTd3BVZUlmSC1rdVE0ZzI5LUlQcjZUUWtWR9IB5gFBVV95cUxNaElhb3AzVkNhQ01qQWo3S1l4S3I1Y3VaeXNKMjdzWTRJZFNVSG9VdURiYVRqVkc2eHBKX2p2UTQ3dEQ1UDZnVHFTX1BmRmxGSTBPcF9PSVVXajQ0ZlRrMDVJUHRaWjF1eVhqTlZ0N0kwY2tEeXY1QTFQM1ppNEFsWHIzRkRNeUstQlVTc0MyT0NOQmtfVnVEZ1YxbnRFQTN3NVBWUC1qS2k3Y0Y2aV9vbHZ6eWUwU0NRRXRMX0RWZ2NVUkVXQS1PbkRxNTc1LWg2MXVaLXA1aG1qSER2cHdhM3phR29mdw?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdG85NDNuX3J6ZDNHMzlEN1Fza2tuVXkzaHJCZFB1OGdMaFVwZUZ2aXFFb2NWaUs1Wm9xVWpiMFphTWl3UmlvQk10QlMzZVdBRWd2MGd6VkxQdkpyZkhzN2htS3dVWDlhVGJlbDVkbW5QY3ZXS0lyS2djMnotVm9yM2pjRDZpTFJzZ3Z0SWZtdGk4aTVwX1F5TXZwNF9xQVFpY2lIMmlB0gGuAUFVX3lxTE5STlNpSjNmZTFFM1hua2FYRldOZGZjaFo2WUpvaWNhb0Vtc2hobWYxeTNWa3hSVF9sc1M0SjBkcTBDTmtCVzNLemhxVGZwY3FEblNWUjNuTHgtUkNQUEFtSW9WRUFQdWkzRTZ0VHpNbjc1R1lmMUpfbmgzLVJkSzBBbUVFR3VSekF1TWMtdnk3eDA2UXMwaG0wMkpSeEVwUW9xUGZoZUxyUzZmMWdtQQ?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcWZOVG5BMVl3YkFfSG5oZjBEaXE0cWppTmJMNkowc2lLMTltSkFqY0E4cThBaXRacU4yNF9aUzgtRjliZjlySFU5TTRPNVloT1hpRXBtVlgtS0VvemJtNWxhNHVicE1WVHJSUXdFby1JRTM2LXFNVERzRzVrVDYxUERGWUdVbGZJXzhyWkdPSjQ5Zk1POWljN3RXY3JJMEJjMUNWc3BqRk42cU85aFNkM0FIMEZ0VDVWREY4TFl1enJ0YXUyQ3lPcmI5MnlWNzlkMFdxbzZ6OFdZVEVKcWV4Qm9fMjdyS1JDcWRFQm83alRoZmZvbXVQcE9qSWllUdIBgwJBVV95cUxNdktWcTAyLXFzNnhSbjZWbGNBT255cUYwUVltNUcyZmRjVWRCaVl0dTB1OTZSOU83TlRPM0E5dVdmakpvQWJXVEVfMU9BalNCdFljeUNiUGVOTUdTTlpXQ3lNY2NfVEVKaVB3UzBYZ09vWllTcFNIM3BFMVJSOXdZRU5OZVY1dGdlSFlTeXlLNng3eWk4SFk2MEN1SzR5RXRKLWJsam1SZnd5NThBUkZvTXhWS043eGNoMC11WWZSb0IxblpWZ0Q2VFJLLWMyMHBiV09hYXpwSWkteDRMZVc3NWlXbVJobzBwYW5TZ3RWZk9qb0taUERHTngxb1dmV0dDYWtN?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar’s 19-year-old Monu Meturbala runs 8,000 Km to visit 12 Jyotirlingas after mother recovers from... A health-related story. Covered by 3 outlets, including News18 and NDTV.",
+      "image": "images/bihar-s-19-year-old-monu-meturbala-runs-8-000-km-to-visit-12.jpg",
       "image_kind": "photo"
     },
     {
@@ -515,75 +537,6 @@
       "genuineness_label": "Corroborated",
       "brief": "बिहार की 8 MLC सीटों पर वोटिंग, पटना स्नातक सीट पर अनंत सिंह फैक्टर से बढ़ा रोमांच। राजनीति से जुड़ी ख़बर। इसे AajTak और ETV Bharat ने रिपोर्ट किया है।",
       "image": "images/8-mlc-aajtak.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "mlc-74-55-43-87-27-prabhat-khabar",
-      "headline": "बिहार MLC चुनाव: शिक्षक सीटों पर 74.55% और स्नातक में 43.87% मतदान, 27 अक्टूबर को होगी मतगणना - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-23",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWNneVhvU0RvTzRlMFJWWU90SmI3ZTk5MU52WGJMeFlzOGJMcnh3VjFTcnNPeXdBNnNxaEk3MkMwekc0SHFlMzFSU2Y0VXRpTkhXTXpXOUE5X2djNDNpdHJTd0U4OENoZmRoa0x6aU1hODR5am1IUjNVNHFiYzJ0UVFnaVc2RnNFZWJXM2xnXzVCaEE1UHFsODV4LXpncFhVTnFuQzNpaDAxZDhka2NReVNMaXJoVk8xVUt5UHFrWkFWUzVwTTVneGVzdEFzVUc1akJwZzZWM1dqTVg3RlZTMG9RRS02NVJLOFI4dA?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjQ3SGxWRmFKaFlfaWs0UXI1WWQ0WGJMQXI0cnFLQm15MTF1ZzFTbDZaVHEya0ZKaUZtRU82ek9yV3N4YVl3c256Zk9LOG82RjFCY01SOHpIcTh0ekViTnE2eVFyZGFsbVNZMUtXN25nN1ZCVnB5T21RX09nQkZvYVVoTV9hckdNWXNvelBzRmpoVlluUXFUUm5tczRhX2ttbkhUX2dWUjY?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGhzMzJvOHhGSjdTa0ZUaFVfZTl0S1FUa20tdXdqaklaWlpuZE5oRHRRLUhXV2lUd1V2cWNYWGxZZ3phYWttMkJQeVVCNWF4UTI5ZThranBISFdERFJCbVloemp0LTZhbnpGZ080M0xVeVFnNGZOQTl3N0dNN3V0Sm1nNVRlU1ZfWmpMdzExYzJ0WTB3NWN2QTA4Y3YtRllicnZZ0gGoAUFVX3lxTFBTS2pCalpSeFFQeVVnS2JibTJkdzhwdUNKRWd5V2oyUTY2SnZrMVJhdzFLOGVpOWpNVUg2NjBNNVJCb01EWlJjYWtnZGNXa2Fqc3hjcDdEWWVMcFNEU0thY3daOUp5ajFnT3ZuLTdTQzQ1YjF1MFd5cm9BcHgzOEJUbHBsdThtWjQ5SVBIWW1aazFKZW9NN2VHbmEyUktzS1JYT1otZElueg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बिहार MLC चुनाव: शिक्षक सीटों पर 74.55% और स्नातक में 43.87% मतदान, 27 अक्टूबर को होगी मतगणना। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/mlc-74-55-43-87-27-prabhat-khabar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "boy-shot-dead-during-idol-immersion-procession-in-patna-outl",
-      "headline": "Boy 'Shot Dead' During Idol Immersion Procession In Patna - Outlook India",
-      "summary": "",
-      "date": "2026-10-22",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFQ0R0txVUhjMEFBS19WSW1tMXdxRUREcU1jYmtGUlRrYi1VQnhqSnpGaDUyV1EzcTFfckN5WURiYm1Lc2c4NXJFdUNWLWZLc2pncS1YOXhCaTQyS1hqc1FGMi1fNUhFd1ZvbXIzUXN5RDRBNURHVWhZMXRqWnVxSnVCYkVfVC04R1JicXZPcm5TTEpraUo2VWI2Qi1MQXIzX3NsTXFSSnhSWVhMRTN0cHRwMXlkMm1pWk5YelVTUXjSAcYBQVVfeXFMTWVRdGxzUWZyNV9jd1hxNE1CU1JaNFpjcy1wX0NfeldOeEtTdjZ2aUxWSl8wamg1aHU1emRjbXVSaFFxY2g5eTlqc2NDQ3gxTHhNdE8teVUtdkNqTFM3V2daUE1acFRMQ2RNQk1Lb3NMUmNoUTAzdFZvTWhZUmZJSmVNRWM0bjA0czh2amQxWkFvcUlkTW1pRUhzSjVkcjhlRUtJSk1xUXZtUU1yRGd6RHREM1BEMnF1Vm1jaTlrLXAySjFiNkR3?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT05XdDhfRHVEaVN3eW9tMGJKMXA5U3g3NTM1R0p6aEJORGl2UnNpRHBTeUZkRFV6bjNGdUVqcXAwUllCZnZacEJIb0xkSnNuQjlmOEg3WlNvSVloc0xWR2I4bzdQc004YkJGNVlZTWFJbDRMSG1YTDk3U28zQmhKUERkd3Z0YkRUX1lGYkxOM1FzVFZyQXFwR2h3U3dkWUQ5Tk04eFBjbUpIX3VxaE5PMVVrMTlDTGxfbUtV0gHAAUFVX3lxTE4xeFRBMFFlN2RVeFA4aFZjaDR3WVp6UWtHVi1DLUZFaENDNGJ4RFB0V1Y5TkxTSW9ELWxwQUtoY0F6RnE3a1IwRTdySG5LSDYya2dKT3RHVnYtc1R4VzFVa2FXb1ZldG1vYUltVk9VZ1dYU28waVVUYm5KNGdCX3BYaGZjRG0xbzhKZ1BCUkFjYmZFRURtZm5VcVQ2U2NxR0x1WjR3NVlyOW5lbTdmYy14d2dUQ2NPVm5CYnA4Z05WeA?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2lHZEllcjZIcHBqeFBtX0NmbFBteFVGTjVlWkI1ZktjbkxINFlwVlVBem9nVXVLN1FkOENaVVRpeWdQanZ6eENaX0RoWVZZZXpKNGNaT1dNSTRNQ3JGR3RseDBrQThRVG1ROE5pWFJvVjhjdUxvQkhYbFhRczdVT2NtMW5OWVZjaV9vUGV6RHlXWWlFajIzQkVIYzNzbW9KdHJzbjIwQXowVnRtSG9QNGdoU21mVUN5SWVQWtIBwgFBVV95cUxOcGhIU1d1aUd5NTNTM2VGMEdDcUlNWlEybFY5dmxGQnZEajR5b1B3ZGY4WG1TYV9XTWtzNG1mQXJoQzZKOXVSQXJVRmVQOXlqUnhONUJJRkZVNUNqLUd0dzBkUkQ5eGhoQ1FhR21OeEE4TkZsUlhVc244UkozQ2pYR2docU9vX3g1TXRzLVBEVk1JQUt0TTVvVXBFSEdxdk5qdlJieVBpal9SeEVDeGQ3M0pjLWtLaFRwUlh3MmRESlhIQQ?oc=5"
-        },
-        {
-          "outlet": "Outlook India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlhYbzMwOHEyTnZmZmFBME1pLVRLQ2xpbWZkWFhmY1M5Z1JQTUtBTWxITEdGUk9qdk1PNEpSUjNCRDhDTDVuQkttdVFQaVpSd2JzZTlvaFBmaGtpYXNTeUxaVWNyeXZEUjBmMWZOUWZQSmI1eVgwU2FLUG5tX2Z0R1QtUTJqMDdkRFp3dEJ5dFlzZ1VTbmhxZ9IBpgFBVV95cUxNZEw4cWt5WVhuZ2NYT0ZZby1HWjhKWGhVNWpvS2lYRDVCWGFndjJ6TjRhVEloYW5aRTNMMHNBN204dDNSV3I5TU9iNWxHVkVMVGE0Yy1XU2FHNS1iQmVBU0FHaTEwbXF4M19Db0sybGNhTkpTV0V2dTRpR1hPWnlwZjB5X1Zpay10SmlKX093ZXVvY1FYV0p6LUgxanlQOFpfUGRWNEFB?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Boy 'Shot Dead' During Idol Immersion Procession In Patna. Covered by The Times of India and Outlook India.",
-      "image": "images/boy-shot-dead-during-idol-immersion-procession-in-patna-outl.jpg",
       "image_kind": "photo"
     },
     {
