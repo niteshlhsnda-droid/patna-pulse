@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-10-24 04:54 UTC",
-  "generated_at_ist": "24 Oct 2026, 10:24 AM IST",
-  "story_count": 50,
+  "generated_at": "2026-10-24 05:54 UTC",
+  "generated_at_ist": "24 Oct 2026, 11:24 AM IST",
+  "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "4-dead-more-casualties-feared-after-blast-at-firecracker-fac",
+      "headline": "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan | India News - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-24",
+      "topics": [
+        "crime",
+        "civic",
+        "health"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFVNWG9uRDVVT3cxOVk4emhySndvX2hab0tQRVZBSktFTndlQ2NDR0hDYmZtcGt6VURNbmdxNExUcjVMeUdmZUpUU1ltM0N2QlpUMEhIZGo0d19aejRHckdvSG9BNzNfWVFCX25ZcDhpQWU1Y0xXQVg3cndZOHlwelExenQyem42LWVqMlVWWVBPbHNnTnZqV1NfOW1BcVFMLVV2SU9MaWFWeDFnNFdweDV1enFFVTRrOENoQUIzSHUwRVHSAcgBQVVfeXFMTmdLc0VYaXVtNXVRTGJXdkJjYUJMTTNTenVfS2UyTlJRTzMxUmx6YlVIblBxdjZxOTlPY1lCSHNLT2llTHM0Q25NUUE0Q1pPTUgwUFRMa2xNcXpxT1FnSnh0TW1DWkYzZkx2NDltakRYS0ZWNE9xYkZfVU5lWVE1SnF0OFRXTDFta1VVUTBHSG1kTWZJRnN0UngtbXVwMnFWRzl4QkdsQ1ItdFVMdWVoYTlkSC0tdjAtVDdscTE4a1c1cEZqazJiTmo?oc=5"
+        },
+        {
+          "outlet": "The Shillong Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTS05eWJQeDNFTUd1bG05LWt6QTV4b0lkMzNJVFUyQmQ0TEVPc1BkTlhzS1ota2dveXVjbWVaRTkzWUNZaHA0YWk1MGNIeEEtcjRFdmJRV0Izb20zYmg3bTVJMHhTTzlSaEpQRFFwc0VxMmxHUjNtV0lxdzE0eUl3Ukh5SThMdW1TeGw3LTFWWmFuUnVjRFBwSjBn?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjNScnBCbmtpbGV5MXZkekp5dXU0ZV9hOG10LWY4VHdPa2wzVDRmWVMyUjZib2dzNEc3M0VPX0pVMUYzNnd2cmt0YTN1Wk5LWXNEek8tS1RyZ01lTnhDQXpOa2pzR0hnYU9lS0ZQNTdGeWVCdUlEd0w4LWtvVkNxNUM4aDRmNnRKQjk4WlRxeWdHX3hFdWlWWVZGVWltMzA?oc=5"
+        },
+        {
+          "outlet": "News On AIR",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEpVNThtMElkZU1kT2pzU0o4SzFsaVJIOElVVVVvYmNjUnlBVU1XQjh0R3F1ektsdkVVVmpVOXRvQXNHRWpxcEItVWlkZjcyM0hQN0pDNU1ZcUJwUFUwOVNRTXlWWGh6dlZHaU5nTERaVGlwWG0tekhJRGYzZ0FZSXBfcHRiMktrc0lGUll6czItbVBYM1E?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNC1ZcGU2STl2TFpqN202TnNjNGt2aFBWeTZIdmlWWkhyeEtiS3oxV0V4eWVrUTdGVDMwR0o2YlBfN0ZaNEVxclp0Q244N0kzQXJhc25yYVZpcTgybVJXNkNna1JYNG5zRTFLTm1Idy1OX1ZETXRFM25WVG11RDh1S3lTUHBvbkZkc1ozZWMzTzJhbUItdnpvNWszUlM2YUwtUXZtT2lGY1B0WG1ZZDlreDVqR2VmMldmQjUyWFg1eUVhMWNhYlpOa0xLd0pxSzBYMktBOTl4QW1kcU9yamw1UDh3?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjZEMWQ2S1Y4ZXRJczlVQUh1YXdVRnRmQldsUU5FcVdWUkxEN3FiYy15cDRwZHpKSll4TFJSdEV2VFpCTDFrRjBXamNrMm5iX2NEekE1NkxVQlV1THhQdC10TjBydTNVVU9pdE5QSVBNVnNUN2VvcDVleXM5QTBqZ3pZa2p3TVd1eUxCNFM0NTk4SkVzS3U3TFpHSUk2bjQ?oc=5"
+        },
+        {
+          "outlet": "The Week",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckZwTDFiUTRDM2lGSFZHTng3bzhHV3FlNjI2SnE1MUFzbUJhcXBkNW50VVBXTnpDS1FUVFliMlpIT3EzWElIb0NtSG5tUXZkWUhzMXE2VzczOWg1cm5QUTg1RDV3S2tqWVJrSW9jWlNaTGRZeEk5eWZoakZqZUd3MXk2YjJHWXpIUXF2a253bHlIN29XMHfSAZsBQVVfeXFMTlFaY1dfcXBSdkZubGNQRmhtckRralJhY3gwU0NDbnBPSFAtQ2hkVzBCRV8tTmxSYVF4YUJFQ0lNWkRKanBhSVVpODJkUGRkenJSRUxWTnNYUENtRkMtdWIzcVMycEZXd242bEYyMENOSUFzS2xhN0FtN1VZYWtTZFVPQlVwTUlNNG9UWHU0T0RmNzB1MU9WcmJFTmc?oc=5"
+        },
+        {
+          "outlet": "prameyanews.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnNYU21PbXJPc1FSemhHdDVhMWplMHpTQnF1VFIxZTJUbUpIVXRUUWpuNGFtQ0R6bS1WTnh4MGd1WmlEQnVxTUZqcHEydElnTWlvNEhmTmRLN0JuZzR1ZkNqd2Faa3d3a21XTmIxNU52Z0hzWHo3MUlXb1NuSnk4UG1SSTNULUJXLW9PTHNCMDhMempEdDBYeUN1T19OaVE?oc=5"
+        },
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDZXakFVU2l1OXhXYlJ1RF9nc29MSDNvMTdaV2ttV1NEZmU3LXZTUEdPMUhnSVdVNjAydzRwOHFqWHFHSURFX2RBYUxCNWl0dC1Gd2NnQkRwRTlsQkpEeU5oUE5qOGFieEJEY1JYYnd0bVpEZE9TY2xMMU9uNzJZYkp1cV9yclhPbnhfeTBvRkRZMzJ5aVJsWUVpTXlnTHVLeVhlWXRObjNMX29qMmJtTENtcG5OZzZiSENCbtIBwgFBVV95cUxNa2h2U3pHOFF6Z01GWUtNWExuTlpJaWNyc2xTRUdKbW5vZmNlY21tNkVORV9zYlBMRzdlTlR1OWZHRl9xUTJtNlVkeW9pcXJRMENaYklMUlFHcHVicVNSTHp6ZFItLXExbkY5b2huNE5pdDZZTUY1a1QxYmdIaTZHZmxJREd0SHhrbGYxZTNzbzJhVWdmbkIxZkRKaXhYQ0VNVDR2UW5uQzl1ZVlJcWNZdDJvNUlZY3pIQkllXzJrdHdJQQ?oc=5"
+        }
+      ],
+      "source_count": 8,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan. A crime-related story. Covered by 8 outlets, including Hindustan Times and The Shillong Times.",
+      "image": "images/4-dead-more-casualties-feared-after-blast-at-firecracker-fac.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "bihar-mlc-polls-turnout-in-teachers-seats-tops-graduates-tej",
       "headline": "Bihar MLC polls: Turnout in teachers seats tops graduates; Tejashwi Yadav says 'vote theft' won't work - Moneycontrol.com",
@@ -31,14 +95,14 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ2NXUkN4VzBrWWVoY3hGWTRDei1wdUZZOW00TUNTdXhNMloyYV9tbjVzcHpzcGl5bm1XcjNQN2hVWUN4VmVZZE5mcGlLVU1BQ0FDR2JqWEdkTnNtZmZlNHlEWnZrRDU4MS10czBTNHhjeGVRWVRvUm5fN21WX09yalNDTzdkdGZnWHJqSE01N1VScU5pZFh1bGZRaE04T0Y2aE1WUXA5ZElyV3FyN0hvdTMzc2ptRzQ5RFowVzlQTWd0YjNkcXk1dTNCdUpGODh6bk5FR2N3ZU9abTJq0gHiAUFVX3lxTE5yOXA1UTBJU1VJZWQ4R05aTzBReXNudDN2cEdxNEFfZDZOWUNvMnVoRVJtTER6YXNvQ0JpSHM3MWgzRFhPamZFOV84Q3FrM05XLUdoMjVSZzlIbzZnM0p3ZlpWa280LVNOQnBfdlVXUEFiU24xVWI1dzNIR29xTXVxb2VUYnloRU9TSlFDbzBLaVRZaVY3aFBVSWRFODREZ3RyTmczVjllOE9GbEhoQUR5dGRXaW94clNzLTBnVlpFWVU2OVItaGkwUTBPVm9Yam1kNWFFTDN2T3hxT29GVUhGWFE?oc=5"
         },
         {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUDd5THhJNXIzQ3hvNGUwRGZvRWtPSG52Z3E0T0pLbHFoTC1jZEcwSEhSZE10UHoxeXFYVGE5Tzk1QlVaOTNrQjdIWW0zVmRsQUEtZGhkdjBZM2xpTllkZ3lBTlN0S1U1WHhjclRiQ3JrYllPZkdTcTRxbDRZSURpOVFVWllpTVYxekdzemNVV0ljOFdYZUVlRzZrLWlmY3VlTzdHeE9HWmlTYUxyNkNzRGR6aHpBZ1Q0RW1CREpTM1AzSXVGa2NxWDlmaXg3a1otNjhqWjBPUk9MbkZRRjliLTk2ai1oSGfSAewBQVVfeXFMTnI1bkNKcUtCWV9YM2VQelA5bUFXSk44a2xkNXNMZDFIYnV0TUtrZ01kTHNEamwzTHV5cERKQ0RXM1V1Q2xEekY2ZWl0X255U3RseDZMU1k2ckEwRFFsdUtsdE1Ta1kxMl9ma0M4Q0RaX25qSGtHU1AwWmxiQmpTQ2wtWXlFdG84R3JZYnlXeUEwZVZjVWx5azROLU5JZ0xLWEI5VlR3UDV1NVhUelQyZThUakRwNERzd3NURTEwWHd5V0JoWFZWVFdLX3lHZUp6Rko0TXNaYWktUWtNenVnOTZEUHFWX0p1T0p5WEI?oc=5"
-        },
-        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2R2djhQd3RXdlNQTVR1ZVRKamt0T0xkZ2NSaGpkdHZUZXZ1TWJQd19KUU00bTdFUWVLU2wwN25MTjJHU3A0MUhRay1xWGZFWUZ0VkFkSDZfTWJmcEJYM0JVZGVnNG9iRk5RVWc0ZS1zYlEzdkZ5NWFhXy1ZRGNmTU1ZZ0RQQ29CWWNWa2M2VzBFeWtvaG51bDVuRWdNLXFvZTdpOTdsc3J6M1FpOFhsTFgzOC1KUGpKSlRjd3FjM1NpcWta0gHKAUFVX3lxTE1fNEloMVVKdENrQmRkbm1HNlY3T0JNeE9PVUFFY3BwOEk2Y09vcVRhN1RmRlBnTURrNmgza1FaWnZWN1BXOEJ1dXJNVmZMUkFtLTZkOTBDYm9VbjkwNlIxdXVZZlBPT2FwN0lFQ2dLdjcxdUNpVG4xM1BFSXNxZEk1Rk1rYy1lNnlkZjBFdnpXR2hoRkNsZUU5bldFMWJUcmt6SXFVc2UtMU9zQm9vV2Q0RVQxckJPQnBfWTVxZFNFVW1sWXpRdUZ0LXc?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUDd5THhJNXIzQ3hvNGUwRGZvRWtPSG52Z3E0T0pLbHFoTC1jZEcwSEhSZE10UHoxeXFYVGE5Tzk1QlVaOTNrQjdIWW0zVmRsQUEtZGhkdjBZM2xpTllkZ3lBTlN0S1U1WHhjclRiQ3JrYllPZkdTcTRxbDRZSURpOVFVWllpTVYxekdzemNVV0ljOFdYZUVlRzZrLWlmY3VlTzdHeE9HWmlTYUxyNkNzRGR6aHpBZ1Q0RW1CREpTM1AzSXVGa2NxWDlmaXg3a1otNjhqWjBPUk9MbkZRRjliLTk2ai1oSGfSAewBQVVfeXFMTnI1bkNKcUtCWV9YM2VQelA5bUFXSk44a2xkNXNMZDFIYnV0TUtrZ01kTHNEamwzTHV5cERKQ0RXM1V1Q2xEekY2ZWl0X255U3RseDZMU1k2ckEwRFFsdUtsdE1Ta1kxMl9ma0M4Q0RaX25qSGtHU1AwWmxiQmpTQ2wtWXlFdG84R3JZYnlXeUEwZVZjVWx5azROLU5JZ0xLWEI5VlR3UDV1NVhUelQyZThUakRwNERzd3NURTEwWHd5V0JoWFZWVFdLX3lHZUp6Rko0TXNaYWktUWtNenVnOTZEUHFWX0p1T0p5WEI?oc=5"
         }
       ],
       "source_count": 3,
@@ -377,80 +441,21 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdHc0Mmpza3BMRUFpVmhFWGUxSU9FNmliZE13M0hDaExhUUktVk9LaVlycjJzZXhpVnNqRnpKaGwxYWxmZHRtWVN2WGctSzFDajR5bmlOOUM4b3VVY3hnbTA5X3dkeHozWXQ5SVJ2YUtsV0ZMZ25iVWFZNE9iVFF3alpMVW9FYUZRS29hNHpoY3R4UW1uTFhsMTdPZ0xVRHJPSEx5Y3FLNHYwdXpfZXEtOThrT3plejZhSm1zZEgzRzJDM2hkZU1peW91QzI?oc=5"
         },
         {
-          "outlet": "Open Magazine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOW42aVdBSFNfTURDNm9INGMwYXJzR0FWcS1hSzJZczlIb09GRDMzX1NfNkpxc0NCbnZjVkh1LVhnRHNISjJIMldnZ25VNWI3UGFxOW9DT3JfNFROdVE0WEpTdzJycjJPb09lYWk5RGJUVmpRS2FzTjlhUWJFU3VaWHNZLVlqNVZYQmFwMkdmSWdLZlU4ZExZLTBPTnJlNWY4MVVZNjFpUm5hYTBhd1ZZRDZNZHBHV0o3akFmMjRUNA?oc=5"
-        },
-        {
           "outlet": "DD News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMmZxRHJLSnpHbFU4cTFLa2x4dXdoNHk0Qm5xajIyVU5OdzNxTThGNUlBRHFVRUxxMDI4Ym1mZnBnV083dWVWWmVaVm9xajVpWEZGWElMM0cxUjI0aHZNTHVBQUZBRC1aazdKVDN0aHRBS3cyT3dNZ3RSV3FNUmtYZnNYaENTVlZnVk1GamlDRi1zbzBSbVpfa3RUakdnUkdEM3Z2VUFmaVZUS1JaLWY0cUl5elFlczJ2amRYVkxJamxOdXFp?oc=5"
         },
         {
-          "outlet": "ANI News",
+          "outlet": "Open Magazine",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDRmaUM3U2plcjA5WU5LVUcxWmNWM3FXSndoX0NzYU9yWXBXT3dKaDVubmZBWmgteF96bFFzSExqZVhPRnlKS05FWHdlZkJNNGt2bmpzdmljTHI2Q2lKb0Y4M0tqRU4tazktWlNyWFI0c29RSDBjQ3AwSWtRWkdoV3hMU3hpdXVvNHhvUVlmMmhNVnBLRnA2Wkt5dXBmYWc4al9KY19NYl94UFVnOFhoN3NVa1Y2V1B6bXNXVld4MXJrc0FYaVBSeldpRUIzajR5S25iVUUwVm4wUndhN0MyRF9kN0NqMTNC?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOW42aVdBSFNfTURDNm9INGMwYXJzR0FWcS1hSzJZczlIb09GRDMzX1NfNkpxc0NCbnZjVkh1LVhnRHNISjJIMldnZ25VNWI3UGFxOW9DT3JfNFROdVE0WEpTdzJycjJPb09lYWk5RGJUVmpRS2FzTjlhUWJFU3VaWHNZLVlqNVZYQmFwMkdmSWdLZlU4ZExZLTBPTnJlNWY4MVVZNjFpUm5hYTBhd1ZZRDZNZHBHV0o3akFmMjRUNA?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Polling Begins for 28 Legislative Council Seats Across Bihar, Karnataka, Maharashtra and Uttar Pradesh. A politics-related story. Covered by 4 outlets, including Rediff and Open Magazine.",
+      "brief": "Polling Begins for 28 Legislative Council Seats Across Bihar, Karnataka, Maharashtra and Uttar Pradesh. A politics-related story. Covered by 3 outlets, including Rediff and DD News.",
       "image": "images/polling-begins-for-28-legislative-council-seats-across-bihar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "4-dead-more-casualties-feared-after-blast-at-firecracker-fac",
-      "headline": "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan | India News - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-23",
-      "topics": [
-        "crime",
-        "civic",
-        "health"
-      ],
-      "sources": [
-        {
-          "outlet": "The Week",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckZwTDFiUTRDM2lGSFZHTng3bzhHV3FlNjI2SnE1MUFzbUJhcXBkNW50VVBXTnpDS1FUVFliMlpIT3EzWElIb0NtSG5tUXZkWUhzMXE2VzczOWg1cm5QUTg1RDV3S2tqWVJrSW9jWlNaTGRZeEk5eWZoakZqZUd3MXk2YjJHWXpIUXF2a253bHlIN29XMHfSAZsBQVVfeXFMTlFaY1dfcXBSdkZubGNQRmhtckRralJhY3gwU0NDbnBPSFAtQ2hkVzBCRV8tTmxSYVF4YUJFQ0lNWkRKanBhSVVpODJkUGRkenJSRUxWTnNYUENtRkMtdWIzcVMycEZXd242bEYyMENOSUFzS2xhN0FtN1VZYWtTZFVPQlVwTUlNNG9UWHU0T0RmNzB1MU9WcmJFTmc?oc=5"
-        },
-        {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDZXakFVU2l1OXhXYlJ1RF9nc29MSDNvMTdaV2ttV1NEZmU3LXZTUEdPMUhnSVdVNjAydzRwOHFqWHFHSURFX2RBYUxCNWl0dC1Gd2NnQkRwRTlsQkpEeU5oUE5qOGFieEJEY1JYYnd0bVpEZE9TY2xMMU9uNzJZYkp1cV9yclhPbnhfeTBvRkRZMzJ5aVJsWUVpTXlnTHVLeVhlWXRObjNMX29qMmJtTENtcG5OZzZiSENCbtIBwgFBVV95cUxNa2h2U3pHOFF6Z01GWUtNWExuTlpJaWNyc2xTRUdKbW5vZmNlY21tNkVORV9zYlBMRzdlTlR1OWZHRl9xUTJtNlVkeW9pcXJRMENaYklMUlFHcHVicVNSTHp6ZFItLXExbkY5b2huNE5pdDZZTUY1a1QxYmdIaTZHZmxJREd0SHhrbGYxZTNzbzJhVWdmbkIxZkRKaXhYQ0VNVDR2UW5uQzl1ZVlJcWNZdDJvNUlZY3pIQkllXzJrdHdJQQ?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNC1ZcGU2STl2TFpqN202TnNjNGt2aFBWeTZIdmlWWkhyeEtiS3oxV0V4eWVrUTdGVDMwR0o2YlBfN0ZaNEVxclp0Q244N0kzQXJhc25yYVZpcTgybVJXNkNna1JYNG5zRTFLTm1Idy1OX1ZETXRFM25WVG11RDh1S3lTUHBvbkZkc1ozZWMzTzJhbUItdnpvNWszUlM2YUwtUXZtT2lGY1B0WG1ZZDlreDVqR2VmMldmQjUyWFg1eUVhMWNhYlpOa0xLd0pxSzBYMktBOTl4QW1kcU9yamw1UDh3?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjZEMWQ2S1Y4ZXRJczlVQUh1YXdVRnRmQldsUU5FcVdWUkxEN3FiYy15cDRwZHpKSll4TFJSdEV2VFpCTDFrRjBXamNrMm5iX2NEekE1NkxVQlV1THhQdC10TjBydTNVVU9pdE5QSVBNVnNUN2VvcDVleXM5QTBqZ3pZa2p3TVd1eUxCNFM0NTk4SkVzS3U3TFpHSUk2bjQ?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjNScnBCbmtpbGV5MXZkekp5dXU0ZV9hOG10LWY4VHdPa2wzVDRmWVMyUjZib2dzNEc3M0VPX0pVMUYzNnd2cmt0YTN1Wk5LWXNEek8tS1RyZ01lTnhDQXpOa2pzR0hnYU9lS0ZQNTdGeWVCdUlEd0w4LWtvVkNxNUM4aDRmNnRKQjk4WlRxeWdHX3hFdWlWWVZGVWltMzA?oc=5"
-        },
-        {
-          "outlet": "The Shillong Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTS05eWJQeDNFTUd1bG05LWt6QTV4b0lkMzNJVFUyQmQ0TEVPc1BkTlhzS1ota2dveXVjbWVaRTkzWUNZaHA0YWk1MGNIeEEtcjRFdmJRV0Izb20zYmg3bTVJMHhTTzlSaEpQRFFwc0VxMmxHUjNtV0lxdzE0eUl3Ukh5SThMdW1TeGw3LTFWWmFuUnVjRFBwSjBn?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFVNWG9uRDVVT3cxOVk4emhySndvX2hab0tQRVZBSktFTndlQ2NDR0hDYmZtcGt6VURNbmdxNExUcjVMeUdmZUpUU1ltM0N2QlpUMEhIZGo0d19aejRHckdvSG9BNzNfWVFCX25ZcDhpQWU1Y0xXQVg3cndZOHlwelExenQyem42LWVqMlVWWVBPbHNnTnZqV1NfOW1BcVFMLVV2SU9MaWFWeDFnNFdweDV1enFFVTRrOENoQUIzSHUwRVHSAcgBQVVfeXFMTmdLc0VYaXVtNXVRTGJXdkJjYUJMTTNTenVfS2UyTlJRTzMxUmx6YlVIblBxdjZxOTlPY1lCSHNLT2llTHM0Q25NUUE0Q1pPTUgwUFRMa2xNcXpxT1FnSnh0TW1DWkYzZkx2NDltakRYS0ZWNE9xYkZfVU5lWVE1SnF0OFRXTDFta1VVUTBHSG1kTWZJRnN0UngtbXVwMnFWRzl4QkdsQ1ItdFVMdWVoYTlkSC0tdjAtVDdscTE4a1c1cEZqazJiTmo?oc=5"
-        }
-      ],
-      "source_count": 6,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan. A crime-related story. Covered by 6 outlets, including The Week and News18.",
-      "image": "images/4-dead-more-casualties-feared-after-blast-at-firecracker-fac.jpg",
       "image_kind": "photo"
     },
     {
@@ -513,8 +518,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "50-hc-ndtv-india",
-      "headline": "50 साल पुराना जमीन अधिग्रहण केस: पटना HC का बड़ा फैसला, पूर्व लोकसभा स्पीकर मीरा कुमार को मिलेगा मुआवजा - NDTV India",
+      "id": "mlc-74-55-43-87-27-prabhat-khabar",
+      "headline": "बिहार MLC चुनाव: शिक्षक सीटों पर 74.55% और स्नातक में 43.87% मतदान, 27 अक्टूबर को होगी मतगणना - Prabhat Khabar",
       "summary": "",
       "date": "2026-10-23",
       "topics": [
@@ -522,31 +527,63 @@
       ],
       "sources": [
         {
-          "outlet": "Live Law Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcWo4eWt4Z3Y3a0cwUXltV3BaSWsxUjZtNkw3ZlEzYmlUY0Q1UUlnWTBLSEVPcUota2RROG93REVYa1J1T19CQXEwdHhqYzF4cHZ4YnFkWVV0dzk4OEVhWXhPMld3M3lGM3VVWTdMR1hidTdlbjlZNlZpSmNodkxQamhzVV9EWnlzQzJoTlF4eU03OG4wYUJlWkVzeGpvc2NSOU5tamltS0o1MkE4dVVERmMzLVNKM05ySG1CQ2RpRHc4OHRGSm8xVGJXMnZSX0dHUEpOUtIB2gFBVV95cUxPSDNhbXR4VDZRM0xvd1ZvUjNSdjJCVmRBdHRLcHNMSHZyVUFNaFhDT3dEd2dlYnlDQ2k2OWl6QXYtbUlfMnMzX1AtSXVFNlBVT1NBUC1nWWZocFRsZElYSUFjT1hqUUZUTThhY0JIekhkZ1RkSXlHSHVyM2tXcUdzUU9YempGb3E2TXBjSE9uNTZELVFMYjNSU1pMRjltXzFlNm5NRmxTd3d1WUxuRXZnbUtoSGt1T2Zsa2FydFh0OWtKUUVYVzNIYVA3WHhJaGNaRzduSUV6SWNwdw?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbENhemxWM3NXcFlhRmJrdEFjU0hDdkgtWWlhNDhydTdWOW5KZGVwRUxBRjRWQ2w5LUIyUlhoREgwRFRKNFBTaV9vMDdKRnhIN1NCbUNkZDNWSlVvbHpHNHMtNFhKbHNHUnNYN1ljdWNuenZ0UVZyMW93amFkN3FjZVFNeXlreEF3Y0xCSTMyUVhTX1RlZmRfLUp5Q0xmd3hjb2thMmxtVGktakVRaXd0ZHlPaHNWeG03c0RaSEtZR09mQkpaNlNhOUZwWWV1dFY5VVMxRTVwWdIB3AFBVV95cUxQX2x5anFVbHVVUjhvUURVV0IxbEJYdVZZVW1wcUNxeFNDVEp0SEhtdXJJWElkb1lyQXNFOXUycWJjZmFZN2NiQXRDWWh0SDB3UHZDVl8zUDc3ZTdRVnVTcWZpVkwzazlZUGpBWG1ESHdOLVd4QUJ3SGJFTklEeGh0X2ZKMExCemx5Q3h1RnMyZ09zWUtZT2RKX3ZEREpWWnliTW8zaHRNaFRhdE5CUkJLaTFTbFRjNEZocVU1S2JOVHk4VTlRM0lYU2pXOEU1UmhEUi13VXpqaVNDblBQ?oc=5"
-        },
-        {
-          "outlet": "NDTV India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNktjVGwzdXYzNnMyc0JtTEdlWDNVZEJZSTFTZk1ja3k1dUFOV1RVR1R5dUNLa0hOVEpDOXhyYzRIT2l5VWlITHpzMFFrRmlfVHBOLUdZaVI0OGV3SUJ5UXhicnlvbkdTN1pJN0lfYTYtUWd6SlFrUzdMdHlfUFl4MFJKaTYtSGRTVUJpNjh4T3NDVldoSHJNRVlNQmhzVF84SlhZeEdna3hqVWZzZDdpcm9uQ0FLR195Y2VRWXhzSnNZcHl5QWFrSk1IYTR1MnlQZ01yNU45UG1TRWhSR2dDWGJDUXQxdzA?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3k2OWotMU1fQkVudHA4cHBuZnR2RUtPLUFRamhVYWg0M0dEc1IyRS1ERVlUMG1VTHctLXEzRlh6VmlCVm82U3JwS1pPMmdqRlNJeTh4dW5uNHFCT0puMmRzOTRLZW56R0ZnMS1tdzFKdTBwa1pFd2d2eEtIbW9ERlVub0VpRm1TMWJmbXBlS0Y5WkVDQlFhS2l6R0pjWUliMndLWWZ1SmFsMnFRNW9jdXRWOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWNneVhvU0RvTzRlMFJWWU90SmI3ZTk5MU52WGJMeFlzOGJMcnh3VjFTcnNPeXdBNnNxaEk3MkMwekc0SHFlMzFSU2Y0VXRpTkhXTXpXOUE5X2djNDNpdHJTd0U4OENoZmRoa0x6aU1hODR5am1IUjNVNHFiYzJ0UVFnaVc2RnNFZWJXM2xnXzVCaEE1UHFsODV4LXpncFhVTnFuQzNpaDAxZDhka2NReVNMaXJoVk8xVUt5UHFrWkFWUzVwTTVneGVzdEFzVUc1akJwZzZWM1dqTVg3RlZTMG9RRS02NVJLOFI4dA?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjQ3SGxWRmFKaFlfaWs0UXI1WWQ0WGJMQXI0cnFLQm15MTF1ZzFTbDZaVHEya0ZKaUZtRU82ek9yV3N4YVl3c256Zk9LOG82RjFCY01SOHpIcTh0ekViTnE2eVFyZGFsbVNZMUtXN25nN1ZCVnB5T21RX09nQkZvYVVoTV9hckdNWXNvelBzRmpoVlluUXFUUm5tczRhX2ttbkhUX2dWUjY?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGhzMzJvOHhGSjdTa0ZUaFVfZTl0S1FUa20tdXdqaklaWlpuZE5oRHRRLUhXV2lUd1V2cWNYWGxZZ3phYWttMkJQeVVCNWF4UTI5ZThranBISFdERFJCbVloemp0LTZhbnpGZ080M0xVeVFnNGZOQTl3N0dNN3V0Sm1nNVRlU1ZfWmpMdzExYzJ0WTB3NWN2QTA4Y3YtRllicnZZ0gGoAUFVX3lxTFBTS2pCalpSeFFQeVVnS2JibTJkdzhwdUNKRWd5V2oyUTY2SnZrMVJhdzFLOGVpOWpNVUg2NjBNNVJCb01EWlJjYWtnZGNXa2Fqc3hjcDdEWWVMcFNEU0thY3daOUp5ajFnT3ZuLTdTQzQ1YjF1MFd5cm9BcHgzOEJUbHBsdThtWjQ5SVBIWW1aazFKZW9NN2VHbmEyUktzS1JYT1otZElueg?oc=5"
         }
       ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "50 साल पुराना जमीन अधिग्रहण केस: पटना HC का बड़ा फैसला, पूर्व लोकसभा स्पीकर मीरा कुमार को मिलेगा मुआवजा। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Live Law Hindi और Hindustan शामिल हैं।",
-      "image": "images/50-hc-ndtv-india.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बिहार MLC चुनाव: शिक्षक सीटों पर 74.55% और स्नातक में 43.87% मतदान, 27 अक्टूबर को होगी मतगणना। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/mlc-74-55-43-87-27-prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "boy-shot-dead-during-idol-immersion-procession-in-patna-outl",
+      "headline": "Boy 'Shot Dead' During Idol Immersion Procession In Patna - Outlook India",
+      "summary": "",
+      "date": "2026-10-22",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFQ0R0txVUhjMEFBS19WSW1tMXdxRUREcU1jYmtGUlRrYi1VQnhqSnpGaDUyV1EzcTFfckN5WURiYm1Lc2c4NXJFdUNWLWZLc2pncS1YOXhCaTQyS1hqc1FGMi1fNUhFd1ZvbXIzUXN5RDRBNURHVWhZMXRqWnVxSnVCYkVfVC04R1JicXZPcm5TTEpraUo2VWI2Qi1MQXIzX3NsTXFSSnhSWVhMRTN0cHRwMXlkMm1pWk5YelVTUXjSAcYBQVVfeXFMTWVRdGxzUWZyNV9jd1hxNE1CU1JaNFpjcy1wX0NfeldOeEtTdjZ2aUxWSl8wamg1aHU1emRjbXVSaFFxY2g5eTlqc2NDQ3gxTHhNdE8teVUtdkNqTFM3V2daUE1acFRMQ2RNQk1Lb3NMUmNoUTAzdFZvTWhZUmZJSmVNRWM0bjA0czh2amQxWkFvcUlkTW1pRUhzSjVkcjhlRUtJSk1xUXZtUU1yRGd6RHREM1BEMnF1Vm1jaTlrLXAySjFiNkR3?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT05XdDhfRHVEaVN3eW9tMGJKMXA5U3g3NTM1R0p6aEJORGl2UnNpRHBTeUZkRFV6bjNGdUVqcXAwUllCZnZacEJIb0xkSnNuQjlmOEg3WlNvSVloc0xWR2I4bzdQc004YkJGNVlZTWFJbDRMSG1YTDk3U28zQmhKUERkd3Z0YkRUX1lGYkxOM1FzVFZyQXFwR2h3U3dkWUQ5Tk04eFBjbUpIX3VxaE5PMVVrMTlDTGxfbUtV0gHAAUFVX3lxTE4xeFRBMFFlN2RVeFA4aFZjaDR3WVp6UWtHVi1DLUZFaENDNGJ4RFB0V1Y5TkxTSW9ELWxwQUtoY0F6RnE3a1IwRTdySG5LSDYya2dKT3RHVnYtc1R4VzFVa2FXb1ZldG1vYUltVk9VZ1dYU28waVVUYm5KNGdCX3BYaGZjRG0xbzhKZ1BCUkFjYmZFRURtZm5VcVQ2U2NxR0x1WjR3NVlyOW5lbTdmYy14d2dUQ2NPVm5CYnA4Z05WeA?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2lHZEllcjZIcHBqeFBtX0NmbFBteFVGTjVlWkI1ZktjbkxINFlwVlVBem9nVXVLN1FkOENaVVRpeWdQanZ6eENaX0RoWVZZZXpKNGNaT1dNSTRNQ3JGR3RseDBrQThRVG1ROE5pWFJvVjhjdUxvQkhYbFhRczdVT2NtMW5OWVZjaV9vUGV6RHlXWWlFajIzQkVIYzNzbW9KdHJzbjIwQXowVnRtSG9QNGdoU21mVUN5SWVQWtIBwgFBVV95cUxOcGhIU1d1aUd5NTNTM2VGMEdDcUlNWlEybFY5dmxGQnZEajR5b1B3ZGY4WG1TYV9XTWtzNG1mQXJoQzZKOXVSQXJVRmVQOXlqUnhONUJJRkZVNUNqLUd0dzBkUkQ5eGhoQ1FhR21OeEE4TkZsUlhVc244UkozQ2pYR2docU9vX3g1TXRzLVBEVk1JQUt0TTVvVXBFSEdxdk5qdlJieVBpal9SeEVDeGQ3M0pjLWtLaFRwUlh3MmRESlhIQQ?oc=5"
+        },
+        {
+          "outlet": "Outlook India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlhYbzMwOHEyTnZmZmFBME1pLVRLQ2xpbWZkWFhmY1M5Z1JQTUtBTWxITEdGUk9qdk1PNEpSUjNCRDhDTDVuQkttdVFQaVpSd2JzZTlvaFBmaGtpYXNTeUxaVWNyeXZEUjBmMWZOUWZQSmI1eVgwU2FLUG5tX2Z0R1QtUTJqMDdkRFp3dEJ5dFlzZ1VTbmhxZ9IBpgFBVV95cUxNZEw4cWt5WVhuZ2NYT0ZZby1HWjhKWGhVNWpvS2lYRDVCWGFndjJ6TjRhVEloYW5aRTNMMHNBN204dDNSV3I5TU9iNWxHVkVMVGE0Yy1XU2FHNS1iQmVBU0FHaTEwbXF4M19Db0sybGNhTkpTV0V2dTRpR1hPWnlwZjB5X1Zpay10SmlKX093ZXVvY1FYV0p6LUgxanlQOFpfUGRWNEFB?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Boy 'Shot Dead' During Idol Immersion Procession In Patna. Covered by The Times of India and Outlook India.",
+      "image": "images/boy-shot-dead-during-idol-immersion-procession-in-patna-outl.jpg",
       "image_kind": "photo"
     },
     {
@@ -628,6 +665,38 @@
       "genuineness_label": "Corroborated",
       "brief": "त्योहारों पर बक्सर से दिल्ली-पटना के लिए चलेगी वंदे भारत स्पेशल ट्रेन, चेक करें ट्रेन का पूरा शेड्यूल। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
       "image": "images/jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "50-hc-ndtv-india",
+      "headline": "50 साल पुराना जमीन अधिग्रहण केस: पटना HC का बड़ा फैसला, पूर्व लोकसभा स्पीकर मीरा कुमार को मिलेगा मुआवजा - NDTV India",
+      "summary": "",
+      "date": "2026-10-21",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNktjVGwzdXYzNnMyc0JtTEdlWDNVZEJZSTFTZk1ja3k1dUFOV1RVR1R5dUNLa0hOVEpDOXhyYzRIT2l5VWlITHpzMFFrRmlfVHBOLUdZaVI0OGV3SUJ5UXhicnlvbkdTN1pJN0lfYTYtUWd6SlFrUzdMdHlfUFl4MFJKaTYtSGRTVUJpNjh4T3NDVldoSHJNRVlNQmhzVF84SlhZeEdna3hqVWZzZDdpcm9uQ0FLR195Y2VRWXhzSnNZcHl5QWFrSk1IYTR1MnlQZ01yNU45UG1TRWhSR2dDWGJDUXQxdzA?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbENhemxWM3NXcFlhRmJrdEFjU0hDdkgtWWlhNDhydTdWOW5KZGVwRUxBRjRWQ2w5LUIyUlhoREgwRFRKNFBTaV9vMDdKRnhIN1NCbUNkZDNWSlVvbHpHNHMtNFhKbHNHUnNYN1ljdWNuenZ0UVZyMW93amFkN3FjZVFNeXlreEF3Y0xCSTMyUVhTX1RlZmRfLUp5Q0xmd3hjb2thMmxtVGktakVRaXd0ZHlPaHNWeG03c0RaSEtZR09mQkpaNlNhOUZwWWV1dFY5VVMxRTVwWdIB3AFBVV95cUxQX2x5anFVbHVVUjhvUURVV0IxbEJYdVZZVW1wcUNxeFNDVEp0SEhtdXJJWElkb1lyQXNFOXUycWJjZmFZN2NiQXRDWWh0SDB3UHZDVl8zUDc3ZTdRVnVTcWZpVkwzazlZUGpBWG1ESHdOLVd4QUJ3SGJFTklEeGh0X2ZKMExCemx5Q3h1RnMyZ09zWUtZT2RKX3ZEREpWWnliTW8zaHRNaFRhdE5CUkJLaTFTbFRjNEZocVU1S2JOVHk4VTlRM0lYU2pXOEU1UmhEUi13VXpqaVNDblBQ?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3k2OWotMU1fQkVudHA4cHBuZnR2RUtPLUFRamhVYWg0M0dEc1IyRS1ERVlUMG1VTHctLXEzRlh6VmlCVm82U3JwS1pPMmdqRlNJeTh4dW5uNHFCT0puMmRzOTRLZW56R0ZnMS1tdzFKdTBwa1pFd2d2eEtIbW9ERlVub0VpRm1TMWJmbXBlS0Y5WkVDQlFhS2l6R0pjWUliMndLWWZ1SmFsMnFRNW9jdXRWOA?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "50 साल पुराना जमीन अधिग्रहण केस: पटना HC का बड़ा फैसला, पूर्व लोकसभा स्पीकर मीरा कुमार को मिलेगा मुआवजा। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें NDTV India और Hindustan शामिल हैं।",
+      "image": "images/50-hc-ndtv-india.jpg",
       "image_kind": "photo"
     },
     {
