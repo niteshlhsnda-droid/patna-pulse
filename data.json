@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25 03:35 UTC",
-  "generated_at_ist": "25 Oct 2026, 09:05 AM IST",
-  "story_count": 51,
+  "generated_at": "2026-10-25 04:36 UTC",
+  "generated_at_ist": "25 Oct 2026, 10:06 AM IST",
+  "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -40,6 +40,60 @@
       "brief": "NICDC Advances Industrial Development in Bihar with Launch of Bihar Integrated Manufacturing City Gaya Limited. An economy-related story. Covered by 4 outlets, including The Times of India and India Education Diary.",
       "image": "images/nicdc-advances-industrial-development-in-bihar-with-launch-o.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "jagran",
+      "headline": "पटना में सुबह-सुबह एनकाउंटर, गैराज संचालक की हत्या का आरोपी घायल; पैर में लगी गोली - Jagran",
+      "summary": "",
+      "date": "2026-10-25",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXlleHgwTVkzU1VBcU9nRi1zM1l4UWJDMG81aUp6RkllSEtRUmNNN2g5akpuSURwYnhOR1p5Tk5nVFBxa0ZldjYwZnlkSHhKdGU1QV9WY2FqazFHLXVlQzNpSk1tRFJQNjNhOTlxMkpqSzJHUVVsUFlyT3NSVkR0RUU1c0l1TkF6emZWS2tkckNLdmJ3bFdzQThtbWl3SDk3d1hqOW50REIxWFQ0N0cteA?oc=5"
+        },
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQjRKYURyeThzTWxvZmFyUlphdk94cDU0VjVicmxxZUJpTEJyLUl3Z0xVSldHVmdOUDRLX2lLQzM5UEpXclAtRm1qcGxHU0dmemVfbklWcU4ycnBvX1gzcTVMMmMtOFhRdmJLWFpxRHo4bkVYblA2d1dCR3p0aEplMkNmUl94R2hCVGwtbk1xLW5rR1BMOURhbHNhY1hDMkQ5NmhzVy0zMkdrTXZwTVlWaDBDRVY0NmNHRkJEQ3gyUllmV3Y3X2ZjcDBlWDhiTkhvNW5v0gHYAUFVX3lxTFBXV256Q1RrZHk4V01VREZvalY2MFJwTXliYTZyYXVqZVRTTnU2aEFDdl9xZzdYLW9jRnJsVzludzBDZE9oYXdYS3o3MmpCS2NUTTJlQ2pTRGtBc0FNR2JZZkhrTW5rVDBoQWpLZWh0eGJSWHlsSnVfMnNYb3l1RGRDNDJZdmJySmppakxrUGNMaFl0SVlyaGlQWEVkVW1FdU9IR01zYkJQOGFQdmlkeFNtazg4NzRqZDFuOFFkajZ0dUlfVmtVT0tQYXZRR0hLRGN5dG4tUDlRMQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में सुबह-सुबह एनकाउंटर, गैराज संचालक की हत्या का आरोपी घायल; पैर में लगी गोली। इसे Jagran और AajTak ने रिपोर्ट किया है।",
+      "image": "images/jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "18-month-old-allegedly-killed-by-elder-brother-in-bihar-head",
+      "headline": "18-month-old allegedly killed by elder brother in Bihar; head found at village temple | India News - Hindustan Times",
+      "summary": "",
+      "date": "2026-10-24",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmJZdkhpOFQtSzc3bWdyal9ZSVNPWFA4MmpxMl8wRmdhWjNKQk5hcTU5UVFyRGl0MU51MnByME42MDZVZVN3cVhURG11aHBrS0owcnltRUNFWW1yQWVXR0FxWF9WZFg2S0tfWHBvYjFBd0VmOXIxZ1lGUTJWR2NWMW1EMEZncWdNSnA2dk03bm9hY1Y4aUt1SWtYaGpvaWd2LW5DWlRrQXJBSHZxYmpVaTNFRmxzbTZwWWtrRDYtS3dxQdIBxwFBVV95cUxOYllHVWxXSDJzNGU0eHgzWUFwajZQTnhBZ3p3LVRYdFUzMU1XSHAwUDVPYW1jSUhXcWxWZjBxVS1OaGxQT2JOdXNTLU5ReC1JMWVFbnVDVkZTcHY2U2kxME0xYl9JWXJJcG1iOE5tQjl1SFZzejdRZmNfcE85NWZJSjN0X0psMlRqM25VdjY3T3poeFE5Vl9nWlIxdmxQOWloWjBKYWZfVlhCMzNxYkNYYm9VajAzS0Q4aWo5ZzEzbGkxNDY5a3JJ?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcmEzbWpjeVh6c1ZoSGNDeFlJLW9aZUN5b2l0dXBLdjcwSWdkV29oSXozWU8teDdhZDNqZjJCOEwwSmt3MGgwbnpReWJUOGM0clY0TFVxclk3Q3M2R3otNWhDekVPeXpjWjNlMkxfMVh0Y00tRVpIdWw0dlNuWHNPRnFrVVIxWDJncWNOWjNraklqQnhvb3FuenpYZEtvX29wYjVsaTZpTE1LbHRXSmNvV1psclg3S0NON2Y5UmFPTk5qN0YtV3B2RGhYejJCT1B1M3dxeHJSZWhuclQtQVHSAeMBQVVfeXFMTnRDR0hFYjM4dDNqeUplT05xN0NGZlYzSHJqb2VKd1F4S1JMd2tuSHhHYVRMdVBBejRpOEM5dk1MRVl5a1NpU0VrUFVnSFJrTk1RbVNhRXB4M1I1bGoxSWZLRTBvVFJCMWZFLVY5SnNCaTQzZU5lUkJsZFhmWURXWVpLZVk1ekJXOXRHd1o4TmQyb0xvMVkxdUxFaDlvam5PcmJtQ1FRTTJlV1lUWmR2RlBIaWVZLWhsNjdWVk5SYVItY3RGeHpBaE1ocnp4Sjl0emZzRUhOOXVsb1p6cHR1cDFEU3c?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "18-month-old allegedly killed by elder brother in Bihar; head found at village temple. A crime-related story. Covered by The Times of India and Hindustan Times.",
+      "image": "images/18-month-old-allegedly-killed-by-elder-brother-in-bihar-head.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "bihar-jd-u-expels-anant-singh-for-six-years-over-anti-party-",
@@ -89,12 +143,17 @@
           "outlet": "prameyanews.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcVpBRTNJNVdtOE8zOERWbjdRWjh4aXgtTEIyUmYzZDJoam5QQ2pkWWdmX1d2YUx2Q1BRUFJTbnB3SmxwX2NFQ1I2bE9XOGtyZG8zNk1FZUtQcTRYZUZKMnlFekNVSDJhbEpUVVE0WHdSNG54bkFXa3Jwc21RNWdfejBDVDRLVkVTcVNmWmRRS2RjU0cyNE5oTFo0RXVkcHBxMUpBS1RsM1Y0bUY2OEtoRTExbENfS0J5alNJeTV1RnhPbTh1?oc=5"
+        },
+        {
+          "outlet": "India TV News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTJ5M1ZmeXJrdUZBbTlrdUdXeHBRRFk3Tm50VmVxc3NhcHd3Zno1aFhtNGJtTEhTMXJJQ19zNXR1TGtkSEkwMmstb1NZVk9talRBbmVXTDh4cmtjRkhSck5xOFhaUHNfbTRuNTJ3Smo5ZUZMM1BUOTBWMnhoaDlHd1BsUzZ5bFhpMjFld3JlUVlZNDJtTDFsTTFVbWt4ZVl1MG5HNVNsWU9EUnp5RkJn0gG0AUFVX3lxTFBNSUJQOHdVZ3NjbEt6X3hhVjBqbzRNWjNpRk82VndtVF9WV0p1eWJ3QURnQWJCLWx5eFAzNDZPTi1uZzlPaTNZREE3ZV9GcUpBdENnNjBmMjBBd1VteGpxcjFSMVk2SHRMaUFvY3dYOU9DbVhvVkt6YVQtV3BwRVViT3RiLTlVazRTMnJEZEJkVS1CZ1ZHZ21fdE9pUHdDbUNueFBSeHBIYmU2eUxUR3pOMy1MTA?oc=5"
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar: JD(U) expels Anant Singh for six years over anti-party activities, seeks termination of his MLA membership. A politics-related story. Covered by 7 outlets, including The Times of India and India Today.",
+      "brief": "Bihar: JD(U) expels Anant Singh for six years over anti-party activities, seeks termination of his MLA membership. A politics-related story. Covered by 8 outlets, including The Times of India and India Today.",
       "image": "images/bihar-jd-u-expels-anant-singh-for-six-years-over-anti-party-.jpg",
       "image_kind": "photo"
     },
@@ -132,7 +191,6 @@
       "date": "2026-10-24",
       "topics": [
         "politics",
-        "crime",
         "education"
       ],
       "sources": [
@@ -152,19 +210,19 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQanBUWV90X2VaUlZkTWZVNEdYZHEyQnprUFB4NmxnYy1MNHNpRHNiT0NjWS1acE15endBd0JIMFZTalQwSTk1bEkwRUttV2tIcUhTb0NyMVZOZVNmQ01va2xpU181cDVzMV92N2dnc0dic24tTUl2TkM3U2ZpRkdrN2ZmYWtwN1A4cE5Panp2azRrbGszdHZyVUJ5WUhhcDViZVRtWmttcmt6cWdDcERUR05laldzM2Y5ci1UbjZISVg3dFBRLUwwNGR4ek1KSWJrOHhLcmFqbk9QUndF0gHjAUFVX3lxTE5XTl9wUEdIQm9vUmhncmY4blNVeEIwd3FidWdWRExYcFJDNEo5clo1cnE1Z1FGZV9lY0Fab2pIbW9DdDZmVHp4Q00tWkJQZnZ6VVhZREVuQ2tlOVRLc1FfOHRPYzhKclVLd1JuUXZPdXZuQjQ3N3htejlMZTBYajJPUjZ5dzBkY3U5dTZpSkJWTHVHZDhKWjNjNWlET2h4ZHVNNWYyOFZJODNxNVowV0FWUWRweE9TNEhOWTlwNHRGTkFhdHR2bXVsSll2X3dfUVNkUWNwRmtXeXdRb2dOTE4zNHRv?oc=5"
         },
         {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1lOMEJtQTFoR0JJZTl4c1I0NDBnY3FEUTJtNS1OVHNJQ0lTT1M0ZGJ3SGJoX1RRZm1QX3JnSWVOMF9fV2dQN0FQWUFWWFlMZWlzM2JCd2d6eHYyUWtXaVNTY254cEx3bUpuLWRPTUUyYUQzWVg4c05BQURCdWhVVnpQaElDNGZ1WjBxVEpyNS1EYS01OUhqeTAyaWJYOFJPWlpxbWZzU25sSFhscGc0aEhwRDAxYXpuYnNxeGpaaklzRjU5RTY1ZUR0V09GSTVkbnRNcnZXNnJic3JGR0FNZXhVb0xnU2NFRVplYmRFam52QdIB9wFBVV95cUxOWmEyVlF0SnNtd3dYdzZPTUhtMUhPOFNfRkNEZHFyeVZZSU9uOUhfaEhMYWowLS04Zml5QjlPM3puZXZiclNBY2pueDFvdWcxSHExd29ZR2ZFR2NCVjViWWtnNmVzM0RLNUpPMEdjNXhZQ1BWOUZmempzVWg1QkJtSk9oOVRNcXY4cktvWjhqNmNEMU1kYTlBVDhhb1E1V1Iwb1lVQWdfbWRITFRZTEg5SGJQekVYdzBENE9NVVJJZDdWVUx6Y3QzbVUzaFp5M3B4VmpIaTRhTnhXS2tXTDVVQWduQUZ1RlBOZGc4NkgwTzNhSnVNSllJ?oc=5"
+        },
+        {
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3V5UEFtbkFEcnFxM1c4SmVkbWFHM21yS1Fab1oxdUVYMkxaOVRKOHpZYl9Lekc0WWtwUDdjSXN5RUpWbVVldE1mZE94c3NqS1lrOFBkYlJ3MFgzb2s2eE9pZmt4eFRoeURUWFBlU2FkZDdjbng4R0hCaklyZ3NQd1ZwSFJWeEQwQkJwRG9WOEZmVnpjc1hVb29lOEE4VkFhWERQTTZkem9NbllsN3FISVVTdGo5ZVVCTTgtWWNfd9IBxgFBVV95cUxOWHpub2JhUWV0VUZkeWlBUERVVVF3U2lDQkxqQzY3WTFzMVVNRk1tUklhazIzS1JhNXIxbFg2VmRabW8zSjZvRlp6OF9oRE0xejREMWhDUUxTWV9YS0x5aWxrLXFlTDJtZzdoZjVoOG8wV2pNQTVhNV9DOWl2b1JKdFUxemtsNkxHQ0VWTU5yR0FpaEJCNlF0TGhvODRGTmtNUjRPQ0xpc1RHN2M5bDMxQ1BLbGs3Zy1ua2FnQU9PNjg2WHFXNHc?oc=5"
         },
         {
-          "outlet": "ThePrint",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2R2djhQd3RXdlNQTVR1ZVRKamt0T0xkZ2NSaGpkdHZUZXZ1TWJQd19KUU00bTdFUWVLU2wwN25MTjJHU3A0MUhRay1xWGZFWUZ0VkFkSDZfTWJmcEJYM0JVZGVnNG9iRk5RVWc0ZS1zYlEzdkZ5NWFhXy1ZRGNmTU1ZZ0RQQ29CWWNWa2M2VzBFeWtvaG51bDVuRWdNLXFvZTdpOTdsc3J6M1FpOFhsTFgzOC1KUGpKSlRjd3FjM1NpcWta0gHKAUFVX3lxTE1fNEloMVVKdENrQmRkbm1HNlY3T0JNeE9PVUFFY3BwOEk2Y09vcVRhN1RmRlBnTURrNmgza1FaWnZWN1BXOEJ1dXJNVmZMUkFtLTZkOTBDYm9VbjkwNlIxdXVZZlBPT2FwN0lFQ2dLdjcxdUNpVG4xM1BFSXNxZEk1Rk1rYy1lNnlkZjBFdnpXR2hoRkNsZUU5bldFMWJUcmt6SXFVc2UtMU9zQm9vV2Q0RVQxckJPQnBfWTVxZFNFVW1sWXpRdUZ0LXc?oc=5"
-        },
-        {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1lOMEJtQTFoR0JJZTl4c1I0NDBnY3FEUTJtNS1OVHNJQ0lTT1M0ZGJ3SGJoX1RRZm1QX3JnSWVOMF9fV2dQN0FQWUFWWFlMZWlzM2JCd2d6eHYyUWtXaVNTY254cEx3bUpuLWRPTUUyYUQzWVg4c05BQURCdWhVVnpQaElDNGZ1WjBxVEpyNS1EYS01OUhqeTAyaWJYOFJPWlpxbWZzU25sSFhscGc0aEhwRDAxYXpuYnNxeGpaaklzRjU5RTY1ZUR0V09GSTVkbnRNcnZXNnJic3JGR0FNZXhVb0xnU2NFRVplYmRFam52QdIB9wFBVV95cUxOWmEyVlF0SnNtd3dYdzZPTUhtMUhPOFNfRkNEZHFyeVZZSU9uOUhfaEhMYWowLS04Zml5QjlPM3puZXZiclNBY2pueDFvdWcxSHExd29ZR2ZFR2NCVjViWWtnNmVzM0RLNUpPMEdjNXhZQ1BWOUZmempzVWg1QkJtSk9oOVRNcXY4cktvWjhqNmNEMU1kYTlBVDhhb1E1V1Iwb1lVQWdfbWRITFRZTEg5SGJQekVYdzBENE9NVVJJZDdWVUx6Y3QzbVUzaFp5M3B4VmpIaTRhTnhXS2tXTDVVQWduQUZ1RlBOZGc4NkgwTzNhSnVNSllJ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZU1aRFg1ZTZMQXlBWmphSXAyUDJZd0d3QWpJLXBNQjM5eC03LVhLd0pha3JpMUN5QlYzU2p1NWEwb05HVl85a2Z4Y1lYdTQtR24zM1ZMQWV3eE1ZNmhjZ3pwV0lpOF95MTQ2OHBralNTRnJya1ItVkFsTlJNRUhuc1lpSHFPbWpfbTBaenpqdUN1YktQTHY2S04xQ2ZmVUdMRkJEUmppTlhsWlBlRllhdjA1d1Z0M2swLW5DejZmbFpDUlltdXQ5UXpLenlXOHNHUGx3SGJhYnbSAd4BQVVfeXFMTWwtQVdPRTJEU3lVYnZpNmxqUEI5MHp6RG5EbUlYcFhwNEVBN3cxS3NLekZlcDFUQnNKVjFrNWZEZXFqcWVPM1ZqNlBIZFNyOFMyb1RfWVJ1dmtVS1NXOXl6TkFIWXE3aVd0LUU3OXBQRDV2MFdmb0xaU3JXeVN0cXVDV21pa21sZUIzZldDOEt6N3FiUUEzYjV3R1M4SS1iX2U0a214OFZhV0Itbkw5QzdxMU9pZDNZTHd2cHJITkRwa3phanpyQXpiOHd1VUd1U01yQV9rRXRkWmhFQnBR?oc=5"
         },
         {
           "outlet": "India Today",
@@ -177,10 +235,10 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ2NXUkN4VzBrWWVoY3hGWTRDei1wdUZZOW00TUNTdXhNMloyYV9tbjVzcHpzcGl5bm1XcjNQN2hVWUN4VmVZZE5mcGlLVU1BQ0FDR2JqWEdkTnNtZmZlNHlEWnZrRDU4MS10czBTNHhjeGVRWVRvUm5fN21WX09yalNDTzdkdGZnWHJqSE01N1VScU5pZFh1bGZRaE04T0Y2aE1WUXA5ZElyV3FyN0hvdTMzc2ptRzQ5RFowVzlQTWd0YjNkcXk1dTNCdUpGODh6bk5FR2N3ZU9abTJq0gHiAUFVX3lxTE5yOXA1UTBJU1VJZWQ4R05aTzBReXNudDN2cEdxNEFfZDZOWUNvMnVoRVJtTER6YXNvQ0JpSHM3MWgzRFhPamZFOV84Q3FrM05XLUdoMjVSZzlIbzZnM0p3ZlpWa280LVNOQnBfdlVXUEFiU24xVWI1dzNIR29xTXVxb2VUYnloRU9TSlFDbzBLaVRZaVY3aFBVSWRFODREZ3RyTmczVjllOE9GbEhoQUR5dGRXaW94clNzLTBnVlpFWVU2OVItaGkwUTBPVm9Yam1kNWFFTDN2T3hxT29GVUhGWFE?oc=5"
         }
       ],
-      "source_count": 6,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar MLC polls: 57.2 pc turnout in teachers' seats, 29.32 pc in graduates' seats in six hours. A politics-related story. Covered by 6 outlets, including The Times of India and The Hindu.",
+      "brief": "Bihar MLC polls: 57.2 pc turnout in teachers' seats, 29.32 pc in graduates' seats in six hours. A politics-related story. Covered by 5 outlets, including The Times of India and The Hindu.",
       "image": "images/bihar-mlc-polls-57-2-pc-turnout-in-teachers-seats-29-32-pc-i.jpg",
       "image_kind": "photo"
     },
@@ -191,7 +249,6 @@
       "date": "2026-10-24",
       "topics": [
         "crime",
-        "civic",
         "health"
       ],
       "sources": [
@@ -199,11 +256,6 @@
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXk5cUttLW9DUkloYmtkZV9Qb1BBckxoS2x4dDdLck9aYV96SEQydWQxbEg4NWlZYWlOVURuXzVzSHgybmRTb01wS1NNVERYS3BwbzV5Rjhkcnk1VlNXTV9mbzNLeDUzQ1hiMGkwaVhNZGFHX0dwWEJIVU1aQ01kZFZsVDREOThmZUtTSVdNckp4cHgzZ2xCWmp4WlVCem9kX0RTQVZ4LXFGdG9RbVhfcEFUZUNBY2M?oc=5"
-        },
-        {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDZXakFVU2l1OXhXYlJ1RF9nc29MSDNvMTdaV2ttV1NEZmU3LXZTUEdPMUhnSVdVNjAydzRwOHFqWHFHSURFX2RBYUxCNWl0dC1Gd2NnQkRwRTlsQkpEeU5oUE5qOGFieEJEY1JYYnd0bVpEZE9TY2xMMU9uNzJZYkp1cV9yclhPbnhfeTBvRkRZMzJ5aVJsWUVpTXlnTHVLeVhlWXRObjNMX29qMmJtTENtcG5OZzZiSENCbtIBwgFBVV95cUxNa2h2U3pHOFF6Z01GWUtNWExuTlpJaWNyc2xTRUdKbW5vZmNlY21tNkVORV9zYlBMRzdlTlR1OWZHRl9xUTJtNlVkeW9pcXJRMENaYklMUlFHcHVicVNSTHp6ZFItLXExbkY5b2huNE5pdDZZTUY1a1QxYmdIaTZHZmxJREd0SHhrbGYxZTNzbzJhVWdmbkIxZkRKaXhYQ0VNVDR2UW5uQzl1ZVlJcWNZdDJvNUlZY3pIQkllXzJrdHdJQQ?oc=5"
         },
         {
           "outlet": "News On AIR",
@@ -216,10 +268,10 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnNYU21PbXJPc1FSemhHdDVhMWplMHpTQnF1VFIxZTJUbUpIVXRUUWpuNGFtQ0R6bS1WTnh4MGd1WmlEQnVxTUZqcHEydElnTWlvNEhmTmRLN0JuZzR1ZkNqd2Faa3d3a21XTmIxNU52Z0hzWHo3MUlXb1NuSnk4UG1SSTNULUJXLW9PTHNCMDhMempEdDBYeUN1T19OaVE?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar News. A crime-related story. Covered by 4 outlets, including NDTV and News18.",
+      "brief": "Bihar News. A crime-related story. Covered by 3 outlets, including NDTV and News On AIR.",
       "image": "images/bihar-news-4-killed-several-injured-in-explosion-at-firecrac.jpg",
       "image_kind": "photo"
     },
@@ -305,8 +357,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "news18-hindi",
-      "headline": "पटना में खौफनाक वारदात, दुर्गा मंदिर में मिला मासूम का सिर; बच्चे की हत्या से दहशत में लोग - News18 Hindi",
+      "id": "aajtak",
+      "headline": "जिस भाई को गोद में उठाया, उसी की कर दी हत्या! दुर्गा मंदिर में मिला डेढ़ साल के बच्चे का कटा सिर - AajTak",
       "summary": "",
       "date": "2026-10-24",
       "topics": [
@@ -314,21 +366,21 @@
       ],
       "sources": [
         {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQejlpOVNDY21fZDB2ZW9uSW1RMWx2TEhrUlZmSDVEMll1LXA3UUR0d1IwcFhsbnd3WDF5WmcwRVJSOENnMjRNTF9Bc1pfZm1wRFNPc2duaTVpQjFCUWxwSmFfWTAwSnBwRDFaaXc1cGlfbjBuN2hwcUJEbnozZnJ2V3ZoWm5uN1BHR1lpblQ1U1pCQ3JlUE1HVjdvS1c2N1dYR1VLZXluLTZLb0ZudU5IQldMc0hsbjdQYW1tX0pxNFFXM2hrcnhsdFpnSFhocDNLd0xyam94WdIB3AFBVV95cUxNbXlITUpjYThIaWJEc0h2bUZ1NEpyUjBlNjExRW5Wd0JlakRpc1Q1M0E0N2htS1E1THhGTlVRQVZrV2Z0VHNjZmtncEVnd2ZfczZXSU5SMm9fMXdiY0pCdEJnbzBUNmExdHh4SW9FM3BrUDA1SzA4MnFiQjNOaXlIb0ZzcmFBdmRGdVBKWXphc1lsUzZqZnY3ZmZPQnhCdEltQ1h2c3FkenhHaDJpZ3BBVUF3RVQwRXdrdlRkUFVMV01qSkhYQlI0RC1IUXA2WU9ZOWYxWGhNaE1oMElw?oc=5"
-        },
-        {
           "outlet": "AajTak",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGYyVXZpR3RLeVQ0SlIydGVzTk5VNjVqSXRLTDd1ZFZNMDRNNk02WURDOS0wUDlSUW1RTFk2Njh5bFp6SmtqUGp3cEx1ZmxNUjJ4Ti16dWxXT3JFcGZBamlJd1BTTkI4YlBrZFhyUXRFMTIweWN2VlFkbTdWV2ttUmtJc0M0NlZKZFRSTHNkcTJUX1pqdHpwTTFxcTVKVzJWd3BzWUFlUkVhZTh0T2dsVDlqQVBzaldraTY3akNvVFA0Q0E10gHKAUFVX3lxTE9yNFJxenVDYmd0bHktaWlwRDlWN1R5REc3TFUwY1ozQnlfV25fSVR2RzZDcExXdWdzcVFHQ1JPY3p2XzlfaTVoLWtGRnNZUW82TjliaEc3b3VQUERxN0t4cEVUQ3pCWUZGV3hmRXcxTlZiY082LVU2d0NUMFd2dW05UU5vLThoV0JieVc3SUo4cko1c3I4bmxQM1ZLTGRES1hmcXNtWWhuVUR0VWtXRXJtUXBZbFgzUEY0dThjVzhCUUd2X2dlNjBBRkE?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQejlpOVNDY21fZDB2ZW9uSW1RMWx2TEhrUlZmSDVEMll1LXA3UUR0d1IwcFhsbnd3WDF5WmcwRVJSOENnMjRNTF9Bc1pfZm1wRFNPc2duaTVpQjFCUWxwSmFfWTAwSnBwRDFaaXc1cGlfbjBuN2hwcUJEbnozZnJ2V3ZoWm5uN1BHR1lpblQ1U1pCQ3JlUE1HVjdvS1c2N1dYR1VLZXluLTZLb0ZudU5IQldMc0hsbjdQYW1tX0pxNFFXM2hrcnhsdFpnSFhocDNLd0xyam94WdIB3AFBVV95cUxNbXlITUpjYThIaWJEc0h2bUZ1NEpyUjBlNjExRW5Wd0JlakRpc1Q1M0E0N2htS1E1THhGTlVRQVZrV2Z0VHNjZmtncEVnd2ZfczZXSU5SMm9fMXdiY0pCdEJnbzBUNmExdHh4SW9FM3BrUDA1SzA4MnFiQjNOaXlIb0ZzcmFBdmRGdVBKWXphc1lsUzZqZnY3ZmZPQnhCdEltQ1h2c3FkenhHaDJpZ3BBVUF3RVQwRXdrdlRkUFVMV01qSkhYQlI0RC1IUXA2WU9ZOWYxWGhNaE1oMElw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना में खौफनाक वारदात, दुर्गा मंदिर में मिला मासूम का सिर; बच्चे की हत्या से दहशत में लोग - News18 Hindi। इसे News18 Hindi और AajTak ने रिपोर्ट किया है।",
-      "image": "images/news18-hindi.jpg",
+      "brief": "जिस भाई को गोद में उठाया, उसी की कर दी हत्या! दुर्गा मंदिर में मिला डेढ़ साल के बच्चे का कटा सिर। इसे AajTak और News18 Hindi ने रिपोर्ट किया है।",
+      "image": "images/aajtak.jpg",
       "image_kind": "photo"
     },
     {
@@ -356,33 +408,6 @@
       "genuineness_label": "Corroborated",
       "brief": "बिहार एमएलसी चुनाव में मतदान के फाइनल डेटा ने चौंकाया, 10% बढ़ गई वोटिंग, पटना ग्रेजुएट सीट पर 21.37 प्रतिश... - News18 Hindi। इसे News18 Hindi और Hindustan ने रिपोर्ट किया है।",
       "image": "images/10-21-37-news18-hindi.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "nh-30-52-12-2-dainik-bhaskar",
-      "headline": "बख्तियारपुर NH-30 पर मजदूरों से भरी पिकअप पलटी: मेकरा के 52 साल के मजदूर की मौत, 12 लोग घायल; 2 को पटना रेफ... - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-24",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTg3czNWdFRjUnZwVlJpd2FablNHc3N1eUJ6ZkRMTkVDUC1MaXREdmhrNHlQY2JwNHB6dFRTTXJtaDFPX25EbVV0R3QyYk5zcV9Sd0FybDhkRFJDZXFLWThyQVJ4X2lqQTdYVEhLandaLTQyMU5TQ2ZieHhaR0pmZ2wzLXNyU05NVkFZQVVueHMwV1VzLXZIaUZIeW16MmdxR25VVkJhRUJ3Zw?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWJIVVNFaklUdWJNd3ZMQjhQamowOWRHUGZoLTd3TEF4SXp4VU5ScUZvMFFrT1BzLW81SFdILVZ3UnhxeERfRTJ3c0ttT3llZ0ZKRmFxdldKbS02NkF4ZlV2cFNfTnpYLVp1MmlubDYyaUtIMEhTV2lySDZPWFFKUVhjTVEyQnlJSkRodFQ0aTc3YTBTREJ4SXlSVVRzbEFkd2VqTG9XTzRDOVRvT0ZpcWxIaFY1Vk5HbC1MV3hCN3I4OUFj0gHKAUFVX3lxTE9JaXFrc1hBR3c4ZXdXR1FfMjdsbHdGUUlwU2c4YVBDcVpCWWI0UEpvRHRBMThvRGlNak1DRkpKSTdydDc5b1lNVjc5UHlqSTY1UVZjUm5QZ2Nxd3Y0Wjg4V01UZlFRSnppS2xibW1qSjl5dDhjT3RnNDJmSFluWDlSdTRhNkJ4YW03WDFHLU16VXVWOU45WkRrOGNxNHh4cTNNM3ZabV81OVNGMmpXVUxmNEFvVkI0ZE5acmN0RWRlQV9DUTZyb2hwNUE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बख्तियारपुर NH-30 पर मजदूरों से भरी पिकअप पलटी: मेकरा के 52 साल के मजदूर की मौत, 12 लोग घायल; 2 को पटना रेफ... इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/nh-30-52-12-2-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -496,20 +521,20 @@
       ],
       "sources": [
         {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXVKY3FuTjNOcEZnM3JzZUhFRWhNbmRjcUpCSUxNZUU4SGpoTk9Od0JOTlVGNEtScWRqRkZQNEd6cy03a3BpbjFyZUhVMVk0QVYwM2VKNUh6ejdqZW1rNHA2eXFQOXg1TTZQb2lNeVZjU21QdUxWcEJvV216OGkzT2hVd1hwOUR3bjFRMTRwS3FnbktpbThOZkNZVDB5ZVJKSVNB0gGrAUFVX3lxTE1Nd002d3ZmcnR4WFppYVhGN2w1eXJPOW5tRXc2OThpbnNXVVFIbU12TnQ3OGRRNkNnbFo0elRjZkRRT2FtOVZWeGM2ZVRrbmV3dWp4aTJBR2J1cElRcUtucm5IX0l2ZGgtUHV1clJmM0QtdUZ4VWZJbmRpSTROR2dCVXRqM2U4N1ZmRzEyWXloOGZ3ZzJvWFNocnFkVHRVRnZMTjRGRkxJR2p5dw?oc=5"
-        },
-        {
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb3FOOTJCbzFGY3hRb1NBTUlYRGtRb3MwM0pFYXd5QXlHVTRBSy1peE53SDRqb3dmYk8zWmRfM1pYdllfQTVkUURoYU1LaFQzSC1iQVdMOXVIemdfbVRZc3d5aDhmYkRGdl9TODl3emlLZ0ppUW9GTVJRbnZSUDhGR21jTHFIVEt0Y25Dd29VdzJkdzRZY1JJaTZKLUdyVDE1eUsxdjhINWRUNzVITnRxUWNUMFlLTWNRUk90TTJPN0w4eTN6TmVtbjlFYVpqcHJuRFlscGJVMNIB3gFBVV95cUxNWDlwUVQtd29jTml0R3RuelU0NGZERTVZX0dIc2dfc2c2emVDVkpJT29GSlpxbzlFYkwtLWdLSHZDbmcxenVOWG5wQzFDZG5HODd4NkExRTFpUkdFSjV1YXNJajFIXzQzNzRjOUhQb3pWNV9QQ0pHd3ktaWZDTkR5T3lrU2NEU0N0ajdHblZSX1h4WTZiS1h1ekZzZG9oWi1Ib3I1OU1iMHJhTXM5V2c3RWNmcV92UmVyTGRNekRjT0RneXltWElma1ItcUNOQ1dDWkx3OXYxRXViZDVXbUE?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXVKY3FuTjNOcEZnM3JzZUhFRWhNbmRjcUpCSUxNZUU4SGpoTk9Od0JOTlVGNEtScWRqRkZQNEd6cy03a3BpbjFyZUhVMVk0QVYwM2VKNUh6ejdqZW1rNHA2eXFQOXg1TTZQb2lNeVZjU21QdUxWcEJvV216OGkzT2hVd1hwOUR3bjFRMTRwS3FnbktpbThOZkNZVDB5ZVJKSVNB0gGrAUFVX3lxTE1Nd002d3ZmcnR4WFppYVhGN2w1eXJPOW5tRXc2OThpbnNXVVFIbU12TnQ3OGRRNkNnbFo0elRjZkRRT2FtOVZWeGM2ZVRrbmV3dWp4aTJBR2J1cElRcUtucm5IX0l2ZGgtUHV1clJmM0QtdUZ4VWZJbmRpSTROR2dCVXRqM2U4N1ZmRzEyWXloOGZ3ZzJvWFNocnFkVHRVRnZMTjRGRkxJR2p5dw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "At least seven killed in blast at house storing firecrackers in Bihar’s Siwan. A crime-related story. Covered by NDTV and The Hindu.",
+      "brief": "At least seven killed in blast at house storing firecrackers in Bihar’s Siwan. A crime-related story. Covered by The Hindu and NDTV.",
       "image": "images/at-least-seven-killed-in-blast-at-house-storing-firecrackers.jpg",
       "image_kind": "photo"
     },
@@ -544,6 +569,43 @@
       "genuineness_label": "Verified",
       "brief": "'Bombed the Vidhana Soudha': Bihar man arrested over AI-generated Bengaluru blast video; netizens slam 'zero freedom of speech'. A politics-related story. Covered by 3 outlets, including The News Minute and NDTV.",
       "image": "images/bombed-the-vidhana-soudha-bihar-man-arrested-over-ai-generat.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-man-arrested-for-allegedly-killing-wife-over-suspicion",
+      "headline": "Bihar man arrested for allegedly killing wife over suspicion of affair, dumping body in drain - Vartha Bharati",
+      "summary": "",
+      "date": "2026-10-23",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUV1Tm9LTHhlWXUxOFlrUWFBRkdWeHM4Zm5kMG9xSnpGQVg0RnM1X1V6V0JQNVpabGxYQzVsRnV6a2dqU0ZfU3h3TDh4YTFONTlEOGtiYThqMC1USlAtUnNFMjg3MkdhekxNakdHV21QcUIzN1dueUhqRndtZzVMdXRkSXJRUzJBTXFFN2llaE13Qmh5cFdPdjFNeGFIMU9QOUxwM3l0LTJ0TmFiX25vMnhoN29TMUIxZGFBbVRGRE4wa1RITDJJZm5B0gHXAUFVX3lxTE1PU1Vmbi1URFoyU19qUVdVaDhwblZJR0FHR0h5aE9nei03RzROWlEyeHBHLVlFMHkxV1FOMUY1c1BaUFZGSnFtT0pnX1J0UFR1QTk4ZWtWYy1xcTZ1RF91SXcxRUVOVVZvclYzQVVvWmE2MVZORVZzc3QwRW9ma2l1ZVAyM1Z3dU80NVptYW5CeFRjZWU2S0FUMDNVa2F2OVg4QkV1ZGRveTlmbTVTdHhiYWY4SWoxU1J0UUNkRWVVclMzdWVmSjZzUTZlMkhrdWRodDlkVm9j?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczlFbWhobUxJdzBoSlczQ0toV0dWNjdVUjZDUkJpUWtlRkpEWXkzSzhJc293ZF9qZjRxYXNhdUNQdW5vRm1xdkJWUjBqcV9Xd1ZaVDdvQl9tVmx0MHpnaFRWUGVHWDI3dXRtR3ExTl90Yy1qbzJWZjl3WkhzNGV3VDNEQUdtaDZYVDgzbklOeE5fQzJZODdxa01zaVo0REVOaHBia2N5Szl2dTRWX2Zfa2wwY9IBuwFBVV95cUxPRTNxVE5TalVLZnNJTTNUN2lUMktxMGE1amoxZW11Q1JzTFhKQUNYb0dFNnMweW53TEthWmdmZzRCY0pYTTQzYzZsRGl5b1RpNk1ZMjNBRDY4TmctQk84OGhUcGJlRzRURUs4V2JIY1htY0sxSC01NVQxYUdLNnRRenFibmpvSjVvTTF1MTRDT2FFQ002WG9wcDRJZnZzbm5jWnFRejZQYU9JVzBYenlGdk5EMGVvQ1VQSHBn?oc=5"
+        },
+        {
+          "outlet": "Vartha Bharati",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSkVIUkpuRUJHZHBpQzVKN2VWQVR3dUd3Q0c1aGVfX0tFN2J1cHhlZWl4YU1JcDU5LVVHb1o4UU1CdWxaY0dtRGJpQXkzTUZCOXZMU3k0WURZLTFZaFBNMldtS21fcEg3c3JHVmxhNnRfa3BQd2F1N2tJMHpPRXc1UzlaVkJoSkFFdzJsOVZqSFNRLXB2TlByQWk1U0JYWkp6elhqbkFieVJHVWRfQVBnT3dMTDNGank3eERWT0hkSTBLS1pBNlpRdUhxYVBCdXptOHJnOTNoWXk3WHPSAeABQVVfeXFMT1lTMFBLVUxPdVp4eGJOSEtveUg2cXJKbkx4V05zOFY1Mk5qWk04UDVQT1FTcEVtU0w5Y1dyLXRTRFhrOE9LeUlqbURkMHhXRGYtT2pkNXBCc2VfS1RqTm13VmUxbXRubjdEazRqZjNtV3VaZFhvQkFNa2RPc3Q3SFFsWjFUbWpNd0MtdzFZbXZiVzctdElOT2s0cXRxcnBRc1N3alBIX0wwVDFXSkVXbC1uNTdrdDREYnRudTBaeGxSc0Y2dFRwWE1adG5kVDN2dmV3LTRPbjlJWXdacEdtMGQ?oc=5"
+        },
+        {
+          "outlet": "Republic World",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0FOUGFhd0RqQTBSbTlDMFJXYXR6dzI5REJDUldLMXRPNnhzRnVuWE1QMUpla3laQmNqRzJjVUxma2ItcndiVFBYRV8tb0MxOG1JUDFkRHFHWkFjdU5lc2RHMzk2b3pMb3JhUkpUcDFoR1MxMU11UTA0eDZ4TGNNZnh2Qm5ZZkZTR3RFcUNFS1o2SVVqU0tlcUpER3Q5SF91NnVDajZ2MWFrUW9FR1hIc3hWUW5ObF9IN3F1aNIBwgFBVV95cUxQSERySmg4dHlKMWpHclNJU2tJZ0RtSHNEM1NJdkMwT0lWR3lWSEI0NXFqc2hDVDBiVmlGd0wtRVJGekNpYjI2MTZWTG54R3p1cHhDM0d4cXJQNnFNVE9sQ2E4ejBXRlVFLUgyeEpDaUl3ZHlodjl5TWhoaF9VYmFCTzBoajhXMU5jbHhnOUZXeGpSWVN0bUpjaEt2OTc2ek1TUkkybF9NeThtSF9KTDZWWEdTaVdIMTFqX1RDeWN1NmNMdw?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar man arrested for allegedly killing wife over suspicion of affair, dumping body in drain. A crime-related story. Covered by 4 outlets, including The New Indian Express and NDTV.",
+      "image": "images/bihar-man-arrested-for-allegedly-killing-wife-over-suspicion.jpg",
       "image_kind": "photo"
     },
     {
@@ -603,33 +665,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Boy 'Shot Dead' During Idol Immersion Procession In Patna. Covered by The Times of India and Outlook India.",
       "image": "images/boy-shot-dead-during-idol-immersion-procession-in-patna-outl.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-man-kills-wife-and-dumps-body-in-drain-in-bengaluru-ar",
-      "headline": "Bihar Man Kills Wife and Dumps Body in Drain in Bengaluru; Arrested - Republic World",
-      "summary": "",
-      "date": "2026-10-22",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczlFbWhobUxJdzBoSlczQ0toV0dWNjdVUjZDUkJpUWtlRkpEWXkzSzhJc293ZF9qZjRxYXNhdUNQdW5vRm1xdkJWUjBqcV9Xd1ZaVDdvQl9tVmx0MHpnaFRWUGVHWDI3dXRtR3ExTl90Yy1qbzJWZjl3WkhzNGV3VDNEQUdtaDZYVDgzbklOeE5fQzJZODdxa01zaVo0REVOaHBia2N5Szl2dTRWX2Zfa2wwY9IBuwFBVV95cUxPRTNxVE5TalVLZnNJTTNUN2lUMktxMGE1amoxZW11Q1JzTFhKQUNYb0dFNnMweW53TEthWmdmZzRCY0pYTTQzYzZsRGl5b1RpNk1ZMjNBRDY4TmctQk84OGhUcGJlRzRURUs4V2JIY1htY0sxSC01NVQxYUdLNnRRenFibmpvSjVvTTF1MTRDT2FFQ002WG9wcDRJZnZzbm5jWnFRejZQYU9JVzBYenlGdk5EMGVvQ1VQSHBn?oc=5"
-        },
-        {
-          "outlet": "Republic World",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0FOUGFhd0RqQTBSbTlDMFJXYXR6dzI5REJDUldLMXRPNnhzRnVuWE1QMUpla3laQmNqRzJjVUxma2ItcndiVFBYRV8tb0MxOG1JUDFkRHFHWkFjdU5lc2RHMzk2b3pMb3JhUkpUcDFoR1MxMU11UTA0eDZ4TGNNZnh2Qm5ZZkZTR3RFcUNFS1o2SVVqU0tlcUpER3Q5SF91NnVDajZ2MWFrUW9FR1hIc3hWUW5ObF9IN3F1aNIBwgFBVV95cUxQSERySmg4dHlKMWpHclNJU2tJZ0RtSHNEM1NJdkMwT0lWR3lWSEI0NXFqc2hDVDBiVmlGd0wtRVJGekNpYjI2MTZWTG54R3p1cHhDM0d4cXJQNnFNVE9sQ2E4ejBXRlVFLUgyeEpDaUl3ZHlodjl5TWhoaF9VYmFCTzBoajhXMU5jbHhnOUZXeGpSWVN0bUpjaEt2OTc2ek1TUkkybF9NeThtSF9KTDZWWEdTaVdIMTFqX1RDeWN1NmNMdw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Man Kills Wife and Dumps Body in Drain in Bengaluru; Arrested. A crime-related story. Covered by NDTV and Republic World.",
-      "image": "images/bihar-man-kills-wife-and-dumps-body-in-drain-in-bengaluru-ar.jpg",
       "image_kind": "photo"
     },
     {
