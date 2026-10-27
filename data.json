@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27 01:36 UTC",
-  "generated_at_ist": "27 Oct 2026, 07:06 AM IST",
-  "story_count": 53,
+  "generated_at": "2026-10-27 02:35 UTC",
+  "generated_at_ist": "27 Oct 2026, 08:05 AM IST",
+  "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -22,20 +22,52 @@
         {
           "outlet": "urbanacres.in",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0M0ZmNHeTdGVnV6TGFuMnkwODg1UTR1SkVQWS1HTVQ5bHNOa1MwbzFzWnlsc1VUNHphR1ZEQzZlQm9LZ01YOGJGQ1NKSi1BTFRjSmtJZk5oNjljMlAtdy1KR1pXNG5Bdkx6R2RjdkZhVjRrOUR1VWJrQ0xSUGRPTnJpM1NJdzBsUUxxZFV6WFJhak51Tnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1dvb2lxMFE2ek1kWkxCNVNERE9NUU82bHF2WHdOUVV5SUJHbTVnSDY3N2NBVF9zNjI0XzEtODdTWEl0X0U3X1kyMzhHTExxcDQyUnJUMDNJVWFmOUF2WDdBVUd2a2tnZXBSelV2NEtEdGpCbzV6eXhiajRKejBMNGZYbmw4UGgwQ2VyaEdyUWhSYjZXSDdULWxwLWM?oc=5"
         },
         {
           "outlet": "urbanacres.in",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0M0ZmNHeTdGVnV6TGFuMnkwODg1UTR1SkVQWS1HTVQ5bHNOa1MwbzFzWnlsc1VUNHphR1ZEQzZlQm9LZ01YOGJGQ1NKSi1BTFRjSmtJZk5oNjljMlAtdy1KR1pXNG5Bdkx6R2RjdkZhVjRrOUR1VWJrQ0xSUGRPTnJpM1NJdzBsUUxxZFV6WFJhak51Tnc?oc=5"
+        },
+        {
+          "outlet": "Urban Acres",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVE1ZeTl3ZmcyaEMzYUJqbmhPbzlfeW4zbmJ5N2RLeXh3ZkYyYy1VbGRya0dIMGdNY3ZJM0JXU2J4X2tkcjhTOEpfdEZmMnJYU2tpSTJBTzhneEtsekZ5UWM5bFJSR0gxeHFEWmE3TGdkZnlNckxObHRfS0h6R0htMHdXTVA4RVpNMkhQSA?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Road accident victims to get cashless treatment up to Rs1.5 lakh. A civic-infrastructure story. Covered by 3 outlets, including The Times of India and urbanacres.in.",
+      "image": "images/road-accident-victims-to-get-cashless-treatment-up-to-rs1-5-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-food-safety-drive-destroys-260-kg-of-expired-goods-urb",
+      "headline": "Patna Food Safety Drive Destroys 260 Kg of Expired Goods - urbanacres.in",
+      "summary": "",
+      "date": "2026-10-27",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "urbanacres.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZngzLWVYRml2d2VqYTk4SEJfQ1JTRUY5TEd5ZkZVTzM1SC1yeXNrWkpRTllRU2hTQ0VEVTFMQ0FUQnN4cHh2SWItclRkN21pLUpZY3AzQkxRTmxxMk1RLWdUNFRhSFk4OEo1eFpNdzhkTnpFcmluTXNGWU9Ha2ZndDRPR2FJeXJ5aElHYlRqT1g?oc=5"
+        },
+        {
+          "outlet": "Urban Acres",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnpRTDY2R1VBT2o0U2JrSFQ1bmRwc2taX1JfOGNmeTJ3UmI5VGN5TUwyYkVqdmEwU1NDc3RJd1U1UU9qemZYMWcyN3N6dHBhZExrVGZVSUZEZVFwcElnV3FaYnV3TFA2VThYMzB0UXA4UC10UHI5VjZXNTNGcGNnVEZQRk9EQUtrMDFGcGVR?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Road accident victims to get cashless treatment up to Rs1.5 lakh. A civic-infrastructure story. Covered by The Times of India and urbanacres.in.",
-      "image": "images/road-accident-victims-to-get-cashless-treatment-up-to-rs1-5-.jpg",
-      "image_kind": "photo"
+      "brief": "Patna Food Safety Drive Destroys 260 Kg of Expired Goods - urbanacres.in. Covered by urbanacres.in and Urban Acres.",
+      "image": "images/patna-food-safety-drive-destroys-260-kg-of-expired-goods-urb.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "bihar-cm-inaugurates-first-direct-indigo-international-fligh",
@@ -70,6 +102,11 @@
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTlfNVlwS2dLQ011NWgtVWNfYjd6SFNFd0lWa2Y0NndTVFFCZVE3Sk9pUjEzdnZJNkNuamNsT2pUUW80WHNnT0ZOZFUxdEtIR0VIUE5XMkF4V3VULWU1dkVQSkZrRURsT0w0STlPWnZtenlvcDUxNk5mZk5kcU9MVmFiejQxbTREcFJ4T1o1Qjc0a2dKdWRlQ2tB?oc=5"
+        },
+        {
+          "outlet": "Urban Acres",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalNDSUVTLWtFOUZEZzFFUG8yWWhYVklTekJ0M195WHhjcU1SVXJJaHJIVGllU2xzOTl5QkRFMkxYQ0lmTEZMZGtkSnU4YzlHanF2Zk8tRjNRTV81bk9QeTJZcGhYbzI3a3lxZjhwRGZyR3c1bGFQOGNMM3g1SlVabW9UV1pTSWZiOWRj?oc=5"
         },
         {
           "outlet": "ET Government",
@@ -121,19 +158,9 @@
       ],
       "sources": [
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORElfb1RSNEo0WG1xUEZueFZGb3FqaThHdXFNbEdOMksyNmxOVkJvZlhwOV81ZmtjdDVBbTFMUnR4WS1KVWN4SmR6MlZEV0hXR0k4TVd1bG5CeGlPTks4eGQtNU1HUnd3OUthR0t3QVdjTHNBOGpCbFdRNHMwQVFvdDBwNkNCTnM2a2pV?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlVyS1ZHSVl6SEJvbkZsR0d6OVRsLTRMb2Ruc3plTHFqUHNMekp6MG1xRXdCeEI4MXFZTk5ndmh2T0ZBN0hwb25md2pHZmNGbXBxMWVNMUk5dm5xRzd1NmNtVkJnM3BwaXdlVFN6RklIMjI4TDVxWTlRMGVfajljUWNwNlBreW5ucmRWRF9R?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3V4MnlXaE5qUVNsOExhNjRsM3BqcWstVW9JV0ZobEc3VjFCUWx0TnFMMVZ5dnh1VW1MT2FCVGtZR1VWSzR1MWFlMVFRMG9nZWJ4ZWZnZ29sSG1MV0h2NUQ1Mnhnb2pSbTN4WnNORXVBRF9Cekl1cHNxWFQzRmR5U2s3OGZ5SzNmM2l1aTFEclZBdTEtLTRqQWExcFBxSUpzZ1Iw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEhzNmVOeV93Y2RFWjBVaGhyZW9LZnFKRzBHdzZ4bHJwTl9YRlpGd1Ffa1dvSzVBenJGS29CcDF4aXJXcGQzNVBJcll3bEtHcmZBX19nZVlYbnh0Q0M0QUxCUEZUcXUydjhGRzcwM2s1eEo1YnVKR29fRmxVa2hYd0o1aXFEZjA2bWlRLURhaWdYMWZkQWpGMmQ5LWlmVUJoQldjbi0tb0dqVjB2NHdRbDRpZl9DLXlKYnRV0gHAAUFVX3lxTFBtWWhzdVlkUFlwTVNDT1hMQ1JxUHUtemZXdmQ5b1hjYVVFYTg3TkRJSXpXUi0tQy1FTFJ6c1U5N0NyTGRGOEJKYzR2WlJ6cTNJQWhvdmZaenpjNVFKbzFnTGs4UjExOXFlQ2FNWXBIWXN2REdERGdhNEVlNkJmcm9rS0lKa2pOanc5R3ZZSnBXWDRsekZpeWg5QktJUFZrQ0Jfb3g2dWxEVWs3ekJiTWpqZEN2VWN1YTBnc2FNZEtvaA?oc=5"
         },
         {
           "outlet": "Jagran",
@@ -141,59 +168,22 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2VJYjNSZS1QcUVSdWFvdFZUb1NIWVBtWkhuMXBsdHQteXZMd1d6bDNFa2tlclZJa0tRWmFJX3lUMUQ3eU0ycmplRHBMM2J3bmVBUzNDYUVGYUxrLUxHQWx3REZMWW9CYXI2WHUyTkJCU0VIM0VQVnl0SzJWc2IxdFkxVXF0TEptX2RpSmVhVXRwN3VES0JzX0pnN2JkMzJJdEN5Ym56cVBkTkZNOTFRdnowUQ?oc=5"
         },
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1gzWkhzWnRJOVJHX2NTWV9ONGR3RmZjRnFGU0hSNnB1c25VdmUtUnBxeUF1RUs2N2NKaUxLenZna0JUNjBveklURFJjSnZ3d29rQnlDVE5tZy1lbXlVRENRR1pacmRqV0hKNTlwOFc4bXktejA4SWpnUGYtaDAtaEpxVTAtYk1aWV9FYW5WcTdCS1I4REg4RkVYQWY4RndEcXFrdU5iUGx5WTluSVNZRml1OWdKY0J2ZDhCbFVn0gHDAUFVX3lxTFBVQ2xBeTdvLUJjLVREMGM5dW1laUZWT0Vhd2Nhb1NWSDJycjdrbG04aWx6TFQ3a203MjNyNmVWeVZQR1l2eG1XcXZrQmtXZm1zOGRiMHBxQUkyOHRudWxVVXYtQ25sa2NXN2dFb0NEVGM2Zll2dlMwNDZfWl9WVmhMRzk0bVF1TUNaSG16T3N0d3FXRWdHYXFTVzkxd25oXzl0R1pVUFkzREtiaFk3VnJtSUZ2X0YwOFVFd250cUpvbm9aQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3V4MnlXaE5qUVNsOExhNjRsM3BqcWstVW9JV0ZobEc3VjFCUWx0TnFMMVZ5dnh1VW1MT2FCVGtZR1VWSzR1MWFlMVFRMG9nZWJ4ZWZnZ29sSG1MV0h2NUQ1Mnhnb2pSbTN4WnNORXVBRF9Cekl1cHNxWFQzRmR5U2s3OGZ5SzNmM2l1aTFEclZBdTEtLTRqQWExcFBxSUpzZ1Iw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORElfb1RSNEo0WG1xUEZueFZGb3FqaThHdXFNbEdOMksyNmxOVkJvZlhwOV81ZmtjdDVBbTFMUnR4WS1KVWN4SmR6MlZEV0hXR0k4TVd1bG5CeGlPTks4eGQtNU1HUnd3OUthR0t3QVdjTHNBOGpCbFdRNHMwQVFvdDBwNkNCTnM2a2pV?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना में मोबाइल दुकान से 45 लाख की चोरी: शटर काटकर फोन ले उड़े बदमाश, DIU और FSL टीम ने जुटाए सबूत; चोरों क... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Jagran शामिल हैं।",
+      "brief": "पटना में मोबाइल दुकान से 45 लाख की चोरी: शटर काटकर फोन ले उड़े बदमाश, DIU और FSL टीम ने जुटाए सबूत; चोरों क... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Jagran शामिल हैं।",
       "image": "images/45-diu-fsl-dainik-bhaskar.jpg",
       "image_kind": "photo"
-    },
-    {
-      "id": "28-dainik-bhaskar",
-      "headline": "साइक्लोन 'अर्नब' का बिहार में भी दिखेगा असर: बारिश-बिजली और तेज हवा से बदलेगा मौसम; 28 अक्टूबर से कई जिलों ... - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-10-27",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHZqQXBfUkJwSlRfNFBKekVmcnVBdjNaNnJROElKMDNHbHZrdERFUVVIbFlnaV9PR09FZ1o1TUFlbXVsWVhySmtTOGFiWXM2dVFLbnUwSTU5UWg5bngtNkZJTWwzR2JXXzhDaGZGak81dklpYzJYTm5fQ3lCcWg2ZjZPYzFOd0JrRUZqcWE4eTJmMzFZV25kN2xSX2ZQS080MS1GaU9qU3htU2lNWHlsdkVFX3JrMWJxb2FueS1MY9IBxAFBVV95cUxPcGJwRkZKWkhERU5LNW9oRE1jWEZFYzVTMmo2elM0clRfYVZIYVZ3MHdUV25MQVdTWEdxd1pSS0VrN3I4Q1pHVDE0cHVMUWpvZXE1dEpMLWpNc29nbDg0cnEzMkpiZHJIb21fcnBjZjJUWUItcENXTXR0dkYyb1gtWF83YnI5a0E4em04T2tFUzMxbXdfN2xpWkNhZUVGdmt2SmdtMmg5TGpjb1ZWNDQ2OVJCVzRqMUdsRVVxLWJvLTROQ3kt?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTS1zUGRtNUZLcEoyNXlNLVdWdi1DYlFvMWs1X3FqRmNiOTZ0Z3NnSFBoOTc1eXl2bV9zel9fRjhsRUhlMU9zYkY3LWdjWEFXMmxWeGo2REhReHBaNFE2S20wcmxJdFlzRjJLVWVOZmNSU1BmY1hHaE02MWU5anZ6bGJYNktHUjQ3dlpsanBXLUJHRzVWZVRXN05KeW4zZzNVTTBaZkVOUUtLaEctTkduUmptTS16eDBXVFA5WGxsZmlFWWPSAcgBQVVfeXFMTTlRMkhYdVViZTJGamd1LS05ZVRmZXF6Z3ZIdko5bnR4SnVpZTN2MHh3NXNwb1kzRzFCMm5yenBYVi03Z0V3bGhIb29qM2RCWnV1OF9PRHpqTG1ucmdzbU56N01EbVoxbWh2OE9QMUp0SjlFcW1QeHJuYnpGN2k0b3JYT3phRVlfOUowYlhXRWNHYmNseFA3TzF2X21FUGVLbS13Tzg5LTdwaFNvb0tGTThUM0NiUzhLUXBaSWtYdVN6V1hEbHdjbnM?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeExpaklMWjlXcUNlOXQ4bkl0Q2EzR2EyOUwzcjNGaGFVSDFkSllneU1pV053UG4wWjBTNTZ2U0JwSXQ2ZkNHM3lIWF9TMTRBTUNwZGF5aHA1dHB3ZHE1UXlvemZoLWFKUzZhM0hGQnFDdWZybExncXNyUDN0b2dQY3c4d3ppZ19hZWZrMWJBUHppT1pNVnFlUHdoNmp6enMyZlJhVVNuVzJmeUN1TGI1dS1uWjlWVGVsaC1oemJKUWRjTUtPdWR6RF9yUDNGdTZN?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY3dhekdjNXBWYXlXVGZVWlNxQU5SdnRYWGdPbnhaQkpaUDNybEtnY3BndDJIMjZsQTZWeHVTLWlMWGdlLUxuV1A1dzZLSjBSUHhYclVEZ2diaDlVODVpNkxQZVMwM0dJeVZ5ZTBKMHlVS1JMeTdEUkVISDNXeUdZT1dfWkpCN0Nya0xiQW1HcVMzS1RyNkttOFpNdHhUZjE0ZExRakZFeVdGQ3NvWFltXzlQbF80MnhsVU5WaNIBwgFBVV95cUxNZlNEWldhOFo4ZEQ0YTB5ZzJwUGpWWWtaMXdXUzNObmdqRERUUlZ3LXljc29ONWhCbDM3dHdnOFJzNG1qZ1pTWHhkajh0SGJBZU80TzRhQVhIQ3hQSGp3ZWVZVTNKaUpkNDE3VW16NWpubF9FV3R3LXEyLWFzeWpIVEw5NkxhRnMtU0RaNTRlYVBrbDlXVkhlSE85cEhvd0VwTHlhMV9rOVpCaGdZclg1d0FadXl3NFJoajNIUXhHOTBfUQ?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPc0dVWkdxUWlYb1RMMXdsQ3M3cFFjQTNJZllrYzZFWkM2dndaSEx2VVBRd2Z5YmVEc1dMRXBFSzk1T0pIRHJzbzk1MjQyYndrcWdTMW5sb1dselVuYk0yUDBYRXpuNlk4UFdpVXoxa01meHZhMXBiRHZWNEdNVU5uc0JfUWpNdm9OV2F3UDhMY1BHQkU3NTFTMFZLRlNPZzZJZjNqUC1TaE9BQTZQYjlPY3ZsazNqZXZTajZpanJvbDRLNF9hUjBHaVNNYjBMdFdmcXNyUi0yZGFiVFp2SFVFcG54Y0hMRWJGRi1aMmRlano3NWVYUFNOVkp1WEFnR05HT3d2ajNZWDJNTXpmRGQ4Rm9QcE1fLTFyTVc1LXNZUnBfZmd3UW80etIBrgJBVV95cUxOdDB0NjAwREREUXNCMmF6MVFXeFBtdmpIdXBXLU5KamM2eUF1ZDdrb0hMUTRBeXV1bFNjMy00WmxQSmRxbmhZQXhiclR4TmdHdFVyUVZycEgteGowZXlBWDFOLVg5OXVqR21ndVNTam1peTVzcWhISndLenJjN1NrSHU5V3B2VjA0VUh3dl9TVGs5eXZfbkZpT3l2dkdodWRCRTRMLXFpd1RZYjNncGVwSTViYVZJa3JLdUF3akphNl9zT1JNX1c1TEQwQWpBM2hRNXl5UXhLeEFXTS1ZX21hQ1ZRUXRFVlpKaGV3WTdIam55UDY1LWZkWnFpbnV4RVBUajlRYW9vZElJYjIzOG1PcTR1MzhGbHVxVFVCR0pBZ1BfbTcxcV9RNjM3TUxsQQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "साइक्लोन 'अर्नब' का बिहार में भी दिखेगा असर: बारिश-बिजली और तेज हवा से बदलेगा मौसम; 28 अक्टूबर से कई जिलों ... इसे Dainik Bhaskar और News18 Hindi ने रिपोर्ट किया है।",
-      "image": "images/28-dainik-bhaskar.jpg",
-      "image_kind": "placeholder"
     },
     {
       "id": "kharge-s-modi-ka-baap-remark-sparks-ruckus-at-patna-event-bj",
@@ -322,14 +312,14 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1kwYkNmazhyc0VXU3J0ZnRYdzhqQ1luTUtlQzkzaGlVUDJlaGhDTVNrZWExUmhJN3lRLW9fRm9oc0xGNEc5YmczalJrM0xIaGR5M3BqcG45ajBwS25hZTl2elY1VmxDc0RoSFpjb2dLdWdPOGRUYmFtMWpORV9GOHpKNFV4anJjbkxUR0hCdFRnQjl5UmZkWXdvYVVRQ2FoS0dPejc4dk5iNDRIaWV0R1dR0gG_AUFVX3lxTE1MWXc0NnRBQ01sZmRuUEVjMTRnRTN2eG5sTkdKNk5wcnQwdzZrRk5HWDVKWGhKLU1EQ1M4VTlMb0dnVHlmdmZTT1VSZkRheXd2WVhPMk5la1ZHcjAyZ1dfdFI5cXJULW4zZXNGVWdoQi1xV3dwejBiRFp0aS1yMmtxTEZnamVQMmJtd3VfUXIyX1dKeWdqXzludEtkZ3VYdGMxekRxN3dqYVoyQ3RyVExvM3U2OGhpZDdNYkdxWFY0?oc=5"
         },
         {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ2x2dTAwTWk5dG5qMDh0ZDZuNk1MTWI5SHdBVHdvWnZsTWRBUnBqSEVxR3NoMnRKWHpJUWlGTnREWGR1QkFDTjJydV9YdkZybTBWSTBUNE81LUd2V2JGR1FnWW9ROEJTRFQ1MlhHeDBQRmZnS25OYU05QmNYSVA5ZjBwNGJ0aF94ZkNRQm9vVENxZjdMV1g1OE9BeGRnY1VFU2lRWW1kdGJWRzY4dEdlbWpjMk9rOUFrMkJtb1lRdFVuRUdXRFpjWHAxMjYxeWdibTJZTU1qX3NFZW1DcEFuYWk1bTg2czllVmpfWFRKaGNYME0tWTJXdHhn?oc=5"
-        },
-        {
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDlSWVNWMUN0d2txVkQzZlR4TzZJMHBmMGhRYUlJdGRIOGxMVGRzSV81MktEWWdKam5VcGs1NDJYUklKU0QzU3hYdmEzLXc3b2lxMFJ4NTJXYTY5ZEFXRzg4RmdIUnZ4clNvOVhDeHA5ZENmWEF6a2R3QUpMVi1HVFVGZlVlcmJ0ZlVvbDNmOGs4MlFw?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ2x2dTAwTWk5dG5qMDh0ZDZuNk1MTWI5SHdBVHdvWnZsTWRBUnBqSEVxR3NoMnRKWHpJUWlGTnREWGR1QkFDTjJydV9YdkZybTBWSTBUNE81LUd2V2JGR1FnWW9ROEJTRFQ1MlhHeDBQRmZnS25OYU05QmNYSVA5ZjBwNGJ0aF94ZkNRQm9vVENxZjdMV1g1OE9BeGRnY1VFU2lRWW1kdGJWRzY4dEdlbWpjMk9rOUFrMkJtb1lRdFVuRUdXRFpjWHAxMjYxeWdibTJZTU1qX3NFZW1DcEFuYWk1bTg2czllVmpfWFRKaGNYME0tWTJXdHhn?oc=5"
         },
         {
           "outlet": "Vartha Bharati",
@@ -493,17 +483,12 @@
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTJrSFZlRkNTQ0k5emszNEkwdWZPYmRPSXdIdmo4dWxlV0l1bWxIeEZ5NDdFcnVRX2xiT2o4NEpyOFJaaGFTVHFQbmxuQlhkUm81d2pFclIta0NscVlzaEFXSGQwcndhaERmQ0hmOFZFTHlkYXFxdlRfdzdmWDdqVWJXWEJGbHZtdkF4SWR3ZkVGQVBsMEpwOXNINXU1Yy04NmtuVDBWb3ZUYUHSAbMBQVVfeXFMTkUxYWE1WEoxWVpyR21KWkY0bnE5NlN2QzlSem5OcUU2cGpNaWs3WC1lSG16cElRNTFOalh1YnVpRm55Q1BFdEY1M1laaUhtZnVvMUwxc2JZSy0tWFF1azVFNG1mOVJxODlab3JMYkdVY2lMUi00eWxEbmZyaWtpVzhkckZ5cHE4cktTNkhjWE5OSTZ0NWh0c0hrNml6TVVIWDRNUkJ3SFRQU2ZqbHlzQnB0Tms?oc=5"
-        },
-        {
-          "outlet": "Education Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcS16VGlEVkRnd0g3d2ZxcnJXX2E4bkNSMlNfSzRfNVltM3ZjY0dGSFNYVVA0cHJaOUxBNEtYN3lnc1lQM1kzTmc1QkdIMFhHeEt4RkdGTGhMdHZDdDNZNllFTEswZFlSN0I0aEl0eDhjMWxWMHhfcnNSRXdXbGtJTGdoWHQ4b3dsRktkTE9BcUFvUlJhakVqbUhYMW5ESS1DVGg1eFhkNl9XdkNDR3VDVVJ1TjhjQnVJTUJaNGdkc0FWWVJKZUo4TTI4b0FhdjJfVFE?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar Board Exam 2028: Class 9, 11 Registration Deadline Extended for Inter and Matric Students. An education-related story. Covered by 5 outlets, including Telegraph India and The Times of India.",
+      "brief": "Bihar Board Exam 2028: Class 9, 11 Registration Deadline Extended for Inter and Matric Students. An education-related story. Covered by 4 outlets, including Telegraph India and The Times of India.",
       "image": "images/bihar-board-exam-2028-class-9-11-registration-deadline-exten.jpg",
       "image_kind": "photo"
     },
@@ -729,33 +714,6 @@
       "genuineness_label": "Verified",
       "brief": "खड़गे के बयान के खिलाफ भाजपा का प्रदर्शन: कांग्रेस अध्यक्ष ने कल पटना में कहा था- मोदी का बाप भी जाएगा; शिक... राजनीति से जुड़ी ख़बर। इसे 8 मीडिया संस्थानों ने कवर किया है, जिनमें AajTak और Jansatta शामिल हैं।",
       "image": "images/dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "photos-prabhat-khabar",
-      "headline": "Photos : पटना एक्सपो-दशहरा मेला गांधी मैदान में सजा, आठ साल बाद लगे मेले के नजारे - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-10-26",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMEhZcFFSSkNHRVl4Vk9YNUprV2ZIc05SSGlvYzdzbUltSU9QQWc4aEQ3dHVuTHVySV9kTklxMFZhQjNoT0hnQTVVR2RPdXlEWk9VaVB5Q2FteC1kTmtYZ0pVRVZrR2dfbUk0Rms0TjJkZmVjai1VSDEwNWRMd2xlZUItOVg4ckE?oc=5"
-        },
-        {
-          "outlet": "दैनिक भास्कर हिन्दी",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHNOQVRLdENYeFlnQm5HelpaWlNBT2NYZkdGM2FFQm1KVUk4MU9WSjFXd3BScmdWQ1U5VEF0UldlOVFsbV9TTURvc09idnFGYjFzM1EzUzk2ekxGUXFTUlhYaE5KSGU1dzNveElXMTZkRDVMWjI2RE1wWkJhVm43VWV5NXYxdzJKSlVhRGJqVTBwcnZuNGF6UDhKeFJ1R1ROQmZHTlZYTWFPT0pFelphRGs3cmg3ZFRsRXZmc1M4Zw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Photos : पटना एक्सपो-दशहरा मेला गांधी मैदान में सजा, आठ साल बाद लगे मेले के नजारे। इसे Prabhat Khabar और दैनिक भास्कर हिन्दी ने रिपोर्ट किया है।",
-      "image": "images/photos-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
