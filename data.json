@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30 06:37 UTC",
-  "generated_at_ist": "30 Oct 2026, 12:07 PM IST",
-  "story_count": 53,
+  "generated_at": "2026-10-30 07:36 UTC",
+  "generated_at_ist": "30 Oct 2026, 01:06 PM IST",
+  "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -29,6 +29,98 @@
       "genuineness_label": "Corroborated",
       "brief": "55 Year Old Cleaning Staff Member Shot Dead by Assailant in Patna City. Covered by Rediff and Asianet Newsable.",
       "image": "images/55-year-old-cleaning-staff-member-shot-dead-by-assailant-in-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-museum-ranked-among-the-best-in-the-world-top-10-museu",
+      "headline": "Bihar museum ranked among the best in the world: Top 10 museums and why they should be on your bucket lis - The Times of India",
+      "summary": "",
+      "date": "2026-10-30",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Outlook Luxe",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGdaZm55VENfM0dMcWt3aDZ0dWJhcjNnejBTaGR0NzRiWDRvZGxDanROcWJ2emVUSTRDRGxRUVMxNi02UDczQkpHRm5FSVJyMnh5TVppcDlOb3RaMUpqRUZmN3pVZ1Z3VV9PMFp4SEEtd1l1cGlhU2pDOUlMMEpQeFltSnNNNmYwLTN3aERsbDFKd1NIV2tqSjRXMEY0bHZycW5OODJxT0FKa0V1NW00dkt30gG_AUFVX3lxTE84a3I3Y1YyaXRGT1ZFN3BjbHFZMlA2NVNhVFQ2SllfX21vUHM2TkFXeDZnaWNuUmhkQkZBM1Q3eTB3LUxxaXlDbUFyaVRranU5QkdPN2g3VVZhU0ZYVkRJWDBMYXJpT1R6eURaNXdOZnlGaWwzYjJ0UzNJWDhNazc1Qjh6X0VOa1V2eWxLOEY1ZXNxX00xU3hpU1RScGxONVFlbEFOZUJRMXdkdW5xbktBMHFaVXVDXzN0b01YNU1B?oc=5"
+        },
+        {
+          "outlet": "GK Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Pd1gteDd3cUdyMG9XQnYyT0ZKV1VBWUJvcHpoNjl3bnI3NUdncW9XVWNmYWJ1UGZOM01lSTFfcGY5cVc3b3g2bWlMR2sxWW9xLWNYMk9mdFVNWU5PSTVXRGlXZVFrZGlXamxKV1gwQS1feXROMWVSRXJOd2g4R2M?oc=5"
+        },
+        {
+          "outlet": "Firstpost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONENQSEtCOS11b2tPeEpBMTNWNkU0VG4zVmZKLXRyRWdYcWVnODRJczRlWVliaDhhcVlLWWJkaktuclZRX1d5WEY3cnNDbk1wY0V6YkNFYjM3aUJ4ejhMN3J0RFZuSmpsT3hfdkJ5bXhFWHYxM3ZibXRSc0RhUWpKTTRzZEwyYm9TZjRWcmFiUlJNcmtFXzMwN3RmamR2TDhleEc00gGoAUFVX3lxTE4zM3M3VVFYa3p3YWdmM212RGRKclNoQmRka3pnN1RHNWxQdldPTFJEcjRPc1lMOGJITUsyMUhkRndpOWVhTHZwQm9WVUQ4Tk9kU0tTLUVzRGNsaWFnTXhyWUl6YjVKY3RIZ2tGc2FweTg3SU5aY2s4Z21Md0VzOWRNYVpNY2hUR3R1aFE3QXJBZWFoaHJfVnJuV2hNWmdlcWVKVlZDQjk4MA?oc=5"
+        },
+        {
+          "outlet": "IndianEagle",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zQjdVVGtsR0dtZTJsd041QWRrank5Q2x1cVZBME9wbEFhS1lTazJxS0RMMXd0dVNRMTQxQXMyX0RmVjc5eUkwUFZkeWphUGkyeUJZVmNIcE1PN1hEYUcxMXZDelZ0azMzT1l0dUZ6VkpZRlRzQ3ZTenhyZFQ?oc=5"
+        },
+        {
+          "outlet": "NewsBytes",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2ZiMy1yRkxralpud3RQS0hxcjlaRDFxaGlrdThFVlBpRjUxdmhvNmh2VDhTdGlHWkFUU01iTjRkTWNGVXZCUGVXUmNrZERTejMtLWExcWVoWnR5VzNWSEpYRERDSFNUUnlDeUowdW5wWFdvLWNWR01UdENfQkdNY3dZT0NHRzktVHduV0lYeWRMRzVvcG5IZGlrcHI1OEpkRXc?oc=5"
+        },
+        {
+          "outlet": "ET TravelWorld",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZmVxY19kNGQ3bnkxSDJtTG9JNW95TXhxSGFlTG5sZlZoTUl0NUNLQVJKNGNxY2hzSm84Sk44MHBmZGE0LWFjU0QzdWkxVDVmZlR1Zkp4OWR6cFpnWjI5SEdqVlM0LUZNbjNHMEYySFZ4WEdMX1Z5N3ZyenVQQTFId1BVeFprTHJkX0dOamZLdWZGYzJKemZBUWhJMFhVTEMwdU83LWx4bllTb182MDY3TmxTVW81S3MzU055ZlNsN21IYlBwUEhkd3FYblU4U0thckZKSmxtSm8yaElWMkZDTEZmQlVQb3dKXzJaSTU3X3BwQkd6dWR6d2FUUDJEcFNFWnNraG10aEpnVUN5QzBNVWdnbGzSAd8BQVVfeXFMTnZZaWlyYnZnZVp0MU5GbGtWRG5XR0l0UVRvVF9mZEFKV25QeEtnR1ZRc2JFUjNjc0djaWllMUNRODhDR1VmQklWaEVxNVpaOEtRQ2NRNFJHMDZIMGw2ckFWNXFqM08weUNqUGNlZFRFWjUyUEdMbFNhR2g0UXJlMC1xUEJRRFl6MlpudUp4aWljNDZvcjk1QXdqRTYzVGN6UW56Zm5xMnpLaGdGLUdtVG9iVmRHVEk5SnZnbm9QQ1B0QUhjeTJ5Zm5iQ0ZYcDBFSERpQWFmWkVrcEoydGdDdw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQlJzbEV4emtNY01DbU95OXA4VVF3eTUtWlJuTkdtMWl4S2FnUzZjSjBmRllULXlyYS1XNU5NZ1FlLTdRbjg4Z0RlMUc1aHpiOHpkOXNiMXFETzQ4aUtlYUxuSVBpNVNNeFBfSHFkTUZISV9fYW1wd2IwVTcwbGkzUjBmQUJTMmtVS25mYXdUUWFWakhuZVVIUjR1YlFPdzJXWHlmUFhsVTcyQy02X2N5N0dqWnZoREtIUUlPWlZZS2lzX1BEV0huM1NoTExCazhNWnRSSGVUZmR6QVNIY2xQYV9qZzl6V2VfY0FwelMxaHc2bENrQ2hidXhHaEpkcVVwOUlqRVZ5YlFidnloWHdhWDhyUjNlblXSAZwCQVVfeXFMUEVDaU9zandGeTZPbVRzaE85dVJjOWktcjZnZUxsOTNPalE0ZFplaDI0YW1iRk5xSEQ4WVVYbzZPYU1TQXBLN0JYNmZLTWVvSHNqbHA2Y0VvdnFGSEhVdXN4MWFWdVFLWERUa05FYkE5cGFmV1VObm1ERFl3NzBqTFNOSkZzcFZRX3JUZ1dYUDUyYko5ZjB1LURXVWVxM1g5THBRYlFTR2xXUk5nYy1tcjdIMFdJRVI2M1gya0ZENXp1Y1ctQzVDdExuMUFYZFFoUnk0N2hCbno2X2R4Q2x3aUo3Um9OVm5kallQSDdzN0YxcTJhQWlnZ1dBUnZsY1BnRmxSa2w3bm0zaHFrWUVJcUJCb0I3YmIxc2YtQmY?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVdacW1lY1BNS1JBSXNkUDhvaG9HTVVINWhYcUFYS21fTWFFdEtLSlBjQjFfUTM4RF96cDZRSXNiV2dNblI4TVZjWVY3djF5YnhidlJ3MHZ5ZXN3NVY0eDhPamdnZlBxNW01SmVVaUE2czM2dU9jLV9qNmtyR28xSFZpUmFMYlB1RjdXejBOem5VN3lZZDlmajV5d3YxbG55SVVRTWtCamdrM2JRRFBIaGdZVWVGLTjSAbwBQVVfeXFMTUY3U2ppMnJHZzJMcklmemZqRGZFUXB1NFBfbHhlQnN2Tm96WDBKZ0Zfalh6eHdXR0xweUFNVGhxUjFtQVRwNElseVJYS28tblJIaXhHMUxkbDhhcjQ2MFNCQU5JY2ZRNVpNSTZuWDAtQVI1amlFZGVzWWFEU0tobEZQRzRIandJa2h6V2MwSm5HNWZabnJkYjFtN21JZFFkZUlMcGN2YmpFVDlvSVJVWGV6VFhzVmxFT3FJNjU?oc=5"
+        },
+        {
+          "outlet": "WION",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdGluNDBoZkh6TjdldUN2LVJCWWROeVJianZTZmZvdnlUVDhvVlFUTDhtY0pfUlZIZHpVRnhqMjJZWGF1YlVldU02TFl0ZHY2RjB5Mmxwc2luWkFKSUdDZEd2WXFTT1RsLU1PU1JzM2hLYWRWbDNocnZyVVluQW0zdXdxM09iQ3E4QzgyTGVuSDBINnZyaXd3cXhPQ1RicUN6X3QzbzdQcjhxUFdOVjB3T2JxWHjSAboBQVVfeXFMUGZDWDRhVFg2dTQxM3hJSFFNWGF4TFhhVGNpajBDVEg0LWJFWG5oVVpvcHlfQkxpOVVpTko1ejNTTzZ3aDJWQVR0WUZnem9sWXJFOElwLWdOeExURlJVZ21jbmtEQnhZSDNXbWRRaTNKb25sY1VrbFhZYWVBT2ZMWVAtcGdKWnZWN0VfNWFyYnEzWWVWOFc1bGF3OGprclZIUWFIbkQ1N2tVVDJkYm8xYXlBREY0dFRlanpn?oc=5"
+        },
+        {
+          "outlet": "Bureaucrats India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2c3QXlkVmlrRmN5QlM3UlkyRGVGdmZJS3F3c0hoLXZacjVQaGlJQ0FEZC1PWklPZHN4b2lmbTl6UDJtVU9GN1dnZXBFNzdQdkZac3lZdXJlTGFHNC1OZVY3Z29hTER2UXBJUVlOYlp4X0VmQzBfdGozTzlBaEctNm4xaXp3c19LWGdxT2tmbkd3eXdCRUI4R3pHNE5SelRlc01zN2JBQmhtRFFpeFRfMElwUjhrSzBMdjIwVnlrZjdqdw?oc=5"
+        },
+        {
+          "outlet": "Esquire India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmlaZzQ4cmdIbHZBLURGLU5YMS1jdm1wb1h1UjZEbVdqSXZkMzZiY3hZcWdlOXNkUjc0NnljVmppNnhnSDNIay1HYU9jckxOLUNZZFZyUTJtQzlVMkxCbkpQbGt2RXpkVXB3V212dGdQTmpZTnBmWWgxOEF5QWc4SGJwd2J6clliWmRXYTNoOGFOQkt2Q1FUUG0xVU44dHZJMDBUN2FUd0EtNExJdDBtLUdIVTBHTmJRMXFHZUpYR1B4Qi1pTDVJ0gHUAUFVX3lxTE15Y1ZSWDdBTl95b1RNbVowT2FyRk9BRDNFSEhGc2RYdExPWG5aaEpIRmlCaVZ0bW5BbXd0cWtLQWcxYmNQRFBMZllaSzZWbnZWbVJ1S1VTQnpoWGRyYV9SMXZRLXRiWUxGdEhjTWJ1V2x5RFFUVWdvNHlUY0p4V0lnY2s4c3BiNjBMSjRPWlgyLTdBT3FOVWViOHQ1blVUY0FaRmNSdlVCSjU2ZWc0SU92Z3pkcTRlc0plZ1hjS0JRenVjN2lsYk9xMW5DcDdoTkpmNk82?oc=5"
+        },
+        {
+          "outlet": "WION",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3Y1d2k4dnZDVEdXaFoxekVSdi1NRlNmdTVXTnZNcGMzTWJhYkpZUV9ISG43aW5WVDhFZ1RKSzhCa1pnRmk0d3ZscGxmclFwUVExNUdOd0ZHRDFnR3VFcFgzNWFUbEZDdjY1MkltczFyOG5xMU1ielVfa1dwaGF6blZOaGh5X2ZaZjlIeXNpT2lxaF8xSTVISmh2RFdBaEdWQm5La3VqSVd3alpjMmExb3ctSQ?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFl1WDVCczhyUXU4MVV4TWwxTW4xVU1hOWVhSkd3SGNKSjdEMWhHenVwT0xaalV2eXY5WjJ5bkZUUl9LajQtVE5fRm5IVDNHTVQyeXRXMXBaNk5ha1czSm1QazVidG9EX2hCdEdXdjlsQlY2R2poQTZ3VkIwY09lUjlzWE5rdHZJTUhhN2RlS1hNZ1N5WFhIaDBDTUMtWTYtQlRST21DZWh3T0p6OUdwc3pnLWNmSXfSAb8BQVVfeXFMT0RGODdWUGJ3ZlZjUjFpc0QwTF8tQ2RaTjZ2NUF5NXhOWld0LVZQUHhhbnB6c0JUWTlSbzVXbmtHSXpoU1BMREw5dG43QzdlaWdWN1Y5NVQ3dEkzMXlZVjg0MnlaT29iNzNVYl9pS1lRcEdjSW44QzRhSEhhSnpfS2hYZWRVbHdpMHdGNUxKZzNzZHE5SlNEUE5Zb2tKS0lQZkF5c19ZNC1zTzg3Q1VCbEpFUzJsb0JURjZ3UENVWDQ?oc=5"
+        },
+        {
+          "outlet": "Swarajya",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamRYOTFBZkx2ZDNfc3VESG5uMFZWYVVQdTlCc3pFSGNOOFhtZlYtVEFIVlhyODdaSmRBdnZSbDF3TW1iWnQtczBEVEhEOWpaaG84dEswMlJBWmx2c0hJTE1VRE56WkpFWnNqUkpSUEktd2xzX0h6bHExdWRURm9HTzZlVUhPbjl4MG80d3lUVWU3QVdiTFlHdFdtT1hzcUhIdGxvaGtqa3NKVHpY0gG8AUFVX3lxTE9Xd0U3WXpKNUk0RmF5YUZaYmhYOEtBNHNTUFFQQlltX1BlRFVvV2NwbVBtZlFDRWwtelczZzNXeFJQNUlTVnZoSjVCMU1HQ2tudUF3c2VsR0xKc0x6QlRva25VdDJjUk1JTVZrMWJhTm1zalNYM1E3dFpmV3hqTkNmM3VtaVB5S0hONXdOYnFVMUdzdS1aZl90SnZjV2hlV0JkVU9MVWxGcTVOYzB0RWU0T3FXTkZNRGdaeHgx?oc=5"
+        },
+        {
+          "outlet": "The Logical Indian",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMm1PRVRYaVNhQXF4bUk5NDM1RlJKNjlMWkNMUnA5eUc0bXpZTTRubTdTTHpVZl9oc1UzNmlZaTZZNk9OVUtNUWVOWjVQbGRFUUJFMHIxM3ZjdFg2TG44SzBubldlWm9kbWViTzlOUWFqR2RXOThv?oc=5"
+        }
+      ],
+      "source_count": 13,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar museum ranked among the best in the world: Top 10 museums and why they should be on your bucket lis. A crime-related story. Covered by 13 outlets, including Outlook Luxe and GK Today.",
+      "image": "images/bihar-museum-ranked-among-the-best-in-the-world-top-10-museu.jpg",
       "image_kind": "photo"
     },
     {
@@ -79,125 +171,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-museum-ranked-among-the-best-in-the-world-top-10-museu",
-      "headline": "Bihar museum ranked among the best in the world: Top 10 museums and why they should be on your bucket lis - The Times of India",
-      "summary": "",
-      "date": "2026-10-30",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "NewsBytes",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2ZiMy1yRkxralpud3RQS0hxcjlaRDFxaGlrdThFVlBpRjUxdmhvNmh2VDhTdGlHWkFUU01iTjRkTWNGVXZCUGVXUmNrZERTejMtLWExcWVoWnR5VzNWSEpYRERDSFNUUnlDeUowdW5wWFdvLWNWR01UdENfQkdNY3dZT0NHRzktVHduV0lYeWRMRzVvcG5IZGlrcHI1OEpkRXc?oc=5"
-        },
-        {
-          "outlet": "Firstpost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONENQSEtCOS11b2tPeEpBMTNWNkU0VG4zVmZKLXRyRWdYcWVnODRJczRlWVliaDhhcVlLWWJkaktuclZRX1d5WEY3cnNDbk1wY0V6YkNFYjM3aUJ4ejhMN3J0RFZuSmpsT3hfdkJ5bXhFWHYxM3ZibXRSc0RhUWpKTTRzZEwyYm9TZjRWcmFiUlJNcmtFXzMwN3RmamR2TDhleEc00gGoAUFVX3lxTE4zM3M3VVFYa3p3YWdmM212RGRKclNoQmRka3pnN1RHNWxQdldPTFJEcjRPc1lMOGJITUsyMUhkRndpOWVhTHZwQm9WVUQ4Tk9kU0tTLUVzRGNsaWFnTXhyWUl6YjVKY3RIZ2tGc2FweTg3SU5aY2s4Z21Md0VzOWRNYVpNY2hUR3R1aFE3QXJBZWFoaHJfVnJuV2hNWmdlcWVKVlZDQjk4MA?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQlJzbEV4emtNY01DbU95OXA4VVF3eTUtWlJuTkdtMWl4S2FnUzZjSjBmRllULXlyYS1XNU5NZ1FlLTdRbjg4Z0RlMUc1aHpiOHpkOXNiMXFETzQ4aUtlYUxuSVBpNVNNeFBfSHFkTUZISV9fYW1wd2IwVTcwbGkzUjBmQUJTMmtVS25mYXdUUWFWakhuZVVIUjR1YlFPdzJXWHlmUFhsVTcyQy02X2N5N0dqWnZoREtIUUlPWlZZS2lzX1BEV0huM1NoTExCazhNWnRSSGVUZmR6QVNIY2xQYV9qZzl6V2VfY0FwelMxaHc2bENrQ2hidXhHaEpkcVVwOUlqRVZ5YlFidnloWHdhWDhyUjNlblXSAZwCQVVfeXFMUEVDaU9zandGeTZPbVRzaE85dVJjOWktcjZnZUxsOTNPalE0ZFplaDI0YW1iRk5xSEQ4WVVYbzZPYU1TQXBLN0JYNmZLTWVvSHNqbHA2Y0VvdnFGSEhVdXN4MWFWdVFLWERUa05FYkE5cGFmV1VObm1ERFl3NzBqTFNOSkZzcFZRX3JUZ1dYUDUyYko5ZjB1LURXVWVxM1g5THBRYlFTR2xXUk5nYy1tcjdIMFdJRVI2M1gya0ZENXp1Y1ctQzVDdExuMUFYZFFoUnk0N2hCbno2X2R4Q2x3aUo3Um9OVm5kallQSDdzN0YxcTJhQWlnZ1dBUnZsY1BnRmxSa2w3bm0zaHFrWUVJcUJCb0I3YmIxc2YtQmY?oc=5"
-        },
-        {
-          "outlet": "GK Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Pd1gteDd3cUdyMG9XQnYyT0ZKV1VBWUJvcHpoNjl3bnI3NUdncW9XVWNmYWJ1UGZOM01lSTFfcGY5cVc3b3g2bWlMR2sxWW9xLWNYMk9mdFVNWU5PSTVXRGlXZVFrZGlXamxKV1gwQS1feXROMWVSRXJOd2g4R2M?oc=5"
-        },
-        {
-          "outlet": "IndianEagle",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zQjdVVGtsR0dtZTJsd041QWRrank5Q2x1cVZBME9wbEFhS1lTazJxS0RMMXd0dVNRMTQxQXMyX0RmVjc5eUkwUFZkeWphUGkyeUJZVmNIcE1PN1hEYUcxMXZDelZ0azMzT1l0dUZ6VkpZRlRzQ3ZTenhyZFQ?oc=5"
-        },
-        {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLXlGdzFKT29FeTl5OV90cWtJazZELTYzd2JaZjFHRk5mcmgxNTB1NERVUDFadk1OOHBsOEtFZUVQOWRDTDBSTVhiZDVjLTJYMEVOMW10OVBWdlBWSnlscGc2R2hMWDFrMFp1elVzM0t0QldNSmhic21tUTl1MS1ySXIzcjFuaDdneHRTOHItZmJFU3l4NERpemxfOXFjT2IxQ2Q4OXF1bGZub2QwM2hVSjdMaWRFc3BxX1FobHdRNXhJNUtmZFFpYXFzT3g4V0VFbTB0WXVfd2o0SWJWVzlLUXBXaGRSWm1Zd3UzVzAxOHJlN0J5VVZ4REpHU1RGQdIBgwJBVV95cUxQb3R2X2VWZXlDdS1rOTRVVXdjaGh0YnZYamgzZHE0dnN4SzlBUGs4UkE5cmFGNEdMY3VJeU5JR3dNN3pROFRQOTFGVmVraWdvS2JOYks0S3BvblNpMy1sUC1icVJfcEFHSFgwLWg2dmpfS0VOQkJvYWZHVFZDcEpRazNlNkpfYWNHZFdjVHhlRkdwM3c2N1FmcTZBWFE3emhfbXJiQXd0dmRQOFJ6WVNyUldTcUl1d3N2MDdPaFcwRFBQLUR3ZVloWUlWQ0dMS2U0ZUFyYmptQjlyX2xJS2Fzc3lHbkh4azJyUkhySGpLTGRLM0FYNFZnT1ROY19hYUtNa0dv?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVdacW1lY1BNS1JBSXNkUDhvaG9HTVVINWhYcUFYS21fTWFFdEtLSlBjQjFfUTM4RF96cDZRSXNiV2dNblI4TVZjWVY3djF5YnhidlJ3MHZ5ZXN3NVY0eDhPamdnZlBxNW01SmVVaUE2czM2dU9jLV9qNmtyR28xSFZpUmFMYlB1RjdXejBOem5VN3lZZDlmajV5d3YxbG55SVVRTWtCamdrM2JRRFBIaGdZVWVGLTjSAbwBQVVfeXFMTUY3U2ppMnJHZzJMcklmemZqRGZFUXB1NFBfbHhlQnN2Tm96WDBKZ0Zfalh6eHdXR0xweUFNVGhxUjFtQVRwNElseVJYS28tblJIaXhHMUxkbDhhcjQ2MFNCQU5JY2ZRNVpNSTZuWDAtQVI1amlFZGVzWWFEU0tobEZQRzRIandJa2h6V2MwSm5HNWZabnJkYjFtN21JZFFkZUlMcGN2YmpFVDlvSVJVWGV6VFhzVmxFT3FJNjU?oc=5"
-        },
-        {
-          "outlet": "ET TravelWorld",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZmVxY19kNGQ3bnkxSDJtTG9JNW95TXhxSGFlTG5sZlZoTUl0NUNLQVJKNGNxY2hzSm84Sk44MHBmZGE0LWFjU0QzdWkxVDVmZlR1Zkp4OWR6cFpnWjI5SEdqVlM0LUZNbjNHMEYySFZ4WEdMX1Z5N3ZyenVQQTFId1BVeFprTHJkX0dOamZLdWZGYzJKemZBUWhJMFhVTEMwdU83LWx4bllTb182MDY3TmxTVW81S3MzU055ZlNsN21IYlBwUEhkd3FYblU4U0thckZKSmxtSm8yaElWMkZDTEZmQlVQb3dKXzJaSTU3X3BwQkd6dWR6d2FUUDJEcFNFWnNraG10aEpnVUN5QzBNVWdnbGzSAd8BQVVfeXFMTnZZaWlyYnZnZVp0MU5GbGtWRG5XR0l0UVRvVF9mZEFKV25QeEtnR1ZRc2JFUjNjc0djaWllMUNRODhDR1VmQklWaEVxNVpaOEtRQ2NRNFJHMDZIMGw2ckFWNXFqM08weUNqUGNlZFRFWjUyUEdMbFNhR2g0UXJlMC1xUEJRRFl6MlpudUp4aWljNDZvcjk1QXdqRTYzVGN6UW56Zm5xMnpLaGdGLUdtVG9iVmRHVEk5SnZnbm9QQ1B0QUhjeTJ5Zm5iQ0ZYcDBFSERpQWFmWkVrcEoydGdDdw?oc=5"
-        },
-        {
-          "outlet": "WION",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdGluNDBoZkh6TjdldUN2LVJCWWROeVJianZTZmZvdnlUVDhvVlFUTDhtY0pfUlZIZHpVRnhqMjJZWGF1YlVldU02TFl0ZHY2RjB5Mmxwc2luWkFKSUdDZEd2WXFTT1RsLU1PU1JzM2hLYWRWbDNocnZyVVluQW0zdXdxM09iQ3E4QzgyTGVuSDBINnZyaXd3cXhPQ1RicUN6X3QzbzdQcjhxUFdOVjB3T2JxWHjSAboBQVVfeXFMUGZDWDRhVFg2dTQxM3hJSFFNWGF4TFhhVGNpajBDVEg0LWJFWG5oVVpvcHlfQkxpOVVpTko1ejNTTzZ3aDJWQVR0WUZnem9sWXJFOElwLWdOeExURlJVZ21jbmtEQnhZSDNXbWRRaTNKb25sY1VrbFhZYWVBT2ZMWVAtcGdKWnZWN0VfNWFyYnEzWWVWOFc1bGF3OGprclZIUWFIbkQ1N2tVVDJkYm8xYXlBREY0dFRlanpn?oc=5"
-        },
-        {
-          "outlet": "WION",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3Y1d2k4dnZDVEdXaFoxekVSdi1NRlNmdTVXTnZNcGMzTWJhYkpZUV9ISG43aW5WVDhFZ1RKSzhCa1pnRmk0d3ZscGxmclFwUVExNUdOd0ZHRDFnR3VFcFgzNWFUbEZDdjY1MkltczFyOG5xMU1ielVfa1dwaGF6blZOaGh5X2ZaZjlIeXNpT2lxaF8xSTVISmh2RFdBaEdWQm5La3VqSVd3alpjMmExb3ctSQ?oc=5"
-        },
-        {
-          "outlet": "Bureaucrats India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2c3QXlkVmlrRmN5QlM3UlkyRGVGdmZJS3F3c0hoLXZacjVQaGlJQ0FEZC1PWklPZHN4b2lmbTl6UDJtVU9GN1dnZXBFNzdQdkZac3lZdXJlTGFHNC1OZVY3Z29hTER2UXBJUVlOYlp4X0VmQzBfdGozTzlBaEctNm4xaXp3c19LWGdxT2tmbkd3eXdCRUI4R3pHNE5SelRlc01zN2JBQmhtRFFpeFRfMElwUjhrSzBMdjIwVnlrZjdqdw?oc=5"
-        },
-        {
-          "outlet": "Esquire India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmlaZzQ4cmdIbHZBLURGLU5YMS1jdm1wb1h1UjZEbVdqSXZkMzZiY3hZcWdlOXNkUjc0NnljVmppNnhnSDNIay1HYU9jckxOLUNZZFZyUTJtQzlVMkxCbkpQbGt2RXpkVXB3V212dGdQTmpZTnBmWWgxOEF5QWc4SGJwd2J6clliWmRXYTNoOGFOQkt2Q1FUUG0xVU44dHZJMDBUN2FUd0EtNExJdDBtLUdIVTBHTmJRMXFHZUpYR1B4Qi1pTDVJ0gHUAUFVX3lxTE15Y1ZSWDdBTl95b1RNbVowT2FyRk9BRDNFSEhGc2RYdExPWG5aaEpIRmlCaVZ0bW5BbXd0cWtLQWcxYmNQRFBMZllaSzZWbnZWbVJ1S1VTQnpoWGRyYV9SMXZRLXRiWUxGdEhjTWJ1V2x5RFFUVWdvNHlUY0p4V0lnY2s4c3BiNjBMSjRPWlgyLTdBT3FOVWViOHQ1blVUY0FaRmNSdlVCSjU2ZWc0SU92Z3pkcTRlc0plZ1hjS0JRenVjN2lsYk9xMW5DcDdoTkpmNk82?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFl1WDVCczhyUXU4MVV4TWwxTW4xVU1hOWVhSkd3SGNKSjdEMWhHenVwT0xaalV2eXY5WjJ5bkZUUl9LajQtVE5fRm5IVDNHTVQyeXRXMXBaNk5ha1czSm1QazVidG9EX2hCdEdXdjlsQlY2R2poQTZ3VkIwY09lUjlzWE5rdHZJTUhhN2RlS1hNZ1N5WFhIaDBDTUMtWTYtQlRST21DZWh3T0p6OUdwc3pnLWNmSXfSAb8BQVVfeXFMT0RGODdWUGJ3ZlZjUjFpc0QwTF8tQ2RaTjZ2NUF5NXhOWld0LVZQUHhhbnB6c0JUWTlSbzVXbmtHSXpoU1BMREw5dG43QzdlaWdWN1Y5NVQ3dEkzMXlZVjg0MnlaT29iNzNVYl9pS1lRcEdjSW44QzRhSEhhSnpfS2hYZWRVbHdpMHdGNUxKZzNzZHE5SlNEUE5Zb2tKS0lQZkF5c19ZNC1zTzg3Q1VCbEpFUzJsb0JURjZ3UENVWDQ?oc=5"
-        },
-        {
-          "outlet": "Swarajya",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamRYOTFBZkx2ZDNfc3VESG5uMFZWYVVQdTlCc3pFSGNOOFhtZlYtVEFIVlhyODdaSmRBdnZSbDF3TW1iWnQtczBEVEhEOWpaaG84dEswMlJBWmx2c0hJTE1VRE56WkpFWnNqUkpSUEktd2xzX0h6bHExdWRURm9HTzZlVUhPbjl4MG80d3lUVWU3QVdiTFlHdFdtT1hzcUhIdGxvaGtqa3NKVHpY0gG8AUFVX3lxTE9Xd0U3WXpKNUk0RmF5YUZaYmhYOEtBNHNTUFFQQlltX1BlRFVvV2NwbVBtZlFDRWwtelczZzNXeFJQNUlTVnZoSjVCMU1HQ2tudUF3c2VsR0xKc0x6QlRva25VdDJjUk1JTVZrMWJhTm1zalNYM1E3dFpmV3hqTkNmM3VtaVB5S0hONXdOYnFVMUdzdS1aZl90SnZjV2hlV0JkVU9MVWxGcTVOYzB0RWU0T3FXTkZNRGdaeHgx?oc=5"
-        },
-        {
-          "outlet": "The Logical Indian",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMm1PRVRYaVNhQXF4bUk5NDM1RlJKNjlMWkNMUnA5eUc0bXpZTTRubTdTTHpVZl9oc1UzNmlZaTZZNk9OVUtNUWVOWjVQbGRFUUJFMHIxM3ZjdFg2TG44SzBubldlWm9kbWViTzlOUWFqR2RXOThv?oc=5"
-        }
-      ],
-      "source_count": 13,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar museum ranked among the best in the world: Top 10 museums and why they should be on your bucket lis. A crime-related story. Covered by 13 outlets, including NewsBytes and Firstpost.",
-      "image": "images/bihar-museum-ranked-among-the-best-in-the-world-top-10-museu.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "over-50-shops-gutted-in-patna-market-fire-the-times-of-india",
-      "headline": "Over 50 shops gutted in Patna market fire - The Times of India",
-      "summary": "",
-      "date": "2026-10-30",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMUJ5YjRwYXBsZzhpeUZ1RW81WHdZVDIwVlpUSzNIdXhtNk12UksyZlI0TDFXZXVxbkV5cUxLcGMwMGpYaHc1cW9ZQzVPc3BObzlKRnQtWmlKd21CU01YY0pNTzJvSnJDNDNLM3NNUUIxMTFIS1IwcHhMTHZIejFFSk5seG13cWFCcnRMZzdTYkhVRi1jU0NXQjVjVnVSdG5QNWhOb0pzV2lCa2lHaDBEc0VIUmrSAboBQVVfeXFMUFlwdjdjUFZiLVRLU0hEX251dF9fb1B5MjZQUkRRZktBek9GMmNhY0hQWGVaMGdzeVBPQXFBZ3R1NHY5Z242d2RaUjBXRkFIT05nTUY3UmZfN2pxajNSRXktNjNsRXl3bmZWN2JvckxESTlIN0cybDJ0THUwaUxmWHo3Z1ZXd01XOEVrSUNHa3NwTExxZ2l2aVpOb2k2b1pXSUUyZnJNZnNaTHdUblc1SzhsZl85dFRJdFNR?oc=5"
-        },
-        {
-          "outlet": "urbanacres.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0lTY3FlaVh6ZFhjMlkwV3pnN3FZQl9fTEItZ1IzUmRBM09qX1FvWnV4Q2dtR0ljVGpJNXoxUWQ0cWxSUkNQZHhsRG5MZ0Q2TnRGcHJGVlhpcHBoemFxVkxqZDk4UWhaR0dWTDU2aExCbmpHMFFneW5TRllOaXZsMUV4X19ZOVItamtSa2VOZllxNWhXenc2SmUybk4?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Over 50 shops gutted in Patna market fire. A crime-related story. Covered by The Times of India and urbanacres.in.",
-      "image": "images/over-50-shops-gutted-in-patna-market-fire-the-times-of-india.jpg",
-      "image_kind": "placeholder"
-    },
-    {
       "id": "bihar-drinking-water-project-wins-rs-1-774-crore-nabard-back",
       "headline": "Bihar Drinking Water Project Wins Rs 1,774 Crore NABARD Backing - Urban Acres",
       "summary": "",
@@ -231,8 +204,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "cyclone-arnab-bihar-issues-alerts-in-26-districts-heavy-rain",
-      "headline": "Cyclone Arnab: Bihar Issues Alerts in 26 Districts, Heavy Rain Forecast Till October 31 - DD News",
+      "id": "cyclone-arnab-s-aftershock-hits-bihar-two-districts-on-red-a",
+      "headline": "Cyclone Arnab’s aftershock hits Bihar: Two districts on red alert, Patna under yellow warning - The Statesman",
       "summary": "",
       "date": "2026-10-30",
       "topics": [
@@ -260,6 +233,11 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzhFSzRXMHFUWTVLU1BYQzFkYTNnblBHVzVOT25PblNWdnY0U0o4azFlN2YtQnZlR01sWlBaUDdxc3A1OFNjQzFXLTdxQWpSZThidXhQSWRaV1NzRUFCX0docHpraDMteV82RnNDeHZDQm43bzlkMkU5a0I5YllhOGU1S29PaXVQRkN0N2JpbEFJNkZUSTFhWk1nM1UxZ9IBowFBVV95cUxOZzZGUXFxTFVPTWdCR082eEFudk9zZVVZUTlVemROM0w0emxIZ2tZQkNYRV9oWEJGQ3pOaVU3R2pwSjBEVzVvQm82b2drcFB0M0lld2k5dEFXU3lKS0ZqdHdiZzhhWWlrWm04bUd3U0trOXZ6UW93WElDOWNJNVpEU2QyYzdIdEV0T0RsVTNfX2NGWHBJa2ZQREJGNzFnU3V1a2x3?oc=5"
         },
         {
+          "outlet": "The Statesman",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZzNlN2RIeW1iVjM2QjJOZ1BlSk5QY05CZElVYXRPWDF2UVhRWWowZk5hMXU5bTRWNi1zTmxDdVNCLWlZSktib19iNkw4eV9GMDN5Rkh0ZXB2UFk3UmhUZENxNk5odTFqRjlMdi1iYnByYTJvNEExcEJtS2NMOW9vTWRqRm9GcXZBeTl2RnR1emdiWU9hS3lFMXc5ay0tMUJqMzNOcGM4QkNxQzBXbTJ6cXNRa3YxYTNYbXB5VEdzSnRyNDR4Njcya3lBMXEzc1ljdkx2ZEVUTVTSAd4BQVVfeXFMUE1IYTE2bTh0Mm9EUmV4UGJHdGl2ck56Q0t3QVBob0VJd1owbFBOa3Z4SXpCZlJlTlUxWXJxck9LdkduVi1QTVRQdWZkNVhhcnVna0s2ZHVxS2hjVENYdDdlejVyQmJzRjBLVnducnFZVWU0UWd1aHVvMWllSkJtaEw1OE9TeE1tMmp4a2RXcXF0a2wtVjhVSlBsVDJIZ3hSbzNEVGlDT1hTblhMRlp0U3JDdkdFbTk4RlhYUUcwRFk0eW1JNkRJdTRNQVh0MWpiM2RBMlVYTkVOS2JJdGlB?oc=5"
+        },
+        {
           "outlet": "CNBC TV18",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlXallEa1J1MThxSHJnSlFrd0N6aUJGN0hUY0o3WE1KUTRSVVAzNk5ZSFlXQ2puZDc5ZVhHdllFRTNnRW9jZFBBWnpkT2lNY2w3ZmJiTl9LWk1XM08tMHlHYmdqZnprdjJoUWVaZm92UEd0ZldaNHdWRTQ0UE9YSGVOTFVEUFFobFRfS1prbjhveFc5WDFjZ2QtX0h3aVNjaWZXTUFPdUl0WkU4clRNX25iaGlwbnRv0gG-AUFVX3lxTE5UdlJXZ09uUFVmUllySktiZGxoZlZhbXB1UENqMUltUWo5QlZ2aUpQS3k2QzdvbzJJY1hPaTBISktxWHg1Qmh2V1R3aDd5UTktdXJiSVowa0JPOWtWR1RzRzZJLVFTSFVYOGtmMXdKajBTRFJlSTFlbUVLb0VlRGRpanlHTy1FN2t3Rl8waFh5V3JnajAxRmdoR1ZVRmhWSGxNRllQX3Y2aWhRMXZxckJYX1pxNjhKX25oX3VpQ0E?oc=5"
@@ -270,12 +248,12 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2Nxd2I2ZV9GNFgzZXY1RUxNRFpJc1Ntb3ZlTElTLTA5dW5wZGRVdkJzWTF1a0Vqb0JueEw0SGYtMDZSN1ExdHozN2luR0E4QkxWdnNzbGxWSkRoSkxVNklIWlBySG9qOVR5bHN3bXNLQmdlMTJxMDhsb0I0akdCMmo2T1RxbVNqNFFPdnpoNHBQNC1zaWhPN3VVeEpPLVROYkx6dtIBqgFBVV95cUxNdERkdHA3RHRHN01kblJzLWxBdmlfajZHUGpfR0dETXpTT0syaVZSU25VcV9hd2syRk1BakJMR1JnWGJkc0hmYjRYUFAwQ2pNck41YUJVN3hQaURueDkzYjN2M2dwY01sdlhEUE15TlhUZnJLTzk1SzNmaHBoSExPRXRGTmhEWlNOY0dUNU1CQkFaSk1FLVB6S3hIZ3I1M0JudGhjOV8tSGQyQQ?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Cyclone Arnab: Bihar Issues Alerts in 26 Districts, Heavy Rain Forecast Till October 31. A weather-related story. Covered by 5 outlets, including The Times of India and DD News.",
-      "image": "images/cyclone-arnab-bihar-issues-alerts-in-26-districts-heavy-rain.jpg",
-      "image_kind": "photo"
+      "brief": "Cyclone Arnab’s aftershock hits Bihar: Two districts on red alert, Patna under yellow warning. A weather-related story. Covered by 6 outlets, including The Times of India and DD News.",
+      "image": "images/cyclone-arnab-s-aftershock-hits-bihar-two-districts-on-red-a.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "17-dainik-bhaskar",
@@ -292,9 +270,19 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWVTd2M5VUppQnhLS0F6ZFJBSU1LMnVMODhWQlBoUlpsLVhwd0xid2pkRnhUSi1NRzlXSjJHTXBaMVloYlJoa3pYd3FOdFBPMW5qdUdXS1dscGdoMmd6eHB6RTRFdmpyUXlmYW9seHB5UnJHdUNsV0prYldzVGdmeWZCLWpUZ1R6VkFOREpyTkNZbzNxcWdRV2JDSmh4cEVScGRVeDM5TDZMQnBSMUU5NWZn?oc=5"
         },
         {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeld5dFhlTXdVbXVzdlJiWU5sZUd2OXA5X1RnQ0tLcmkyMFVRYWt2czdVVTJnb1gySzdnYUNMRjllendpNkQxQW9VQlZXXzJlV2JEQ0hTMGlBMkQyQnRhTmxDcGNhOVNXRzRWS1JrbGxpWk5qN2JOUnZDVTEwQmVNeWZiR3A4dE5xYWFiWFEyaXF5eGpIb2JETGd1NndUQ2N6NTAxYlNOSWc3eHppVGRLMmJlUVp0U3E4ZGfSAb8BQVVfeXFMUFBtYUZ3UGxNNUg0WmFBaGpuOFVfZThLRWlEd2JXQmF0bkR0T0VfYmR0dDF2THNxVVg3R2N3enFyeWY1QnVUcnUyeVhwVWhtVzhpaEJCWHBsa1BsUHRfQ2JUNll2VS1RWkpPc2kxYWFaNWxuQmtVVlFxOFlOVVdpeHNxVlpWazVRTE5laTVlRmR2c2FGUEt6c1gtLWJlaHV5b1YxdERYbjV1emloY29ndFJyR0NhM3hQRnEtVGlMeVk?oc=5"
+        },
+        {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR2V2Rmk0WDhjam0xVmxPRkVMcGZBOGdjUkRmbUVDNC1pWjA4eUR5d2hNZjRKb0tzNEpzenl4QnZxd0lXaVNBNXNSeHotb3AyN1BNS1JDeWVNMWRZSkowaXY5QllnWVV3ZnNBMmd3SVJ0VkV2d3lneFVUdHlzeXBPbVZHdVprSEo3SnVFdlJnZE9ZSkdWcXN1QV90ME5xdVdzZkZLMzRueXIyRk10dF9pNC1QRk96S2NW0gG-AUFVX3lxTE9yY3NDSjVFSXUyM0haZFI5N3FDU2pEQmlpZ3NlSW1lZFB3RF8zZU9PbWpCbEpJcHpDOE9GYXdBa2c1RldzbVBmSkRmNWVoaV9fQmQ4bU1NRkxZSW55c0JVTTZpZ3AtVDdKZDAyZmUyVTV4SFl0emJvdGp5ZXRLdHBuYld3VEVkS1JKTGVNTlJTdi12TWJMSmpNbU92NlNfWW0xQmItbzl4aVh3RnhXX25CMnFQNE5WY1Zqa3lOWHc?oc=5"
+        },
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUG1hRndQbE01SDRaYUFoam44VV9lOEtFaUR3YldCYXRuRHRPRV9iZHR0MXZMc3FVWDdHY3d6cXJ5ZjVCdVRydTJ5WHBVaG1XOGloQkJYcGxrUGxQdF9DYlQ2WXZVLVFaSk9zaTFhYVo1bG5Ca1VWUXE4WU5VV2l4c3FWWlZrNVFMTmVpNWVGZHZzYUZQS3pzWC0tYmVodXlvVjF0RFhuNXV6aWhjb2d0UnJHQ2EzeFBGcS1UaUx5WdIBvwFBVV95cUxQUG1hRndQbE01SDRaYUFoam44VV9lOEtFaUR3YldCYXRuRHRPRV9iZHR0MXZMc3FVWDdHY3d6cXJ5ZjVCdVRydTJ5WHBVaG1XOGloQkJYcGxrUGxQdF9DYlQ2WXZVLVFaSk9zaTFhYVo1bG5Ca1VWUXE4WU5VV2l4c3FWWlZrNVFMTmVpNWVGZHZzYUZQS3pzWC0tYmVodXlvVjF0RFhuNXV6aWhjb2d0UnJHQ2EzeFBGcS1UaUx5WQ?oc=5"
         },
         {
           "outlet": "ETV Bharat",
@@ -307,10 +295,10 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3NmQ0FHN1plX2gwd2oyS1hPVEoycFA2NE1mXzNmX3l1TXNHSlR2YXlINUE2aHo3S3JQOG5mS0JqeHNLNTNUTWROdE5tTUJzM2Y4TEtFWkZJODBzS0k4VFNmclZDQXlmQmRMVW16OXB4UDdJeENmYkdrOUZHUUN5MEhaUnhac3JBRlMtTWEtZVFoYWozbTJOaFRObG5YYm5fenJjbVZWblItUWkt0gGyAUFVX3lxTE5fcDJQejVKRlFpVl9KbC16a2VQczNMM1k3X2NVM0RTQXBRSWhlbGdGMGNBYVZGNzFXUmZYU19McFNZNjhqQ3VqRVczY1ljcFNkTVRZcFRoOWJlaEFwMHg2LTFEWm13TVYyYjFJSmhJRVRTSFgyNjFXSmI2aXZMNHBlMTlRNDNNNi1hMktfaV9vS01jRmtBNjR3MFZRN3dsd3JvcVhEamhLSHE2VERoclJvT1E?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना में गोली मारकर महिला की हत्या: बेली रोड पिलर नंबर-17 के पास घटना, महिला क्लीनिक में करती थी काम। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Dainik Bhaskar शामिल हैं।",
+      "brief": "पटना में गोली मारकर महिला की हत्या: बेली रोड पिलर नंबर-17 के पास घटना, महिला क्लीनिक में करती थी काम। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और AajTak शामिल हैं।",
       "image": "images/17-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -326,6 +314,11 @@
         {
           "outlet": "Dainik Bhaskar",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdElMaDRXMEJmUVh6LWUxZmdFYUMtbjlMUHBEMHctSmlHSnQzZTdYM2lIaXZrckNCdW9VcnNiak53UVBJaV9ZSHcxR3N4WV96Z3o4d05mNmZGS1BzVlp4QmtsazYyS0VCUGV5dGd5N0dlcnoxTDF5b0JqX1VOZGhCRDhOZEI0TklqS3g4Ynl1aVR5TVk0SDEzT1lRQjczTzhERERVLWh0cGtBSENCdjBDNHlWOEtJZ2tZY3hQT0ZFQS14WDjSAcgBQVVfeXFMT2xNQmNFNk13QldnY2liWktabFBUWlNleXIzN2NXVkNQZ1RaYi1VV3luRGczbzczQ215b19wbmhRdF8xX0tSYU96VTEwVUh3SVRidENqdHlCNlpybnVSZkJNeVFNZUJBdEctbUxGMUJpRUR2WFBlZHpMRnB5VWttS244QmFxLU5KWEs1Qy1WT3E4cGNrcjFjd2Z2b25HNGplWEEyaUc5REtQbHNoaW9KdTlhWXpZazFMQnQ3dXd1UVJGbWc2Ym54bVg?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnBQZlVfQk5SakNuLXphUDJadExFbXpCdk0zTzRSZXduWGFSUkpwNWo3MmhKZktFZjlyWG9HZElWNXo5UlhBUlNrS3lEZ1F6VFFiODZSb2E5NFRQQWJ3SThtTHJuMWhueGF3bHRZV25obXdjTWFjZ251a3JIMUpKWWpJQlFKbzdtWVhXcnRYS0xYQTBzdGhPZ2pObE9Qa2RMa2gwRFpwT2Rsc19VT1U5OFFaY9IBuAFBVV95cUxOLWp6a2ZHbzExN3Y3b2gzRUtHSFlWS3hUak4wWVVYUzFxX1hnai1nVVVjckdyTGp3YVl5YjlVZ0labGRJV25fMnBBMENSWTEwekpnUmRjNDM5ZmlwbUVSTlVvcUJLMzY2QTJsU3lFZDhoU29aeVpvd1VMR0J0VUw5TkVsWFZOM1ZTbDZVXzNUSmhGWkpxZVNKWksyTkItWFp2TFZhbVNsNUdia2NlSUh1X3BJQ3BqSmVx?oc=5"
         },
         {
@@ -334,36 +327,21 @@
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMXBJQmNRMnlTOXY2NjBFMmRILU5QdVlOUWQ4eTRtSWk1T291eVBaQXJIMUltdUF3UzFZYUpzSDZidnBvempHV1B6blZjc1JiYTMzcW4tV3BRRnF5LVpEa2tPSmxJcFNyUUx0UHNBUzN1VXhPRDJ1SFB6d3Uxa3JvXzlVWHlUQVh0ZE1rTnY2VTZvTVQ0NXVXVXpTV2Z2X01Jb1BVQTVTblNENWdGUnFYMG9QTmlDQjhvLS1HU1NsaHVNOHdEYTQ5UWd0azNtbFlIdE0tRFVSNjZfalB3cWQzNHNGMFhDMDJnM01z0gHwAUFVX3lxTE5uQWkyYzUxSkNTLVpXVm5Ba000S1hfcXZFUnZGcmJlSjNRNGE1NTlIMWlYRTM1RkdneUVkYnd1bjEwbHhteExsYU55ZUtTMDh6R2gzbjY3aTJrMnRxM2VZdWJPcTlTZF9UZ1luRVJVRmNsNS0xUnFuc2ptOGVTZmVjOGFwdXNqSlZSSTFLUUlhY0pDTjdzdHY3Ykl2ZkMzZVF6TXFnRVJTNndGRXpVNm5UNDExNDQtMGJpWTQ3dVdkWktxN0htdl9YMVBWeklUWTVneTBJT3k2UnFtelpnUzB1Z0k4eElhMzMwQzhKTmFhVA?oc=5"
         },
         {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHFqYkd4RlJ5UzJCOV80RVFMUlpJVVFoQXdNeTROcHBWX2pVQ0Q5cDJiLVppMGhkNWs4bFF2MUx2X3QzZ1NlY1dvaG5sUHVQU3lYVXRDNVFCaDFMM2JJTnBhR0Z6MFRIZ05BemhLQ2t0R3V5X3hwSHdPVkRFUm5SNDd5OVJWNFBuWlRBTVE4ZDEzYUY1dWNRT0gzNnlEZU5ITHRXbnJGdHg0WUN4WjdRSVBsemllQlpZSWtEMERvMldzaDRubEpBS0N5aTloWTV2ZXg5QzlGaE9YMERIQVQyVtIB5gFBVV95cUxOZ29ncXFXaVpzeDNSeXF6TUoyVW1HQnZTODFjaDFIOTJXSHhmZWlOMURCVGhhQW54TXJFS3RlaVB6MU9rcFhYRXVoRW5OWm0xajJLVHNlWVJmZ2R0cWZFdXd6LWtfbGVhcEw4Q3ZGZWhWMXBwLWpHel9JTVVpamNpbENYRzBsQzlNLUR2bnEzVVJTSExMZFVlZ1lwZ3c3dGEwcXYzYjl2VTdDSkhuQjZDS2I1VXdEQ3p3emdWV0F2YVc0NWh5UVRBYkpXNzg4eGlhSFNaRFhvOXpRdmVEWGNYYjZ1NDhtQQ?oc=5"
-        },
-        {
           "outlet": "News18 Hindi",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcThObEktME02bzRPV3JZSlJ6NlBpcmcxMDFfajljcVJhTlRkcGxMbklpNWd2NDBhTEtlZVR5ZGRsMzl5QVBMQ2RIdFZaSXFFQm1vZzVZOXJJY1RIdWplNmFNZjNQaVBZcTdsWlZGMlp5d3VGT1Uwd0xKaG91N0N4aEotZWFLeVRCTVpDc0o2MVFwZHcxaHpFX2NPSTlCWU9sZ3dsUkx2aG02OWI5bG4wZUJ6bzRpVER6emlQQ0ROcVNXMHJyNVFpeTRTZTlZeXBkRnlnRFAtUFdHa1VzQWViYWs1akx1X0M1Y1JGTVh0YlpOMEdoSXRPZW5xYVBHVVMxZjg2X3dBVmpoZDFiOUdMaEdnRHNFbUdDdlJGSzJhc2RZREE1Y3ZMYVNFcU9heXRlSGxGcTIxeVJEazTSAbsCQVVfeXFMTnE4TmxJLTBNNm80T1dyWUpSejZQaXJnMTAxX2o5Y3FSYU5UZHBsTG5JaTVndjQwYUxLZWVUeWRkbDM5eUFQTENkSHRWWklxRUJtb2c1WTlySWNUSHVqZTZhTWYzUGlQWXE3bFpWRjJaeXd1Rk9VMHdMSmhvdTdDeGhKLWVhS3lUQk1aQ3NKNjFRcGR3MWh6RV9jT0k5QllPbGd3bFJMdmhtNjliOWxuMGVCem80aVREenppUENETnFTVzBycjVRaXk0U2U5WXlwZEZ5Z0RQLVBXR2tVc0FlYmFrNWpMdV9DNWNSRk1YdGJaTjBHaEl0T2VucWFQR1VTMWY4Nl93QVZqaGQxYjlHTGhHZ0RzRW1HQ3ZSRksyYXNkWURBNWN2TGFTRXFPYXl0ZUhsRnEyMXlSRGs0?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTEpfci1XRHI3SndNMVZjQzRLZFl5eE5RcjRfV25yR1kzSDZuQXR4MlpOeDZocHNISkV5V1Bodno3M2lFb3JGdlc0dGVjdnpYM3pGbjFRbHVoM0ZUcGcyaGQ3U1phY1NIT1o3dUwzYnNxNUFjNVB1MndTUm1MNXhyZUxrRnI2Z0dCbW5ldzR3X2lnT0ctTVJGYkZRSWItdF8wYjBST253SHY3U0VuTktmaFdaU0pRUlVMbWgyVHVuOF9WU2hzZDlwbkVqUXd3dEdB0gHWAUFVX3lxTE5IWkhJeVAyeEl1SUJJUkRPTVFyRkU3U216ekY5NG41dmZuZ0hMZERLM1d1NS1IY2ktWnh0ZzBDMFFtdGl4eWVDcXBfcU5uSGJZOEpfVWhRRGtJTEJzLTBRLW5kLWp6OXUyNTZGRmdOSmZldEo1M3M5X1BKM18ydVFDY0FxbFprZ0lNSlpwVVVLRzJYYnJnTEJMTDVhWVl5ckM3OGhYUkI2M255WWYwSkFWaHZjX0R4S19GMGlxcHcwRUxYUlFNaU9aQXlONUIzOXd1MmYxNkE?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLU5MazB4TFdtelFpdkpLV0lDbmhIa1RRMGR6aHBSQVVCOGFlQnhTdl83WlNPaVNqTkF0YklZVDUzVzI5dXRia3A5OVAyYXlyWWZVSi1xaEROWTQ5dFppQ19SLXNiWnlwbHMxUTBpZXV6cjE5Z2xoSjQzX19FOGF2amsyTG1KQjJXR2V2M0dWYzJGenpaMTc3d09LdVVrb3BsY2s5UVRJcjBOSXZkUG40OTlyMNIBuAFBVV95cUxNVmpFTXdOTmRmb183Q1VPSFlwWXNXVW0zN1dkYkZQVU1IS2tpTEF6ZzVqclN1SGFjb0Uwd2hNbUZhdkdEb1hHVjMtNGdJMF9rQUlIR0pTcUJXOERwSHFjbW14dVJpdmFDZU9lSl9sYjR0UzRCWmJXUzc5TDBWbkNIVXpDNy11bnJBTW9lcWtuLXlPMG9fYzk4N0VfQTF0eEdJb0E0b3BadGN0WVNxem5OMWxFdjM2YXFz?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar Weather: सीतामढ़ी और मधुबनी में रेड अलर्ट, पटना समेत बिहार के 32 जिलों में बारिश होगी; अर्नब तूफान से मौसम खराब। मौसम से जुड़ी ख़बर। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
+      "brief": "Bihar Weather: सीतामढ़ी और मधुबनी में रेड अलर्ट, पटना समेत बिहार के 32 जिलों में बारिश होगी; अर्नब तूफान से मौसम खराब। मौसम से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Hindustan शामिल हैं।",
       "image": "images/bihar-weather-32-hindustan.jpg",
       "image_kind": "photo"
     },
     {
       "id": "patna-airport-to-start-customs-and-immigration-facilities-fo",
-      "headline": "Patna airport to start customs and immigration facilities for international passengers by January 2027 - The Economic Times",
+      "headline": "Patna airport to start customs and immigration facilities for international passengers by January 2027 - Trav Talk",
       "summary": "",
       "date": "2026-10-29",
       "topics": [
@@ -379,17 +357,12 @@
           "outlet": "Trav Talk",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXppZHBfa04yV0pOSHJkOF8tTXo5MlhjUUdJd3hxdkQ2a0hNS2YzOGRoSzB6MkR3VXlwWGpUekotZWZJbXFJbjkyY0VWU0tzUmtJdmsxVE9MNVlXbFlZQWtuQi1Mckh4V0NNaHdJQ2lweDJ5X1lUU3RsV3haUEdKT2dseGVBVWU3eFB2NF9RS0lhNFMybGhqcnpFZjBCSVI4QVpoa3JrcUJ3bnlWcHRJSUp2OTM5T1htR1c0eDI1a3lCYnVYdFdIdA?oc=5"
-        },
-        {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWndfQWd5QVNhd1puRks4UV8yVkQ2MkdVOWhtcDNTYkxfa1BDY29lXzYzaVdVODlqRzVaQkdkeGZKSURQR0ZjRTJfMnEyOWRSQnl4Y3dmOXhKNGJXeEJwa1VNeDBET1BnUlpiVGY4LVZRSm5WUzVNbTNyMExLdGVKZmhaV0kta1ZLNl8xaGpUUVF5RzdCQkhYNHQxY3FsbTNjU3NQQVpVZVl6NjRPak9HS0hmTWxaaEh4VVdSS183Y3d3QjFraVY0ZXNlVnpyZTV6MkdFcjVhYXJhZ1p5LVBxUHpCWkdUdE05dkpGd2NtS2lBZjctNmxhdHBfbEN0cFNWelBvUnlR0gGLAkFVX3lxTE56dS1aamMzT05hZUQwUk03Q0U1N1d5ZUVDTFIzYmZDWmwtLWxsWEFsZ0J5RU8zbWQ3MHNnRkpfTjQzVWd5NUFIVVpLU2NmeU1yamxjN3RoUGpSYS1GOE50S3JLa0d2bC1vUlVYSTltRHRoMEExNkRmQ0VmRlBiZ0YweEgteXN1TlBxcWF1NkNPd0ItV3ZOTUgyUUlTRE9QNXRqOUk4OVpROXYwUjVXNTdxMTVua1pWdkhKNm1XUlJUMjhXaGdVLVBSbWdGUjZ2dHJHQnZwYWtlZ0JPS3hIbVhzOTlhM1o0ZjRhQ2tNN1BLbTBkTVc2enN3WmZnWlF1WE05OUZ0ZUFSakpQUQ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Patna airport to start customs and immigration facilities for international passengers by January 2027. A civic-infrastructure story. Covered by 3 outlets, including The Times of India and Trav Talk.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna airport to start customs and immigration facilities for international passengers by January 2027. A civic-infrastructure story. Covered by The Times of India and Trav Talk.",
       "image": "images/patna-airport-to-start-customs-and-immigration-facilities-fo.jpg",
       "image_kind": "photo"
     },
@@ -500,14 +473,14 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMHc4WHMyZFFiVUJ1SmY1RlcxalQ0dU1vS0tXWldTc3F6QW1UX051dTN0eXFfQXR1T09oMUlxUGlZM2J6T25DQzBCOGtfaU83Y0lvbVZCem0wWEluV0wtUFh1d1BGdlVsVmpCV0hFNGNTOHotWlNfMms0bDBaNHRNSXVDUUxzdVB1V2Z3REJFOFBtV2w5RVR0cTV5cm1UU3hmUHUtTTEtazZObWYyOUVvLWlDWW1GWl81bGdnbnJYM0JkRFI0?oc=5"
-        },
-        {
           "outlet": "AajTak",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHh2WTllNjVqVUpFWGxhNV8tb0I4N1duV2FHckRZYVZKSzlWemtnUlJ3Y0RtcnpVUWxPY2FBaGFtVV9Ic1RvYXZIN3dRWXRpS0Y5bHhqWUthNE04V1VKLUp0UnEzMzhKWks3QUdwZjY2MncwdmduakRIcGlTSHdUX1lkOVFtY1JMaVp1c1Y3SlgtakljRjVUU1h0dHNRcTJoY3c5cXU5V1FaQmo0TWRhckFtMHNRd3RlQVd1dmJJRktCZ9IBxwFBVV95cUxPV2xmWWNQbUxOeWFRb1pQYnlNSnE5UU9yYy13b0NDczlJaGlraGN1V0FyZW9PS2FjTVRDbTc3WUM5VjRqNTdHUnM0NG1nM1JKaXZFb1FzRlY3M016cnpCbUh5MkNPajJBNEhEOGliRjVtVm82a1hPSmExZC1SS1N3QkZmZHlzWEhXQklWZ0UxUHdXYUxpcEFsT2pHY21BMk0tUHVjR2ZtUTZrX2pwY0MzU2RiRE45U094cmk1YkRJd3F6NmY4OGdr?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMHc4WHMyZFFiVUJ1SmY1RlcxalQ0dU1vS0tXWldTc3F6QW1UX051dTN0eXFfQXR1T09oMUlxUGlZM2J6T25DQzBCOGtfaU83Y0lvbVZCem0wWEluV0wtUFh1d1BGdlVsVmpCV0hFNGNTOHotWlNfMms0bDBaNHRNSXVDUUxzdVB1V2Z3REJFOFBtV2w5RVR0cTV5cm1UU3hmUHUtTTEtazZObWYyOUVvLWlDWW1GWl81bGdnbnJYM0JkRFI0?oc=5"
         },
         {
           "outlet": "Inshorts",
@@ -523,7 +496,7 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना की खेमनीचक सब्जी मंडी में भीषण आग, 50 से अधिक दुकानें जलकर राख; गैस सिलिंडर ब्लास्ट से मची अफरातफरी। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और AajTak शामिल हैं।",
+      "brief": "पटना की खेमनीचक सब्जी मंडी में भीषण आग, 50 से अधिक दुकानें जलकर राख; गैस सिलिंडर ब्लास्ट से मची अफरातफरी। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें AajTak और Jagran शामिल हैं।",
       "image": "images/50-jagran.jpg",
       "image_kind": "photo"
     },
@@ -613,7 +586,7 @@
       "genuineness_label": "Verified",
       "brief": "Prashant Kishor's Jan Suraaj wins 1st Bihar Council seat, BJP loses Patna Teachers’ Constituency. A politics-related story. Covered by 3 outlets, including The New Indian Express and NDTV.",
       "image": "images/prashant-kishor-s-jan-suraaj-wins-1st-bihar-council-seat-bjp.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihar-launches-month-long-anti-drug-campaign-cm-gives-free-h",
@@ -685,20 +658,20 @@
       ],
       "sources": [
         {
-          "outlet": "ET Government",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLTQyTDNzT2x6dUtKR2hmM2JnOUtmd2s4Q3A5dzZUZkVXUnhpX2FBankwRXdVdTRmd3pIS2lBUkRBYjk3bVVEeVBMREZlTjJPTTVKQVU4UkVnWWxQR0NBei1JNXhvMm9PUFpNd2s1bld0Qmx3c3hvZ0dqVjI3QktBZUN5U3VnSWp0aHZqM21QTUZ4bXpRbjNMb3ZzNHZ1aU5rMGpPZ0xpbFB3UW12LXFfdVhaMGQ4MUc3SkJkMHRYeTU5X0RpOFUxTUlvVVB1R0Q2NTdsTmtRMFQyOU1CYzE2RFNsdkFud2VXVTB4ZUlmT2loTTVFcEQtQ2haNNIBgAJBVV95cUxPNEFybXZiWDltazRjMGxmN2pKUVJjMllwMWxnUDNZVnFJMHFjblZCUTFRalhMS05EcUJicG9Wd0lnLTFLeC1YV29MUkQ2THZlcDl0T0RyX2ppYXc3NkVKZG81OVhxRW1KQ2tYdlluOGxONWhCUWN0OUJ0Uks5b0pCQ1Q1RTFCeGNQOG1wTW5GY3cwNWhWUk5zcmloZ1hSY0l4Wk9mVktSMFJDY3dkNVZHeER4djB6MGlVU29BYUVRUDlPeVhzOUI2bV80dTZKS1o0V0lPcHJZU1JhR2FTRUtuZjMxSDJ3N2RmcVlRelRRQ245N0ROd2M5UXRMRzEwUTlQ?oc=5"
-        },
-        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVdNNklvbHA4TENudHJyY1g4MlI3RFBKeFVLVElQbl9lSkMwX3pnX2J4VFE3UGIyb0taMFQ3VEhIeFBud1BfWHN1SjNuUUdLOVVoa2FrWFFIN3BBVm93NzUyc3FicGR6eXJvdkZxWmk5T1ZDYUJKeEUwbm5wSTNuRkVua0tZNG01VE1UQ3M2V3RaOFYyNElMdHVqaFhndVFud1NWaW5xMG9oTVlrbldYREtHWDZhRTViM2xvZE1qVkMwMlpRTkFIRXRR0gHPAUFVX3lxTE5md1pRdUtWRmlxVFdWZ3V6X1hSXzk4LU9yb0Fyb0lOMVlvZ1p5U21XUF9xMGVuWTJhZ0dXanhsMFk4dzEtU253eER5cHVYeU9ZQkhZWGxHbHpDU0Y0dktheXNDMzR0N0hwQk9wZVBWVVBsaWo5LXlHclhPSmtxVUV0d1V5QzhpREc2SFM3OWptNThGWkY0V3J5Z2E3Y3pmQnhUVmNISWNNV1hxMUpzVlRQazV2a3RsXzIwVlF1ajlqRGh3bFNiaHhBVUxBdEVNbw?oc=5"
+        },
+        {
+          "outlet": "ET Government",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLTQyTDNzT2x6dUtKR2hmM2JnOUtmd2s4Q3A5dzZUZkVXUnhpX2FBankwRXdVdTRmd3pIS2lBUkRBYjk3bVVEeVBMREZlTjJPTTVKQVU4UkVnWWxQR0NBei1JNXhvMm9PUFpNd2s1bld0Qmx3c3hvZ0dqVjI3QktBZUN5U3VnSWp0aHZqM21QTUZ4bXpRbjNMb3ZzNHZ1aU5rMGpPZ0xpbFB3UW12LXFfdVhaMGQ4MUc3SkJkMHRYeTU5X0RpOFUxTUlvVVB1R0Q2NTdsTmtRMFQyOU1CYzE2RFNsdkFud2VXVTB4ZUlmT2loTTVFcEQtQ2haNNIBgAJBVV95cUxPNEFybXZiWDltazRjMGxmN2pKUVJjMllwMWxnUDNZVnFJMHFjblZCUTFRalhMS05EcUJicG9Wd0lnLTFLeC1YV29MUkQ2THZlcDl0T0RyX2ppYXc3NkVKZG81OVhxRW1KQ2tYdlluOGxONWhCUWN0OUJ0Uks5b0pCQ1Q1RTFCeGNQOG1wTW5GY3cwNWhWUk5zcmloZ1hSY0l4Wk9mVktSMFJDY3dkNVZHeER4djB6MGlVU29BYUVRUDlPeVhzOUI2bV80dTZKS1o0V0lPcHJZU1JhR2FTRUtuZjMxSDJ3N2RmcVlRelRRQ245N0ROd2M5UXRMRzEwUTlQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar govt to assess dam safety within 8 months, clears ₹11,096 crore power distribution upgrade. An economy-related story. Covered by ET Government and ThePrint.",
+      "brief": "Bihar govt to assess dam safety within 8 months, clears ₹11,096 crore power distribution upgrade. An economy-related story. Covered by ThePrint and ET Government.",
       "image": "images/bihar-govt-to-assess-dam-safety-within-8-months-clears-11-09.jpg",
       "image_kind": "photo"
     },
@@ -730,11 +703,6 @@
           "outlet": "News18 Hindi",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOXk3bTlCYVgtWjVBS3dUelBRSGJ3Z1BndHByeGx3WE03bm9EWGI4SGwwLURUNklNY3gyVmloN1VuM3BwaEFuNmVLaW83cVNOMkZsV1hRaUh0dG0yVzhOWmd4LUdEem04M0NUTkJ0eVBVLXpCTktZRWlZaS1FQmszUGhpLTFFaGV1M1lvOGJHcUFtczZtY2plYkI5YkY5M3RKUHMyNk1uSFcyTHkwVVZqeS10NkRkcFhOUlJLeUk5R2prMXE5RmwwTjdJakg1dUk5Sk9WbndJVjfSAd4BQVVfeXFMTTZIRl9TT29qaDB3TkgzRkZ2YXpEQllrT3lQRU1vT3c2ZmFMSmZVbGd2WGQtMTBOcWhQS3h1MWF0TVAzWF9wNEh5bnJFUmttNl94RmxsbXdOWHIxYW51ZmVwU01IRkJsNXQwdzdnYnRmUWJnR3EtdHBiNXd6Slp0bUFObm1QcEt6cUlzcGFmUmIza1hmeV9EYjVCZ2l2RlpWUEY0Ti1IbVgyTUpQd0pNU0ZtTUFTTG5vSi11SDRFSFJZYnJ0Z1lUajJiclhvU0VHZ25USUR4UHpQZ014VnNn?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHlZVjhWR3E0SXRZNktTUDRqeTQwTU8taFFCTTF1TWFhSkdUbnhUckF4Q2Vncy1tbktMMHlUY0Q3ZFdYbEdfUHNEUU1MaHZMQVBIVEd4WTkybjFtZWRpTzFJdFI0aTRMMjZQME8zSDBWN2dnQ0FxaWxtNTBZQjFFTGlrYlFkZlZrYmVEY2pKVGJLWWhSNWI3dVpuSEVrQi1QLUktQ1ljdnBKb2pVQzNCTE9BT0VaS05oRGppWmpQWHpSeHF2eTFVOHFRcGJlNV85RHlZVkpDdVM0ZmVkdE4xc0xmQWFxQdIB6wFBVV95cUxQMnlUTVdrTWRwSG9YR29lbXVJVHhLTU1pbml2NE9ScTM4TVhGQmVhVWEzRHBRcmZMM2l5MGZ1aDdMeU42cTlyZEdSUHFYNDFna2tHdGd6Yl8xUkJ2dm4yZjRNeVlnMWg2M2hxcVJOLTl2SmlTUjZDbjVxU2RYTkR4TFE5Q21NejVVN213MmR5cDROdzFXQzNQUEswd0phcFR5c1BNOHhPMHZVMmlIOEM3SzlRRmpwRkxqQ2doTFhyVnJWd3RKdHB0RzBndGhMeTFfY3JYbGhUQkpvSmt5WDB3NnZfRWxMbl90ekpN?oc=5"
         }
       ],
       "source_count": 4,
