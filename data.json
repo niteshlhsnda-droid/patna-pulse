@@ -1,9 +1,46 @@
 {
-  "generated_at": "2026-10-31 02:35 UTC",
-  "generated_at_ist": "31 Oct 2026, 08:05 AM IST",
-  "story_count": 52,
+  "generated_at": "2026-10-31 03:35 UTC",
+  "generated_at_ist": "31 Oct 2026, 09:05 AM IST",
+  "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "nia-arrests-absconding-accused-in-ak-47-smuggling-case-linke",
+      "headline": "NIA arrests absconding accused in AK-47 smuggling case linked to Nagaland-Bihar route - Hub News",
+      "summary": "",
+      "date": "2026-10-31",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hans India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSk40M1V2UVhUY2lrZ1ZaZFdLd2lKcTRCczFGbS1XcGtGSmdFcS1OejRvcnlfS0Rrdkx2bTV1YjhucTBMdHAxMFVfSXFhdWx0U2kyV1Q5ZVBJSG5CdlpudTZYYlhHeUg0U2pqWkJWMTh6cHN0bmFadExhRFNRbHNrakpoTU15UXJkMVM5YUNKdDNwWjNLX0o4NTlhOEJRdVV5NGpZbmdydTFaejBCYnZka3FmNDZYUUNCS253VjlXYkxQNlU?oc=5"
+        },
+        {
+          "outlet": "BW Police World",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOE14Qi0zLV9ZLVg3Q1hacnRzbktRYUg4Qy01eFJSM0w5NElzU3hVN1FLUzZ3OS01WDdrZm5ETWw3UHRiREZaY1d0NWc5ekFQYnBfalhZVUxYQk5Fa3F0WlRHZ1R1TGdhMnZoMFpmWGkwbmJaRUc3amJXeHpNVkJIS211S0lxbS1ZRjMwQ29aQnVSdURYZk9fVTlRRDhJWVFBa2xfNw?oc=5"
+        },
+        {
+          "outlet": "Hub News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTllETklnYlFjQ3ktZGJDbVc0Vm00N1h3dHdpUW9vWV8xTjMxVmFvN1hpcWo1ZGtVN0NxUE9lX3hteFhleEFsRG5FOVZVQThlUE9OSEhaVDU2UU5yYzFNd001OHA4bXJ1UDVWSHE1cXJjRDRJUGdpaXBqV0txNGhuMHpsNmNiV19pMWg3cXFFTlVvbnB2c0JSQ2hSQU9FSVU0WEVHaUZnTE1Ud3VY?oc=5"
+        },
+        {
+          "outlet": "India Today NE",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFRPakJUSnB0VVRob1NsQU9FeGRhUktwRzdVUVpTS1RMaWJ3Mm5UcWJpTUlhOHBYNzROWktTazAzMHpyUFdCRk1JSFB3X3BMb1FVMTRDLWh1Nm5uTWZkSWllT2tHcjFZV0JlOFJ3Wk41eU1kaWxOZTZHbERJdlhaclptMk0yN1R4N3ltUDhSNW55UDNXWDR6RjRRaEVWZ1lXNDhCZS1QdjNfa29TbEhaY2pyREI2ZTNRYlVOVFpEblo4ZGlPUTBaVjNlb9IB0AFBVV95cUxNM2UzVEd3OHJMbkhnelFFWTVkSnhxUG12TjVhSkJnRnhVTGswVGJCbktlNFRnTzl3cWR1bjZwYUt1bnp0TkxxbVBfS29aZTh4cy1aQ2REOFh4V2lMQVdtaVZ0ZzJ3MEY0UUpRanYzV3FVTFJmTU1nY0g1cWczZ3JVYU9vWVBaYWhYZFBBSVd1NVh1UUs0T2pVWFJGazM2bTVIa2xvWVFaR2xYV1VNLWNwT0JuVDV2bUUxV09USEh6cGNISFFwa2lvbWRGbjRCVEJ4?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "NIA arrests absconding accused in AK-47 smuggling case linked to Nagaland-Bihar route. A crime-related story. Covered by 4 outlets, including The Hans India and BW Police World.",
+      "image": "images/nia-arrests-absconding-accused-in-ak-47-smuggling-case-linke.jpg",
+      "image_kind": "placeholder"
+    },
     {
       "id": "navbharat-times",
       "headline": "ग्राहकों के लिए बासी खाना? पटना- मुजफ्फरपुर के कई रेस्टोरेंट में खाद्य विभाग को मिली गड़बड़ियां, मचा हड़कंप - Navbharat Times",
@@ -56,7 +93,7 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना स्नातक सीट पर JDU के नीरज का लगातार चौथी बार कब्जा, RJD और जन सुराज का क्या हुआ? राजनीति से जुड़ी ख़बर। इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/jdu-rjd-jagran.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "patna-s-bihar-museum-beats-new-york-s-met-and-paris-louvre-s",
@@ -76,11 +113,6 @@
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFl1WDVCczhyUXU4MVV4TWwxTW4xVU1hOWVhSkd3SGNKSjdEMWhHenVwT0xaalV2eXY5WjJ5bkZUUl9LajQtVE5fRm5IVDNHTVQyeXRXMXBaNk5ha1czSm1QazVidG9EX2hCdEdXdjlsQlY2R2poQTZ3VkIwY09lUjlzWE5rdHZJTUhhN2RlS1hNZ1N5WFhIaDBDTUMtWTYtQlRST21DZWh3T0p6OUdwc3pnLWNmSXfSAb8BQVVfeXFMT0RGODdWUGJ3ZlZjUjFpc0QwTF8tQ2RaTjZ2NUF5NXhOWld0LVZQUHhhbnB6c0JUWTlSbzVXbmtHSXpoU1BMREw5dG43QzdlaWdWN1Y5NVQ3dEkzMXlZVjg0MnlaT29iNzNVYl9pS1lRcEdjSW44QzRhSEhhSnpfS2hYZWRVbHdpMHdGNUxKZzNzZHE5SlNEUE5Zb2tKS0lQZkF5c19ZNC1zTzg3Q1VCbEpFUzJsb0JURjZ3UENVWDQ?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVExsRTFjSjdocEt5TXBZdm5TY1BEWXBxd2Z5RF9tYTg2LU9MeXJRVmtXSnBNVkpHSUpqV2NEWE1xMDYxR1BDbkdsX19Ld3BIQWFROVNtS2tRX2tXbTUyN1hpMXZTd0p1V3dZSi11NXlwS0NUb0VPdUZma05yaVBBaWsyQlVzcU5QQjZpcGpkRHRCNDFwZFBGZFNvZUdoU3hHRFJhT1NIS0Q4NUpwa1FoR3Z3bzFXQzJ1dHBpZ291TWJpNHNHVHNLXzFSUnpMWjVpNEVZTktlX0d1emF1WWZ2ME9FTXVDbW9PVTg3Z01xY0xZTGtObV9hcWlFVS1nbGhKdW03RllyRC0tUTBMSnNwcUlZMGxxQdIBmwJBVV95cUxQMGtoUXVaLXVzY2xpOXo4QnBncG9iWWNOWGw0MXl3MHh6RDJSdGVHRVloc0JIMUtJR2l3TGV5TEpfenlpNDYzYzVteHJGNW5xeEJCMzB0OTdpUnM0bGZKbWFobVNab1ZHcVBTV05zZFlEUWlROTJUVEVqR0I2UjN1V2FnblJOYkd1RDVIUXZQMG1JdkFscmJJQkNfelZwd3pkTUZfNHdDOFA0cUZ6NWZRaDJtazBjUXdmbWFkS0toclZQcFh5TE94MkU5LWFRLWZ1RDNvLWlmdldoMWRHUjFRcTBlS1VtSC1ZbmdYRnpodTZxZDlVemdkV2Ytd2E5RmhyUWREUFlCOGxrVC1tZUMzZ3FHcXhQVkJvcTdB?oc=5"
         },
         {
           "outlet": "WION",
@@ -121,6 +153,11 @@
           "outlet": "Moneycontrol.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa3MzNXhZWkhmWVUxRmVCOXl4QU1yOVBhSldwSWVxaF9NRDBjY21fU1ZidlI4RXhWdTU1ZVlZNWVnUmROa0ZqRTlJMm02UnhMQUNVUGNSd1RZS1ZpN014VVZNQlRLX2FjWHRDdnZaOXR1c015RW1Nem5hbldDdE0xdHVaZHo2eDlncEF6SmJDTHJpaGRMQTdleGktczAya0JyLUpJb2VXVWRYeHMyRUFuSURJdFFEU1hCUFprVWgtOUtXN3NhdDZkeUlvc1ZqVHV6T09yQVdyMVB3WGM1djFiWlNQc2pVWXVNdmlSY0NRUm1qeGlTZVdSMmZ30gH_AUFVX3lxTE5ZVTNPQnZGV0tlNm5IYnlHc0pQZnFzdFZEaTlfSDVvYXRhejNKUkk1d0lJU1ozalhsSFlNcV80RkhCT0VaZklZTmh0VWIxREFSZmF6WGhMRWc4WkY4N2JvS1BnNF9UbkZGUmNFSWNqWDh5a0JOYldHXzJOWFpjYzBNY3lFOVgtSlg2dG9FUjFHYTRTaWVuN2VVWm5uUHRzZUxjeDF5cFF1TEhTeE9HekN2SmVWTjJVVU5nSGpOb1c1ODNveTFieUlLajRQSlk3aVFhLXRCY3RMZTRvMDhKYVY5V2FsUkNNb19HbzYzSWhibW1sNzJkTENsdGtTN2dYWQ?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVExsRTFjSjdocEt5TXBZdm5TY1BEWXBxd2Z5RF9tYTg2LU9MeXJRVmtXSnBNVkpHSUpqV2NEWE1xMDYxR1BDbkdsX19Ld3BIQWFROVNtS2tRX2tXbTUyN1hpMXZTd0p1V3dZSi11NXlwS0NUb0VPdUZma05yaVBBaWsyQlVzcU5QQjZpcGpkRHRCNDFwZFBGZFNvZUdoU3hHRFJhT1NIS0Q4NUpwa1FoR3Z3bzFXQzJ1dHBpZ291TWJpNHNHVHNLXzFSUnpMWjVpNEVZTktlX0d1emF1WWZ2ME9FTXVDbW9PVTg3Z01xY0xZTGtObV9hcWlFVS1nbGhKdW03RllyRC0tUTBMSnNwcUlZMGxxQdIBmwJBVV95cUxQMGtoUXVaLXVzY2xpOXo4QnBncG9iWWNOWGw0MXl3MHh6RDJSdGVHRVloc0JIMUtJR2l3TGV5TEpfenlpNDYzYzVteHJGNW5xeEJCMzB0OTdpUnM0bGZKbWFobVNab1ZHcVBTV05zZFlEUWlROTJUVEVqR0I2UjN1V2FnblJOYkd1RDVIUXZQMG1JdkFscmJJQkNfelZwd3pkTUZfNHdDOFA0cUZ6NWZRaDJtazBjUXdmbWFkS0toclZQcFh5TE94MkU5LWFRLWZ1RDNvLWlmdldoMWRHUjFRcTBlS1VtSC1ZbmdYRnpodTZxZDlVemdkV2Ytd2E5RmhyUWREUFlCOGxrVC1tZUMzZ3FHcXhQVkJvcTdB?oc=5"
         },
         {
           "outlet": "India.com",
@@ -196,35 +233,8 @@
       "source_count": 20,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Patna's Bihar Museum beats New York’s Met and Paris’ Louvre, secures 9th place on World’s 100 Best Museums 2026 list. A crime-related story. Covered by 20 outlets, including NDTV and Hindustan Times.",
+      "brief": "Patna's Bihar Museum beats New York’s Met and Paris’ Louvre, secures 9th place on World’s 100 Best Museums 2026 list. A crime-related story. Covered by 20 outlets, including NDTV and WION.",
       "image": "images/patna-s-bihar-museum-beats-new-york-s-met-and-paris-louvre-s.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "55-year-old-cleaning-staff-member-shot-dead-by-assailant-in-",
-      "headline": "55 Year Old Cleaning Staff Member Shot Dead by Assailant in Patna City - Asianet Newsable",
-      "summary": "",
-      "date": "2026-10-30",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHFHVUxfd2R5YkRwdnNXdWg1U3hXYmhYN2tXTTA4NlNnaTB5YXhEWTZIaFE1dHJtOXh3cjFiQWVWaklkZDZZOE5teG1RU3hMSE4xbWZpYVpuN2UxRXUzV3BncVVXcFcwdFJfTTBPdU1QLWFRaTc5Ti15SUlEbVIweV9reVNsbkg0MG96c0d30gGQAUFVX3lxTE9yU0ktYWxSOHBnUXlwQk5jNXZCZTY4VkwyZEFzS2ZCd1lYOHFYN09zUDRqNktJRU5yeUZ6TElHVWxkLXM3cW1iN1NDdFhrWlAzVUpxUTd5UW81cnBKUnFOMlh3MnlhckhOaEJ0ZjhaUXZ6UTA3blhYSmxweUdUYWxqajRiejNybGJMTlF5My1uOA?oc=5"
-        },
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFB5V1BoYUFUck01ZW5KQ0ZrWllLc1l0SElPOTI5VV9tRFJMZ1RtTEZ3TDg0SmxBczNMMGxnZnp5YmwwQ3dUTjhSMUFkRmZRV2ZOa0JGR3pUajhuLUVTdTlfY1ZOdjNUX2xBLVFGRmc1Qmp4RVVhUTJ6bVpteHIteUhfcmZPaDkzdURrY1B6S1pZSXNjc1JZNm5IQXEtMzBQai1fcUQ1dWwtdXB4WnNiQ3h3emdWREh4LVM2Nlo3T0pZMUJzMTg4SdIBzgFBVV95cUxQV3U5OGc3VDF1NEJCSzJ1WjdQZ0w0MV9HTzhOVGpGSWZXNFBkWHNJTGpWMkdQbmJGWHFjNElacmxCV25OTW40OXBjUXU0OWhVRFcxNllESXZnakJWZjc4aHBlZEV3TFQ1M191Q1lGaEJSNmZoblBORWJudUlJYVZrQjU4d0xfcDlpSkdDb2poMHAzbWVpbUtxdzVTT2NleENPeFUtb3lTS3Y0VHk3dkdPYUdFamRqeUlfeTlpNjV4MldtYTZIa3FVeU1NTVhMUQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "55 Year Old Cleaning Staff Member Shot Dead by Assailant in Patna City. Covered by Rediff and Asianet Newsable.",
-      "image": "images/55-year-old-cleaning-staff-member-shot-dead-by-assailant-in-.jpg",
       "image_kind": "photo"
     },
     {
@@ -342,7 +352,7 @@
       "genuineness_label": "Verified",
       "brief": "Film on girls' education in Bihar wins UN SDG Action Award | To see the full list of winners. Covered by 3 outlets, including The Times of India and Inshorts.",
       "image": "images/film-on-girls-education-in-bihar-wins-un-sdg-action-award-to.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bpsc-cancels-recruitment-for-1-711-assistant-professor-posts",
@@ -429,70 +439,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-sha",
-      "headline": "Bihar CM Samrat Choudhary calls for adequate Ganga water share to boost state’s growth - ThePrint",
-      "summary": "",
-      "date": "2026-10-30",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekhPSjRlQ1hULUU1Qlp6NlNaN0tFOVBJejh4X1h0WXlHNFQ2NUYxa0FyeFZub0ZWQktYLU1ISVp3MDRHai1vY3VTZWNoZVhqY09CN0xna1JtdTJRbXdTcURkRlVsR1pWZUtsMkQxblV1VDNndjJRejRxdjdOX3M1NGRyc2RtTUFPOWNjYkZSRm1FUTRtd3NrcF9COTRXMTZFeG4wZVB6VmlTbEVyOU9sVFpyeF9qNHNpejB6bUhZVFg0M3ct0gHSAUFVX3lxTFBkSjg1VjBFa1dLd3FMNmhOaVJyV0FsT2k0bWRGaDJrbFVWQjhrMmZ0THZzaWg3Q2o3TUxRQ2E0NDg1eFBhSnFkeVlIR20yWV9WMC1MdG03WkI2bEJnMWRlRGc1TlM1UkFsTGJoSlcwTENRV2RaVDdxSjZFa3JIcmNOeTFQT2ZEY3VGb3B1M0pKbU1ocjExWEY0aDFMaFZhR0E1emFzLVdxUVN4NllZcExhaFh1WllaVWdLV29ydFNvSkd0WWlyc0MxUW85UlB2bnh2UQ?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObXZLM3NjZUFEYVVTQndCei1CYUVkckl4azZCNzR2N3IzajV0b2pDaGdncXZXT3JxZFZDWnBSZmxVSHFCc0d6VmQtRjBTcC01dEg5N3VWcGJOUjNaVTlSU0Jza1hvdzM1VzZ5dFQ1akMwc0lXTWpLVnI2Nk5xY0hSWFJqRWxITElpdE90NTdUa3RYTXdZamY1amRjQjNvRktSZ29Kam92Um8wQnMxSlR3TmRQNC1NNkE3WTcwZNIBwgFBVV95cUxPeFloUmFiR3lTVkNyQzcxTE1CQ0hZam9hcDM0YXc3MmpPSXF3ZUNjLU9YSDR1Rmc2dDNEWldqUVhQX0FSVEJMRG1hZVF5QmFpNUJOazVXdWJ4VUsxbndBd0szb3QzQUdONm9qRF93S1lFUVVPUEVMelB4UEIyNkxsZWoyYnU1VWQ5VWJMejFyMkc3WUk5bXRjRm1ybnVLWEpJaHYtTndGYkMyQUkzYnRwYkV6dlBqcjc5SkZQYlB3MzBsUQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar CM Samrat Choudhary calls for adequate Ganga water share to boost state’s growth. A civic-infrastructure story. Covered by The New Indian Express and ThePrint.",
-      "image": "images/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-sha.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "nia-arrests-advocate-in-bihar-s-hajipur-in-ak-47-smuggling-a",
-      "headline": "NIA arrests advocate in Bihar's Hajipur in AK-47 smuggling, arms supply case - The Hans India",
-      "summary": "",
-      "date": "2026-10-30",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hans India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSk40M1V2UVhUY2lrZ1ZaZFdLd2lKcTRCczFGbS1XcGtGSmdFcS1OejRvcnlfS0Rrdkx2bTV1YjhucTBMdHAxMFVfSXFhdWx0U2kyV1Q5ZVBJSG5CdlpudTZYYlhHeUg0U2pqWkJWMTh6cHN0bmFadExhRFNRbHNrakpoTU15UXJkMVM5YUNKdDNwWjNLX0o4NTlhOEJRdVV5NGpZbmdydTFaejBCYnZka3FmNDZYUUNCS253VjlXYkxQNlU?oc=5"
-        },
-        {
-          "outlet": "BW Police World",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOE14Qi0zLV9ZLVg3Q1hacnRzbktRYUg4Qy01eFJSM0w5NElzU3hVN1FLUzZ3OS01WDdrZm5ETWw3UHRiREZaY1d0NWc5ekFQYnBfalhZVUxYQk5Fa3F0WlRHZ1R1TGdhMnZoMFpmWGkwbmJaRUc3amJXeHpNVkJIS211S0lxbS1ZRjMwQ29aQnVSdURYZk9fVTlRRDhJWVFBa2xfNw?oc=5"
-        },
-        {
-          "outlet": "India Today NE",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFRPakJUSnB0VVRob1NsQU9FeGRhUktwRzdVUVpTS1RMaWJ3Mm5UcWJpTUlhOHBYNzROWktTazAzMHpyUFdCRk1JSFB3X3BMb1FVMTRDLWh1Nm5uTWZkSWllT2tHcjFZV0JlOFJ3Wk41eU1kaWxOZTZHbERJdlhaclptMk0yN1R4N3ltUDhSNW55UDNXWDR6RjRRaEVWZ1lXNDhCZS1QdjNfa29TbEhaY2pyREI2ZTNRYlVOVFpEblo4ZGlPUTBaVjNlb9IB0AFBVV95cUxNM2UzVEd3OHJMbkhnelFFWTVkSnhxUG12TjVhSkJnRnhVTGswVGJCbktlNFRnTzl3cWR1bjZwYUt1bnp0TkxxbVBfS29aZTh4cy1aQ2REOFh4V2lMQVdtaVZ0ZzJ3MEY0UUpRanYzV3FVTFJmTU1nY0g1cWczZ3JVYU9vWVBaYWhYZFBBSVd1NVh1UUs0T2pVWFJGazM2bTVIa2xvWVFaR2xYV1VNLWNwT0JuVDV2bUUxV09USEh6cGNISFFwa2lvbWRGbjRCVEJ4?oc=5"
-        },
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSHJqcURzSnYxTDdPUjh3MkRITGNYSzA3elgzWXloZ0xITW43dGlDdFJEVTl0YTJMS3U4TnpxNTVSZ1NLOExaUUJGeVhhZFhBcnZDSHdDZTVXQnJTUkdoOWcxLU8wZzRNTVoyRU5vZmk0YlZtZUdJb1ZPZlZka204dEtrVEktOUdRNkVHbEZxY0xEalVUMjI4Y0dUOHBNc2w2OE1qR0EzQlBQeTDSAa4BQVVfeXFMTUwzaFBFdXZwZThGQVdEV2t4UjVOX3JTZldqOEFUTlVGX1A4dFpsM0YxZTFiSDF5RGhxaU1DeFo0WUNLNkRMRndCak5yYzFmbEpzR0hKM3VrSlFvaXVfMTJWMjNfTkJnOS1qOEZWV0tfOV91Wll4anZHbFB4aUJOOHpMM18xZVV0TWFRRUFWLUN3M3MxQURfSzBYOTRDQTlVYkk3UWIxM29zWHdibEN3?oc=5"
-        }
-      ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "NIA arrests advocate in Bihar's Hajipur in AK-47 smuggling, arms supply case. A crime-related story. Covered by 4 outlets, including The Hans India and BW Police World.",
-      "image": "images/nia-arrests-advocate-in-bihar-s-hajipur-in-ak-47-smuggling-a.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-mlc-polls-rjd-s-anil-jha-declared-elected-party-s-over",
       "headline": "Bihar MLC polls: RJD's Anil Jha declared elected, party's overall tally climbs to 17 - Deccan Herald",
       "summary": "",
@@ -520,62 +466,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "aajtak",
-      "headline": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम - AajTak",
+      "id": "bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-sha",
+      "headline": "Bihar CM Samrat Choudhary calls for adequate Ganga water share to boost state’s growth - ThePrint",
       "summary": "",
       "date": "2026-10-30",
       "topics": [
-        "general"
+        "civic"
       ],
       "sources": [
         {
-          "outlet": "Jagran",
+          "outlet": "The New Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWVTd2M5VUppQnhLS0F6ZFJBSU1LMnVMODhWQlBoUlpsLVhwd0xid2pkRnhUSi1NRzlXSjJHTXBaMVloYlJoa3pYd3FOdFBPMW5qdUdXS1dscGdoMmd6eHB6RTRFdmpyUXlmYW9seHB5UnJHdUNsV0prYldzVGdmeWZCLWpUZ1R6VkFOREpyTkNZbzNxcWdRV2JDSmh4cEVScGRVeDM5TDZMQnBSMUU5NWZn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekhPSjRlQ1hULUU1Qlp6NlNaN0tFOVBJejh4X1h0WXlHNFQ2NUYxa0FyeFZub0ZWQktYLU1ISVp3MDRHai1vY3VTZWNoZVhqY09CN0xna1JtdTJRbXdTcURkRlVsR1pWZUtsMkQxblV1VDNndjJRejRxdjdOX3M1NGRyc2RtTUFPOWNjYkZSRm1FUTRtd3NrcF9COTRXMTZFeG4wZVB6VmlTbEVyOU9sVFpyeF9qNHNpejB6bUhZVFg0M3ct0gHSAUFVX3lxTFBkSjg1VjBFa1dLd3FMNmhOaVJyV0FsT2k0bWRGaDJrbFVWQjhrMmZ0THZzaWg3Q2o3TUxRQ2E0NDg1eFBhSnFkeVlIR20yWV9WMC1MdG03WkI2bEJnMWRlRGc1TlM1UkFsTGJoSlcwTENRV2RaVDdxSjZFa3JIcmNOeTFQT2ZEY3VGb3B1M0pKbU1ocjExWEY0aDFMaFZhR0E1emFzLVdxUVN4NllZcExhaFh1WllaVWdLV29ydFNvSkd0WWlyc0MxUW85UlB2bnh2UQ?oc=5"
         },
         {
-          "outlet": "ABP News",
+          "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3NmQ0FHN1plX2gwd2oyS1hPVEoycFA2NE1mXzNmX3l1TXNHSlR2YXlINUE2aHo3S3JQOG5mS0JqeHNLNTNUTWROdE5tTUJzM2Y4TEtFWkZJODBzS0k4VFNmclZDQXlmQmRMVW16OXB4UDdJeENmYkdrOUZHUUN5MEhaUnhac3JBRlMtTWEtZVFoYWozbTJOaFRObG5YYm5fenJjbVZWblItUWkt0gGyAUFVX3lxTE5fcDJQejVKRlFpVl9KbC16a2VQczNMM1k3X2NVM0RTQXBRSWhlbGdGMGNBYVZGNzFXUmZYU19McFNZNjhqQ3VqRVczY1ljcFNkTVRZcFRoOWJlaEFwMHg2LTFEWm13TVYyYjFJSmhJRVRTSFgyNjFXSmI2aXZMNHBlMTlRNDNNNi1hMktfaV9vS01jRmtBNjR3MFZRN3dsd3JvcVhEamhLSHE2VERoclJvT1E?oc=5"
-        },
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeld5dFhlTXdVbXVzdlJiWU5sZUd2OXA5X1RnQ0tLcmkyMFVRYWt2czdVVTJnb1gySzdnYUNMRjllendpNkQxQW9VQlZXXzJlV2JEQ0hTMGlBMkQyQnRhTmxDcGNhOVNXRzRWS1JrbGxpWk5qN2JOUnZDVTEwQmVNeWZiR3A4dE5xYWFiWFEyaXF5eGpIb2JETGd1NndUQ2N6NTAxYlNOSWc3eHppVGRLMmJlUVp0U3E4ZGfSAb8BQVVfeXFMUFBtYUZ3UGxNNUg0WmFBaGpuOFVfZThLRWlEd2JXQmF0bkR0T0VfYmR0dDF2THNxVVg3R2N3enFyeWY1QnVUcnUyeVhwVWhtVzhpaEJCWHBsa1BsUHRfQ2JUNll2VS1RWkpPc2kxYWFaNWxuQmtVVlFxOFlOVVdpeHNxVlpWazVRTE5laTVlRmR2c2FGUEt6c1gtLWJlaHV5b1YxdERYbjV1emloY29ndFJyR0NhM3hQRnEtVGlMeVk?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और ABP News शामिल हैं।",
-      "image": "images/aajtak.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "ak-47-nia-navbharat-times",
-      "headline": "AK-47 की तस्करी एंड सप्लाई मामले में पटना हाई कोर्ट वकील गिरफ्तार, NIA संदीप कुमार सिंह उर्फ छोटू लाल को दबोचा - Navbharat Times",
-      "summary": "",
-      "date": "2026-10-30",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPbVRRNXFBaHh3RkhCNkI1eWlrc0xoSXBTV1F1a2tYb01oRnVkcDBfN3RuaWlaa3h5WGsyZE5uczB1aVhiVlBoemRJek8xRkR5Nkk0ekY5cnlULVJWcUdoWm5TZ0hPVWgxdUZOWUpCTTR0T051anh4Wmo2Z1lGaUE3MlFXVXpsaXJBbUlPaEJPcDVfSGstMjhqMll0V19LNEhBVlc5bHBCUllUVWRiLVItaXI5M0JicE9ocVJEQXBkYl9oelBoMGJvNzVONXh1NlZmc0xqMm9EN2JnaHE5QkZPN252NHRTWmI4cjczQXFaNVRSSWhueS04TnNnZGY5eDM1ZnJObUgyYkFYYUM3U1YzV1FfT2tENU9FNE1jb1JFYmpfSHlKVXVpdHNFVFJKMGpZXzZqMNIBugJBVV95cUxQTk5sdzFDM29YYmJZdElCZEp1WUkwV2dweDlFWnJiV29OQlVMVUtfdHBNOGxPS0RqSjJ2T2FtOVhOVEh0ckU5bVlHSVpIQ3l4VHBwUy0tOGxtb3pHWUY5cWU1NXN1S2RZSE4zVEN4TG9aUlBoTW4yZTdMZ2VNZW9FelMxN0JiZzBlb1FNZkZDTURuanFnMTFHY1QxU1RWaDcyZG9VZG9ZUExsRVBkdW80VFo5RnRoZnBOYVV5M19wdXAyUUl1ZkgwMVdCQ1ZuQWNRVDY3eWphbnFsZ3gxamd4Um4wWUtXdGZjRnI0bFJuaGdTX21RMFZsajlvbVJsdVV5UDNISllEMjBwaE1GVUNhTFFjUzQ1UGFsMnUwRnFtZXhPdzUzYUNseF9jZHJTMU1UamJkY01uMnBLZw?oc=5"
-        },
-        {
-          "outlet": "ABP News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHBjeVRUZ05sV0d2N0k5d3JqWlZ2b1NLY1U2LUdlUDZRZlpETkJEbkFjaU4xaXlIVXZVRWJBS040Y1dxNnBkRXBLTGZXX2ZzVXlSSlhHMjh4a3loc2d6OUFkckFreWpMQzhCd091bTFaOWtpVS1SbVhlRnBoWmxEVVI0S28tTTVWT2ZoNGhvTEdIX0Rwekk0blpEOGhRWDlqX0M4N3lyVC1zQXpNaVdnVjQ2TV82XzhkYm5WZHN3bWFKc2vSAcgBQVVfeXFMTXJIS3hxN3JoVGlJRW96OXNKSnVDcjQ3MTY1dDZhVTJydWpIUkZVaktaa2xWWHBJV0ZMLVpLelJmWmpDeGZMOVNyVzdsejBaclpla0t5Tkl3dWM1dlQwcXVZTzdpZUJZSlZfMjlJRHhMcVROVjhMVFBYdEk0VFNmLXp2M1JYakdQYlVGeG1uMFRIMmRQb2t0NWVHRm10UXp5NHd2SUg5bmM4WlhuLUlxVmRUNVRZUlotUUFaX1FoWkh6WkhNLVp3aTM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObXZLM3NjZUFEYVVTQndCei1CYUVkckl4azZCNzR2N3IzajV0b2pDaGdncXZXT3JxZFZDWnBSZmxVSHFCc0d6VmQtRjBTcC01dEg5N3VWcGJOUjNaVTlSU0Jza1hvdzM1VzZ5dFQ1akMwc0lXTWpLVnI2Nk5xY0hSWFJqRWxITElpdE90NTdUa3RYTXdZamY1amRjQjNvRktSZ29Kam92Um8wQnMxSlR3TmRQNC1NNkE3WTcwZNIBwgFBVV95cUxPeFloUmFiR3lTVkNyQzcxTE1CQ0hZam9hcDM0YXc3MmpPSXF3ZUNjLU9YSDR1Rmc2dDNEWldqUVhQX0FSVEJMRG1hZVF5QmFpNUJOazVXdWJ4VUsxbndBd0szb3QzQUdONm9qRF93S1lFUVVPUEVMelB4UEIyNkxsZWoyYnU1VWQ5VWJMejFyMkc3WUk5bXRjRm1ybnVLWEpJaHYtTndGYkMyQUkzYnRwYkV6dlBqcjc5SkZQYlB3MzBsUQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "AK-47 की तस्करी एंड सप्लाई मामले में पटना हाई कोर्ट वकील गिरफ्तार, NIA संदीप कुमार सिंह उर्फ छोटू लाल को दबोचा। इसे Navbharat Times और ABP News ने रिपोर्ट किया है।",
-      "image": "images/ak-47-nia-navbharat-times.jpg",
+      "brief": "Bihar CM Samrat Choudhary calls for adequate Ganga water share to boost state’s growth. A civic-infrastructure story. Covered by The New Indian Express and ThePrint.",
+      "image": "images/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-sha.jpg",
       "image_kind": "photo"
     },
     {
@@ -611,8 +525,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "jagran",
-      "headline": "पटना के होटलों-रेस्टोरेंट में खाद्य सुरक्षा की अनदेखी, एक ही फ्रिज में मिले वेज-नॉनवेज; बासी खाना नष्ट - Jagran",
+      "id": "aajtak",
+      "headline": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम - AajTak",
       "summary": "",
       "date": "2026-10-30",
       "topics": [
@@ -620,21 +534,26 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
+          "outlet": "ABP News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdW5fVzI4NjRFbktIRnRObWJ4TktPeU45V1lkc0hYUnVmZnh5WUhsbmlKa1lnaktPbUIxWUlTeElsbUpBU1gyYzFyczRnWDVFNy1KY2V0eWNDbDNsWDQ3RWx1alh0ZzBmdDZNcVJiQXZFWDJnaHNPaDVoVWV6MVJVQnl1dF9mTXFBSi1RM3piVFprRllqbUVDdXJnVkFoTTdPUEF1eGo2WlFXZ0U?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3NmQ0FHN1plX2gwd2oyS1hPVEoycFA2NE1mXzNmX3l1TXNHSlR2YXlINUE2aHo3S3JQOG5mS0JqeHNLNTNUTWROdE5tTUJzM2Y4TEtFWkZJODBzS0k4VFNmclZDQXlmQmRMVW16OXB4UDdJeENmYkdrOUZHUUN5MEhaUnhac3JBRlMtTWEtZVFoYWozbTJOaFRObG5YYm5fenJjbVZWblItUWkt0gGyAUFVX3lxTE5fcDJQejVKRlFpVl9KbC16a2VQczNMM1k3X2NVM0RTQXBRSWhlbGdGMGNBYVZGNzFXUmZYU19McFNZNjhqQ3VqRVczY1ljcFNkTVRZcFRoOWJlaEFwMHg2LTFEWm13TVYyYjFJSmhJRVRTSFgyNjFXSmI2aXZMNHBlMTlRNDNNNi1hMktfaV9vS01jRmtBNjR3MFZRN3dsd3JvcVhEamhLSHE2VERoclJvT1E?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "AajTak",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1lJOGFaM0FyMFB6QW5sNE8xb2lIUzZ4STBURmpaR0pGbXRIZzNqX3c0V21Vd3lvNWlNSko0OFY2dFFtaW9JSE9XWW5HVWNqOXlyZ3BvbU1JelNtbWNuX1o2bkpBWmRIQkxtalM2WUwxM3pCOFNtNlltWmxtM2I1MFRWbnJJMTgxTjJSblVjV1Jla0JjQlAtYzRiT1ZQZGlzZVUxcFdzWXBfWDlRQ05DbEtUcDByNnpW?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeld5dFhlTXdVbXVzdlJiWU5sZUd2OXA5X1RnQ0tLcmkyMFVRYWt2czdVVTJnb1gySzdnYUNMRjllendpNkQxQW9VQlZXXzJlV2JEQ0hTMGlBMkQyQnRhTmxDcGNhOVNXRzRWS1JrbGxpWk5qN2JOUnZDVTEwQmVNeWZiR3A4dE5xYWFiWFEyaXF5eGpIb2JETGd1NndUQ2N6NTAxYlNOSWc3eHppVGRLMmJlUVp0U3E4ZGfSAb8BQVVfeXFMUFBtYUZ3UGxNNUg0WmFBaGpuOFVfZThLRWlEd2JXQmF0bkR0T0VfYmR0dDF2THNxVVg3R2N3enFyeWY1QnVUcnUyeVhwVWhtVzhpaEJCWHBsa1BsUHRfQ2JUNll2VS1RWkpPc2kxYWFaNWxuQmtVVlFxOFlOVVdpeHNxVlpWazVRTE5laTVlRmR2c2FGUEt6c1gtLWJlaHV5b1YxdERYbjV1emloY29ndFJyR0NhM3hQRnEtVGlMeVk?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWVTd2M5VUppQnhLS0F6ZFJBSU1LMnVMODhWQlBoUlpsLVhwd0xid2pkRnhUSi1NRzlXSjJHTXBaMVloYlJoa3pYd3FOdFBPMW5qdUdXS1dscGdoMmd6eHB6RTRFdmpyUXlmYW9seHB5UnJHdUNsV0prYldzVGdmeWZCLWpUZ1R6VkFOREpyTkNZbzNxcWdRV2JDSmh4cEVScGRVeDM5TDZMQnBSMUU5NWZn?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना के होटलों-रेस्टोरेंट में खाद्य सुरक्षा की अनदेखी, एक ही फ्रिज में मिले वेज-नॉनवेज; बासी खाना नष्ट। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/jagran.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें ABP News और AajTak शामिल हैं।",
+      "image": "images/aajtak.jpg",
       "image_kind": "photo"
     },
     {
@@ -665,6 +584,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "jagran",
+      "headline": "पटना के होटलों-रेस्टोरेंट में खाद्य सुरक्षा की अनदेखी, एक ही फ्रिज में मिले वेज-नॉनवेज; बासी खाना नष्ट - Jagran",
+      "summary": "",
+      "date": "2026-10-30",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdW5fVzI4NjRFbktIRnRObWJ4TktPeU45V1lkc0hYUnVmZnh5WUhsbmlKa1lnaktPbUIxWUlTeElsbUpBU1gyYzFyczRnWDVFNy1KY2V0eWNDbDNsWDQ3RWx1alh0ZzBmdDZNcVJiQXZFWDJnaHNPaDVoVWV6MVJVQnl1dF9mTXFBSi1RM3piVFprRllqbUVDdXJnVkFoTTdPUEF1eGo2WlFXZ0U?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1lJOGFaM0FyMFB6QW5sNE8xb2lIUzZ4STBURmpaR0pGbXRIZzNqX3c0V21Vd3lvNWlNSko0OFY2dFFtaW9JSE9XWW5HVWNqOXlyZ3BvbU1JelNtbWNuX1o2bkpBWmRIQkxtalM2WUwxM3pCOFNtNlltWmxtM2I1MFRWbnJJMTgxTjJSblVjV1Jla0JjQlAtYzRiT1ZQZGlzZVUxcFdzWXBfWDlRQ05DbEtUcDByNnpW?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना के होटलों-रेस्टोरेंट में खाद्य सुरक्षा की अनदेखी, एक ही फ्रिज में मिले वेज-नॉनवेज; बासी खाना नष्ट। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bihar-mlc-polls-jan-suraaj-party-opens-account-jd-u-s-neeraj",
       "headline": "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat - The Hindu",
       "summary": "",
@@ -679,11 +625,6 @@
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2x1dk05NjJrZFNtVzQ4UExaVVhxYmMyZnBxbjZHeUlRazh6RFlQOGZfMHc1YjVUX3dJUlc1NGhNR3VLTTkzcy04TUJaN0VPczNlcW93WUlURjdRQ2xzS1pOWkE0QUFwT0lWTUFxVnFkanhiWkp6bFNfV3p5cXFpallpLXE3bWlHQzRTaXU1eEZ1elNOS3NFUk1WRURBZTZxdEJfbFFMdzFUbDF4Z0p6VGtKVkQ2LW9GWUhFWkZfUUNXME9GUVVrWGtOM1o4QmRsZG91RVhUVUVYNXc1TF9DUThNSkhUcFFQSC1j0gHyAUFVX3lxTE1JX1lkNkEyZG9ISG9vSEdlc1R5em9RZ01aYWJkc1BxVHQxQ05SWmtjWU1fNHU3VmxXNDhJaTNUTzJHWG9NcEI3MjFoM1h3aGlsSzA2V0NqVnY1QVRrMzRfUFc5TGN0X3h0d1N5U2dGWTBrOExrdndsN0RORVFObXNQU3YtVlE4U01FQkIzZW5iVWFMOGkyc1BGRExBZmV0czF0endaaUd5MlI1LTc4YkQ5S0dfZnQ2X3ZDMFZ2TWJxWkplM1ZuYVpPOUlQNGRIMm5jOHI0WnFRVHMtNE9LWHRTQzR1MXlZRUVOWExMbXFua2J3?oc=5"
         },
         {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVW1PT1c2cG9FMWRTcXNfZ1hfemhKS2cxUTRhZUlhQzFIRTBFT1JyVHd0RWN2cGYwdGxIQU9GQ1RYYjlwY19qOTRNbG1MSS0zekZQdDJMZW1OejZIdXJDYnRCTnI2emlYc0xWZXZHdC1QSEtMRHN2ZXpnRzZleEhHc2JlcUJ0WDBXUDZTdWduZV9xc2s4VDVHcmdfRHZULXVZUng0OWxIN04wNm9rNHJXZ2VOV01Cb2hJUGF5N2VUQ01OS0tMdHBvRWJwZWpFTGt6VzZHZzdIUjUzVmFIbWlaOTV30gHnAUFVX3lxTE9hdkFrOHQxSC1LUXpGSGZMeDM3Y2FMbm40bEZicUhxQWhBdkRQUm5Ta0xTQXY0Nzd6U2cwTEVZa0Q3N19wTkpvZDJpMVhuQmd5U1A3TkI2YWh5MTQ4T1ZuS19BNGJtVy0tQ2tFM1FTRUxuaFdrNXlKeG1nNnRaRFhsSDJfaHJFQXFJNkZ2TW1XRHZyVnE4eXpxR2JhaTFFU3l5bUVQOU9ZbWJTcTFqS1lxSWhLZS11ajF4N1JJT1VOdE9TVl8tTEpwRWdRRGNwcy1wSVBDaXE0QWtEYTVDVlhQMGw0eGVLWQ?oc=5"
-        },
-        {
           "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUndPV2tsN1o2MUtPbXNlSVVxMmdTQlJMNmxuT1MwZkY0NVlpVXQ2alFVdjZkbVR3RU9kanlPc3pNdERXUkl1V2o2LUhGMnMwUkFFblpfVVlCODU0LU81bkNMNDhrWFdaS1hiRkZfM0QzOFg4UldUZEtyMnIwNFRoXzFtOExQMkF3WENkTjNZLXpBZ3BSLURDN0p4VjM3d19DV2pHRjhFN1RIUk9BM1ZmcFVkNE1XUEFueGF4UjFIVUJMYUc0MndrVGl5eXRLZUxsV3ZIQ29PbWdYRl9MSkY1aFpLcDFBem1fMEc0Tg?oc=5"
@@ -694,10 +635,10 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPankwOS1nRmlSWi1HSVpYLXZZWDRMNHpYZDJjNWlfc3NWZVZMWElUYXJNbWR5Z0s3RVM1OTVVRFJ6bWpOMkNtd2JxTVFLLW41Um1SZzQyd3FjVTQtZllrRUFQYjI0REV1MWF0RHVuZFVGeG13ZUtqNWJuOGtLWW0taHhMM18zM0NwR1RMSzloT3MtaGx6c0lVY1JlQ0RjN0ZiYURXNy1SeVVEbjkwM1dWLWEwMTjSAbcBQVVfeXFMT3dlZFJ0ZkpabXNaU0pEaEN5TzZYSDR0bnNWYnlyY0tQRzNTZmp0RW4tTGZqNUhiXzJmNnVJRzEwMkJUV3RySkFaa3V5MGNySkEyQ3ozNFNicWtmbGREbUw2Y25VX3pHZjZpUm5QclpSd0JmbFpqZ3ZGUVJ0RmRhWUNzVGgtS014MU5hT1VRNW1RaHZCOVhBQ0FFb2I4UUIzMEpsTWZkNDgweXFaTUFXZjNqZkRRNndR?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat. A politics-related story. Covered by 4 outlets, including The Hindu and Moneycontrol.com.",
+      "brief": "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat. A politics-related story. Covered by 3 outlets, including The Hindu and ANI News.",
       "image": "images/bihar-mlc-polls-jan-suraaj-party-opens-account-jd-u-s-neeraj.jpg",
       "image_kind": "photo"
     },
