@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31 10:36 UTC",
-  "generated_at_ist": "31 Oct 2026, 04:06 PM IST",
+  "generated_at": "2026-10-31 11:36 UTC",
+  "generated_at_ist": "31 Oct 2026, 05:06 PM IST",
   "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -23,19 +23,68 @@
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVnZsUkcyTjZaUnV3RkdkdFlQSjMwZ2xOamZZWGdwUGhJeVZOUXVTLW9JbE5WeWtKTFJKX1BMUHlkdU9Hb3U4cEtHMUdkbHpSRkxjZ29ySU85bThKSjNPcEhzU0VqSC1YWGdTbXN5YTNwbUg4by1YNmEzNjFObVh1d2JDSF9BRktPTHhjOHV6OXZLcHluXy1yYkl2YjZOTzVmTGpBa19sSEpObDRMVWU3b1MzbmdIMFdoV2N1Rmg4d3ZpTVV1WEdaUlo5bTg5Q2Qwb09qOUNpTjlfRXhi0gHqAUFVX3lxTE8tM0RieFFVeWpKSmgxWWlrZGZxeldaU08xMTBtaUFBci1ZM1JETW1PZFI0Z2lHZHVZYzlZTmdWRUlJdzVZbG9ZSk4tNzNjUFRHcmVfanVmN0hkR2RUa2UyMWFyQVcyVU9yc083NFlIZnNNd1FXazlSTVJZZjJfWHlEbW5tQW4zMklTVEVsNjhIYlFubUNYcnRiVXM0djBCVFVDOWhUOWZ0VDdMeGN4NlBkOFhTalB2QXlfV24xdFVsZ2NYM25ZV3QtRWhnWWprc3RHYTEzeHVkTTA1X0xrcjRDTUJRc2UzMjdKUQ?oc=5"
-        },
-        {
-          "outlet": "Inventiva",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1htUXFvRm5sTWw2dmxHck1BU3Z3RGxvTXh1aUNZVkhLYkszcFlXT2o1OEM3TkwzM3RYa0ttSEtDTXM5UW1Ub204d0dZTUthbVJWYzdZY2ZiaFB4NnhJSXh0c0RGaDdRZ2NwbmZBSTFEdFlyb0NMMGRIZDBnNUc5a3U1MVZSUGtaSDlDZU5VUndLWnpudkh1TlVjbzc?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "ED attaches five properties worth Rs 2.01 crore in Bihar constable exam paper leak case. An education-related story. Covered by 3 outlets, including The Times of India and The New Indian Express.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "ED attaches five properties worth Rs 2.01 crore in Bihar constable exam paper leak case. An education-related story. Covered by The Times of India and The New Indian Express.",
       "image": "images/ed-attaches-five-properties-worth-rs-2-01-crore-in-bihar-con.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "sc-sets-december-1-deadline-for-anant-singh-to-surrender-in-",
+      "headline": "SC sets December 1 deadline for Anant Singh to surrender in Bihar murder case - Mid-Day",
+      "summary": "",
+      "date": "2026-10-31",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHpkbjJ2YmVKOGQ1SHRIa3poQlVkckIwcE5fYXQ4T3gwZERFMC14QVl1enU5TEdpUm0wZVFmOGpXUGJGc0pYM2hHOVpnX25XSTItbWNKcWVHczZXRWlwdTd4RWR3WGY5dm1PYk9yemxGMERKT2lwc2l1MDdPdHNGb1pFaGwtdDdTZTE3OF85MENvcGhnVElZZmsySklFVC1jR0ZLYm83Skd6TEtlTG9ZajVMYkdMUkxDSkRlYmlxOWzSAcYBQVVfeXFMT2ZDUWRWQVZBUmpfSVowTE1MMmZVTHpnc2hlaU5lS3VXNW5VbnRJQzdMbDhqNXBLV0laWnlvNDdPYzAxWDI0R2FMZnp3RE9XamV4QUx0TGY4NWt5V1hqd2FMdjAwLTRlRDhHNTd0NHUtTXJzWmhieFJvdHdseFlOc3g2LVVQOG93X2wteC04cHlDSl9mbVZsNFdFY1NtV2tGZ1N3NTlSdjhEWTdlb3JTOW0zSWsySkc1bVBVS1FvbjFmOG0zRkJR?oc=5"
+        },
+        {
+          "outlet": "Mid-Day",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUkFoNDAxamJOTlJvWVdjUmhicDRfQ0JmNERwOUl2SXExaWRrYjNQNEhIYlJIb2lYVU5TRjhObl9NdDJTVVFjS2JYLW1FRXdfcGY4Y0t0djJsamlIWFBlUVpQaE5HLVh0emRkZTQ5UnQ5VUdBTWE0YzhQYmRWRkl2VlB1TjJ6bTI3U3VJVmQwVVMtNnJoQklVZ3kyQVg2dkxRSkJZWVBFYUNIY2N3VERaSmYyX1l1N3hnZUVHSVpDQ1J0QzZTMXdseE1EaDlZVklVS0twdXFpUFRwOEZPMmc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "SC sets December 1 deadline for Anant Singh to surrender in Bihar murder case - Mid-Day. A crime-related story. Covered by The Times of India and Mid-Day.",
+      "image": "images/sc-sets-december-1-deadline-for-anant-singh-to-surrender-in-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-metro-achieves-major-milestone-as-4th-d-wall-panel-wor",
+      "headline": "Patna Metro Achieves Major Milestone as 4th D-Wall Panel Work Advances - Metro Rail News",
+      "summary": "",
+      "date": "2026-10-31",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Metro Rail News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kRGwyVV9zaVdUY3QwZXNnMU1VZjhoRnR0UVNFYkUzbnBuVDBPOEFxN2hTTXB2dF94TFRGelZ1Z0R0OWdMUGZMX1F2VjVDWFV4WGFTNV9vbWNHSWNEcEh2bVEyOFpNaHZza1FmSWtsTWFqVmoyaGhIRzJ3?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMUZvVDZ6bk5WRHZKRVBlN3ItNV9YS0ExeXdrU291ajVlVzBXeXc5U1lkSy15VjRfdnhJZVp0Sk9HcWRfYlVCZm9pZmh0aW1KQVVKNjJTSUE1dzhKTGpIb3MteVpjUW5Ba2w0bHU5TmdmLVpHd1F1QlJmakMyQW5XYzRFU1pVeENtR1I0Ry1MM3JUa3NKak5vQmhEQ3czUFNDZFFXQUFHUGwwZWV5cy1OaUFKRHZMaC1uTURUajRpLUl0RVBibEQ0dkgwa0p5cnPSAdQBQVVfeXFMTmVtNXlYQ1p0RnN3MWJqOU9KZVdiRE5zdE5aQXRHQld1Z2E3MTM3UWx5XzBPUmdha2NwRGRGYW92M0ExNUthUWs4OE12NVlFUUpVX1I2MUZRdlh1Ty1tUTRkYjNCSUd6Wk02NTZ5TzhIMkhhdjB6QVBCYkFJY0M4M3pndUtjQURZeDV3SVlmUGVkQ0JfX3lHV21WN2VuVTY5TUxWVXluM1FIbmJqUlF3Z3VRYThvMVpnaWxBd2ViQ1hMTk45M3ZGb1JSamVTOEo2Yk9FV1E?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna Metro Achieves Major Milestone as 4th D-Wall Panel Work Advances. Covered by Metro Rail News and The Times of India.",
+      "image": "images/patna-metro-achieves-major-milestone-as-4th-d-wall-panel-wor.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "patna-s-bihar-museum-beats-new-york-s-met-and-paris-louvre-s",
@@ -72,11 +121,6 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVdacW1lY1BNS1JBSXNkUDhvaG9HTVVINWhYcUFYS21fTWFFdEtLSlBjQjFfUTM4RF96cDZRSXNiV2dNblI4TVZjWVY3djF5YnhidlJ3MHZ5ZXN3NVY0eDhPamdnZlBxNW01SmVVaUE2czM2dU9jLV9qNmtyR28xSFZpUmFMYlB1RjdXejBOem5VN3lZZDlmajV5d3YxbG55SVVRTWtCamdrM2JRRFBIaGdZVWVGLTjSAbwBQVVfeXFMTUY3U2ppMnJHZzJMcklmemZqRGZFUXB1NFBfbHhlQnN2Tm96WDBKZ0Zfalh6eHdXR0xweUFNVGhxUjFtQVRwNElseVJYS28tblJIaXhHMUxkbDhhcjQ2MFNCQU5JY2ZRNVpNSTZuWDAtQVI1amlFZGVzWWFEU0tobEZQRzRIandJa2h6V2MwSm5HNWZabnJkYjFtN21JZFFkZUlMcGN2YmpFVDlvSVJVWGV6VFhzVmxFT3FJNjU?oc=5"
         },
         {
-          "outlet": "The Logical Indian",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMm1PRVRYaVNhQXF4bUk5NDM1RlJKNjlMWkNMUnA5eUc0bXpZTTRubTdTTHpVZl9oc1UzNmlZaTZZNk9OVUtNUWVOWjVQbGRFUUJFMHIxM3ZjdFg2TG44SzBubldlWm9kbWViTzlOUWFqR2RXOThv?oc=5"
-        },
-        {
           "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcVlMNDZqTGp5eHZVODRoSXFzLXZ3Q0VDN3RtcVd3RHVwNnNtT3lranVCUGFZaWZwSExVU0RHSUxSTmdnNjNqNEw2TGV5MFI5LW1KLVhhRFdiTHFFQ0lhb3hrWFI2QU1lWFNZdXJObEF0Rjc1c2FDVnh1cFY5WTZsdURxQzB5SGVpREs2UWo2Y3QyX2pWSDRENFJWbHJOMmZlYzFURnl1VGNnOEVXb1HSAbQBQVVfeXFMT2Yya1RldDc5dTYtU2N0UFNPc3lhUEQ2R1ZlWkZBLWs0dzg5MEtqdUxEY19oZTI1N0czRXZSQkF5ZmJoNDNZWThvdGZFZUZtdmlaekx4N1o0UDN2R2lUWE1MQ3ZTXzU1QUJqeURDYko1ZDIydWFjSThIS0JYVG12cmg0ZktlQlY5bzVXQmtfVFdFSTRjQzhIS20tQlpmSWNESWVUMlpkSEY3bnhUZEtGUXp1eTh4?oc=5"
@@ -92,24 +136,34 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa3MzNXhZWkhmWVUxRmVCOXl4QU1yOVBhSldwSWVxaF9NRDBjY21fU1ZidlI4RXhWdTU1ZVlZNWVnUmROa0ZqRTlJMm02UnhMQUNVUGNSd1RZS1ZpN014VVZNQlRLX2FjWHRDdnZaOXR1c015RW1Nem5hbldDdE0xdHVaZHo2eDlncEF6SmJDTHJpaGRMQTdleGktczAya0JyLUpJb2VXVWRYeHMyRUFuSURJdFFEU1hCUFprVWgtOUtXN3NhdDZkeUlvc1ZqVHV6T09yQVdyMVB3WGM1djFiWlNQc2pVWXVNdmlSY0NRUm1qeGlTZVdSMmZ30gH_AUFVX3lxTE5ZVTNPQnZGV0tlNm5IYnlHc0pQZnFzdFZEaTlfSDVvYXRhejNKUkk1d0lJU1ozalhsSFlNcV80RkhCT0VaZklZTmh0VWIxREFSZmF6WGhMRWc4WkY4N2JvS1BnNF9UbkZGUmNFSWNqWDh5a0JOYldHXzJOWFpjYzBNY3lFOVgtSlg2dG9FUjFHYTRTaWVuN2VVWm5uUHRzZUxjeDF5cFF1TEhTeE9HekN2SmVWTjJVVU5nSGpOb1c1ODNveTFieUlLajRQSlk3aVFhLXRCY3RMZTRvMDhKYVY5V2FsUkNNb19HbzYzSWhibW1sNzJkTENsdGtTN2dYWQ?oc=5"
         },
         {
+          "outlet": "The Better India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzBraEdwZjF4RUtIRHh2NmJmNEZ5WG14bmhLZGJGQnNvbEtjSHRDMDBReWREVjVlWjJuYzJjWTFtdGxwWDMwX0U2VDRabG1lY0k0Ui1KcnVwNkJkMnVocEdSdGh6aTdZOTJtVzh4aFhic1lWS1ViclFHNkdFUDM0eUR6am8ydlM0TzJvVnZYeWFQUmFnSlc4MkdOb2prYnFsVHIwcGlzaWZZZGRHOVBzQ0IxOWFQWnM?oc=5"
+        },
+        {
+          "outlet": "WION",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3Y1d2k4dnZDVEdXaFoxekVSdi1NRlNmdTVXTnZNcGMzTWJhYkpZUV9ISG43aW5WVDhFZ1RKSzhCa1pnRmk0d3ZscGxmclFwUVExNUdOd0ZHRDFnR3VFcFgzNWFUbEZDdjY1MkltczFyOG5xMU1ielVfa1dwaGF6blZOaGh5X2ZaZjlIeXNpT2lxaF8xSTVISmh2RFdBaEdWQm5La3VqSVd3alpjMmExb3ctSQ?oc=5"
+        },
+        {
+          "outlet": "Firstpost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONENQSEtCOS11b2tPeEpBMTNWNkU0VG4zVmZKLXRyRWdYcWVnODRJczRlWVliaDhhcVlLWWJkaktuclZRX1d5WEY3cnNDbk1wY0V6YkNFYjM3aUJ4ejhMN3J0RFZuSmpsT3hfdkJ5bXhFWHYxM3ZibXRSc0RhUWpKTTRzZEwyYm9TZjRWcmFiUlJNcmtFXzMwN3RmamR2TDhleEc00gGoAUFVX3lxTE4zM3M3VVFYa3p3YWdmM212RGRKclNoQmRka3pnN1RHNWxQdldPTFJEcjRPc1lMOGJITUsyMUhkRndpOWVhTHZwQm9WVUQ4Tk9kU0tTLUVzRGNsaWFnTXhyWUl6YjVKY3RIZ2tGc2FweTg3SU5aY2s4Z21Md0VzOWRNYVpNY2hUR3R1aFE3QXJBZWFoaHJfVnJuV2hNWmdlcWVKVlZDQjk4MA?oc=5"
+        },
+        {
           "outlet": "India.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHlBYVVhNzNRbEozV19YUHVIcmVrakdNZXRWbUNYZ1hWa3FKNGtpRXlyR0xWei1MTXFQdG44WC15ZjN1alBSTTBNeC1udi1JV3dWQ3RtUlpFVm45QjFqc0NINnB4S2FPTHdVVS1CZGx5QXVZM1NwSjlxenNyd3haWVFQcm50cm1UUzlGYkZudGxqLXFaZ2UzVGl2R0JKUVdFeFRlaGRuaHEyTUJFZGxiaFg4M2U1WkdybmROcjU0cGhrR2E2SEZhOXJya3p5RXJuZjNGcTVvdk1uOFnSAeABQVVfeXFMTnJyUEhKd2pHQnBpU1dCWVN0WENZRFdzUFRIVlZiLTJFenVlRUtlMnd5RC14Y3dEZ2tWZ19EYkcyQmNIM0c0YW41UW43cm5HeDF6SjZFd1BvQ3ZrZzU4VzFVNk1kUWJSNUpHQ1BteUkxUUdHa25nVkZjTG41eGlPTWZWMDlhaWZ5Z2h5MC1lallJbmhqM3pSODZqcFhQQ0tyZTJSRVJUaklIZDd5ZGJJS1dQRW9EVDJTSmZpcTg5QkdBWUk5RVBoblgyMndONHVDdlo3YzRXRzM2cXFaak5ocTQ?oc=5"
         },
         {
-          "outlet": "The Siasat Daily",
+          "outlet": "The Logical Indian",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHpUeHh1YTdwNUtLNEdKOFR2ZTFCYWpvWXlZR1dyeEEtazVqLUdoUnN3REFJYTEzbmJTSDFvdjZZVm9lLTBITUZfYm43bUlVdllzMWlVUXdrOUFXV05NX2QyY3dxWmI5d0tHdVg5SDF3cVRkZlRwUFU5WjQ0R3h4Y2pMTlpVRjAzSXpMMWhSMnBVRVFMT0HSAZsBQVVfeXFMTmQ4VlVkZDROTzczWGJYcTlLeHVKckNNMUdFeVZBVWs5N1dpNTNld0ctUDFPelM5RHJZek82dmlDZmw5bEFyYXVEdHhoTGhOcllaYzFLT0IxYWNtNFpuRlJ1UThONXVlRHFNcV9TMkhEb0VIRi1lU3NWMDZBeF9xOGpxMkVtcnV2VjN6dFJQX2ZKN3pFVFdfZE1qcHM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMm1PRVRYaVNhQXF4bUk5NDM1RlJKNjlMWkNMUnA5eUc0bXpZTTRubTdTTHpVZl9oc1UzNmlZaTZZNk9OVUtNUWVOWjVQbGRFUUJFMHIxM3ZjdFg2TG44SzBubldlWm9kbWViTzlOUWFqR2RXOThv?oc=5"
         },
         {
-          "outlet": "News18",
+          "outlet": "GK Today",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZTFYaURjX0t3SW9BNldZdnVLMkNkN3U1MmprTjduVFNUX1pHNlNwejVUVk1Ba3dnQXNEcWRuTXdoT1V2X183bTFjdEJlV2MwVkNRYXlEY2JoeGw2ZGZtUmNLSWMxdE1GSkQtc3dRbEdMVjhQSENmNVJaRy0?oc=5"
-        },
-        {
-          "outlet": "Republic World",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUkU0SEhReWV4MkR1YU0wTmZvdkVsbFJ6TTJkR0ppeFl5RnF2Znh5ZnA5cU92dFptSmJrNWNSVzF2Rk9ES0Nzd2lWaHdBdXZUY0E3MHJmWHM3TmtTV3ZWbW1ORTlpSVBCMUE1V2xvUjRxcU5RTGRHNDh5by0tZHpyTmJiYjJPQVpfZlRoQkNsQzRaZlZTbmUtWTB2dkpQMWVWYXpvb3FmY09hbWR1cjZ3cDV2dlZ5RlBPMFZ4Vl9sZFozenJCc1JUQVlZVURyNnBQX2MtVDZhaWV3ZEhPNm5kOHhvSzU3M3ZLM2Qyc2FtUmtzSGNpeHpOblZUV3FxZ211Smg2SzFR0gGLAkFVX3lxTE5VMDRydFVFdVFyaGE0cjIxT1pfN0RhZUZWWkVDcFpkTVNXMHlka2dUUEZDOGxMakFRSWNXNkIyZ3VNV0E2cWxTQzllanFSVlh0Y3VRdUtRRkVNd2xjNXZOekpqNlZIZkp3TmNiVHh3Mmt5RWVoNXZHQ0VSNmFvUjhqZzQ1b2d0QW93RzhGbENzOTV6Y1pEcWJXOVBmM004X3pTclc5SWJEUnRaUU5DbktiMk9PcUJwc0pvOUp1dVpOUTl3UndPRkhwRnd0YUNuMVJ1MzdJZngwdDl5UlNKQnV4cDhTNDBwQTV5V1NhbzVFbVFDQ3p4NUlpb1lmNm9ycmNzQTRiVW44LWdtOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Pd1gteDd3cUdyMG9XQnYyT0ZKV1VBWUJvcHpoNjl3bnI3NUdncW9XVWNmYWJ1UGZOM01lSTFfcGY5cVc3b3g2bWlMR2sxWW9xLWNYMk9mdFVNWU5PSTVXRGlXZVFrZGlXamxKV1gwQS1feXROMWVSRXJOd2g4R2M?oc=5"
         },
         {
           "outlet": "The Indian Express",
@@ -117,9 +171,9 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc0Y3d2Y0TVVOTGk1dGdEV0pDQXFybnBlTGY1TUJERXZnaDdxOC1wN1dSTVl5d3hTem5ETDAyaWJqak9vRVF5YTFNaE02MjNGeUdKR29SNFFJZGFDVUg1czRJQTdWWmluT1l5VkdvaGNqbTRGTGdINHBWV09namhSaWp6dDdQUnJVZC05dHhldUUtVXhzRk16WEN0TzRQVmR0cEU2VzdGTGRNUjI2eUx5TWlYSF9oRjVjRGVF0gHCAUFVX3lxTE10OWhjRXBpUmc2NmxYbURGSlBvVWZ0MllBdnExbUJNb0tCS1dfaHkyOThxNkRxOUdSaENmQlI1Qm9ZVkJyeFRpWGFxcE9UMHhUR3VPdUFfWEFhYzloTGxPeDF0T2R4dGRqR0JVdXBFeFozc0M5Z1M5b3c3OXI5UXBtbWpjb1NoS0g4dHV1Tk0teTRQTWhsVmIxdk5mRVBrNjJfX1FXc3Jfb0EyYzJBMEpqRDFpdzFNblJoWXpNamtjVkpn?oc=5"
         },
         {
-          "outlet": "Firstpost",
+          "outlet": "News18",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONENQSEtCOS11b2tPeEpBMTNWNkU0VG4zVmZKLXRyRWdYcWVnODRJczRlWVliaDhhcVlLWWJkaktuclZRX1d5WEY3cnNDbk1wY0V6YkNFYjM3aUJ4ejhMN3J0RFZuSmpsT3hfdkJ5bXhFWHYxM3ZibXRSc0RhUWpKTTRzZEwyYm9TZjRWcmFiUlJNcmtFXzMwN3RmamR2TDhleEc00gGoAUFVX3lxTE4zM3M3VVFYa3p3YWdmM212RGRKclNoQmRka3pnN1RHNWxQdldPTFJEcjRPc1lMOGJITUsyMUhkRndpOWVhTHZwQm9WVUQ4Tk9kU0tTLUVzRGNsaWFnTXhyWUl6YjVKY3RIZ2tGc2FweTg3SU5aY2s4Z21Md0VzOWRNYVpNY2hUR3R1aFE3QXJBZWFoaHJfVnJuV2hNWmdlcWVKVlZDQjk4MA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZTFYaURjX0t3SW9BNldZdnVLMkNkN3U1MmprTjduVFNUX1pHNlNwejVUVk1Ba3dnQXNEcWRuTXdoT1V2X183bTFjdEJlV2MwVkNRYXlEY2JoeGw2ZGZtUmNLSWMxdE1GSkQtc3dRbEdMVjhQSENmNVJaRy0?oc=5"
         },
         {
           "outlet": "ThePrint",
@@ -137,11 +191,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcml3SUtTWW9GRzRXREdJR05qY1FEWmllOWZfbkozSkhpdERjOENXak80dTBxMDFlbV81RENkTzkxR0EtM1NPQWU2Sk1VRXBqXzR0d05rM0xXaHBacFRLTm5Xa0NZbjFaaDU0b0dUZkJ4cGZOS2hCaWlRWXUzb0FMVUQzaUMtb1ZnQjdDeGNtZ240QkZlczJlRTg3eHlnOHh6Z3c?oc=5"
         },
         {
-          "outlet": "Vajiram & Ravi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55ZlB6NkVKWHlUV2RNZWczejlRZU9NaWNEZF9idHJ6VXdhQlNVc1R3ZlFWUElISHMyNmh5c09rQmxrVnc0OHFHVU5XbktMWnVhUUdYUzlIeTlVS1dGOUwySjZCZ0Rxd1k?oc=5"
-        },
-        {
           "outlet": "Architectural Digest India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDBNR0hGQ2w5VHdDVmY5Vnk4RVItSno3VmRfNVV5QWd3NmpJWG5nZG5DZlZ6MlBCWjZzcnZhaGtPaUlFZnlqc3JtYzZFRHpIWVRxM0ZRbTdMd3FmaWVDbGl4UllJQjdfa0pZVkFJNkJTZFQxZ1d6U3VRVExvblkzLXhxb3dZMllsUThhUHhNc1c5RlFhaGY3dFVKLTJWbDl4NjZDLXEtaVJlNW1oal9NcU1pQ3cyRHdNVGc?oc=5"
@@ -157,38 +206,11 @@
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMVVGdzBQV1RxeVBlbFRqTjc4cXNlbldrZWdZVV9EclNfLUhnekJqUkNJdzl0XzVGeWE3X0ZoSE1iWG44Tzc5dlpmQXBvX1F6dlNxSmpobXhPSmNmUWt2NWhibmJJbnBfZ1Z4NmNQQ21QN0NvbHNwSHRYMU5qNTRxU0tzMDdJT1ZPN0ZFNFpmY3lSd0ZxTF9udmFFbEwzcUVPZHlRODYyeWFldEVQUTQyNFZGeFdvZjN6cjNmSg?oc=5"
         }
       ],
-      "source_count": 20,
+      "source_count": 19,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Patna's Bihar Museum beats New York’s Met and Paris’ Louvre, secures 9th place on World’s 100 Best Museums 2026 list. A crime-related story. Covered by 20 outlets, including Hindustan Times and NDTV.",
+      "brief": "Patna's Bihar Museum beats New York’s Met and Paris’ Louvre, secures 9th place on World’s 100 Best Museums 2026 list. A crime-related story. Covered by 19 outlets, including Hindustan Times and NDTV.",
       "image": "images/patna-s-bihar-museum-beats-new-york-s-met-and-paris-louvre-s.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "sc-sets-december-1-deadline-for-anant-singh-to-surrender-in-",
-      "headline": "SC sets December 1 deadline for Anant Singh to surrender in Bihar murder case - Mid-Day",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHpkbjJ2YmVKOGQ1SHRIa3poQlVkckIwcE5fYXQ4T3gwZERFMC14QVl1enU5TEdpUm0wZVFmOGpXUGJGc0pYM2hHOVpnX25XSTItbWNKcWVHczZXRWlwdTd4RWR3WGY5dm1PYk9yemxGMERKT2lwc2l1MDdPdHNGb1pFaGwtdDdTZTE3OF85MENvcGhnVElZZmsySklFVC1jR0ZLYm83Skd6TEtlTG9ZajVMYkdMUkxDSkRlYmlxOWzSAcYBQVVfeXFMT2ZDUWRWQVZBUmpfSVowTE1MMmZVTHpnc2hlaU5lS3VXNW5VbnRJQzdMbDhqNXBLV0laWnlvNDdPYzAxWDI0R2FMZnp3RE9XamV4QUx0TGY4NWt5V1hqd2FMdjAwLTRlRDhHNTd0NHUtTXJzWmhieFJvdHdseFlOc3g2LVVQOG93X2wteC04cHlDSl9mbVZsNFdFY1NtV2tGZ1N3NTlSdjhEWTdlb3JTOW0zSWsySkc1bVBVS1FvbjFmOG0zRkJR?oc=5"
-        },
-        {
-          "outlet": "Mid-Day",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUkFoNDAxamJOTlJvWVdjUmhicDRfQ0JmNERwOUl2SXExaWRrYjNQNEhIYlJIb2lYVU5TRjhObl9NdDJTVVFjS2JYLW1FRXdfcGY4Y0t0djJsamlIWFBlUVpQaE5HLVh0emRkZTQ5UnQ5VUdBTWE0YzhQYmRWRkl2VlB1TjJ6bTI3U3VJVmQwVVMtNnJoQklVZ3kyQVg2dkxRSkJZWVBFYUNIY2N3VERaSmYyX1l1N3hnZUVHSVpDQ1J0QzZTMXdseE1EaDlZVklVS0twdXFpUFRwOEZPMmc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "SC sets December 1 deadline for Anant Singh to surrender in Bihar murder case - Mid-Day. A crime-related story. Covered by The Times of India and Mid-Day.",
-      "image": "images/sc-sets-december-1-deadline-for-anant-singh-to-surrender-in-.jpg",
       "image_kind": "photo"
     },
     {
@@ -239,8 +261,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "odisha-cadre-ias-officer-likely-to-be-ps-to-bihar-cm-https-w",
-      "headline": "Odisha cadre IAS officer likely to be PS to Bihar CM - https://whispersinthecorridors.net/",
+      "id": "bihar-museum-ranks-9th-globally-no-1-in-asia-in-2026-vajiram",
+      "headline": "Bihar Museum Ranks 9th Globally, No. 1 in Asia in 2026 - Vajiram & Ravi",
       "summary": "",
       "date": "2026-10-31",
       "topics": [
@@ -248,27 +270,22 @@
       ],
       "sources": [
         {
-          "outlet": "Whispers in the Corridors",
+          "outlet": "Vajiram & Ravi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2kzSy1CLWFYZUlzVTFzSVh3NThvMFhHUGhSdnRJYm9PQUN6NXdLYTdzaDdHZDk1QnpJeWpCdXFOWllfZk1aQmtpUHhfdVhLT05LYy0zYnE2Y0ZzZmFJVzVrSFpaT2E1eUM2MHdmY0o1NWU2cDNDV0RuRUs0UjkzZmE4T3RNZURFNk1oeVk1NDBIeG1zV2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55ZlB6NkVKWHlUV2RNZWczejlRZU9NaWNEZF9idHJ6VXdhQlNVc1R3ZlFWUElISHMyNmh5c09rQmxrVnc0OHFHVU5XbktMWnVhUUdYUzlIeTlVS1dGOUwySjZCZ0Rxd1k?oc=5"
         },
         {
-          "outlet": "https://whispersinthecorridors.net/",
+          "outlet": "Rediff",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVlZcmpMb19MSy1SRXRSTUVRM2dkRGQxSFRKem1xaW96MExsWmRUMDg4d0dyN0NDV1c5VXlxY3pyVjBobUdzZ1FsTU5RQTdFM3QzU3A0Ty1mVXhyZUdQbjdsazJ3cTNQZTJyUkdQaENwWGY2UGJJTDk1bk9qcVZNSTFuTnllR1IxNVRDUUJUNVNnQjZaWVFr?oc=5"
-        },
-        {
-          "outlet": "IndianMandarins",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNajJwQWdqX29hTF9TODVrcjY1QUZlcklVenVnRzdjekk4cHpZa2RuZGExVDdSSmowWVJxM20taXdlR0hOX196Nnc2VHZnSEVwRXY0OHpaaTd5X0ZIcDRQMmRlLVVBYThlUzZ0bHVDVXNfaV9ZdlpfeHlfcWlGUGVfOWFoUnFTYjNHaXN5U25JcE1BTzVQYmpTMm1rNEZKRkVsRWhEcmZYZlh5ZzVCTW5ZbFpLWTU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWdLQlVNZVBXNXMwSDk2aF9wcEZJOWw3M284alVCQkRkU2FlcjRMLVVsMXBXZHhERXNXdmozZmFiMXkyNEV0ZnlCMWEwdXU0RkFaOTY5Wm9KUnhwbnplcTBDTFdrcy1uclc3MmVuUE9FU1FQNGliQzc4TmFhaEw1WFo0alRXcjJ4SDg4c1NTVWNodTllT1JjTXFXazRBNFlFS3B3d09oR0JzQ1AwSkF0Xzl2aUEtQXFHZUZ1Tk130gHAAUFVX3lxTE9wVDcyREE3a0RBTFZrbjdqWXEzOVM2Zy11RW1rX0ctbXdrblptSlBJaF91MDVZNG96M19ReF9oaEZsODNpWUxSc2JDSlNWd3R6TjE1eEgtb0tMV1V1T3p0SEthZ3l2Wk5NbkdTZFJpU0pTSGRiemxpdE1TR2lZaHdoNHdlYjVUdV9nVzBNbzRpd1N5dmZ3OF9kRGVsTzRtTVRTallOZFdKelpFZ2MyamJkaHcxUVJMam91TGpOeUhFMQ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Odisha cadre IAS officer likely to be PS to Bihar CM - https://whispersinthecorridors.net/. Covered by 3 outlets, including Whispers in the Corridors and https://whispersinthecorridors.net/.",
-      "image": "images/odisha-cadre-ias-officer-likely-to-be-ps-to-bihar-cm-https-w.jpg",
-      "image_kind": "photo"
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar Museum Ranks 9th Globally, No. 1 in Asia in 2026 - Vajiram & Ravi. Covered by Vajiram & Ravi and Rediff.",
+      "image": "images/bihar-museum-ranks-9th-globally-no-1-in-asia-in-2026-vajiram.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "after-dropping-plan-for-highway-bihar-pushes-for-tourism-pro",
@@ -280,22 +297,22 @@
       ],
       "sources": [
         {
-          "outlet": "Vajiram & Ravi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BaFc5TEZkSktLQXRIWUd4UWxhdzFNbzZOcU95QTJBQ0k5R2JwYmRsTWQ2N1VabmY2Y3BxV2ZXaFBNVm5rQ1RvdDRpcUtOQXRyNi1FalgxQ3dBM1dZNFloTWVVTVc2VzJsa3lGcDNzT0Z5b1p5akIxSU14RHNmQQ?oc=5"
-        },
-        {
           "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkQ1Yy1WMnJSQ0cxNmYyLU1QTFdacXE4RzlYYWExb0JnZklGSERYZjU4V3FYOFM1blMwT0wwUDhVek1IdnQyTFBFeGJqalFWc1ZhdGhRU0tPaFA4Y1lTNlVrQUZOd1FKZ1V5M2IybFJ2d2xjTnA1REpjWHhkYnV4a0dOUzZxSEpmNDRqR3FPWXdmZXFtbEVPU3gwVXdHWlRadEHSAagBQVVfeXFMTndya1hHbFFBX3AxN0hqbm4wQnc4SUxQYXM0ZklObDM3RUgtU29oVEpTV1FyTXEyaGdwTlRFZGV0SmJrTFV0azJBSWV4YTBNaTIwYnBVOEFUX2RJdGo0amNCQ1FUN3FTZENlMC02dHFOVG9QWS1QUDByUm5rNGJfMzV1VlJ0a20xRFpQbzNVZHBQX2ZnMVhkRVhudzA3bGxqV1RQQnhQYlZy?oc=5"
+        },
+        {
+          "outlet": "Vajiram & Ravi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BaFc5TEZkSktLQXRIWUd4UWxhdzFNbzZOcU95QTJBQ0k5R2JwYmRsTWQ2N1VabmY2Y3BxV2ZXaFBNVm5rQ1RvdDRpcUtOQXRyNi1FalgxQ3dBM1dZNFloTWVVTVc2VzJsa3lGcDNzT0Z5b1p5akIxSU14RHNmQQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "After dropping plan for highway, Bihar pushes for tourism project in Bhimbandh Wildlife Sanctuary. Covered by Vajiram & Ravi and The Indian Express.",
+      "brief": "After dropping plan for highway, Bihar pushes for tourism project in Bhimbandh Wildlife Sanctuary. Covered by The Indian Express and Vajiram & Ravi.",
       "image": "images/after-dropping-plan-for-highway-bihar-pushes-for-tourism-pro.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "heavy-rain-thunderstorms-to-lash-bihar-red-alert-for-sitamar",
@@ -325,65 +342,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "no-more-jeans-t-shirts-bihar-makes-formal-dress-code-mandato",
-      "headline": "No more jeans, T-shirts: Bihar makes formal dress code mandatory for teachers - India Today",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTXVENHZBRFpGOC1CQm80ZlR1bmFxQ2Vza0g1VUh5anZJZjU0WlpwZlpDNzFXdTJ4NWJDOFU2SFE3VjJoU19BRndUTmZ2NjAxb2RKU0Yzc1p0N1V5cHhVNkpJSkdfSzRWQ1VEQ19SVE01aU1nMEJaVmpDdHlmVWFiZHpUZVM2am5XWV9kRC14Zjk3eVpiSVJEa1lNb3VKOTdTWjloNzBJekJaZnVrUk1vTVpfT2w3c3AwVHF5cjRuY0lWY1JlX0IwS2xXQUpaSkJ2cmpvZWFTTGxrN1ZDLVdRcnNPbWM3VXVYdy1saTJLVTFtQldQcUs3aDQ4dElFbUppZ1hCUko5RnLSAY4CQVVfeXFMT2lvb0E4R3R1MmRHYUdacEZPMDBDNmJDNEFMQ0VtbDdxODB3LWVfcklQd3Fwa1N3bDFEb3plM0hEU090VUVUd3VPWnBRaHgzWE5CVXhFYkVId3BBaGcwbWhwNVJ4Q1VpanNrbDM2MkcweDViUmV4Q1F6d0F4bmpMbG9Uei14UGw5eEppQWJnUUFHM050aFNNeW5zU00wMzQtSFBuQ0lQOThyQzFHdERxaDNQX1B6OTJHX1ZvZE9XVVRRNmdKMmQtSklnWW1ETVdKT25FcENnYWVUODlBa3U5eHZGdXZCVXFkSmJPbzBBd0J0NldCcnBvNVR1V1ZfdEkwWXdrc1c5QTRKSXV1cERR?oc=5"
-        },
-        {
-          "outlet": "GK Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb2dSdzdpQVF4LUVzWTg2ZGdIMkttUEtDV3ROM3dtTEZWbUZtdy00S3VqNVoxX2V6aFdZNFFiTjN5N19rZHMtTzNkMVlQT1BrN3pzYkpXWGhiMUVzQTN2aTZDd1N5NXFtV1JHWDlkRExvWEE5ZTZUVXA3cGlyMWx1eEdiM3dySjQzM1VTQ1Z1TTFzNFE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "No more jeans, T-shirts: Bihar makes formal dress code mandatory for teachers. An education-related story. Covered by India Today and GK Today.",
-      "image": "images/no-more-jeans-t-shirts-bihar-makes-formal-dress-code-mandato.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "andhra-governor-and-bihar-cm-hail-isro-on-successful-nvs-03-",
-      "headline": "Andhra Governor and Bihar CM Hail ISRO on Successful NVS-03 Launch - Asianet Newsable",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjB4dHVlYnRiSEJqZzRvR0VOUmEwaXo2RUJuOXBwNnkwNVBqSlVBTGVxdTYzUGlLOU5OSHhSczU0NkhUaEZfR3dCWGpOVXNxY2RyRmRDc2ZIR2t5OVoyb0t2eHVGQjhvM1o0djFJYjE0cXZ4UU8wS0x0dXBYT3FpY2d4eTgzdEVUQkZpcHpMMFlQaEMya19Ra1Roc3pzS1FhQ0pLZEpUcXlMSkdJU2VoNFRiRE5aZmllZGJuTlB4Q2VGekHSAcgBQVVfeXFMTVY4N2ROTTFJcXBESXRNOG4xSG5DakRhSU5fTkhOZXVDc1c2WUNSYi1VR1FPWmRPcXZDZDZOS3RmbkhQUUpIZlV0M3N1WjJPMWFqUFdEYTkwUDVxUW15UTlMNERXTmZqeFdwaW5ZQ2NQZGVPMVRGVG9GX1l3aDVISy1RSUNLQmU0cnFFa3dvWHEtV2JSWFlteTNPTkZYTDQ4LTlaVkNBNlZ5YzZEN0xfZ0RqNGg2WHQwVGpIVmNQQjhuS3VaakxKdnI?oc=5"
-        },
-        {
-          "outlet": "Awaz The Voice",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0NyWEtrR2lMR2xaX2lGUmxDbGhTakloZmJkM0pzMG81RHVUQ1ZQaUlnX1BmMGt2cU9OcmNZZjI5ZGR1REFxRHNuUF8wcG1hQ0llRGhldHF2bHpacDZVelAyX1E1cFpzQkVkMnlQaWlXaElwU25UTnViRURXZHk2M2NoZHBmWkZ1eG1uSUxMdlc5Z05wU24xOVZfMEx3Z0xGMWZEVkhLX1J4Vmc4?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzNjRlQxZjIyd01UbGZWNHpNV1VfQVl0MklhUS1FbkpJOXdIcWxrOU5SVDBfVzB2SEtSNm1UTnN1MmE0V01sTjdTQ3RFRFYyZk90NkFGSjlXZ09BRDJ1RldiLTZmUVFNWnI3c2VkQldkckh4eFZ1Y1d6em9fU2RkWTBjTFR5RFdsWXNDcmYxcHdzbUdSRkVsdW5lYw?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Andhra Governor and Bihar CM Hail ISRO on Successful NVS-03 Launch. Covered by 3 outlets, including Asianet Newsable and Awaz The Voice.",
-      "image": "images/andhra-governor-and-bihar-cm-hail-isro-on-successful-nvs-03-.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-first-bihari-first-remains-priority-says-chirag-paswan",
       "headline": "'Bihar First, Bihari First' remains priority, says Chirag Paswan - Udayavani",
       "summary": "",
@@ -408,60 +366,6 @@
       "genuineness_label": "Corroborated",
       "brief": "'Bihar First, Bihari First' remains priority, says Chirag Paswan. A crime-related story. Covered by ThePrint and Udayavani.",
       "image": "images/bihar-first-bihari-first-remains-priority-says-chirag-paswan.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "nia-arrests-absconding-accused-in-ak-47-smuggling-case-linke",
-      "headline": "NIA arrests absconding accused in AK-47 smuggling case linked to Nagaland-Bihar route - Hub News",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "Hub News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTllETklnYlFjQ3ktZGJDbVc0Vm00N1h3dHdpUW9vWV8xTjMxVmFvN1hpcWo1ZGtVN0NxUE9lX3hteFhleEFsRG5FOVZVQThlUE9OSEhaVDU2UU5yYzFNd001OHA4bXJ1UDVWSHE1cXJjRDRJUGdpaXBqV0txNGhuMHpsNmNiV19pMWg3cXFFTlVvbnB2c0JSQ2hSQU9FSVU0WEVHaUZnTE1Ud3VY?oc=5"
-        },
-        {
-          "outlet": "BW Police World",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOE14Qi0zLV9ZLVg3Q1hacnRzbktRYUg4Qy01eFJSM0w5NElzU3hVN1FLUzZ3OS01WDdrZm5ETWw3UHRiREZaY1d0NWc5ekFQYnBfalhZVUxYQk5Fa3F0WlRHZ1R1TGdhMnZoMFpmWGkwbmJaRUc3amJXeHpNVkJIS211S0lxbS1ZRjMwQ29aQnVSdURYZk9fVTlRRDhJWVFBa2xfNw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "NIA arrests absconding accused in AK-47 smuggling case linked to Nagaland-Bihar route. A crime-related story. Covered by Hub News and BW Police World.",
-      "image": "images/nia-arrests-absconding-accused-in-ak-47-smuggling-case-linke.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "navbharat-times",
-      "headline": "ग्राहकों के लिए बासी खाना? पटना- मुजफ्फरपुर के कई रेस्टोरेंट में खाद्य विभाग को मिली गड़बड़ियां, मचा हड़कंप - Navbharat Times",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkVLNlBibHJWYWt0TFZKNVZUTWg2VnRYQTA5OG4yY25ZN2V5RWxJNlBnWXBvek1KY3hPUlVmaEVJN21GYzR0YWh2QWhpbThXU1pKTHUtal93d3RHcnhjN0Z0cUowZ0UtVHJ0VWZzdEhaZnBpaXBZYVRndDFJQ0dZcENvYmNHS2hQOHhFRDJkR29wWHRFaVh0aDU0OXVVelpMbEQ2SWVPY1VabllHUkhFVg?oc=5"
-        },
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQVFVEOFRGb2hOMTROcWtIVHpHNFFaSk53Z1Fod055a2tGeFBFUkhuV3RQVW5yV1NZdU9FRkoxTUZCSUhaak13VE05X1VmRlNZbVNZUkNvUldESmxOZWVsaUdfU1hwcFQ2djY3U2N1c18ycldtUHNrU1FGbmUxeUdzMDBQYldTWXB4M0NkTHRPWlFFRXRUU0VvVHhmMy1WTWtnUFJzdzdQZy11dk5rUzRobk1YUmcyREFjNldlVHJxckVmNXdfMmp3Q3I3TnJNZWY5UXRCZnRfbnhud1d1Y2ppYk1xQWh1YlR6cG55SFJnbFc0dW9ndGZfMVRldVBSbzRqa1VyN1Z4U1l5b3JNdUpRcTlVdVRTZ0JnUVg5ZnJ30gGjAkFVX3lxTE4tYVd2bnVLTjlOMERoY3ZNMmVjZlc0NFpMSnBYNXFOMVBuN1hWSTdQZEF1S3R3UEFDWDJON2c5dWoxaW9VbTkxLUdqeDVVR0IySG9CQmlvUkpLaEpFSG5GZG5ZU0VkZHAwQUJrNXR2cWxqc3BPS19KZDlOZFR6VnN1eUJ6dHBMMjZxU3gxNXdUby1kaGZOQkd2LXBTSzkwLXFhX3dFN2d1bXdIdVFnVDVyUWlOUC1NSWFZLXlvODVxbUVSak1uZnlaakJJSEpWTHEzYlYtVXdXUkJ4Zm1NTlRDS0tVQk5xeldyUll4X090SWxqczlfT2ZlN0Q2ZEZPNDNDTy1teklFb1NJeGdVU0d4ZENuUlBHS2hFcFhMU3NPUkNBcw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "ग्राहकों के लिए बासी खाना? पटना- मुजफ्फरपुर के कई रेस्टोरेंट में खाद्य विभाग को मिली गड़बड़ियां, मचा हड़कंप। इसे Jagran और Navbharat Times ने रिपोर्ट किया है।",
-      "image": "images/navbharat-times.jpg",
       "image_kind": "photo"
     },
     {
@@ -474,20 +378,20 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVnAxT2d3MXNzcjdfU2VRamd2WE1QMy14YlJkU1FJc3BtcGxEeTZjaVY2RklKU0ZQUUhJWnppdXFaWlNSQjgwUU9DRFJrbk5IQ3JoTEFkWUVfYnJzNjl2dFUxeHpQZ1FFSi0yOE1ieTVta0pVam5KdmRvVTJzaThlLTJUdHBheGxtR3FaUWtNM1Uxa3JqVzJIMC1sQTFSU1FIeWJrdjZacUpRS3Z1dUZLQW50ZVpYMk9rOEpYbTVMN0Jkb0U?oc=5"
-        },
-        {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHpWRlo1VzdCRmdzSnRsQTNmeWdiYUR1V2dzZXhnX1gwZjktc3pBb1JwcjlOUC1FRVBUaTh1cXdMWVVPVXJrcjFfNk5MbWdLV3hCX29pREVnWVlBQ19wM01MelNoY3Q3ODdSdVQ1X2tydkN4RWMtZWtJNDVwZWw5eHQ5U1JMSVFDeHNfWk02U0U2UUlodC03Nlh2YVNMYURtTTRvT1FiMDlUaUNtWEpJamhiS1dTUDFaWEFqOFZJWDI5bEnSAcgBQVVfeXFMT1BzTFlYYzhBU3NQNXdHYWFIQlZoSUdhX1RKeW5SbjBYTU9BRkNyQWR2YVg5UlljSzNaelFMWmk4NFdnVnhXUmVMNzg4dFZ4OUJCX1V1NVc1RXRjVUxKcjFnRHNBLW9JNXpIU2xRSHNhcHM5dDJCdXRrc2NFUi0xQlhzbW4yS1A1Ykg5MERjLW1OM3ViN05Ia0RsVzhGUmhTclIxaTdkWGw3ZjRNYVdFcVdMZ1NOVm5oUExOMC1VNzJpMjRaU3lVRkM?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVnAxT2d3MXNzcjdfU2VRamd2WE1QMy14YlJkU1FJc3BtcGxEeTZjaVY2RklKU0ZQUUhJWnppdXFaWlNSQjgwUU9DRFJrbk5IQ3JoTEFkWUVfYnJzNjl2dFUxeHpQZ1FFSi0yOE1ieTVta0pVam5KdmRvVTJzaThlLTJUdHBheGxtR3FaUWtNM1Uxa3JqVzJIMC1sQTFSU1FIeWJrdjZacUpRS3Z1dUZLQW50ZVpYMk9rOEpYbTVMN0Jkb0U?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना स्नातक सीट पर JDU के नीरज का लगातार चौथी बार कब्जा, RJD और जन सुराज का क्या हुआ? राजनीति से जुड़ी ख़बर। इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "brief": "पटना स्नातक सीट पर JDU के नीरज का लगातार चौथी बार कब्जा, RJD और जन सुराज का क्या हुआ? राजनीति से जुड़ी ख़बर। इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।",
       "image": "images/jdu-rjd-jagran.jpg",
       "image_kind": "photo"
     },
@@ -583,6 +487,65 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-mlc-polls-rjd-s-anil-jha-declared-elected-party-s-over",
+      "headline": "Bihar MLC polls: RJD's Anil Jha declared elected, party's overall tally climbs to 17 - Deccan Herald",
+      "summary": "",
+      "date": "2026-10-30",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "theprint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0E0OFFHVnlab0s0dmh3Q2R6TGpuSFhKSWQyWHBKZzJDQmQydWJqendsY0pQSVU4VExFU2QwQ2xObzF6STJvMG9CcFJlTFVKYklMNzVjTHV0dy1kbzdEaDRxSWxtMU9VaHhzMVN6enoxSHZwVnRwZDRRcFYxdlBteXNOeUwtMnA2RFc0LTZYUXc4cjBkY0tKSVpsZkJMLXdZNndiMkx6ZGZkQVJtbHNfZ2hvUENkUdIBuwFBVV95cUxNWEJWeThJd2lIdmQxZEdWSVhKWjJqcGNURC0tWXhCNzRJU19DeEgxLXJTVUpZMUUwaEwtUkNWR2hNZmtwVzNOUWlTUXFuVmc1S3J6Sm9rRjVQSV9YMWM5empXRDFlM3dzeE9rc25uWDl4MzVsTm9wMGFqRE5vNGFka250MnRTSlI2eU4zeklVSWxmd3hHQW1WelUwcGFrTC12d0p5WkJ0Z0hCMXh3a0ZsLUtRSnlLMkpYa1dZ?oc=5"
+        },
+        {
+          "outlet": "Deccan Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTdlcjhTc19QOG1vNjJKaEtFTTFGZDM1MGlpR0dtMnpzNzVqSWs0SzNYLUNJQWJpWnRpVTZXZm1LbDluRU1nNGIwWGgxcF9YbTQxdDZwS1lBcVV4WWtTNDIzZlZidmRmSVFZNnEweDU2ZjRvRFZHVThWa2twZmt6azBkV0dIanc2c2NIakxkLW1NU25mQms5SUlIN3BUaVdQWU4wbmR2Q1ZNVmEybEdCbHhrX2lxa0h0RGtKR3BtWEplLU5IZlBPdQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar MLC polls: RJD's Anil Jha declared elected, party's overall tally climbs to 17. A politics-related story. Covered by theprint and Deccan Herald.",
+      "image": "images/bihar-mlc-polls-rjd-s-anil-jha-declared-elected-party-s-over.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "aajtak",
+      "headline": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम - AajTak",
+      "summary": "",
+      "date": "2026-10-30",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ABP News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3NmQ0FHN1plX2gwd2oyS1hPVEoycFA2NE1mXzNmX3l1TXNHSlR2YXlINUE2aHo3S3JQOG5mS0JqeHNLNTNUTWROdE5tTUJzM2Y4TEtFWkZJODBzS0k4VFNmclZDQXlmQmRMVW16OXB4UDdJeENmYkdrOUZHUUN5MEhaUnhac3JBRlMtTWEtZVFoYWozbTJOaFRObG5YYm5fenJjbVZWblItUWkt0gGyAUFVX3lxTE5fcDJQejVKRlFpVl9KbC16a2VQczNMM1k3X2NVM0RTQXBRSWhlbGdGMGNBYVZGNzFXUmZYU19McFNZNjhqQ3VqRVczY1ljcFNkTVRZcFRoOWJlaEFwMHg2LTFEWm13TVYyYjFJSmhJRVRTSFgyNjFXSmI2aXZMNHBlMTlRNDNNNi1hMktfaV9vS01jRmtBNjR3MFZRN3dsd3JvcVhEamhLSHE2VERoclJvT1E?oc=5"
+        },
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeld5dFhlTXdVbXVzdlJiWU5sZUd2OXA5X1RnQ0tLcmkyMFVRYWt2czdVVTJnb1gySzdnYUNMRjllendpNkQxQW9VQlZXXzJlV2JEQ0hTMGlBMkQyQnRhTmxDcGNhOVNXRzRWS1JrbGxpWk5qN2JOUnZDVTEwQmVNeWZiR3A4dE5xYWFiWFEyaXF5eGpIb2JETGd1NndUQ2N6NTAxYlNOSWc3eHppVGRLMmJlUVp0U3E4ZGfSAb8BQVVfeXFMUFBtYUZ3UGxNNUg0WmFBaGpuOFVfZThLRWlEd2JXQmF0bkR0T0VfYmR0dDF2THNxVVg3R2N3enFyeWY1QnVUcnUyeVhwVWhtVzhpaEJCWHBsa1BsUHRfQ2JUNll2VS1RWkpPc2kxYWFaNWxuQmtVVlFxOFlOVVdpeHNxVlpWazVRTE5laTVlRmR2c2FGUEt6c1gtLWJlaHV5b1YxdERYbjV1emloY29ndFJyR0NhM3hQRnEtVGlMeVk?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWVTd2M5VUppQnhLS0F6ZFJBSU1LMnVMODhWQlBoUlpsLVhwd0xid2pkRnhUSi1NRzlXSjJHTXBaMVloYlJoa3pYd3FOdFBPMW5qdUdXS1dscGdoMmd6eHB6RTRFdmpyUXlmYW9seHB5UnJHdUNsV0prYldzVGdmeWZCLWpUZ1R6VkFOREpyTkNZbzNxcWdRV2JDSmh4cEVScGRVeDM5TDZMQnBSMUU5NWZn?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें ABP News और AajTak शामिल हैं।",
+      "image": "images/aajtak.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "jagran",
       "headline": "पटना के होटलों-रेस्टोरेंट में खाद्य सुरक्षा की अनदेखी, एक ही फ्रिज में मिले वेज-नॉनवेज; बासी खाना नष्ट - Jagran",
       "summary": "",
@@ -654,12 +617,17 @@
           "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUndPV2tsN1o2MUtPbXNlSVVxMmdTQlJMNmxuT1MwZkY0NVlpVXQ2alFVdjZkbVR3RU9kanlPc3pNdERXUkl1V2o2LUhGMnMwUkFFblpfVVlCODU0LU81bkNMNDhrWFdaS1hiRkZfM0QzOFg4UldUZEtyMnIwNFRoXzFtOExQMkF3WENkTjNZLXpBZ3BSLURDN0p4VjM3d19DV2pHRjhFN1RIUk9BM1ZmcFVkNE1XUEFueGF4UjFIVUJMYUc0MndrVGl5eXRLZUxsV3ZIQ29PbWdYRl9MSkY1aFpLcDFBem1fMEc0Tg?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPankwOS1nRmlSWi1HSVpYLXZZWDRMNHpYZDJjNWlfc3NWZVZMWElUYXJNbWR5Z0s3RVM1OTVVRFJ6bWpOMkNtd2JxTVFLLW41Um1SZzQyd3FjVTQtZllrRUFQYjI0REV1MWF0RHVuZFVGeG13ZUtqNWJuOGtLWW0taHhMM18zM0NwR1RMSzloT3MtaGx6c0lVY1JlQ0RjN0ZiYURXNy1SeVVEbjkwM1dWLWEwMTjSAbcBQVVfeXFMT3dlZFJ0ZkpabXNaU0pEaEN5TzZYSDR0bnNWYnlyY0tQRzNTZmp0RW4tTGZqNUhiXzJmNnVJRzEwMkJUV3RySkFaa3V5MGNySkEyQ3ozNFNicWtmbGREbUw2Y25VX3pHZjZpUm5QclpSd0JmbFpqZ3ZGUVJ0RmRhWUNzVGgtS014MU5hT1VRNW1RaHZCOVhBQ0FFb2I4UUIzMEpsTWZkNDgweXFaTUFXZjNqZkRRNndR?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat. A politics-related story. Covered by The Hindu and ANI News.",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat. A politics-related story. Covered by 3 outlets, including The Hindu and ANI News.",
       "image": "images/bihar-mlc-polls-jan-suraaj-party-opens-account-jd-u-s-neeraj.jpg",
       "image_kind": "photo"
     },
@@ -722,6 +690,33 @@
       "genuineness_label": "Verified",
       "brief": "Prashant Kishor's Jan Suraaj wins 1st Bihar Council seat, BJP loses Patna Teachers’ Constituency. A politics-related story. Covered by 3 outlets, including The New Indian Express and The Indian Express.",
       "image": "images/prashant-kishor-s-jan-suraaj-wins-1st-bihar-council-seat-bjp.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-mlc-chunav-result-2026-live-news18-hindi",
+      "headline": "Bihar MLC Chunav Result 2026 LIVE: पटना स्नातक में नीरज कुमार जीते, दिलीप कुमार हारे - News18 Hindi",
+      "summary": "",
+      "date": "2026-10-28",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQk9EM25wc1dHTUVsanhLeWxvNGNTd08zVHU5X1U5Yk5uNG93Z01mZXpDSENjOERsNEl4WnNSeHF5QjdrdzBfMTBabnBRNXB3cXFKNGxjLWM2SER0U3prbTRERzhrb044a2RSZFlDVU1qX2I2TFVuUGJyaE40am1rWUtia05ONWZORlpZYW5nRVU4czlLazBoNVZFOXBQVG1Td3RfRHgwRWtHdHNNNGxXVFRVTzZwMHpLa2ZuRVptSW8wMklGQThLeFdSNDlKWTNDRkJfU0M4N1g0UzdGZ3J0TNIB5gFBVV95cUxQMGJFTnpHYTNVTmV5ZXpwS0pPQ2RZODBUd0hfaGphdzZidjJKM2Q2Y2paU1QzUXBmNk9UX3ZlWWstRjhSWVlNLUFERi1vYVB6VjJBckxJNzV5eThyWlh3ZUt5TmNuQ1F1UTdLV3VBbG4xa0dDLWxuWHlqVVp4aGRmVnhqbTdKaVZSVmJ5UXFMcnVUU0pEQ1hValBIUzNWOE4wVWZSUlRDTFAwTG5GdHpTN0pNcDVsLW04Ql9QZVcwazZJTU5YR0hvNzUzUUY1X2dWMEhNeFJJY2VBdFNjWktBYmdLa0t1UQ?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOXk3bTlCYVgtWjVBS3dUelBRSGJ3Z1BndHByeGx3WE03bm9EWGI4SGwwLURUNklNY3gyVmloN1VuM3BwaEFuNmVLaW83cVNOMkZsV1hRaUh0dG0yVzhOWmd4LUdEem04M0NUTkJ0eVBVLXpCTktZRWlZaS1FQmszUGhpLTFFaGV1M1lvOGJHcUFtczZtY2plYkI5YkY5M3RKUHMyNk1uSFcyTHkwVVZqeS10NkRkcFhOUlJLeUk5R2prMXE5RmwwTjdJakg1dUk5Sk9WbndJVjfSAd4BQVVfeXFMTTZIRl9TT29qaDB3TkgzRkZ2YXpEQllrT3lQRU1vT3c2ZmFMSmZVbGd2WGQtMTBOcWhQS3h1MWF0TVAzWF9wNEh5bnJFUmttNl94RmxsbXdOWHIxYW51ZmVwU01IRkJsNXQwdzdnYnRmUWJnR3EtdHBiNXd6Slp0bUFObm1QcEt6cUlzcGFmUmIza1hmeV9EYjVCZ2l2RlpWUEY0Ti1IbVgyTUpQd0pNU0ZtTUFTTG5vSi11SDRFSFJZYnJ0Z1lUajJiclhvU0VHZ25USUR4UHpQZ014VnNn?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar MLC Chunav Result 2026 LIVE: पटना स्नातक में नीरज कुमार जीते, दिलीप कुमार हारे - News18 Hindi। राजनीति से जुड़ी ख़बर। इसे AajTak और News18 Hindi ने रिपोर्ट किया है।",
+      "image": "images/bihar-mlc-chunav-result-2026-live-news18-hindi.jpg",
       "image_kind": "photo"
     },
     {
