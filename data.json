@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01 07:35 UTC",
-  "generated_at_ist": "01 Nov 2026, 01:05 PM IST",
-  "story_count": 53,
+  "generated_at": "2026-11-01 08:35 UTC",
+  "generated_at_ist": "01 Nov 2026, 02:05 PM IST",
+  "story_count": 54,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -29,7 +29,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Bullet train to Northeast: PM Modi approves Delhi-Guwahati bullet train corridor expansion, extending prop. A civic-infrastructure story. Covered by Moneycontrol.com and The Economic Times.",
       "image": "images/bullet-train-to-northeast-pm-modi-approves-delhi-guwahati-bu.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "two-independent-mlcs-extend-support-to-nda-government-in-bih",
@@ -93,7 +93,7 @@
       "genuineness_label": "Verified",
       "brief": "Bihar Board Dummy Admit Card 2027 Released for Class 10, 12: Check download links, correction dates and important details. Covered by 4 outlets, including Telegraph India and NDTV.",
       "image": "images/bihar-board-dummy-admit-card-2027-released-for-class-10-12-c.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "diljit-dosanjh-wanted-to-hold-concert-in-bihar-says-he-was-a",
@@ -192,8 +192,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "prabhat-khabar",
-      "headline": "छठ-दीपावली पर रेलवे का बड़ा तोहफा! भागलपुर-पटना और आनंद विहार-सबौर के बीच चलेंगी स्पेशल ट्रेनें, देखें टाइम टेबल - Prabhat Khabar",
+      "id": "diljit-dosanjh-wanted-to-perform-in-bihar-here-is-why-it-has",
+      "headline": "Diljit Dosanjh Wanted to Perform in Bihar. Here Is Why It Has Not Happened Yet - Hindustan Herald",
       "summary": "",
       "date": "2026-11-01",
       "topics": [
@@ -201,31 +201,53 @@
       ],
       "sources": [
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Mid-Day",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLURfOUV4ckk5bXlOdzVacE85a0tUWlFFTGhjeTR2M2pGQ3VYSUhfbG1XM3BpMXE0dGxYWFRwak9iU3gwVmtjTFYtdm1heDlsZWM1WUFjNkVLejFDLUZWWl85Y3JEUGs3OHl5S1djSVVYNjZjbFNYdVptU2UzTDhQeER0WnZvbExFbDdDdWJGS012aVZvZGZlenlpVWRiWEhGdlFUN01ROHBNZ3hTSkhRNEhoR1ByZnpxa0tROGpvVUpVY0xqaTd1QzdaX2dCQ0NSS2xVUUpB0gHbAUFVX3lxTE13NHRIaGhqelBORnprMnFZckhTRmpuczc1MHFPXzh4bG1kbE0wTkJJR3dEeC10bUpFU211RGlKTGdvd25lbjRlREZRYm91UWkyaG1ZR0hwS2R5SjJtMnhUQXQ2eXh0UTdkU1pYV3ZEYjlPek1seGM0TmhrQkE1SW9qb3BEd2t3Qy1ZUUp4dXFGUWo2QVh6ZzdiU1ZsdFVRYmJsYlVraTd4S1lGSDFrTWdGSGt2c1NtVno5dU4tTGR1NlF2WUVPNzBEZVJJMllMZEpVZ05jQnRzem1fYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWVBGdU9SQkIyV1ROalRsamUzcS13SldXYWc0ckxJN0RtSTRGOGRPaGhPZ2hlTTZlVndZRkhWRmpmWldhM0FkeHBDVmR2aURZbEZFSnU4OUxxd3N4a2xibXptbDFZeW5YUFJ1andqTS1wbzVNM0pXeHRKR0FNSlozTTBHSnBzQmF1Rll5aHp0d0RKU0xYcW9jTGNMMGZrTnJmTmZWaGZWeUJBSndBWHFtdjNVdEcweXZPY3ZMQXJwQ183MG1Cd09HUkxtaFlLc1VsaE94UXpRNVlYNzduQlloaGNB0gHnAUFVX3lxTFBnZzdzdnZVRlZnQWJ5RnJQOGs4Y2tWczBqaG5TUFRUSVFoeW0zYlFrS0x4cnQ2MGhqLXEzVXlGblhoQk9WTUYxc0o2RnJjakkyMXFId1ZOQzJ4WmxROFBtal9sS3dEdG9HTkVrM2JsekxDZmNMV09jUFZQNW9pS1pBRlhuaElvR3ViTFY5OG9FdXdLN0NmbEpXal9yWGtxTTQ4Tl9YU3doWTVmT1lYeUp0UHVHR3FXUURHeXN0b3ZFV2tmYVVZekJDejlYamMydjJiaXJIdXUxZl8yRnVJdzN1NERQRjUyOA?oc=5"
         },
         {
-          "outlet": "Nai Dunia",
+          "outlet": "Hindustan Herald",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2lXZ2JwcHZhcEhvbW5DSlEwWmh4MGZ6ZER0c2RidzJfWmxYUTRYX05EUzdmNi1JNEJzc0hObjZ0WWd0QkFGZGxYdGF0M1hNa2xWWnA2UHNyN05seHgtd3BRNG9wbGZ3b0pNekE1eFNtSy1xTHNtVmh0TTkzTkxoVHBRUmEtdWkwLTR0ZWJ0T2lfUzFnSTBkbHNIVHQya0Y3dmhGaEwzVnlSMDdxLWhlTUJXc05qcVZKdzRMSXBwLTRRMHRzNzZV?oc=5"
-        },
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02VmJWWWlXeFVSampJX2d5NnZOdzRPYUdRZGNFejlNMEQtZGZoZnd3RGZJcEFsQm9mN05DRFJ0LXY3eDg2Y0x4Zm9QWUNnbFZkTmczajZDOURod1FpU1NtbGFOZU9DbUw1am1vQnNVUUhwYnVpOC00bThNZXpEdw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Diljit Dosanjh Wanted to Perform in Bihar. Here Is Why It Has Not Happened Yet. Covered by Mid-Day and Hindustan Herald.",
+      "image": "images/diljit-dosanjh-wanted-to-perform-in-bihar-here-is-why-it-has.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "prabhat-khabar-247b0c",
+      "headline": "पटना में ब्राह्मण समाज की मांगों को लेकर मौन पदयात्रा, मिलर ग्राउंड से सप्तमूर्ति तक निकलेगा मार्च - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-01",
+      "topics": [
+        "general"
+      ],
+      "sources": [
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3ZJTDYtMVBwd3B4SUFwa3BtYjNVVUQ1MnBaV3RNdVlvVGZNeWZybE1rSnVpVlA3TllmNHlROVI0UXJ2RTZudUN5OE5zYUswVE5LLUxjb2EyeXlfTjdRTXNzNHFQTTA0Qms2aEZBMGM2cVpBcUNTa1YwbUdSdTgwWHZVbFg4eVdFTms0WHIwVUhiaGNwWWZrN0g4Y2JmVTdyUGZwN2h0QVlXQUlhTzRFcENWLXVfNmdSTjQwMjRJWHhQTWwxME5CZlpkRlhuYTFDcXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjNVMVlVY0NPMUJJTUJFYnk3dFlsTGt4STRqc2gyWHJRckVlYzJNRXB2LXJhenNIQ25zQ3hWTVdiZlpZWlphN1V4ekJacVlBYW1YalB0SjQ4amlfX25IVWtCbWliSFprdjVOX2pfQjNYd1lCcURfWUlDSGlRM3Qzb25UT3llQ2xOMlFvUFFBdXF5bkd0MTVkdjVTMnZfQWdsd0xwWFdzUGdVb0JqRURQbGJyT1RaX2YtQ3laLTMxcXhpbDg?oc=5"
+        },
+        {
+          "outlet": "दैनिक भास्कर हिन्दी",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHBtV2Y2Y1JILWFoWFBoMkszQy1HRTFRdDRNV25FTkFKNXZLMzdKZDBpRmZPV0EyaTdUd1R6VXdJQ1lRaEpYUHdLWldyRDlfUHdJNk15RHprSTcyNlE4b2ZtODlUOGR2ajBMelB0M3hJTUFQNVRFQ0d6cE5Db3Z6Q2U0cHZkSFM0eFdFTGFLTDlLcElUcjdwaHB2d2xRd21jUU5YRldQZWlFTk5hRjdyQzc1cDlRVDZVWV9mT1AwNFhJY3pOLWpraElVNW5kU3pzNGc?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "छठ-दीपावली पर रेलवे का बड़ा तोहफा! भागलपुर-पटना और आनंद विहार-सबौर के बीच चलेंगी स्पेशल ट्रेनें, देखें टाइम टेबल। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Nai Dunia शामिल हैं।",
-      "image": "images/prabhat-khabar.jpg",
-      "image_kind": "photo"
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में ब्राह्मण समाज की मांगों को लेकर मौन पदयात्रा, मिलर ग्राउंड से सप्तमूर्ति तक निकलेगा मार्च। इसे Prabhat Khabar और दैनिक भास्कर हिन्दी ने रिपोर्ट किया है।",
+      "image": "images/prabhat-khabar-247b0c.jpg",
+      "image_kind": "placeholder"
     },
     {
-      "id": "dainik-bhaskar",
-      "headline": "भागलपुर से पटना के लिए चलेगी छठ स्पेशल ट्रेन: टिकट की लंबी वेटिंग से मिलेगी राहत, जमालपुर और अभयपुर में भी ... - Dainik Bhaskar",
+      "id": "prabhat-khabar-f5c5d0",
+      "headline": "भागलपुर-पटना रूट पर चलेगी डबल डेकर ट्रेन! यात्रियों की भारी भीड़ को देखते हुए रेल मंत्री अश्विनी वैष्णव से लगाई गई गुहार - Prabhat Khabar",
       "summary": "",
       "date": "2026-11-01",
       "topics": [
@@ -250,12 +272,27 @@
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHUzNmtyRmxqMmlxbW9yVWJaZDhkMlFvUmpsbXlOUlk5OXFFYjBZTkFrQk5VWEhKdG81Q08wVy1uYkNUVExLUG1iM0pIRWFCeWtJQmFBNmRpNWxUSXRONUxmR2U4V0FTZTJjRy1jUkhVeU9sUEdrQzNVZWhyRHNLSWRhT0FnTFZ2WGdSSktmSHhSRGVTVFZBblVWbEgwVXlzRlZtYXdzSmVmT2N5?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUdNaG1oUWpJS0tZUVBGelFHT0syak1uWlNBd1A4MFQ0dkp0Yy12eEpDSl9pOWU2WW1GekhtenROMGNKVEhUaUEyMFBWMEM1c3AwMVhpYy1va1hGS0Ftajc3aHctdnA2azhMdXdhUFlyQi1qc3hhZEh1OWg2bzZselFJamlhOElkM3JlcHF0YWQ4T0lrS2JuMWhOLUIwRkcwUTQ0TFM2bXlNMkpvT0Q2TnN0UGM4WDhGd3Jn?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3NwYWNmWHRPa2o1WHlCdFRWQmh4SkI2QlZtZ0ZzQnFqaVJCYzBKeTMtRlMtbnFCdXRReDc4NExaanc0X2dONWdtck91X1NhQVM1VUdXSmhOdXVpUTlpTkF5cnB6Wm5fY2NNclZfbEFWQk9wRjJzNnhzazlUV3lKV0VjMDlENXhnSlNqdFR2TXFqTEVL?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEllcE9TSG1MY0Zic0tiU0hVcVBab1BXdW5ZWEo3LW5SVnRhNnhQSV9USnZoakpSWGw1c1BqcGJvNElDTkdxTDZRalBZbkVBRldFaGEzRktzeHpsUVViNEp4dlVMUHM4TzVqLXZ2OXBLTU45bTYyanhkUW9scEw3VDdoTnE5WTFrOHVlZk5fc0E?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDA4dVJTR0xjWXhUS3VwTFdpX1AwYUNIMGVWYVE5Sl9kRVNacnJFTGJIUllkR2JQWFBrbXRrUVVmSXE1MkZTeUNudUxjNDZjQlpkaDUzSGJ0SWpOUkR3NVdTR1dWZG9oZDR3Qm9CekpodWUyQVpoWHRNWTJNZ3VudTVFRHVBall2b1djemNkRXlPNmhpVjVmVzVtUnR3OTUzamRyNHp4SmJIYnM?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -275,19 +312,24 @@
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVDZKVmJLUElyWjBnVE5LcWppLVVmQ1ZmTEpFRmlmNFdtQ0dFbzJGdVpJTXkzRndLU0ZBYnFOd0hYbElmTVBsXzFHUHJnYWtJWW9IVDFUUGtDTDI2cFh3NFJHZ0FTTlN6UVcwS0YzNk9rNFRUSEVUWjAyT016WjZtRm1UcGpKd0tSR0kxRlZ0MWFDTVI0UE9JeFRENnZSOVQ4Y1FqWjNTa18zV2dISndzeFJJV2VrWU1kNXVIMVE4ald1NG5pNm1ucXMweDlVUk5n?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGRXQ0FmVEhKUWRXaTdoY1ZXRUkwNmNNX3ZkU2prZXlNOTJDOU13Z18wYkluNHRvUU9tbDB6Ync0MmxIZjVPSW8yUWNzVEZscGxIcHVMZ1ZULUpYWlFZTW45aDdja3k0cWRUVXlmT2RKa2xWcmdmS1J2UWI3YnBPUXY4V1pRYWNsTldrTg?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "भागलपुर से पटना के लिए चलेगी छठ स्पेशल ट्रेन: टिकट की लंबी वेटिंग से मिलेगी राहत, जमालपुर और अभयपुर में भी ... इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/dainik-bhaskar.jpg",
+      "brief": "भागलपुर-पटना रूट पर चलेगी डबल डेकर ट्रेन! यात्रियों की भारी भीड़ को देखते हुए रेल मंत्री अश्विनी वैष्णव से लगाई गई गुहार। इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/prabhat-khabar-f5c5d0.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "petrol-diesel-price-today-1-hindustan",
-      "headline": "Petrol Diesel Price Today: आज 1 नवंबर को दिल्ली से लेकर पटना तक किस रेट पर बिक रहा पेट्रोल-डीजल - Hindustan",
+      "id": "7-fd-10-jagran",
+      "headline": "7वां वेतनमान : पटना की तर्ज पर म्युनिसिपल बांड जारी करेगा भागलपुर नगर निगम, FD की तरह 10% सूद; जनवरी से चलेगा बुलडोजर - Jagran",
       "summary": "",
       "date": "2026-11-01",
       "topics": [
@@ -295,21 +337,58 @@
       ],
       "sources": [
         {
-          "outlet": "Hindustan",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXBCa1NPNVpIT2Z3LUlZb01Fejl6VEpRVnVTT2lOMHpZaWRyQWQySnFvbVFSSGI2OVFwN1ZhcGt6ajJySU9UaS1DaExSRGtyd1E5OUc5amV5SURWYnllaE1MT2p6U0hYZXBrOXBSUW1SVXFkRlNaMnNGZTY2NVl2UmFOeEFaUHBHX00yRkhnT0Y2WTdkWGMwbHBUaHVYdXZnVnlYdGxjQXl4dHdyaDd6TFg2ZkVvYllkWGtHMnkxekhyamVGcVpF0gHMAUFVX3lxTFBkQzVYb196MV95dnZBVmVtNUswaG9TTjNhWHdCdTNhdjBwM2tkWVp4Y0lNMHgxN3Jsa3N4dGFWTmNnLVV6OHBXekhySjFGN1Q2MTJvcXBTZkZkdFpjMkxNbVFENGhlN205bzJnVi1SUTBGeUloYmRKa3A0U0tuOC1jZHlxYzZLRDFETnl6c09BZ2dsQWJSNC16dThPUmFkLVc5Y0Vsbmg3LXloN1B6SS1zRDA4QWdoZ0tRVVVIVTNGRzZOcGdaQVl4dDFzZQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzJRNFJSZmVpX283SjAyUGpZT2M5TWZsMld5UXluaVlCak1IejE2aTZEX09fb2VKMEY4amNvVVd6eklWX2JWNmE0aTF5TEdOQ1FkbFQydURRTkF3Z2dieWJXa19JVGx2d1lDU29HWGFRVjJscmk3UjhrX1BPanhZLWhKNjVqY0NySTZlYjBlN1Q5b2JWclN3Tk5ZenVieFpCdDVOM3B5UHlBSVNF?oc=5"
         },
         {
-          "outlet": "ABP News",
+          "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa2VSc2llbi1Kd2I1dS1Vc0xCejA3R3k3RVBnNDNYRnVjdWdXOE9nX3UyMm14akFiOXNjUTJZZW5MZlFJNGdOdGtVeUJpSnB5NXh5WC1ZWnBjblNDVzRSUUZ4U2dXcmkwYzBINnNqb1dfQ1psQXNaeW9wQWpHNExYQUFKcjU1MWdaaDFvRV9XVHFUTmgtSElHbzVhN0NOcVdWT25MYzdqN2IwWnFZUnhJcTZGaVlySjRoTXVWZDIzTGpXdUJUNnpncHFhRVRUdEl2MkM1TlFQdUtuajVDZjVmVdIB5gFBVV95cUxNckpxOFhTOTRuZkFGRjhXUHpBR0lKVURleHVzLTNabUN3dTN6SVBMWHhBZ2FubnVDQmpPSk5Wc19WNVBHU2ppVkNlSGlKTGlRZERWaFhEYlJabV9pUzdZSW1jYWhDZE54VzNlckQydGJjaHZwVHh6dk5FQi1PLWgwVFZKX0hIM1JNSnpjZ3B2S1ViWkRyaElyVFVRUWFQaTV4SHVDRHJFVTdXYlJEWmYwT1pzNENsM1gtMWZFZXdxMWRPVkI5YVRIQ3hVbC16ekN0aGplc2VYcW9hbWt5U3VRdEZGR05HUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUJ3aVdOTkR3Y2lTRFYzbmFLaWN0ck9XQ2xMUG9odXdWdExkSndibEQ4TUY1RVdpaHlvaHBrczdQd0U2WlhSZGhjbVJZeFFudkFYdFpMUUtneEEwSkV2SUUyZVZEQjhSVTJiMmVleXMxZWFPZm5idUtNbHFKTUFtWDJ3S2kyU1JNeHhiMFBTcGFEZnVGMGtQT0NFUVZsSWlpQ1kxRUwwQ2ZBYlExV2NrRXRibXN6N21GNXhaWGx2R3lST3VTaTl3dkRjbTlHZUhJX1c1R2xYMUxXQQ?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk10cFVCelVYSEoyRzl4VW1uRUJmMm9MVVItaTVPblM4bWR0TC1vb0RMN01ydlY1cG1xeGpteGhnZHdSeF9vWV9NcnVWanVOREdiQlZ4d0ZHVWhDVUowS3YyekY3WmZQZWkxSWpyZ0JqOVVKTXRBdU1BSVUxNGtoOXZaNVdDUzVldnRDOGhjVUdXRlV0SDFKaUxteGJrR01TeEF3c0Y1cDNCM05vWGRSYg?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Petrol Diesel Price Today: आज 1 नवंबर को दिल्ली से लेकर पटना तक किस रेट पर बिक रहा पेट्रोल-डीजल। इसे Hindustan और ABP News ने रिपोर्ट किया है।",
-      "image": "images/petrol-diesel-price-today-1-hindustan.jpg",
+      "brief": "7वां वेतनमान : पटना की तर्ज पर म्युनिसिपल बांड जारी करेगा भागलपुर नगर निगम, FD की तरह 10% सूद; जनवरी से चलेगा बुलडोजर। इसे Prabhat Khabar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/7-fd-10-jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "prabhat-khabar",
+      "headline": "छठ-दीपावली पर रेलवे का बड़ा तोहफा! भागलपुर-पटना और आनंद विहार-सबौर के बीच चलेंगी स्पेशल ट्रेनें, देखें टाइम टेबल - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-01",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Nai Dunia",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2lXZ2JwcHZhcEhvbW5DSlEwWmh4MGZ6ZER0c2RidzJfWmxYUTRYX05EUzdmNi1JNEJzc0hObjZ0WWd0QkFGZGxYdGF0M1hNa2xWWnA2UHNyN05seHgtd3BRNG9wbGZ3b0pNekE1eFNtSy1xTHNtVmh0TTkzTkxoVHBRUmEtdWkwLTR0ZWJ0T2lfUzFnSTBkbHNIVHQya0Y3dmhGaEwzVnlSMDdxLWhlTUJXc05qcVZKdzRMSXBwLTRRMHRzNzZV?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLURfOUV4ckk5bXlOdzVacE85a0tUWlFFTGhjeTR2M2pGQ3VYSUhfbG1XM3BpMXE0dGxYWFRwak9iU3gwVmtjTFYtdm1heDlsZWM1WUFjNkVLejFDLUZWWl85Y3JEUGs3OHl5S1djSVVYNjZjbFNYdVptU2UzTDhQeER0WnZvbExFbDdDdWJGS012aVZvZGZlenlpVWRiWEhGdlFUN01ROHBNZ3hTSkhRNEhoR1ByZnpxa0tROGpvVUpVY0xqaTd1QzdaX2dCQ0NSS2xVUUpB0gHbAUFVX3lxTE13NHRIaGhqelBORnprMnFZckhTRmpuczc1MHFPXzh4bG1kbE0wTkJJR3dEeC10bUpFU211RGlKTGdvd25lbjRlREZRYm91UWkyaG1ZR0hwS2R5SjJtMnhUQXQ2eXh0UTdkU1pYV3ZEYjlPek1seGM0TmhrQkE1SW9qb3BEd2t3Qy1ZUUp4dXFGUWo2QVh6ZzdiU1ZsdFVRYmJsYlVraTd4S1lGSDFrTWdGSGt2c1NtVno5dU4tTGR1NlF2WUVPNzBEZVJJMllMZEpVZ05jQnRzem1fYw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3ZJTDYtMVBwd3B4SUFwa3BtYjNVVUQ1MnBaV3RNdVlvVGZNeWZybE1rSnVpVlA3TllmNHlROVI0UXJ2RTZudUN5OE5zYUswVE5LLUxjb2EyeXlfTjdRTXNzNHFQTTA0Qms2aEZBMGM2cVpBcUNTa1YwbUdSdTgwWHZVbFg4eVdFTms0WHIwVUhiaGNwWWZrN0g4Y2JmVTdyUGZwN2h0QVlXQUlhTzRFcENWLXVfNmdSTjQwMjRJWHhQTWwxME5CZlpkRlhuYTFDcXc?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "छठ-दीपावली पर रेलवे का बड़ा तोहफा! भागलपुर-पटना और आनंद विहार-सबौर के बीच चलेंगी स्पेशल ट्रेनें, देखें टाइम टेबल। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Nai Dunia और Dainik Bhaskar शामिल हैं।",
+      "image": "images/prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -322,21 +401,75 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0hYeDNnbWVRQnFwbUd5Z1l3YVUwcFJJWU05V19ZOTdCUkJfMmt3eTRYMFZ2Rl9yWEpTOTVOeTZoQ1c0VWIyd0RxMUtldFBiUTRYWVRNbnBqV05hSS1QQVBRYVBBWFNIdFUyWUdPOG1leXBNb2lVZmZhT0NMNDhZUmtScFhOenFOUEhjM0ZMVVVYdElsSktyNWVBel93T0pGdGwzX3FwV1J2UUt6SWc?oc=5"
-        },
-        {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVEo3VmNWWlpXWjB2MFd3MTlTVWt1dDJEZGJ5MklkVW80d0ZONnZ2amlKYnlWamNFWU9VOEo1c2d2VGZhWW5uTXByU3pBS1ZTbi1kX2dwcVd0cmRzYzg5UUZOVjczS3UwSTZYOElkYzNwT3p4ODd4em1JWGQ3aUxwUUoxZE9tX0FxQzFEY2FjUENfUzlhS3JuUnZuQVJEbkItcEhTQm5pdnlWQkpHOVlTeUNkZWZ5S3VMdDF4aXVqZWVWMlRPS0Fka2pJNWlRY0Q5dWd6LXBZdlJaRlBkMFJuWWNtRjJSZVlvU1NzX2lkUXdSdk5Kdk8xaHZmSlrSAYICQVVfeXFMUGQ4YllNZHoxWlBwbzJTNG5FOVNUUEVCMGFFNnlfTlJiNlJyeHZvbF9hQXdqOUdUalI2ci0wZHBBdl8wUFRIaGhUV2xGMEZpbGZaci1rb1R5N0pPUG5NQnZOaWFWeFFlamc4NnJuNENuY0FyTVdNY2pud1lOYnJ6aDNId1pudWotZ2lnaEMwRnNDWmhNZU81Ulk2V3plc2Q0Y1I1TEMwVjZGaUFsdDRyekkzVVBzcHhsWVhNV0xXbVVlQXVydHZPTnNVbnl0S2F4SkJ1U2laOFUteExyQTVzZ2tiVjhiNjRxS1EtcGozVlJwWVFJaUdfdTRMdG5QaU5DQ0FB?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0hYeDNnbWVRQnFwbUd5Z1l3YVUwcFJJWU05V19ZOTdCUkJfMmt3eTRYMFZ2Rl9yWEpTOTVOeTZoQ1c0VWIyd0RxMUtldFBiUTRYWVRNbnBqV05hSS1QQVBRYVBBWFNIdFUyWUdPOG1leXBNb2lVZmZhT0NMNDhZUmtScFhOenFOUEhjM0ZMVVVYdElsSktyNWVBel93T0pGdGwzX3FwV1J2UUt6SWc?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "बक्सर स्टेशन पर आनंद विहार-पटना सुविधा एक्सप्रेस के इंजन का ब्रेक जाम, डेढ़ घंटे तक फंसी रही ट्रेन। इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "brief": "बक्सर स्टेशन पर आनंद विहार-पटना सुविधा एक्सप्रेस के इंजन का ब्रेक जाम, डेढ़ घंटे तक फंसी रही ट्रेन। इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।",
       "image": "images/jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-metro-d-wall-work-advances-at-patna-junction-station-4",
+      "headline": "Patna Metro: D-Wall Work Advances at Patna Junction Station, 4th Panel Underway - Metro Rail News",
+      "summary": "",
+      "date": "2026-10-31",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Metro Rail News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kRGwyVV9zaVdUY3QwZXNnMU1VZjhoRnR0UVNFYkUzbnBuVDBPOEFxN2hTTXB2dF94TFRGelZ1Z0R0OWdMUGZMX1F2VjVDWFV4WGFTNV9vbWNHSWNEcEh2bVEyOFpNaHZza1FmSWtsTWFqVmoyaGhIRzJ3?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMUZvVDZ6bk5WRHZKRVBlN3ItNV9YS0ExeXdrU291ajVlVzBXeXc5U1lkSy15VjRfdnhJZVp0Sk9HcWRfYlVCZm9pZmh0aW1KQVVKNjJTSUE1dzhKTGpIb3MteVpjUW5Ba2w0bHU5TmdmLVpHd1F1QlJmakMyQW5XYzRFU1pVeENtR1I0Ry1MM3JUa3NKak5vQmhEQ3czUFNDZFFXQUFHUGwwZWV5cy1OaUFKRHZMaC1uTURUajRpLUl0RVBibEQ0dkgwa0p5cnPSAdQBQVVfeXFMTmVtNXlYQ1p0RnN3MWJqOU9KZVdiRE5zdE5aQXRHQld1Z2E3MTM3UWx5XzBPUmdha2NwRGRGYW92M0ExNUthUWs4OE12NVlFUUpVX1I2MUZRdlh1Ty1tUTRkYjNCSUd6Wk02NTZ5TzhIMkhhdjB6QVBCYkFJY0M4M3pndUtjQURZeDV3SVlmUGVkQ0JfX3lHV21WN2VuVTY5TUxWVXluM1FIbmJqUlF3Z3VRYThvMVpnaWxBd2ViQ1hMTk45M3ZGb1JSamVTOEo2Yk9FV1E?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna Metro: D-Wall Work Advances at Patna Junction Station, 4th Panel Underway. Covered by Metro Rail News and The Times of India.",
+      "image": "images/patna-metro-d-wall-work-advances-at-patna-junction-station-4.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-to-get-bihar-s-tallest-sardar-patel-statue-cm-announce",
+      "headline": "Patna to Get Bihar’s Tallest Sardar Patel Statue, CM Announces - Urban Acres",
+      "summary": "",
+      "date": "2026-10-31",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjhvZ3ROaUJtMzM4UUtlVVU0ZXpkam1FR3BZU3p4RTlzaXkzdXAwR2VWZGwxYldsUFBoSmFmWUcyNlpJa1hNNWdvMzVvV3YzOGhrSmFFa2loUlRkTUVuMXF4OGZQV1pweHhuSWpoY3ZkbGhqZFlQeXA3ZWE5Q1hSWjNYMHptR1dhVXdQUFRvQi04ZXUwRFk4UEJ5SzZmZEdyOU45QTFDWG9iYWwwUnd4Nm9BLVoxMExKMWVyeldCMGxQM0h1SUtlUNIByAFBVV95cUxNWjhvZ3ROaUJtMzM4UUtlVVU0ZXpkam1FR3BZU3p4RTlzaXkzdXAwR2VWZGwxYldsUFBoSmFmWUcyNlpJa1hNNWdvMzVvV3YzOGhrSmFFa2loUlRkTUVuMXF4OGZQV1pweHhuSWpoY3ZkbGhqZFlQeXA3ZWE5Q1hSWjNYMHptR1dhVXdQUFRvQi04ZXUwRFk4UEJ5SzZmZEdyOU45QTFDWG9iYWwwUnd4Nm9BLVoxMExKMWVyeldCMGxQM0h1SUtlUA?oc=5"
+        },
+        {
+          "outlet": "Urban Acres",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTM4Nm0taEpvTWhjblVJTjA4Q0FsdGN1U1JkNDFqbnVRYjZ3am5iMjV3TUFfV2JBU1N1Z09uZW5DeUstOFAxTlRFZjJ0ZGlLWlRBSkZxcGdXQ1NudURBVDlDWjRTUEVWZ1V6WGpoYVhDMDEwaEJtd2JIYTFmQ0tzOXdxcVlPUlFfWGpn?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna to Get Bihar’s Tallest Sardar Patel Statue, CM Announces. Covered by The Times of India and Urban Acres.",
+      "image": "images/patna-to-get-bihar-s-tallest-sardar-patel-statue-cm-announce.jpg",
       "image_kind": "photo"
     },
     {
@@ -417,33 +550,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "patna-metro-d-wall-work-advances-at-patna-junction-station-4",
-      "headline": "Patna Metro: D-Wall Work Advances at Patna Junction Station, 4th Panel Underway - Metro Rail News",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Metro Rail News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kRGwyVV9zaVdUY3QwZXNnMU1VZjhoRnR0UVNFYkUzbnBuVDBPOEFxN2hTTXB2dF94TFRGelZ1Z0R0OWdMUGZMX1F2VjVDWFV4WGFTNV9vbWNHSWNEcEh2bVEyOFpNaHZza1FmSWtsTWFqVmoyaGhIRzJ3?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMUZvVDZ6bk5WRHZKRVBlN3ItNV9YS0ExeXdrU291ajVlVzBXeXc5U1lkSy15VjRfdnhJZVp0Sk9HcWRfYlVCZm9pZmh0aW1KQVVKNjJTSUE1dzhKTGpIb3MteVpjUW5Ba2w0bHU5TmdmLVpHd1F1QlJmakMyQW5XYzRFU1pVeENtR1I0Ry1MM3JUa3NKak5vQmhEQ3czUFNDZFFXQUFHUGwwZWV5cy1OaUFKRHZMaC1uTURUajRpLUl0RVBibEQ0dkgwa0p5cnPSAdQBQVVfeXFMTmVtNXlYQ1p0RnN3MWJqOU9KZVdiRE5zdE5aQXRHQld1Z2E3MTM3UWx5XzBPUmdha2NwRGRGYW92M0ExNUthUWs4OE12NVlFUUpVX1I2MUZRdlh1Ty1tUTRkYjNCSUd6Wk02NTZ5TzhIMkhhdjB6QVBCYkFJY0M4M3pndUtjQURZeDV3SVlmUGVkQ0JfX3lHV21WN2VuVTY5TUxWVXluM1FIbmJqUlF3Z3VRYThvMVpnaWxBd2ViQ1hMTk45M3ZGb1JSamVTOEo2Yk9FV1E?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna Metro: D-Wall Work Advances at Patna Junction Station, 4th Panel Underway. Covered by Metro Rail News and The Times of India.",
-      "image": "images/patna-metro-d-wall-work-advances-at-patna-junction-station-4.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-55-year-old-woman-shot-dead-in-patna-fir-registered-in",
       "headline": "Bihar: 55-year-old woman shot dead in Patna; FIR registered, investigation underway - ANI News",
       "summary": "",
@@ -493,33 +599,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar: 55-year-old woman shot dead in Patna; FIR registered, investigation underway. A crime-related story. Covered by The Times of India and ANI News.",
       "image": "images/bihar-55-year-old-woman-shot-dead-in-patna-fir-registered-in.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-to-get-bihar-s-tallest-sardar-patel-statue-cm-announce",
-      "headline": "Patna to Get Bihar’s Tallest Sardar Patel Statue, CM Announces - Urban Acres",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjhvZ3ROaUJtMzM4UUtlVVU0ZXpkam1FR3BZU3p4RTlzaXkzdXAwR2VWZGwxYldsUFBoSmFmWUcyNlpJa1hNNWdvMzVvV3YzOGhrSmFFa2loUlRkTUVuMXF4OGZQV1pweHhuSWpoY3ZkbGhqZFlQeXA3ZWE5Q1hSWjNYMHptR1dhVXdQUFRvQi04ZXUwRFk4UEJ5SzZmZEdyOU45QTFDWG9iYWwwUnd4Nm9BLVoxMExKMWVyeldCMGxQM0h1SUtlUNIByAFBVV95cUxNWjhvZ3ROaUJtMzM4UUtlVVU0ZXpkam1FR3BZU3p4RTlzaXkzdXAwR2VWZGwxYldsUFBoSmFmWUcyNlpJa1hNNWdvMzVvV3YzOGhrSmFFa2loUlRkTUVuMXF4OGZQV1pweHhuSWpoY3ZkbGhqZFlQeXA3ZWE5Q1hSWjNYMHptR1dhVXdQUFRvQi04ZXUwRFk4UEJ5SzZmZEdyOU45QTFDWG9iYWwwUnd4Nm9BLVoxMExKMWVyeldCMGxQM0h1SUtlUA?oc=5"
-        },
-        {
-          "outlet": "Urban Acres",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTM4Nm0taEpvTWhjblVJTjA4Q0FsdGN1U1JkNDFqbnVRYjZ3am5iMjV3TUFfV2JBU1N1Z09uZW5DeUstOFAxTlRFZjJ0ZGlLWlRBSkZxcGdXQ1NudURBVDlDWjRTUEVWZ1V6WGpoYVhDMDEwaEJtd2JIYTFmQ0tzOXdxcVlPUlFfWGpn?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna to Get Bihar’s Tallest Sardar Patel Statue, CM Announces. Covered by The Times of India and Urban Acres.",
-      "image": "images/patna-to-get-bihar-s-tallest-sardar-patel-statue-cm-announce.jpg",
       "image_kind": "photo"
     },
     {
@@ -578,33 +657,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-first-bihari-first-remains-priority-says-chirag-paswan",
-      "headline": "'Bihar First, Bihari First' remains priority, says Chirag Paswan - Udayavani",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXlqbzlZbUFid05XNDQxdjJ6VjJMYmo4cWItbFZ5b3RxdC01bzkwTDZtMmI1QVRWMWp3RzVUcy1KdFJyTi1YaTJFaW1fclBpZFgtNFBtbVJMTVRaQ2hXZFVPZENmUWZoMkZsaFhVdFZ6d3l5TkpxazJtcDJOTi1uY28xdmFwUF91VjFVTHFYd2x1NDljVnZwOG43SdIBoAFBVV95cUxOaUhfQkNGRFJ0dFdFZ0w0VXNfRmxPVzNNZ2hXazNjNlpNc3JpcnEwemszSXJMeFBEM1pudmtLLW53dDFGUGxtakJ3cTJrbl9XRUlsdHU1RWdRZXJxOHBUWlZpb1g3bGtNamJkVkxzVFlTR0x5b2FrMVdXdndtSjRqQmFnMENqbC1LdDBYbXd4X2plNXFUVGdaRFRlLU5qb1hn?oc=5"
-        },
-        {
-          "outlet": "Udayavani",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUnBtdUJ1VFJOVVZSeU5HbTcwWUZMYUNDelpkVG1vbzJOM3VKa1lncWkySzFQMEotR2U2TG1wTFVjaldnSUhKZklNbDdtbXpHYzZsZjlwUFR2ZEJydG93NDZTVzE0a1VXdTVPaVpnTE91c2ppSXhYc25tMDk2RXJwVDgxVXZWM29XZm5sNllYNF9raGFNZUoyTFZ3Yk1aVS0xejc4RllVblYyUQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "'Bihar First, Bihari First' remains priority, says Chirag Paswan. A crime-related story. Covered by ThePrint and Udayavani.",
-      "image": "images/bihar-first-bihari-first-remains-priority-says-chirag-paswan.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "200-18-jagran",
       "headline": "पटना नगर निगम ने म्यूनिसिपल बाँड से डेढ़ घंटे में जुटाए 200 करोड़, अब शहर में होंगे 18 विकास कार्य - Jagran",
       "summary": "",
@@ -614,20 +666,20 @@
       ],
       "sources": [
         {
-          "outlet": "inextlive",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXdHX1J3aThMdUE5WFBCQzV2VkxldmlBam1NZmMydG9GVVBnZlc4X1YzNVhHSVkyRVJTMTdrSFRxLXk1RVZGc0FGdGVTTEtUNFBpZmUzWHN3dkVrZFBfUWQ4a1FVQTRybUplZUZOZnFzOWxaazVNTFYyOE1aX2xiNS1mbVNRNVVHUWI2TFp6RjFoeWJrNnA2bzVLTlFvRUVYQ3VDM3VGRVBpalFtSmlSMXJleF9IaV9CNDYxUjFiNjZrWkI2ek1MM0RpVGVkRzZLbjVab2dhRkZ6cWhXbDJKdUtkS1Q2aHBLY2gw?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORm5KN3lTRE1mMmF0NUduUmxJSmp6d1pnNTFhXzNOV1NHbjZRR1U5WEJnQ0huMXM3Z05IRHo2azV2UFFJTmFnSzVKQTZuUlJiaFI4R21Ga20yYXBoUXduTzNDWGNGTkdPNGNvbkZ3b3I5dkhkYnJNNnhNRVg5TzMtejlzSHJRMDhrSGozTjFGamlvQTJHdk9acm1tSS1zRjQ5eFB5S2tJLU9VNWIzWEpVT3dRbDBZbUE?oc=5"
+        },
+        {
+          "outlet": "inextlive",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXdHX1J3aThMdUE5WFBCQzV2VkxldmlBam1NZmMydG9GVVBnZlc4X1YzNVhHSVkyRVJTMTdrSFRxLXk1RVZGc0FGdGVTTEtUNFBpZmUzWHN3dkVrZFBfUWQ4a1FVQTRybUplZUZOZnFzOWxaazVNTFYyOE1aX2xiNS1mbVNRNVVHUWI2TFp6RjFoeWJrNnA2bzVLTlFvRUVYQ3VDM3VGRVBpalFtSmlSMXJleF9IaV9CNDYxUjFiNjZrWkI2ek1MM0RpVGVkRzZLbjVab2dhRkZ6cWhXbDJKdUtkS1Q2aHBLY2gw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना नगर निगम ने म्यूनिसिपल बाँड से डेढ़ घंटे में जुटाए 200 करोड़, अब शहर में होंगे 18 विकास कार्य। इसे inextlive और Jagran ने रिपोर्ट किया है।",
+      "brief": "पटना नगर निगम ने म्यूनिसिपल बाँड से डेढ़ घंटे में जुटाए 200 करोड़, अब शहर में होंगे 18 विकास कार्य। इसे Jagran और inextlive ने रिपोर्ट किया है।",
       "image": "images/200-18-jagran.jpg",
       "image_kind": "photo"
     },
@@ -668,9 +720,9 @@
       ],
       "sources": [
         {
-          "outlet": "ABP News",
+          "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3NmQ0FHN1plX2gwd2oyS1hPVEoycFA2NE1mXzNmX3l1TXNHSlR2YXlINUE2aHo3S3JQOG5mS0JqeHNLNTNUTWROdE5tTUJzM2Y4TEtFWkZJODBzS0k4VFNmclZDQXlmQmRMVW16OXB4UDdJeENmYkdrOUZHUUN5MEhaUnhac3JBRlMtTWEtZVFoYWozbTJOaFRObG5YYm5fenJjbVZWblItUWkt0gGyAUFVX3lxTE5fcDJQejVKRlFpVl9KbC16a2VQczNMM1k3X2NVM0RTQXBRSWhlbGdGMGNBYVZGNzFXUmZYU19McFNZNjhqQ3VqRVczY1ljcFNkTVRZcFRoOWJlaEFwMHg2LTFEWm13TVYyYjFJSmhJRVRTSFgyNjFXSmI2aXZMNHBlMTlRNDNNNi1hMktfaV9vS01jRmtBNjR3MFZRN3dsd3JvcVhEamhLSHE2VERoclJvT1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWVTd2M5VUppQnhLS0F6ZFJBSU1LMnVMODhWQlBoUlpsLVhwd0xid2pkRnhUSi1NRzlXSjJHTXBaMVloYlJoa3pYd3FOdFBPMW5qdUdXS1dscGdoMmd6eHB6RTRFdmpyUXlmYW9seHB5UnJHdUNsV0prYldzVGdmeWZCLWpUZ1R6VkFOREpyTkNZbzNxcWdRV2JDSmh4cEVScGRVeDM5TDZMQnBSMUU5NWZn?oc=5"
         },
         {
           "outlet": "AajTak",
@@ -681,7 +733,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम। इसे ABP News और AajTak ने रिपोर्ट किया है।",
+      "brief": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम। इसे Jagran और AajTak ने रिपोर्ट किया है।",
       "image": "images/aajtak.jpg",
       "image_kind": "photo"
     },
