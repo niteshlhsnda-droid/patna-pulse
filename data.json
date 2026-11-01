@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01 20:35 UTC",
-  "generated_at_ist": "02 Nov 2026, 02:05 AM IST",
-  "story_count": 50,
+  "generated_at": "2026-11-01 21:36 UTC",
+  "generated_at_ist": "02 Nov 2026, 03:06 AM IST",
+  "story_count": 49,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -14,14 +14,14 @@
       ],
       "sources": [
         {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMkY2UVdBTzlRc2NWcGRuWWk2WVdaOE92OUFlbVNQVF80ZWZ0MmhMc0lzWmtEd0c5X295TVJoOHJ2QTNjX2hhSWN5dndrMkhPNHZ3QmdhQTYwbW5qZnpBVXJIM0xiaE9ISE8waEV0eVNHcE85Sjc1eVpIUi1yWl9UQXlVb3FCcXBXMG53N2xQVG14WVduTWM5MHpyZnlSN3pzc19KY2tGSzBfV2V4dkhkWFNXSlJPbmFHQU5jT2hTMmkzTzFQWnMwTkFYMFRDcXfSAdQBQVVfeXFMTU02T1d1Sm1yUFNfcm5PXzUtT21ndTVnZUlQcENWbFZTSkR3VFk4bGdJSEtoRVhoaHljZGVYS19ncVBLV2tfekprc0VWbWdZWTA5SW1jQVZFRm1Fd3lIUnhZcWNMdWxmVVlWSGl2NERpaXpRV0FCMVgwTzNMeFZ4ejc1bjZJa1hSRWZyS2tmblo4NEt0WnZKVTlveFZDNklHQmY1dHFLdG4yVjNUcUFOSWlKQjBUbE0yLXJpcWNVRVFYaDNONVFvSUI2QjlZWGU3NlJ1bHA?oc=5"
-        },
-        {
           "outlet": "Metro Rail News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kRGwyVV9zaVdUY3QwZXNnMU1VZjhoRnR0UVNFYkUzbnBuVDBPOEFxN2hTTXB2dF94TFRGelZ1Z0R0OWdMUGZMX1F2VjVDWFV4WGFTNV9vbWNHSWNEcEh2bVEyOFpNaHZza1FmSWtsTWFqVmoyaGhIRzJ3?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMkY2UVdBTzlRc2NWcGRuWWk2WVdaOE92OUFlbVNQVF80ZWZ0MmhMc0lzWmtEd0c5X295TVJoOHJ2QTNjX2hhSWN5dndrMkhPNHZ3QmdhQTYwbW5qZnpBVXJIM0xiaE9ISE8waEV0eVNHcE85Sjc1eVpIUi1yWl9UQXlVb3FCcXBXMG53N2xQVG14WVduTWM5MHpyZnlSN3pzc19KY2tGSzBfV2V4dkhkWFNXSlJPbmFHQU5jT2hTMmkzTzFQWnMwTkFYMFRDcXfSAdQBQVVfeXFMTU02T1d1Sm1yUFNfcm5PXzUtT21ndTVnZUlQcENWbFZTSkR3VFk4bGdJSEtoRVhoaHljZGVYS19ncVBLV2tfekprc0VWbWdZWTA5SW1jQVZFRm1Fd3lIUnhZcWNMdWxmVVlWSGl2NERpaXpRV0FCMVgwTzNMeFZ4ejc1bjZJa1hSRWZyS2tmblo4NEt0WnZKVTlveFZDNklHQmY1dHFLdG4yVjNUcUFOSWlKQjBUbE0yLXJpcWNVRVFYaDNONVFvSUI2QjlZWGU3NlJ1bHA?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -32,7 +32,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Patna Metro: D-Wall Work Advances at Patna Junction Station, 4th Panel Underway. Covered by The Times of India and Metro Rail News.",
+      "brief": "Patna Metro: D-Wall Work Advances at Patna Junction Station, 4th Panel Underway. Covered by Metro Rail News and The Times of India.",
       "image": "images/patna-metro-d-wall-work-advances-at-patna-junction-station-4.jpg",
       "image_kind": "photo"
     },
@@ -350,6 +350,98 @@
       "image_kind": "photo"
     },
     {
+      "id": "prabhat-khabar",
+      "headline": "यात्री गण ध्यान दें ! छठ पर भागलपुर-पटना के बीच चलेगी स्पेशल ट्रेन, किऊल में होगा ठहराव - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-01",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnpVamlTamk4MVRhUVZiajE4b0Y0YUNpZ3laem9CWEdoaXhfWXdRMUtlU1VLMjktVXl6WnJJdEVsUG5sR3ZJWlF1SjY2dHZtWEpFcG0xdXVxR3NXRWNMVHkxT0hlaDEtZXpPRXN6ZkFUaGE5a1lXdXkyczVINnRrUGlUZ19seUVvU180ZjZ3MW1vcWRUUjBtdmMyM3BxSjl3YXVfVlY5NTRvSGpUckxGMFBxbkNraDNNT1pUc0lOcHpOM3phVVRNbF80SXZ2Y2vSAdQBQVVfeXFMT3hETzdOcl9qd2FvUlo2MkdlcE9RNGhqZTVvenBSdXAwWW45Z3lTMVRSSXppd2MxNG9BUlJMVkRUdTdMZGdHY082WmVhdi10YVZLM1NEUEV5dzhOMHBJYnpQU3IwN2cySXpGcWRUcm5RWlptcWFoSkN0TVVZSmJ2VXRabGhteGdoZndHalFIZmJyV0JSMWVuU1k0WlNhbUQ1NjNMRm5sZHpfTDlHdjZLWVFrOTc0SWZEajJKR290ZHZPbFJDcjNJdF9yTlRVQ1l0dUlmN2U?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQXzR6ckc1Rzl4alVySFZCaTE0eEpQWHpaTjFabmJRNGYweVVsWGkwamtieHJZbXQ2OEYwZTYyYmlxclVBT3hlTTFnWkJaSTFyUlB1ZGRPeW5YSVlLWk9fZjFqcUxKTl9pZkNuOUlpYk5KUHhFVzNyQTI5ZkdBdFlFcmo2X1lkT1plTGNkUDBFVVF6b1RpcEQ3YlBMVzBIdFJOSndVZlR1WVN4YTFOUkpxMHpnOA?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHUzNmtyRmxqMmlxbW9yVWJaZDhkMlFvUmpsbXlOUlk5OXFFYjBZTkFrQk5VWEhKdG81Q08wVy1uYkNUVExLUG1iM0pIRWFCeWtJQmFBNmRpNWxUSXRONUxmR2U4V0FTZTJjRy1jUkhVeU9sUEdrQzNVZWhyRHNLSWRhT0FnTFZ2WGdSSktmSHhSRGVTVFZBblVWbEgwVXlzRlZtYXdzSmVmT2N5?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3NwYWNmWHRPa2o1WHlCdFRWQmh4SkI2QlZtZ0ZzQnFqaVJCYzBKeTMtRlMtbnFCdXRReDc4NExaanc0X2dONWdtck91X1NhQVM1VUdXSmhOdXVpUTlpTkF5cnB6Wm5fY2NNclZfbEFWQk9wRjJzNnhzazlUV3lKV0VjMDlENXhnSlNqdFR2TXFqTEVL?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWVLUU9Tb3NpYUJpdjIyaXJwSXJGNTA0U0lUOHNJOW1zWTZGYTd3SUthNEhneXJhZ05jeExkMV9lMzdvenhsT0FoNGpPRUcxeFVsYy1GazVLLVhoNVFncmNLbnplT3FjVmxKLVJKTmowYko2Q0FqMjFFTkE0Ykw3bU13bHNVdlVsRFZJYWxKMU1FNVNVWXRtTVpCTGx2ejZCRkZzYmVfX3Y0dk1MZWNtRnpQTjJfNkZCWWdFZkp4WQ?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEllcE9TSG1MY0Zic0tiU0hVcVBab1BXdW5ZWEo3LW5SVnRhNnhQSV9USnZoakpSWGw1c1BqcGJvNElDTkdxTDZRalBZbkVBRldFaGEzRktzeHpsUVViNEp4dlVMUHM4TzVqLXZ2OXBLTU45bTYyanhkUW9scEw3VDdoTnE5WTFrOHVlZk5fc0E?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa045ZG1zOFVqRF8yYk9hN2ZCOUZLaVB6VGZLRnl1UzJQYUpkLThBWmRncjFqdUJtSVlocHF3RVEyb0VlamVqajNUNDBqYWZWa2FyUG1zSzN6dlZnaFpaQ2dfb25pMzQtc0JwRUw0X3R2QndvNmtsVVJ3bWx1NWFBQUJURTl3U3FpUkZNQTJCTFpvWExUX2prU3pZMA?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGtlTlMtRjIyREM0UnEtS25IRFc2a2EwOGYwczdLQVdIQ1VZcGtOWkZwQ2lqSUdHcjRoUHBfekRDeXRzcVNCekZfVXZRV2hnekdlYXFHSmt5Y21CeE1weVA0Q2RnWkIwYkllTUtuTl9Iai1ialpael9CUkZOMVEyckZ4TDJYcXVCbmJuN3Y0QnVhMjNVa2NmbVRrYXVpYU95dkE1bEZJU3JPdw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzEzbnBtZjBEUXB4eFJ0LTJrUEJXd05VYTM1MmFlYUtmc0ktaTBlQ3N6Q3VtakJIcGUxeS0ya0lsZXVKamF1NXVIMDdBNVpOa3F0NTVya3JNbVZ0Z0p4WVFBVlVnNDdfaGpGVGxkVEFtMmxnbzNrUWNjczBzdXlJVHZlenViNkdZZS13d0FMVVdPa3dyVE9JbEd1LTBPeTByTm9NY1BuZ0JxWkdjOXc?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDA4dVJTR0xjWXhUS3VwTFdpX1AwYUNIMGVWYVE5Sl9kRVNacnJFTGJIUllkR2JQWFBrbXRrUVVmSXE1MkZTeUNudUxjNDZjQlpkaDUzSGJ0SWpOUkR3NVdTR1dWZG9oZDR3Qm9CekpodWUyQVpoWHRNWTJNZ3VudTVFRHVBall2b1djemNkRXlPNmhpVjVmVzVtUnR3OTUzamRyNHp4SmJIYnM?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnR5NHdEd3BDRUxrNTBTUDdKczlqSThxZjg2cWhXZzFGSndQc3JFaXFaeGJEQVlXVDA3OUc3bDRNX1ZyQjVLR2JIRUhKYVVVSGh0ZDFOT2xRcDFrd3BTdlhOMGVaUS1ybjFabEZYWTlpVWtRV3pIVV9ubG1KSTZMRElvRWNOS3VRRmRhWWJtV0pVOEV4eHhDalM4cXFKSkdWallB?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2lsUms4NHd3X0RfYXRzcmhjTm1MeDRUaW9VUmNndkR3anptTlBaaC1BU0ZERUlKNkR3eDM5czZ2RXpmVEZmWGRILS1OOXJTYlZnYnMzMU0xVEw4aXNqWlAxOUZqOGRBcVZUeHVPcXJrb281VzhHank4VXVZbUhiM0pUUVFFdU1IY2VYZVZvakI5TXBVUHA0OEl2Z1hDdw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGRXQ0FmVEhKUWRXaTdoY1ZXRUkwNmNNX3ZkU2prZXlNOTJDOU13Z18wYkluNHRvUU9tbDB6Ync0MmxIZjVPSW8yUWNzVEZscGxIcHVMZ1ZULUpYWlFZTW45aDdja3k0cWRUVXlmT2RKa2xWcmdmS1J2UWI3YnBPUXY4V1pRYWNsTldrTg?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVDZKVmJLUElyWjBnVE5LcWppLVVmQ1ZmTEpFRmlmNFdtQ0dFbzJGdVpJTXkzRndLU0ZBYnFOd0hYbElmTVBsXzFHUHJnYWtJWW9IVDFUUGtDTDI2cFh3NFJHZ0FTTlN6UVcwS0YzNk9rNFRUSEVUWjAyT016WjZtRm1UcGpKd0tSR0kxRlZ0MWFDTVI0UE9JeFRENnZSOVQ4Y1FqWjNTa18zV2dISndzeFJJV2VrWU1kNXVIMVE4ald1NG5pNm1ucXMweDlVUk5n?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSVhnTm1NQUJkQVRZWmRtOVNybHQ4cmU4c0RHWGhFWXpTN1VWQTFkWUNPeVgtM09ibHdnVi03UGlLMUxtNVhIdW5XcFNVbDdiQWpnNG9JMVNkdjlBYzhjRWtrN3pFeDV5bW83OXltV2JQOGp3blVUSnVINWJDTUhmbEYwTWV0RWZiWF9ZX0s4TmpLc2dndzBnT2FKSURMaFF6SExj?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "यात्री गण ध्यान दें ! छठ पर भागलपुर-पटना के बीच चलेगी स्पेशल ट्रेन, किऊल में होगा ठहराव। अपराध से जुड़ी ख़बर। इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "15-15-bhaskarhindi-com",
       "headline": "पटना में ब्राह्मण समाज की 15 सूत्रीय मांगों को लेकर 'मौन संकल्प पदयात्रा' में शामिल हुए हजारों लोग | ???? ??? ???????? ???? ?? 15 ??????? ?????? ?? ???? '??? ?????? ????????' ??? ????? ??? ?????? ??? - bhaskarhindi.com",
       "summary": "",
@@ -455,38 +547,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-cm-calls-nishant-kumar-brother-announces-state-s-talle",
-      "headline": "Bihar CM calls Nishant Kumar ‘brother’; announces state’s tallest Sardar Patel statue - The Hans India",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjhvZ3ROaUJtMzM4UUtlVVU0ZXpkam1FR3BZU3p4RTlzaXkzdXAwR2VWZGwxYldsUFBoSmFmWUcyNlpJa1hNNWdvMzVvV3YzOGhrSmFFa2loUlRkTUVuMXF4OGZQV1pweHhuSWpoY3ZkbGhqZFlQeXA3ZWE5Q1hSWjNYMHptR1dhVXdQUFRvQi04ZXUwRFk4UEJ5SzZmZEdyOU45QTFDWG9iYWwwUnd4Nm9BLVoxMExKMWVyeldCMGxQM0h1SUtlUNIByAFBVV95cUxNWjhvZ3ROaUJtMzM4UUtlVVU0ZXpkam1FR3BZU3p4RTlzaXkzdXAwR2VWZGwxYldsUFBoSmFmWUcyNlpJa1hNNWdvMzVvV3YzOGhrSmFFa2loUlRkTUVuMXF4OGZQV1pweHhuSWpoY3ZkbGhqZFlQeXA3ZWE5Q1hSWjNYMHptR1dhVXdQUFRvQi04ZXUwRFk4UEJ5SzZmZEdyOU45QTFDWG9iYWwwUnd4Nm9BLVoxMExKMWVyeldCMGxQM0h1SUtlUA?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzBLTU5qNmdCaEEzSVhhQUM2WjBZY0kyOUswbEtZQm9DcFNFYWpvTl9fbU9mX2N5dWhQd01aRGltX0RKQ3F3cEhZcmUwaXg5cENUVm5tc3FtN1FqdXY0YndfRWdrVWlidzV1YlcxMkxSU0NlcHp2V1E0WERFSHVBajdEbGxzUVFBS0h6OE9DbW5RRUlrNkl4WF9CSFpxTWROTDZXQzd5T1A5U0duQ21ndHNOZWpiNDBhTFMwODR6WHRhQ2PSAcgBQVVfeXFMTVo4b2d0TmlCbTMzOFFLZVVVNGV6ZGptRUdwWVN6eEU5c2l5M3VwMEdlVmRsMWJXbFBQaEphZllHMjZaSWtYTTVnbzM1b1d2Mzhoa0phRWtpaFJUZE1FbjFxeDhmUFdacHh4bklqaGN2ZGxoamRZUHlwN2VhOUNYUlozWDB6bUdXYVV3UFBUb0ItOGV1MERZOFBCeUs2ZmRHcjlOOUExQ1hvYmFsMFJ3eDZvQS1aMTBMSjFlcnpXQjBsUDNIdUlLZVA?oc=5"
-        },
-        {
-          "outlet": "The Hans India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanBNS3V6VkRBOTM2TjlzekUwcUVQYXZVcF9Mbm1WSWJIWnhSdmNDYnoyLUd4TEFuRHFYVTY3VUhKQVlWR01aRk9jcjdfLXhuVm5XTUEtcmZRWGhfUzZQSk9DRnpLVEZ3NTFJbkJlTno3V2pzOEZlTFAyZUhEUXBzTzRXcGhfN3NKdVl1dktXZGpiM19xUmZ3Z3pITEtraExQVXBHWTNGdUVTVlBzSEwyUkpDQ1FBUTFYWFlnMmdQb240OF9DWEcydFZjOWY?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar CM calls Nishant Kumar ‘brother’; announces state’s tallest Sardar Patel statue. Covered by The Times of India and The Hans India.",
-      "image": "images/bihar-cm-calls-nishant-kumar-brother-announces-state-s-talle.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "200-18-jagran",
       "headline": "पटना नगर निगम ने म्यूनिसिपल बाँड से डेढ़ घंटे में जुटाए 200 करोड़, अब शहर में होंगे 18 विकास कार्य - Jagran",
       "summary": "",
@@ -575,33 +635,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar CM Samrat Choudhary calls for adequate Ganga water share to boost state’s growth. A civic-infrastructure story. Covered by ThePrint and The New Indian Express.",
       "image": "images/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-sha.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "aajtak",
-      "headline": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम - AajTak",
-      "summary": "",
-      "date": "2026-10-30",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ABP News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3NmQ0FHN1plX2gwd2oyS1hPVEoycFA2NE1mXzNmX3l1TXNHSlR2YXlINUE2aHo3S3JQOG5mS0JqeHNLNTNUTWROdE5tTUJzM2Y4TEtFWkZJODBzS0k4VFNmclZDQXlmQmRMVW16OXB4UDdJeENmYkdrOUZHUUN5MEhaUnhac3JBRlMtTWEtZVFoYWozbTJOaFRObG5YYm5fenJjbVZWblItUWkt0gGyAUFVX3lxTE5fcDJQejVKRlFpVl9KbC16a2VQczNMM1k3X2NVM0RTQXBRSWhlbGdGMGNBYVZGNzFXUmZYU19McFNZNjhqQ3VqRVczY1ljcFNkTVRZcFRoOWJlaEFwMHg2LTFEWm13TVYyYjFJSmhJRVRTSFgyNjFXSmI2aXZMNHBlMTlRNDNNNi1hMktfaV9vS01jRmtBNjR3MFZRN3dsd3JvcVhEamhLSHE2VERoclJvT1E?oc=5"
-        },
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeld5dFhlTXdVbXVzdlJiWU5sZUd2OXA5X1RnQ0tLcmkyMFVRYWt2czdVVTJnb1gySzdnYUNMRjllendpNkQxQW9VQlZXXzJlV2JEQ0hTMGlBMkQyQnRhTmxDcGNhOVNXRzRWS1JrbGxpWk5qN2JOUnZDVTEwQmVNeWZiR3A4dE5xYWFiWFEyaXF5eGpIb2JETGd1NndUQ2N6NTAxYlNOSWc3eHppVGRLMmJlUVp0U3E4ZGfSAb8BQVVfeXFMUFBtYUZ3UGxNNUg0WmFBaGpuOFVfZThLRWlEd2JXQmF0bkR0T0VfYmR0dDF2THNxVVg3R2N3enFyeWY1QnVUcnUyeVhwVWhtVzhpaEJCWHBsa1BsUHRfQ2JUNll2VS1RWkpPc2kxYWFaNWxuQmtVVlFxOFlOVVdpeHNxVlpWazVRTE5laTVlRmR2c2FGUEt6c1gtLWJlaHV5b1YxdERYbjV1emloY29ndFJyR0NhM3hQRnEtVGlMeVk?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में अस्पताल से घर लौट रही महिला कर्मचारी की गोली मारकर हत्या, अज्ञात हमलावरों ने वारदात को दिया अंजाम। इसे ABP News और AajTak ने रिपोर्ट किया है।",
-      "image": "images/aajtak.jpg",
       "image_kind": "photo"
     },
     {
