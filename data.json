@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02 11:36 UTC",
-  "generated_at_ist": "02 Nov 2026, 05:06 PM IST",
-  "story_count": 50,
+  "generated_at": "2026-11-02 12:36 UTC",
+  "generated_at_ist": "02 Nov 2026, 06:06 PM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -29,7 +29,44 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna Diary. Covered by The New Indian Express and The Indian Express.",
       "image": "images/patna-diary-bihar-museum-makes-it-to-top-10-global-list-the-.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-man-arrested-for-forcibly-applying-vermilion-to-marrie",
+      "headline": "Bihar man arrested for forcibly applying vermilion to married woman's forehead | India News - Hindustan Times",
+      "summary": "",
+      "date": "2026-11-02",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnZqdzRRekJES3lxUjR4MV8yTHptZlN1VGlIelRYaW5VUlJneE5NR3FYN0xMRFBQeDFRUFUxWDNSTjlLajdsdTdfWDEzU1pnWE9PbE1qTHpvWXRaV2lzei1tWjlJamtUMHltMy0xbEd5ajNKOTIwWWRETmFpaV9xNnpyR24tYVE0V3p2V0lmS3h3b3hHMm5HZnJ1eW9VaTAwUWtSS2hQUzh2UE9mZzJSQm5ZalJuUmFCRU1KM0FtcGk?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY185cFh0R0dqQUVwc19HS0szQmRKb3pJZnhLUTFfUlR5dU1OZUc3T3huT0prVEhpNWJrR3hWeWVldGxRRXJCbjVOLWZsS05FaDM4cmJ2MnlieVRlX25IaWIyQnNaeEtRNFROd1E1eXM2dG10RWZEd1VQeEpDMGxVS3hSMzFNcVBRSzMxbWhoQnhzTzRqY3ZfUUhhYUZZaE9vUVB5QnZQZENTZjQ2T2w4SkdXVDBRUdIBuwFBVV95cUxQWkxiMmRTaDFZdzRZWnN4Z3lGLVg2b3l6TTgwUEJ1NUowd3Q5Z2JqTGRYTVBmOF8zNWFtZzU2SnBVRFhLUS11VkVRbENYb3lQSVRBckp1dVpWQ1pmVVY5dVpRSmF6VEVoelY3RkFCbmRrTFlESUFRckN0ekhGV3FieWwxQ1ItWE5TYmhObWh2UllYVWdKSzdGSzhSVjhMZko0MzhwaVlkTElMRG4zLWhhN0ZzVDdIcnpiLTdN?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM3NOdTNJRzZjY3hrZklST2MtbDM1QmVIejRHZjllcHlnZVVoejh1b1JQMGE2OGJMVWloeUc5MkV0ZGtSY1FvaGlxQXJBTk9NQTV0UGF0bnZ2bGFvS1gxZjVWZXZZZ3RDamZxTjlTSEkyTV9JMUtPRGp5cnZtOHBfcjE0MWVCUjN2UUdiOVluUjdxc3liZ1JWR3dGYkxFZFJZN3RJZkxpWlVsOVZDTUF6clN6OU8tSWRiOGUtMUZKeUpid2lxTnVYQ3Z1aHZrWWFzU29PZTVyd3hmYksw0gHiAUFVX3lxTE5SNWF4eTJ2emZuXzQtYWNkT0N3aWxiYkhxSkpqdDZ4UDkxYUx2bDFZV24yckg1SzNGVEFHQ0I2aWdJTmlWcG5vSHBraVk5Q2hIVDh3ckpkeXA3TjE1TnJtS2dyaUwwblRYMnVMYnJwN1JqZGlscnp3dk5uOG45enc3bF80bi1fRHdJSG9FNEM1eWU1bXBJdDVNQnFldXI0elI5d3A1b2VhbjZSVFNoNThMNERRb3ZjY3oyM1FwamxTQ3Y2YWNFdlZxaGdSaDNzaFdqQ3JYSEdpUWpJd0tiNXBkVHc?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMHVQdkk3ZnRqM3d2RDRQZGdvTHg1RUg5dkJiOUZwSlZKSGpjRTNUZFVHNUF1dXVrT05LUUFYMjdYdmlZNkE3aW9fR00yN21FN2FPLVpDbFNKOUFSdlVwanUyQlBjNjdnNFluS0gyR2RlR2F4T2VuZ0RjS1AzaUd5d3FIaks5TDdxYm50SU81aGpBamd0MzcyVS1UekpJQUJsenpEcXhVRlVhNWdzamRtbm1hbGVMMFhXRmRHek4zeW0tUXJwVW1SWlpZSG1CS09FeWdMeGNMOWwydDFScC1ZN2Jzb1FPZ9IB6wFBVV95cUxQQlFlNGZyQ0FpaHpCQXY4cXV1NDdkczQ3OUZLbVI4bkt1Mi1YaWVxdGdUeUhGX1JMd3NSbUVXSk51REk3YzJrZGhoUHNMM1d4V3pCZ3k2ZGNkVEF3UlE2aXlIQkdPbHViMlJOTk1CdVgyM29HdVJ5NGhYcmQzZkFVLXRBMEg3Wmw4YXR5Y3FEbkZ2N2Y2LUhmc1ZtUWNVX19vRmhrcUJUWEZoWEJ0OWM2STU2VkFQQmxhaVVRSkdKdVFnT25FVGV0V1Q5a2RVNDUyMDVzc2k1b2VobFhmMjlZVzl3Y3A2Mm1KbXBr?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar man arrested for forcibly applying vermilion to married woman's forehead. A crime-related story. Covered by The Times of India and Hindustan Times.",
+      "image": "images/bihar-man-arrested-for-forcibly-applying-vermilion-to-marrie.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "prashant-kishor-s-jan-suraaj-petitions-bihar-legislative-cou",
@@ -98,6 +135,11 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjRzN01mOFFLQVV0aXdRMy1qYnVXenl6V1RsMy1PM05qa3lORTVyYjB1MENUU29CVmhOUlRtdXFMa3lsQnVzUW0xSkZkaVltUXdKOHRpRVZRRkVMMmxVQlFGMG5mR3RveGxmWnozTXNVWWRRakluZHFrSldoT053bXpjZ24tbldzN3l6cG1Gem5CY3VhTmRxeWNWUkI2SkM1eV9iakhlYkFuLVlQUUxKWmttZjc1NjdKMXZUNDI0OFBJWGFq0gHKAUFVX3lxTE5FcnhnUmo4VGJpWXFiNFNWeXZsMmZEeEtHS1B2akZMdEdFRFl4cnBqQWkwRG1CRlRiaFFMeFU5SjhFVFBNWDhEaVlqWkQ4YWU5Y2MxOTdzLVQycDRWMlBsZ1hackw0aWEzVHhScHl1M3RFRFZjOTQ5NEEwM19CbXc2M29GNzJ4ZzlESlhhWDFBaHhOLTdJejZzRU9xM2ljMmdwaDJtMDcxX3ZaVG1IWWNWWWVRVFBDUDFkYjdmVjlJSlBRU0hoeXhDSmc?oc=5"
         },
         {
+          "outlet": "National Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazF1M3g4ZF9lRU5OOXF4Z09aUFEyLXlKNk5vaThQYUJFQmFMWVRIS0ZNLVdiZTBLNGpIaWJpWTJHOUdCTk92d1FDNVNiOGlWR05wcHkya0ZuU0c3dHBOR29JbHlNak8zZXdUeUR0SzJ2LWpvSzBlNjJzZjF3YnMyOUpndERBck4tSDZkNkd2aEhTMGxpb2Z4T3VKc1AxQ0ZTXzhZRHZpNU1IQVFveVdyYWI5WGRUS1Vlb2c3ZlRrSzPSAc4BQVVfeXFMT2tYNHY5bEJSSlVRSU9xUFZhNUgxRTE0QkxiNGhncHgxRU4tZm0weG5iUDlpcTcxODYtUENzQzJZamFkMEdhOURianNqVEhRZ1g5WlJta2t2Z1JNUC1QLUJxU3JlYUZncHVrRm16aEtodmtfLWpRU2w5YTRrMGkyRnNyWE1NQzlJYVNpbnZOdlp2NDhLcHl4ZTlleWV5cTk1eDV4THE3cWVwZkl1UW55YkZvbWl3ckdkT1BZdm1FVWxsU3k5RkVZRGhVQU1acVE?oc=5"
+        },
+        {
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEFTZGVYZ0JfRkJlaHhHdDZfLVBZVi1Oa2U1cjRmeWQ1RVZCaVRmcTBlWHUtcmhlQzdKbzg5MjJPZEZlcDVIRzl0SUVnRVBnaHA5aVNFd21Uc0s5RXhqXy1JV0xxVU1BUVdCZXRuR0IyR0RRdVAxSjVxZFBKRERNUlM4ZjZNWEk5NkpKRXRPOHd1UThfNVdFdklvX3hsRC1EZ19JSXgxT0tPZXBiYnBpOHI1YUtHamhyNjV2YU9RbTNGYjBmTk5BNjZOYVQteFRlaUxF0gHaAUFVX3lxTFAtRGtlVmlWVFJoeTlMajQ4R3ZyaVVoSGVQSVo4Q3pWbEpSeDlwanlvSEdTT0tSX2FMdzBpOTZ4ak5haTkxVlVfZUtiZ2JQLTNmWEhPNG9DY2xVbnM1QUJHYi1vRUlMTjZWbk5IdTdiV3l1Mi12aDM4LUpGVWF2elJ4LXlDWnF3VTBpMlFId2FVdFRGMGQ3dFpBNFA5bV9sUkpWbjJTSGJCWXk1NW5VNkZ4bmwzdHZoYXNSdzFXbndBYmU2a1ptbHFQRXVmMmdwNllmX3AtNUFpbXV3?oc=5"
@@ -106,11 +148,6 @@
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzE4VHNOUk5IcUtPcFZlRVBfc2VGTlJhX1VaWWlsZFdYUE5lem1OY3ctSnlVdDRmWVpOZTlQR1RNTmM0VUVEZnFrZi15V1k3S1hOUFFCUHNnVkpzbVREaUhDLUZyTUhKRWdaQ19NLVdwc0xSWnltWnBLMHkxZWQtX1gyaDF2VWdEQzYwd0NEdHlVRndRdU96WWhsYXpWaU4zcktqTWI3YW1zSjRja3ZVZkNSUTF5LU5EaHpYY0VB0gHEAUFVX3lxTE9raGotWXhZcUh4QnJ2cXhSTHdKSnl0NG9aX0pZRGdxa2dvbmxwM1ZFdE9BOEowdVJQYW54RjNIR2pCam9lU2Q3RjhXZVlYbjRIUU01RjNCVGtIRk5scVl6ejdvUTcxdDJ5M2VqYTdXLTJaTFNrNVlyTE1EaGlLeWN1NV9WNmpweTJjdEhzWV9tdlBmOEg3c3JlSXVaNGQ3bGFBT3k1QVhfSERHU3Nicnp4X0J4Nm13WkJYTllvVldsNW5IazQ?oc=5"
-        },
-        {
-          "outlet": "National Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazF1M3g4ZF9lRU5OOXF4Z09aUFEyLXlKNk5vaThQYUJFQmFMWVRIS0ZNLVdiZTBLNGpIaWJpWTJHOUdCTk92d1FDNVNiOGlWR05wcHkya0ZuU0c3dHBOR29JbHlNak8zZXdUeUR0SzJ2LWpvSzBlNjJzZjF3YnMyOUpndERBck4tSDZkNkd2aEhTMGxpb2Z4T3VKc1AxQ0ZTXzhZRHZpNU1IQVFveVdyYWI5WGRUS1Vlb2c3ZlRrSzPSAc4BQVVfeXFMT2tYNHY5bEJSSlVRSU9xUFZhNUgxRTE0QkxiNGhncHgxRU4tZm0weG5iUDlpcTcxODYtUENzQzJZamFkMEdhOURianNqVEhRZ1g5WlJta2t2Z1JNUC1QLUJxU3JlYUZncHVrRm16aEtodmtfLWpRU2w5YTRrMGkyRnNyWE1NQzlJYVNpbnZOdlp2NDhLcHl4ZTlleWV5cTk1eDV4THE3cWVwZkl1UW55YkZvbWl3ckdkT1BZdm1FVWxsU3k5RkVZRGhVQU1acVE?oc=5"
         }
       ],
       "source_count": 5,
@@ -118,53 +155,6 @@
       "genuineness_label": "Verified",
       "brief": "Bihar politics: RJD seeks disqualification of two Independent MLCs after they join BJP - CNBC TV18. A politics-related story. Covered by 5 outlets, including The Times of India and India Today.",
       "image": "images/bihar-politics-rjd-seeks-disqualification-of-two-independent.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "samrat-urges-affluent-people-taxpayers-to-give-up-125-units-",
-      "headline": "Samrat urges affluent people, taxpayers to give up 125 units of free power in Bihar - Daily Excelsior",
-      "summary": "",
-      "date": "2026-11-02",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHQycjA4VkxJYmlMZjFjT2J5Z25BZnJDRmRGaEFUY2NreF9Xc1ZoeTM2NkF6S0plMS1XQ000YTNyR3NlTHlkdlV5SHRjMDZmMEFiLW0xSHdqdWctVTFYQXptdTdPaDlfeTlKQkdrQkVYd29ZSzBmVEhxX2Vvc0JTRWxCUjJ6NkpIdUFkUFljVDdkbDZfTjdibVZTY1pwOUtSbTFuTkQ4dnNrSUV2WEFybkVralI2NmRsTUttcWhvMlV5WURNMzJv0gHPAUFVX3lxTE00dk5CYk1YWWx1dnFRb2luTlJPc3ZEY3B5MFlnQVppcjM1aGRKWmFQOG50c1l5WjNZY0VpeTZIMVVyWnVzZDQyMm05ZXFJYWdpT0F6ZWtPTVhhdVF3Y1lhQW9idDUzOUdXN2hqVlJobGV4d0F6TzAzYV9qaVFCUDNoZUhfeWpqOGs5NDFMbnBGQnJFc0JoTWthOFRUdXBIM2p5VEh0ODNkaUxFYzdRTEJHWUZIY0NBZXRyNExMZkFkSGxHcDcxVVdLekNPWnJTRQ?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUdFQzVoaFVfTnFVSXQ5bXk1eU41blcwaVRHYXdQYkZub291OW5JYU5XNzhWaDN1eW55c09CdFBpYjJBc3kyZHRsNjN2bmZlaFp2aGlscWxXSmpzNzZoRG9Gd3prdkVPRDB1NnA0dTlDWEZvMGpaRFlheFR5MzdUUzJFdm1hS282QUI5RWtuQ2NYSVBGR2FtelRETXB3QlhsZGI1ZDJyVVA5MEhvOFVoNThHZWxrLVhPY2Y4dEEwNE96dUtTV1RHRFJuQUV0QdIB0wFBVV95cUxQSHFyelhMNHV1OHNPRVBoWlpfNjFIUWRDbTRyWUg2eFd4SWZZQWl1N1Y2NGt5M2dJNHQ0bF91N1dHeUpzakZVVlZnVHMxTDJBRUVaMm84ajh5YUhCV1c3OFBFRWNqS2xad2V3S2xoejEyRndaUDJNVzBXTGoxOXMyVXVZcjJ4dW85eHIyU2pneW9sNVpHVUs3U2owV2tJY1VTOXAtbGUySVRwT3JCblFWNU96Q05VT1dlVWRHSkY2UHFibl9FRWJYeXNXcXFwdlFSbGsw?oc=5"
-        },
-        {
-          "outlet": "Cobrapost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1pOa3JVdmtGcXB3d2d5YkQwMW10blotMXRPMjJnaFptNEl6RjlwYjhrMGNubWNUcjNyT0lHN0JpTDFZR2RTaGFNY25oSU80NGctYVcyYVRVeGI3TGpkRm44LUh0SWVGM3NSWHB0ZXR1N2hfMXRzVUVpS3Rtc1dCdlNCTkFDdHBmVGRaVVhCeXk3Ym5KZjhtWVcxb1AxQQ?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1lIVXZUZ0R5UEZlTDZiRWowX1gtRUZYNUtMMTF0Z2d3MXduZXJXLU1hNHpkUHAydG9HN3JoYS0zUUtSVHV0WFI5X3c4QXIyU2VjVDV3dGRja0dCXzVJRV9OeWFOZkFNR1F5QTVqX3E5UU1ud19hV3ZWZUlaNlIyS25mdDBRX2FCTndyd3NOMGFfZnU4cVluYVAyMXhzSWNQckJuZHc2aGwxM1NWZHpHalRITEsxczhC0gG-AUFVX3lxTE16UGtPaWFlbF9qczV6SEhCU1Q4bzl6Um1FZFZoWjJkV1h3djlWRW5Ld3YxcVVVUC1Gb0NoWGc2RWRCUEg1UTVUek9EYVRmeG1xZDJQem9vSE9HYUQyckxpMlpjSkRaM2YzcnMwcUJ1M21SaWlrRXVFUGJteHNvdUIzNm80VWwzQUI1NnpXMmNueWh2TGRqZG5zTGxpQkdlenRWVG1Mc2x1dktFbDgtLS1QV00ybjBvTEgyWEhELWc?oc=5"
-        },
-        {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmQ1djUxcHpVVkNzVEJKQkRvN0RtUlpaejUzRzlDa29FaUczMUUwSER3dVo0UXpIQnRsNGVBVGlNUG9WbEU2QmR5YkdRMjA3eV9uY29CVl85al9ubGZaVUQ4RURlMmtTeEJWcHVZQnZ5SHhQUGV3STFJYzRSSDlGOTZ4ZTZQaXh5bEVNOFZTWVNJWHo3aXlQX0RSRGFPbXFWNUdjWHYzSm90ZkVaOEZuclp3WlHSAbgBQVVfeXFMT3pLeWZYUkJTWmxycDU2UE9EM2hrQjBEcUtmcXlQekQ5NC0ySFFsdzNOUTJoYUJ4OFhtV09UUUZJRkVjUFkySGdGekVid28xbzhvNDlHODJoQmJmTGN0UldoanlIdVpteUd2NVpUSEh1eUNwNjZDSjJZdXpCMFAzVUdHd1VjY1dBMVNfMmo5ZlJqa1JKZHZ1eGRvb0JoLUpOcjFFSHUzUVN6UjA1ZE5Ebk5UZUZTWkV2cw?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU284RGJNOHF2Y25KbVpGVFc4bXN3N0JLNWpTYzAxMm9OUWR4RE1JVjdGZDg4T3kwMzFkTUJodXM4R1htYUpaRzR1SEZ1OUxKZ3lEcS1UbVA0cG1Ed2tYTVRfVnBFSGNtLWV1M2xGRmU3U09GaEExMXJJQmdOYmtURUZrUW5vWDM2SHBobnJsb3VoYzRvWWVqSTBkX0RxQkN4WmdKZlRFQ2NFdlRjMGtZNFdEWXhMdXoyQ01XRzV0NHFpUnQxSjNlOdIBzgFBVV95cUxQN3RKZTBScU4xby1ESkJ0eE9TdUFtQlhEazVsQnFaei1UOXhmdEVRVEFCVzZlZV9TUTFNM2FIOHBFOW1MUl9QZUlnZ25DdERoLW9sV2RxWXFTSzByaEFzckVjTjhIYmxNTXUtMGN2a2VWZEJkSnpIeThHbzFVNlJGaDZtRTBKZEhTcEVrZmJYR2xfRlNWYV8xSWVpa1hBdTFtSndsSHg2enJWamhWQ01tclJaLV8ya2d1X1dOTzdkRWNUbE1JTHhpX2ZKeWktdw?oc=5"
-        }
-      ],
-      "source_count": 6,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Samrat urges affluent people, taxpayers to give up 125 units of free power in Bihar. A politics-related story. Covered by 6 outlets, including NDTV and ETV Bharat.",
-      "image": "images/samrat-urges-affluent-people-taxpayers-to-give-up-125-units-.jpg",
       "image_kind": "photo"
     },
     {
@@ -215,14 +205,61 @@
       "image_kind": "photo"
     },
     {
-      "id": "gas-pipeline-leak-triggers-blast-in-bihar-s-muzaffarpur-one-",
-      "headline": "Gas pipeline leak triggers blast in Bihar’s Muzaffarpur; one dead, six injured - ThePrint",
+      "id": "samrat-urges-affluent-people-taxpayers-to-give-up-125-units-",
+      "headline": "Samrat urges affluent people, taxpayers to give up 125 units of free power in Bihar - Daily Excelsior",
+      "summary": "",
+      "date": "2026-11-02",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHQycjA4VkxJYmlMZjFjT2J5Z25BZnJDRmRGaEFUY2NreF9Xc1ZoeTM2NkF6S0plMS1XQ000YTNyR3NlTHlkdlV5SHRjMDZmMEFiLW0xSHdqdWctVTFYQXptdTdPaDlfeTlKQkdrQkVYd29ZSzBmVEhxX2Vvc0JTRWxCUjJ6NkpIdUFkUFljVDdkbDZfTjdibVZTY1pwOUtSbTFuTkQ4dnNrSUV2WEFybkVralI2NmRsTUttcWhvMlV5WURNMzJv0gHPAUFVX3lxTE00dk5CYk1YWWx1dnFRb2luTlJPc3ZEY3B5MFlnQVppcjM1aGRKWmFQOG50c1l5WjNZY0VpeTZIMVVyWnVzZDQyMm05ZXFJYWdpT0F6ZWtPTVhhdVF3Y1lhQW9idDUzOUdXN2hqVlJobGV4d0F6TzAzYV9qaVFCUDNoZUhfeWpqOGs5NDFMbnBGQnJFc0JoTWthOFRUdXBIM2p5VEh0ODNkaUxFYzdRTEJHWUZIY0NBZXRyNExMZkFkSGxHcDcxVVdLekNPWnJTRQ?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUdFQzVoaFVfTnFVSXQ5bXk1eU41blcwaVRHYXdQYkZub291OW5JYU5XNzhWaDN1eW55c09CdFBpYjJBc3kyZHRsNjN2bmZlaFp2aGlscWxXSmpzNzZoRG9Gd3prdkVPRDB1NnA0dTlDWEZvMGpaRFlheFR5MzdUUzJFdm1hS282QUI5RWtuQ2NYSVBGR2FtelRETXB3QlhsZGI1ZDJyVVA5MEhvOFVoNThHZWxrLVhPY2Y4dEEwNE96dUtTV1RHRFJuQUV0QdIB0wFBVV95cUxQSHFyelhMNHV1OHNPRVBoWlpfNjFIUWRDbTRyWUg2eFd4SWZZQWl1N1Y2NGt5M2dJNHQ0bF91N1dHeUpzakZVVlZnVHMxTDJBRUVaMm84ajh5YUhCV1c3OFBFRWNqS2xad2V3S2xoejEyRndaUDJNVzBXTGoxOXMyVXVZcjJ4dW85eHIyU2pneW9sNVpHVUs3U2owV2tJY1VTOXAtbGUySVRwT3JCblFWNU96Q05VT1dlVWRHSkY2UHFibl9FRWJYeXNXcXFwdlFSbGsw?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1lIVXZUZ0R5UEZlTDZiRWowX1gtRUZYNUtMMTF0Z2d3MXduZXJXLU1hNHpkUHAydG9HN3JoYS0zUUtSVHV0WFI5X3c4QXIyU2VjVDV3dGRja0dCXzVJRV9OeWFOZkFNR1F5QTVqX3E5UU1ud19hV3ZWZUlaNlIyS25mdDBRX2FCTndyd3NOMGFfZnU4cVluYVAyMXhzSWNQckJuZHc2aGwxM1NWZHpHalRITEsxczhC0gG-AUFVX3lxTE16UGtPaWFlbF9qczV6SEhCU1Q4bzl6Um1FZFZoWjJkV1h3djlWRW5Ld3YxcVVVUC1Gb0NoWGc2RWRCUEg1UTVUek9EYVRmeG1xZDJQem9vSE9HYUQyckxpMlpjSkRaM2YzcnMwcUJ1M21SaWlrRXVFUGJteHNvdUIzNm80VWwzQUI1NnpXMmNueWh2TGRqZG5zTGxpQkdlenRWVG1Mc2x1dktFbDgtLS1QV00ybjBvTEgyWEhELWc?oc=5"
+        },
+        {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmQ1djUxcHpVVkNzVEJKQkRvN0RtUlpaejUzRzlDa29FaUczMUUwSER3dVo0UXpIQnRsNGVBVGlNUG9WbEU2QmR5YkdRMjA3eV9uY29CVl85al9ubGZaVUQ4RURlMmtTeEJWcHVZQnZ5SHhQUGV3STFJYzRSSDlGOTZ4ZTZQaXh5bEVNOFZTWVNJWHo3aXlQX0RSRGFPbXFWNUdjWHYzSm90ZkVaOEZuclp3WlHSAbgBQVVfeXFMT3pLeWZYUkJTWmxycDU2UE9EM2hrQjBEcUtmcXlQekQ5NC0ySFFsdzNOUTJoYUJ4OFhtV09UUUZJRkVjUFkySGdGekVid28xbzhvNDlHODJoQmJmTGN0UldoanlIdVpteUd2NVpUSEh1eUNwNjZDSjJZdXpCMFAzVUdHd1VjY1dBMVNfMmo5ZlJqa1JKZHZ1eGRvb0JoLUpOcjFFSHUzUVN6UjA1ZE5Ebk5UZUZTWkV2cw?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU284RGJNOHF2Y25KbVpGVFc4bXN3N0JLNWpTYzAxMm9OUWR4RE1JVjdGZDg4T3kwMzFkTUJodXM4R1htYUpaRzR1SEZ1OUxKZ3lEcS1UbVA0cG1Ed2tYTVRfVnBFSGNtLWV1M2xGRmU3U09GaEExMXJJQmdOYmtURUZrUW5vWDM2SHBobnJsb3VoYzRvWWVqSTBkX0RxQkN4WmdKZlRFQ2NFdlRjMGtZNFdEWXhMdXoyQ01XRzV0NHFpUnQxSjNlOdIBzgFBVV95cUxQN3RKZTBScU4xby1ESkJ0eE9TdUFtQlhEazVsQnFaei1UOXhmdEVRVEFCVzZlZV9TUTFNM2FIOHBFOW1MUl9QZUlnZ25DdERoLW9sV2RxWXFTSzByaEFzckVjTjhIYmxNTXUtMGN2a2VWZEJkSnpIeThHbzFVNlJGaDZtRTBKZEhTcEVrZmJYR2xfRlNWYV8xSWVpa1hBdTFtSndsSHg2enJWamhWQ01tclJaLV8ya2d1X1dOTzdkRWNUbE1JTHhpX2ZKeWktdw?oc=5"
+        }
+      ],
+      "source_count": 5,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Samrat urges affluent people, taxpayers to give up 125 units of free power in Bihar. A politics-related story. Covered by 5 outlets, including NDTV and ETV Bharat.",
+      "image": "images/samrat-urges-affluent-people-taxpayers-to-give-up-125-units-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-gas-pipeline-leak-one-dead-six-injured-as-png-leak-tri",
+      "headline": "Bihar gas pipeline leak: One dead, six injured as PNG leak triggers blast in Muzaffarpur - The Economic Times",
       "summary": "",
       "date": "2026-11-02",
       "topics": [
         "general"
       ],
       "sources": [
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSmJ3WFZqbG1WSWVWUTFzYVdNS05JZTZ0MVN3eG1STXhjaXFzU1F0ZFNHd3ZvLWxISUY1ZHh2dG9lelE1SGZER3RzQkFvM0hYeGNfQXdOaV82enlIcGVKS0ZqLTBWV290VnF4TVRKN1pBR0JUejE3a1BUMG1NR2NCWHZNUDlQWTdTdnBBdUhjd1IyRFNydHl2VloyOEFMcDRiVE9qN1VxcGNBNkRhSjVzaVFiRHlwRzl2RmFBaVh5SmMxQXls0gHSAUFVX3lxTFBnam9wM1k0MmxVTTdTY3NpZVo5VFpxem00MWNGWm9yZzlaU0JjXzVQZ3JUbThUZW14VEVtbEQ4cjZsc3dJU0lJTXc0MGFFd0ZDUnlCLVZpTWE0NDlDMkFpRkR0SVA1TUNvNDNCbVExTEswbWpOQVhlUUwyWlFhYmFPaUdURkJ4UlBoN0tyTVFFWTdMMjJCd2NWcWY4c3JFZ1FuX0xFQVBOWW5DdFliQ3dWUkl2SGtfNjI5YU1hQ3c4dmpCWi0wZ3JOWk5oeVNCRjJvUQ?oc=5"
+        },
         {
           "outlet": "ThePrint",
           "type": "news",
@@ -232,6 +269,11 @@
           "outlet": "Deccan Chronicle",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVCSUZfT2JmdXJqOG5tSVlYZ0ZEOVJ2MzFUcGxZRm0wWmRVaHpqZ2ZLblVmU3FzTEZhTkNXTG50UjhkdWZUakFvYjFwNktzQnhNbHBvQUtfelNnZ1ltZjhRYVplRE1nRUxLRnc0SmR2YURuRWJiTmtnczczMjJDdi1tR1ItRFd1aGJzbml5RGNLTURXSllKTVhsQk1BRUY4aFVxcDNiRjB3UjjSAbABQVVfeXFMTUFzT0hheExjQVhSSXFvZWFPTk9pT0Z2d1g2dGljVXBYOHR5R3huWEdwdVhiTTJsNFE1a2VveW1BWV9KY3FWbzRlVGZRMWIyc3ZsZmtBa3hpVkt6Q1JvajVVOUl6ZXljc2kyOFFQXy0yQ3RheFVvTVNIcG03RVZybWF5WGhGeHVIblNic0h0RUxEdDVCN2lDUmc3dkV3TS15azNUZ2lTRF9aTnNXbXN0dXI?oc=5"
+        },
+        {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQzBoYk1YQkM1WUt5RUFzb1phUVJQVXpiYWFyMGRCQ082TkhTNWRuWmEwME05Ym5QWVNVTERXd01QWlhHT0Y3azlyZGdYU1BpTEh3aGRLaUVCMGF2OVQtN2hhZ2VPbG5NdEt5cjhuWk83ZlBjdEo1NnJfbFRFRnFmWmZObW8xZXprd2ZjVWdUTUwzREZTekFwU2JCOWVjUW8wOWtOM2prUTZuTmp1ZTJaamRrejE3emVDX2dCbDhQUVBLekJGc0VWV3Z6R2pHMlNKY2FiZmtINHVqV285aWwxVHhOckpsUdIB6wFBVV95cUxPYmwxR0ZQdThWaVRGdVg3MEpVVzAxQVhfT0gyMTlwNEhNTEFzZmRjZHRETk56M3hMSHQzaEtRY1kyaTRXWS1TLXh2M1laSjFzYXBCUGlsTXRudTYwNV9GRFRpTDRzQk0zRVFwZXB1akR4QUc5SWZibFlOVHh3WDdsMng3aTJBa2xsZ29tUmtZdEtlODhTUjdkLUVvQWlNX2sxeDZlX05lMWpLa21oWEI0c2Z3U3Z3MVEyLXFXUmRPRjhKS2lsR2pscjBXakNORFVxSjRUWk5WMmNQYTk3dTJaOVpzMU10N3NKUkV3?oc=5"
         },
         {
           "outlet": "Asianet Newsable",
@@ -244,12 +286,71 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGhBYldReEhxU2dCOVFUeGZaSWxhWWI2dmNMRFRWV1hQaTBkREF4bm9SNnhBLWVjOUtXUW00UU03UDdNUG5KaldaMU1tNHNab1BEMHFSOWtlOVczNlcycGZTVVhWWEtUNlp5elV2ZkF1Ni1HTDNaLVplUlBjUExtWUQ2WGstVERvbW5qa0w5Q2xXeGliODQxamUtLXJMWEZqbE93bDVDbF9SN2gwdVdaZG9KNURNUGlrSjJnSFl30gHDAUFVX3lxTE1GYTJCYlVyQXJnMHpDcm1VRlhXVGpvRktvSW1Wb0lBVFFtXy03dFZGczd0M3JVZGQ3bGt3MUtKUWE3aXRDdzMwekZnMmFXQ0pHV21WZnB0aDdHM2F6QkZDSkR5UzlqcTY2WU95QXVLaGhvaXJZR1lsSk8tTjJUNWdBUjFBZzB3S2ZzZVBNMUZwWl91Qmg2VGNLZXNxRExsSDg4TU9zZEZwMUJsZ2VPY3JqMTl1VHp5dmd1ZUItYml5VWtPQQ?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Gas pipeline leak triggers blast in Bihar’s Muzaffarpur; one dead, six injured. Covered by 4 outlets, including ThePrint and Deccan Chronicle.",
-      "image": "images/gas-pipeline-leak-triggers-blast-in-bihar-s-muzaffarpur-one-.jpg",
+      "brief": "Bihar gas pipeline leak: One dead, six injured as PNG leak triggers blast in Muzaffarpur. Covered by 6 outlets, including The New Indian Express and ThePrint.",
+      "image": "images/bihar-gas-pipeline-leak-one-dead-six-injured-as-png-leak-tri.jpg",
       "image_kind": "placeholder"
+    },
+    {
+      "id": "bseb-10th-12th-dummy-admit-card-2027-shiksha-com",
+      "headline": "BSEB 10th, 12th Dummy Admit Card 2027 जारी: डाउनलोड करें बिहार बोर्ड मैट्रिक और इंटर डमी एडमिट कार्ड - Shiksha.com",
+      "summary": "",
+      "date": "2026-11-02",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Shiksha.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb3lOVVNGckt0cHFoNkh3djhqalpqYi12WWhhS0V0Ykd1ZXR5aDh2UDBmNkZiNU1xM09tNmdieUdubmJrRnY3dUVWZXRwUmVaaUlzZURHTFNfVzFUUkJRc1FabHB6VzZSQ2lseWRtajM4NVBaQmlQeHZiVExlcTVkcEJGZHNuV0NYM2ZGQnhfSTVFTVpMMG1NWlJILXExVTJwNC01ckJEclk0UHppcUh1RklCLVJsaEpnZ01vcGRrTDd1RllLUVhHT0FRZEFOdjZOZHE2ZUs0dXJneGd2SXJDNmlyaDB1dWpG?oc=5"
+        },
+        {
+          "outlet": "Adda247",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOG1rYmx0UG50d3hOY0NjVzFxTUNibVpvOFFCdHphUDE4eXQ3QVNSbkdnMXpKUU1uVEZ1TVN0eXBfNmc4OXpYeXNycGhEazNVTU5CRV9DRnU1LVRZMWtPSFd5bzg4NmYzSkgtckgtZS0zcHV2MXhrc3NLb2VvWjQ5ZU5PWW9qdw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "BSEB 10th, 12th Dummy Admit Card 2027 जारी: डाउनलोड करें बिहार बोर्ड मैट्रिक और इंटर डमी एडमिट कार्ड। इसे Shiksha.com और Adda247 ने रिपोर्ट किया है।",
+      "image": "images/bseb-10th-12th-dummy-admit-card-2027-shiksha-com.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "bihar-school-librarian-eligibility-test-dummy-admit-card-202",
+      "headline": "Bihar School Librarian Eligibility Test Dummy Admit card 2026 Out: Know Exam Details - NDTV",
+      "summary": "",
+      "date": "2026-11-02",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1ZJcmdaRjktYlpZN0NwbnVSWWVXQXI5TURLNnA4amIydW1WUkpNclctZE54cm5kRlBvM2NodTQwY0VMbDNFN21nTkp3U2c2SzdIUHRyN0JLbU9YRkFUV2Z0TEp5QVVqRjJjbUQzQzZFbkdsRmwtVTdzZy1UeDBLbDdhU1I2N3R0VTl2X2dvQktwWS1Jbk45QmphZldtVVl3MG9SVjc5ZmV2cHM2M1NCZ1g0eFA3d3PSAb8BQVVfeXFMTm45U0g5RVRRRG4xNGN5NUhLVWNhWHZaZ2l1RzJ6WkJ3YW1LRnlsSjhjbUgwMGxXUnpaM29NVDRqN283N1M3bkFUaWRXakVLRDJ0d0hWS3hXZE95Z1ZrbFVXZDFObmktdDNpZWJMOGVTaVU4Mm1qSFBlNDFKTHh2YlAzZExfUS1zeWlYaFNnbVBDU05zQV9WNzRNRVFSMzdNRWppVWlFcVp4b3p4Q2FQYTB4VjZyS0pCV0RBVTExUTA?oc=5"
+        },
+        {
+          "outlet": "PW",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXb0NNMHZVcV9FejVYQ3V5dGExUHUyX0prLVBPTkJzWVVwN0JhX1EwSlZEMzBwRVBmWWVlQUxzWGNPRjljaExMdDFIdU82empqT0ZxVFFlSklJU2dMQ0FINU1uMHFWMHcyakoxSlEtV1BEYmZicUliRmhOa0dudw?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdlNYRG1EN0VKc25TRVZmNS1NUnRqZ1Z4b0lpbjY4VUlPbDZEb3RLeEh2Q3Z4NVNYQVlZMk9XN1VtREtKTWh1b29GQmtuM2dvMGlHMDI3UUJqNTRkbkRyUGdIbjRENVFpOWFnclBNbWxmYWxFZVN0NEgwT0c2R3phWkVXTmNsZVVha01kY1VMSHYtVVdxb2o2UDJ5WWdaS1FVQk9ZcVJMWDBDUmxjaDB3TlJLTjFqTkIxUS1ydE9CYUPSAcgBQVVfeXFMUExlWW9YUjFybTVOVEJ0ZG9hWkJBQXZLdThXbGU3MmNkRzZuZnV2RnpHVmJTYlNfamphcWRhZC03aUp6ZnQ3T3ZSd1g5V1I2NFFsVEJMRldYRTV3TFJ6ZndXeTBkdVRZSy1rM2g2S1RtY1Q4bF9ERDljVnhXX2VJNm1hMlJJWXVPdkxsWld0eXpRbmZFRlB0NmkxRzNacGZOXzg1WUUtWVl4ZUtZdksyXzRVWTBTREt4OUdZREE4R3BMamExb05oc3E?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar School Librarian Eligibility Test Dummy Admit card 2026 Out: Know Exam Details. An education-related story. Covered by NDTV and PW.",
+      "image": "images/bihar-school-librarian-eligibility-test-dummy-admit-card-202.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "bihar-slet-2026-dummy-admit-card-released-candidates-can-mak",
@@ -282,6 +383,33 @@
       "brief": "Bihar SLET 2026 dummy admit card released; candidates can make corrections until November 5. Covered by 3 outlets, including The Times of India and Moneycontrol.com.",
       "image": "images/bihar-slet-2026-dummy-admit-card-released-candidates-can-mak.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "4-42-200-prabhat-khabar",
+      "headline": "गांधी मैदान में 4 दिसंबर से सजेगा 42वां पटना पुस्तक मेला, 200 स्टॉल पर मिलेंगी देशभर के प्रकाशकों की किताबें - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-02",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlNMRlBvWDBSM2FzTlBjWG9wQWtOQ2pyanhMZmJNOFhXdzFwdnJBdXlROGQ2Sk9adFZUYnlPdl94bnFVUnlCaGJMNHNJa0Y1MWE4N0dfMjVsUTBZSWMxbjczTDJ2UHhpOGNudXhBRmUyV3FMRTN3TE16SXUybW43MUZlNUtfb1JoWk9vOHpyUW5qMmVTQ3k2a3RMX1NEcm9WOW9qWm41ZG85UkxUN0ZuTlRVdkhOWWYz0gG-AUFVX3lxTE9TQWZ6MTR2dFRWMlQ3Q04zNnlVZks2TDlzRVJMRTQ5SDJoc2ExX1piRFQ4aEtqSURRbmZ6OWlQM1RPMFptTmlRYWRiQVBlQWR2ZXpTLUp1bW1oYlpKeTJlTTVHZ0YtVklUSTI1Q3Bsdnh0RzU0MXk1WmNCWUlrQy1qN1dPVEZzU0Izam5nXzNFbjAyMU5pQ2xmR2xlSVhUWGYxR09HcFhSV0JPMlRONUY5OHZXVFlCQ2psekgwS3c?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmFVOW5LUEZDUnNmQlBFcnQxNlg3S3lOQU4yU1VKcWVMNkVYUmdINXBOejBvRzhMUXJUOG5odC0xYm56YlQzSzBHWmdUNXRHYTMwTDVON2k5ZE1WQWJzVTRIZUxwR2lGMlNjQndjS3E1QXk0bXlteS03UjRtZXZUV0lNalpsLUg1Tnh3NWdfMzJCTWJFN2ptajVMaw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "गांधी मैदान में 4 दिसंबर से सजेगा 42वां पटना पुस्तक मेला, 200 स्टॉल पर मिलेंगी देशभर के प्रकाशकों की किताबें। इसे News18 Hindi और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/4-42-200-prabhat-khabar.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "prabhat-khabar",
@@ -374,48 +502,21 @@
       ],
       "sources": [
         {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMkY2UVdBTzlRc2NWcGRuWWk2WVdaOE92OUFlbVNQVF80ZWZ0MmhMc0lzWmtEd0c5X295TVJoOHJ2QTNjX2hhSWN5dndrMkhPNHZ3QmdhQTYwbW5qZnpBVXJIM0xiaE9ISE8waEV0eVNHcE85Sjc1eVpIUi1yWl9UQXlVb3FCcXBXMG53N2xQVG14WVduTWM5MHpyZnlSN3pzc19KY2tGSzBfV2V4dkhkWFNXSlJPbmFHQU5jT2hTMmkzTzFQWnMwTkFYMFRDcXfSAdQBQVVfeXFMTU02T1d1Sm1yUFNfcm5PXzUtT21ndTVnZUlQcENWbFZTSkR3VFk4bGdJSEtoRVhoaHljZGVYS19ncVBLV2tfekprc0VWbWdZWTA5SW1jQVZFRm1Fd3lIUnhZcWNMdWxmVVlWSGl2NERpaXpRV0FCMVgwTzNMeFZ4ejc1bjZJa1hSRWZyS2tmblo4NEt0WnZKVTlveFZDNklHQmY1dHFLdG4yVjNUcUFOSWlKQjBUbE0yLXJpcWNVRVFYaDNONVFvSUI2QjlZWGU3NlJ1bHA?oc=5"
-        },
-        {
           "outlet": "Metro Rail News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kRGwyVV9zaVdUY3QwZXNnMU1VZjhoRnR0UVNFYkUzbnBuVDBPOEFxN2hTTXB2dF94TFRGelZ1Z0R0OWdMUGZMX1F2VjVDWFV4WGFTNV9vbWNHSWNEcEh2bVEyOFpNaHZza1FmSWtsTWFqVmoyaGhIRzJ3?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna Metro: D-Wall Work Advances at Patna Junction Station, 4th Panel Underway. Covered by The Times of India and Metro Rail News.",
-      "image": "images/patna-metro-d-wall-work-advances-at-patna-junction-station-4.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "diljit-dosanjh-wanted-to-hold-concert-in-bihar-says-he-was-a",
-      "headline": "Diljit Dosanjh wanted to hold concert in Bihar, says he was asked to take responsibility for crowd management | Hindustan Times - Hindustan Times",
-      "summary": "",
-      "date": "2026-11-01",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYlo1VnZhZ2NaOUNwZEtzUlgwTlNxV0ZldTZpVmJ6TXdLMFY0dldyVTlCTk5jU1BNQXJ6dk1rNmxwT281cDdkYTRZU0FVaTFtVmxiZE0wSWJtTEI5S1VvR18zcjZ3b3ZTT3FoZWlSNDJDS0lzYU9HQTVyRUswZ2lXRF81bGlVODBqNk83aXl0MlRIcnpvY3BJdUlEWWh0a2FFVFc3TW9uM3pfRnVid0hMSjFSOS1UcF9TcVZ5ZUVPR09raDVoeHY2dWp2dXI0RXlQT3RyYzdfRUE2b0FfM2ZVdENSZ0t4RWZKYWRZeUkwa3lsNlNtOVpGVzI3VkROZTl1Z0loT3JpZ195eW9zUVE40gGUAkFVX3lxTE1mSjFBNEh2bFlfdFZYRldTTk1Fa0JFZFZBWmdCSUtVRVJsNjZfQzE2N2RaMVRHMnZmc1Jwbl9jcHR4T3I1dmVlazRodzZxbEJDXzFkalpxdWtLcGJKcGNtUlVDcnY4cnZDRm11VGFDVGJIRVlERTRwa29SZXZOTFk4ZjBjanphbzVyN0FrTWFIb2s3VnJpRUJwUHVSWlZ3X1NVSG4yNW54QkJjMXFva1FlMkVJeVdOdE1iSXZtVG5wX3djd3dRZmdBU19OcUpmRkFjSDZQM2dqVmRLNHFsWHVMWXcwVk1IU2tPdE13T25CMmhvR3ZveHRpV2g1VUM4eU1QNlBMdVZqbE04S1IxbzMwbE51Rg?oc=5"
         },
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNY093TUFYYWU1OGkzM2xsT3hPbUppUktPaGcwZ2VqZGpXYV9BSVZYNXpQcjdkWTc2Tm13Smtnc2ZRYU9wN3ZvVkhLTmZjdFBBaHlTWU1wdGhITG1saHJxcC1reXFscEt5YkQxa0tNZlROUjZIVTJSOWZEUHZScmFmV0VnYnNUVUZwbTNrUGdrQjl0bHVMRlpRWU12X0ctd3h1d1BCZEZHZUVzWldiZVg2OGFaX3RuTHVGTFNnR1BVZ0hnWUV3Wi1XMkYyUUdST2pVYkQ1Z1hlVjVfUVR0WVJrNjRBcVdOelVvdEtiS2VyQzBCdnRBY2RHanAtRFpfNUNRSXY0T0ZISEJINVFIWnZjLUEyVEJRdlBWTlVnOVhUekJuRFlORTBza3E4TUJSVkJYREFfTVZWaHI0Q01kMEo5MUhRT1FpT2xHVUgyaNIB0gJBVV95cUxORmVEcms1cE5OTEQ1OEkxcVZoQnRMU3VOeGVRWGEySk1EOHc0ZmJNQThkMXh1VnFWd0ZaT0c5WjVvX3ZuTzZDazF4dVI2XzR6Y0hseG5NVldoaHdHV2xhbzFNU2dtRkFCdkxYQ20xU2dFemdwOWRISGx2d0lDTGhQMlJZQklrS1F3cUk4cGtzVW9OT1ZaQUZNandIX1hDaHpWdGE4XzNVMWV3aFdKLU15N0VBZXo2WkhzeW1DZlhMc180c3JFOW5LYk8tVFdoTFJSWmFPajZBeV82M1QwVW53dTZoY29wZ1lpN2NHUzllNmR3WHpPZG96UG1qcFRQRk1ZMTdFMGVCd0NYbWVQQzlsMHE4SUluUmlkdFhCeW13ZUcxZGh1QWVZaGNKWjBpOHlDM3ZIcFJJUm40Q0lzRWdwRXE1YkdyaWlmREE5Njc2Sjctdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMkY2UVdBTzlRc2NWcGRuWWk2WVdaOE92OUFlbVNQVF80ZWZ0MmhMc0lzWmtEd0c5X295TVJoOHJ2QTNjX2hhSWN5dndrMkhPNHZ3QmdhQTYwbW5qZnpBVXJIM0xiaE9ISE8waEV0eVNHcE85Sjc1eVpIUi1yWl9UQXlVb3FCcXBXMG53N2xQVG14WVduTWM5MHpyZnlSN3pzc19KY2tGSzBfV2V4dkhkWFNXSlJPbmFHQU5jT2hTMmkzTzFQWnMwTkFYMFRDcXfSAdQBQVVfeXFMTU02T1d1Sm1yUFNfcm5PXzUtT21ndTVnZUlQcENWbFZTSkR3VFk4bGdJSEtoRVhoaHljZGVYS19ncVBLV2tfekprc0VWbWdZWTA5SW1jQVZFRm1Fd3lIUnhZcWNMdWxmVVlWSGl2NERpaXpRV0FCMVgwTzNMeFZ4ejc1bjZJa1hSRWZyS2tmblo4NEt0WnZKVTlveFZDNklHQmY1dHFLdG4yVjNUcUFOSWlKQjBUbE0yLXJpcWNVRVFYaDNONVFvSUI2QjlZWGU3NlJ1bHA?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Diljit Dosanjh wanted to hold concert in Bihar, says he was asked to take responsibility for crowd management. Covered by Hindustan Times and The Times of India.",
-      "image": "images/diljit-dosanjh-wanted-to-hold-concert-in-bihar-says-he-was-a.jpg",
+      "brief": "Patna Metro: D-Wall Work Advances at Patna Junction Station, 4th Panel Underway. Covered by Metro Rail News and The Times of India.",
+      "image": "images/patna-metro-d-wall-work-advances-at-patna-junction-station-4.jpg",
       "image_kind": "photo"
     },
     {
@@ -443,6 +544,33 @@
       "genuineness_label": "Corroborated",
       "brief": "‘It was tough’: Diljit Dosanjh reveals why his Bihar concert was cancelled. Covered by NDTV and The Indian Express.",
       "image": "images/it-was-tough-diljit-dosanjh-reveals-why-his-bihar-concert-wa.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "diljit-dosanjh-wanted-to-hold-concert-in-bihar-says-he-was-a",
+      "headline": "Diljit Dosanjh wanted to hold concert in Bihar, says he was asked to take responsibility for crowd management | Hindustan Times - Hindustan Times",
+      "summary": "",
+      "date": "2026-11-01",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNY093TUFYYWU1OGkzM2xsT3hPbUppUktPaGcwZ2VqZGpXYV9BSVZYNXpQcjdkWTc2Tm13Smtnc2ZRYU9wN3ZvVkhLTmZjdFBBaHlTWU1wdGhITG1saHJxcC1reXFscEt5YkQxa0tNZlROUjZIVTJSOWZEUHZScmFmV0VnYnNUVUZwbTNrUGdrQjl0bHVMRlpRWU12X0ctd3h1d1BCZEZHZUVzWldiZVg2OGFaX3RuTHVGTFNnR1BVZ0hnWUV3Wi1XMkYyUUdST2pVYkQ1Z1hlVjVfUVR0WVJrNjRBcVdOelVvdEtiS2VyQzBCdnRBY2RHanAtRFpfNUNRSXY0T0ZISEJINVFIWnZjLUEyVEJRdlBWTlVnOVhUekJuRFlORTBza3E4TUJSVkJYREFfTVZWaHI0Q01kMEo5MUhRT1FpT2xHVUgyaNIB0gJBVV95cUxORmVEcms1cE5OTEQ1OEkxcVZoQnRMU3VOeGVRWGEySk1EOHc0ZmJNQThkMXh1VnFWd0ZaT0c5WjVvX3ZuTzZDazF4dVI2XzR6Y0hseG5NVldoaHdHV2xhbzFNU2dtRkFCdkxYQ20xU2dFemdwOWRISGx2d0lDTGhQMlJZQklrS1F3cUk4cGtzVW9OT1ZaQUZNandIX1hDaHpWdGE4XzNVMWV3aFdKLU15N0VBZXo2WkhzeW1DZlhMc180c3JFOW5LYk8tVFdoTFJSWmFPajZBeV82M1QwVW53dTZoY29wZ1lpN2NHUzllNmR3WHpPZG96UG1qcFRQRk1ZMTdFMGVCd0NYbWVQQzlsMHE4SUluUmlkdFhCeW13ZUcxZGh1QWVZaGNKWjBpOHlDM3ZIcFJJUm40Q0lzRWdwRXE1YkdyaWlmREE5Njc2Sjctdw?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYlo1VnZhZ2NaOUNwZEtzUlgwTlNxV0ZldTZpVmJ6TXdLMFY0dldyVTlCTk5jU1BNQXJ6dk1rNmxwT281cDdkYTRZU0FVaTFtVmxiZE0wSWJtTEI5S1VvR18zcjZ3b3ZTT3FoZWlSNDJDS0lzYU9HQTVyRUswZ2lXRF81bGlVODBqNk83aXl0MlRIcnpvY3BJdUlEWWh0a2FFVFc3TW9uM3pfRnVid0hMSjFSOS1UcF9TcVZ5ZUVPR09raDVoeHY2dWp2dXI0RXlQT3RyYzdfRUE2b0FfM2ZVdENSZ0t4RWZKYWRZeUkwa3lsNlNtOVpGVzI3VkROZTl1Z0loT3JpZ195eW9zUVE40gGUAkFVX3lxTE1mSjFBNEh2bFlfdFZYRldTTk1Fa0JFZFZBWmdCSUtVRVJsNjZfQzE2N2RaMVRHMnZmc1Jwbl9jcHR4T3I1dmVlazRodzZxbEJDXzFkalpxdWtLcGJKcGNtUlVDcnY4cnZDRm11VGFDVGJIRVlERTRwa29SZXZOTFk4ZjBjanphbzVyN0FrTWFIb2s3VnJpRUJwUHVSWlZ3X1NVSG4yNW54QkJjMXFva1FlMkVJeVdOdE1iSXZtVG5wX3djd3dRZmdBU19OcUpmRkFjSDZQM2dqVmRLNHFsWHVMWXcwVk1IU2tPdE13T25CMmhvR3ZveHRpV2g1VUM4eU1QNlBMdVZqbE04S1IxbzMwbE51Rg?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Diljit Dosanjh wanted to hold concert in Bihar, says he was asked to take responsibility for crowd management. Covered by The Times of India and Hindustan Times.",
+      "image": "images/diljit-dosanjh-wanted-to-hold-concert-in-bihar-says-he-was-a.jpg",
       "image_kind": "photo"
     },
     {
@@ -483,38 +611,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-man-arrested-for-forcibly-applying-vermilion-to-marrie",
-      "headline": "Bihar man arrested for forcibly applying vermilion to married woman's forehead | India News - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY185cFh0R0dqQUVwc19HS0szQmRKb3pJZnhLUTFfUlR5dU1OZUc3T3huT0prVEhpNWJrR3hWeWVldGxRRXJCbjVOLWZsS05FaDM4cmJ2MnlieVRlX25IaWIyQnNaeEtRNFROd1E1eXM2dG10RWZEd1VQeEpDMGxVS3hSMzFNcVBRSzMxbWhoQnhzTzRqY3ZfUUhhYUZZaE9vUVB5QnZQZENTZjQ2T2w4SkdXVDBRUdIBuwFBVV95cUxQWkxiMmRTaDFZdzRZWnN4Z3lGLVg2b3l6TTgwUEJ1NUowd3Q5Z2JqTGRYTVBmOF8zNWFtZzU2SnBVRFhLUS11VkVRbENYb3lQSVRBckp1dVpWQ1pmVVY5dVpRSmF6VEVoelY3RkFCbmRrTFlESUFRckN0ekhGV3FieWwxQ1ItWE5TYmhObWh2UllYVWdKSzdGSzhSVjhMZko0MzhwaVlkTElMRG4zLWhhN0ZzVDdIcnpiLTdN?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM3NOdTNJRzZjY3hrZklST2MtbDM1QmVIejRHZjllcHlnZVVoejh1b1JQMGE2OGJMVWloeUc5MkV0ZGtSY1FvaGlxQXJBTk9NQTV0UGF0bnZ2bGFvS1gxZjVWZXZZZ3RDamZxTjlTSEkyTV9JMUtPRGp5cnZtOHBfcjE0MWVCUjN2UUdiOVluUjdxc3liZ1JWR3dGYkxFZFJZN3RJZkxpWlVsOVZDTUF6clN6OU8tSWRiOGUtMUZKeUpid2lxTnVYQ3Z1aHZrWWFzU29PZTVyd3hmYksw0gHiAUFVX3lxTE5SNWF4eTJ2emZuXzQtYWNkT0N3aWxiYkhxSkpqdDZ4UDkxYUx2bDFZV24yckg1SzNGVEFHQ0I2aWdJTmlWcG5vSHBraVk5Q2hIVDh3ckpkeXA3TjE1TnJtS2dyaUwwblRYMnVMYnJwN1JqZGlscnp3dk5uOG45enc3bF80bi1fRHdJSG9FNEM1eWU1bXBJdDVNQnFldXI0elI5d3A1b2VhbjZSVFNoNThMNERRb3ZjY3oyM1FwamxTQ3Y2YWNFdlZxaGdSaDNzaFdqQ3JYSEdpUWpJd0tiNXBkVHc?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMHVQdkk3ZnRqM3d2RDRQZGdvTHg1RUg5dkJiOUZwSlZKSGpjRTNUZFVHNUF1dXVrT05LUUFYMjdYdmlZNkE3aW9fR00yN21FN2FPLVpDbFNKOUFSdlVwanUyQlBjNjdnNFluS0gyR2RlR2F4T2VuZ0RjS1AzaUd5d3FIaks5TDdxYm50SU81aGpBamd0MzcyVS1UekpJQUJsenpEcXhVRlVhNWdzamRtbm1hbGVMMFhXRmRHek4zeW0tUXJwVW1SWlpZSG1CS09FeWdMeGNMOWwydDFScC1ZN2Jzb1FPZ9IB6wFBVV95cUxQQlFlNGZyQ0FpaHpCQXY4cXV1NDdkczQ3OUZLbVI4bkt1Mi1YaWVxdGdUeUhGX1JMd3NSbUVXSk51REk3YzJrZGhoUHNMM1d4V3pCZ3k2ZGNkVEF3UlE2aXlIQkdPbHViMlJOTk1CdVgyM29HdVJ5NGhYcmQzZkFVLXRBMEg3Wmw4YXR5Y3FEbkZ2N2Y2LUhmc1ZtUWNVX19vRmhrcUJUWEZoWEJ0OWM2STU2VkFQQmxhaVVRSkdKdVFnT25FVGV0V1Q5a2RVNDUyMDVzc2k1b2VobFhmMjlZVzl3Y3A2Mm1KbXBr?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar man arrested for forcibly applying vermilion to married woman's forehead. A crime-related story. Covered by The Times of India and Hindustan Times.",
-      "image": "images/bihar-man-arrested-for-forcibly-applying-vermilion-to-marrie.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-education-minister-asked-schools-to-enforce-formal-dre",
       "headline": "Bihar: Education minister asked schools to enforce formal dress code for teachers and ban DJs - Deccan Herald",
       "summary": "",
@@ -548,8 +644,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "global-spotlight-on-india-as-bihar-museum-ranks-9th-in-the-w",
-      "headline": "Global Spotlight on India as Bihar Museum Ranks 9th in the World, Tops Asia, Ahead of New York’s Met and Paris’s Louvre - Republic World",
+      "id": "world-bank-says-49-crore-indians-lifted-out-of-poverty-bihar",
+      "headline": "World Bank says 49 crore Indians lifted out of poverty; Bihar Museum ranks 9th globally - India Today - India Today",
       "summary": "",
       "date": "2026-10-30",
       "topics": [
@@ -567,21 +663,16 @@
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRTJRcWJIRmd5ajY5X1NSU0I3TnlyU3VBclZZcktWUi15bzAyVXBFaXo5ODJPbFZjMzlleEN6X09HZnBWN2pKM2ljcDZEeFVzLU1hS05zb0J2SzI5Z0E4NDB4YTFGSXl3TnpVanlRSmVlTl9MZFJ0YWFpUHhTeWthQm51Yl85cEo5b3A0bjJ1VEktUEQwLUQ1a2wzeklrTFlEeTVNOGhGc2pjdkpGUV8xRy1BWkc1RFREZGZaU1dfdXF1c3JIZ3ZiQUtXNm1pWnpaZ2tiQlZ2SGs4Z0E2VVA5LWluQUZVZDc0Z3BTSGNkNNIB9AFBVV95cUxPaHRpRUJ3Mml6cTRNZmlCN19XUEZlWjRDckRScnpydWpzOVduX2E3bTdveDB4WDFBRU5Tci0zcm5hSHJad1g2U2ZpcVdvSlZhWkZzOE01WTh0bFpEUm84VnRLWFgyTWFCZDhyYkJqaUtRWUhLNjYxLXp6bHRHal9ncUQwOU1sS0R5My1rd2dSMGkteVU5NEd0NDAxTU9JdEdHR0ROMGMxeGFzZjZWTjkxMVpJVnpXcDQwSWV3STNJX3RNdnozNjM2eS1IRmZrZGJQa1ppQU1mWHJlMjJiS2pRZnQyT0V5SnJPR1h0NVQycWpZZUhp?oc=5"
         },
         {
-          "outlet": "Republic World",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUkU0SEhReWV4MkR1YU0wTmZvdkVsbFJ6TTJkR0ppeFl5RnF2Znh5ZnA5cU92dFptSmJrNWNSVzF2Rk9ES0Nzd2lWaHdBdXZUY0E3MHJmWHM3TmtTV3ZWbW1ORTlpSVBCMUE1V2xvUjRxcU5RTGRHNDh5by0tZHpyTmJiYjJPQVpfZlRoQkNsQzRaZlZTbmUtWTB2dkpQMWVWYXpvb3FmY09hbWR1cjZ3cDV2dlZ5RlBPMFZ4Vl9sZFozenJCc1JUQVlZVURyNnBQX2MtVDZhaWV3ZEhPNm5kOHhvSzU3M3ZLM2Qyc2FtUmtzSGNpeHpOblZUV3FxZ211Smg2SzFR0gGLAkFVX3lxTE5VMDRydFVFdVFyaGE0cjIxT1pfN0RhZUZWWkVDcFpkTVNXMHlka2dUUEZDOGxMakFRSWNXNkIyZ3VNV0E2cWxTQzllanFSVlh0Y3VRdUtRRkVNd2xjNXZOekpqNlZIZkp3TmNiVHh3Mmt5RWVoNXZHQ0VSNmFvUjhqZzQ1b2d0QW93RzhGbENzOTV6Y1pEcWJXOVBmM004X3pTclc5SWJEUnRaUU5DbktiMk9PcUJwc0pvOUp1dVpOUTl3UndPRkhwRnd0YUNuMVJ1MzdJZngwdDl5UlNKQnV4cDhTNDBwQTV5V1NhbzVFbVFDQ3p4NUlpb1lmNm9ycmNzQTRiVW44LWdtOA?oc=5"
-        },
-        {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVdacW1lY1BNS1JBSXNkUDhvaG9HTVVINWhYcUFYS21fTWFFdEtLSlBjQjFfUTM4RF96cDZRSXNiV2dNblI4TVZjWVY3djF5YnhidlJ3MHZ5ZXN3NVY0eDhPamdnZlBxNW01SmVVaUE2czM2dU9jLV9qNmtyR28xSFZpUmFMYlB1RjdXejBOem5VN3lZZDlmajV5d3YxbG55SVVRTWtCamdrM2JRRFBIaGdZVWVGLTjSAbwBQVVfeXFMTUY3U2ppMnJHZzJMcklmemZqRGZFUXB1NFBfbHhlQnN2Tm96WDBKZ0Zfalh6eHdXR0xweUFNVGhxUjFtQVRwNElseVJYS28tblJIaXhHMUxkbDhhcjQ2MFNCQU5JY2ZRNVpNSTZuWDAtQVI1amlFZGVzWWFEU0tobEZQRzRIandJa2h6V2MwSm5HNWZabnJkYjFtN21JZFFkZUlMcGN2YmpFVDlvSVJVWGV6VFhzVmxFT3FJNjU?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Global Spotlight on India as Bihar Museum Ranks 9th in the World, Tops Asia, Ahead of New York’s Met and Paris’s Louvre. An economy-related story. Covered by 4 outlets, including Bureaucrats India and India Today.",
-      "image": "images/global-spotlight-on-india-as-bihar-museum-ranks-9th-in-the-w.jpg",
+      "brief": "World Bank says 49 crore Indians lifted out of poverty; Bihar Museum ranks 9th globally - India Today. An economy-related story. Covered by 3 outlets, including Bureaucrats India and India Today.",
+      "image": "images/world-bank-says-49-crore-indians-lifted-out-of-poverty-bihar.jpg",
       "image_kind": "photo"
     },
     {
