@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02 21:36 UTC",
-  "generated_at_ist": "03 Nov 2026, 03:06 AM IST",
-  "story_count": 54,
+  "generated_at": "2026-11-02 22:39 UTC",
+  "generated_at_ist": "03 Nov 2026, 04:09 AM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -120,20 +120,20 @@
       ],
       "sources": [
         {
-          "outlet": "Urban Acres",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUM2SUVJRmJ5YkxJOTV3cjB0YkRWYTJXN3BteDlvTzVkLWRFNWU1Y3hQNjNUaV9mWnhVTWh3QXBPX3JDYWhtcG1fUWJyS0pMb0tJUnkxUWl1WUlZQVlRaTBTWlR6enFpQ3g3cGVCQXE1REdDeTdkVjZVTWhVeUg4SjBjeVR1aEtROFp6a2VvSEg?oc=5"
-        },
-        {
           "outlet": "urbanacres.in",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPajFDa29Nb3dtWkwxb2pNVlBPMXVqOGFoTnlzYlF1TGI3eUdMRjUzaVltSDdVdU01b3BXNFZ0cWFJX0hURTh1dHpzRGI3b042VFRxdFowRjRlRlZCeUdfUHdkd2twTUN5dVBSOHBrODRoTExlUkJjaE51OThQRDZET19aQ1dPckVzNnd6Mw?oc=5"
+        },
+        {
+          "outlet": "Urban Acres",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUM2SUVJRmJ5YkxJOTV3cjB0YkRWYTJXN3BteDlvTzVkLWRFNWU1Y3hQNjNUaV9mWnhVTWh3QXBPX3JDYWhtcG1fUWJyS0pMb0tJUnkxUWl1WUlZQVlRaTBTWlR6enFpQ3g3cGVCQXE1REdDeTdkVjZVTWhVeUg4SjBjeVR1aEtROFp6a2VvSEg?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Patna Flight Cancellations Disrupt Diwali and Chhath Travel Rush. Covered by Urban Acres and urbanacres.in.",
+      "brief": "Patna Flight Cancellations Disrupt Diwali and Chhath Travel Rush. Covered by urbanacres.in and Urban Acres.",
       "image": "images/patna-flight-cancellations-disrupt-diwali-and-chhath-travel-.jpg",
       "image_kind": "photo"
     },
@@ -162,6 +162,53 @@
       "genuineness_label": "Corroborated",
       "brief": "Opposition seeks disqualification of two MLCs under anti-defection law. A politics-related story. Covered by The Times of India and India Today.",
       "image": "images/opposition-seeks-disqualification-of-two-mlcs-under-anti-def.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "samrat-urges-affluent-people-taxpayers-to-give-up-125-units-",
+      "headline": "Samrat urges affluent people, taxpayers to give up 125 units of free power in Bihar - Daily Excelsior",
+      "summary": "",
+      "date": "2026-11-02",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHQycjA4VkxJYmlMZjFjT2J5Z25BZnJDRmRGaEFUY2NreF9Xc1ZoeTM2NkF6S0plMS1XQ000YTNyR3NlTHlkdlV5SHRjMDZmMEFiLW0xSHdqdWctVTFYQXptdTdPaDlfeTlKQkdrQkVYd29ZSzBmVEhxX2Vvc0JTRWxCUjJ6NkpIdUFkUFljVDdkbDZfTjdibVZTY1pwOUtSbTFuTkQ4dnNrSUV2WEFybkVralI2NmRsTUttcWhvMlV5WURNMzJv0gHPAUFVX3lxTE00dk5CYk1YWWx1dnFRb2luTlJPc3ZEY3B5MFlnQVppcjM1aGRKWmFQOG50c1l5WjNZY0VpeTZIMVVyWnVzZDQyMm05ZXFJYWdpT0F6ZWtPTVhhdVF3Y1lhQW9idDUzOUdXN2hqVlJobGV4d0F6TzAzYV9qaVFCUDNoZUhfeWpqOGs5NDFMbnBGQnJFc0JoTWthOFRUdXBIM2p5VEh0ODNkaUxFYzdRTEJHWUZIY0NBZXRyNExMZkFkSGxHcDcxVVdLekNPWnJTRQ?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUdFQzVoaFVfTnFVSXQ5bXk1eU41blcwaVRHYXdQYkZub291OW5JYU5XNzhWaDN1eW55c09CdFBpYjJBc3kyZHRsNjN2bmZlaFp2aGlscWxXSmpzNzZoRG9Gd3prdkVPRDB1NnA0dTlDWEZvMGpaRFlheFR5MzdUUzJFdm1hS282QUI5RWtuQ2NYSVBGR2FtelRETXB3QlhsZGI1ZDJyVVA5MEhvOFVoNThHZWxrLVhPY2Y4dEEwNE96dUtTV1RHRFJuQUV0QdIB0wFBVV95cUxQSHFyelhMNHV1OHNPRVBoWlpfNjFIUWRDbTRyWUg2eFd4SWZZQWl1N1Y2NGt5M2dJNHQ0bF91N1dHeUpzakZVVlZnVHMxTDJBRUVaMm84ajh5YUhCV1c3OFBFRWNqS2xad2V3S2xoejEyRndaUDJNVzBXTGoxOXMyVXVZcjJ4dW85eHIyU2pneW9sNVpHVUs3U2owV2tJY1VTOXAtbGUySVRwT3JCblFWNU96Q05VT1dlVWRHSkY2UHFibl9FRWJYeXNXcXFwdlFSbGsw?oc=5"
+        },
+        {
+          "outlet": "Cobrapost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1pOa3JVdmtGcXB3d2d5YkQwMW10blotMXRPMjJnaFptNEl6RjlwYjhrMGNubWNUcjNyT0lHN0JpTDFZR2RTaGFNY25oSU80NGctYVcyYVRVeGI3TGpkRm44LUh0SWVGM3NSWHB0ZXR1N2hfMXRzVUVpS3Rtc1dCdlNCTkFDdHBmVGRaVVhCeXk3Ym5KZjhtWVcxb1AxQQ?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1lIVXZUZ0R5UEZlTDZiRWowX1gtRUZYNUtMMTF0Z2d3MXduZXJXLU1hNHpkUHAydG9HN3JoYS0zUUtSVHV0WFI5X3c4QXIyU2VjVDV3dGRja0dCXzVJRV9OeWFOZkFNR1F5QTVqX3E5UU1ud19hV3ZWZUlaNlIyS25mdDBRX2FCTndyd3NOMGFfZnU4cVluYVAyMXhzSWNQckJuZHc2aGwxM1NWZHpHalRITEsxczhC0gG-AUFVX3lxTE16UGtPaWFlbF9qczV6SEhCU1Q4bzl6Um1FZFZoWjJkV1h3djlWRW5Ld3YxcVVVUC1Gb0NoWGc2RWRCUEg1UTVUek9EYVRmeG1xZDJQem9vSE9HYUQyckxpMlpjSkRaM2YzcnMwcUJ1M21SaWlrRXVFUGJteHNvdUIzNm80VWwzQUI1NnpXMmNueWh2TGRqZG5zTGxpQkdlenRWVG1Mc2x1dktFbDgtLS1QV00ybjBvTEgyWEhELWc?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU284RGJNOHF2Y25KbVpGVFc4bXN3N0JLNWpTYzAxMm9OUWR4RE1JVjdGZDg4T3kwMzFkTUJodXM4R1htYUpaRzR1SEZ1OUxKZ3lEcS1UbVA0cG1Ed2tYTVRfVnBFSGNtLWV1M2xGRmU3U09GaEExMXJJQmdOYmtURUZrUW5vWDM2SHBobnJsb3VoYzRvWWVqSTBkX0RxQkN4WmdKZlRFQ2NFdlRjMGtZNFdEWXhMdXoyQ01XRzV0NHFpUnQxSjNlOdIBzgFBVV95cUxQN3RKZTBScU4xby1ESkJ0eE9TdUFtQlhEazVsQnFaei1UOXhmdEVRVEFCVzZlZV9TUTFNM2FIOHBFOW1MUl9QZUlnZ25DdERoLW9sV2RxWXFTSzByaEFzckVjTjhIYmxNTXUtMGN2a2VWZEJkSnpIeThHbzFVNlJGaDZtRTBKZEhTcEVrZmJYR2xfRlNWYV8xSWVpa1hBdTFtSndsSHg2enJWamhWQ01tclJaLV8ya2d1X1dOTzdkRWNUbE1JTHhpX2ZKeWktdw?oc=5"
+        },
+        {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmQ1djUxcHpVVkNzVEJKQkRvN0RtUlpaejUzRzlDa29FaUczMUUwSER3dVo0UXpIQnRsNGVBVGlNUG9WbEU2QmR5YkdRMjA3eV9uY29CVl85al9ubGZaVUQ4RURlMmtTeEJWcHVZQnZ5SHhQUGV3STFJYzRSSDlGOTZ4ZTZQaXh5bEVNOFZTWVNJWHo3aXlQX0RSRGFPbXFWNUdjWHYzSm90ZkVaOEZuclp3WlHSAbgBQVVfeXFMT3pLeWZYUkJTWmxycDU2UE9EM2hrQjBEcUtmcXlQekQ5NC0ySFFsdzNOUTJoYUJ4OFhtV09UUUZJRkVjUFkySGdGekVid28xbzhvNDlHODJoQmJmTGN0UldoanlIdVpteUd2NVpUSEh1eUNwNjZDSjJZdXpCMFAzVUdHd1VjY1dBMVNfMmo5ZlJqa1JKZHZ1eGRvb0JoLUpOcjFFSHUzUVN6UjA1ZE5Ebk5UZUZTWkV2cw?oc=5"
+        }
+      ],
+      "source_count": 6,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Samrat urges affluent people, taxpayers to give up 125 units of free power in Bihar. A politics-related story. Covered by 6 outlets, including NDTV and ETV Bharat.",
+      "image": "images/samrat-urges-affluent-people-taxpayers-to-give-up-125-units-.jpg",
       "image_kind": "photo"
     },
     {
@@ -254,85 +301,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "samrat-urges-affluent-people-taxpayers-to-give-up-125-units-",
-      "headline": "Samrat urges affluent people, taxpayers to give up 125 units of free power in Bihar - Daily Excelsior",
-      "summary": "",
-      "date": "2026-11-02",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHQycjA4VkxJYmlMZjFjT2J5Z25BZnJDRmRGaEFUY2NreF9Xc1ZoeTM2NkF6S0plMS1XQ000YTNyR3NlTHlkdlV5SHRjMDZmMEFiLW0xSHdqdWctVTFYQXptdTdPaDlfeTlKQkdrQkVYd29ZSzBmVEhxX2Vvc0JTRWxCUjJ6NkpIdUFkUFljVDdkbDZfTjdibVZTY1pwOUtSbTFuTkQ4dnNrSUV2WEFybkVralI2NmRsTUttcWhvMlV5WURNMzJv0gHPAUFVX3lxTE00dk5CYk1YWWx1dnFRb2luTlJPc3ZEY3B5MFlnQVppcjM1aGRKWmFQOG50c1l5WjNZY0VpeTZIMVVyWnVzZDQyMm05ZXFJYWdpT0F6ZWtPTVhhdVF3Y1lhQW9idDUzOUdXN2hqVlJobGV4d0F6TzAzYV9qaVFCUDNoZUhfeWpqOGs5NDFMbnBGQnJFc0JoTWthOFRUdXBIM2p5VEh0ODNkaUxFYzdRTEJHWUZIY0NBZXRyNExMZkFkSGxHcDcxVVdLekNPWnJTRQ?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUdFQzVoaFVfTnFVSXQ5bXk1eU41blcwaVRHYXdQYkZub291OW5JYU5XNzhWaDN1eW55c09CdFBpYjJBc3kyZHRsNjN2bmZlaFp2aGlscWxXSmpzNzZoRG9Gd3prdkVPRDB1NnA0dTlDWEZvMGpaRFlheFR5MzdUUzJFdm1hS282QUI5RWtuQ2NYSVBGR2FtelRETXB3QlhsZGI1ZDJyVVA5MEhvOFVoNThHZWxrLVhPY2Y4dEEwNE96dUtTV1RHRFJuQUV0QdIB0wFBVV95cUxQSHFyelhMNHV1OHNPRVBoWlpfNjFIUWRDbTRyWUg2eFd4SWZZQWl1N1Y2NGt5M2dJNHQ0bF91N1dHeUpzakZVVlZnVHMxTDJBRUVaMm84ajh5YUhCV1c3OFBFRWNqS2xad2V3S2xoejEyRndaUDJNVzBXTGoxOXMyVXVZcjJ4dW85eHIyU2pneW9sNVpHVUs3U2owV2tJY1VTOXAtbGUySVRwT3JCblFWNU96Q05VT1dlVWRHSkY2UHFibl9FRWJYeXNXcXFwdlFSbGsw?oc=5"
-        },
-        {
-          "outlet": "Cobrapost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1pOa3JVdmtGcXB3d2d5YkQwMW10blotMXRPMjJnaFptNEl6RjlwYjhrMGNubWNUcjNyT0lHN0JpTDFZR2RTaGFNY25oSU80NGctYVcyYVRVeGI3TGpkRm44LUh0SWVGM3NSWHB0ZXR1N2hfMXRzVUVpS3Rtc1dCdlNCTkFDdHBmVGRaVVhCeXk3Ym5KZjhtWVcxb1AxQQ?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1lIVXZUZ0R5UEZlTDZiRWowX1gtRUZYNUtMMTF0Z2d3MXduZXJXLU1hNHpkUHAydG9HN3JoYS0zUUtSVHV0WFI5X3c4QXIyU2VjVDV3dGRja0dCXzVJRV9OeWFOZkFNR1F5QTVqX3E5UU1ud19hV3ZWZUlaNlIyS25mdDBRX2FCTndyd3NOMGFfZnU4cVluYVAyMXhzSWNQckJuZHc2aGwxM1NWZHpHalRITEsxczhC0gG-AUFVX3lxTE16UGtPaWFlbF9qczV6SEhCU1Q4bzl6Um1FZFZoWjJkV1h3djlWRW5Ld3YxcVVVUC1Gb0NoWGc2RWRCUEg1UTVUek9EYVRmeG1xZDJQem9vSE9HYUQyckxpMlpjSkRaM2YzcnMwcUJ1M21SaWlrRXVFUGJteHNvdUIzNm80VWwzQUI1NnpXMmNueWh2TGRqZG5zTGxpQkdlenRWVG1Mc2x1dktFbDgtLS1QV00ybjBvTEgyWEhELWc?oc=5"
-        },
-        {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmQ1djUxcHpVVkNzVEJKQkRvN0RtUlpaejUzRzlDa29FaUczMUUwSER3dVo0UXpIQnRsNGVBVGlNUG9WbEU2QmR5YkdRMjA3eV9uY29CVl85al9ubGZaVUQ4RURlMmtTeEJWcHVZQnZ5SHhQUGV3STFJYzRSSDlGOTZ4ZTZQaXh5bEVNOFZTWVNJWHo3aXlQX0RSRGFPbXFWNUdjWHYzSm90ZkVaOEZuclp3WlHSAbgBQVVfeXFMT3pLeWZYUkJTWmxycDU2UE9EM2hrQjBEcUtmcXlQekQ5NC0ySFFsdzNOUTJoYUJ4OFhtV09UUUZJRkVjUFkySGdGekVid28xbzhvNDlHODJoQmJmTGN0UldoanlIdVpteUd2NVpUSEh1eUNwNjZDSjJZdXpCMFAzVUdHd1VjY1dBMVNfMmo5ZlJqa1JKZHZ1eGRvb0JoLUpOcjFFSHUzUVN6UjA1ZE5Ebk5UZUZTWkV2cw?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU284RGJNOHF2Y25KbVpGVFc4bXN3N0JLNWpTYzAxMm9OUWR4RE1JVjdGZDg4T3kwMzFkTUJodXM4R1htYUpaRzR1SEZ1OUxKZ3lEcS1UbVA0cG1Ed2tYTVRfVnBFSGNtLWV1M2xGRmU3U09GaEExMXJJQmdOYmtURUZrUW5vWDM2SHBobnJsb3VoYzRvWWVqSTBkX0RxQkN4WmdKZlRFQ2NFdlRjMGtZNFdEWXhMdXoyQ01XRzV0NHFpUnQxSjNlOdIBzgFBVV95cUxQN3RKZTBScU4xby1ESkJ0eE9TdUFtQlhEazVsQnFaei1UOXhmdEVRVEFCVzZlZV9TUTFNM2FIOHBFOW1MUl9QZUlnZ25DdERoLW9sV2RxWXFTSzByaEFzckVjTjhIYmxNTXUtMGN2a2VWZEJkSnpIeThHbzFVNlJGaDZtRTBKZEhTcEVrZmJYR2xfRlNWYV8xSWVpa1hBdTFtSndsSHg2enJWamhWQ01tclJaLV8ya2d1X1dOTzdkRWNUbE1JTHhpX2ZKeWktdw?oc=5"
-        }
-      ],
-      "source_count": 6,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Samrat urges affluent people, taxpayers to give up 125 units of free power in Bihar. A politics-related story. Covered by 6 outlets, including NDTV and ETV Bharat.",
-      "image": "images/samrat-urges-affluent-people-taxpayers-to-give-up-125-units-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-slet-2026-dummy-admit-card-released-candidates-can-mak",
-      "headline": "Bihar SLET 2026 dummy admit card released; candidates can make corrections until November 5 - Moneycontrol.com",
-      "summary": "",
-      "date": "2026-11-02",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQcVdFTVVFdkNmQTlkLXpoeVFMa1A4QjZDTlJQd2xqTjljMGgzd05aNklRYnVpUUtQbHdZakQ3eTYwYzNVNndzM09fODJ6SVl2SHY0M0E1TGlyQi11U2t4OENBaU56dld2bzk4TDBNYVpxYU51ajkxRndkSkp0UVRPbkJLTUJzUDN1QUFlbXRkV2ZLWmEyOGdTZkp0aU10el9Vb1Y5NUFuUmRMeW5GQlRiM1hkMVBXVm9hMGVOMVdfS0xKalU3QjB3OVE0SGlBbmg0SW1aTWhncjF0X1pOTDhtUGk3cU8td1BJOGEwR1p4NG1xNE1Db2tjbXlDNjZZSE8tRmpKZ2lpRmVfaGZhOFhXekZncnkzTFlBOTNjRXRQREpTNkFxNDdoUUQtMUdTWGc5TmJYNGk5M24yZ9IB7wFBVV95cUxOVWJfWVRfR2lTTDc1SHNyVHNUMU9XOVBZem51dEM0YXNEdkdCNWRJd293Y1g0RDlNQ2dTMVBoMnE3S1JtV3VzX1ROejhxejRXRkdaVmNaM0R5WFNnZFQyZldFNjFGWEVHTWN1aENQRWkxa1FlaGY2dzhLcXd1R3VEQmR4RDhPa2JUT1VaR3AwQXh3UTR3NHdKUXRaeDdXN3UwcVZDbExhYUhSd1lIMDcxS3NHQ1BBM2RjdkNtX1JKWndPVTZyRTBhNUpva0hZM0hRaGtramstT2tUeXlUOEhiYUoxM0xoZ0JvZTQzOEpHTQ?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVjRtU3UxcGhFLWphUnJsTHpmbnhGZm9XckpTc0puSGtvYWs4VUljUW9hNndxMksyT2lBMXFEdnZjZ18wTGlwcjFMR056c244dHRHRy02T1ZFdkNSYWxubXIyWWI5WmdRcEZ2dmplZUd0RWpFZkJSNGZLeWRSUzZWdWwxREVKRHVjTXNtaHhCeEN0WjYwOTVZSVQ5MEV5SmNCRVNBMFNsc0x0QkZUTXFDdTdaYjdNNllZcEdBVkhHOXctTXY1aDdQcXB5eUxwMXFoM1Z2YlF6dlQyTzFBMGZDdnVsWDFpd9IB6wFBVV95cUxObWU4d0M4a2Zvdzg2Q2lsZG1CWTZUd24zWGl2eXNwNVU2ZGJvMnZGUHRMTXI2dWtrQXBncHdTUmNmd29YT2laaFBvNWFuOE5pb0ZuRHg4TXFsdk1IWmZfLUp3dFVqblBUVFQ1SWtHZkFXZVV5TjRGSWl3eFhFRE00LVFmWVgtZG04LW5GeVNhT1ozSkxXV3B1aGtrY0swcDlwVU5YeEpMUmZGT251R0lkbVo5U2sxY1lmQ0xUaFl4TDU0elNEVWkzLWdTY0FiODRUNVRqM2VHMlNvWHF3el9xbXdoSjh4YklVMXJR?oc=5"
-        },
-        {
-          "outlet": "Careers360",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY09pT0VnNGV1dEpxOUo1YjRyQ3VKRWRJQTJKbElNbUUxMGs5NHo3d3Awekh3V0FpcE1LX2hXVDRjcGxCZUpUMUZmQmkwdVNOcDlTT3VhSUFFUUVtaEJIYVdzTVROdnBJY1BMbi1YUXBfWG94Q1lpOXduZVBHVEg3ZW9qS0FGQkpOcWkyNzFSbFNnWWRmSjd1ak9lOGdiV1Q5c2M0Y2hOWC02V21SZ292dlE4VHhQV1lldHc2Uk1SbVVXTDBJRmJ6SEh6d1Fsb3ZvTFQ5Z3hBZmJaR3VCOGRFZGJNY0p6dGxwT2dncdIB8gFBVV95cUxON1YyenJ2TGJJa0pTNlhBUnM5bTNseC0zZ3BnWnl0NlQtYXFPUk1Sc1had1ExLTY3RVJTc2RwODRkcjlLWnhWUWZ2eUJqUTJ2RmNEYTlWZElfbGRtMVBjRzk0amJQa2ZtMGFSTW1wa3FabC0yMTFNV2tWaFZXcFNiY3F1QmRtMFlfUkdiRkcxM21GbzR6cDZKVE05bFQ1bVVMS0hMR1JEb0tZRGFPVVBmcE5GMXkySERzOXF4ZHlUT3FQTll0dXFCMGRaa29NVkVkUDV5RWpGa0s1NjFoU1B6QVNxLUh0TUppZ3V2VHRnUEpJdw?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar SLET 2026 dummy admit card released; candidates can make corrections until November 5. Covered by 3 outlets, including The Times of India and Moneycontrol.com.",
-      "image": "images/bihar-slet-2026-dummy-admit-card-released-candidates-can-mak.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-board-matric-inter-2027-sent-up-timetable-released-bse",
       "headline": "Bihar Board Matric, Inter 2027 sent-up timetable released: BSEB 10th, 12th sent-up exams to begin on November 19; check complete schedule here - Moneycontrol.com",
       "summary": "",
@@ -365,8 +333,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-govt-transfers-four-ias-officers-https-whispersintheco",
-      "headline": "Bihar Govt Transfers Four IAS Officers - https://whispersinthecorridors.net/",
+      "id": "bihar-slet-2026-dummy-admit-card-released-candidates-can-mak",
+      "headline": "Bihar SLET 2026 dummy admit card released; candidates can make corrections until November 5 - Moneycontrol.com",
       "summary": "",
       "date": "2026-11-02",
       "topics": [
@@ -374,21 +342,26 @@
       ],
       "sources": [
         {
-          "outlet": "Whispers in the Corridors",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFAwb181UlIzTm5menFWVGlhaVY0WlU3aENGdERsQzAyRGE2WGdDejBjT2lsX0NsWlZHWmRINVlsN0lpdkdXeDBQRzZWTFVORzY2YjZ6elUxVW9tdVBCWVoydlo2UzJxUlRDZS0xWFRXT1d6WWlUcC0tcVhUY0hzMTdjR3U?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQcVdFTVVFdkNmQTlkLXpoeVFMa1A4QjZDTlJQd2xqTjljMGgzd05aNklRYnVpUUtQbHdZakQ3eTYwYzNVNndzM09fODJ6SVl2SHY0M0E1TGlyQi11U2t4OENBaU56dld2bzk4TDBNYVpxYU51ajkxRndkSkp0UVRPbkJLTUJzUDN1QUFlbXRkV2ZLWmEyOGdTZkp0aU10el9Vb1Y5NUFuUmRMeW5GQlRiM1hkMVBXVm9hMGVOMVdfS0xKalU3QjB3OVE0SGlBbmg0SW1aTWhncjF0X1pOTDhtUGk3cU8td1BJOGEwR1p4NG1xNE1Db2tjbXlDNjZZSE8tRmpKZ2lpRmVfaGZhOFhXekZncnkzTFlBOTNjRXRQREpTNkFxNDdoUUQtMUdTWGc5TmJYNGk5M24yZ9IB7wFBVV95cUxOVWJfWVRfR2lTTDc1SHNyVHNUMU9XOVBZem51dEM0YXNEdkdCNWRJd293Y1g0RDlNQ2dTMVBoMnE3S1JtV3VzX1ROejhxejRXRkdaVmNaM0R5WFNnZFQyZldFNjFGWEVHTWN1aENQRWkxa1FlaGY2dzhLcXd1R3VEQmR4RDhPa2JUT1VaR3AwQXh3UTR3NHdKUXRaeDdXN3UwcVZDbExhYUhSd1lIMDcxS3NHQ1BBM2RjdkNtX1JKWndPVTZyRTBhNUpva0hZM0hRaGtramstT2tUeXlUOEhiYUoxM0xoZ0JvZTQzOEpHTQ?oc=5"
         },
         {
-          "outlet": "https://whispersinthecorridors.net/",
+          "outlet": "Moneycontrol.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOG9CWkJLWS11MGh2RmtUVW5QU204T1lJRkxHQ0lzbzY1dVdJeVhCVXgzWDNPbC1STVhpUkk0a01YeDB2YjZVeVROVW12a0tldEwyXzZfR2FuRzdad0k0M2lqaHVhQlptSko5YnlOSi1jYklaMHZJT0lCeElHYjN2SEVZckE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVjRtU3UxcGhFLWphUnJsTHpmbnhGZm9XckpTc0puSGtvYWs4VUljUW9hNndxMksyT2lBMXFEdnZjZ18wTGlwcjFMR056c244dHRHRy02T1ZFdkNSYWxubXIyWWI5WmdRcEZ2dmplZUd0RWpFZkJSNGZLeWRSUzZWdWwxREVKRHVjTXNtaHhCeEN0WjYwOTVZSVQ5MEV5SmNCRVNBMFNsc0x0QkZUTXFDdTdaYjdNNllZcEdBVkhHOXctTXY1aDdQcXB5eUxwMXFoM1Z2YlF6dlQyTzFBMGZDdnVsWDFpd9IB6wFBVV95cUxObWU4d0M4a2Zvdzg2Q2lsZG1CWTZUd24zWGl2eXNwNVU2ZGJvMnZGUHRMTXI2dWtrQXBncHdTUmNmd29YT2laaFBvNWFuOE5pb0ZuRHg4TXFsdk1IWmZfLUp3dFVqblBUVFQ1SWtHZkFXZVV5TjRGSWl3eFhFRE00LVFmWVgtZG04LW5GeVNhT1ozSkxXV3B1aGtrY0swcDlwVU5YeEpMUmZGT251R0lkbVo5U2sxY1lmQ0xUaFl4TDU0elNEVWkzLWdTY0FiODRUNVRqM2VHMlNvWHF3el9xbXdoSjh4YklVMXJR?oc=5"
+        },
+        {
+          "outlet": "Careers360",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY09pT0VnNGV1dEpxOUo1YjRyQ3VKRWRJQTJKbElNbUUxMGs5NHo3d3Awekh3V0FpcE1LX2hXVDRjcGxCZUpUMUZmQmkwdVNOcDlTT3VhSUFFUUVtaEJIYVdzTVROdnBJY1BMbi1YUXBfWG94Q1lpOXduZVBHVEg3ZW9qS0FGQkpOcWkyNzFSbFNnWWRmSjd1ak9lOGdiV1Q5c2M0Y2hOWC02V21SZ292dlE4VHhQV1lldHc2Uk1SbVVXTDBJRmJ6SEh6d1Fsb3ZvTFQ5Z3hBZmJaR3VCOGRFZGJNY0p6dGxwT2dncdIB8gFBVV95cUxON1YyenJ2TGJJa0pTNlhBUnM5bTNseC0zZ3BnWnl0NlQtYXFPUk1Sc1had1ExLTY3RVJTc2RwODRkcjlLWnhWUWZ2eUJqUTJ2RmNEYTlWZElfbGRtMVBjRzk0amJQa2ZtMGFSTW1wa3FabC0yMTFNV2tWaFZXcFNiY3F1QmRtMFlfUkdiRkcxM21GbzR6cDZKVE05bFQ1bVVMS0hMR1JEb0tZRGFPVVBmcE5GMXkySERzOXF4ZHlUT3FQTll0dXFCMGRaa29NVkVkUDV5RWpGa0s1NjFoU1B6QVNxLUh0TUppZ3V2VHRnUEpJdw?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Govt Transfers Four IAS Officers - https://whispersinthecorridors.net/. Covered by Whispers in the Corridors and https://whispersinthecorridors.net/.",
-      "image": "images/bihar-govt-transfers-four-ias-officers-https-whispersintheco.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar SLET 2026 dummy admit card released; candidates can make corrections until November 5. Covered by 3 outlets, including The Times of India and Moneycontrol.com.",
+      "image": "images/bihar-slet-2026-dummy-admit-card-released-candidates-can-mak.jpg",
       "image_kind": "photo"
     },
     {
@@ -428,20 +401,20 @@
       ],
       "sources": [
         {
+          "outlet": "Republic World",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1RaeGRlM1BsZXpJQ1B1Qm1vNGV6SHFLbklWb041aEJYbmF6WnNtMmxQbU45cEoxYm0wWG9IU0hKcW9LV2FTMHRPcEgtNHBiS0VjSGQwV1lZT0dHSFFoUzdmNGNpZG9DNWo0RU1pYURmdXZhX1l3VVY1aDkybzgtOFVqTjBsMjBDNnhFWGxpRDB1Q0IzWTM3V0FDMUY1VmhYRE0ySGo5NGRIa0xwMkNWSV9rb09fWW9FOHJwS3ZaMlNDeTY4VHVNRzVOX0ZQNUZq0gHWAUFVX3lxTE4ydjM0dW5xUll2OVR2YnJTX210SmtnMTNzanRmX0xZZ0x6UmhRVUdYX2F0R0dNTXRqSU1SRDNkY2NGblZBTWdJbU5IZTFzT01jSFRNcmlOOE53YzR3UDlhalpQQmVDaXEtdEhLQy12bXA0X0g2ZjZKakR2NGRBdm9ZMXI0eVNjUERfZlY1eWtVSVlFY2tSMW1Nd3dXV2tlMFBLeWhkSkhQM0NaZDgzU3RrTGF0cjlrRnFPZWFsdVYzMDVnd1hQZlI2Mm5MaUJNUzAwUzViemc?oc=5"
+        },
+        {
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjQ3OF93QUZfMDNFcjhRU3huOGtQNEppRE9YVUt1a2JWcHZjWjVBX1FveS02bHZfbXVOckJ4U19VX1ZJTEc3dHJHbldFcndoVFNZTU5MeklMdS1RX3JIWUczb1JHOXFJUWVqMVpXWWlkel9xN2VEbzlvZy1JMTAyQWJuYnRsN0F4Wk1ieVhURFJvNU9BdEdhUUF4RXp1cFJqYXo1TWQtQVF0dmJMa2V3Qm5YcF9ackdndzdya3JLQWhtdGx6N2Y5NnJvbzJtVGVCcjFuOVVERGtyN2ljRm5LQnpHUQ?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNzR0U1IyaUZIX05aWnZweFpsbERMR05kbl80c0JrTm1lMklwUkkxZEVxT21FRFJBLXVDWHZpMW1udWJReGRGUXdLMFRsdG5FLXF5YnQ3VzRhakZWcmdLZ2I0Zk80Z2tKOTRmYk5qMjdWdDRteV9IdGViYVpySzdpV0RfbkVrUGxwaUowR1B2MHdpREE5eHA0VXk2VEpoRWdiME9DZkxTQ3hxZGdpc1IwWnRpdmw1clFSSlYwUU84NkFJLXpnNWh2cGtYWEVHZk1mbV9UOV9zWW1XakxxS2JQMWdham1UNFlwYnNhWEpSMmhueGJNUi1SeXJZNzV6YVNpNXNwMkQwX2VQcDgzeWxDUV9Eaw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Nitin Nabin calls to decisively defeat opposition, accuses Rahul Gandhi and Tejashwi Yadav of insulting Bihar mandate. A politics-related story. Covered by The News Mill and ANI News.",
+      "brief": "Nitin Nabin calls to decisively defeat opposition, accuses Rahul Gandhi and Tejashwi Yadav of insulting Bihar mandate. A politics-related story. Covered by Republic World and The News Mill.",
       "image": "images/nitin-nabin-calls-to-decisively-defeat-opposition-accuses-ra.jpg",
       "image_kind": "photo"
     },
@@ -482,20 +455,20 @@
       ],
       "sources": [
         {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlNMRlBvWDBSM2FzTlBjWG9wQWtOQ2pyanhMZmJNOFhXdzFwdnJBdXlROGQ2Sk9adFZUYnlPdl94bnFVUnlCaGJMNHNJa0Y1MWE4N0dfMjVsUTBZSWMxbjczTDJ2UHhpOGNudXhBRmUyV3FMRTN3TE16SXUybW43MUZlNUtfb1JoWk9vOHpyUW5qMmVTQ3k2a3RMX1NEcm9WOW9qWm41ZG85UkxUN0ZuTlRVdkhOWWYz0gG-AUFVX3lxTE9TQWZ6MTR2dFRWMlQ3Q04zNnlVZks2TDlzRVJMRTQ5SDJoc2ExX1piRFQ4aEtqSURRbmZ6OWlQM1RPMFptTmlRYWRiQVBlQWR2ZXpTLUp1bW1oYlpKeTJlTTVHZ0YtVklUSTI1Q3Bsdnh0RzU0MXk1WmNCWUlrQy1qN1dPVEZzU0Izam5nXzNFbjAyMU5pQ2xmR2xlSVhUWGYxR09HcFhSV0JPMlRONUY5OHZXVFlCQ2psekgwS3c?oc=5"
-        },
-        {
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmFVOW5LUEZDUnNmQlBFcnQxNlg3S3lOQU4yU1VKcWVMNkVYUmdINXBOejBvRzhMUXJUOG5odC0xYm56YlQzSzBHWmdUNXRHYTMwTDVON2k5ZE1WQWJzVTRIZUxwR2lGMlNjQndjS3E1QXk0bXlteS03UjRtZXZUV0lNalpsLUg1Tnh3NWdfMzJCTWJFN2ptajVMaw?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlNMRlBvWDBSM2FzTlBjWG9wQWtOQ2pyanhMZmJNOFhXdzFwdnJBdXlROGQ2Sk9adFZUYnlPdl94bnFVUnlCaGJMNHNJa0Y1MWE4N0dfMjVsUTBZSWMxbjczTDJ2UHhpOGNudXhBRmUyV3FMRTN3TE16SXUybW43MUZlNUtfb1JoWk9vOHpyUW5qMmVTQ3k2a3RMX1NEcm9WOW9qWm41ZG85UkxUN0ZuTlRVdkhOWWYz0gG-AUFVX3lxTE9TQWZ6MTR2dFRWMlQ3Q04zNnlVZks2TDlzRVJMRTQ5SDJoc2ExX1piRFQ4aEtqSURRbmZ6OWlQM1RPMFptTmlRYWRiQVBlQWR2ZXpTLUp1bW1oYlpKeTJlTTVHZ0YtVklUSTI1Q3Bsdnh0RzU0MXk1WmNCWUlrQy1qN1dPVEZzU0Izam5nXzNFbjAyMU5pQ2xmR2xlSVhUWGYxR09HcFhSV0JPMlRONUY5OHZXVFlCQ2psekgwS3c?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "गांधी मैदान में 4 दिसंबर से सजेगा 42वां पटना पुस्तक मेला, 200 स्टॉल पर मिलेंगी देशभर के प्रकाशकों की किताबें। इसे News18 Hindi और Prabhat Khabar ने रिपोर्ट किया है।",
+      "brief": "गांधी मैदान में 4 दिसंबर से सजेगा 42वां पटना पुस्तक मेला, 200 स्टॉल पर मिलेंगी देशभर के प्रकाशकों की किताबें। इसे Prabhat Khabar और News18 Hindi ने रिपोर्ट किया है।",
       "image": "images/4-42-200-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
@@ -516,7 +489,7 @@
         {
           "outlet": "Amar Ujala",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVm5ud1lJVF9UcVVqeHRZYVhZM3k1SEI1YjZfVDktS0ZzbHR6SDdqNkVOWTdncEpHTHR5Uzh0ckdMRzVmSVRTTzFXd3lBSHlLRHVCTlJYWFFpNFQ0UkZTYWpzWW5DWmpDeVFuajh2d3J5RnVMNDJNMXRFbGJxOVQ4WVNHbHU5T1FURGhkbXh4SDhUa01EcGRGZm00RGhGS1RYeFBjeEEtVXBlRFN5bHZtUFdvYm9mUnVmR3BPVWZzaGZ2Z0RuOGdBLThyamt5M3lmX2ktR082a9IB3AFBVV95cUxOU01zeW52NG9mdEVYc1RWcVN6QVp2X2F0S19TMGd2WlhLaTB5SGhYM3lJdzBIRExBZjhDQWFWTW5lbVBfUXFmX2tZdlZLUzB5ekpDV1VnOFpVQThDYzl5M0RkUktEMUx0czljTmtvSWphdUFxZkVPZk1heTF4NjI3STRCMTNXZnpKbFRJalNTQm5MU0NNSmxkT3ZWbG1BSXhRM0xKNE01ZTVYQ0VRcEkwaXVsamthSXl1SC1heEtQbXlKdGsxamQ5RnF6bFJrQnJuQnZFSGlYcTRad1lu?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVm5ud1lJVF9UcVVqeHRZYVhZM3k1SEI1YjZfVDktS0ZzbHR6SDdqNkVOWTdncEpHTHR5Uzh0ckdMRzVmSVRTTzFXd3lBSHlLRHVCTlJYWFFpNFQ0UkZTYWpzWW5DWmpDeVFuajh2d3J5RnVMNDJNMXRFbGJxOVQ4WVNHbHU5T1FURGhkbXh4SDhUa01EcGRGZm00RGhGS1RYeFBjeEEtVXBlRFN5bHZtUFdvYm9mUnVmR3BPVWZzaGZ2Z0RuOGdBLThyamt5M3lmX2ktR082aw?oc=5"
         }
       ],
       "source_count": 2,
@@ -524,6 +497,33 @@
       "genuineness_label": "Corroborated",
       "brief": "बिहार: आरा-पटना मेमू ट्रेन में सीटें गायब, यात्री परेशान; डीआरएम ने दिए जांच के आदेश। इसे Jagran और Amar Ujala ने रिपोर्ट किया है।",
       "image": "images/amar-ujala.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "jagran",
+      "headline": "जाति प्रमाणपत्र में पति का नाम होने पर भी मिलेगा आरक्षण, पटना हाई कोर्ट ने महिलाओं को दी बड़ी राहत - Jagran",
+      "summary": "",
+      "date": "2026-11-02",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3FsNFhrN0xUYUFEWFhUUFgxLUNsRnphYVhKU0VjVFV0ajR0aThzZUVQYjl4Vi1YamRaaVdtQzVaeWxUM3pDOHM1alFkU1hpRkl3OXJGUjhDZmxMaFR0VHE3Rjk1NXl3SmFsWWNzZkJMUWt0bUNnX08zcWtNdUpjTVFuNkNXQUh0Z2JNMFIyRk9taV9Rc3g1dXBPRFVSbXMzakJwY1Z5NVBfWnVKeno5OWFadTdlTXJzNEk5ejZBUkNqdl9Z?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNczdiR0pkQU10QXFOQlpCNkViejI4U3U4Tnl6ZzFLbms2aE5kTk1yajhXekVYX2xsYm93NzhPTEFKZUxMLVkyay1WM0hUdXVzbXBBWklTemNhQ0txZTh6dHpBS2FmbGN1djZWNVhvdmoxREU1U0VXTk9vUUF2eTFVODlsNG01eGlsMlJxUDdaZzNsQVlDWGsyeTBHSGtTdllOTzhZeVU2TS1hNTZIUkJXc2NFVG5MR296QmQ4NmVoZ29rMUZKUVhpNjlNV0h4X01FcExXOFIzRUtoNmFJ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "जाति प्रमाणपत्र में पति का नाम होने पर भी मिलेगा आरक्षण, पटना हाई कोर्ट ने महिलाओं को दी बड़ी राहत। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/jagran.jpg",
       "image_kind": "photo"
     },
     {
@@ -551,38 +551,6 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना में इस सीजन डेंगू से तीसरी मौत, 23 साल के युवक ने PMCH में तोड़ा दम; संक्रमितों की संख्या 500 पार। इसे Hindustan और ETV Bharat ने रिपोर्ट किया है।",
       "image": "images/23-pmch-500-hindustan.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bpsc-navbharat-times",
-      "headline": "जाति प्रमाणपत्र में पति का नाम दर्ज होने पर भी महिलाओं को आरक्षण, BPSC को पटना हाईकोर्ट से झटका - Navbharat Times",
-      "summary": "",
-      "date": "2026-11-02",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNczdiR0pkQU10QXFOQlpCNkViejI4U3U4Tnl6ZzFLbms2aE5kTk1yajhXekVYX2xsYm93NzhPTEFKZUxMLVkyay1WM0hUdXVzbXBBWklTemNhQ0txZTh6dHpBS2FmbGN1djZWNVhvdmoxREU1U0VXTk9vUUF2eTFVODlsNG01eGlsMlJxUDdaZzNsQVlDWGsyeTBHSGtTdllOTzhZeVU2TS1hNTZIUkJXc2NFVG5MR296QmQ4NmVoZ29rMUZKUVhpNjlNV0h4X01FcExXOFIzRUtoNmFJ?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3FsNFhrN0xUYUFEWFhUUFgxLUNsRnphYVhKU0VjVFV0ajR0aThzZUVQYjl4Vi1YamRaaVdtQzVaeWxUM3pDOHM1alFkU1hpRkl3OXJGUjhDZmxMaFR0VHE3Rjk1NXl3SmFsWWNzZkJMUWt0bUNnX08zcWtNdUpjTVFuNkNXQUh0Z2JNMFIyRk9taV9Rc3g1dXBPRFVSbXMzakJwY1Z5NVBfWnVKeno5OWFadTdlTXJzNEk5ejZBUkNqdl9Z?oc=5"
-        },
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ0FUeGRnckNYa3VUSHRxam1lRmdjNEdHemJqbTB0Q0tzcm9EejhUUDE0ZUJNZk8yZmRRUmhJODNYZnF0aFJJTDN4RHFaZEJZc2wzWFpJbUNkSkJ0WGotNEZWVXl1T0RNeTMwRjE3RnAtcV9TRHlDbVdXUlp3VXFUZXVGTGtyMF9jN3B1blhlcDVMQ1gyOE01LUZPeHZCekNHZEFiVWlBR19KWW4tQXJWamFCT1JtVTh4ZXRBMTZndGpBdm84Ynk5NnZKcGhzVWlzd2M3UXM3TmFidDE3OU1RcXFObEdLZzQ4N1RnbDk2cVRwWlhkVFM5MUJ5cmg3U2JWN3RCU0s0cEXSAY4CQVVfeXFMTzdTZ21pTml2clhHODdTV0lRWHpHRDFJYW9kVFRoRVd4R3p3Zy10MHk1M2NwZ0hKZXEyR2gzdzJZWTczNlhqZlF2cWRvYzRrYmxoNXVZR2V4bW5fQmlnQnBZUXZGT2F5R1lKWThjWVRGdkZzeXdhYlZSa1N3UVoyQ0RCUGtqZ1hGdEtUcXZEU3NENlVUSWlSbDdLWThSSDJwR09ZU3hBTjFZb01TdXVSVURSMHBWVEhDeTkxREdvck41MmZ5eVhxZWhEeXcwMUwwYm5GLXRzUWRoQ3IzcVNlN3ZLS011MlB6R0JXR1VqQkFQN2c0ZXBUaEZmeFNEOEdFbG0zYUFpN3Z3Tjh0MTRn?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "जाति प्रमाणपत्र में पति का नाम दर्ज होने पर भी महिलाओं को आरक्षण, BPSC को पटना हाईकोर्ट से झटका। शिक्षा से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Jagran शामिल हैं।",
-      "image": "images/bpsc-navbharat-times.jpg",
       "image_kind": "photo"
     },
     {
