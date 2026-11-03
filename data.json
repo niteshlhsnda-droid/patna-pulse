@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03 22:35 UTC",
-  "generated_at_ist": "04 Nov 2026, 04:05 AM IST",
+  "generated_at": "2026-11-03 23:35 UTC",
+  "generated_at_ist": "04 Nov 2026, 05:05 AM IST",
   "story_count": 56,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -233,7 +233,34 @@
       "genuineness_label": "Verified",
       "brief": "Bihar CM Samrat says 'crime' can happen in Bihar, but not 'apradh', Tejashwi mocks him | Choudhary took office as CM in April. A politics-related story. Covered by 5 outlets, including The Times of India and Inshorts.",
       "image": "images/bihar-cm-samrat-says-crime-can-happen-in-bihar-but-not-aprad.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-and-morth-sign-pioneering-mou-to-use-river-silt-for-na",
+      "headline": "Bihar and MoRTH sign pioneering MoU to use river silt for national highway construction under Nadi Sanjeevani initiative - Swarajya",
+      "summary": "",
+      "date": "2026-11-03",
+      "topics": [
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "Swarajya",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNUg4R2hQMEpCYWRKSUVsbXI0SFgtS2xiNlpVYTdiV2xEc2JwSlA5eVVDa3pHNlpTVEVNeXkwX0FaR1ZZUEpseXdtdUhETkFQTF9aa1cwY2RtcWRCVld1NmZxYkV6MjZMbmVmeTE5bzhRZmtDbUxKLVVrYlNxNnNCRXVIbEN4ZWVOdFZUWjlYNW9DSDdXaWZhaUlwVnRQYk5ONVhZUmhNUTZtWkZnZHdiV3BXc2x5MU8zWWFCTzZDUER6eVlpVEgzRWVPUE4zV0c2YUt2bzJpTnYxdG5CNmFyeXJKTkZiNzV4Z2pn0gH7AUFVX3lxTFB5MUdfLVpsLVNHd2tpX0gycGdtLVRlMEpsUVV3azRqVDVxWWg2Yk9kTzVkQVE1MTg1QTlfSGZoQTB6ZHp2Y3JDcGR5REZTVHR4VmJ2dlUwajJrYUo3ZmNwTWkwLW1UaEszMDJqYm0yS2o5dTluMEU0SGFsZzN2ckV4X3M3OGNVTi1HNGZRWmFJYVdYTFpBN3lkLWdKZzBGVWUtWTdETktaSjkxaEFCMVZjbG94SEE4N1U5M3pIQnlmVFpQSDhMY0NRczNVc2dUYWRUSDU0M1oxaDJxTDRyRWppZ2ZpV3ljY1JUT3E1NlAzRnlZY080bU84ZTBF?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQXFfTGZ3X1Bka1ZUdC12UmRzRkRhNUd6Q3UteERjYkd0WWgtT0g3TTFyMm5OVXlZMVBSRE0wZVlkMnU0aGNQMWc0MW52TUZqQnhQeGxsNkx2aC1WSEFyNFlsbWQ2blRhR3ZDVjhnX2tzVkJITW4yc21KLVBROUk0UUdVUGJWa0RVN1RNQ2tGbHYwR2FhODh3RVBiMU53Y1BUcGNjdUsyRHJmNmQ4RWREV2tTTVZPTUwydmdhMGxJcGxHQjdQcXBBY1c3UWtPdXJpeVMxSUlBY0NWOFVzc0dKRi1nZ05vU1FJdTRvNVNiODI3SkwzSnNB0gH8AUFVX3lxTFBoRGRHNmg1d1JOek5kVTJ4MUdhc0MxLWdnRjJhTGxYRng4RExGTkNHSW9vYkIwdXVYTDFiV0FwTmt2VW5WcE94emthdEQwMnlVLWZfQ1l2MlJ0TXFxRlBCQjFQWk1jN0I0bXdDdlpPdXgwWUt6aGV6aDV2TE4tQ0tCSVc0X0hFMzZDVUJyekdLeDJhWHhTaDNCTUJQNjdzT3ZuRUh1T080TjhfZ24zZTRveEc1Tk51Q1MxNk13Ni00WXQtaGg2T0dZbnRVdDhnRGktendPUnhZZk5MX3pWSlItcFRybmhabkNSb0NWdTAxMlVGV1VwWU4yU21tMA?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar and MoRTH sign pioneering MoU to use river silt for national highway construction under Nadi Sanjeevani initiative. An economy-related story. Covered by Swarajya and ETV Bharat.",
+      "image": "images/bihar-and-morth-sign-pioneering-mou-to-use-river-silt-for-na.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "bihar-police-seizes-19-250-live-cartridges-arrests-three-arm",
@@ -260,60 +287,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar Police seizes 19,250 live cartridges, arrests three arms smugglers. A crime-related story. Covered by Rediff and ThePrint.",
       "image": "images/bihar-police-seizes-19-250-live-cartridges-arrests-three-arm.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-board-sent-up-exam-2027-date-sheet-check-schedule-for-",
-      "headline": "Bihar Board Sent-Up Exam 2027 Date Sheet: Check schedule for Inter, Matric exams - The Indian Express",
-      "summary": "",
-      "date": "2026-11-03",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "PW",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nc3hhbHhta0otNy1xWWhCc1BZQ0FORHBJT3lScFNnRnQxM2xIVXlBWlI1bEh2LVlINjYyYzEyZXhKQTRQd0xZa3dMbERtU0c0RVYyQzctbjNUUXJJS3JQYmV4UUNZVEVISVZvOHRjdEM?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbjZVQ1RaZmo3cDN2akpKWWcxN3ZHeDZEaVNCSnJvZjRxVklWTWMwMDJaYnBVLXA3aE1KdFpMUmlrTWItc0s1QTRHYVJoUVp0elMtMDUtNWIwQ09tYkwwMC1CUGNFZWpYSm1wN25BMFJEWUpJcHl3bFc2ckY5QTY2eEZodGdfVHNBeHctanFPU3hFd3pfbVJJd3U2UHFhSkVVVlBOdEtkMjB2UWlHX09NZjJ1dmRXV1dDaFg3VlM0SFFNdDk5X1pBVmZvUjdSUVdOckJzMDJ0RHpJOUk2djNTU1NrZWllSVXSAe4BQVVfeXFMTThoTm9PbGtERG1scFBVczNwUDgyY0F2aXVNTWdQVTJSY3p6emxsLVp6Ylo1ekpkVVE3X2IydTdHMmZJelN6MHlYeTI1WElKQy0tR3p3ZmZKZnV3YTF3TzFLU0M2dFVJT2M1M3ZrNzBFZ3pYTHhoNTQ4R1FQWldFUW5BMkwxTnJIVW03akgtX3ozaVMyYTE4R29BUWxRZUVtTHFwR0lFdVl6SnBjaTU0eVVySTJCOVRRS1l1cm11M2ktNGV4d1JOandIS1hzWnVVS1FOWnZ3TzlYREp3Wk5YVU0tdldGSEUyN3hCMjUyUQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Board Sent-Up Exam 2027 Date Sheet: Check schedule for Inter, Matric exams. An education-related story. Covered by PW and The Indian Express.",
-      "image": "images/bihar-board-sent-up-exam-2027-date-sheet-check-schedule-for-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-becomes-first-state-to-introduce-comprehensive-silt-ma",
-      "headline": "Bihar Becomes First State to Introduce Comprehensive Silt Management Policy 2026 - Sanskriti IAS",
-      "summary": "",
-      "date": "2026-11-03",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "GK Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpRUVBDWjV6eFlUOHlXVVpaOTFJMzhxNjFjWk5UbkN5b1BfUktKVDFZR0ZKTUdWMXpfUHpFUFFKZkVzQ0VGajkzZHROLU0xMDBkeEl5b18yUG9QTGNZSk5EU0xMUU1valJVeUVXRjVPQ0t0OExnNHIyNmx2RnUyRzJMdU9QX2d4MHA4aUxB?oc=5"
-        },
-        {
-          "outlet": "Sanskriti IAS",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1M2QWtNU1dvY294OXlkaURiRnhfNUNiSjA0Q2h4dTJJOXZua010Rjh2dmVLZFM0dXd6TWFPVG84dVZjRzlIYi1vSTJVYmZBZklLdU5objVzV1hPbEVnQ29ncHcxcUZ3RXRMd2JYVEhENXdUZ3QyWXg2Y1EyajdWRXgxaWEtSy1YNEZ1NkdTZDJsQ0ZKNFoxRXpIdmstWjk4eVBGbU01WUU4NlRZVmJSRExaTk1URnhYbTVwZlZFNmtUMVk?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Becomes First State to Introduce Comprehensive Silt Management Policy 2026. A crime-related story. Covered by GK Today and Sanskriti IAS.",
-      "image": "images/bihar-becomes-first-state-to-introduce-comprehensive-silt-ma.jpg",
       "image_kind": "photo"
     },
     {
@@ -349,30 +322,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-and-morth-sign-pioneering-mou-to-use-river-silt-for-na",
-      "headline": "Bihar and MoRTH sign pioneering MoU to use river silt for national highway construction under Nadi Sanjeevani initiative - Swarajya",
+      "id": "bihar-becomes-first-state-to-introduce-comprehensive-silt-ma",
+      "headline": "Bihar Becomes First State to Introduce Comprehensive Silt Management Policy 2026 - Sanskriti IAS",
       "summary": "",
       "date": "2026-11-03",
       "topics": [
-        "economy"
+        "crime"
       ],
       "sources": [
         {
-          "outlet": "Swarajya",
+          "outlet": "GK Today",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNUg4R2hQMEpCYWRKSUVsbXI0SFgtS2xiNlpVYTdiV2xEc2JwSlA5eVVDa3pHNlpTVEVNeXkwX0FaR1ZZUEpseXdtdUhETkFQTF9aa1cwY2RtcWRCVld1NmZxYkV6MjZMbmVmeTE5bzhRZmtDbUxKLVVrYlNxNnNCRXVIbEN4ZWVOdFZUWjlYNW9DSDdXaWZhaUlwVnRQYk5ONVhZUmhNUTZtWkZnZHdiV3BXc2x5MU8zWWFCTzZDUER6eVlpVEgzRWVPUE4zV0c2YUt2bzJpTnYxdG5CNmFyeXJKTkZiNzV4Z2pn0gH7AUFVX3lxTFB5MUdfLVpsLVNHd2tpX0gycGdtLVRlMEpsUVV3azRqVDVxWWg2Yk9kTzVkQVE1MTg1QTlfSGZoQTB6ZHp2Y3JDcGR5REZTVHR4VmJ2dlUwajJrYUo3ZmNwTWkwLW1UaEszMDJqYm0yS2o5dTluMEU0SGFsZzN2ckV4X3M3OGNVTi1HNGZRWmFJYVdYTFpBN3lkLWdKZzBGVWUtWTdETktaSjkxaEFCMVZjbG94SEE4N1U5M3pIQnlmVFpQSDhMY0NRczNVc2dUYWRUSDU0M1oxaDJxTDRyRWppZ2ZpV3ljY1JUT3E1NlAzRnlZY080bU84ZTBF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpRUVBDWjV6eFlUOHlXVVpaOTFJMzhxNjFjWk5UbkN5b1BfUktKVDFZR0ZKTUdWMXpfUHpFUFFKZkVzQ0VGajkzZHROLU0xMDBkeEl5b18yUG9QTGNZSk5EU0xMUU1valJVeUVXRjVPQ0t0OExnNHIyNmx2RnUyRzJMdU9QX2d4MHA4aUxB?oc=5"
         },
         {
-          "outlet": "ETV Bharat",
+          "outlet": "Sanskriti IAS",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQXFfTGZ3X1Bka1ZUdC12UmRzRkRhNUd6Q3UteERjYkd0WWgtT0g3TTFyMm5OVXlZMVBSRE0wZVlkMnU0aGNQMWc0MW52TUZqQnhQeGxsNkx2aC1WSEFyNFlsbWQ2blRhR3ZDVjhnX2tzVkJITW4yc21KLVBROUk0UUdVUGJWa0RVN1RNQ2tGbHYwR2FhODh3RVBiMU53Y1BUcGNjdUsyRHJmNmQ4RWREV2tTTVZPTUwydmdhMGxJcGxHQjdQcXBBY1c3UWtPdXJpeVMxSUlBY0NWOFVzc0dKRi1nZ05vU1FJdTRvNVNiODI3SkwzSnNB0gH8AUFVX3lxTFBoRGRHNmg1d1JOek5kVTJ4MUdhc0MxLWdnRjJhTGxYRng4RExGTkNHSW9vYkIwdXVYTDFiV0FwTmt2VW5WcE94emthdEQwMnlVLWZfQ1l2MlJ0TXFxRlBCQjFQWk1jN0I0bXdDdlpPdXgwWUt6aGV6aDV2TE4tQ0tCSVc0X0hFMzZDVUJyekdLeDJhWHhTaDNCTUJQNjdzT3ZuRUh1T080TjhfZ24zZTRveEc1Tk51Q1MxNk13Ni00WXQtaGg2T0dZbnRVdDhnRGktendPUnhZZk5MX3pWSlItcFRybmhabkNSb0NWdTAxMlVGV1VwWU4yU21tMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1M2QWtNU1dvY294OXlkaURiRnhfNUNiSjA0Q2h4dTJJOXZua010Rjh2dmVLZFM0dXd6TWFPVG84dVZjRzlIYi1vSTJVYmZBZklLdU5objVzV1hPbEVnQ29ncHcxcUZ3RXRMd2JYVEhENXdUZ3QyWXg2Y1EyajdWRXgxaWEtSy1YNEZ1NkdTZDJsQ0ZKNFoxRXpIdmstWjk4eVBGbU01WUU4NlRZVmJSRExaTk1URnhYbTVwZlZFNmtUMVk?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar and MoRTH sign pioneering MoU to use river silt for national highway construction under Nadi Sanjeevani initiative. An economy-related story. Covered by Swarajya and ETV Bharat.",
-      "image": "images/bihar-and-morth-sign-pioneering-mou-to-use-river-silt-for-na.jpg",
+      "brief": "Bihar Becomes First State to Introduce Comprehensive Silt Management Policy 2026. A crime-related story. Covered by GK Today and Sanskriti IAS.",
+      "image": "images/bihar-becomes-first-state-to-introduce-comprehensive-silt-ma.jpg",
       "image_kind": "photo"
     },
     {
@@ -437,7 +410,7 @@
       "genuineness_label": "Verified",
       "brief": "Bihar's river silt to now help pave highways in bid to reduce flood risks. A civic-infrastructure story. Covered by 3 outlets, including Rediff and India Today.",
       "image": "images/bihar-s-river-silt-to-now-help-pave-highways-in-bid-to-reduc.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "jagran",
@@ -747,6 +720,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna Metro: D-Wall Work Advances at Patna Junction Station, 4th Panel Underway. Covered by The Times of India and Metro Rail News.",
       "image": "images/patna-metro-d-wall-work-advances-at-patna-junction-station-4.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-board-class-10-12-dummy-admit-card-out-check-correctio",
+      "headline": "Bihar Board Class 10, 12 Dummy Admit Card Out: Check Correction Window Details - NDTV",
+      "summary": "",
+      "date": "2026-11-01",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1ZJcmdaRjktYlpZN0NwbnVSWWVXQXI5TURLNnA4amIydW1WUkpNclctZE54cm5kRlBvM2NodTQwY0VMbDNFN21nTkp3U2c2SzdIUHRyN0JLbU9YRkFUV2Z0TEp5QVVqRjJjbUQzQzZFbkdsRmwtVTdzZy1UeDBLbDdhU1I2N3R0VTl2X2dvQktwWS1Jbk45QmphZldtVVl3MG9SVjc5ZmV2cHM2M1NCZ1g0eFA3d3PSAb8BQVVfeXFMTm45U0g5RVRRRG4xNGN5NUhLVWNhWHZaZ2l1RzJ6WkJ3YW1LRnlsSjhjbUgwMGxXUnpaM29NVDRqN283N1M3bkFUaWRXakVLRDJ0d0hWS3hXZE95Z1ZrbFVXZDFObmktdDNpZWJMOGVTaVU4Mm1qSFBlNDFKTHh2YlAzZExfUS1zeWlYaFNnbVBDU05zQV9WNzRNRVFSMzdNRWppVWlFcVp4b3p4Q2FQYTB4VjZyS0pCV0RBVTExUTA?oc=5"
+        },
+        {
+          "outlet": "PW",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TT3dnYzdxQUpCamZHb0pTSmdmVWh3OHN4NXpMbmpER0s5bHpEekp5OGZqalZUQ0xvT2hxa3dUVVdlN0JPRXJ5V05ocm8tWmlza0tSTW5YZE5RaGxfUDBpWmlReGJJZldZWHR2TnRBYjdBSDVRLURET2U4X0ZXUQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar Board Class 10, 12 Dummy Admit Card Out: Check Correction Window Details. Covered by NDTV and PW.",
+      "image": "images/bihar-board-class-10-12-dummy-admit-card-out-check-correctio.jpg",
       "image_kind": "photo"
     },
     {
