@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04 02:36 UTC",
-  "generated_at_ist": "04 Nov 2026, 08:06 AM IST",
+  "generated_at": "2026-11-04 03:35 UTC",
+  "generated_at_ist": "04 Nov 2026, 09:05 AM IST",
   "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -57,6 +57,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "jagran",
+      "headline": "स्वामी रामदेव पर लिखी किताब से जुड़ा विवाद: पटना हाईकोर्ट ने पब्लिशर के खिलाफ आपराधिक मामला किया खारिज - Jagran",
+      "summary": "",
+      "date": "2026-11-04",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUEtNGZ0ZHJlU3VZTmhBRjhZcmFBd1FTV0FKZTdURmpDa1lySWhwQWNwN1EteXZtdmdhMXR0bkVMRHl3dS15dGZOWGpSVDZMMUdTNzNvSjZoWHlQWWpGQmQ2bGM2YmJKZzlfdUVWbjk4cDNQWjluZzhMU3ZScG12Rm9ibFFoeXpqMTU2TElrTDgzRHJhYVdUejY1YVYyZUlPS2VLTC1WZ05PbUZyYmtDcG92Sjg?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEFzU196bnNkSWdPejFNczU3U1dqei1fWXc0R2V2WjllS2E0aUN0c0RxZl9qLXZPX3FGMms2bzR3d28tdG9EcXpZWkJ1dkZPT3BNcEZsNUpreFRiMHpTZVEyTXFTRkZQWFo3R3FsVUFJWXNjVEFEYmgxdS1NQ28xNkVzbnFuRmpqRXhtdGkwMWdOYTdPWjZ4aFZud3FwalRZRkh6NkRzVnDSAa4BQVVfeXFMTWNsMmVkeW1lTDVsVDdaRmdVaWhXNUktY0duaU5na1g2LURGSmFPam0wMXJldDFzcWIxdWZrdW5fcW9LZXFyenJkUGhRR3RyeV9WVS1pM0JCNVhvZjNHZVhpbXB1UzBLT3RjRW16RDJfWEtLVkNRSVI3U1pZemxNdXNmUm00bkV6NHhwX0NDVDVpLVJ1TDFkUlhVOTZKdVV6T25QTERIYl9ZSGZXa0l3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "स्वामी रामदेव पर लिखी किताब से जुड़ा विवाद: पटना हाईकोर्ट ने पब्लिशर के खिलाफ आपराधिक मामला किया खारिज। इसे Jagran और ETV Bharat ने रिपोर्ट किया है।",
+      "image": "images/jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "nbcc-signs-2-000-crore-patna-redevelopment-mous-avenue-tower",
       "headline": "NBCC signs ₹2,000 crore Patna redevelopment MoUs; Avenue Towers e-auction fetches ₹5,191 crore - ET Realty",
       "summary": "",
@@ -106,6 +133,38 @@
       "genuineness_label": "Verified",
       "brief": "NBCC signs ₹2,000 crore Patna redevelopment MoUs; Avenue Towers e-auction fetches ₹5,191 crore. An economy-related story. Covered by 7 outlets, including ET Realty and CNBC TV18.",
       "image": "images/nbcc-signs-2-000-crore-patna-redevelopment-mous-avenue-tower.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "cm-protect-bihar-s-water-needs-before-renewing-ganga-treaty-",
+      "headline": "CM: Protect Bihar’s water needs before renewing Ganga treaty - The Times of India",
+      "summary": "",
+      "date": "2026-11-03",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzlOLXNNaEM2dHEza1VEZE9uMGI4QTYwQVNKZktKdGFCWGVBNjhZZ2xNdlduRlFKdFZidTFXc0JyU19WZEI4NHY5ekhKMFR2N2FGb09td1BPaV9qa3NQZ1F4Q3E1QW00dWdoM0pIUUhnTnVRSGpMU1pEQmFESFV5N3p5VzFGUERnYzNXRmwtNzhSOXR4bkpTcG16Zm02cV9GYURaRXNwaDBwLXdOb3plT1BpVWNjLVFaQXfSAb8BQVVfeXFMUHA5Q1A4c1gzQ3R2VXc1UkFYZG1KUHR6TmN1UlZaNnAyMGZBbWJ5czRQQ3JTcnN1ekE4NjdyVG1LTzM5Nk4xN2YzLVgwYXloOEJ0cVJrU0xub1JhUVRiWVhmNHFpdFdNUGI3UkdHZ1hYamVtTDBFTVRyMU85X0psRXpKT2FMTS1Da09pcUIxcWp1cjdiam9ISTlWS0dxTXl0SlpBZ1A0VnlhbUxSSURtTkR3S01sSi1rb1hHRy1neEU?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVHlTOVhLWUhzQ0VLMW52Mk9PRHE4VnVodUV6SVl1cDBLeFhwNWJQdmtHMWpNSTdDQzNZTklyTG52QTVkVnQ3NURtRWhZRDRsVFFsc3NCQVZKMll6SVBDWC1TaERaRFZ4VGxZRUhUMEJ2eUhQSzYydVVTNW9kUlh1eG4wLXB2dVFwWFZMd2psWDR5S3JFeGpkRWFJN2g4aGNLcGg5RXR0WW5KNUZmS3BzRlpJVTVVTF9LcHBlQ0E2YXJVRm1hSVo0ODF6Y9IB0AFBVV95cUxNMk1xcktEZ1NocnQwckJ3VVFjTFFpWkU0cElDY2c3NGpiMm1UVm9lbHFuYmFoMkRXZ3lxdkt3NHkwMWUwWUN3Tnh1NEh3N2oweHZMRXpQb2xuVVlIdlJPa3Y4Y25jRnRqc0ZlYzJRSkxFa1FYaFdRUTMtSzVxY3Q5Vl9jX3dYbm5fcjJ0MnVxWXl4MFp6NW82azhEOS1qdmFMZUJCdVRIZnJMd0pvckptRmQ3V0o0UEJZVVVyTU9ldS1pZGZjUnNJMjk0WEdNTnJz?oc=5"
+        },
+        {
+          "outlet": "Urban Acres",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFIyalo3Mi1ZTXBRWHVuMHllekV2empaclBpSkVFdUNEekIySmdVd0R3a0xxemdaQTdkUUlHTnRoVHdUMk1wOUd2aUNIeFdubzlIai1FR2Q5R0FsLWJyaWl1SDZfX3NQTGtRU3JIV0praFRTYThQbEZRUjJvSHRXLVdTdWpCNTdK?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "CM: Protect Bihar’s water needs before renewing Ganga treaty. A civic-infrastructure story. Covered by The Times of India and Urban Acres.",
+      "image": "images/cm-protect-bihar-s-water-needs-before-renewing-ganga-treaty-.jpg",
       "image_kind": "photo"
     },
     {
@@ -194,8 +253,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-one-killed-six-injured-in-png-pipeline-blast-during-dr",
-      "headline": "Bihar: One killed, six injured in PNG pipeline blast during drain construction work in Muzaffarpur - ANI News",
+      "id": "bihar-gas-pipeline-leak-one-dead-six-injured-as-png-leak-tri",
+      "headline": "Bihar gas pipeline leak: One dead, six injured as PNG leak triggers blast in Muzaffarpur - The Economic Times",
       "summary": "",
       "date": "2026-11-03",
       "topics": [
@@ -218,6 +277,11 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOck1OLWlGOUpuNF9oYmxJREhsdzlYMm1PSjFOZEpmTXZTU0tOWnBMMVZRS25UM283SzBmM0s1SVpkTF82MGhPaFBXWkVzZU84UmxCbTd6cTF5NEwzWFZ5TEVLaUxRVm1KMDlXU19pTGNQaTFDamRXZTZqR1ZMVW1YeFhDVnlueWxweEw3ejB3NnRiTVhhN2h5TzJqMUE5ejA?oc=5"
         },
         {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQzBoYk1YQkM1WUt5RUFzb1phUVJQVXpiYWFyMGRCQ082TkhTNWRuWmEwME05Ym5QWVNVTERXd01QWlhHT0Y3azlyZGdYU1BpTEh3aGRLaUVCMGF2OVQtN2hhZ2VPbG5NdEt5cjhuWk83ZlBjdEo1NnJfbFRFRnFmWmZObW8xZXprd2ZjVWdUTUwzREZTekFwU2JCOWVjUW8wOWtOM2prUTZuTmp1ZTJaamRrejE3emVDX2dCbDhQUVBLekJGc0VWV3Z6R2pHMlNKY2FiZmtINHVqV285aWwxVHhOckpsUdIB6wFBVV95cUxPYmwxR0ZQdThWaVRGdVg3MEpVVzAxQVhfT0gyMTlwNEhNTEFzZmRjZHRETk56M3hMSHQzaEtRY1kyaTRXWS1TLXh2M1laSjFzYXBCUGlsTXRudTYwNV9GRFRpTDRzQk0zRVFwZXB1akR4QUc5SWZibFlOVHh3WDdsMng3aTJBa2xsZ29tUmtZdEtlODhTUjdkLUVvQWlNX2sxeDZlX05lMWpLa21oWEI0c2Z3U3Z3MVEyLXFXUmRPRjhKS2lsR2pscjBXakNORFVxSjRUWk5WMmNQYTk3dTJaOVpzMU10N3NKUkV3?oc=5"
+        },
+        {
           "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZlY1Q3I2c0Rsb0NVX1c4dUtuTVNjbGtJMmVBbFdqemxZUEtlVkk3WWtXSURqQjdib1k0RE9aV0NzcUJDcWhZN3hJU1NVUFRlRnBoQ21pOTVua1VHUlUydjJMeUcxbFlNVV9qWk1DbFNkVTNzcUlWc0ZPcFBRQTRWOEhJRUFqY2RDQ3RVaWNMZGlBTkdaYmx3bmdaTXZLaFhUMnlQcDhFMU5ZMXpVX0RFZGNPaDl1LW9pSWtiWTJhR1FCcjk5aERJMF8xWFk2Ml9jUlc5etIB2wFBVV95cUxNNVNjNTF3YzlzaG94c0htRnQxWThwUVV2T1BSVzVUMFl1U3daalVkQjk0OE9aNVFKelU0N0NEVG15WUo4NE1lZmMtNDBBYzVBUnEyNms5LV93UWNwcVlFTHlBdG1FazFCMWQyM0JxVjBiYjRwR3FxcFAxNnBVR2xqNVJUYXlNd1ViRldHbHNfbGFCQU8weXFxYzNHcXUzYjlVZUNpYzRvU1JZa295TU0wZlhUeWdsSGhrbXlwWURRdlBvYW4wQWMwbGdTUFhtcERkNGxOUkF5VnU1SXM?oc=5"
@@ -226,6 +290,11 @@
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWW1WNlFtZHA0WE8zQXBmU01JbDNtN1ZORVFmbGVLT2RtWmdZaFIxeWF4SE5WR2M1OHItUmx1VWVnVXZYazlaTTdzSHo3N1JLQ3c5WXV6aWVITzFNR3MxbXNyUEhNTGNHVnlXcl9QNlNLTURKS3UxUFNaUGpQYi1CMGdVX2J5ZWJVLUFVWTlmd05XTEV2aHRtSXR2NUQyaGF5cWwwbUdFUUM1V2JQamZGRUt3Qko1elEza1pPdG4xaFc3d2hFbEFB0gHUAUFVX3lxTE16MllhaWw4ZWJKQ3RTb0dqNVVTd3Y2TUlYWEkxSmFuZW1KZFM1aW83TnFXZWJ4bF9DZjVzd0s5YmVTNzFydjBPZlpWVUp3V1I1N1NobGNDbUN0eEdqQ0Jucml4VXh2YWhGOFd5ZEtDRXAtVVJJUHFWWmFwdXFVcFBDVjVHLTFuM3R1MUFyemRaRm1pU1JvNHFHaW1qVVU5bFNsdFhwRjdLQmxNYi1pWGJDRGVRTU93Vlg2aDlPNUVycEszWm01d2tWZGJONndVNGJJY1RS?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVVTSU1ReUlBVU1lSFlkOTJhaEpxakpsU0lrTndZSFZxaHp3UTk3RlllUFpQSXkxbWRNaVBjMjQycG1sSkEyWlpOd2ZQNmFaUkpsLXhIVk5XMmhXcEcwZ0RQQ2loMkVHUDhTbHdNc0QzYU9TT1JYQ3JQUEJLeEVBZzczTk5NVTVYLWJKN3lpLXBKR3BJLXEzM2toWkxXTjlhNWhMVXBJMGZPSDkzYmRF0gG0AUFVX3lxTE9TdFBxT2JqZnZZLU1CUmNNUGhzN0IyUkpySUFrc0tnQWlEc0lHLVFFMDdfWlEwSkNmNG1UU2VweUhSTENBTUJlcWxJc2U2aHM4Rkw5SlV0ejVoTEk3SEJDRld4Y1lMX3Z4YVg2ejl5N0pEVmp6VUFfcjViY0g3ZkYxUFJHUXMwTEFUNXZYeUp2YWwxX0FJQmMyTHNFay1kTTFTX0wzVmtEUnMtVEpyS1FMalZnLQ?oc=5"
         },
         {
           "outlet": "The New Indian Express",
@@ -238,26 +307,21 @@
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUk8xVE1PbG9PWXdCX1NGc2lLMVlTRnEzQ0E3VzZxaXJMSjJKV2t3ME5TX3Fvam0xQ09PdTMwaWxvUUxVUU80TXRhWFhvZ3EzdnhldW15OVVSWGNySVk5TFlQLWZ0MUpVcnlINzNsSm5Qa09mMktNX1EwcnVaQU5uYllTNEJwcFpFVkZ5RV9uWG9GY0VJNS1zXzE2dm43d2kzRExSRDI0VzlQc1hBVkpZcGVWZThVYVdJZGEyV09VRE1jblgtNnUxaFBqZ3J1TDlyZTFadWlxNzBLTDVJeXlDTnJYeTU0aTM2NEHSAe8BQVVfeXFMUEc5NmNlMDNiSDFOV045TXZuV28tQTBqN3VfLXBvVmQxR2FObE1jbm5RUXNtSUZUdVFUV3BEdFVzUlRkaF81YnU5YVpFZUJSZF8yc1BXZnFoQVNLcm95Rzc4d2pWTFZPTEtIMERfZi1GS1VfcVVFX1Q2V2ZKMnZpbUh3RG0yYWdyalBMVnFJNXZzRzNZNlIzdy1lcHN6Z0xfYWpabnIxbzEtbDEyV3F3ek54LVYwZ2FlemxYd0JvX0EtNEh5TGJxdmh1V0F1WEY5bjNpTTItS2ZzR3pSR083ZHRWNWQwRFFvbjJBV2QySXM?oc=5"
         },
         {
-          "outlet": "ThePrint",
+          "outlet": "ANI News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVVTSU1ReUlBVU1lSFlkOTJhaEpxakpsU0lrTndZSFZxaHp3UTk3RlllUFpQSXkxbWRNaVBjMjQycG1sSkEyWlpOd2ZQNmFaUkpsLXhIVk5XMmhXcEcwZ0RQQ2loMkVHUDhTbHdNc0QzYU9TT1JYQ3JQUEJLeEVBZzczTk5NVTVYLWJKN3lpLXBKR3BJLXEzM2toWkxXTjlhNWhMVXBJMGZPSDkzYmRF0gG0AUFVX3lxTE9TdFBxT2JqZnZZLU1CUmNNUGhzN0IyUkpySUFrc0tnQWlEc0lHLVFFMDdfWlEwSkNmNG1UU2VweUhSTENBTUJlcWxJc2U2aHM4Rkw5SlV0ejVoTEk3SEJDRld4Y1lMX3Z4YVg2ejl5N0pEVmp6VUFfcjViY0g3ZkYxUFJHUXMwTEFUNXZYeUp2YWwxX0FJQmMyTHNFay1kTTFTX0wzVmtEUnMtVEpyS1FMalZnLQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbHB1dlJEbXh0WkhESkxqdVp2TDlkSDVUWkdBeGRpdGVpa3Y3czVUOTFQZ2pqQVJJNXRZUHNiYjhKaTh4SThJMUhBTlJOMFYxbGc5S01mdlY1NGpab3dOelZpUGFUUHJIQ2k1N1JaWHNobG5QVnN6dHYzak5MMVhpZDJFam5RSUpnSVd2dnNmYWFGNEdETmFneFRWS2xWRWgwbnYxU2d0X2pVN1E0b2xLa3JKeE9CdndRR0VIejNaQkNSa0drRzVPWVhMM0VscEE4OGJQa1NkeTdBNFRoWWJoUHRZRFZyZTFxcmYwU0NtaGJfdw?oc=5"
         },
         {
           "outlet": "ETV Bharat",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGhBYldReEhxU2dCOVFUeGZaSWxhWWI2dmNMRFRWV1hQaTBkREF4bm9SNnhBLWVjOUtXUW00UU03UDdNUG5KaldaMU1tNHNab1BEMHFSOWtlOVczNlcycGZTVVhWWEtUNlp5elV2ZkF1Ni1HTDNaLVplUlBjUExtWUQ2WGstVERvbW5qa0w5Q2xXeGliODQxamUtLXJMWEZqbE93bDVDbF9SN2gwdVdaZG9KNURNUGlrSjJnSFl30gHDAUFVX3lxTE1GYTJCYlVyQXJnMHpDcm1VRlhXVGpvRktvSW1Wb0lBVFFtXy03dFZGczd0M3JVZGQ3bGt3MUtKUWE3aXRDdzMwekZnMmFXQ0pHV21WZnB0aDdHM2F6QkZDSkR5UzlqcTY2WU95QXVLaGhvaXJZR1lsSk8tTjJUNWdBUjFBZzB3S2ZzZVBNMUZwWl91Qmg2VGNLZXNxRExsSDg4TU9zZEZwMUJsZ2VPY3JqMTl1VHp5dmd1ZUItYml5VWtPQQ?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbHB1dlJEbXh0WkhESkxqdVp2TDlkSDVUWkdBeGRpdGVpa3Y3czVUOTFQZ2pqQVJJNXRZUHNiYjhKaTh4SThJMUhBTlJOMFYxbGc5S01mdlY1NGpab3dOelZpUGFUUHJIQ2k1N1JaWHNobG5QVnN6dHYzak5MMVhpZDJFam5RSUpnSVd2dnNmYWFGNEdETmFneFRWS2xWRWgwbnYxU2d0X2pVN1E0b2xLa3JKeE9CdndRR0VIejNaQkNSa0drRzVPWVhMM0VscEE4OGJQa1NkeTdBNFRoWWJoUHRZRFZyZTFxcmYwU0NtaGJfdw?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar: One killed, six injured in PNG pipeline blast during drain construction work in Muzaffarpur. A crime-related story. Covered by 8 outlets, including The Times of India and Telangana Today.",
-      "image": "images/bihar-one-killed-six-injured-in-png-pipeline-blast-during-dr.jpg",
+      "brief": "Bihar gas pipeline leak: One dead, six injured as PNG leak triggers blast in Muzaffarpur. A crime-related story. Covered by 9 outlets, including The Times of India and Telangana Today.",
+      "image": "images/bihar-gas-pipeline-leak-one-dead-six-injured-as-png-leak-tri.jpg",
       "image_kind": "photo"
     },
     {
@@ -297,20 +361,20 @@
       ],
       "sources": [
         {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHJ1bUcxeEc4WEtUMHdZZVZpRWNZaV9TMC1wNmVpaWZtS21KOVdDTGNxVGZNQkVMNDVCRnZjTUd0QzlYZ2d1X1IySlVJa1FlOFBHaFgtRm55aTNMNjBlSXhtM0NHc3d3UEpWclZwV2ZSbU9Fbllnb0ZVMkpPdzlWR2lLdGpnWmxvUXZBcVg0UlBMZXJENlhwYWhvVUhnakFEVVAxU1BuSHnSAa4BQVVfeXFMT1hxMGpVTjJ6OUpaRnBIdWVUQWRGeTYzdzZtOHpVclh1RjNfd3ZIbE1zTlhtMTNLby1GRzhJQVpSSlM0Zk43WHV1TkZMNV9CUTFLMENoWmpBY1pVR3FxZ3I2Q1NiNHByTFAydFpiNlJIYXJJUFBSSGloVXFiVHowXzg2SUJOdGFQYWphZW5ZXzFwdlB5ZDdENWN1SkxXOGdhd0RQYlkwTXpyMjY2a1lB?oc=5"
-        },
-        {
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZTVDM3VyaGd5T2hRZVpDRmRxTC1MVk1iMFo4d3h2bVVkZWtuOHNULTdydmw4SGFpTmM0TEg4b185c1dMODRiczBNZnRESmVXdVhtVTVYSl9FZDNPTEZ1MHl3ZU4zMTV2NzVlUzJvaEttak92cmxBQTJ3dnVwcUlxU0RGT0plZXVIT3FMS18tdUFyMTdsMnVmZFJSVHZmVmZNWk5MaTlZQnNlcDBG0gGvAUFVX3lxTE1jYzI0c1RaT2twbmhfeGdHQ2J3N1hMbEFCVDJwalltVEZDZWRCWUppc2Q2WHVzMVVrYzBnWVNOb3FTVUk5Qk9UZTlySDdvNnpFMzc2TlVCeTVVR1c2dFBKejJUdW1VQkN4RDVpb3hyVFM4b21QZERzWDhRZllyaW0ycDJBRFpoeGtsb3ZsTFdYdnU3TDYxNFlWakZabnlrRHdCeUxzS0N1UFl3cTl1UFU?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHJ1bUcxeEc4WEtUMHdZZVZpRWNZaV9TMC1wNmVpaWZtS21KOVdDTGNxVGZNQkVMNDVCRnZjTUd0QzlYZ2d1X1IySlVJa1FlOFBHaFgtRm55aTNMNjBlSXhtM0NHc3d3UEpWclZwV2ZSbU9Fbllnb0ZVMkpPdzlWR2lLdGpnWmxvUXZBcVg0UlBMZXJENlhwYWhvVUhnakFEVVAxU1BuSHnSAa4BQVVfeXFMT1hxMGpVTjJ6OUpaRnBIdWVUQWRGeTYzdzZtOHpVclh1RjNfd3ZIbE1zTlhtMTNLby1GRzhJQVpSSlM0Zk43WHV1TkZMNV9CUTFLMENoWmpBY1pVR3FxZ3I2Q1NiNHByTFAydFpiNlJIYXJJUFBSSGloVXFiVHowXzg2SUJOdGFQYWphZW5ZXzFwdlB5ZDdENWN1SkxXOGdhd0RQYlkwTXpyMjY2a1lB?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar Police seizes 19,250 live cartridges, arrests three arms smugglers. A crime-related story. Covered by ThePrint and Rediff.",
+      "brief": "Bihar Police seizes 19,250 live cartridges, arrests three arms smugglers. A crime-related story. Covered by Rediff and ThePrint.",
       "image": "images/bihar-police-seizes-19-250-live-cartridges-arrests-three-arm.jpg",
       "image_kind": "photo"
     },
@@ -332,40 +396,18 @@
           "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbjZVQ1RaZmo3cDN2akpKWWcxN3ZHeDZEaVNCSnJvZjRxVklWTWMwMDJaYnBVLXA3aE1KdFpMUmlrTWItc0s1QTRHYVJoUVp0elMtMDUtNWIwQ09tYkwwMC1CUGNFZWpYSm1wN25BMFJEWUpJcHl3bFc2ckY5QTY2eEZodGdfVHNBeHctanFPU3hFd3pfbVJJd3U2UHFhSkVVVlBOdEtkMjB2UWlHX09NZjJ1dmRXV1dDaFg3VlM0SFFNdDk5X1pBVmZvUjdSUVdOckJzMDJ0RHpJOUk2djNTU1NrZWllSVXSAe4BQVVfeXFMTThoTm9PbGtERG1scFBVczNwUDgyY0F2aXVNTWdQVTJSY3p6emxsLVp6Ylo1ekpkVVE3X2IydTdHMmZJelN6MHlYeTI1WElKQy0tR3p3ZmZKZnV3YTF3TzFLU0M2dFVJT2M1M3ZrNzBFZ3pYTHhoNTQ4R1FQWldFUW5BMkwxTnJIVW03akgtX3ozaVMyYTE4R29BUWxRZUVtTHFwR0lFdVl6SnBjaTU0eVVySTJCOVRRS1l1cm11M2ktNGV4d1JOandIS1hzWnVVS1FOWnZ3TzlYREp3Wk5YVU0tdldGSEUyN3hCMjUyUQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Board Sent-Up Exam 2027 Date Sheet: Check schedule for Inter, Matric exams. An education-related story. Covered by PW and The Indian Express.",
-      "image": "images/bihar-board-sent-up-exam-2027-date-sheet-check-schedule-for-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-becomes-first-state-to-introduce-comprehensive-silt-ma",
-      "headline": "Bihar Becomes First State to Introduce Comprehensive Silt Management Policy 2026 - Sanskriti IAS",
-      "summary": "",
-      "date": "2026-11-03",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "GK Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpRUVBDWjV6eFlUOHlXVVpaOTFJMzhxNjFjWk5UbkN5b1BfUktKVDFZR0ZKTUdWMXpfUHpFUFFKZkVzQ0VGajkzZHROLU0xMDBkeEl5b18yUG9QTGNZSk5EU0xMUU1valJVeUVXRjVPQ0t0OExnNHIyNmx2RnUyRzJMdU9QX2d4MHA4aUxB?oc=5"
         },
         {
-          "outlet": "Sanskriti IAS",
+          "outlet": "Shiksha.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1M2QWtNU1dvY294OXlkaURiRnhfNUNiSjA0Q2h4dTJJOXZua010Rjh2dmVLZFM0dXd6TWFPVG84dVZjRzlIYi1vSTJVYmZBZklLdU5objVzV1hPbEVnQ29ncHcxcUZ3RXRMd2JYVEhENXdUZ3QyWXg2Y1EyajdWRXgxaWEtSy1YNEZ1NkdTZDJsQ0ZKNFoxRXpIdmstWjk4eVBGbU01WUU4NlRZVmJSRExaTk1URnhYbTVwZlZFNmtUMVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHQyUVF6YUdKM3drRThiXy1IRWYxOEhEYmFqSzcyejhrZi05cmhhTDVMdVQ1N0dGNlIybjRYT3NlYkhxYS1yRG91TUFPOWU5VzNvc3FzMU9XcXExeEM5SDdOQ0hxZ1pKbFJrWm9nX3NpMlQxQURVRGtablRfdktmQ3pEVk9YdTdpYVlDRHdIZ2pENTZ0c3lvZ3FxQUFNaWNQdjVTQ3pwX3pmOFFBbGJnSUtUazZyUTg?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Becomes First State to Introduce Comprehensive Silt Management Policy 2026. A crime-related story. Covered by GK Today and Sanskriti IAS.",
-      "image": "images/bihar-becomes-first-state-to-introduce-comprehensive-silt-ma.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar Board Sent-Up Exam 2027 Date Sheet: Check schedule for Inter, Matric exams. An education-related story. Covered by 3 outlets, including PW and The Indian Express.",
+      "image": "images/bihar-board-sent-up-exam-2027-date-sheet-check-schedule-for-.jpg",
       "image_kind": "photo"
     },
     {
@@ -401,6 +443,70 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-becomes-first-state-to-introduce-comprehensive-silt-ma",
+      "headline": "Bihar Becomes First State to Introduce Comprehensive Silt Management Policy 2026 - Sanskriti IAS",
+      "summary": "",
+      "date": "2026-11-03",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "GK Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpRUVBDWjV6eFlUOHlXVVpaOTFJMzhxNjFjWk5UbkN5b1BfUktKVDFZR0ZKTUdWMXpfUHpFUFFKZkVzQ0VGajkzZHROLU0xMDBkeEl5b18yUG9QTGNZSk5EU0xMUU1valJVeUVXRjVPQ0t0OExnNHIyNmx2RnUyRzJMdU9QX2d4MHA4aUxB?oc=5"
+        },
+        {
+          "outlet": "Sanskriti IAS",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1M2QWtNU1dvY294OXlkaURiRnhfNUNiSjA0Q2h4dTJJOXZua010Rjh2dmVLZFM0dXd6TWFPVG84dVZjRzlIYi1vSTJVYmZBZklLdU5objVzV1hPbEVnQ29ncHcxcUZ3RXRMd2JYVEhENXdUZ3QyWXg2Y1EyajdWRXgxaWEtSy1YNEZ1NkdTZDJsQ0ZKNFoxRXpIdmstWjk4eVBGbU01WUU4NlRZVmJSRExaTk1URnhYbTVwZlZFNmtUMVk?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTZlYnFFZGNiRTJRV1hrbnk2aTJyZnFtS1lyZzk5S2dZRVRSWmpGLS1ZOWRmQVpUR3l0aFRSUUdDVW9WNGR3SEhGam51YXFuR0IwSUhqMS0zd19ZM3RuRFhseXBwQ0RNc3hRWXhDTXFGR2VNRnVjc1NvRG91MjAwSkhVZENsQzhYUndZMUtuV0J0WE0zNGFqbVZHa2NOdw?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar Becomes First State to Introduce Comprehensive Silt Management Policy 2026. A crime-related story. Covered by 3 outlets, including GK Today and Sanskriti IAS.",
+      "image": "images/bihar-becomes-first-state-to-introduce-comprehensive-silt-ma.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-s-river-silt-to-now-help-pave-highways-in-bid-to-reduc",
+      "headline": "Bihar's river silt to now help pave highways in bid to reduce flood risks - Business Standard",
+      "summary": "",
+      "date": "2026-11-03",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRnVabEp1REFGU1E5NnVHNWRkNHY0aXhyT2hZaEEyRGxWSUs2RGVsbE83QXRERnFaREZ4eUtSdU90cHl5dzcwdmhBRGZ4SmI1SFFfNjFoaUlNUmd3SEdSWmpNU3FZajJ5b0ZpUUpLak4wbUtkUUQ1a1pOU2JCb1MwZEdTZXhRXzdHU1lpSTNNMV9BemlKbHFFenpoUm1TOVhoMEMwNGRXd0RkNWFWS0t6cHg4QjBtbG1JckdCNXFHdm5vSlFVUmlGTWlpZHJyMGp5dGRQVjNxdUZZWXdESXNzTVQweG5fN2Z3eWNfWkdUbmdBalJ3ZmtheU1n0gH_AUFVX3lxTE5BTE1xLXAyMGhHU1BGbDBVNnFna3I3UmRBZ3JzMTJyM29EQktyWU1TZHNiOWhKa3lGYzUzekpFTU5YOV9tSG9vXzlDamhoblJMSVgxOEtqZ0ZHd2l5bVliLWJkYndQWE1HS0FZS3pvUm1feHI5Q0FTdW9icFluZzBqYkFOUnktczlLSF9YOG9LbEhTaUljMnhVZzNaU2ZmOUNjWmRaNWltNXhTaU9pN0ZHMHZTdHBickRvb3k1dDhxR2U3dTRWSE9IdDU1bkdwXzk0Rm0xbmlHbGhrZ2hacFFxNWE5RTVWRzNWSWp5aGpVak9jaHdOb25TTl9SbDRTMA?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNby0tekxoTFZrbHRKRWdjZFE3UUFnN0EzdVFlVlVhUTU4SndhYWNLSC1mT21uMlc1SkpOS1JRTHNjQjFZNlgzNG9UN2dHRGhBV1dKcnV2SFVlSzdjeDVwaTFTM2JtaEJ2cEhzTl9JQ3RTa0FHUmwtUHB3MHZQbXN4U016ZWowX2p1Z3cyaHgtaGpYbGt0ZWNCN01INXFTcGdNS3IzVVZmVEVUV1Y3UzE0atIBtgFBVV95cUxPY0tCU0tFNHFfZTJJS1JMRVVEeGZYVzZKUkN4Qk5RM056TlRPTnRNNFJFa20wVHlUNFR2WklLalVQYkQwQUxVTUR2dVlpWXZsWEhLV1NnajJ3ZjA5cGlsNTJfaU84c0RBNFBEemFNMkR6Z3NYYzZNNXA2aVFIMl8tdFBPMl8tY08wRlMxdHMyb0kxVG5RQkpYZFdkYkh2MFFkaXpMZUpNWGU0ZUpQS0g5RFpodXdRUQ?oc=5"
+        },
+        {
+          "outlet": "Business Standard",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRkpQTmhmYUlJUW1CRkJwZTRnQUd5c0xra09SYXB5bnNNZmxOcXNUUURyTXRvLW14QkxHUXBiV1ZKeHE5eUxVdkhFN01jSTlFZkVELU4wU2VfMHpvcHhUZ0hiQUhTVDlucmhjRTBVdVFLaGtkb04yVHVjNWhaenVBemd0ZEJQS1g1VENUdG56RGpxVmo1RTRXRUJCZTVKREstd1kzdXd2eHpUd0tBbDBLVVhlVGVRaFdBVV8ycjBhVk9HNHlXaWlNdUs1aXQwa0tRRTBTZ3prWdIB3AFBVV95cUxQQkFwS19VTW5UTUR3WlFBRnk1aUI5VGVoMDlHMmNPV2p6Wk12eEZiN3NxWVU0VG92Q09aanlPMVRkamhxRHNucGRmRDBCUVQwaFNDMnZMQkp2VWdkQWQ4UTZLVFphWm85VHh2YW4tVi1iNzJ0OVlQeWtMMHZ1MFJoRUxyaGlOU1VTNFRSNUF0V0t1a3RUREMyNlJFRFRjTzJnczRiNlNMNks2ZG1FUVJFZ09iQmU3UVNiWGxQeGdGX0lodHh3cnNDTGdRa2RYXzRWTURhUm9GWEtqYjRk?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar's river silt to now help pave highways in bid to reduce flood risks. A civic-infrastructure story. Covered by 3 outlets, including India Today and Rediff.",
+      "image": "images/bihar-s-river-silt-to-now-help-pave-highways-in-bid-to-reduc.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "nhai-to-use-excavated-silt-from-rivers-water-bodies-to-build",
       "headline": "NHAI to use excavated silt from rivers, water bodies to build highways in Bihar: Nitin Gadkari - Deccan Herald",
       "summary": "",
@@ -431,6 +537,33 @@
       "brief": "NHAI to use excavated silt from rivers, water bodies to build highways in Bihar: Nitin Gadkari. A civic-infrastructure story. Covered by 3 outlets, including Rediff and Deccan Herald.",
       "image": "images/nhai-to-use-excavated-silt-from-rivers-water-bodies-to-build.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "bihar-cm-samrat-choudhary-meets-ashwini-vaishnaw-in-delhi-th",
+      "headline": "Bihar CM Samrat Choudhary meets Ashwini Vaishnaw in Delhi - The Hans India",
+      "summary": "",
+      "date": "2026-11-03",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hans India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWE5MQVlDdTA2dzVWdDItbUtOWWxTa2dtTlA1dVZiR2w2dm04eklYY0pUV1B3am1mNHRHYVU2MnVFY1AwOUxWR0dyMU4yVGJ1ZWtNdUVzbEJqbzZLOUllcHhpQ2JsekhXOWltQnVtVUd3a0tlSXNzclJTWnFEWGtIQUVwcnVRbnloWUFtc1pUbGRVbXJUTWNoRHdyOHUxRzZQdGtwbXJnRXpPV0huZmpDWjRvUFJTdUE?oc=5"
+        },
+        {
+          "outlet": "tennews.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUJkdW5zV0FxejdyWmVSWldYbVNDWWg3SHFQTTdIdkpwSW11TEctMHhTcC1XNDBENTNTLU9Vb3lnU1FxdGNYYTcyZ1daUWFHd1p4M01KOW04YV84aTE5eDhNMkE0ZTRTS0w5N2IzSWkyMVpBcjRselFYRlppNW15LTdFaw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar CM Samrat Choudhary meets Ashwini Vaishnaw in Delhi. Covered by The Hans India and tennews.in.",
+      "image": "images/bihar-cm-samrat-choudhary-meets-ashwini-vaishnaw-in-delhi-th.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "15-jagran",
@@ -514,8 +647,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "prashant-kishor-s-jan-suraaj-petitions-bihar-legislative-cou",
-      "headline": "Prashant Kishor's Jan Suraaj petitions Bihar legislative council chief to disqualify Independent MLCs who 'joined' BJP | India News - Hindustan Times",
+      "id": "jan-suraaj-petitions-bihar-council-chairman-to-disqualify-in",
+      "headline": "Jan Suraaj petitions Bihar council chairman to disqualify Independent MLCs who ‘joined’ BJP - ThePrint",
       "summary": "",
       "date": "2026-11-02",
       "topics": [
@@ -541,72 +674,13 @@
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVpUUWdFMDJFZVdOQnlzX3B1bGxmRjB4cXZkSVNyRVFlaW91SU0xLWV4R0U0N3RnZEFoZ3B3TV9mclNlV0tfdVVyMDgyN0tVa1UxY3BDZUNVMDlLYU9EME5QMjIxeDJEX2YxNnozN1lzTXNvOEpyNngyZlROYU54VmN0WjBpU2lQWWlUalZVdmhlQVVuaWJyeTZfM2tOOTk3VUdveUkxZWJLWDJaeHJGZEdSRFNhckJGdzRxRmlKUXlpUdIBxwFBVV95cUxPSVVDNDhHSHBmcmdyd04ybWl2OFBMeUNwbU5ySGJTODBneHMyVlk2VHROMFFiWHpmUjRUV3dGSVFzUzYwcE02eWJBbkNUaldsdTRYR3lGMFg0WXYwcWVjclgyUTVwQmpvWW9qQWhwVFZURGdTTzhncWFZb0tvV1A2X1E5V1dBVTBBYVdiNXVvQndwVDYyWDY1b19LN3pIY0F0RFVsNGpLaldyUGRQSkhDaTJWUlBMMThfRTV1bWZGU3BuM2VFT3JZ?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcVVmMzhHOENFTjhTb1U3VG84Rkp4YTZIeGhMOUd1aGxvTWVYSUcwa0ZpZm5QSi05cmcxcTE5QUg5M2JfYzhmbGlMVDZaTnBLYjdCNnIyb05mWFVfajdzSzhuMUdJa0F6N0M1NmtfRDRFLURidFN1aWNGVmt1QkFDOEdPbC03cGkzRnJyeW91VmkzeVY5T0htcGNic3YzM3ppR09lM2pxc2lSeTM1U2hzYmZYcnhpX2NXQjQ3ME1pd1JrZElnb25mV0EzNnR3anpJYlZZUG9reVNFYTlHV2FYQUsxOUlIaXlmU0ROWWRYQ3I0SzYwMDVKSDlIODh6R2x2cG5TZmk3b2_SAY4CQVVfeXFMTWhDeTZvSUloXzRfdlY3OXNldUxxZDlEUm0tZndST0l0WThXci1xVWdBYVhiYXdJMFdQWkxYOFZDeHlPVkVzbmp1SEVvbUY2c083SVJaQm4za1VCbWprRmNnMks4blBGT0RGOVBDZmJMdGFWeE40bFowYzREU3VzSXNPMzFBdmljSWMxNmc3cUtsZ0tPVE9STnpScGpVN3RqRDJsUEhIMlkyNDd1RDg2RGN6ZUxDbVdHZ1RfZ3Y2QVNrYzYxbnNNOVhQSjFwanhSRk4yTEZYakh1LUphVlVTamFVRGFzNlNYRzlmZ3hYSkNOcGdxMjBHREZucjBIV2pBSWJIS0UySjI0OTNwemJ3?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Prashant Kishor's Jan Suraaj petitions Bihar legislative council chief to disqualify Independent MLCs who 'joined' BJP. A politics-related story. Covered by 3 outlets, including The Times of India and ThePrint.",
-      "image": "images/prashant-kishor-s-jan-suraaj-petitions-bihar-legislative-cou.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "opposition-seeks-disqualification-of-two-mlcs-under-anti-def",
-      "headline": "Opposition seeks disqualification of two MLCs under anti-defection law - The Times of India",
-      "summary": "",
-      "date": "2026-11-02",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc2ctSE1UUmV5bEdTbUZET2ozZmJ1R1lpei1iWVBXa1o3aUtaRWt5TnkySjhTVDZsQ2d1QlJ4N0dkUjFyaHRmbWdfRUd4R2JSNkNPMDFCdjNqWUxNbHk3T1E3bUVucXNscmRjQ3kzSEdaS3BCNGhyZ0pQSHRXMVMxYWQwOWViaHhhTENnSWVCOGotYV9XQ18tdE1mRm1xWjlTTEc4UjJoZzdGTDRlNEk2YXUzN2gyQW1GMjNWbDJXV1U3RWxLWmlhZUNiR3R3aTNGa0ppellNWUtPTmPSAeABQVVfeXFMTmROczFDSzJjLVl2UGVYam5RWkZ2aHdCV3lYQWRBck1jVnVtTGFJb1h2RXRoZTRmcDB1N0t4NV9PTnZVbDNqeVk1bG5RYlRUbU9sNzBLZjhfOGJlRDUwaEo0ZmFQVFhrWGJBZnBiWGZKU3VwU2tFUjBxMUFDREx2ZjZ3MzZiYUVYbXYwd0RtR2l4WGsyOGZXVXFXS1gyZ3hqamhXTHppRl9pWmRvNHFXeGd2YnF0bjQwS09TbnlyNHRXZnhsSDlYUG9pWTUyRmRFRkxUNVBMcldqV3ZFRXZsSkY?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPem14LVoxRElGd1o4TWJURHFDT1VsU2FjY2Y1V3dDQzBNcU9tVVlRYk5YNi1MQjRyaGZKR1hUNlN6eUxZa0hlckdQaEd1M3VCMjF3emdRclFHOVF2Z3p3TjVwT0hxRTNaNDRsYlB3S1A2ZmtRY0xkM0JKaHQyT2pZSEtQOFlTcmF0RkQ4T3huZWZqVUU1V2FRMDRjOFVISkpOd0FBOTh1V0s3bTVOaVpaTDhjSmQ2S3dCQ2djMmF2cVhOcnJtT3dWd3N6MVEwa2dKN3dWN1V6VnB3azVFV1N4R9IB5gFBVV95cUxOWU5yUlNlbERfVmdFY21Xc3h3U3JTWE13ekk5NW4wb0pYQjYwTGRhUmxqSTg5VUtpcWNaRFgwSE1tN0otT2hyZWpUbEVhZjVOSDRiSFhDajkyQWV3VmJGaXFtU09WV3hKMm9IdkcySk4tVng5ZE10NWliT1NXNG05LTFzNzlhcG1kRWo1TW1CSFpMQi1hSDBBOUJzd2xnY0tERk1Yc3VVNUlIeVJTZm5ielhUNGRCUWJsWjFBZDdLTmg1dm5OMmpSR2hoMUc0MXpJTUw2UkhzQ0dHOUNOOHpFeHNmYmRCZw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Opposition seeks disqualification of two MLCs under anti-defection law. A politics-related story. Covered by The Times of India and India Today.",
-      "image": "images/opposition-seeks-disqualification-of-two-mlcs-under-anti-def.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "4-42-200-prabhat-khabar",
-      "headline": "गांधी मैदान में 4 दिसंबर से सजेगा 42वां पटना पुस्तक मेला, 200 स्टॉल पर मिलेंगी देशभर के प्रकाशकों की किताबें - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-11-02",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmFVOW5LUEZDUnNmQlBFcnQxNlg3S3lOQU4yU1VKcWVMNkVYUmdINXBOejBvRzhMUXJUOG5odC0xYm56YlQzSzBHWmdUNXRHYTMwTDVON2k5ZE1WQWJzVTRIZUxwR2lGMlNjQndjS3E1QXk0bXlteS03UjRtZXZUV0lNalpsLUg1Tnh3NWdfMzJCTWJFN2ptajVMaw?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlNMRlBvWDBSM2FzTlBjWG9wQWtOQ2pyanhMZmJNOFhXdzFwdnJBdXlROGQ2Sk9adFZUYnlPdl94bnFVUnlCaGJMNHNJa0Y1MWE4N0dfMjVsUTBZSWMxbjczTDJ2UHhpOGNudXhBRmUyV3FMRTN3TE16SXUybW43MUZlNUtfb1JoWk9vOHpyUW5qMmVTQ3k2a3RMX1NEcm9WOW9qWm41ZG85UkxUN0ZuTlRVdkhOWWYz0gG-AUFVX3lxTE9TQWZ6MTR2dFRWMlQ3Q04zNnlVZks2TDlzRVJMRTQ5SDJoc2ExX1piRFQ4aEtqSURRbmZ6OWlQM1RPMFptTmlRYWRiQVBlQWR2ZXpTLUp1bW1oYlpKeTJlTTVHZ0YtVklUSTI1Q3Bsdnh0RzU0MXk1WmNCWUlrQy1qN1dPVEZzU0Izam5nXzNFbjAyMU5pQ2xmR2xlSVhUWGYxR09HcFhSV0JPMlRONUY5OHZXVFlCQ2psekgwS3c?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "गांधी मैदान में 4 दिसंबर से सजेगा 42वां पटना पुस्तक मेला, 200 स्टॉल पर मिलेंगी देशभर के प्रकाशकों की किताबें। इसे Prabhat Khabar और News18 Hindi ने रिपोर्ट किया है।",
-      "image": "images/4-42-200-prabhat-khabar.jpg",
+      "brief": "Jan Suraaj petitions Bihar council chairman to disqualify Independent MLCs who ‘joined’ BJP. A politics-related story. Covered by The Times of India and ThePrint.",
+      "image": "images/jan-suraaj-petitions-bihar-council-chairman-to-disqualify-in.jpg",
       "image_kind": "photo"
     },
     {
@@ -661,60 +735,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bullet train to Northeast: PM Modi approves Delhi-Guwahati bullet train corridor expansion, extending prop. A civic-infrastructure story. Covered by Moneycontrol.com and The Economic Times.",
       "image": "images/bullet-train-to-northeast-pm-modi-approves-delhi-guwahati-bu.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-s-bihar-museum-beats-new-york-s-met-and-paris-louvre-s",
-      "headline": "Patna's Bihar Museum beats New York’s Met and Paris’ Louvre, secures 9th place on World’s 100 Best Museums 2026 list | Hindustan Times - Hindustan Times",
-      "summary": "",
-      "date": "2026-10-31",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVExsRTFjSjdocEt5TXBZdm5TY1BEWXBxd2Z5RF9tYTg2LU9MeXJRVmtXSnBNVkpHSUpqV2NEWE1xMDYxR1BDbkdsX19Ld3BIQWFROVNtS2tRX2tXbTUyN1hpMXZTd0p1V3dZSi11NXlwS0NUb0VPdUZma05yaVBBaWsyQlVzcU5QQjZpcGpkRHRCNDFwZFBGZFNvZUdoU3hHRFJhT1NIS0Q4NUpwa1FoR3Z3bzFXQzJ1dHBpZ291TWJpNHNHVHNLXzFSUnpMWjVpNEVZTktlX0d1emF1WWZ2ME9FTXVDbW9PVTg3Z01xY0xZTGtObV9hcWlFVS1nbGhKdW03RllyRC0tUTBMSnNwcUlZMGxxQdIBmwJBVV95cUxQMGtoUXVaLXVzY2xpOXo4QnBncG9iWWNOWGw0MXl3MHh6RDJSdGVHRVloc0JIMUtJR2l3TGV5TEpfenlpNDYzYzVteHJGNW5xeEJCMzB0OTdpUnM0bGZKbWFobVNab1ZHcVBTV05zZFlEUWlROTJUVEVqR0I2UjN1V2FnblJOYkd1RDVIUXZQMG1JdkFscmJJQkNfelZwd3pkTUZfNHdDOFA0cUZ6NWZRaDJtazBjUXdmbWFkS0toclZQcFh5TE94MkU5LWFRLWZ1RDNvLWlmdldoMWRHUjFRcTBlS1VtSC1ZbmdYRnpodTZxZDlVemdkV2Ytd2E5RmhyUWREUFlCOGxrVC1tZUMzZ3FHcXhQVkJvcTdB?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFl1WDVCczhyUXU4MVV4TWwxTW4xVU1hOWVhSkd3SGNKSjdEMWhHenVwT0xaalV2eXY5WjJ5bkZUUl9LajQtVE5fRm5IVDNHTVQyeXRXMXBaNk5ha1czSm1QazVidG9EX2hCdEdXdjlsQlY2R2poQTZ3VkIwY09lUjlzWE5rdHZJTUhhN2RlS1hNZ1N5WFhIaDBDTUMtWTYtQlRST21DZWh3T0p6OUdwc3pnLWNmSXfSAb8BQVVfeXFMT0RGODdWUGJ3ZlZjUjFpc0QwTF8tQ2RaTjZ2NUF5NXhOWld0LVZQUHhhbnB6c0JUWTlSbzVXbmtHSXpoU1BMREw5dG43QzdlaWdWN1Y5NVQ3dEkzMXlZVjg0MnlaT29iNzNVYl9pS1lRcEdjSW44QzRhSEhhSnpfS2hYZWRVbHdpMHdGNUxKZzNzZHE5SlNEUE5Zb2tKS0lQZkF5c19ZNC1zTzg3Q1VCbEpFUzJsb0JURjZ3UENVWDQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna's Bihar Museum beats New York’s Met and Paris’ Louvre, secures 9th place on World’s 100 Best Museums 2026 list. Covered by Hindustan Times and NDTV.",
-      "image": "images/patna-s-bihar-museum-beats-new-york-s-met-and-paris-louvre-s.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "from-patna-to-the-world-bihar-museum-ranks-9th-globally-outs",
-      "headline": "From Patna to the world: Bihar Museum ranks 9th globally, outshines the Louvre - Bureaucrats India",
-      "summary": "",
-      "date": "2026-10-29",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Bureaucrats India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2c3QXlkVmlrRmN5QlM3UlkyRGVGdmZJS3F3c0hoLXZacjVQaGlJQ0FEZC1PWklPZHN4b2lmbTl6UDJtVU9GN1dnZXBFNzdQdkZac3lZdXJlTGFHNC1OZVY3Z29hTER2UXBJUVlOYlp4X0VmQzBfdGozTzlBaEctNm4xaXp3c19LWGdxT2tmbkd3eXdCRUI4R3pHNE5SelRlc01zN2JBQmhtRFFpeFRfMElwUjhrSzBMdjIwVnlrZjdqdw?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVdacW1lY1BNS1JBSXNkUDhvaG9HTVVINWhYcUFYS21fTWFFdEtLSlBjQjFfUTM4RF96cDZRSXNiV2dNblI4TVZjWVY3djF5YnhidlJ3MHZ5ZXN3NVY0eDhPamdnZlBxNW01SmVVaUE2czM2dU9jLV9qNmtyR28xSFZpUmFMYlB1RjdXejBOem5VN3lZZDlmajV5d3YxbG55SVVRTWtCamdrM2JRRFBIaGdZVWVGLTjSAbwBQVVfeXFMTUY3U2ppMnJHZzJMcklmemZqRGZFUXB1NFBfbHhlQnN2Tm96WDBKZ0Zfalh6eHdXR0xweUFNVGhxUjFtQVRwNElseVJYS28tblJIaXhHMUxkbDhhcjQ2MFNCQU5JY2ZRNVpNSTZuWDAtQVI1amlFZGVzWWFEU0tobEZQRzRIandJa2h6V2MwSm5HNWZabnJkYjFtN21JZFFkZUlMcGN2YmpFVDlvSVJVWGV6VFhzVmxFT3FJNjU?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "From Patna to the world: Bihar Museum ranks 9th globally, outshines the Louvre. Covered by Bureaucrats India and The Times of India.",
-      "image": "images/from-patna-to-the-world-bihar-museum-ranks-9th-globally-outs.jpg",
       "image_kind": "photo"
     },
     {
