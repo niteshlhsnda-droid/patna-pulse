@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04 22:36 UTC",
-  "generated_at_ist": "05 Nov 2026, 04:06 AM IST",
-  "story_count": 48,
+  "generated_at": "2026-11-04 23:36 UTC",
+  "generated_at_ist": "05 Nov 2026, 05:06 AM IST",
+  "story_count": 49,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -230,16 +230,53 @@
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaDl4WTJSNlZVSFVFN1Ryb2xndDgwdThYZ2pVUWoxX3R4ZWZEaVNMZjM5aFpuTFZDOXBtZGtVbjc1V2NINU1ubDE5RWFvOWNwTGdzWmRTTHZOWnQ1eWdZbnFCX2dHQkdPSlQ4a3JhTG5XS0h5aGhLendlbTNLRFk4Z0hxNnlPMVJkaW03bkFKSG5lMzFCUVZpZGdzVXE1Vmxld3FucHhHMUMxcE02d3k0MmdvS3JMYXNydXdwYlI2V3I1d2FHQVFORWc2NjZoYlRGZG5HQUN2NGFtejlzd2fSAesBQVVfeXFMTkdVY1pGWjBEeUZWcDQxeHJUbzVFRkFwVW9qdm1EZ3htU2F5ajIwODV4OC1XQ2x4NHlEUlJNWmZDdUhhU3dnaWF2R1lXNzFSTDJmMmpfamRuemZvWDJvb25GTW15QjJveGI3aE5RTHVLbW5JU0FldkNBQ0ZFRWx6M1NiYkJsMThxYVFUd18wRFRKc1Z5SmhJYkh2UWJlemxPMndhSXlFNnBJcFktSTU1dV96T0RVYzFOVjUwdjZoNjFCa0pPd0VNM1E1MmdIOHdRWVN1NDU2YjJTX1JxdmxldDBSaDBUZTQ1ZTdudw?oc=5"
         },
         {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWVydk5RY2JJV3V1bkhvSmFJbDhzS2c5UGNyOEpVU3Jnd1BXMkhram5wVVNFQ0s0Y3RGWFdOQjcyQjJOUWlkOGtGY2pQQkFoWlJnMGJNVnUwSFMxcFVPRkV2blMyS0ptN05xa3o2cEhXV3RnY0s3Y0dVajZURmdQNFo0cGtRY2VCNnJPMnEzejB2UGRBU1pzdUVxN1MzdG5uZDRsZ2RjTlN6MG9XYWNMeTVGNVF4U0dFT3pWSmJXUFZqZGtuQVczVTgyOErSAdIBQVVfeXFMUGplMWtlRDQtRkZXNjVZbUFrdTRfS2w4ZnV2Z2FmdVhMbmlPOHZEZ0FRdURveXQ0cm1PblZpN2RRLUh0NXFkRWpoUHhVYXlIeXBHcHZwZkpQY0FxdVBnVTk0RF9CR3Z5S0h2X2ZNVVhyQ1MwZjVIZ1BrdmhqS1BNdXhhOHpmRjFTWnFHUkpJbERxNFEzOVdTTGMta2k2MWFmZzljSmxMX2h2TFpBVWFJVVB5NGtDZlRjWnhjOVVRaW93SmFZSWVWaVo2SktyaVRWS1lR?oc=5"
+        },
+        {
           "outlet": "The Quint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1VlQUkxRWFLTmYxRE1nZldFdGxBbl9hMjlYY3puTFJaX0RFUkxFMUpKbmRqSVZrRlR1a2UzaG5ETEVOdUd2V0xYZnFENWg1S2E4SWQySFFBb011dmtJTGVVLXVwNXNIVG5ZdGp5N2JmRmo5dGpBaG1rVzZOZUhwODQ5NXBHU3FNaVFmRG9DZFfSAZ4BQVVfeXFMUEhuYURPSTlPTE80d1NSM0RoQzM0ZUJMeUF4cDRxQnphSjBxX3FxNm1Mam1vUzVqUmdEdjlkakZhZ3ZuLWMtYzBlbG04ODU1dUwza3VuenpFdFJ6VlhGVXctZjRDaDJvSUFqSC04ekVlSlY1Qy1YVWZHc2FpclNJRnhlQXd6d1JVYUlmdXhSV3laRGQyT2loX1o5QVRtSGc?oc=5"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'Crime exists in Bihar, but No 'Aparadh': CM Samrat Choudhary's remark triggers political row. A politics-related story. Covered by 6 outlets, including NDTV and The Indian Express.",
+      "brief": "'Crime exists in Bihar, but No 'Aparadh': CM Samrat Choudhary's remark triggers political row. A politics-related story. Covered by 7 outlets, including NDTV and The Indian Express.",
       "image": "images/crime-exists-in-bihar-but-no-aparadh-cm-samrat-choudhary-s-r.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-cm-samrat-choudhary-s-appeal-to-give-up-free-electrici",
+      "headline": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row - The Hindu",
+      "summary": "",
+      "date": "2026-11-04",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWZyUVY2aGQzbUM0UjBzakdGbHNoMFAyMmVJcnZEeXF4eGcwcnZxbWE0QzV5X3ZmUnNXQngxN0VERkVYblBLLVZuRXI0TDFTRElrU3NBZUI0UkxxSnFEVDMxR2taYWtJOVBOejRMOEUxUDVGdWtBeklOdkhXWFhkQTluUXJzTnZPaWU3dUdqYmFkRVlIWmhveE4tN3lubmQtQlBMVWRPdXF1MF96UkVPaHl4VmR5c0FURFcwUkdHOENaYTNJRW1uM0N5SUF4c20yaURDdEZR0gHcAUFVX3lxTE93ZFZSeWZESzlzZUdEQkxuMlYwcXBHbHM2enFSYV9CaVdYRTI0TS1mdFd1dWp2UlREamdBbEFxOWJoVmo4bWxEeWFTdmpoc085dDgwWmE1cUZXbmwtODdBci1EaS1RZTI0UWJqUVBDMDZlUEI0SWIyTFAxUk96a1hNaE1MM2ZoSS1vZEFtTnRNU216dU1OSEk2MnVZUFB2U3VsYXNISzVOcWk1a0pla3lxYnFuRDJvVkxBOFdfTjQ4UWxsWFBNTnNRamQxb3ZqeTFRcEZ4a0djTzI2MDg?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSm5tV1lJVTNuWW00alUwQVBRWVY1Z0t1SkJPX2RWa1UwTHM3T3haMFNYaXl1cDMxUlJRbDNzUTlXbWJLYTZhLVJxN2Z6dUNCSVhmUlhoeWZad3QyZkZSYXBXc3liSzF5TEhBNF9MZ1ZvUnZtcm9hVF9kc3V0c3JVYVJ1Tms2T1JaMmpRUmFEb2tqWXo0MHZ2LTJFRnk0bjFMQVdvbE9JRExTZnFVV2RzdWpxTTdtT3hFNHFybTN4b1RicEVUZUx3WE1zRlllMTkwLWJwWmVOWWhNTGPSAeABQVVfeXFMT3BHYXRCajYzUmdaRWxtbHM4bjc4c1FRdldvc2xjTUg0UFQwNTk3Mkh5amJOaDVNVkowOWdTLUZwZjc5eDJoMU0wWjEtaXlMRGlWYWtwa2FwV3JwMWJHWEV4TWk2a1BWSEpHSF9rT05vcUt2d3VTWWNqeEh6U1JXQm4tTmhRY3A2dnYtZ2s1XzhZVElCUzVpVlYtbE9SdmRPcFNfQXQ0LVN4Z291ZE92VHZwaVlDckkzTUtoUjBiZWdsMVFmdk81ZWFUZzluRi16V2pnTnYtVFVkYVJIbzdScGM?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHQycjA4VkxJYmlMZjFjT2J5Z25BZnJDRmRGaEFUY2NreF9Xc1ZoeTM2NkF6S0plMS1XQ000YTNyR3NlTHlkdlV5SHRjMDZmMEFiLW0xSHdqdWctVTFYQXptdTdPaDlfeTlKQkdrQkVYd29ZSzBmVEhxX2Vvc0JTRWxCUjJ6NkpIdUFkUFljVDdkbDZfTjdibVZTY1pwOUtSbTFuTkQ4dnNrSUV2WEFybkVralI2NmRsTUttcWhvMlV5WURNMzJv0gHPAUFVX3lxTE00dk5CYk1YWWx1dnFRb2luTlJPc3ZEY3B5MFlnQVppcjM1aGRKWmFQOG50c1l5WjNZY0VpeTZIMVVyWnVzZDQyMm05ZXFJYWdpT0F6ZWtPTVhhdVF3Y1lhQW9idDUzOUdXN2hqVlJobGV4d0F6TzAzYV9qaVFCUDNoZUhfeWpqOGs5NDFMbnBGQnJFc0JoTWthOFRUdXBIM2p5VEh0ODNkaUxFYzdRTEJHWUZIY0NBZXRyNExMZkFkSGxHcDcxVVdLekNPWnJTRQ?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row. A politics-related story. Covered by 3 outlets, including The Hindu and India Today.",
+      "image": "images/bihar-cm-samrat-choudhary-s-appeal-to-give-up-free-electrici.jpg",
       "image_kind": "photo"
     },
     {
@@ -282,38 +319,6 @@
       "genuineness_label": "Verified",
       "brief": "Revolt Motors gets order for 1,100 units of electric bike BlazeX from Bihar Police. A crime-related story. Covered by 5 outlets, including Autocar Professional and Daily Excelsior.",
       "image": "images/revolt-motors-gets-order-for-1-100-units-of-electric-bike-bl.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-cm-samrat-choudhary-s-appeal-to-give-up-free-electrici",
-      "headline": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row - The Hindu",
-      "summary": "",
-      "date": "2026-11-04",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWZyUVY2aGQzbUM0UjBzakdGbHNoMFAyMmVJcnZEeXF4eGcwcnZxbWE0QzV5X3ZmUnNXQngxN0VERkVYblBLLVZuRXI0TDFTRElrU3NBZUI0UkxxSnFEVDMxR2taYWtJOVBOejRMOEUxUDVGdWtBeklOdkhXWFhkQTluUXJzTnZPaWU3dUdqYmFkRVlIWmhveE4tN3lubmQtQlBMVWRPdXF1MF96UkVPaHl4VmR5c0FURFcwUkdHOENaYTNJRW1uM0N5SUF4c20yaURDdEZR0gHcAUFVX3lxTE93ZFZSeWZESzlzZUdEQkxuMlYwcXBHbHM2enFSYV9CaVdYRTI0TS1mdFd1dWp2UlREamdBbEFxOWJoVmo4bWxEeWFTdmpoc085dDgwWmE1cUZXbmwtODdBci1EaS1RZTI0UWJqUVBDMDZlUEI0SWIyTFAxUk96a1hNaE1MM2ZoSS1vZEFtTnRNU216dU1OSEk2MnVZUFB2U3VsYXNISzVOcWk1a0pla3lxYnFuRDJvVkxBOFdfTjQ4UWxsWFBNTnNRamQxb3ZqeTFRcEZ4a0djTzI2MDg?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSm5tV1lJVTNuWW00alUwQVBRWVY1Z0t1SkJPX2RWa1UwTHM3T3haMFNYaXl1cDMxUlJRbDNzUTlXbWJLYTZhLVJxN2Z6dUNCSVhmUlhoeWZad3QyZkZSYXBXc3liSzF5TEhBNF9MZ1ZvUnZtcm9hVF9kc3V0c3JVYVJ1Tms2T1JaMmpRUmFEb2tqWXo0MHZ2LTJFRnk0bjFMQVdvbE9JRExTZnFVV2RzdWpxTTdtT3hFNHFybTN4b1RicEVUZUx3WE1zRlllMTkwLWJwWmVOWWhNTGPSAeABQVVfeXFMT3BHYXRCajYzUmdaRWxtbHM4bjc4c1FRdldvc2xjTUg0UFQwNTk3Mkh5amJOaDVNVkowOWdTLUZwZjc5eDJoMU0wWjEtaXlMRGlWYWtwa2FwV3JwMWJHWEV4TWk2a1BWSEpHSF9rT05vcUt2d3VTWWNqeEh6U1JXQm4tTmhRY3A2dnYtZ2s1XzhZVElCUzVpVlYtbE9SdmRPcFNfQXQ0LVN4Z291ZE92VHZwaVlDckkzTUtoUjBiZWdsMVFmdk81ZWFUZzluRi16V2pnTnYtVFVkYVJIbzdScGM?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHQycjA4VkxJYmlMZjFjT2J5Z25BZnJDRmRGaEFUY2NreF9Xc1ZoeTM2NkF6S0plMS1XQ000YTNyR3NlTHlkdlV5SHRjMDZmMEFiLW0xSHdqdWctVTFYQXptdTdPaDlfeTlKQkdrQkVYd29ZSzBmVEhxX2Vvc0JTRWxCUjJ6NkpIdUFkUFljVDdkbDZfTjdibVZTY1pwOUtSbTFuTkQ4dnNrSUV2WEFybkVralI2NmRsTUttcWhvMlV5WURNMzJv0gHPAUFVX3lxTE00dk5CYk1YWWx1dnFRb2luTlJPc3ZEY3B5MFlnQVppcjM1aGRKWmFQOG50c1l5WjNZY0VpeTZIMVVyWnVzZDQyMm05ZXFJYWdpT0F6ZWtPTVhhdVF3Y1lhQW9idDUzOUdXN2hqVlJobGV4d0F6TzAzYV9qaVFCUDNoZUhfeWpqOGs5NDFMbnBGQnJFc0JoTWthOFRUdXBIM2p5VEh0ODNkaUxFYzdRTEJHWUZIY0NBZXRyNExMZkFkSGxHcDcxVVdLekNPWnJTRQ?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row. A politics-related story. Covered by 3 outlets, including The Hindu and India Today.",
-      "image": "images/bihar-cm-samrat-choudhary-s-appeal-to-give-up-free-electrici.jpg",
       "image_kind": "photo"
     },
     {
@@ -437,11 +442,6 @@
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN3lWWEU2cW1aSFZCWENRLTlKaERpdlFDYlE1eFQ4YWJ6d0ZXcFJGMlVRQnZVUGQ5OXg1OHhJel9JOW9vZFVzTU9rZ2dKUHpBOFBWTXNPZVUyQlA5anhQdkhzQ3FPNU4yYzdpQktZcDJ5cmEwUkllMXNTalVyV2lJT09PaWNmTGVSNTFXV195YmFaTlVHY1hPeG5fN3pleTYxOVZ0dHBlWGVlRTV4Wmt0WTd5aE9jaFExZU90ZWo3bGlaRnhOX0g0bE1uTXlwcm9HZkFaR0pqNXV2bnRBbTVseEdYcw?oc=5"
         },
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnhFQjI4WFpiM1d5Zzl4RDg1VjNBUVJhZWpFYjJxU19fM1VzaFRwN0JIQTIxai1RblFObURubFYzZVE0cG5iYXlRTDdCTGNSYUxSOFN1YW1MMkxmT1RIUlNIWlMtay1KUWNucEdYdXBha3RJN1BTV0FLQk1EbFdoYU4xT3hDU0Q0Q2pxOFlyYVptLVRJd2RIZGdHUVZVQmVkbGV4bk1FY3RXTVdBRUVDUWFXeDA5Sms?oc=5"
-        },
-        {
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZUNreWJEOFlZX1hDQ28wMkRuUnRMd1I0RGhHVTZtWC1HVTVXTDZkUmpJek9QNnJWT2lJMDkwTW4tTVdObEFaWFdncTc2UXd5ZjRUcDJzWWlfWFN6Q2kxZHh3RWt4X1I5ZzlFZ0xOa2E5X2d3V2RlVGIxa2lkZHp1Y05IeThKanFNNHpsSUhHTzNTaTZhSm5fNg?oc=5"
@@ -521,6 +521,33 @@
       "genuineness_label": "Corroborated",
       "brief": "गोविंद शर्मा हत्याकांड में कथित प्रेमिका को अग्रिम जमानत: पटना हाईकोर्ट से मिली राहत, केस में पहली बार किसी... इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "better-than-the-louvre-why-this-indian-museum-should-be-on-y",
+      "headline": "Better Than The Louvre: Why This Indian Museum Should Be On Your Bihar Itinerary - Travel and Leisure Asia",
+      "summary": "",
+      "date": "2026-11-03",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Travel and Leisure Asia",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1d3Y2wxbVVsUVFzQkc0ZlREclotaElmTmdnVWphd244Q1BEeHlic1RHaXFFZzg5TVU1NHBiZllVQ2Z2MnFZSVJBWGs0dTRLWjlNM2UteFJLLTd4VlNMYTRTQUppVjUydzFzcWxzelJQb1Rua0JzN2U3TlA5dFhVU1dmMkJ2MGZGSDg0UG1ERkhsOTdBSk1LY2d2SEctSjJBNlZVdlNWZFI4NXVZLXZUbmRQTU5zZ2NzTlBBSF8xLW1OQdIBxwFBVV95cUxPT0Q0WDVhQWJxQjZQczRMa0NnNm9sX3ZZTFl6M0xwZ1dSY3pLQUQ3cFdRMktLbFpPWHFGWnhEX01VVUI3a2FGYmRlbHQwekNZckZMMjVaUEVuZEFfT0NYTk1KZW54dkZQQ3p3RUhnQ2dBNGdXZllWd0F5ZmgxRThDZm9XWE1iNHRuRWc2aGRDX2NPeERhQ3MzRDNSd1A4czNUSWtUQTllREMzX3NOUVZBZmdKVGh3WF9UT2REUGp1ZlV3ZFVpUnJZ?oc=5"
+        },
+        {
+          "outlet": "Lifestyle Asia Hong Kong",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkdNMThlWk9heU9JczIyMFczbm01OGtMWmttWDFnUnhVVGJDVFB2TWoxQnhWZS1oMFc2eHJkT1BkZU5DNkY3Y1QzMmhTSURxRk9VOHlJYkl6cjlzOVFvQzlibWxyZVN4ZjNSYzgtMHRJamNIc01IbEZzZXl6NXVWbERwRnc4MGl3NmNkVm5mR21iTEYxTDFOWE9MVGFzMzdXWDRFSQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Better Than The Louvre: Why This Indian Museum Should Be On Your Bihar Itinerary. Covered by Travel and Leisure Asia and Lifestyle Asia Hong Kong.",
+      "image": "images/better-than-the-louvre-why-this-indian-museum-should-be-on-y.jpg",
       "image_kind": "photo"
     },
     {
