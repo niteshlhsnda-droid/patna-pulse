@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05 21:54 UTC",
-  "generated_at_ist": "06 Nov 2026, 03:24 AM IST",
-  "story_count": 49,
+  "generated_at": "2026-11-05 22:54 UTC",
+  "generated_at_ist": "06 Nov 2026, 04:24 AM IST",
+  "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -404,6 +404,33 @@
       "genuineness_label": "Verified",
       "brief": "‘No apraadh, only crimes’: Bihar CM Samrat Choudhary’s remark draws ridicule. A politics-related story. Covered by 6 outlets, including The Indian Express and NDTV.",
       "image": "images/no-apraadh-only-crimes-bihar-cm-samrat-choudhary-s-remark-dr.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-cm-chairs-meeting-on-implementation-of-paperless-e-cab",
+      "headline": "Bihar CM chairs meeting on implementation of paperless e-Cabinet system; emphasises use of AI - ANI News",
+      "summary": "",
+      "date": "2026-11-05",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Elets eGov",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oQVA3bUlDYXhIeEp2NU1femRQRjlEMzA2bWxySFJlNWpGQ3ZEUTAxMWNDNEphelotQWJmR25HX2dCRFNBakRhM1NnZGM5ckhOMWVTU2JxQWI0a0FTb2pvZi1vMlo3M3Y0Vko3WHJUNU0?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdG9aWVJpRGpTRkxPUGxTYW50TUxlbjltT1dwY040ZGZHSk53MjBvcm5GWi1WT3JLRHp2cFFqZ3hHaEl1ZlUxUl95bWdKYlNPS1MxQlRoTmFjTWNTT2owMjJEOXctcW1VZEpXYXQtWUJURzVsdWJaeTYwRUJ1cW1wSnQ0QkRPWkQzcTFxMUIyTExCSHVFVlR1ckZ6aGhIbEVVOTFmaFhIMG1GcGpUMkZzc0FFSEJlN2s0d2hFNlFQc0ZpTG9BaU9FQUdLNUZ4SldzMXhKWXZoVHF5Mjh6MVo0ZWFFUGk5NHk5elNtSFBVSVY?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar CM chairs meeting on implementation of paperless e-Cabinet system; emphasises use of AI. Covered by Elets eGov and ANI News.",
+      "image": "images/bihar-cm-chairs-meeting-on-implementation-of-paperless-e-cab.jpg",
       "image_kind": "photo"
     },
     {
