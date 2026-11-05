@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04 23:36 UTC",
-  "generated_at_ist": "05 Nov 2026, 05:06 AM IST",
+  "generated_at": "2026-11-05 00:36 UTC",
+  "generated_at_ist": "05 Nov 2026, 06:06 AM IST",
   "story_count": 49,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -161,6 +161,34 @@
       "genuineness_label": "Corroborated",
       "brief": "Shree Cement inaugurates new Ready-Mix Concrete plant in Patna. Covered by BigInfo.in and Passionate In Marketing.",
       "image": "images/shree-cement-inaugurates-new-ready-mix-concrete-plant-in-pat.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "nbcc-and-government-of-bihar-sign-mous-for-bihar-s-first-tec",
+      "headline": "NBCC and Government of Bihar Sign MoUs for Bihar’s First Tech Park and over 3,000 Flats in Patna - The Newsman of India",
+      "summary": "",
+      "date": "2026-11-04",
+      "topics": [
+        "crime",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "https://whispersinthecorridors.net/",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYko3RXUwQl9HM0dhTWs1R1E1eDFJWk9zaDBuVWtmUEFnVjZGRVZELWp4VmhYby1ySDV2SERvUlJjMzJNYTFXbE1sT3FOa2g3Q2p4VEpKOVJOcmZuc09SdXJPOGhXcGdVSGJGcmdaM0lNb1FrTVQtNm1tZnUxRjYwOEFJN2tVcFJ2U3A1QVpfUjVPNzVNMFdBZGJ5Ynd3aFNYeHhfNHFIbHZoUWNUXzRsNXdn?oc=5"
+        },
+        {
+          "outlet": "The Newsman of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3hXcE9aWDE5T011SFpkUEYyOGRIV3Zrcjh5OFpGVjM3TE12Rk9zdEU4WFloQ19oQmhoTzE4UDUtdXk2QkRDYWRSQnV0czN2WTgxamVTSlFCSUZZT3drYXJkU1k0NnZpSmtHdkJDNWdQNDhCai1TQmlTSkZKcmtxaENCd1gyUFo3WktXWWNsYzUxNFJkWmFvTmVGY0pHN1ZfX1VNWktFSG9TSXFsSU02MjU4dDUxTWZOOUtycGlVeHNPRjA?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "NBCC and Government of Bihar Sign MoUs for Bihar’s First Tech Park and over 3,000 Flats in Patna. A crime-related story. Covered by https://whispersinthecorridors.net/ and The Newsman of India.",
+      "image": "images/nbcc-and-government-of-bihar-sign-mous-for-bihar-s-first-tec.jpg",
       "image_kind": "photo"
     },
     {
@@ -376,58 +404,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bhaskarhindi-com",
-      "headline": "पटना मादक पदार्थ मामले में पकड़े गए दो लोगों को रकम लेकर छोड़ने के आरोप में आठ पुलिसकर्मी निलंबित | ????: ???? ?????? ????? ??? ????? ?? ?? ????? ?? ??? ???? ?????? ?? ???? ??? ?? ?????????? ??????? - bhaskarhindi.com",
-      "summary": "",
-      "date": "2026-11-04",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVW9TMlRNZG41ZGhwOXF2N3BBUG5YZFI1RHdpTGhZSkt4ZjBZY0drSjZVUC05Y3V3LXJTVzRwLUExX01la0JBNjV1dmVtYWFVdnpfNzRXbEN6UnVFS081VTdWbXpwa3pLNTRFclZzQWR6UDdDbzhmbENYaGlSNFZQdmlzM09MUFk0b3dscF9kMVhXU1d0ZkZwdENBRllPQkRCR2pPU291dlE3c1NFQThSdE1ZOVZYLUFlQk5jVFFsV2lUWDhhVUtadzlsTlpoWk840gHWAUFVX3lxTE9yTVZuU0tVMDdROUNCYzVMM3VPMmgwRmVMT3RhSV9naEt5VUxlZVJpTFpfYmhWbXBlS21Yc19hdjJzMTJpWDF3WGEtamR1TEFIS2ZpQ2ZacS01MTZJci1kWXFpVHJxcjZmUXlxRUNTdnJVNXZRb2hYeV93TFlxUzFDbTl4ZW1SX055NmhILV91aFQ0RVkzYnI1MTBQc0RqaHM1N0Fjb3VyTG5pWXM1VU1PUkpNYVYxYUtWbzVVeERGb255djl5amdiZTI5VEcyM0xhVU1iNXc?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2NrNF9Bb29rdnpEVk5oUG9FZWhkY3lyM3JpdDV6OTRaYi1qM0FaMGFjLVh4X19ZMHFkMmNOaG1JSnBMc1NYZmhmaUdMQVRzN21WcDlKM1FsX3V5QllrTl9WX05XQ0NJVlYwdUJHM1ZWT3daaTVLZjFlQk03RmZZTWRMRUN1d2lCbGhqNjhfZEFSREhhd1lnaVlYbFgta3hDTENGbUdlQUpieFFMWm9n0gG0AUFVX3lxTE5xRjllekFuSkRiaVhVdERZcTFXTUs1OHhkRjVyNm5RVFo1QUwzV3pCblBuTnZPNVBCcEc4dzRQb1BIQ3cyMTQ0Q19DR20xeGZiVmJ0LXlLOUJiS2R4aUFzcUhZa3ZQUWU1cXppN2pSTzN6LTExMTRDMzgzM3ZZWTJGNnpTTy1QbTBwQmZESHV0cGU5WllVb2d6RkNSVmRZYW9lTVl0WS0ta0ZUdWJBZHNtQWZybQ?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTy12OWphajJITGdad2lubnJvR18zTVdJMzRWb3M3akhvS3F5UFBlOXphZ3doWEdCWFpuMGpkYnVvaXFsY0pvdnduc21EbHZNZjVBdDJYdEo3WU1USXRtM1JuSHlibFBBanpjS1A4QTVmRjZ4MDc4SGNmeFhFOGdqOWgyWWdaZlo2Wmk3QTBKSUNnZ3JUSEV0d0o4dWt6dHdoWllVVTBsWVZ5ZW5MT0MzNndTeUZZYTRKeDZFdzRaQ3lLWlBRODRUX2lMZjNIczFhZm90SjhyZ09LQWfSAeABQVVfeXFMTVFRWjNpV0ZJamEtOFItbUQ4dzVoaWhTNFU2Q0VlMFhtRE1PQnh1Wk9DUXRIMW4wRk5HZDZSZXpXLUltWEdZdnVwUmFNcFJFb2lYT3JZVkp6M2Zac0lWMWJuSC0tbWthamFJSTZGbEN3R0tiVFprVUhpYjF6QzVPQ3dLUzJBUFNlbHFyZkF5XzR2empvU0hLZW5QNUN6ejdHMWtMS3hFYWJ1bF82QXlXX0Q4ZlJYeENuZGw0NDFvR2ZzSkRUMENwSloxNXR1dEF3dURtc0poVnhiNEhoZ0tock8?oc=5"
-        },
-        {
-          "outlet": "bhaskarhindi.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT19kSGNaYkxtUGFrZEVoMlUtYkVVU3lTWC1ReEd1SDJub0tLczhPNkVoN2xtdnlaTElQRy1MazRESy1DT3R2OFh0SFVLdjNGMmpWVUtBcUtYT1Y3ekM3Q0VJUHl4WnJpYXZSS24yNU4zQlozNnJPMlFOWkprVXBxcEg2N1lidlZSRlUwZF91NEtwekF2Z3RWUi1pVFlSa3lGalYyU3R5QjRieHZxNzRWVWNFSzN0dHVfMTZ0bW8xNTVaMDRvSzFqNjdzY2xkVUpldWYxWkM0anlVQzYwMHllWVpyWjRGZ25uTmNV?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0JpMHJXYWE4TGc0cmxyQnROM21kcHFSY3RscmFPZE1pdGlha0cwbFhlVkZrbS1pLU9PQXRud1ZXRXZRX2RPYjl4eUYzU1JJQWhpRVhCNG5jVEpSZ2YtN3dkbGJ1Z1U2NjR3QlZ0eE5LbWsyMmlOVGRYOTNacFdRbFk2a0pLWEwtYTlsQzQ1STNYUTZkM0E5bk1Ec1VsVnFqUlNUSkh3ZGJ0eWpINWJXVEpVa2pyR2l4dlRQVURVcnpYQdIBxwFBVV95cUxOa3puWnJIemlUeGlPZnBCSTB6NnMyZ1lCd0o0T3pBWEN6YkNCaTl2dU43RUh2elo2ajRtTU92NGlOREVEZEpQRGtwMFhGTDdRamc4MWZXNVN5cDNBNjJuQnNpZzFQb0VBcXZRdm9hX3VoRkZVNDJHUnNSakI4aERXUVpMSUhfQkwtZ0lWZDVIZXJ4M2NsUEdYWWxKN1EtdU10RHVfUkd2a3FaWHNZWHJTR3U1SXM1QU1XY21KVHNhN1plSXRfbllR?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazBwRFJkcnZidTcxLXFqcGVQcmQ1bDY0UDFUVXZUNkFKdU0xREgxYmtLRm5HX0JiV3dHdmVPZ0t0bXR4V0tCcFRwQ1VmV3FXeVhkdlBiMk1MSVd4dXB1SGkzZDRXYlViRlZkR1J3VnVWS0ZnYlVGWnFIMVE3VDF2TlNOMVlpUVdKLUlNZ0VxLU8zM045eXB2SHd2SlUwRVhxQ1BTQnF2YlVZcFlsbC12OGpCWG9zdHRtVkQ0?oc=5"
-        },
-        {
-          "outlet": "ThePrint Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmJaZG52blRDX1gyWk1MUVVJd0xBT2hVZTYxNHNiUHB3YTZPbHJob0I3MzlVV0YxREpseFlvVWYyVE5EU0xqdnlMTTJJV3ZxSXVMcUIzRzZiQXN3a1RzbTh3bS1OTWhnSjNMQUdYdkd6Yk5ZcDM1YmxwMWJxWHB6X1lmbTFMNVQxOTZhTUViZmx1dF9lWWhmOXRvVGVnTmNNSlFzT9IBqgFBVV95cUxPbnhCOFZKZHJuYlQtaE1ydWJSREZXbTFxeHRqVjU2bWxteWdGTE5OVHZOdlRtOTZJbnIzekhUWmdzbmowWWNvRFVBQmpfVDhZUm41N2NGTFZLajNFTExzZG9Rcmh1OE9qZlRTQTJoZzJZMlA1em4zWHk0NFFfclZ2VExSVW9YWWh1Y1dEaHVKNVJSTWZQcm90WDRRSEcxc2RTRFdrblUxdF8xdw?oc=5"
-        }
-      ],
-      "source_count": 7,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना मादक पदार्थ मामले में पकड़े गए दो लोगों को रकम लेकर छोड़ने के आरोप में आठ पुलिसकर्मी निलंबित। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और ETV Bharat शामिल हैं।",
-      "image": "images/bhaskarhindi-com.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "2-dainik-bhaskar",
       "headline": "दीपावली-छठ पर हावड़ा-पटना के बीच चलेंगी 2 जोड़ी ट्रेनें: अनारक्षित स्पेशल ट्रेनों का दुर्गापुर, आसनसोल, चित... - Dainik Bhaskar",
       "summary": "",
@@ -470,8 +446,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "4-10-prabhat-khabar",
-      "headline": "पथ निर्माण विभाग के सुपरिटेंडिंग इंजीनियर के आवास पर रेड, पटना सहित 4 ठिकानों पर छापेमारी,10 लाख कैश बरामद - Prabhat Khabar",
+      "id": "bhaskarhindi-com",
+      "headline": "पटना मादक पदार्थ मामले में पकड़े गए दो लोगों को रकम लेकर छोड़ने के आरोप में आठ पुलिसकर्मी निलंबित | ????: ???? ?????? ????? ??? ????? ?? ?? ????? ?? ??? ???? ?????? ?? ???? ??? ?? ?????????? ??????? - bhaskarhindi.com",
       "summary": "",
       "date": "2026-11-04",
       "topics": [
@@ -479,21 +455,46 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
+          "outlet": "Hindustan",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQW1VeVlpSmY4bGlSWGFNenVEcVZ4eDZkdGhyYmJtbUxsQkE1R1d6cU1qN3FIUEtvb2RNa2htWkRMa0h5N0tlRElsNmU1QjRCRmRtOEktTWI2bnFEUFhDMkFINFBmck1TY0RZZTJTeVc4M1ZKNzBXMFJIQWpLVGdiWXV0M3d4R1NiRlFCMGFBeDFCNlNpRHhIVTJNUjdtNG4tRFc5dHlBdTdKMUh5ZDBBdUVBaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTy12OWphajJITGdad2lubnJvR18zTVdJMzRWb3M3akhvS3F5UFBlOXphZ3doWEdCWFpuMGpkYnVvaXFsY0pvdnduc21EbHZNZjVBdDJYdEo3WU1USXRtM1JuSHlibFBBanpjS1A4QTVmRjZ4MDc4SGNmeFhFOGdqOWgyWWdaZlo2Wmk3QTBKSUNnZ3JUSEV0d0o4dWt6dHdoWllVVTBsWVZ5ZW5MT0MzNndTeUZZYTRKeDZFdzRaQ3lLWlBRODRUX2lMZjNIczFhZm90SjhyZ09LQWfSAeABQVVfeXFMTVFRWjNpV0ZJamEtOFItbUQ4dzVoaWhTNFU2Q0VlMFhtRE1PQnh1Wk9DUXRIMW4wRk5HZDZSZXpXLUltWEdZdnVwUmFNcFJFb2lYT3JZVkp6M2Zac0lWMWJuSC0tbWthamFJSTZGbEN3R0tiVFprVUhpYjF6QzVPQ3dLUzJBUFNlbHFyZkF5XzR2empvU0hLZW5QNUN6ejdHMWtMS3hFYWJ1bF82QXlXX0Q4ZlJYeENuZGw0NDFvR2ZzSkRUMENwSloxNXR1dEF3dURtc0poVnhiNEhoZ0tock8?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXRpRkUxZWVQalRGM0F3S0Jtb1BBNkxXUDlaZGNQbW95b3RTVndUVXF5dnZMV3VRX1RvbjlOS0J2UFBFOEdfTXNyaVpNcTNVRC1vOXJPYmtqSnNWRUFRa1RPbkxCeEdyQXpETUJrNXpZeU13NlRMS2xkVkJDMF8zanBHZUpKZkNWOEV2NG1GQkNOTkJKRWZ3UVpGOGNLU2xYYk9VX1dEZDlCT0h5NEEyeVhWMzRqR2JIaFhrQkNwR1R6a1Y1?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazBwRFJkcnZidTcxLXFqcGVQcmQ1bDY0UDFUVXZUNkFKdU0xREgxYmtLRm5HX0JiV3dHdmVPZ0t0bXR4V0tCcFRwQ1VmV3FXeVhkdlBiMk1MSVd4dXB1SGkzZDRXYlViRlZkR1J3VnVWS0ZnYlVGWnFIMVE3VDF2TlNOMVlpUVdKLUlNZ0VxLU8zM045eXB2SHd2SlUwRVhxQ1BTQnF2YlVZcFlsbC12OGpCWG9zdHRtVkQ0?oc=5"
+        },
+        {
+          "outlet": "bhaskarhindi.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT19kSGNaYkxtUGFrZEVoMlUtYkVVU3lTWC1ReEd1SDJub0tLczhPNkVoN2xtdnlaTElQRy1MazRESy1DT3R2OFh0SFVLdjNGMmpWVUtBcUtYT1Y3ekM3Q0VJUHl4WnJpYXZSS24yNU4zQlozNnJPMlFOWkprVXBxcEg2N1lidlZSRlUwZF91NEtwekF2Z3RWUi1pVFlSa3lGalYyU3R5QjRieHZxNzRWVWNFSzN0dHVfMTZ0bW8xNTVaMDRvSzFqNjdzY2xkVUpldWYxWkM0anlVQzYwMHllWVpyWjRGZ25uTmNV?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0JpMHJXYWE4TGc0cmxyQnROM21kcHFSY3RscmFPZE1pdGlha0cwbFhlVkZrbS1pLU9PQXRud1ZXRXZRX2RPYjl4eUYzU1JJQWhpRVhCNG5jVEpSZ2YtN3dkbGJ1Z1U2NjR3QlZ0eE5LbWsyMmlOVGRYOTNacFdRbFk2a0pLWEwtYTlsQzQ1STNYUTZkM0E5bk1Ec1VsVnFqUlNUSkh3ZGJ0eWpINWJXVEpVa2pyR2l4dlRQVURVcnpYQdIBxwFBVV95cUxOa3puWnJIemlUeGlPZnBCSTB6NnMyZ1lCd0o0T3pBWEN6YkNCaTl2dU43RUh2elo2ajRtTU92NGlOREVEZEpQRGtwMFhGTDdRamc4MWZXNVN5cDNBNjJuQnNpZzFQb0VBcXZRdm9hX3VoRkZVNDJHUnNSakI4aERXUVpMSUhfQkwtZ0lWZDVIZXJ4M2NsUEdYWWxKN1EtdU10RHVfUkd2a3FaWHNZWHJTR3U1SXM1QU1XY21KVHNhN1plSXRfbllR?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2NrNF9Bb29rdnpEVk5oUG9FZWhkY3lyM3JpdDV6OTRaYi1qM0FaMGFjLVh4X19ZMHFkMmNOaG1JSnBMc1NYZmhmaUdMQVRzN21WcDlKM1FsX3V5QllrTl9WX05XQ0NJVlYwdUJHM1ZWT3daaTVLZjFlQk03RmZZTWRMRUN1d2lCbGhqNjhfZEFSREhhd1lnaVlYbFgta3hDTENGbUdlQUpieFFMWm9n0gG0AUFVX3lxTE5xRjllekFuSkRiaVhVdERZcTFXTUs1OHhkRjVyNm5RVFo1QUwzV3pCblBuTnZPNVBCcEc4dzRQb1BIQ3cyMTQ0Q19DR20xeGZiVmJ0LXlLOUJiS2R4aUFzcUhZa3ZQUWU1cXppN2pSTzN6LTExMTRDMzgzM3ZZWTJGNnpTTy1QbTBwQmZESHV0cGU5WllVb2d6RkNSVmRZYW9lTVl0WS0ta0ZUdWJBZHNtQWZybQ?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVW9TMlRNZG41ZGhwOXF2N3BBUG5YZFI1RHdpTGhZSkt4ZjBZY0drSjZVUC05Y3V3LXJTVzRwLUExX01la0JBNjV1dmVtYWFVdnpfNzRXbEN6UnVFS081VTdWbXpwa3pLNTRFclZzQWR6UDdDbzhmbENYaGlSNFZQdmlzM09MUFk0b3dscF9kMVhXU1d0ZkZwdENBRllPQkRCR2pPU291dlE3c1NFQThSdE1ZOVZYLUFlQk5jVFFsV2lUWDhhVUtadzlsTlpoWk840gHWAUFVX3lxTE9yTVZuU0tVMDdROUNCYzVMM3VPMmgwRmVMT3RhSV9naEt5VUxlZVJpTFpfYmhWbXBlS21Yc19hdjJzMTJpWDF3WGEtamR1TEFIS2ZpQ2ZacS01MTZJci1kWXFpVHJxcjZmUXlxRUNTdnJVNXZRb2hYeV93TFlxUzFDbTl4ZW1SX055NmhILV91aFQ0RVkzYnI1MTBQc0RqaHM1N0Fjb3VyTG5pWXM1VU1PUkpNYVYxYUtWbzVVeERGb255djl5amdiZTI5VEcyM0xhVU1iNXc?oc=5"
+        },
+        {
+          "outlet": "ThePrint Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmJaZG52blRDX1gyWk1MUVVJd0xBT2hVZTYxNHNiUHB3YTZPbHJob0I3MzlVV0YxREpseFlvVWYyVE5EU0xqdnlMTTJJV3ZxSXVMcUIzRzZiQXN3a1RzbTh3bS1OTWhnSjNMQUdYdkd6Yk5ZcDM1YmxwMWJxWHB6X1lmbTFMNVQxOTZhTUViZmx1dF9lWWhmOXRvVGVnTmNNSlFzT9IBqgFBVV95cUxPbnhCOFZKZHJuYlQtaE1ydWJSREZXbTFxeHRqVjU2bWxteWdGTE5OVHZOdlRtOTZJbnIzekhUWmdzbmowWWNvRFVBQmpfVDhZUm41N2NGTFZLajNFTExzZG9Rcmh1OE9qZlRTQTJoZzJZMlA1em4zWHk0NFFfclZ2VExSVW9YWWh1Y1dEaHVKNVJSTWZQcm90WDRRSEcxc2RTRFdrblUxdF8xdw?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पथ निर्माण विभाग के सुपरिटेंडिंग इंजीनियर के आवास पर रेड, पटना सहित 4 ठिकानों पर छापेमारी,10 लाख कैश बरामद। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/4-10-prabhat-khabar.jpg",
+      "source_count": 7,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना मादक पदार्थ मामले में पकड़े गए दो लोगों को रकम लेकर छोड़ने के आरोप में आठ पुलिसकर्मी निलंबित। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
+      "image": "images/bhaskarhindi-com.jpg",
       "image_kind": "photo"
     },
     {
