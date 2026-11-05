@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05 16:54 UTC",
-  "generated_at_ist": "05 Nov 2026, 10:24 PM IST",
-  "story_count": 51,
+  "generated_at": "2026-11-05 17:54 UTC",
+  "generated_at_ist": "05 Nov 2026, 11:24 PM IST",
+  "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -46,14 +46,14 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVFGWnU3WGdVOFlrNUstSWJ6TWQ2bkh0bFE4X3g5YzlpWWhhWEkyX0xWVXRneFc5OUdUaXpYQ1E1cDB6R29wb043dzBlaWNiMzZJVjNqQ2QycTI5Z1JiX1BneHRxekh6dko3d1NsZnVWNHJLbVZSdnRwU01WSk91bXNpSmprNmtUalBUTmtzd29iTHR6ZEMzb3pEcHpTTzFCamFPTw?oc=5"
         },
         {
-          "outlet": "BigInfo.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lMXlMTWVKMjJhZFBiTjczSVpGVHVMci0yTzhiU0NXaGtuR0ppSktSclFtbk9YNURqSjFNbkw5aXJzd3IybFQ1a1FNSkswS3JoTjNKN2lrMHhqWTNwdi1JdnhibWVaNkRRSkZqX215R1Y1YVlLcTh1Tw?oc=5"
-        },
-        {
           "outlet": "Manufacturing Today India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1VLNDNUckFkeGhNWU5rcmF1V0Y5Vnl2X0QxaDRRYUlZRkVGMVlSUWtGOHdYYUJDcUV0emZOaDFkaTdnWWlrdUVjQ1NZUWxiY2VhODk3VHZsRlQySnlXcjE5VXJCb3d0eDBWRXd0bjczN3NZMkhwQ0FvQzNCdjJxanJQQVJKSzliWUo3b0hDZDdLQXYzVjJUSVVfbXhzMVRYUUFzWU1WaVFlZEs1RlZ2N1Zvbk5MY0NR?oc=5"
+        },
+        {
+          "outlet": "BigInfo.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lMXlMTWVKMjJhZFBiTjczSVpGVHVMci0yTzhiU0NXaGtuR0ppSktSclFtbk9YNURqSjFNbkw5aXJzd3IybFQ1a1FNSkswS3JoTjNKN2lrMHhqWTNwdi1JdnhibWVaNkRRSkZqX215R1Y1YVlLcTh1Tw?oc=5"
         },
         {
           "outlet": "SMEStreet",
@@ -69,7 +69,7 @@
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Shree Cement expands Bangur Concrete network with 60 m³/hour Patna plant. Covered by 5 outlets, including Construction Week India and BigInfo.in.",
+      "brief": "Shree Cement expands Bangur Concrete network with 60 m³/hour Patna plant. Covered by 5 outlets, including Construction Week India and Manufacturing Today India.",
       "image": "images/shree-cement-expands-bangur-concrete-network-with-60-m-hour-.jpg",
       "image_kind": "photo"
     },
@@ -121,6 +121,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-state-archives-trains-400-officials-to-protect-governm",
+      "headline": "Bihar State Archives Trains 400 Officials to Protect Government Records - urbanacres.in",
+      "summary": "",
+      "date": "2026-11-05",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXVhQzROclc3WkMxX1ZXbV9DbTFmanBrWllhNHdWWVdLLV9oZE0yTThjRUxQM2pDWWZWaXhIYXZoT1lid0VWVktjWEdMSTZlTkd3SzJHeG01TTI4Q2h6R1BqYnBtNXd4NlBCRkpwVkM5REZTclNyUkZsSVNTZ1BjMlMtZDFEZEpveWtidVJtTDExNXZSM05QU3pIOXo5WDhXRklDbHIyb1hlSXZoZU13NFRaY2RjM3BseklqWHd4clVtRlhDSGVldtIBzgFBVV95cUxNdnpjampKZGJZcXpobDhld1FNVjNLWndKZ2Q5Q3pnTlAySWFwekstbFZuc1lNZkFPdXF2VUF2Qmk4T2FROTd0dEliVWVNZTFSLXVhcUs5cFhVeUtqN3lQbUtNcU9aS0VReDRSdmdUeXE2X1dtQkVid0lHbGVfSWgxUGpCb3VkTkplOUt1QWc0ZEJXRUh2NF94WXdySXpmRURkblhBU3duZV80R1FwVjhvNW1tclVmNVZFRm5YZGtZcFJzcXBsZVZwVm8zc180dw?oc=5"
+        },
+        {
+          "outlet": "urbanacres.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUWI5SnNqUFA3bUxZQ0E1V2p3Y2V1RHB6VTF4SVNfbWRvWnAtNHJ2VWo3Q3pOYmFCY0VjelpjTlJsZzMtMmE0bzJONW1faEJyaWowZUVaSGxmbFBVMGppTkxfVHJtVU5SUU03RF9OOHlHZFM4bXFCaV9QT1Y5NHdiZXFIR0lBUm95X1Qxal9kOWxubHZMX3B2MFJ3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar State Archives Trains 400 Officials to Protect Government Records - urbanacres.in. A civic-infrastructure story. Covered by The Times of India and urbanacres.in.",
+      "image": "images/bihar-state-archives-trains-400-officials-to-protect-governm.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "modi-to-address-public-meeting-in-vaishali-on-nov-21-unveil-",
       "headline": "Modi to address public meeting in Vaishali on Nov 21, unveil key projects - The Times of India",
       "summary": "",
@@ -150,6 +177,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Modi to address public meeting in Vaishali on Nov 21, unveil key projects. Covered by The Times of India and ThePrint.",
       "image": "images/modi-to-address-public-meeting-in-vaishali-on-nov-21-unveil-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "4k-police-personnel-deployed-across-city-for-festive-securit",
+      "headline": "4k police personnel deployed across city for festive security - The Times of India",
+      "summary": "",
+      "date": "2026-11-05",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZkMyS1JoVl9rNk0yODNIRzN5NkkwLVVZeEY2ZTJqQnlKSTBRVGtUTXA3Y25yQlY0bUpJN3cxeTR6NDNkT3VXUEV4YTVCSy15S252QmJoVEFQOHJUOHVnaEpCMTlvTUpHWHZqVm1uOGlWSTRhSlJraV9XTG9Vd055MGlveTZBaXhla05QUkI0eldjTl95UXZKTmxza1dmdk41eV9DUUVSeW1QMk9rb1RuN0FTR2RWQWJnSmZlSDNyTDRRQ0hjWDZJSjh3T2dJOTDSAdQBQVVfeXFMTllLdl9ZQWFZLVBiS1h2U0U3NXpuVkNYeEdyb3VxZG5adUg3SVhuUzVab2xabUZYWGNQNkJPaVl1MFA0MF9uXzhfcjctNFJoZ3YzbkFKMFpVcVVzZ2lKVDdkTWE4TXd3QmtGazRpNUdXUWN4U2VJN2NkVGxZYnVaeTYtZEFrdkhkT19NY1JGS01hb19yZmk2YzJpUnpIWklhbGdpZHV6dk9sdDF5d1BEdTZESTdUUU9abEJrOXN0UEs2SGYyMDRaZjRCUERwZlR6SFU1bjA?oc=5"
+        },
+        {
+          "outlet": "Urban Acres",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFZjbkRpM3FFVmlDWWg4VlZaNzV0Rl9nTkY4SEdPVl9pUkVxSXJhTURXZTA4NFVjMDlBLXlXUEVwTkdlbTlRSVdoc2pLX0M1ck9jV1htcGRaTjlXOG1BODRBUFNzSkZCMjlrUTMzZFNMOXh3SnJZNnhKRE5tS1J1RllKV2tZWmZ2TFR0bg?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "4k police personnel deployed across city for festive security. A crime-related story. Covered by The Times of India and Urban Acres.",
+      "image": "images/4k-police-personnel-deployed-across-city-for-festive-securit.jpg",
       "image_kind": "photo"
     },
     {
@@ -362,11 +416,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTM5cHl6VTdNZkJpa3ZlTG1Ba2huWnkteERTcllWZEJaNW1IQmlJcXZaUi0tZ1RrbkJ4akkxOUg3b2dWalNUUkp0WG1lUFlHRVdHdTJfYk5leHNJMkNDZHB1aURMQTEzNk50V1VxOGVRQ3g1emhBbXVnbmRXZ0x2TzQ5NHQ5UWNIOWFZclFEMHBHUEE5VFJGN25GWnY3WlZmdlE?oc=5"
         },
         {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2xYcFNnaUtDYWFKeVd2VlNEQnFYbDdabFZjOF96V1ZUYllQb0NCUi1wTjBXU0pvRGc2dFduM3hoWjVvQ2diQkpfVUczTGIxd3gwVkxKT254SUFBTGx0V0RnZEVuTHpvbk9nS1dwMFR1cWZvVUQ0WS16MVRwcEJtSnBiaWlGeU80c2JMdHBldDgxWWwwRnBZcDZTOUd4cmJEaWxySGxJS1RtUnlETTV1NTBn0gG3AUFVX3lxTE05WUxZX3J0X2pTN0k1blpsVFFHSVE1TS1TVTQtMlBNUm1ORGczRUJFMUN4OGU4bzA0TUhqWkppcXZkRklRalV1Z0gxR1Vmb2JBTlRTal9zSEtBUFNhQ21KbTRfQk9EY1J6X1JjdmhENmMtaXRQdkdGTC10bWVrX25pMUJjRjh1UXQ0d2RWb1hzQXdKd0ZVRmpQRGVMenFUR3dKTjFqZUJGcm9hbGpXRTl0TG9FbWVnaw?oc=5"
-        },
-        {
           "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM25VSTQxT2ZjcjhzU0VmN3RFbnZ4bzhfT29DZDB6WkVuS2lwbWUxZXVBOEMzSjk1N2tIZU1TTHZtQjdWWURtcjBxNkhlWkM4ZXBfd1E1d05icE9qeWpaVEFJbTlYSURiT3EwRFphLWFOQVdKcWNYc0lXYkRONVFyXzdTdnEwQUNBRHFtZWxROUNremJFOVBycFZGT3JlSTktaGtsQkU4Q0dfdnVvUklUcEJMcmRyak5lSmt5M29HcU9QUlA1SEtRVdIBzwFBVV95cUxQVlp4X19IaGJVNEFLNHNXVTU0YklrdnN1UjhHZUhsZ3dnSzVEZlpyV0h0STRfSWxsUVBxMGJrWVlYbXJkVUQya2ZaU0tRV3Y2Y28yemlyeW1oNlJRbk1IMVoxQ3BQZW5ZQnBub2JBbExzVnd5S3k2Mmt6WHNfZnhOdjNXQThVRXRrOEFCeFJJaXJlcjQ1a1hTT2FqMjFCcV9aZTRLUmxpX0h1NWJ1N1RxYzRRaHdIcWpIdFVnc0kySmJLUmhER3RxLW44ZUNhRVU?oc=5"
@@ -382,10 +431,10 @@
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1VlQUkxRWFLTmYxRE1nZldFdGxBbl9hMjlYY3puTFJaX0RFUkxFMUpKbmRqSVZrRlR1a2UzaG5ETEVOdUd2V0xYZnFENWg1S2E4SWQySFFBb011dmtJTGVVLXVwNXNIVG5ZdGp5N2JmRmo5dGpBaG1rVzZOZUhwODQ5NXBHU3FNaVFmRG9DZFfSAZ4BQVVfeXFMUEhuYURPSTlPTE80d1NSM0RoQzM0ZUJMeUF4cDRxQnphSjBxX3FxNm1Mam1vUzVqUmdEdjlkakZhZ3ZuLWMtYzBlbG04ODU1dUwza3VuenpFdFJ6VlhGVXctZjRDaDJvSUFqSC04ekVlSlY1Qy1YVWZHc2FpclNJRnhlQXd6d1JVYUlmdXhSV3laRGQyT2loX1o5QVRtSGc?oc=5"
         }
       ],
-      "source_count": 9,
+      "source_count": 8,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'Crime exists in Bihar, but No 'Aparadh': CM Samrat Choudhary's remark triggers political row. A politics-related story. Covered by 9 outlets, including The Hindu and NDTV.",
+      "brief": "'Crime exists in Bihar, but No 'Aparadh': CM Samrat Choudhary's remark triggers political row. A politics-related story. Covered by 8 outlets, including The Hindu and NDTV.",
       "image": "images/crime-exists-in-bihar-but-no-aparadh-cm-samrat-choudhary-s-r.jpg",
       "image_kind": "photo"
     },
@@ -458,20 +507,20 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGdKLVJ4UURvYXhCaTNreXJnMlV4OURtME9wUk1hMVpCTWNxTFU5Z2ZJaEgxUUxPbW9CYU5WRlZZVjdIZF9HSkhUZ0lURE1oTzIwSjJZNDl6dDdWN01zSkM5SzBYUTJ1YVpjbnlCQWlQd2lvLTJCdUFUdUZuMHFvbXNQSXcxd1JudjZyd2NXa3MwcnB5a1ZmNjRCbUdWRVI2dUE0TnFLcER0TmhLaThoUnB4cTd5blhnZF9ZSHFrcVFwbGNUeW5oYQ?oc=5"
         },
         {
-          "outlet": "Motown India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFlZSjdQdmpzZE9ibzBwWmdnaGF6SmlFM0U3aEtGUElUWmFYRlFpam9idlgyNmd0U1BXNU9QT290a19CUTZRN1FyVFFrOGJMV2U4X0FpcDc2WHMxb2c1YlY4WHFDTUxnVnBnMEpyQzBOMVRBek95UkNrQVBFdnpoNTVjbnRkLTBINWhKRDNYalc3d3Q0R201TGJsS0pyb2diT1JNNUFDWExQNmJmUlhZbVc2QVRCdUZnM3NEX1ZKOWVIYkJSUlNZcE04Mi15RmZmYWc?oc=5"
-        },
-        {
           "outlet": "Autocar Professional",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHh3ZEtMWEZiNHB5YVg4YjNwWlBqUjFObk8zdkRUTEN3bVV1UmxXQWVtcFFULXF0dEVZTWRxSlF3SVp4ejkwNDhibllnX3RkejNsSHVBWFhjcktFYXVRRmJBM0dzaktCM3lKVElQZXZNYVlXblotcHhqcU9KRzJsSDRsaWFtTjdFMGpXTUh6YldUeUo1U1lnTkhJTEZsaVZXTzNlT3pTRGo4YklOWXfSAbYBQVVfeXFMUFdUSXlqSl93WjQxZDg4T3RoLTZET0xXRUtwR3hzVU1pU3ctaEh1STJ3MWxIWWFITElrRnRWaVl6V29uVnpTOXdVZGlvS004YTRUYVVwYVlqd01tNHFRS09DWUF6a2tSZU9vRG9HV0ZNUzdwclRJVkNJeDB5dFlTUm1UQWk5R0taU0t2MVVYZTc3Y3BaYVB4c3RTVzNwUkZHTVQ2QkdnaVlqd092dFV6c2g2N2dRakE?oc=5"
+        },
+        {
+          "outlet": "Motown India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFlZSjdQdmpzZE9ibzBwWmdnaGF6SmlFM0U3aEtGUElUWmFYRlFpam9idlgyNmd0U1BXNU9QT290a19CUTZRN1FyVFFrOGJMV2U4X0FpcDc2WHMxb2c1YlY4WHFDTUxnVnBnMEpyQzBOMVRBek95UkNrQVBFdnpoNTVjbnRkLTBINWhKRDNYalc3d3Q0R201TGJsS0pyb2diT1JNNUFDWExQNmJmUlhZbVc2QVRCdUZnM3NEX1ZKOWVIYkJSUlNZcE04Mi15RmZmYWc?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar Police Places Order for 1,100 Revolt BlazeX Electric Motorcycles for Patrolling Operations. A crime-related story. Covered by 3 outlets, including Machine Maker and Motown India.",
+      "brief": "Bihar Police Places Order for 1,100 Revolt BlazeX Electric Motorcycles for Patrolling Operations. A crime-related story. Covered by 3 outlets, including Machine Maker and Autocar Professional.",
       "image": "images/bihar-police-places-order-for-1-100-revolt-blazex-electric-m.jpg",
       "image_kind": "photo"
     },
@@ -487,7 +536,7 @@
         {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTM4ajhFMzd2d2U2ZFc1M1gtZEpKVUI4OS1ER1ZIQkpVUUp5NnhEWWphQnJYMzUzNnZpRmdIZFNUVjBzaHhQLWEwWVhCdThxY0tfNngwbkYzSFd5bjYxVzdiN1E2ZkQ3QUR6VlJxVmp1YnVrTXdHbVlwNHA2clpfa1h5ME1PM01tUHh4ckhMMU8tWjkxQ1EwMTlGcFREMzlMOG53Z1NNWHI2bmN2aVdlVw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUtNa0h1NGNIOW12bnRWUXdvOGJsY05NSnRlWTJMWWdRRkEtSTdiUXJmWW5nbTdHMG02QmdlX281MlUtQ3Z6Q2phdklJODVweVlCZUhYSE1CMG9lbDYxTTNQY09RTEVKRmJLYjdqYkNsdU1sME5PeUpUcVBqWW9RblNQSjlBNVFfLUNQUFY4UFNFYzJyS1NwTHZNRzRoUWV1VUEyTFJLa2lkR0xiQVRYeDhHRHlkeFBUUGc?oc=5"
         },
         {
           "outlet": "NDTV India",
@@ -497,12 +546,7 @@
         {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNUotb1ZGblpmMHVxWFhoRy1Cek9yRTA2Rk9MeHYyRGIzcTYxTlc3dUthVjdJVEd4UE90QTg4YkZDdzJmTWZqaVo3Y0hoVF93XzlNSm5YUVMtOW9LZnFhZWZHRWplYmNFRERHeTcxUFY3MmNQRkZuVVlLSjBucUJyd0lGUlNYQUNYbkp2eFluWTNTd1h5aGxRN2xUbk02WUktNV9Bd2NpT0ZCeUlYQ3lQVXJBYjBHOGtyQlZ3NzhRZk5rUkZpRjJTRXRtQ3RXOWtvQ24xSjNhUXpmVW5vVWhHaGJuc3d0NTZQWlNGTHJiYmlCeUFwOXNSU1lQWkI5dw?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUtNa0h1NGNIOW12bnRWUXdvOGJsY05NSnRlWTJMWWdRRkEtSTdiUXJmWW5nbTdHMG02QmdlX281MlUtQ3Z6Q2phdklJODVweVlCZUhYSE1CMG9lbDYxTTNQY09RTEVKRmJLYjdqYkNsdU1sME5PeUpUcVBqWW9RblNQSjlBNVFfLUNQUFY4UFNFYzJyS1NwTHZNRzRoUWV1VUEyTFJLa2lkR0xiQVRYeDhHRHlkeFBUUGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTM4ajhFMzd2d2U2ZFc1M1gtZEpKVUI4OS1ER1ZIQkpVUUp5NnhEWWphQnJYMzUzNnZpRmdIZFNUVjBzaHhQLWEwWVhCdThxY0tfNngwbkYzSFd5bjYxVzdiN1E2ZkQ3QUR6VlJxVmp1YnVrTXdHbVlwNHA2clpfa1h5ME1PM01tUHh4ckhMMU8tWjkxQ1EwMTlGcFREMzlMOG53Z1NNWHI2bmN2aVdlVw?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -513,6 +557,11 @@
           "outlet": "Amar Ujala",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQendSNUVKVWpibFhueEdSMUp6My1xMzJXc1dsNmF0R3ZNYXgwSVNqUXFFbVVIdi1HN05VdDZyVS1JVWNGajA4MFRIb1l0VkFjNzNRaGwxcUwzd3JreHFXaE5qQ0YxUEdNcXFBVW05OVNHdW44UVFCSXBhXzg1bHFhbjQ3S3J5YzVBXzRwb0ZzUEd0cmFGdHBBaWlDblh5cktlclVMVUZOSEF1ZDFGMFFBSThHNjNKY1h0LVlRME5BMnhCWFViQlJzdFFYWVU3UHBjOWF6dGNiX1EtRmNUZEVIc2xiRUJqTjBEa2hsRW9SNHMzWjZCTkJFNEhBblfSAYICQVVfeXFMUFFCMHlsUXhqZDZ5RENCd3M0RHh0SkxJd21kbVdRR2tFTkNSZ1hKVG1Qdm9NV0NsQWp1OW93c3RRUVMxT1pPZ0kzd0NfR2prVFlKTTV5OUlSSjJhaW9hV01vTTNIMXhPbWNyb2xlc2hFQ2RxR2pKZG5FSndyRTVkZXpQU1V2YjdDMzZscDdSLW8xOFptMnByc1lrRXBXYTJkLTVHbHhSTHRDZTVZMlhfX29QT1hfT2tlai1zT1Y5VzFWU3RmeW42Uy1yNGVvRWQ4VGlLQm1lWmlpQ1UtbFk3NURiNWg1WGpseXBSUGw3LVRBOElLdXRETTd1dm1ITDhjc3Jn?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNUotb1ZGblpmMHVxWFhoRy1Cek9yRTA2Rk9MeHYyRGIzcTYxTlc3dUthVjdJVEd4UE90QTg4YkZDdzJmTWZqaVo3Y0hoVF93XzlNSm5YUVMtOW9LZnFhZWZHRWplYmNFRERHeTcxUFY3MmNQRkZuVVlLSjBucUJyd0lGUlNYQUNYbkp2eFluWTNTd1h5aGxRN2xUbk02WUktNV9Bd2NpT0ZCeUlYQ3lQVXJBYjBHOGtyQlZ3NzhRZk5rUkZpRjJTRXRtQ3RXOWtvQ24xSjNhUXpmVW5vVWhHaGJuc3d0NTZQWlNGTHJiYmlCeUFwOXNSU1lQWkI5dw?oc=5"
         }
       ],
       "source_count": 4,
@@ -547,33 +596,6 @@
       "genuineness_label": "Corroborated",
       "brief": "छठ पर पटना के 458 घाटों पर सुरक्षा के इंतजाम: पानी के अंदर भी होगी बैरिकेडिंग; 60 कृत्रिम तालाब भी बनेंगे, ... इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/458-60-dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "lokmat-news-hindi",
-      "headline": "बिहार के सीएम सम्राट चौधरी ने पटना के छठ घाटों का किया निरीक्षण, भक्तों की सुरक्षा और सुविधाओं का निर्देश - Lokmat News Hindi",
-      "summary": "",
-      "date": "2026-11-05",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTJhM2ZGRkdGSG1RUUFzRGg2MWc5U3pjVS0tVFlFb193M1hDNEtfSXVxT002N2t4Ulgyb3d1Sk56NEpKbUh4TjYycVRfbFhhRWVxY081eTlrVXA1dUdncWJmdEJSaTdqUkdFdUVWd3hWdUg2VW1NeHVRbVhCRDh5b2YyRnhWZkNiQXpGVzRzdElWel9IdHl1aThCZEpHN1lMRlN1SzJCVjlIVmFPRGRscDV0R1hoZ3JQR1JQR21BSkdYbGw4Qk1CRjdoOWt3Zw?oc=5"
-        },
-        {
-          "outlet": "Lokmat News Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcFJKOExmd3gwYkNRa3lacGdsdUkzOWwwbWhEMFNoWXJQMkIxTU1jVDhIWHpyMWx3RXZUU0plNlZNQTF5aEYtZTlzUXBhUm9fTHBQZTBtN2RmcEUxdC1oZkMwWFNmamxobmEtaGUzODFydHh1X3Y1bDFpTFhDeUV5N0U3eHR2cTZpbjhhZlh1RkFFNU14NDVpTUx5bmdMcW0zRl9aUEt3a1AzUktReFlQMWhTN091WTVzZHpDTUZwdHA5bFlKZF9fSWFyVE1TNjJiRkRPN2pCWTVMX3lnZFRRanBqZ3QzUzZhWFZfNFZrY9IB9AFBVV95cUxQbjdXZTZnOXVkT0pLUEdudUJBRzVWX2NSanJrN09RV2c5clBRTEpQVXlLVWVrM2RKeTRUajdiRXpWQjRDNjJEV29QVUJkNldpTHdqREtjMDhUeHhqcG5vWlhZNE9BNGFYN0xTOUJTR2tuZWZTdHJIWXFHZHY4WG1FY2RyU3d1ZUh3TW54azliSGJKc3A1ZnlvZ0dmRjVQam0yOFQ0WmY1bUdmQnBjSUNMaENXWklSa2RpNFdtX1lvdkJCY3R3RlFDWnJTcVA0R3ExbEY0YXp1dThMVTNrNnY3ak1PdE1aTnNFVkhCZ3htMEZtSTg2?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बिहार के सीएम सम्राट चौधरी ने पटना के छठ घाटों का किया निरीक्षण, भक्तों की सुरक्षा और सुविधाओं का निर्देश। इसे Hindustan और Lokmat News Hindi ने रिपोर्ट किया है।",
-      "image": "images/lokmat-news-hindi.jpg",
       "image_kind": "photo"
     },
     {
