@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05 14:54 UTC",
-  "generated_at_ist": "05 Nov 2026, 08:24 PM IST",
-  "story_count": 53,
+  "generated_at": "2026-11-05 15:54 UTC",
+  "generated_at_ist": "05 Nov 2026, 09:24 PM IST",
+  "story_count": 54,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -29,7 +29,34 @@
       "genuineness_label": "Corroborated",
       "brief": "Lawyer can't sue client for defamation for ending professional engagement: Patna High Court. Covered by Bar and Bench and LawChakra.",
       "image": "images/lawyer-can-t-sue-client-for-defamation-for-ending-profession.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-high-court-quashes-defamation-case-over-ramdev-book-sa",
+      "headline": "Patna High Court Quashes Defamation Case Over Ramdev Book, Says Disciples Cannot Claim To Be Aggrieved - Live Law",
+      "summary": "",
+      "date": "2026-11-05",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Live Law",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRDBZNHNCS2NGa0I0UndkT29jeTJ5TUtYaWw2RVlxME1ySXdPQ0R6WDlxNlJGbEMzWTY4dUpVWVFCbkxpRXNEbExkTnJQWF9oQVU1VDF0d2hueGZaUFFKTzdZekdFdjk3eU5CU2txSmVKT0hxb2xSR0UtQWM4RjR3TXhFVHo0YmJKSmFtSE82akwweVdPWldyTXd6N3hUVnMyWm5mNTJfMkpfdHJVRmgzTG9xeFhjWG5qQ2NTZG5hODI0R1dWMXJDQmhTVWd6YWVO0gHWAUFVX3lxTE4tdEZjdVNYdGdybEItY2pCdVZZYmU1NUJWOHhvQ3VLdzJ0TWd3QTRKM1pSektGNUxoQXowY2FrUUZrYnF2N2UtYjJ1Q05lYTlwYUJlbjNSRFdBNjhtdVk3aEFpSTRlVExzWHRlbFRqS2VobzF4VnV2UDhrSHd4NUZKakdlTC02WVhRejdxbGJiQl9TY0J6MXUzSUtiMm1neW15SHQ3YkZienZ4alFxbmkxOFJBX1djdVBYVWFNMU5EVGlhdkVYVi1YeFY2cXJFMFRjRGFNV0E?oc=5"
+        },
+        {
+          "outlet": "India Legal",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU3dtUHFvNnByLVRoRFhDd0ZuWktIUFZIY0UzZnZYTVJwWFFvMGljdGpHODk0V19PZXBSaVVsVkY1Tkc0QzJqNkdjRzRsWnlpNnB2aDJEcDcxVzlnMGhfV3lXcXAzLXpPc0k3X28tZXVTOWdNMFVhT04zdkJLRDlFS0lTUGJXLVptOUNPSlpkRjM5TUhiMlRaemhDN3hkME5GdlMzdDJoS0dpMnNuN0pXMTlGZ0ZodmkybDlUUndudnVXM3BWVk1sMHExMWtmVjVoMmlmN0J2OVlHalo4STJYZzVR?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna High Court Quashes Defamation Case Over Ramdev Book, Says Disciples Cannot Claim To Be Aggrieved. Covered by Live Law and India Legal.",
+      "image": "images/patna-high-court-quashes-defamation-case-over-ramdev-book-sa.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "shree-cement-expands-bangur-concrete-network-with-60-m-hour-",
@@ -74,95 +101,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "patna-high-court-quashes-defamation-case-over-ramdev-book-sa",
-      "headline": "Patna High Court Quashes Defamation Case Over Ramdev Book, Says Disciples Cannot Claim To Be Aggrieved - Live Law",
-      "summary": "",
-      "date": "2026-11-05",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Live Law",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRDBZNHNCS2NGa0I0UndkT29jeTJ5TUtYaWw2RVlxME1ySXdPQ0R6WDlxNlJGbEMzWTY4dUpVWVFCbkxpRXNEbExkTnJQWF9oQVU1VDF0d2hueGZaUFFKTzdZekdFdjk3eU5CU2txSmVKT0hxb2xSR0UtQWM4RjR3TXhFVHo0YmJKSmFtSE82akwweVdPWldyTXd6N3hUVnMyWm5mNTJfMkpfdHJVRmgzTG9xeFhjWG5qQ2NTZG5hODI0R1dWMXJDQmhTVWd6YWVO0gHWAUFVX3lxTE4tdEZjdVNYdGdybEItY2pCdVZZYmU1NUJWOHhvQ3VLdzJ0TWd3QTRKM1pSektGNUxoQXowY2FrUUZrYnF2N2UtYjJ1Q05lYTlwYUJlbjNSRFdBNjhtdVk3aEFpSTRlVExzWHRlbFRqS2VobzF4VnV2UDhrSHd4NUZKakdlTC02WVhRejdxbGJiQl9TY0J6MXUzSUtiMm1neW15SHQ3YkZienZ4alFxbmkxOFJBX1djdVBYVWFNMU5EVGlhdkVYVi1YeFY2cXJFMFRjRGFNV0E?oc=5"
-        },
-        {
-          "outlet": "India Legal",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU3dtUHFvNnByLVRoRFhDd0ZuWktIUFZIY0UzZnZYTVJwWFFvMGljdGpHODk0V19PZXBSaVVsVkY1Tkc0QzJqNkdjRzRsWnlpNnB2aDJEcDcxVzlnMGhfV3lXcXAzLXpPc0k3X28tZXVTOWdNMFVhT04zdkJLRDlFS0lTUGJXLVptOUNPSlpkRjM5TUhiMlRaemhDN3hkME5GdlMzdDJoS0dpMnNuN0pXMTlGZ0ZodmkybDlUUndudnVXM3BWVk1sMHExMWtmVjVoMmlmN0J2OVlHalo4STJYZzVR?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna High Court Quashes Defamation Case Over Ramdev Book, Says Disciples Cannot Claim To Be Aggrieved. Covered by Live Law and India Legal.",
-      "image": "images/patna-high-court-quashes-defamation-case-over-ramdev-book-sa.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "nbcc-signs-2-000-crore-patna-redevelopment-mous-avenue-tower",
-      "headline": "NBCC signs ₹2,000 crore Patna redevelopment MoUs; Avenue Towers e-auction fetches ₹5,191 crore - ET Realty",
-      "summary": "",
-      "date": "2026-11-05",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Realty",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNGt6S21RcG50NzBwRXlFQzFSUmkxTXE1ZGhnWGFaWHc0NFFmdVh6eTJpWWdZMlZzcUxYSHEyT3BmV3N4ZnRTZmRuQVNrNmlYVmhueFR0emgzNW50SWh5b3FYa1drOXdJTVRGSG5iWE9RQWZnR1VsLTN2V1V2eFUySlM0d3VjZUNiM0d4ZUVYYTBoMFFyeFJkel8zVjhKMmtzTkdHd3lpQ1JLT3RTNHpia0NwUWhQNzNhMk45blJFRFY1ZldaNlJpZ09OT0toa2YzVGRqOFBuQmQxNXY0UUFiejVSSmJvZE12ZVJjbUN30gHzAUFVX3lxTFA2U1lDemJlNzRnam1ZYllZT3FaZHFCeFdILTNNd0x1bE1VWGFXRENTT2hOa19mYUdaNkJXaklheUtPQUExZnV3QkxCRi1HUmRHQmR4MGZRV1VzN2V0b0haMnVsT2RXT1pYTXJ4c3hQcXZtdUp6OXBRUGVpQnAzbng4aTNQS2FVMjNaN0hJWkd5Rk1GQ0lEVk1EY0VRSEhVamFFWGFKWENsXy1DTkUwbE8wQ255Z1djdDlMZ0wtWEI2bldqcmd1dWtDWUluLWllZGpySmF3M1pXWnVVUHJTRUQ2V25tSGQ3M25vQUJ5MXc0dEswUQ?oc=5"
-        },
-        {
-          "outlet": "BigInfo.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMm1OVlh4LTVqVDV2WEprNnIyeURRMXBvNVUyeERSWk5MSC1XTk80WEVwMkwwRVRrWUkzVWM3Z3ZtM2hmbnFFNnNMaG5UaGJGTFRhUlZteElhai1uZURJLXI3VGdYOGlqbURRQmxJYWdwdkhwYVFQaWs4Z2JGajVkVDlTQmhEcEhqZkpPVkY1VUZXQQ?oc=5"
-        },
-        {
-          "outlet": "ProjectsMonitor",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2pvNGN3VHJoOGZFWHFpUnpxa0JyQU9lLWNjVGh3Vkt0N2ljTVZIajdySkxrcERaTGFNTll0bUtYQmNKcGNFWVBVUnl4U3pQc0llcURKaXpsbXVwQ2pyb2NZaktxWURkVHY2dUFranNBYXkzNEdWemFjNVRrdnpYNmJSOTB2emdDSnlNMHZVZXZuRHhFcE1meWRzdjl6Yk4xT05Xcy1oa3NQUTlIU1JsZURvV0FtMmNJ?oc=5"
-        },
-        {
-          "outlet": "CNBC TV18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGdkb1N6bWI2MWNTS01LMEtnLXBJZVBpZ0xnbExoT2pnLVBkN1lobElxMjEzSWZ1azRhbHhoVGdKTHNmRGE1WEliQ01kVWJjVm02WDJMeEFHSnRSYlJlV0IwREYwenhic3Rtc0w3TV8tdUtUQW9qa3lTbnlmNW1vdG1iVEFDMnZhdlZDbUNzcmphUmtkRVRZU2JpOUV5d3Bfd0FQb3RKcWxBby1UWGpKWmFrdUZMZFIzVjg2TExvRXBTMGEtZUw1WlhQQ2VGc2ItUnMzUTd5SkRaLUtUMUtR0gHkAUFVX3lxTE5BZXE2cTRXOUJMWUpwM3RmVHF0azV5V1I4a0MyS1dhZml3UVA0QWdFZnBINm5KeGtwVTBpZmdpUVhjTEQwY2xTRGxNMGI0bUJOUmI0M3ZsdjJMOGx0VnFuUTVEZTRSUERWWHBvU0FuX2RoTHQ3V0hsZjZmcnVaazBIN3RGalBSNUI0cWRGMHRsYndqbEsxS0JLR2tqT0V1a3VWZ1VFOVJCNDhJR0o3X1g2LUVBWGNRRURjV0FPSG1zWGw2aWVHTHJKYWkwZVBOOFJ5SjRLSnhBVDZaWjVOc2xMdDgyLQ?oc=5"
-        },
-        {
-          "outlet": "PSU Watch",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQal9ubnlMUFJVT0dNSXMxYWNGbWNkNVduVTFTZUxIU2ZkaC0tVkc0YVJtOWpOSmctaXhfaG9tNkViOWJjckhITmVFYngxUkctRXVSQ21Eblh1cHBTVE9Sd2RXZmxqRXIwUDh0WHVNNVk4ZWVhSFV4ZldVMV9hVzA5MThqSWJLSWk0eENQNVBoNjdrVnVCdEp5N2NseTNnY1NrSEllbUVzRXI0TXVrQkVrSWdjOFRWck1FYlVudy1SZ1g2VE3SAdABQVVfeXFMTlBkZzEwZndzUnJaQTVjXzRmWWFKc3h5WUhLS0xLLUlZQVdDejZSVmFib0hkRHl0SzlaLXMzQk5fUXRPYmpEVDZWOWowaXA5UktXRW5aLXB0ckNBNTJXZ1N2ZlZ4RE9TSmYwUmtfbjdqa1l4MXpoQUt2RmJXUHhrUnZjNlliRlhkVmxDWmRNOW5RWVE5bVZtMGRyaFpITmdDa210ampsT3BfZlRMWEpfVnctQVM4M01qNDh2d0xXRk00Ym5Iay1xR0ctN1NObmFHUQ?oc=5"
-        },
-        {
-          "outlet": "Multibagg AI",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGc2bUdMMWtNR1loVl9lU3ljbFozRzFWNTkwaU85NUlseUpLRVNmZ3M1aHJmcU95X2tDNm91X1UyVkF6WGJveXhvT0xtd2FlVjhvRk8wTmVUbWk2eXJlaW52LWEyOUs0cWRpdzlTZ3h4ektxZHdqU19nLWtqZGJ0di1ZNHpHZU9BMHFFMWFlTklCTzY5OWhwLTgzN0ZiLUtLZlhGSw?oc=5"
-        },
-        {
-          "outlet": "Prop News Time",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbmVTTnNSZ3QwM0NVcS0xbWdMM3l2WWN2LW05a3pySlI5eUVoWHFidUt3NVNCU1V4TXJtbEpiQ2V6NFhNbkdDN0xVYnkxdGNVbVlhNWNBcEdMSEpqcjVvbTJ3TEsyeWtVVU14ZldmSlpNdTU0cHdHZUotekJEMzBadjFfVlhJZ1VXOHhob1JSWU9iZVh5SFZwOUFwTWg0T3N0WUF2ZVFMdG9mSlozbVpqLUFiYm1mM2ZhaUVkNm1NeFUzNkQ5T2hINkU3Qzh3TDY2U3Rz?oc=5"
-        },
-        {
-          "outlet": "Prop News Time",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU0NEaDctdnltYmZWTnVVdnNDYlFsNURZWFotUlFXakRyNHpWMnZRNmQ0eHVGSXQ5dzNKU3pWbHBMU3lzU2ZOV2ZCVWJnamY4Z2xoekxJYXo4MjVKTU04RnZ3QVNzOS1sWGxjWV94ZHo1X3VTd2JCREJhUjFCTVJ5RklrVEF3V2NjanBEdnVZd1ZRRldvVWV2eF9OX3kyanFqdmo4VWFCMHlid08tSm9DdDZrV0xLUWFaSzB0X2s4bDJ5X2RtUmc1UWRDcw?oc=5"
-        },
-        {
-          "outlet": "Equitypandit",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzJPbi1ZYkNWZWdEeXQ4VkRoMVRyTjFQTmRsR0lTU29hR1gxcHhMUHJ1OUJNaGhjc3dtZDNZOEtHZGlCS1NBdjJjTTcybU1ycHVJSjFFeHVOZFVmb0NmRjFJX0xRWEZUY0tfWjY3Y0dNWkQyTGowdElWQ3pIVzl0TmxrME5uZ2x4M0R2eQ?oc=5"
-        }
-      ],
-      "source_count": 8,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "NBCC signs ₹2,000 crore Patna redevelopment MoUs; Avenue Towers e-auction fetches ₹5,191 crore. An economy-related story. Covered by 8 outlets, including ET Realty and BigInfo.in.",
-      "image": "images/nbcc-signs-2-000-crore-patna-redevelopment-mous-avenue-tower.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "railways-to-run-over-100-pairs-of-special-trains-to-clear-fe",
       "headline": "Railways to run over 100 pairs of special trains to clear festive rush - The Times of India",
       "summary": "",
@@ -187,14 +125,14 @@
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnRaTEEzcURoNHU0d2F1S2dnOGNXcjJHX0hDMG9acVRlYzhLNks1VWZLV1pLS3VmY0ZNWVRxSXdmcllDU1dGc1pHNGhBUUg3MnJ6N1c5eWlWajY3X244UFB2SGZBLWRIQktNY0doNGdIMm1mazVqV0c0T1BPN092a2t4Q2t5M19ORVJ5eUhpVTU2Vkg2eGxNc05zdlRNdnJfMkloal9IbTlxNi1ud0JQb2o4ZlNLTzZPcmZUSi1qTjRzUTV0WVFHNlRB0gHPAUFVX3lxTFBwZm5kandMTW5iZTVOaXFPOUo2SXBJdjN4SVFKdjBaVnZFaXFrMTUxRE9fM0VzdXJHVEI0MDRsbWJmUUdZZGg1VDNTYVAyMUdqc28zVlh3aGo2TkJqTG1CM0tYM0oyY09IMVFNbEN0ZFBLZkx6dVZUR0xhRkY2emt2RGZIVkkySVRrOUVRQ3MyZV9PSnlqQ3MyYnJadU9DSUpyMjdlVklhUFZibVQ3OGhibU0zMDM5MERVc3QzSFhKSy1nLW5YWldySUlDdVhyMA?oc=5"
         },
         {
-          "outlet": "ET Infra",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGFmeGFYZWZmT0RWQ00wYXBobU15dnpvOUl1cU81NkdGRVF0RjFhUmZCN3V0WTdSQjVHaGp1NWIyVmNpQ2xwQzRzc1hTNDdOZEtjbzZYNzVTamZSaHV5TjN1bF8yYldsdUNnWnZaSEpkY2l6aFFBODZxUERGRUt0aWNVN282SHBQLVhlYk0zbkFXZUJqUzgyNDU3bkNyZzM0REZiSGZrTzVERkN5OUs3bGlxU0VyaWk4R0YwYWRzNlLSAcYBQVVfeXFMUGNHd0x1V2o0TnQwYnJKRXJ2WVdEVENuajVIV0FXTmRRVVd5NWdpU21DMjRhUVB4V0pGSlUwM05hQlAtVE1vRDdFSURUeGxicmVFZEFDbnNicHV5aVkydWg5cWJMLUNoSzZRbEJQSGlib3lfZUpLOENDejVrc3drRVE5anlySVNxdmZNQUpYd0pobDU4TXNEY1U4YjRCbjdoeGYzRkxRUTVGVTZRcTgyaDB0aWZsN0JpVkVFMkoxTFR3YzNLbHB3?oc=5"
-        },
-        {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcWhTM2NnR1hIVTB4OTc2MkEyVzAzTHp4ZjdrZFhHZGMxRDY5X0FSanFtb29KWnIzcUhXYTUyWEFMdE1CRE1aOTJ1YktrVzREV3NoSVlrUkJPZk05YnM2THZPQS0yYjZKanJKYXVJckgxeFNkdXBPSUFoMHMyOVlKaTNoQlIxemROcEJYQmRvMnAyRmpSdWZ3aTJScDdHV1lhcTU0UDJCUm9jTk5RUVpJaG9Pc3RyZDlIc1QzcXpGUEvSAcYBQVVfeXFMT0tGMjVjS0tFN3hLY2tmSkhmUXpxRExua3pKbnZDUkVKZ0h4UTlySElnSEdMOEhqTURMTUhOMUNPQ3ZEbC1Ba0RYcGdySy1KSlZwQjN1cGd1RG9tRnJJa25HOEJ6czRreVltWjk4ZHptb21pVFp3LU9uN1UwTGRJZFc0MjFUTTNpNjJfM0tJR2tpNFJBQVUtSTVPWGtyaDZjUUlFby1DZHFGVkZFNGRUWTdFSjNXa3JQRkVJSTFicU9NNm13cmNR?oc=5"
+        },
+        {
+          "outlet": "ET Infra",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGFmeGFYZWZmT0RWQ00wYXBobU15dnpvOUl1cU81NkdGRVF0RjFhUmZCN3V0WTdSQjVHaGp1NWIyVmNpQ2xwQzRzc1hTNDdOZEtjbzZYNzVTamZSaHV5TjN1bF8yYldsdUNnWnZaSEpkY2l6aFFBODZxUERGRUt0aWNVN282SHBQLVhlYk0zbkFXZUJqUzgyNDU3bkNyZzM0REZiSGZrTzVERkN5OUs3bGlxU0VyaWk4R0YwYWRzNlLSAcYBQVVfeXFMUGNHd0x1V2o0TnQwYnJKRXJ2WVdEVENuajVIV0FXTmRRVVd5NWdpU21DMjRhUVB4V0pGSlUwM05hQlAtVE1vRDdFSURUeGxicmVFZEFDbnNicHV5aVkydWg5cWJMLUNoSzZRbEJQSGlib3lfZUpLOENDejVrc3drRVE5anlySVNxdmZNQUpYd0pobDU4TXNEY1U4YjRCbjdoeGYzRkxRUTVGVTZRcTgyaDB0aWZsN0JpVkVFMkoxTFR3YzNLbHB3?oc=5"
         }
       ],
       "source_count": 2,
@@ -205,30 +143,87 @@
       "image_kind": "photo"
     },
     {
-      "id": "northern-railway-announces-three-festival-special-trains-bet",
-      "headline": "Northern Railway Announces Three Festival Special Trains Between Delhi And Bihar - ETV Bharat",
+      "id": "nbcc-signs-2-000-crore-patna-redevelopment-mous-avenue-tower",
+      "headline": "NBCC signs ₹2,000 crore Patna redevelopment MoUs; Avenue Towers e-auction fetches ₹5,191 crore - ET Realty",
       "summary": "",
       "date": "2026-11-05",
       "topics": [
-        "civic"
+        "economy"
       ],
       "sources": [
         {
-          "outlet": "Sarkaritel.com",
+          "outlet": "ET Realty",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnhscGZ6Y2JlVlpZbTVaTUpLZHRNdnU0RzRaSDYyNjVZdEg5bXBkbFAwNEVDNk81ZEhIZ3Y1bFpkNEl6bS1aNm9zYTVkSUtQWXFoNnhxRjlnUDNGRnM5eW5tOGhHOEtDd1hGcmxTZlF4bkRpOFVwdE9pOEpvZFFYUGJpWWtmMm9TRU1RQTJKQThxa0E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNGt6S21RcG50NzBwRXlFQzFSUmkxTXE1ZGhnWGFaWHc0NFFmdVh6eTJpWWdZMlZzcUxYSHEyT3BmV3N4ZnRTZmRuQVNrNmlYVmhueFR0emgzNW50SWh5b3FYa1drOXdJTVRGSG5iWE9RQWZnR1VsLTN2V1V2eFUySlM0d3VjZUNiM0d4ZUVYYTBoMFFyeFJkel8zVjhKMmtzTkdHd3lpQ1JLT3RTNHpia0NwUWhQNzNhMk45blJFRFY1ZldaNlJpZ09OT0toa2YzVGRqOFBuQmQxNXY0UUFiejVSSmJvZE12ZVJjbUN30gHzAUFVX3lxTFA2U1lDemJlNzRnam1ZYllZT3FaZHFCeFdILTNNd0x1bE1VWGFXRENTT2hOa19mYUdaNkJXaklheUtPQUExZnV3QkxCRi1HUmRHQmR4MGZRV1VzN2V0b0haMnVsT2RXT1pYTXJ4c3hQcXZtdUp6OXBRUGVpQnAzbng4aTNQS2FVMjNaN0hJWkd5Rk1GQ0lEVk1EY0VRSEhVamFFWGFKWENsXy1DTkUwbE8wQ255Z1djdDlMZ0wtWEI2bldqcmd1dWtDWUluLWllZGpySmF3M1pXWnVVUHJTRUQ2V25tSGQ3M25vQUJ5MXc0dEswUQ?oc=5"
         },
         {
-          "outlet": "ETV Bharat",
+          "outlet": "ProjectsMonitor",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnBYMTRvaUZWaFNHS1JJTGVhcWZHa1hpblcyUzNCVl9ycU0tUVFyLWtCdnZYQTZvMDh2cWNzUWVFc2NDb1Zibl9pY0JQcy13ZlBXc3RvU0dNMkpZU0R6aGJHNG1lNkp2RHdGdUJ2UGdHUlowQ2l3eTZFZVhkLXRSc3VtcXlYN000V1FrOXN3ZzUyU2wxc2RkLW9XZU9BRlB3ZkhqSDBDaXVXb3RNTmJOem12LVRPMk5PdEhkN1RHZjVDMEVucGxDdmJ0b9IB0AFBVV95cUxPbFZCb2NDN0xtZU91bDZwN1FsYmNNLXFsU1VrWXZnSUtCNXlETEh2TmJtSVozaUFUV29VdmFzVUFuZXlSa2MwUjkzVTBfWlBSWXF3aFpneGRFMERTZWpiRFpkQjhjVVI1eFlwMllaX2t5UWI1SWxJck53S3RoT2dsRUp2N184enFNUklMdHR0YXhZSmtNZloxVi1nelRNeVFoaENuSkpBSkFOci1vdTBZNXd4OEJ5VWFMQzYyYlBaSC04SzVMRnVhempmRnowWElD?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2pvNGN3VHJoOGZFWHFpUnpxa0JyQU9lLWNjVGh3Vkt0N2ljTVZIajdySkxrcERaTGFNTll0bUtYQmNKcGNFWVBVUnl4U3pQc0llcURKaXpsbXVwQ2pyb2NZaktxWURkVHY2dUFranNBYXkzNEdWemFjNVRrdnpYNmJSOTB2emdDSnlNMHZVZXZuRHhFcE1meWRzdjl6Yk4xT05Xcy1oa3NQUTlIU1JsZURvV0FtMmNJ?oc=5"
+        },
+        {
+          "outlet": "BigInfo.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMm1OVlh4LTVqVDV2WEprNnIyeURRMXBvNVUyeERSWk5MSC1XTk80WEVwMkwwRVRrWUkzVWM3Z3ZtM2hmbnFFNnNMaG5UaGJGTFRhUlZteElhai1uZURJLXI3VGdYOGlqbURRQmxJYWdwdkhwYVFQaWs4Z2JGajVkVDlTQmhEcEhqZkpPVkY1VUZXQQ?oc=5"
+        },
+        {
+          "outlet": "Equitypandit",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzJPbi1ZYkNWZWdEeXQ4VkRoMVRyTjFQTmRsR0lTU29hR1gxcHhMUHJ1OUJNaGhjc3dtZDNZOEtHZGlCS1NBdjJjTTcybU1ycHVJSjFFeHVOZFVmb0NmRjFJX0xRWEZUY0tfWjY3Y0dNWkQyTGowdElWQ3pIVzl0TmxrME5uZ2x4M0R2eQ?oc=5"
+        },
+        {
+          "outlet": "Multibagg AI",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGc2bUdMMWtNR1loVl9lU3ljbFozRzFWNTkwaU85NUlseUpLRVNmZ3M1aHJmcU95X2tDNm91X1UyVkF6WGJveXhvT0xtd2FlVjhvRk8wTmVUbWk2eXJlaW52LWEyOUs0cWRpdzlTZ3h4ektxZHdqU19nLWtqZGJ0di1ZNHpHZU9BMHFFMWFlTklCTzY5OWhwLTgzN0ZiLUtLZlhGSw?oc=5"
+        },
+        {
+          "outlet": "PSU Watch",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQal9ubnlMUFJVT0dNSXMxYWNGbWNkNVduVTFTZUxIU2ZkaC0tVkc0YVJtOWpOSmctaXhfaG9tNkViOWJjckhITmVFYngxUkctRXVSQ21Eblh1cHBTVE9Sd2RXZmxqRXIwUDh0WHVNNVk4ZWVhSFV4ZldVMV9hVzA5MThqSWJLSWk0eENQNVBoNjdrVnVCdEp5N2NseTNnY1NrSEllbUVzRXI0TXVrQkVrSWdjOFRWck1FYlVudy1SZ1g2VE3SAdABQVVfeXFMTlBkZzEwZndzUnJaQTVjXzRmWWFKc3h5WUhLS0xLLUlZQVdDejZSVmFib0hkRHl0SzlaLXMzQk5fUXRPYmpEVDZWOWowaXA5UktXRW5aLXB0ckNBNTJXZ1N2ZlZ4RE9TSmYwUmtfbjdqa1l4MXpoQUt2RmJXUHhrUnZjNlliRlhkVmxDWmRNOW5RWVE5bVZtMGRyaFpITmdDa210ampsT3BfZlRMWEpfVnctQVM4M01qNDh2d0xXRk00Ym5Iay1xR0ctN1NObmFHUQ?oc=5"
+        },
+        {
+          "outlet": "Prop News Time",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbmVTTnNSZ3QwM0NVcS0xbWdMM3l2WWN2LW05a3pySlI5eUVoWHFidUt3NVNCU1V4TXJtbEpiQ2V6NFhNbkdDN0xVYnkxdGNVbVlhNWNBcEdMSEpqcjVvbTJ3TEsyeWtVVU14ZldmSlpNdTU0cHdHZUotekJEMzBadjFfVlhJZ1VXOHhob1JSWU9iZVh5SFZwOUFwTWg0T3N0WUF2ZVFMdG9mSlozbVpqLUFiYm1mM2ZhaUVkNm1NeFUzNkQ5T2hINkU3Qzh3TDY2U3Rz?oc=5"
+        },
+        {
+          "outlet": "Prop News Time",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU0NEaDctdnltYmZWTnVVdnNDYlFsNURZWFotUlFXakRyNHpWMnZRNmQ0eHVGSXQ5dzNKU3pWbHBMU3lzU2ZOV2ZCVWJnamY4Z2xoekxJYXo4MjVKTU04RnZ3QVNzOS1sWGxjWV94ZHo1X3VTd2JCREJhUjFCTVJ5RklrVEF3V2NjanBEdnVZd1ZRRldvVWV2eF9OX3kyanFqdmo4VWFCMHlid08tSm9DdDZrV0xLUWFaSzB0X2s4bDJ5X2RtUmc1UWRDcw?oc=5"
+        }
+      ],
+      "source_count": 7,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "NBCC signs ₹2,000 crore Patna redevelopment MoUs; Avenue Towers e-auction fetches ₹5,191 crore. An economy-related story. Covered by 7 outlets, including ET Realty and ProjectsMonitor.",
+      "image": "images/nbcc-signs-2-000-crore-patna-redevelopment-mous-avenue-tower.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-cm-samrat-choudhary-inspects-patna-chhath-ghats-direct",
+      "headline": "Bihar CM Samrat Choudhary inspects Patna Chhath ghats, directs officials to ensure safety, cleanliness and facilities for devotees - ANI News",
+      "summary": "",
+      "date": "2026-11-05",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQzJkWk5mTEhWN2ZXOVhMX2ZJcXZvck1PWVNlYXBkek9WV3JITWhUcXdIa0YwVmQ2ckRacmpEUXBhUVFSSmxRMExnRXZEejFQQ2YxUVV5eS1DUHVSVEF1eW92amlNdkQtUE5MdEZLTHZGWFpOT2tZalpHbmZtWFlqN0tmeExWS0FsWWFmcW9KaDltaW0zWGxXaXhTalE0aUdWV2paU2IySDVWMkxidkNiaWVsZlZDNUhDUnRQNGxadFdrVG5Ba2t1N3lsM2ljMzFrbW9GRzdmdGVNQTF5TDlrZ3NxeVZpdkp1OFpueDBmcE9jVkNhSl9OVHVpdTEydXZnZUtpRWdJSnBRQ0FnaEdkYXlUanRQaElTU2tDXw?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWwxVGJES2FzejliYnpQSWFWTElGcTJvUWJZRmEzcG9sNi0wS2VVcGdtNjZUTy1rN0c4MWVkV3FVNlNQV1lxdzBSd1ZQb2pPd1V5QWdyMnkya3RCR0xyNVJ5WVFtd3dTSFFJY05GemhqS1RfaGFsa1V5ZFgxYUFxTzNoRV82ajVwVHRJbFo4MkNXZEJnSkE4QWlRRUpBRW1nZV9yag?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Northern Railway Announces Three Festival Special Trains Between Delhi And Bihar. A civic-infrastructure story. Covered by Sarkaritel.com and ETV Bharat.",
-      "image": "images/northern-railway-announces-three-festival-special-trains-bet.jpg",
+      "brief": "Bihar CM Samrat Choudhary inspects Patna Chhath ghats, directs officials to ensure safety, cleanliness and facilities for devotees. Covered by ANI News and The News Mill.",
+      "image": "images/bihar-cm-samrat-choudhary-inspects-patna-chhath-ghats-direct.jpg",
       "image_kind": "photo"
     },
     {
@@ -246,6 +241,11 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHA2MU91YTZLWWE3cTJWVmJVODA2cGtfYmpZUEJGeldYSUNXOXZEMi1pWnEyNUt5dlo3SDJ4RlhTbkJWb0lwc2ZSaGdLU2NXUjlvOVphM1k0RVlIUXlyTTZZVDNGbXNXd3paYnlIaWhWWExWZVJibktsZ0ZOYUhOekgtQlJGZHhuM3BxcHlja1A5dTlhMDRFYU5yWFgyYzFIODFOdXltUlFnZkxwQjNheF9Hbk1GaEnSAbwBQVVfeXFMTjRNQXN2WGZGSVBvRzlycFlhdEJqMkZyOFNrOEk0MFY3ai1EWTZMcFdkQm9uQW1GaGU4WkE3b1pnYTk2SUR3MW9RUkdfQkpncUtDRW41azNVdjZzdVlJNkVWR3h0aE9mOHFOTmRjLUF4WjR5blVtSk5ERnQ2UlRvZkQweWVrYW91bURLd1F2LWdYTVJzMDJqVmtrMkFhZF9XTGpBaFB4ZFo5VDZ5WldodjU3M3M3dUQ2V1FlaDc?oc=5"
         },
         {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmkxT3hycnFWd3dmN2JVYTJEb3F1UTVFSUdCUjRsWlk2QkQycU1LYWJVMGRZTEJvVjZUTEZpTy01VmUtYzNvTWFla05vYURrVlZXVjIzUWRBTmtsdmpYZVRxUl9fNlVmS1M5azBQYUVTdDZNaF9lcXZtTThzZnNJMlMySHFWZ0Z5MVk5SGJOeDAzYmgxRy1GZWVlRU5aSnd6REdmTWRHUENIVUIySWJuOGRLWFN5MWfSAb8BQVVfeXFMUDJoWGZjdkpWZ1ZYc0VPNE9hdDhscnFmQ2NSMGUxNG1WQmdLYnRnblppTElSVzZudGRwTU9HQ3ZtazZ3a3JNNmhralF6NzhpU0RSbFgtVmcwTXdIOGtuYW11cUk2UURucnE0U3E5SnpQMm0zcngtdWpyT3lld3F6SkV3TmtWNVhyNTl2VmpYVDc1TmlKRXNOYW9HVU1uUC1EV3p1enZGSnNJUG1sWVM3aXZBdGFLSWZ2QmwyQUg3djQ?oc=5"
+        },
+        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSjRhdVBmalVrWXFUejU1TkJ3QWo2c0hSbTNTbUxvVG9tQko4YlROTFk2cU5kT3ZQWGQ5Z0VlZmp3NGlram5GSE1qTkUxdVU0eWNpWlNVNFh6Sjc0MkRqd0hXMTdMZkM1NmVyTGZqQVlmOFBxZEx6RzVFNkVNQ2hNUVJUNkgweXdqUnNZa1FmZHNWRkpEOUx3dno5b1M3X3VFZElRSXlXdFFzZ1AyN3RITlVWY0J6cm9DUVpsRGNWSjdCNW14T0Q3MnNVakZ0dFJKWS1iSFpMc2I2bV9scFBIbV9qSkxITU9UZFBFVU5wd0xrX1Rw0gH6AUFVX3lxTE9YMGlhQkVHNlR0R19nM1JUM2dxZFZnSEVnOVllaU5uNHBkYk1KbGNqVkR0dlcyVGI4MEFTd3c4R1pjWHNaSHJHVVFWX3o2bGJrSTlyb3J0X1UxSmFhOEQybXcyQk5MVWRfNFIwc21VajVraFhVNFpja3lSV0ZPb2d2UHZtVW5lSnpFU2JydFhRZnliZ3dGV3FqbGxMaHp6UElKMTlUeWFyd1dBeFBjXzJTdG5kX0M2bXFfS19lRzg2QUFJVEhLRUpLLXVSc2FLYWcyQXZQWHJSSFdqRW1VT3VGLXNtSlF0bnZrTW9DN1FDeXRobGNJa0VQYnc?oc=5"
@@ -254,17 +254,12 @@
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeVYzbDhUM3FPRTNkSWlYeWhRalA0c2Z2UlNoUFB4SHYxS1QtaWZORzJ6bTh4czZHLXlPOUgwbFQ5QXM1M3pPTHZxVTBTTUl5VWp3NDlQZ25JX3d0enJmckdyaGlHazRHSHlhaTFjZmZFc0p0SV9hUFR1UUx6UEp0dnBKcUJCSGxELTBCQmliZnNZa1ZKMllRLW1GNkxzNTVBbDd3TWppenlGdTRWaC03QnhMbF94bXRpRFE0akREb3ZHRWtaQWlTY1B4RjVGMDRKZEZZSWVtdnNzVmdsb212bFpB0gHnAUFVX3lxTE5adGFrdjhGQ2thUzRwTjBySml6ekE3X1MtbGFZZjNOWVhraGRtanNHdm9QX293R3J5ZVNSbVJmQTBMZ29wd2drRDlXNXJaNlV2WXFDVzB0SkhKbkNMOHZmMERLRmsxdmxHWUNMVGdrYWVOOE8tLUgyT2dDUF9JMWVpMXU3cTMydDBPVTlNSElTeC1hczV1OHo4Vm5yNG0xVjhsZzh6ZVRrbDhWTGRYRGVZc0VXdjdWeERNc3R2aWpva2tMekdfWUpMRUdNaUdmQ1NNOEZyM0t3MUt6S3NfcmdURkJ1eFc3NA?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmkxT3hycnFWd3dmN2JVYTJEb3F1UTVFSUdCUjRsWlk2QkQycU1LYWJVMGRZTEJvVjZUTEZpTy01VmUtYzNvTWFla05vYURrVlZXVjIzUWRBTmtsdmpYZVRxUl9fNlVmS1M5azBQYUVTdDZNaF9lcXZtTThzZnNJMlMySHFWZ0Z5MVk5SGJOeDAzYmgxRy1GZWVlRU5aSnd6REdmTWRHUENIVUIySWJuOGRLWFN5MWfSAb8BQVVfeXFMUDJoWGZjdkpWZ1ZYc0VPNE9hdDhscnFmQ2NSMGUxNG1WQmdLYnRnblppTElSVzZudGRwTU9HQ3ZtazZ3a3JNNmhralF6NzhpU0RSbFgtVmcwTXdIOGtuYW11cUk2UURucnE0U3E5SnpQMm0zcngtdWpyT3lld3F6SkV3TmtWNVhyNTl2VmpYVDc1TmlKRXNOYW9HVU1uUC1EV3p1enZGSnNJUG1sWVM3aXZBdGFLSWZ2QmwyQUg3djQ?oc=5"
         }
       ],
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar shifts out Khagaria SP Bhanu Pratap Singh after wife files harassment complaint. A politics-related story. Covered by 4 outlets, including The Times of India and India Today.",
+      "brief": "Bihar shifts out Khagaria SP Bhanu Pratap Singh after wife files harassment complaint. A politics-related story. Covered by 4 outlets, including The Times of India and NDTV.",
       "image": "images/bihar-shifts-out-khagaria-sp-bhanu-pratap-singh-after-wife-f.jpg",
       "image_kind": "photo"
     },
@@ -348,6 +343,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "festive-rush-jharkhand-bus-operators-add-services-as-train-t",
+      "headline": "Festive rush: Jharkhand bus operators add services as train tickets to UP, Bihar run out - The Times of India",
+      "summary": "",
+      "date": "2026-11-05",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU21GaWdXRE5uWFAycDZqUlM5Um5lVUFVWk1jbVJGZ1VVblNaaVIyU2RfdzBzWERYWE5wel9zcUtKUDFfOXlPcEdyaVlJM25TcWN2LVhZUVpQSHNCVWpqeTFsVVpDN2RGMWZxWmV0MXVlbGIyc21aX2JzNmJZOGVjQW9KTHNrY0lINm5SZVNZREFHUmpiemJkLTJtRnpUYk5KMU1OdUlyQnZsR3M3ZkszQnRzaER2bFNZMmljSFBKYjg3VEl2QUxvT3Vza0VSSUg1bUdhX1ZBcHIxcEMtSWxWVEowZ05sak1JNVNDOEFDa0NMd9IB9wFBVV95cUxQaEF5azl6ZXdwSDJQaVZqY0xHVjFHUkFSeHBQRWtZaFhTRVRyTE80TmU4aXBNak1nTTFDbVNuSUNBQ0RocmMtQzQ3R3BlZDB4ZWxqLXUxVFhib0IxZk14R25INnNfLXVtS0VJV3Jua3FQdkhSbFZuZzVyV0RWeTY0UmtmVGg5SjVPRWdrM3VWX1I1cC1SSWJtVjlNMWpJc1Q3RjNoSXNCSTM4aEtVaHg5MHlucV9VaUszN29FTWtVdGRiZV8zWkFlc21FOE90cGF5ZnZZOGFHek00aXdJYVlTZmFlQVNCWWx5ZE9xbzJfLVIwMHRKcHVV?oc=5"
+        },
+        {
+          "outlet": "ET Infra",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMFJXbF9SVDhlQU1EZFFkZlc2cHlLY0x3LWN4VTNKTm1HMFVYUnJEMUZNbmxFSGVZSmVxY1VWemYwWS1hTjlabmc2a0dOVDQzM01yYVJpTlZ0NndqcnFfY21mZVppSXdTdDR6Q19jSHk4QVpOREdBYXNnWmNRR0drMUN2LVpMZTZLQWU3WjlIa3RIbWpIN2V4cldlalFXM21FUlBpYzZfdHdxUm5URnlRN0kxX0RYVnh5Q3BGQXk1dDRKdncwYW1YNFB5akRpdk4yQjFMM0dJMUhUN25ZclpTWk9TbWwtZWFOWTZZREtvWnc4bGfSAfcBQVVfeXFMT1FxVXVCSjhsSmVYUzhYOTRkNzBpOHppY3VYRWJndnhCMWVVSWd1OXlWSVdXeHVpcjNKLWpMY3Rsb1dIenBvREtRSUFGVkc3WjlLYzItUTU3LTh2bzVNUnZIb1pDLWkzZ3JhV1o1VDRmSG50Q05FZEhMLW1hbUZKdEpQbm5IS29jVjRQc3I5ajFmNWJpQzU0UndtMVBuTUEzZDVJRDVXSGtGY21rcjhCdTJxOEJNSVBIS1pSbGtNT3RqZGF0TDBxWFJmOHdMMnpxTXJfQlVkd3dHOG9RMVplS2NVTXBYSWVfLUxfV2xZcEM2dUVPM2U4TQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Festive rush: Jharkhand bus operators add services as train tickets to UP, Bihar run out. A civic-infrastructure story. Covered by The Times of India and ET Infra.",
+      "image": "images/festive-rush-jharkhand-bus-operators-add-services-as-train-t.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bihar-woman-files-police-complaint-after-panchayat-attempts-",
       "headline": "Bihar: Woman files police complaint after panchayat attempts to broker compromise with rapist in Araria district - The Statesman",
       "summary": "",
@@ -399,7 +421,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Five IPS officers transferred in Bihar - https://whispersinthecorridors.net/. Covered by Whispers in the Corridors and https://whispersinthecorridors.net/.",
       "image": "images/five-ips-officers-transferred-in-bihar-https-whispersintheco.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihar-police-places-order-for-1-100-revolt-blazex-electric-m",
@@ -461,33 +483,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "458-60-dainik-bhaskar",
-      "headline": "छठ पर पटना के 458 घाटों पर सुरक्षा के इंतजाम: पानी के अंदर भी होगी बैरिकेडिंग; 60 कृत्रिम तालाब भी बनेंगे, ... - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-11-05",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZXdnUzJ1bjgxalZrNjRibUZyWV9IeG54TjlJQjhLbXlJRXlXNGlJVktvYkVuc2d2N1hUbG14NFJUT0VvX0tIcm1mLUVScW5QLUdUckdYb2ZBdnhDT2R1VjU3WVhaeHpsNlNRYnhmSnVBUDVxMElDaUZQRk5yaG40MlFLOXhua241OW80d2pHV0lDUVBWOHU3cF9uLTdtdHpneUxlbVdJYlFpSHBKV1FGRWhUaVhIYmlyQVI2NlpETkktRlkzYUFlX1JB0gHPAUFVX3lxTFBtek9ncW1fN0pURTV1Q3BGcnNlY2R4dmlmQUo3MEp0bDVjdVFNSE5qQ0JLbXVNZ18zSXJoN2lTZm1KZGtrNXhVTFcwMXUtQWhYYTFvcXF0Z1lSbEJKVTZVeG05MWJiY1JxUVNvLVN2YzZwYThrQV92SF9oOXEtcENtcVNMRjQ3bW5qN2JlZnlKR0tobkRmam9wSGtNZnJqMExQVFZqaUtSSUVjeXVSUXFJcTlWWnRzUF85ZlZuTmxCcF90d0RjclF3STZDc0hyRQ?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHJKeEV6OV9NcE9pNUxqNWhVT3lVYThBaVBwZEdxNXJaeTc5WFNacjlPQkwzcW5sdjd2MnlPelN0N2k4c2hmUUw4QzJvakZ5MXl4d3psMmFMeDg5cVJydjlkZG9mOGpxY29yV1p1NW1Vc3l4aGF0bTA5UzR2QjlYZGJyUXlFZms4YURpS3RLVlVkb25PU2dtU3V2aERRVXB2V0JCVlVrOV8?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "छठ पर पटना के 458 घाटों पर सुरक्षा के इंतजाम: पानी के अंदर भी होगी बैरिकेडिंग; 60 कृत्रिम तालाब भी बनेंगे, ... इसे Dainik Bhaskar और Jagran ने रिपोर्ट किया है।",
-      "image": "images/458-60-dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "20-new-delhi-patna-reserved-vande-bharat-festival-special-ex",
       "headline": "आरक्षित वंदे भारत स्पेशल नई दिल्ली से पटना तक प्रयागराज होकर चलेगी, 20 कोच की ट्रेन से त्योहारी सीजन में यात्रियों को राहत - new delhi patna reserved vande bharat festival special express train to run relief passen - Jagran",
       "summary": "",
@@ -497,9 +492,19 @@
       ],
       "sources": [
         {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQendSNUVKVWpibFhueEdSMUp6My1xMzJXc1dsNmF0R3ZNYXgwSVNqUXFFbVVIdi1HN05VdDZyVS1JVWNGajA4MFRIb1l0VkFjNzNRaGwxcUwzd3JreHFXaE5qQ0YxUEdNcXFBVW05OVNHdW44UVFCSXBhXzg1bHFhbjQ3S3J5YzVBXzRwb0ZzUEd0cmFGdHBBaWlDblh5cktlclVMVUZOSEF1ZDFGMFFBSThHNjNKY1h0LVlRME5BMnhCWFViQlJzdFFYWVU3UHBjOWF6dGNiX1EtRmNUZEVIc2xiRUJqTjBEa2hsRW9SNHMzWjZCTkJFNEhBblfSAYICQVVfeXFMUFFCMHlsUXhqZDZ5RENCd3M0RHh0SkxJd21kbVdRR2tFTkNSZ1hKVG1Qdm9NV0NsQWp1OW93c3RRUVMxT1pPZ0kzd0NfR2prVFlKTTV5OUlSSjJhaW9hV01vTTNIMXhPbWNyb2xlc2hFQ2RxR2pKZG5FSndyRTVkZXpQU1V2YjdDMzZscDdSLW8xOFptMnByc1lrRXBXYTJkLTVHbHhSTHRDZTVZMlhfX29QT1hfT2tlai1zT1Y5VzFWU3RmeW42Uy1yNGVvRWQ4VGlLQm1lWmlpQ1UtbFk3NURiNWg1WGpseXBSUGw3LVRBOElLdXRETTd1dm1ITDhjc3Jn?oc=5"
+        },
+        {
+          "outlet": "ndtv.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOenU0Y0pQcmhSeXZiUFk2SkRBZkVnbnQydUJ5RG9JcUNONHhScTFUS09ReThpZDcwSGFQMVVaVmhwVXdDWVZvQVg0TWY1N1hUSmNCQ2NNXzIyU01YTDFEWmstTjFNWXg1bS1FNGQ2S2ZVTk5FRkdGa0hrTTlIX0l3cnZDSlNvMXFRZUFJSVNJNUlYcHdkZ2RTanpaXy1WUlpGY2lTQ09Eby10UVF6WkRZY1dfVEVOQTZVa21LaG4yRkhuUTZHQUVXX3ZqUE1XZHFYZDdTazg1R1ZLUUhJaGlSOWdnYlBaT0NfS0tFMGlHOFMwc3d3TnNqOWZDWGk?oc=5"
+        },
+        {
           "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNMmdOQW5iVVI2eGttRWpjSzRkRkJ6bE5pb05pMXVsTDd3UmR0Uy11Yk9WZi03OHBLY3FzQS1ud19tR0ozYmhZVloxVWVuUnF3WTJuNnhyUTVKcmxEZDYzQWpVcmpudjRsaFp1bUtMWFJfSFVvaVI5VHp5RHViVk1NYXhnVjlDMmY3UEJlTlN1WjViZFVQaDF5bXFTY1BmZjdwQXZKQWRRcEdJLWtjaEFISGN3UFRRTmFic0RKNGVlUlNpek5tSV9UMERfV2RWcTdVdzJXZ084VE9odFNSQVkwV3VnbkJCdk8zLUJ0dEo3MVM1a3F1aXoyS2lVV3I0UUswMktOcUthRWVlbWQzSV90ZENUakFMc21fb3AtNzVycDNxc1IxZTZCeG82M1JrY1dGc05semtvcGJWSkxacUhKNkgzTXgxVm9RMWQ1ZWJkZjNXVHZaeW5n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUtNa0h1NGNIOW12bnRWUXdvOGJsY05NSnRlWTJMWWdRRkEtSTdiUXJmWW5nbTdHMG02QmdlX281MlUtQ3Z6Q2phdklJODVweVlCZUhYSE1CMG9lbDYxTTNQY09RTEVKRmJLYjdqYkNsdU1sME5PeUpUcVBqWW9RblNQSjlBNVFfLUNQUFY4UFNFYzJyS1NwTHZNRzRoUWV1VUEyTFJLa2lkR0xiQVRYeDhHRHlkeFBUUGc?oc=5"
         },
         {
           "outlet": "Jagran",
@@ -510,13 +515,72 @@
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWXJKdUxqeTZlY3I1RkNwM1AyeEtFeVBKSXJxYmMwY1FOcnE5N1h3a2d5bDhNbnY4OFQ3NGY5VWNPaDFHRi1BWVoxRVpTN0pWc0ZVcXNHNVhYbkpPZTBnWDhFWjAyWVNTOE5FYVktUWJGOVd5R0Y0b2w4UVlFYmQ5MjJzYW5xVWFCMHZOUTVtX09iS29TbVhF?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNUotb1ZGblpmMHVxWFhoRy1Cek9yRTA2Rk9MeHYyRGIzcTYxTlc3dUthVjdJVEd4UE90QTg4YkZDdzJmTWZqaVo3Y0hoVF93XzlNSm5YUVMtOW9LZnFhZWZHRWplYmNFRERHeTcxUFY3MmNQRkZuVVlLSjBucUJyd0lGUlNYQUNYbkp2eFluWTNTd1h5aGxRN2xUbk02WUktNV9Bd2NpT0ZCeUlYQ3lQVXJBYjBHOGtyQlZ3NzhRZk5rUkZpRjJTRXRtQ3RXOWtvQ24xSjNhUXpmVW5vVWhHaGJuc3d0NTZQWlNGTHJiYmlCeUFwOXNSU1lQWkI5dw?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "आरक्षित वंदे भारत स्पेशल नई दिल्ली से पटना तक प्रयागराज होकर चलेगी, 20 कोच की ट्रेन से त्योहारी सीजन में यात्रियों को राहत - new delhi patna reserved vande bharat festival special express train to run relief passen। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Amar Ujala और ndtv.in शामिल हैं।",
+      "image": "images/20-new-delhi-patna-reserved-vande-bharat-festival-special-ex.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "458-60-dainik-bhaskar",
+      "headline": "छठ पर पटना के 458 घाटों पर सुरक्षा के इंतजाम: पानी के अंदर भी होगी बैरिकेडिंग; 60 कृत्रिम तालाब भी बनेंगे, ... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-11-05",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHJKeEV6OV9NcE9pNUxqNWhVT3lVYThBaVBwZEdxNXJaeTc5WFNacjlPQkwzcW5sdjd2MnlPelN0N2k4c2hmUUw4QzJvakZ5MXl4d3psMmFMeDg5cVJydjlkZG9mOGpxY29yV1p1NW1Vc3l4aGF0bTA5UzR2QjlYZGJyUXlFZms4YURpS3RLVlVkb25PU2dtU3V2aERRVXB2V0JCVlVrOV8?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZXdnUzJ1bjgxalZrNjRibUZyWV9IeG54TjlJQjhLbXlJRXlXNGlJVktvYkVuc2d2N1hUbG14NFJUT0VvX0tIcm1mLUVScW5QLUdUckdYb2ZBdnhDT2R1VjU3WVhaeHpsNlNRYnhmSnVBUDVxMElDaUZQRk5yaG40MlFLOXhua241OW80d2pHV0lDUVBWOHU3cF9uLTdtdHpneUxlbVdJYlFpSHBKV1FGRWhUaVhIYmlyQVI2NlpETkktRlkzYUFlX1JB0gHPAUFVX3lxTFBtek9ncW1fN0pURTV1Q3BGcnNlY2R4dmlmQUo3MEp0bDVjdVFNSE5qQ0JLbXVNZ18zSXJoN2lTZm1KZGtrNXhVTFcwMXUtQWhYYTFvcXF0Z1lSbEJKVTZVeG05MWJiY1JxUVNvLVN2YzZwYThrQV92SF9oOXEtcENtcVNMRjQ3bW5qN2JlZnlKR0tobkRmam9wSGtNZnJqMExQVFZqaUtSSUVjeXVSUXFJcTlWWnRzUF85ZlZuTmxCcF90d0RjclF3STZDc0hyRQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "आरक्षित वंदे भारत स्पेशल नई दिल्ली से पटना तक प्रयागराज होकर चलेगी, 20 कोच की ट्रेन से त्योहारी सीजन में यात्रियों को राहत - new delhi patna reserved vande bharat festival special express train to run relief passen। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/20-new-delhi-patna-reserved-vande-bharat-festival-special-ex.jpg",
+      "brief": "छठ पर पटना के 458 घाटों पर सुरक्षा के इंतजाम: पानी के अंदर भी होगी बैरिकेडिंग; 60 कृत्रिम तालाब भी बनेंगे, ... इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/458-60-dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "lokmat-news-hindi",
+      "headline": "बिहार के सीएम सम्राट चौधरी ने पटना के छठ घाटों का किया निरीक्षण, भक्तों की सुरक्षा और सुविधाओं का निर्देश - Lokmat News Hindi",
+      "summary": "",
+      "date": "2026-11-05",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTJhM2ZGRkdGSG1RUUFzRGg2MWc5U3pjVS0tVFlFb193M1hDNEtfSXVxT002N2t4Ulgyb3d1Sk56NEpKbUh4TjYycVRfbFhhRWVxY081eTlrVXA1dUdncWJmdEJSaTdqUkdFdUVWd3hWdUg2VW1NeHVRbVhCRDh5b2YyRnhWZkNiQXpGVzRzdElWel9IdHl1aThCZEpHN1lMRlN1SzJCVjlIVmFPRGRscDV0R1hoZ3JQR1JQR21BSkdYbGw4Qk1CRjdoOWt3Zw?oc=5"
+        },
+        {
+          "outlet": "Lokmat News Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcFJKOExmd3gwYkNRa3lacGdsdUkzOWwwbWhEMFNoWXJQMkIxTU1jVDhIWHpyMWx3RXZUU0plNlZNQTF5aEYtZTlzUXBhUm9fTHBQZTBtN2RmcEUxdC1oZkMwWFNmamxobmEtaGUzODFydHh1X3Y1bDFpTFhDeUV5N0U3eHR2cTZpbjhhZlh1RkFFNU14NDVpTUx5bmdMcW0zRl9aUEt3a1AzUktReFlQMWhTN091WTVzZHpDTUZwdHA5bFlKZF9fSWFyVE1TNjJiRkRPN2pCWTVMX3lnZFRRanBqZ3QzUzZhWFZfNFZrY9IB9AFBVV95cUxQbjdXZTZnOXVkT0pLUEdudUJBRzVWX2NSanJrN09RV2c5clBRTEpQVXlLVWVrM2RKeTRUajdiRXpWQjRDNjJEV29QVUJkNldpTHdqREtjMDhUeHhqcG5vWlhZNE9BNGFYN0xTOUJTR2tuZWZTdHJIWXFHZHY4WG1FY2RyU3d1ZUh3TW54azliSGJKc3A1ZnlvZ0dmRjVQam0yOFQ0WmY1bUdmQnBjSUNMaENXWklSa2RpNFdtX1lvdkJCY3R3RlFDWnJTcVA0R3ExbEY0YXp1dThMVTNrNnY3ak1PdE1aTnNFVkhCZ3htMEZtSTg2?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बिहार के सीएम सम्राट चौधरी ने पटना के छठ घाटों का किया निरीक्षण, भक्तों की सुरक्षा और सुविधाओं का निर्देश। इसे Hindustan और Lokmat News Hindi ने रिपोर्ट किया है।",
+      "image": "images/lokmat-news-hindi.jpg",
       "image_kind": "placeholder"
     },
     {
@@ -549,34 +613,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Jan Suraaj petitions council chief to disqualify Independent MLCs. A politics-related story. Covered by The Times of India and India Today.",
       "image": "images/jan-suraaj-petitions-council-chief-to-disqualify-independent.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "nbcc-and-government-of-bihar-sign-mous-for-bihar-s-first-tec",
-      "headline": "NBCC and Government of Bihar Sign MoUs for Bihar’s First Tech Park and over 3,000 Flats in Patna - The Newsman of India",
-      "summary": "",
-      "date": "2026-11-04",
-      "topics": [
-        "crime",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "https://whispersinthecorridors.net/",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYko3RXUwQl9HM0dhTWs1R1E1eDFJWk9zaDBuVWtmUEFnVjZGRVZELWp4VmhYby1ySDV2SERvUlJjMzJNYTFXbE1sT3FOa2g3Q2p4VEpKOVJOcmZuc09SdXJPOGhXcGdVSGJGcmdaM0lNb1FrTVQtNm1tZnUxRjYwOEFJN2tVcFJ2U3A1QVpfUjVPNzVNMFdBZGJ5Ynd3aFNYeHhfNHFIbHZoUWNUXzRsNXdn?oc=5"
-        },
-        {
-          "outlet": "The Newsman of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3hXcE9aWDE5T011SFpkUEYyOGRIV3Zrcjh5OFpGVjM3TE12Rk9zdEU4WFloQ19oQmhoTzE4UDUtdXk2QkRDYWRSQnV0czN2WTgxamVTSlFCSUZZT3drYXJkU1k0NnZpSmtHdkJDNWdQNDhCai1TQmlTSkZKcmtxaENCd1gyUFo3WktXWWNsYzUxNFJkWmFvTmVGY0pHN1ZfX1VNWktFSG9TSXFsSU02MjU4dDUxTWZOOUtycGlVeHNPRjA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "NBCC and Government of Bihar Sign MoUs for Bihar’s First Tech Park and over 3,000 Flats in Patna. A crime-related story. Covered by https://whispersinthecorridors.net/ and The Newsman of India.",
-      "image": "images/nbcc-and-government-of-bihar-sign-mous-for-bihar-s-first-tec.jpg",
       "image_kind": "photo"
     },
     {
@@ -643,14 +679,14 @@
       ],
       "sources": [
         {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTy12OWphajJITGdad2lubnJvR18zTVdJMzRWb3M3akhvS3F5UFBlOXphZ3doWEdCWFpuMGpkYnVvaXFsY0pvdnduc21EbHZNZjVBdDJYdEo3WU1USXRtM1JuSHlibFBBanpjS1A4QTVmRjZ4MDc4SGNmeFhFOGdqOWgyWWdaZlo2Wmk3QTBKSUNnZ3JUSEV0d0o4dWt6dHdoWllVVTBsWVZ5ZW5MT0MzNndTeUZZYTRKeDZFdzRaQ3lLWlBRODRUX2lMZjNIczFhZm90SjhyZ09LQWfSAeABQVVfeXFMTVFRWjNpV0ZJamEtOFItbUQ4dzVoaWhTNFU2Q0VlMFhtRE1PQnh1Wk9DUXRIMW4wRk5HZDZSZXpXLUltWEdZdnVwUmFNcFJFb2lYT3JZVkp6M2Zac0lWMWJuSC0tbWthamFJSTZGbEN3R0tiVFprVUhpYjF6QzVPQ3dLUzJBUFNlbHFyZkF5XzR2empvU0hLZW5QNUN6ejdHMWtMS3hFYWJ1bF82QXlXX0Q4ZlJYeENuZGw0NDFvR2ZzSkRUMENwSloxNXR1dEF3dURtc0poVnhiNEhoZ0tock8?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazBwRFJkcnZidTcxLXFqcGVQcmQ1bDY0UDFUVXZUNkFKdU0xREgxYmtLRm5HX0JiV3dHdmVPZ0t0bXR4V0tCcFRwQ1VmV3FXeVhkdlBiMk1MSVd4dXB1SGkzZDRXYlViRlZkR1J3VnVWS0ZnYlVGWnFIMVE3VDF2TlNOMVlpUVdKLUlNZ0VxLU8zM045eXB2SHd2SlUwRVhxQ1BTQnF2YlVZcFlsbC12OGpCWG9zdHRtVkQ0?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTy12OWphajJITGdad2lubnJvR18zTVdJMzRWb3M3akhvS3F5UFBlOXphZ3doWEdCWFpuMGpkYnVvaXFsY0pvdnduc21EbHZNZjVBdDJYdEo3WU1USXRtM1JuSHlibFBBanpjS1A4QTVmRjZ4MDc4SGNmeFhFOGdqOWgyWWdaZlo2Wmk3QTBKSUNnZ3JUSEV0d0o4dWt6dHdoWllVVTBsWVZ5ZW5MT0MzNndTeUZZYTRKeDZFdzRaQ3lLWlBRODRUX2lMZjNIczFhZm90SjhyZ09LQWfSAeABQVVfeXFMTVFRWjNpV0ZJamEtOFItbUQ4dzVoaWhTNFU2Q0VlMFhtRE1PQnh1Wk9DUXRIMW4wRk5HZDZSZXpXLUltWEdZdnVwUmFNcFJFb2lYT3JZVkp6M2Zac0lWMWJuSC0tbWthamFJSTZGbEN3R0tiVFprVUhpYjF6QzVPQ3dLUzJBUFNlbHFyZkF5XzR2empvU0hLZW5QNUN6ejdHMWtMS3hFYWJ1bF82QXlXX0Q4ZlJYeENuZGw0NDFvR2ZzSkRUMENwSloxNXR1dEF3dURtc0poVnhiNEhoZ0tock8?oc=5"
         },
         {
           "outlet": "bhaskarhindi.com",
@@ -666,7 +702,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना मादक पदार्थ मामले में पकड़े गए दो लोगों को रकम लेकर छोड़ने के आरोप में आठ पुलिसकर्मी निलंबित। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
+      "brief": "पटना मादक पदार्थ मामले में पकड़े गए दो लोगों को रकम लेकर छोड़ने के आरोप में आठ पुलिसकर्मी निलंबित। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
       "image": "images/bhaskarhindi-com.jpg",
       "image_kind": "photo"
     },
@@ -680,20 +716,20 @@
       ],
       "sources": [
         {
-          "outlet": "Lifestyle Asia Hong Kong",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkdNMThlWk9heU9JczIyMFczbm01OGtMWmttWDFnUnhVVGJDVFB2TWoxQnhWZS1oMFc2eHJkT1BkZU5DNkY3Y1QzMmhTSURxRk9VOHlJYkl6cjlzOVFvQzlibWxyZVN4ZjNSYzgtMHRJamNIc01IbEZzZXl6NXVWbERwRnc4MGl3NmNkVm5mR21iTEYxTDFOWE9MVGFzMzdXWDRFSQ?oc=5"
-        },
-        {
           "outlet": "Travel and Leisure Asia",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1d3Y2wxbVVsUVFzQkc0ZlREclotaElmTmdnVWphd244Q1BEeHlic1RHaXFFZzg5TVU1NHBiZllVQ2Z2MnFZSVJBWGs0dTRLWjlNM2UteFJLLTd4VlNMYTRTQUppVjUydzFzcWxzelJQb1Rua0JzN2U3TlA5dFhVU1dmMkJ2MGZGSDg0UG1ERkhsOTdBSk1LY2d2SEctSjJBNlZVdlNWZFI4NXVZLXZUbmRQTU5zZ2NzTlBBSF8xLW1OQdIBxwFBVV95cUxPT0Q0WDVhQWJxQjZQczRMa0NnNm9sX3ZZTFl6M0xwZ1dSY3pLQUQ3cFdRMktLbFpPWHFGWnhEX01VVUI3a2FGYmRlbHQwekNZckZMMjVaUEVuZEFfT0NYTk1KZW54dkZQQ3p3RUhnQ2dBNGdXZllWd0F5ZmgxRThDZm9XWE1iNHRuRWc2aGRDX2NPeERhQ3MzRDNSd1A4czNUSWtUQTllREMzX3NOUVZBZmdKVGh3WF9UT2REUGp1ZlV3ZFVpUnJZ?oc=5"
+        },
+        {
+          "outlet": "Lifestyle Asia Hong Kong",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkdNMThlWk9heU9JczIyMFczbm01OGtMWmttWDFnUnhVVGJDVFB2TWoxQnhWZS1oMFc2eHJkT1BkZU5DNkY3Y1QzMmhTSURxRk9VOHlJYkl6cjlzOVFvQzlibWxyZVN4ZjNSYzgtMHRJamNIc01IbEZzZXl6NXVWbERwRnc4MGl3NmNkVm5mR21iTEYxTDFOWE9MVGFzMzdXWDRFSQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Better Than The Louvre: Why This Indian Museum Should Be On Your Bihar Itinerary. Covered by Lifestyle Asia Hong Kong and Travel and Leisure Asia.",
+      "brief": "Better Than The Louvre: Why This Indian Museum Should Be On Your Bihar Itinerary. Covered by Travel and Leisure Asia and Lifestyle Asia Hong Kong.",
       "image": "images/better-than-the-louvre-why-this-indian-museum-should-be-on-y.jpg",
       "image_kind": "photo"
     },
