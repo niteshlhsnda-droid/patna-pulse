@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05 17:54 UTC",
-  "generated_at_ist": "05 Nov 2026, 11:24 PM IST",
-  "story_count": 52,
+  "generated_at": "2026-11-05 18:54 UTC",
+  "generated_at_ist": "06 Nov 2026, 12:24 AM IST",
+  "story_count": 51,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -46,6 +46,16 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVFGWnU3WGdVOFlrNUstSWJ6TWQ2bkh0bFE4X3g5YzlpWWhhWEkyX0xWVXRneFc5OUdUaXpYQ1E1cDB6R29wb043dzBlaWNiMzZJVjNqQ2QycTI5Z1JiX1BneHRxekh6dko3d1NsZnVWNHJLbVZSdnRwU01WSk91bXNpSmprNmtUalBUTmtzd29iTHR6ZEMzb3pEcHpTTzFCamFPTw?oc=5"
         },
         {
+          "outlet": "BigMint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1NzUjB3QmNGUGE4T0xYakkzcVNQN2tTcG9CbjZBNkRaREJkbnJxcE1pQU5IbTZnUFlkeXVrQjFyd0NNMjJXVTk2cXlBQWtYYnRDSDMwVUoyLTcxclplTTl6b0ppcXAzTGdicVZwb2hUOUx4ZkJlRnFVb19PeTlnX3R2ZkwxMFlPbDlHRWYtLUt5bnVnZmRMWFMwRDhpWDNScFdRT1FaR0dWREZZeUxfaWJYS2FmSlk?oc=5"
+        },
+        {
+          "outlet": "Machine Maker",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3hxNkFaSmFabXBFUzZka3FNaHFqV2hWWDlWRFVOZ3pWdVhMSWNvU1B5OXJDQTQ4QjRnZXdVZ3VUSnhmRVc0Tm5vR1g2XzVjS21jX2VCMFhtOHh2VVBHN2VPeFUybEpMNnVMaVc3QXlLcVBuNkhuZTZGVTY0d0FScGh3bTlZLVJxZXdtRFlINjZhckJnWFBBWC04bHVTU0xIcmFWWW5zdVRPalJaWUJZazRWMA?oc=5"
+        },
+        {
           "outlet": "Manufacturing Today India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1VLNDNUckFkeGhNWU5rcmF1V0Y5Vnl2X0QxaDRRYUlZRkVGMVlSUWtGOHdYYUJDcUV0emZOaDFkaTdnWWlrdUVjQ1NZUWxiY2VhODk3VHZsRlQySnlXcjE5VXJCb3d0eDBWRXd0bjczN3NZMkhwQ0FvQzNCdjJxanJQQVJKSzliWUo3b0hDZDdLQXYzVjJUSVVfbXhzMVRYUUFzWU1WaVFlZEs1RlZ2N1Zvbk5MY0NR?oc=5"
@@ -59,17 +69,12 @@
           "outlet": "SMEStreet",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2JWWWNoZ2RNaTIzNlFqNjBvVDk1MjNiMDJZTnFYTXota1dpS1pKT3hWRmdxcjltWk4zemVBaF9KVTk4Y3pIWjJxRGN5SVkwZUNLMGNsMzBUMGNEQlZweXY3QzBxZ0RRRDNwdThnLUxsSTVpTVBFaUxqZmdrVnlOMkJqZVJoeEx3akdsUVRMSXpDTWsxOHdQY25Fbkt0RVHSAZ8BQVVfeXFMTlNiVlljaGdkTWkyMzZRajYwb1Q5NTIzYjAyWU5xWE16LWtXaUtaSk94VkZncXI5bVpOM3plQWhfSlU5OGN6SFoycURjeUlZMGVDSzBjbDMwVDBjREJWcHl2N0MwcWdEUUQzcHU4Zy1MbEk1aU1QRWlMamZna1Z5TjJCamVSaHhMd2pHbFFUTEl6Q01rMTh3UGNuRW5LdEVR?oc=5"
-        },
-        {
-          "outlet": "Machine Maker",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3hxNkFaSmFabXBFUzZka3FNaHFqV2hWWDlWRFVOZ3pWdVhMSWNvU1B5OXJDQTQ4QjRnZXdVZ3VUSnhmRVc0Tm5vR1g2XzVjS21jX2VCMFhtOHh2VVBHN2VPeFUybEpMNnVMaVc3QXlLcVBuNkhuZTZGVTY0d0FScGh3bTlZLVJxZXdtRFlINjZhckJnWFBBWC04bHVTU0xIcmFWWW5zdVRPalJaWUJZazRWMA?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Shree Cement expands Bangur Concrete network with 60 m³/hour Patna plant. Covered by 5 outlets, including Construction Week India and Manufacturing Today India.",
+      "brief": "Shree Cement expands Bangur Concrete network with 60 m³/hour Patna plant. Covered by 6 outlets, including Construction Week India and BigMint.",
       "image": "images/shree-cement-expands-bangur-concrete-network-with-60-m-hour-.jpg",
       "image_kind": "photo"
     },
@@ -226,14 +231,14 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2pvNGN3VHJoOGZFWHFpUnpxa0JyQU9lLWNjVGh3Vkt0N2ljTVZIajdySkxrcERaTGFNTll0bUtYQmNKcGNFWVBVUnl4U3pQc0llcURKaXpsbXVwQ2pyb2NZaktxWURkVHY2dUFranNBYXkzNEdWemFjNVRrdnpYNmJSOTB2emdDSnlNMHZVZXZuRHhFcE1meWRzdjl6Yk4xT05Xcy1oa3NQUTlIU1JsZURvV0FtMmNJ?oc=5"
         },
         {
-          "outlet": "BigInfo.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMm1OVlh4LTVqVDV2WEprNnIyeURRMXBvNVUyeERSWk5MSC1XTk80WEVwMkwwRVRrWUkzVWM3Z3ZtM2hmbnFFNnNMaG5UaGJGTFRhUlZteElhai1uZURJLXI3VGdYOGlqbURRQmxJYWdwdkhwYVFQaWs4Z2JGajVkVDlTQmhEcEhqZkpPVkY1VUZXQQ?oc=5"
-        },
-        {
           "outlet": "Equitypandit",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzJPbi1ZYkNWZWdEeXQ4VkRoMVRyTjFQTmRsR0lTU29hR1gxcHhMUHJ1OUJNaGhjc3dtZDNZOEtHZGlCS1NBdjJjTTcybU1ycHVJSjFFeHVOZFVmb0NmRjFJX0xRWEZUY0tfWjY3Y0dNWkQyTGowdElWQ3pIVzl0TmxrME5uZ2x4M0R2eQ?oc=5"
+        },
+        {
+          "outlet": "BigInfo.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMm1OVlh4LTVqVDV2WEprNnIyeURRMXBvNVUyeERSWk5MSC1XTk80WEVwMkwwRVRrWUkzVWM3Z3ZtM2hmbnFFNnNMaG5UaGJGTFRhUlZteElhai1uZURJLXI3VGdYOGlqbURRQmxJYWdwdkhwYVFQaWs4Z2JGajVkVDlTQmhEcEhqZkpPVkY1VUZXQQ?oc=5"
         },
         {
           "outlet": "Multibagg AI",
@@ -288,33 +293,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Northern Railway Announces Three Festival Special Trains Between Delhi And Bihar. A civic-infrastructure story. Covered by Sarkaritel.com and ETV Bharat.",
       "image": "images/northern-railway-announces-three-festival-special-trains-bet.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-cm-samrat-choudhary-inspects-patna-chhath-ghats-direct",
-      "headline": "Bihar CM Samrat Choudhary inspects Patna Chhath ghats, directs officials to ensure safety, cleanliness and facilities for devotees - ANI News",
-      "summary": "",
-      "date": "2026-11-05",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQzJkWk5mTEhWN2ZXOVhMX2ZJcXZvck1PWVNlYXBkek9WV3JITWhUcXdIa0YwVmQ2ckRacmpEUXBhUVFSSmxRMExnRXZEejFQQ2YxUVV5eS1DUHVSVEF1eW92amlNdkQtUE5MdEZLTHZGWFpOT2tZalpHbmZtWFlqN0tmeExWS0FsWWFmcW9KaDltaW0zWGxXaXhTalE0aUdWV2paU2IySDVWMkxidkNiaWVsZlZDNUhDUnRQNGxadFdrVG5Ba2t1N3lsM2ljMzFrbW9GRzdmdGVNQTF5TDlrZ3NxeVZpdkp1OFpueDBmcE9jVkNhSl9OVHVpdTEydXZnZUtpRWdJSnBRQ0FnaEdkYXlUanRQaElTU2tDXw?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWwxVGJES2FzejliYnpQSWFWTElGcTJvUWJZRmEzcG9sNi0wS2VVcGdtNjZUTy1rN0c4MWVkV3FVNlNQV1lxdzBSd1ZQb2pPd1V5QWdyMnkya3RCR0xyNVJ5WVFtd3dTSFFJY05GemhqS1RfaGFsa1V5ZFgxYUFxTzNoRV82ajVwVHRJbFo4MkNXZEJnSkE4QWlRRUpBRW1nZV9yag?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar CM Samrat Choudhary inspects Patna Chhath ghats, directs officials to ensure safety, cleanliness and facilities for devotees. Covered by ANI News and The News Mill.",
-      "image": "images/bihar-cm-samrat-choudhary-inspects-patna-chhath-ghats-direct.jpg",
       "image_kind": "photo"
     },
     {
@@ -406,14 +384,14 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWVydk5RY2JJV3V1bkhvSmFJbDhzS2c5UGNyOEpVU3Jnd1BXMkhram5wVVNFQ0s0Y3RGWFdOQjcyQjJOUWlkOGtGY2pQQkFoWlJnMGJNVnUwSFMxcFVPRkV2blMyS0ptN05xa3o2cEhXV3RnY0s3Y0dVajZURmdQNFo0cGtRY2VCNnJPMnEzejB2UGRBU1pzdUVxN1MzdG5uZDRsZ2RjTlN6MG9XYWNMeTVGNVF4U0dFT3pWSmJXUFZqZGtuQVczVTgyOErSAdIBQVVfeXFMUGplMWtlRDQtRkZXNjVZbUFrdTRfS2w4ZnV2Z2FmdVhMbmlPOHZEZ0FRdURveXQ0cm1PblZpN2RRLUh0NXFkRWpoUHhVYXlIeXBHcHZwZkpQY0FxdVBnVTk0RF9CR3Z5S0h2X2ZNVVhyQ1MwZjVIZ1BrdmhqS1BNdXhhOHpmRjFTWnFHUkpJbERxNFEzOVdTTGMta2k2MWFmZzljSmxMX2h2TFpBVWFJVVB5NGtDZlRjWnhjOVVRaW93SmFZSWVWaVo2SktyaVRWS1lR?oc=5"
         },
         {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWXB1N0M3aG9LeU5pTzFNTjd2R080b1dXRUtJT2lUbUQ0ZXdTQzNxSWk0dFY5anFkM2x1UkYwb3hBeXdMRVg3VzZuV09kVExxUVhIanBETkhMNExuNUtmSmlobFFDT2pnWXZDX0s2a0dLZDU1NUtUTWl6ZlFYZ2xKWkVTWmpCaEJMeld6cThzcFBGU05OWE43Y1JXX2FScm90UHBPWlRnR1ViVnFGWTFFQXA1V1RxT2J1OEh3Mm9veERUd2RaX3Q3QnYxTHV6dWJsUkFJRTY2Q1h4eE9IeVhOd9IB5gFBVV95cUxNNjQ3bjZKZDBMWkN5RXZZWGpkMUpqbTJqUUFCQmktQ2VOSlBIVmM3X1JuOElmN25vc2RkTlRTUmRmQjZsaFo5ZUNZaFpSaU9nbWhBTVEzY2hsQkQtdFVKZDBDbjJDV0ViZ3V1VEhBS2Z2MktpV1RRd0FCUHpTV2F2Ujh5NmpXQTJpSWFNU0N5SHV0Ulp1SVdXRHlpTUk5a1JUM014dzNxcU9OeDZEVkNHRHBBXzI1cldQZzk4cWozcnp2d1J5NnNTbThlR182REJjQmJJNVZ1c2czVHJoWGVibnpFZXJhQQ?oc=5"
-        },
-        {
           "outlet": "Cobrapost",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTM5cHl6VTdNZkJpa3ZlTG1Ba2huWnkteERTcllWZEJaNW1IQmlJcXZaUi0tZ1RrbkJ4akkxOUg3b2dWalNUUkp0WG1lUFlHRVdHdTJfYk5leHNJMkNDZHB1aURMQTEzNk50V1VxOGVRQ3g1emhBbXVnbmRXZ0x2TzQ5NHQ5UWNIOWFZclFEMHBHUEE5VFJGN25GWnY3WlZmdlE?oc=5"
+        },
+        {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWXB1N0M3aG9LeU5pTzFNTjd2R080b1dXRUtJT2lUbUQ0ZXdTQzNxSWk0dFY5anFkM2x1UkYwb3hBeXdMRVg3VzZuV09kVExxUVhIanBETkhMNExuNUtmSmlobFFDT2pnWXZDX0s2a0dLZDU1NUtUTWl6ZlFYZ2xKWkVTWmpCaEJMeld6cThzcFBGU05OWE43Y1JXX2FScm90UHBPWlRnR1ViVnFGWTFFQXA1V1RxT2J1OEh3Mm9veERUd2RaX3Q3QnYxTHV6dWJsUkFJRTY2Q1h4eE9IeVhOd9IB5gFBVV95cUxNNjQ3bjZKZDBMWkN5RXZZWGpkMUpqbTJqUUFCQmktQ2VOSlBIVmM3X1JuOElmN25vc2RkTlRTUmRmQjZsaFo5ZUNZaFpSaU9nbWhBTVEzY2hsQkQtdFVKZDBDbjJDV0ViZ3V1VEhBS2Z2MktpV1RRd0FCUHpTV2F2Ujh5NmpXQTJpSWFNU0N5SHV0Ulp1SVdXRHlpTUk5a1JUM014dzNxcU9OeDZEVkNHRHBBXzI1cldQZzk4cWozcnp2d1J5NnNTbThlR182REJjQmJJNVZ1c2czVHJoWGVibnpFZXJhQQ?oc=5"
         },
         {
           "outlet": "The Indian Express",
@@ -502,25 +480,20 @@
       ],
       "sources": [
         {
-          "outlet": "Machine Maker",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGdKLVJ4UURvYXhCaTNreXJnMlV4OURtME9wUk1hMVpCTWNxTFU5Z2ZJaEgxUUxPbW9CYU5WRlZZVjdIZF9HSkhUZ0lURE1oTzIwSjJZNDl6dDdWN01zSkM5SzBYUTJ1YVpjbnlCQWlQd2lvLTJCdUFUdUZuMHFvbXNQSXcxd1JudjZyd2NXa3MwcnB5a1ZmNjRCbUdWRVI2dUE0TnFLcER0TmhLaThoUnB4cTd5blhnZF9ZSHFrcVFwbGNUeW5oYQ?oc=5"
-        },
-        {
           "outlet": "Autocar Professional",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHh3ZEtMWEZiNHB5YVg4YjNwWlBqUjFObk8zdkRUTEN3bVV1UmxXQWVtcFFULXF0dEVZTWRxSlF3SVp4ejkwNDhibllnX3RkejNsSHVBWFhjcktFYXVRRmJBM0dzaktCM3lKVElQZXZNYVlXblotcHhqcU9KRzJsSDRsaWFtTjdFMGpXTUh6YldUeUo1U1lnTkhJTEZsaVZXTzNlT3pTRGo4YklOWXfSAbYBQVVfeXFMUFdUSXlqSl93WjQxZDg4T3RoLTZET0xXRUtwR3hzVU1pU3ctaEh1STJ3MWxIWWFITElrRnRWaVl6V29uVnpTOXdVZGlvS004YTRUYVVwYVlqd01tNHFRS09DWUF6a2tSZU9vRG9HV0ZNUzdwclRJVkNJeDB5dFlTUm1UQWk5R0taU0t2MVVYZTc3Y3BaYVB4c3RTVzNwUkZHTVQ2QkdnaVlqd092dFV6c2g2N2dRakE?oc=5"
         },
         {
-          "outlet": "Motown India",
+          "outlet": "Machine Maker",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFlZSjdQdmpzZE9ibzBwWmdnaGF6SmlFM0U3aEtGUElUWmFYRlFpam9idlgyNmd0U1BXNU9QT290a19CUTZRN1FyVFFrOGJMV2U4X0FpcDc2WHMxb2c1YlY4WHFDTUxnVnBnMEpyQzBOMVRBek95UkNrQVBFdnpoNTVjbnRkLTBINWhKRDNYalc3d3Q0R201TGJsS0pyb2diT1JNNUFDWExQNmJmUlhZbVc2QVRCdUZnM3NEX1ZKOWVIYkJSUlNZcE04Mi15RmZmYWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGdKLVJ4UURvYXhCaTNreXJnMlV4OURtME9wUk1hMVpCTWNxTFU5Z2ZJaEgxUUxPbW9CYU5WRlZZVjdIZF9HSkhUZ0lURE1oTzIwSjJZNDl6dDdWN01zSkM5SzBYUTJ1YVpjbnlCQWlQd2lvLTJCdUFUdUZuMHFvbXNQSXcxd1JudjZyd2NXa3MwcnB5a1ZmNjRCbUdWRVI2dUE0TnFLcER0TmhLaThoUnB4cTd5blhnZF9ZSHFrcVFwbGNUeW5oYQ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar Police Places Order for 1,100 Revolt BlazeX Electric Motorcycles for Patrolling Operations. A crime-related story. Covered by 3 outlets, including Machine Maker and Autocar Professional.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar Police Places Order for 1,100 Revolt BlazeX Electric Motorcycles for Patrolling Operations. A crime-related story. Covered by Autocar Professional and Machine Maker.",
       "image": "images/bihar-police-places-order-for-1-100-revolt-blazex-electric-m.jpg",
       "image_kind": "photo"
     },
