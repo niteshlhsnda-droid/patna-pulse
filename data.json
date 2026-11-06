@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-11-06 02:54 UTC",
-  "generated_at_ist": "06 Nov 2026, 08:24 AM IST",
+  "generated_at": "2026-11-06 03:54 UTC",
+  "generated_at_ist": "06 Nov 2026, 09:24 AM IST",
   "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "sho-dainik-bhaskar",
-      "headline": "पुलिस और अपराधियों के बीच मुठभेड़: मनेर SHO को हाथ में लगी गोली; पुलिस की जवाबी कार्रवाई में एक अपराधी घायल - Dainik Bhaskar",
+      "id": "three-accused-killed-in-police-encounter-in-bihar-s-danapur-",
+      "headline": "Three accused killed in police encounter in Bihar’s Danapur; SHO injured - First India",
+      "summary": "",
+      "date": "2026-11-06",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVEYtZHdDbVNEMTV0ckhvOUdtbE5tSDJvSG52am5GZm9UenlvMTZhdE1RWWdYSGZsd2ZLdVp1dE9URGFpQnhrU3FmZDZndm82Qi1FRS1oMXhHN3BvZjBUWDRZYno3T1ZzdEhBUlVMcWQybXA0cDJJbmRaQlVnMTBheVFHdnVxSmROZFlrOUQ3WERacGo2d3c?oc=5"
+        },
+        {
+          "outlet": "First India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDFwenltNWdlVWJFTVo0OWJFVmg0Mkl2Mkp1VG1HQ1BsZy1vX0pGZHZxTmMyNEFsNVlxNnotWDlzamNXaGpxOG5NQS1fVHo1RkU5aDcxeWV2eXpoTm92SW0xUXVqQmNyVWNRdG9oYklzTDB6cnRMdzZtZFRaRjhiVU1MTWRVNi1LZFpKdGVVQXRqUUpubW5PWm96bFlJVEtlRmNoZlZjZER6RkZ0TkV2MUdwckhYTGF6?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Three accused killed in police encounter in Bihar’s Danapur; SHO injured. A crime-related story. Covered by The News Mill and First India.",
+      "image": "images/three-accused-killed-in-police-encounter-in-bihar-s-danapur-.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "fs-dainik-bhaskar",
+      "headline": "मनेर में मुठभेड़ में तीन अपराधियों की मौत: थाना प्रभारी के बाएं हाथ में लगी गोली; शेरपुर गंगा नदी के पास FS... - Dainik Bhaskar",
       "summary": "",
       "date": "2026-11-06",
       "topics": [
@@ -14,22 +41,27 @@
       ],
       "sources": [
         {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQjRXQV94SUpPTnF5X1U2TDNqczM3XzJ2X2FmSjZUUzVmbkE2aWp4QTUwUTJpUUxTR25nSjRlWVU0Y3MwMTJTeFhNeU43Mk0tQnFnSUk0UGhwVmRWQnZQVXJVSXplb09UZkE5SmJ2cEQ5bU84XzJqa2JsVHh5Y3R1S0l2cXdpSGRCbk13YUZoc3B0a0hwenhqRklqZXB2OHF3SXV0bExFR1dvZUk5WEMxMEVaQkVrekExU2dKTzRnLU4zNE9naG01Um5wallCaF9tcFJ30gHYAUFVX3lxTE9nNjIycGJYbXZhNVNTaGxJUG9QVUhQaDRkdUFreWpwTUdmai1vTHFSX0lBMFBlb0hsd2RVaThnOWMyd0VjMEJyWmNMNXcwMGgxci0wanZfbHUzX1RlYlV0RTVtUXBWN21rQ2l5WklqRVE4dFFDQ3BfVDRNMTctcEd0QWZ2ZmhBU0pKTTZKYlk4SkU3SUNEdldMWTBhQmpTR2VkTEJGcjJJa2c4ZE5yMlZET0l4SHZldmZhTWh0NmxKcUp6VEZuS1FSUkhKbzFib1l3ZEd3bHp3eA?oc=5"
+        },
+        {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVRaTE1lMFhsNUhlUnd6cHN6M0JmUy1mNlpOMlEyN1F6ZUVWelhyMlYwbkdiaXMxSkRpWHBoUjdCbmlZckZ3bWZzbWNsempkX3dGZEJWNXhCWXE3cVlFMlRtWDJYZGhZUUdVVlYwbGI0dENLdUZWRlpuRUJoR2c4Q09TNzF2V2UtN0xfamNVLVlOekVIOFFBa0h3QW04YkstalFrT2tGVnUwLUQ3MjlDNDBRYktfcnVPWWhZVGZqTkzSAcYBQVVfeXFMTmkwQWk4QlNxZW45aldDS2Rtdk4xa3VJZlhQVHJBb19lUnJIeWhjNDBHVlNiY1h2MDlSRTJKa0hfLXc2SlVXT2NTclFYY0dRZkJQS1c3dVhzV3h6d0VsdTBRQTdKR0FJeGVScXY0YUFSUnlmZ1hmbTROOW83YWdxX1dtaXV5MElySHB5eDRBS0kzc3B2NnUyWi1rSEhaVnRRZHlPSHVEOFZBTVlzdkNFUTNQamU5dXFPNkdCUXpTWGxHTm5lRXBn?oc=5"
         },
         {
-          "outlet": "Hindustan",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQjRXQV94SUpPTnF5X1U2TDNqczM3XzJ2X2FmSjZUUzVmbkE2aWp4QTUwUTJpUUxTR25nSjRlWVU0Y3MwMTJTeFhNeU43Mk0tQnFnSUk0UGhwVmRWQnZQVXJVSXplb09UZkE5SmJ2cEQ5bU84XzJqa2JsVHh5Y3R1S0l2cXdpSGRCbk13YUZoc3B0a0hwenhqRklqZXB2OHF3SXV0bExFR1dvZUk5WEMxMEVaQkVrekExU2dKTzRnLU4zNE9naG01Um5wallCaF9tcFJ30gHYAUFVX3lxTE9nNjIycGJYbXZhNVNTaGxJUG9QVUhQaDRkdUFreWpwTUdmai1vTHFSX0lBMFBlb0hsd2RVaThnOWMyd0VjMEJyWmNMNXcwMGgxci0wanZfbHUzX1RlYlV0RTVtUXBWN21rQ2l5WklqRVE4dFFDQ3BfVDRNMTctcEd0QWZ2ZmhBU0pKTTZKYlk4SkU3SUNEdldMWTBhQmpTR2VkTEJGcjJJa2c4ZE5yMlZET0l4SHZldmZhTWh0NmxKcUp6VEZuS1FSUkhKbzFib1l3ZEd3bHp3eA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMm13SzFnYUx1SFhXVDRURG1kM1h6b0J2ZVNvcEdQNHFOU3poSEJzT0xtODNhLWZJU29RQ0ZRc1Q3cHl3RmxNMWR4ZWJ1dXphb05GNnh6UXZpSHhFUDNwanJQY0pkam4xWkQwOVhPNVFSeWpMcE5LSTZYRldhQmg1TmcyN3VUekRmSzQ4M2U2ZC0yRm95RjlfRW52Y0IwbFZ6bnhLMnpKTEZUVmhxXzhCR0wwTFk5bERQQnJSYmhnU0ljZHlBTUVkOVJVM1J4ZzjSAdQBQVVfeXFMUHFYYjE1ckpZb3JJeGJoUGNGN3JXLVBaWEhLVl9YTXRpdEotVXdyelFZNkJnaDJKYjBoZy0yeWFEUUp3U1BRT3lQUndScjlSOTFJZUVwN3lvWW5BMDltZmNENUptMUVxYXpRWEtidG1oRXM2RFBiVXZ6UExTODh1dmwzVFpwMmNaaWlSeWxhWGsxdW5qeU11WURCcGFCUmZWRVhUTU9TbFpvc1dKMm9ET0RWTFJialVoTmJ1ZzNKejhCRGVldGdQUFJScmE2eU4yQ1YzUEc?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पुलिस और अपराधियों के बीच मुठभेड़: मनेर SHO को हाथ में लगी गोली; पुलिस की जवाबी कार्रवाई में एक अपराधी घायल। इसे Dainik Bhaskar और Hindustan ने रिपोर्ट किया है।",
-      "image": "images/sho-dainik-bhaskar.jpg",
-      "image_kind": "placeholder"
+      "brief": "मनेर में मुठभेड़ में तीन अपराधियों की मौत: थाना प्रभारी के बाएं हाथ में लगी गोली; शेरपुर गंगा नदी के पास FS... इसे Hindustan और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/fs-dainik-bhaskar.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "lawyer-can-t-sue-client-for-defamation-for-ending-profession",
@@ -91,18 +123,23 @@
           "outlet": "Machine Maker",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3hxNkFaSmFabXBFUzZka3FNaHFqV2hWWDlWRFVOZ3pWdVhMSWNvU1B5OXJDQTQ4QjRnZXdVZ3VUSnhmRVc0Tm5vR1g2XzVjS21jX2VCMFhtOHh2VVBHN2VPeFUybEpMNnVMaVc3QXlLcVBuNkhuZTZGVTY0d0FScGh3bTlZLVJxZXdtRFlINjZhckJnWFBBWC04bHVTU0xIcmFWWW5zdVRPalJaWUJZazRWMA?oc=5"
+        },
+        {
+          "outlet": "SMEStreet",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2JWWWNoZ2RNaTIzNlFqNjBvVDk1MjNiMDJZTnFYTXota1dpS1pKT3hWRmdxcjltWk4zemVBaF9KVTk4Y3pIWjJxRGN5SVkwZUNLMGNsMzBUMGNEQlZweXY3QzBxZ0RRRDNwdThnLUxsSTVpTVBFaUxqZmdrVnlOMkJqZVJoeEx3akdsUVRMSXpDTWsxOHdQY25Fbkt0RVHSAZ8BQVVfeXFMTlNiVlljaGdkTWkyMzZRajYwb1Q5NTIzYjAyWU5xWE16LWtXaUtaSk94VkZncXI5bVpOM3plQWhfSlU5OGN6SFoycURjeUlZMGVDSzBjbDMwVDBjREJWcHl2N0MwcWdEUUQzcHU4Zy1MbEk1aU1QRWlMamZna1Z5TjJCamVSaHhMd2pHbFFUTEl6Q01rMTh3UGNuRW5LdEVR?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Shree Cement expands Bangur Concrete network with 60 m³/hour Patna plant. Covered by 5 outlets, including Construction Week India and BigMint.",
+      "brief": "Shree Cement expands Bangur Concrete network with 60 m³/hour Patna plant. Covered by 6 outlets, including Construction Week India and BigMint.",
       "image": "images/shree-cement-expands-bangur-concrete-network-with-60-m-hour-.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "railways-to-run-over-100-pairs-of-special-trains-to-clear-fe",
-      "headline": "Railways to run over 100 pairs of special trains to clear festive rush - The Times of India",
+      "id": "pmc-installs-cctv-cameras-at-sensitive-ghats-and-ponds-light",
+      "headline": "PMC installs CCTV cameras at sensitive ghats and ponds, lights up city for Chhath - The Times of India",
       "summary": "",
       "date": "2026-11-05",
       "topics": [
@@ -132,19 +169,34 @@
         {
           "outlet": "The Times of India",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFRsTW15c0dUZ2R0eGFyTjFLTXlaRUtfV3VmNVBMMGdEbFZRVGQtSURkaWF1amhfVjVzMGhaMmNoQjhzRlZaZlgxaGZ6WnMtclRPVmw3ZTRKZG1kOExMMWprb2dycmlfVFM5aHFncXVqTDZnbWNPdHBJb1RMMFU0SWo1SUFCbmE3QU4tSG9lREY2V0Y3WHA3Vl9aNThQUVdTUEdtTmJxVzVhUzMtMS14VHk4VDBaZ2draXBNaVFB0gHDAUFVX3lxTE1LWDJ5SFh5RS1CNF94alFqTkV2a2xaVmU4NnFBWVNUN3RaMlNpTVZzeFF2N29PYy0xYk5kSGg2azlGcWY4aDVia1dvSHlmLUpfWngzTVRzdmhKTGVoOFhOSERBcnNJc1FIbDZuYVZrZ1pfdXZ4UGZlY1R2NHRRX3UtaTBLdXFyUk5RUXNvZkFnOUlCZ21aOEJXZ3JleU1vdXo5M2wycTVGNDkzNlBKZkxpd080em5JUFo3YVhfbGstcVduVQ?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPYVlFaGRBWGJhWExEZFRMZVZRaGwyMjMxQmozend6eHVIa3JkaUE4a3A3R3lKTW9vOEZQbWhTbW9WTkgwOW85TDRJbXVWMWM3Ymx0NlBod2JLQUFVSUtSMFQxLVdEVGNXNUtjQUVJaF8zVTVRSXNxOTFFUnR5UHdvcUNZeGtyRVhBVHhhMzhvQkJFNUtBRk52YkRWdzNBLXpyZHlXdUpZU1dLem5RNWl0bjdWRUF5Rk53VG5rQURhaDFyU01YRmI4MVR1N0Z1emlHanVTUHdOUFdtQnVFVzNjbjNLUTZ3R25ZcWRadUZWYm1BRjg0cEdVUXBBbDNBYWhmMG83eWZvSkVnUmVrODA0cGFQTXdiQkx2c09PX21ZU2lCV0J6RGZsUGVyNi3SAeIBQVVfeXFMTmZwaWRLOUxTN3NzTmoxQmJjaFpiSXNoTTNqRTI0NFBCd1FCdkVldXlpRWR4aFY1WnNYSm1QNnVWWW9URFZVQmkySDJEMXpzQ0l0WXBldEdFTV8xaUFGS21SYnphY3NiLWhpdWFRMVVGSk9nWWd4dmZweEVsSThDMVRiS2M1VzZLVmFGVE9hRDBMbGJ6UUdjNnNua2t2RG55dVp4N2FWNjFmSHFPTXV4bjFQYWUwbk1Jc0gyMkxzcldWRjNFY1J5c0Y2Tl9hdURicHBwVGx1ZUxOOGVuTlJxUXF1Zw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONl93ZVlaMUNvZ0k0U2dTR2VVSXIxRzNNRFdKZnRPZFZ5SDFLUmlzWGd4QzNHQnZWclNfMFh1R0RqX3JYdGVZM3VpQVliSGw4SEJlVnRCdnEzZDFpeC1FREpqazRYb2szR3JDbm9mRWhxTUJ3NGZFc3pMdndXVnA3VVd4MDlrLW1KbnlWUG03ZG9wbnYyTXZQa0lhLVJKbm5IaGRwVVYzbndMV0pvU1RFTmhBYklrQ1d5ZzJ2blJxckdfQm1MX1FRTlFDMTRGdURKUkQ2LWhkbW5KTU3SAeABQVVfeXFMUEdURUN1blNfUk42SWlpVnRqT05rcjJjM1RqQVdVM1pPTHV1NjFNQUhTd1lfUW1WamQwTHdHcEJtU1RlRHFodkQ4ZTFLNFI5TmVXM3JRLWg4QzFDVGh2b2JzYkdSZzJGZ05jQVNnN0VRNlBqcXpkbmNpR1pzUU5mWkMwUzdfNnhZUUhOTnozNmdmVUpZa3Q4RVQ0QmwzS2RVMTRVYTVhTlowUXVKekdMRElBRzNQazllUW1keXNFTzY5am9WcE5PR1VCMlBfbzV5UE03M3prLUlSMGpIalU0RTY?oc=5"
         },
         {
           "outlet": "ET Infra",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGFmeGFYZWZmT0RWQ00wYXBobU15dnpvOUl1cU81NkdGRVF0RjFhUmZCN3V0WTdSQjVHaGp1NWIyVmNpQ2xwQzRzc1hTNDdOZEtjbzZYNzVTamZSaHV5TjN1bF8yYldsdUNnWnZaSEpkY2l6aFFBODZxUERGRUt0aWNVN282SHBQLVhlYk0zbkFXZUJqUzgyNDU3bkNyZzM0REZiSGZrTzVERkN5OUs3bGlxU0VyaWk4R0YwYWRzNlLSAcYBQVVfeXFMUGNHd0x1V2o0TnQwYnJKRXJ2WVdEVENuajVIV0FXTmRRVVd5NWdpU21DMjRhUVB4V0pGSlUwM05hQlAtVE1vRDdFSURUeGxicmVFZEFDbnNicHV5aVkydWg5cWJMLUNoSzZRbEJQSGlib3lfZUpLOENDejVrc3drRVE5anlySVNxdmZNQUpYd0pobDU4TXNEY1U4YjRCbjdoeGYzRkxRUTVGVTZRcTgyaDB0aWZsN0JpVkVFMkoxTFR3YzNLbHB3?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM1ZUQWhfTkxaOFg1MUZyb1BzZU52UHF6NV80WkpGcG0yTDNmWjFNWUFKMnMyTGpRTzBvRHdXc0lfWVA5SEZSclRoOUlMRXhWQTVSWGZ2WS02eVlPa3dTTUVMaENvVHF3N3YwaVI3TlRGZzRBWlNXQ3RoenEyRlYxN0lyQ0duY29PZ0xOQzJMQjh4YUNhTEp5eHRuMWxqYmVRbnp5WkpQclJtcUNLZEFkVXdrMHE1b3FTZjJfOGUxUmdIOWE3NndUd29oMGJpcTJld1pmUGpPZm0xYmlTdFFvX01BbmZtd3BT0gHuAUFVX3lxTE1kVXNqekpfOVBxelZLS1FoUXNRV3VBQWczNHJVOTk2c0s5LUNURmFtekNwN3BMa09GRUxVczFLZmlHR0lsbUZPdjB1SUVGcUotLUZsRFFXeTFIb0dwRFp2OHZmYjVmOEhkZEVJcEhLSlVuS2F5RzZhWEtNU2NMNVB1Y2R2cDA1OS1KUS1HQjZxU2JyN2tEVU9JSDZHNVA0cndURkZMcG1FRzBWdWY0bC03Sm5sZ0xhU183dzkta3gzMjlpX1ZCYmtrUlE4MjNVZlNJRzJ6X0NhVTZmMEV4aVJEc3RvV0w1Qlo5WlAxcGc?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Railways to run over 100 pairs of special trains to clear festive rush. A civic-infrastructure story. Covered by The Times of India and ET Infra.",
-      "image": "images/railways-to-run-over-100-pairs-of-special-trains-to-clear-fe.jpg",
+      "brief": "PMC installs CCTV cameras at sensitive ghats and ponds, lights up city for Chhath. A civic-infrastructure story. Covered by The Times of India and ET Infra.",
+      "image": "images/pmc-installs-cctv-cameras-at-sensitive-ghats-and-ponds-light.jpg",
       "image_kind": "photo"
     },
     {
@@ -172,33 +224,6 @@
       "genuineness_label": "Corroborated",
       "brief": "State archives trains 400 officials in record management. A civic-infrastructure story. Covered by The Times of India and Urban Acres.",
       "image": "images/state-archives-trains-400-officials-in-record-management-the.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "4k-police-personnel-deployed-across-city-for-festive-securit",
-      "headline": "4k police personnel deployed across city for festive security - The Times of India",
-      "summary": "",
-      "date": "2026-11-05",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZkMyS1JoVl9rNk0yODNIRzN5NkkwLVVZeEY2ZTJqQnlKSTBRVGtUTXA3Y25yQlY0bUpJN3cxeTR6NDNkT3VXUEV4YTVCSy15S252QmJoVEFQOHJUOHVnaEpCMTlvTUpHWHZqVm1uOGlWSTRhSlJraV9XTG9Vd055MGlveTZBaXhla05QUkI0eldjTl95UXZKTmxza1dmdk41eV9DUUVSeW1QMk9rb1RuN0FTR2RWQWJnSmZlSDNyTDRRQ0hjWDZJSjh3T2dJOTDSAdQBQVVfeXFMTllLdl9ZQWFZLVBiS1h2U0U3NXpuVkNYeEdyb3VxZG5adUg3SVhuUzVab2xabUZYWGNQNkJPaVl1MFA0MF9uXzhfcjctNFJoZ3YzbkFKMFpVcVVzZ2lKVDdkTWE4TXd3QmtGazRpNUdXUWN4U2VJN2NkVGxZYnVaeTYtZEFrdkhkT19NY1JGS01hb19yZmk2YzJpUnpIWklhbGdpZHV6dk9sdDF5d1BEdTZESTdUUU9abEJrOXN0UEs2SGYyMDRaZjRCUERwZlR6SFU1bjA?oc=5"
-        },
-        {
-          "outlet": "Urban Acres",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFZjbkRpM3FFVmlDWWg4VlZaNzV0Rl9nTkY4SEdPVl9pUkVxSXJhTURXZTA4NFVjMDlBLXlXUEVwTkdlbTlRSVdoc2pLX0M1ck9jV1htcGRaTjlXOG1BODRBUFNzSkZCMjlrUTMzZFNMOXh3SnJZNnhKRE5tS1J1RllKV2tZWmZ2TFR0bg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "4k police personnel deployed across city for festive security. A crime-related story. Covered by The Times of India and Urban Acres.",
-      "image": "images/4k-police-personnel-deployed-across-city-for-festive-securit.jpg",
       "image_kind": "photo"
     },
     {
@@ -611,20 +636,20 @@
       ],
       "sources": [
         {
-          "outlet": "Travel and Leisure Asia",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1d3Y2wxbVVsUVFzQkc0ZlREclotaElmTmdnVWphd244Q1BEeHlic1RHaXFFZzg5TVU1NHBiZllVQ2Z2MnFZSVJBWGs0dTRLWjlNM2UteFJLLTd4VlNMYTRTQUppVjUydzFzcWxzelJQb1Rua0JzN2U3TlA5dFhVU1dmMkJ2MGZGSDg0UG1ERkhsOTdBSk1LY2d2SEctSjJBNlZVdlNWZFI4NXVZLXZUbmRQTU5zZ2NzTlBBSF8xLW1OQdIBxwFBVV95cUxPT0Q0WDVhQWJxQjZQczRMa0NnNm9sX3ZZTFl6M0xwZ1dSY3pLQUQ3cFdRMktLbFpPWHFGWnhEX01VVUI3a2FGYmRlbHQwekNZckZMMjVaUEVuZEFfT0NYTk1KZW54dkZQQ3p3RUhnQ2dBNGdXZllWd0F5ZmgxRThDZm9XWE1iNHRuRWc2aGRDX2NPeERhQ3MzRDNSd1A4czNUSWtUQTllREMzX3NOUVZBZmdKVGh3WF9UT2REUGp1ZlV3ZFVpUnJZ?oc=5"
-        },
-        {
           "outlet": "Lifestyle Asia Hong Kong",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkdNMThlWk9heU9JczIyMFczbm01OGtMWmttWDFnUnhVVGJDVFB2TWoxQnhWZS1oMFc2eHJkT1BkZU5DNkY3Y1QzMmhTSURxRk9VOHlJYkl6cjlzOVFvQzlibWxyZVN4ZjNSYzgtMHRJamNIc01IbEZzZXl6NXVWbERwRnc4MGl3NmNkVm5mR21iTEYxTDFOWE9MVGFzMzdXWDRFSQ?oc=5"
+        },
+        {
+          "outlet": "Travel and Leisure Asia",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1d3Y2wxbVVsUVFzQkc0ZlREclotaElmTmdnVWphd244Q1BEeHlic1RHaXFFZzg5TVU1NHBiZllVQ2Z2MnFZSVJBWGs0dTRLWjlNM2UteFJLLTd4VlNMYTRTQUppVjUydzFzcWxzelJQb1Rua0JzN2U3TlA5dFhVU1dmMkJ2MGZGSDg0UG1ERkhsOTdBSk1LY2d2SEctSjJBNlZVdlNWZFI4NXVZLXZUbmRQTU5zZ2NzTlBBSF8xLW1OQdIBxwFBVV95cUxPT0Q0WDVhQWJxQjZQczRMa0NnNm9sX3ZZTFl6M0xwZ1dSY3pLQUQ3cFdRMktLbFpPWHFGWnhEX01VVUI3a2FGYmRlbHQwekNZckZMMjVaUEVuZEFfT0NYTk1KZW54dkZQQ3p3RUhnQ2dBNGdXZllWd0F5ZmgxRThDZm9XWE1iNHRuRWc2aGRDX2NPeERhQ3MzRDNSd1A4czNUSWtUQTllREMzX3NOUVZBZmdKVGh3WF9UT2REUGp1ZlV3ZFVpUnJZ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Better Than The Louvre: Why This Indian Museum Should Be On Your Bihar Itinerary. Covered by Travel and Leisure Asia and Lifestyle Asia Hong Kong.",
+      "brief": "Better Than The Louvre: Why This Indian Museum Should Be On Your Bihar Itinerary. Covered by Lifestyle Asia Hong Kong and Travel and Leisure Asia.",
       "image": "images/better-than-the-louvre-why-this-indian-museum-should-be-on-y.jpg",
       "image_kind": "photo"
     },
@@ -752,17 +777,12 @@
           "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOHVsNlZMdlZuNUQweFJSMklCTlZscnI5S3JadUgybm5EUnNPZlZnZkl4TWc2N2FUSWIwVDBMX2VtUTY0SGlyT2U2b25TNUlqNWZZQndWLThpXzA1dzB4OG00Ylc5ZTJGaU1XWlg2WUdnYnQxRkRaUE1rT2x2blJRRWh0aFZhUTJYVnk1NXNKVkI3aEhwbnU1TVF0ZzBJLXpGREV2WXFIRm9sNDRoZ3lTc1pNTW5zT3A5WDNaa3JXQdIBxgFBVV95cUxOeVR4eWg5UUtPUmpNQ2tkVFhqSl9LcGNEbTZraEZQRndvVjFNc0tUY096UEprYTc3U1BjUE9qMU9jWndvV2E0eVB4eHlMMGlMVmNNQmVlaVBKTWFmR19ySEExTXBONU5hWGR2TENpNUh3OWdjR054MnRSbTR0WGxaa29RaGxralBscDFxMnhfNERRRWY1VGF2dzZ6SklfOUlUNlJNaEV3LVJpTERBZUlaRUxJN21menZJODFCd2JqMUQ4SXRhakE?oc=5"
-        },
-        {
-          "outlet": "Urban Acres",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkF4NE9XOHNGVFVJYWR3eGFtY2RBSmVxZU5lb1JHaVo1TWFLNV94aVcxaHFZYUxFbjAzdGVkRFM5YUJyTkFOUTJIbFNtdkdPd0FoNmJTYnpnR2I4WjFYUXNIYURyakc1cnNoSU9nNU9Bcm5DRWw5TS1OWkpXWnJlT2RxemhnVFNSdWtvTg?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "ECR to run 17 pairs of festival special trains to manage Durga Puja, Diwali and Chhath rush. Covered by 4 outlets, including Times of India and Daily Jagran.",
+      "brief": "ECR to run 17 pairs of festival special trains to manage Durga Puja, Diwali and Chhath rush. Covered by 3 outlets, including Times of India and Daily Jagran.",
       "image": "images/ecr-to-run-17-pairs-of-festival-special-trains-to-manage-dur.jpg",
       "image_kind": "photo"
     },
