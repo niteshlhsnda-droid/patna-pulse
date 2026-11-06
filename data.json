@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06 22:55 UTC",
-  "generated_at_ist": "07 Nov 2026, 04:25 AM IST",
+  "generated_at": "2026-11-06 23:54 UTC",
+  "generated_at_ist": "07 Nov 2026, 05:24 AM IST",
   "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -29,6 +29,38 @@
       "genuineness_label": "Corroborated",
       "brief": "Encounter on banks of Ganges in Patna; 3 criminals killed in 40 rounds of firing, SHO shot. A crime-related story. Covered by The Times of India and India.com.",
       "image": "images/encounter-on-banks-of-ganges-in-patna-3-criminals-killed-in-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "advocate-cannot-sue-client-for-defamation-merely-for-ending-",
+      "headline": "Advocate Cannot Sue Client for Defamation Merely for Ending Professional Engagement: Patna High Court - Court Book",
+      "summary": "",
+      "date": "2026-11-06",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Bar and Bench",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2ZwTFNXN0RHQmZSWnBoeWI1QVZGVzRmbVIyS0FVTUI1RU1Cb3pqVG1meHBJWkR6a241TFVxRXZVTnFFWjAyLVNIRzVSTGY5SDE4MXVPcTRGSFNkSmNsRGh5QnY0MDNwNVUtQ1REckNuZHZCbU53azJFOW1YSHUzajFhQ2VFTjM1OU5ZdlJFTGRabFBXTUJwaGt2Wld3dFJVVHNCb1R5Nkh4dmlRd2FRWDlLQmZQNkRMRUFTUGZyYjdlcWtFVjBYblg0b3phdw?oc=5"
+        },
+        {
+          "outlet": "Court Book",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3dJUWJ1VUlsZzY5VGtXNkh3RmxRY3ZXYTFsWWU4VUlqSGN4WVBSMUJIbjdGUWhMQnBtcjhiNzJQc3BVSzB4SnVwVlRKUFZDSjRGbHdVMlpkSThLbk1qUEVFYUJMWVlHS3p6Q3hIMDN3UlVkN3pIQnFRYzZPUExrM0ZnWVp5Nk80RzhsazJVdzJ0eFVRLUJrd1FHOHd2TEFjMjlpRmFHTmZ6NGN3OTdJaEhCeWkxVXpoZ1F4Y29mdjBHS3pTekE?oc=5"
+        },
+        {
+          "outlet": "LawChakra",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tU3dMSjBSRmNmaHN4RXRxdHJJTnN3NnZiamd4VE1zS09EczJBOElQS1dZT3BWTWZ5dVd2ZjdXcHZ6RkpsN1E0WXdCUXlxQW84OEowcjVhT05TeXpIUkxQTDdyOVpkaU5GWTdJbUpJM0RFRlp0ZVJQcEw4cjE3bms?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Advocate Cannot Sue Client for Defamation Merely for Ending Professional Engagement: Patna High Court. Covered by 3 outlets, including Bar and Bench and Court Book.",
+      "image": "images/advocate-cannot-sue-client-for-defamation-merely-for-ending-.jpg",
       "image_kind": "photo"
     },
     {
@@ -103,6 +135,11 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVW1mbDhFZ0NfbVZJX3VVWHR4ZEM2dDNVSnpyLUJxeEhWazJWT3NhT3IwLWtnVTJlVG1uZlUwWk4tUjlMZVdVaHh1X1BBZVpuQmZCOTh5OEpXbC1RWVg0RnJjWDh3Y0JGeTJWM0JyaktRb2ZiMFgyVjJaU3U0TEpOS3J6SEx2QUowWHp0bS1kbWZvZGdWZG1fVzF0RGtXb05RTFBQbk1aQ1NiMnRGUHRWV1pyX29ha2xEa2daeFI4QV9lTGdGQzlibWlMbjg2Q0U0TkR1Mg?oc=5"
         },
         {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVEYtZHdDbVNEMTV0ckhvOUdtbE5tSDJvSG52am5GZm9UenlvMTZhdE1RWWdYSGZsd2ZLdVp1dE9URGFpQnhrU3FmZDZndm82Qi1FRS1oMXhHN3BvZjBUWDRZYno3T1ZzdEhBUlVMcWQybXA0cDJJbmRaQlVnMTBheVFHdnVxSmROZFlrOUQ3WERacGo2d3c?oc=5"
+        },
+        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQemJJay12UzdYTFJWTjR5cnJ3LW1UVnBwal9mQjVCOTN1X0o3ZklVMmIzUVMtNzBlNmhlUVAxWk9pbkZWczRTN1Vva056OVQ0eUthUk5nTy1qXzY0LWlVZkthWTZ5R1ZudzNJZTFZdDlvWm92Q2REY2xLa2lqaGt4bVAxV05OcXBsWm44MlI4UTdZREgtTUZSWmlHQnZjSEk5TU1lN19oemJjVFNMaVR1SnB3T2w4UEdheTctRTZqTGE3QXZhbzhZUXctZG5zc1V4VUZEN2FETWRNa0RBbGRv0gHkAUFVX3lxTFBsUFRPY1M5UGQ3RGFWZW43MFl4LUtwUmhpcmVzVzdqbmdGRXdObkJKaHczS1BiX2NJejgxQ25JUXZfc2lmRjZleHc1VFdGb2VKZkdjRlllcEFEdVlCYkdmaDJtOFJmalBPM1dJTUJNWVVtbUg5RXBfTERGT191cGI2REk3TV91bmVybEZ3NWdSeGc1SldRQ1poTnpLbzdNU3I2RVZRU0Vyd25tYkdfMm5US2E4S0o3UXZQQmkwWkU5WmxNczJoUVdBZUhVanZtNzRpcjFZcXVFUHRNQ1VtU251OUd1Yw?oc=5"
@@ -136,38 +173,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "advocate-cannot-sue-client-for-defamation-merely-for-ending-",
-      "headline": "Advocate Cannot Sue Client for Defamation Merely for Ending Professional Engagement: Patna High Court - Court Book",
-      "summary": "",
-      "date": "2026-11-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Bar and Bench",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2ZwTFNXN0RHQmZSWnBoeWI1QVZGVzRmbVIyS0FVTUI1RU1Cb3pqVG1meHBJWkR6a241TFVxRXZVTnFFWjAyLVNIRzVSTGY5SDE4MXVPcTRGSFNkSmNsRGh5QnY0MDNwNVUtQ1REckNuZHZCbU53azJFOW1YSHUzajFhQ2VFTjM1OU5ZdlJFTGRabFBXTUJwaGt2Wld3dFJVVHNCb1R5Nkh4dmlRd2FRWDlLQmZQNkRMRUFTUGZyYjdlcWtFVjBYblg0b3phdw?oc=5"
-        },
-        {
-          "outlet": "Court Book",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3dJUWJ1VUlsZzY5VGtXNkh3RmxRY3ZXYTFsWWU4VUlqSGN4WVBSMUJIbjdGUWhMQnBtcjhiNzJQc3BVSzB4SnVwVlRKUFZDSjRGbHdVMlpkSThLbk1qUEVFYUJMWVlHS3p6Q3hIMDN3UlVkN3pIQnFRYzZPUExrM0ZnWVp5Nk80RzhsazJVdzJ0eFVRLUJrd1FHOHd2TEFjMjlpRmFHTmZ6NGN3OTdJaEhCeWkxVXpoZ1F4Y29mdjBHS3pTekE?oc=5"
-        },
-        {
-          "outlet": "LawChakra",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tU3dMSjBSRmNmaHN4RXRxdHJJTnN3NnZiamd4VE1zS09EczJBOElQS1dZT3BWTWZ5dVd2ZjdXcHZ6RkpsN1E0WXdCUXlxQW84OEowcjVhT05TeXpIUkxQTDdyOVpkaU5GWTdJbUpJM0RFRlp0ZVJQcEw4cjE3bms?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Advocate Cannot Sue Client for Defamation Merely for Ending Professional Engagement: Patna High Court. Covered by 3 outlets, including Bar and Bench and Court Book.",
-      "image": "images/advocate-cannot-sue-client-for-defamation-merely-for-ending-.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "key-accused-in-bihar-rjd-leader-s-murder-arrested-from-kolla",
       "headline": "Key Accused in Bihar RJD Leader's Murder Arrested From Kollam in Keralam - Deccan Chronicle",
       "summary": "",
@@ -198,14 +203,14 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzN4Si1BMU1PeGNoNDMwQ3drOWluVGJVcWh6SUgtb0NOWFdJeUhNQ2hKYmlCNXhSZktiSGN6YXhaVXRrTGFTWUJ4a1pxWGR3RlNsSVNYZUNVTGROVkhxS1ZYUk03OEJrWV9fQzE5cnc5aFBZZ0QxNDhvZ2V4Vlg1T2dwdm0zd2V2WnV5WW9xRm1PQm15UzNabmg2OUk2ODZCSnBBTnNNeHRhRElweVR1RXNR0gG3AUFVX3lxTE9KcG1uSzZvUGZ6Vnp6Si1jeFhvTTNyQUNXR1MyeGxHbzFpN1kwQlc3dnBsTHMyQ1dDc2E3cmo4WTRLR0UteVdPa2Vzc0ZTaTZMb1JNLVRjUGtVR0MzRGF5bmx0SVRsMjZRUTNWOFhiSmFXOGFLbDZMNFdVSjVOQ2lQZkF4TjZRcUh1czYxbXZ6M0tGRUN3d1dvSGthMFFORnQ1UnZ4ZlIzb0FTblNFVWZvb2lsbTFyUQ?oc=5"
         },
         {
-          "outlet": "Deccan Chronicle",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnQxSml0YWRZeXBwSmhGLU1MbHd4bEdaU3lMeHFBYmNNaDZjWmJwaktVdzV0a0hrSU9vU0x4eWtRU1FmaWluZ24zRF9QOGZDTzZ5b1VpN3ltT21yR3dub0paZVZsWTREa2l6MHJYbDN0ZHRieXdwT21aYjh3VmRFS3VPMlotTjY1XzA0VVhvYWctWFZxOTJibHMtamY4WW9iLXEwcG1FYnJrVzZTZzM2YS1CUkNCVGlKZUc1ajhhVnlpR3B4ekxHeVVEUmhPNW_SAdQBQVVfeXFMTlRRdHZsODJWN0RPNWhYYlhfcnhXdURXT1BWZ2x0NE50UkdGcXU2SEZiZGFZNUstTnBFcjk1c2VkZE9rMnV6Yi05dXhTOXV1ZVdLRFBNTFp5UWxRU2poS2s5eHdLdU9wX0NtbWl3d1FVVWdnXzhIaEk4eVNCcldLdmtkODB5ZDRjajVGRC1qZUYxblRZSWtHZ1lpNTNfVEhWZUM0bGJlUzNwMmNud3NFM3VlTksxZWhuWldNX1ZYWUx4dGJQNGZQT2c1SU1SYUN1OWpwNUE?oc=5"
-        },
-        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVhnOHdKeFBvV3o3ZVY0T0o3Y1hnbEhUNThOWkpQNGwxYkN6dERsT2tZVUhKTjloRG00bkJSVUtQWUd2ZUZSOEhvWEVuZ1pEZjRfVkxFY3k2SDZna0dqY3IyQjljY2ltdjZXdGRpRkh1UjExVm04RFgyV3VUbXVOVjlzcEM0UXFHY2ZCR0YzVGVOVEZTSHAzbHVnRDIwSjhn0gGoAUFVX3lxTE9vNHlVM0EtTElIUnJvQ0p5aUtWR2JUdGVGQWtsMEhlTTR0NWFVaEJ0Y2FwRWUzNFc5UVFfNldHUWVuNkoyd2F3LU9mUXdaRHZSSm5jZ00tUVBPTmJnRjJGZFRXM2xfY0FvRHp0VVZ1VDV0dEpXOUdMd2JNS3ZOOWowQkl4V19ocllvZXMxb2Rja2RfUHhyTk1UTXZucUVrVXZKQ3IwRnk2cQ?oc=5"
+        },
+        {
+          "outlet": "Deccan Chronicle",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnQxSml0YWRZeXBwSmhGLU1MbHd4bEdaU3lMeHFBYmNNaDZjWmJwaktVdzV0a0hrSU9vU0x4eWtRU1FmaWluZ24zRF9QOGZDTzZ5b1VpN3ltT21yR3dub0paZVZsWTREa2l6MHJYbDN0ZHRieXdwT21aYjh3VmRFS3VPMlotTjY1XzA0VVhvYWctWFZxOTJibHMtamY4WW9iLXEwcG1FYnJrVzZTZzM2YS1CUkNCVGlKZUc1ajhhVnlpR3B4ekxHeVVEUmhPNW_SAdQBQVVfeXFMTlRRdHZsODJWN0RPNWhYYlhfcnhXdURXT1BWZ2x0NE50UkdGcXU2SEZiZGFZNUstTnBFcjk1c2VkZE9rMnV6Yi05dXhTOXV1ZVdLRFBNTFp5UWxRU2poS2s5eHdLdU9wX0NtbWl3d1FVVWdnXzhIaEk4eVNCcldLdmtkODB5ZDRjajVGRC1qZUYxblRZSWtHZ1lpNTNfVEhWZUM0bGJlUzNwMmNud3NFM3VlTksxZWhuWldNX1ZYWUx4dGJQNGZQT2c1SU1SYUN1OWpwNUE?oc=5"
         }
       ],
       "source_count": 5,
@@ -295,14 +300,14 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTllGclNsVWFUYUJTTllqV2VoMk9KWEJqY1ZiZXJpMUg0TEZwN1NtNFZpQlVGcUhKN2Izck03aFgwM2tqZFNmbi11aUI4cmg4dTYwcmF0NU9lMHZNb3F0dlc1bkVTTWpjVzBEd0JUREJHbzhOSVZycXRzX0FCS01BWUZtaUx6WmUtc3YtT25RSjRzSWVRdlhrVFlkeDFHTmQ5NUtOcUhCWm5mdnN0M3drQU1RSknSAbcBQVVfeXFMTkhnR1RaeTRjMU91QU9rTHV4WUxOekdHMEFnQVgxeGVkTTY0TV9aY1BhandkX3VHb1AtcnNLeTBtTkxPZHlhOFk5amZ2dzBMVHl3WDcxNWI3eHBWcG5RTm80ZkV5RHJNUkVRdHN1TFJ3Q1llR2x3SjJSSEZXcmVhaUFjeHlDelAwdUlxVDVIUlM1X2ZIRVhDWDRhVDZjWGlGMkFrbnNPb0sxMUpVc0pHU2NMWlFIRkZj?oc=5"
         },
         {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmtNMVRkRzZNSHYyaEdWcm1DX1FKQkZIUENxR21LQW5sZjBnLUd3Q2JLWDJaUzc2LXU1QWNvTmFOaXdfY0xWMGZGd2habjZGc2FINmhMcDIyRXZLYzFITnBucGJYTUZ0aWFjbkQzUXFJM2pHY2VNZ3QtQnphZHhpZEtRQzg0dklpUXJsSllkVEJ0V0hSckZ5ODJSbEQwVEJ2dDVzSVZhSEJRQUlBWWg1ZHU2bFI4T3ZpQVpwVzBWb1M2bHc4SV9Z0gHMAUFVX3lxTFB5REVWLXJIX283YXQ1OGsyaHk5ZlgxMFFpcm85RXpGM1dpNlY3RkNfODBieWoyVHpLbTAzaTNtdFphaGZra3NPU2JGd3RsaTBMUlg5U2pMUWc0OHc3MF9vd1NKWTVkb0UxMXRNOUZUbWc3N3RjNFRLOEtkdjZ6M1hZNW05ckZMYjJKX3BERm9qaGdQRWZvTUdneXdydWU5VjA2bkRiZkh1LVI1eFBfbllQaUx1bkNocFppalFuNmtLWFJKSnNlNUgzdFBpYw?oc=5"
-        },
-        {
           "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR1kxRG5iRm51QVNRQzFfNGt5bTlsVTFTdHJ3SlVvc1JoXzdveUdXRklOTS02OTRoUXNXMFA0SnZYY2dPNXdTd1Q5UFlOTU5LRmV5SV8xU1BnVUk5bWVjSF9VU3R4Ty1oNmlSSTdXMmtNUjB0Y3FLMnpOYnNQcGNEUk5SX1BMcGM2Q0dXa0JHUUExVVVjNzl1NDBwamM5a3QwZHVWbGRrYUJaZlFwT0kxanJNN2otZlYtcFhOZ3A4Y9IBxgFBVV95cUxQV2NxbWxnc3FlYjB5bDliRjQ3ajVGX0gtTDd1cUlwcFF1N0laTGtHMjB5V2VRekhfMXBPeS1HQ0ZGbW5JaW9kRVdna2tFYUxsdnVJNXBfVzU1anM4Q0dOUndGdTd5UUNhdmR3eVk0SGRQN1Q2YmpfM2xqV0UwelFSWTV6ZXZHUWhxVEt4c2poRURqZlE3T1VRTExhV1VXbXFqZGl4MHRLWjBxc2QtM29XYWhnVDlsMEtZb1V6UGlKZDBuZXVCUlE?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmtNMVRkRzZNSHYyaEdWcm1DX1FKQkZIUENxR21LQW5sZjBnLUd3Q2JLWDJaUzc2LXU1QWNvTmFOaXdfY0xWMGZGd2habjZGc2FINmhMcDIyRXZLYzFITnBucGJYTUZ0aWFjbkQzUXFJM2pHY2VNZ3QtQnphZHhpZEtRQzg0dklpUXJsSllkVEJ0V0hSckZ5ODJSbEQwVEJ2dDVzSVZhSEJRQUlBWWg1ZHU2bFI4T3ZpQVpwVzBWb1M2bHc4SV9Z0gHMAUFVX3lxTFB5REVWLXJIX283YXQ1OGsyaHk5ZlgxMFFpcm85RXpGM1dpNlY3RkNfODBieWoyVHpLbTAzaTNtdFphaGZra3NPU2JGd3RsaTBMUlg5U2pMUWc0OHc3MF9vd1NKWTVkb0UxMXRNOUZUbWc3N3RjNFRLOEtkdjZ6M1hZNW05ckZMYjJKX3BERm9qaGdQRWZvTUdneXdydWU5VjA2bkRiZkh1LVI1eFBfbllQaUx1bkNocFppalFuNmtLWFJKSnNlNUgzdFBpYw?oc=5"
         },
         {
           "outlet": "Hindustan Times",
@@ -310,14 +315,14 @@
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOUtnd0taby1vMUpBRTRfSXZUbXNMTFlscVpROFM2alJwbkluMHVBdU5hYTNCVmVXUVV0RjBhZzdzNXNtYW9qM2ZhQmh4dndnZHRUOFFWbUxLTzRyUlpic0pLTmlMWE9EeUNpQnpiaXVvenlncDZVUDB5ZGctRE5NZ1lmM3NtTmRwRkdUZTFDMXhqcVZtZ0xReUNsY2R4S3pyUzJhMllIUW9nQmlUN2RzV0t2MnU5cUFDeXFsM1JrMy1WQzhNdDNuWGpKb2FFMW9RdTlwb2stdkt2QnRXRzAxSdIB5gFBVV95cUxPbGhtTzFVSXdueGRFN0xvZ3A1SFJwTjJnRkgxal8tdTlKX3gzTUdIRU1FMDFCS1JkRENVTzFadENDekhYX2YtbE1hMnlBaXhmZzV2dE0xTGhjVlBfSElXV0wzUWZSUFBtMWlZNmVDaWVTdENJV3otT3ZqS0o0WDM4X0JqYWVPWVVjSGtWc1RZZEF6R0FvU25nWGo4SHNURU5iVGktTjFoczNnYTRPcHRuM2NDVFRmMkVpNW1hbl9yTnpQUUtUT3ZZVjRWYnFIQ0xaNDRQeTJrX21icXJKbnQ4UjRsZnk2dw?oc=5"
         },
         {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcm1MV1Y3TUR3TFF6ZHBIbXVHM2I5Z3d1bEFHaUdMTTl4alVoTEc2aGNoZGxEYmhqUXgwOFFsQ19tdXZkMDJ1ampoYVRGUHJhTm1vVHgzQWFibTNCdTBuMkxoeXkwQzFxOW1FUEQycG1EcUJYU1ZHWklReVZLamR4V0dpWlNfT3psR0QzUWw0OTZRdklRV3U3SnJ0VFhCRjNic1dxVFltVXpFVUpTTExHNURPVGl2UFVadzdv0gHCAUFVX3lxTE9iMlRqRzVJaU9rTmlhdFNhWUwyVGtxLVRrSC1JTlpQSzJEUVROdl9WV3ZzWk5mSHd3UzJnZVFZeE5Ic2lnU3lRNWhDZnQ0RHJCb3Z1M0FKTWVWQ1JQVEg0SXNkMmU1WldWX1MtTnZCRmozNkFLdXZWVEFyZ3k0V2ZuZTEtbnBXOUpjZlh1Nk54Rl9jWWE4UzV2UWJ2UGxxVGNRbVdlZWw4ZFNRa044dlhkVlhrcEprQzBpclZkMllYY1Bn?oc=5"
-        },
-        {
           "outlet": "India.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZkdGTFBFSUFaOUNEcDBuN2xJT0FpMVUtODNZaC14NnpNZkZmN2FnLWluVFBUdzF1bURMUnNTRlV6WHFSMHZBYkMxa2huSlRvY2hHTmtMeGY2S2UzVW1Qb2F6RXZ3aWI1S1NibF9BTGlTLWN4YU1xb3gtQm1malF1aTlWbVY1QmFhdWNzdFcyNEc0Rm81MU01N3V3SjJCNGs0eko3amp1OEw5RWhmaEJKOEtxYmVvbDlVdE94dmVBSVlxaERtOVY3czJfVDRYaXpNZUJqY2ZfZ9IB3AFBVV95cUxORlFvV05mV1JyNncyVTZfdGJLVFhGd1d6ZXE5VjBrYnFUdUJsU28xQjRVYndnYjlZc2Q2Y1lKcU5RaWpKLUlxS0p4TVNwZzR6czFSTkxhNUVxaXNoUC1USEJOczhzX1hUWWdlZDV4NUJnZXY2Szg0clp0TTRRcHJpbkZ2Z2RMQXRULXNwblk5QUs2azd5RHRpOEljeTJhRXBOakhySFByNmpwYVdPNVdGTkUyRml3VVQzQjVRQVdLcmlvT3pZaUtSM3puYmpmcHpHS29MRzQxSC10T25W?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcm1MV1Y3TUR3TFF6ZHBIbXVHM2I5Z3d1bEFHaUdMTTl4alVoTEc2aGNoZGxEYmhqUXgwOFFsQ19tdXZkMDJ1ampoYVRGUHJhTm1vVHgzQWFibTNCdTBuMkxoeXkwQzFxOW1FUEQycG1EcUJYU1ZHWklReVZLamR4V0dpWlNfT3psR0QzUWw0OTZRdklRV3U3SnJ0VFhCRjNic1dxVFltVXpFVUpTTExHNURPVGl2UFVadzdv0gHCAUFVX3lxTE9iMlRqRzVJaU9rTmlhdFNhWUwyVGtxLVRrSC1JTlpQSzJEUVROdl9WV3ZzWk5mSHd3UzJnZVFZeE5Ic2lnU3lRNWhDZnQ0RHJCb3Z1M0FKTWVWQ1JQVEg0SXNkMmU1WldWX1MtTnZCRmozNkFLdXZWVEFyZ3k0V2ZuZTEtbnBXOUpjZlh1Nk54Rl9jWWE4UzV2UWJ2UGxxVGNRbVdlZWw4ZFNRa044dlhkVlhrcEprQzBpclZkMllYY1Bn?oc=5"
         },
         {
           "outlet": "The Tribune",
@@ -365,15 +370,20 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORTFqcm5zOXhqYUI2SUs4U2F5SlhzQmVUWlg3WmVieWNmYmlScmgzbXdLdHJzcmpPcXBTRmRhbGdQajJ0MFlUY1Y2Wm00Y1BGT0FwOEZsdk00bU51dGZudzVaV3hGcnNvNW5ZZ3cxamtLOTVaTUZGOVFOblE1NjZScVBydHZtYXdHbjFpNjE4MW8wc2hqR1pueHVnNkZiRmY0SzNKM1gwd29xNlpPSkZDTXYtXzNsUVgxTWtfTzRHVlk5TmFENWRya3E2N3pMdUhTdFVn?oc=5"
         },
         {
+          "outlet": "Outlook India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWE5kaEw4Sk5fTFBfMTJuYXlMbnVVTWhqSVh2LUtWRlFGdzMteEQ5Q0xBa2kzcnBQYW83RHpVRFNZQ2dULVNKcmhVVTRNMlZBTExUSkYtWGphRWVfU0RVc0FWUm0zQjlka2kwUlFCNDFDcDhaZkEyVnlhZWRlcENYWVBoaTlJRi1VZ0pJYTZsRU94M2kzRFgtVVBzQWpjNVlYSndqeFBQbUZaVmxvWk53NFhrQTM5NGJSWERv0gHIAUFVX3lxTFBOa19Na0dDSHgxVlE3a19kcFlWQVQwdXVyWlZSUFMySW1BUFM5VmpPMGhBSGlJdEsyS2lCekNUcjY3M19udWxQSnVkbjR1MWJHSnBqOTUtUGIwTDBRaWs4RjlFX2VVRHJFSEliQmdlWW4xQ3V1aU9hdXdXVVJjMGpnc3FIOXphRjdRWExCR0RQaTBnVHBQVm43UW50aVpEaVdqdklLOUM3WHVDVll5Zk1pWXNHV3JhYTdNdmFkZjZoclVjQ2JEYmp4?oc=5"
+        },
+        {
           "outlet": "Cricinfo",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
         }
       ],
-      "source_count": 17,
+      "source_count": 18,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi Named Bihar Captain for Syed Mushtaq Ali Trophy Opener; Nitish Rana Dropped from Delhi Squad. A politics-related story. Covered by 17 outlets, including ThePrint and Cricbuzz.",
+      "brief": "Vaibhav Sooryavanshi Named Bihar Captain for Syed Mushtaq Ali Trophy Opener; Nitish Rana Dropped from Delhi Squad. A politics-related story. Covered by 18 outlets, including ThePrint and Cricbuzz.",
       "image": "images/vaibhav-sooryavanshi-named-bihar-captain-for-syed-mushtaq-al.jpg",
       "image_kind": "photo"
     },
@@ -392,20 +402,20 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUJSTDZoMzcwUGtYU25MS3pkM1NnMkhZTTdMWkVKTEJwX1BvT2JfdmV6bFYxdzJaaThyRk5oZTVDS0g0ZFpESnpJQnNwN2pyVXFTWDYwNDBmYVRibWdBZExVMEYwZnlWQ3prTjZjTTVNUmp0b3d5Y1NOeWxHY0xvRHQ3MEpxUUIwYVVwVjdEaUJudllITVJvX3Y3dDVvbzZLRGM1VWMzdnhhSl9iVUV5ZURjRVI1azNPZ3ZHbnRR0gHDAUFVX3lxTE5JNndFa1lXbC1jYVJLSlVXelFQWV9FNHBmNXh3Zi0wS1JmRElKUXNxZmdrdzVOaXo2aDJRWmpMM29XRU1zRVBWaVJkRHZ1d0lpWmpoQ3l3VHM1Z0ktbl93VFBRM3FFdWZuSE8weXV1aTNuYUtybjcyQ1Z1TnE3S3pBeXVSSFNSQldaZl83VHdFeHB0N09nZDNLSG5mblNHUWVPN3NjS0d4dEgyekRpZXpWRHJUTEFRbnp4T1lweGtLOWVmNA?oc=5"
         },
         {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY2RXSjBBcl80eW1OT0FwV2gzUGc4a2RZclhpb01COGZBSnZLMmhaUGMzMFdjVGNvbmZmR0ZNWVQwNGs2VkdMb3JMTU16ZG9mOGhJNUxic1pOOFgxTE5rOUJTMUE4YnBaS01Jd1BaWmNKclpXYTdqREhrZHREbjh2SVFQUnZnOTlydEhBWUNJbmJRYnZnTHR4QTNFQk5BMnhtZzdjRGlCTUZHaTRwdGM0TDhRbUxtcWFQSVFRZHFPd0JTQ2xPZ3o1YnNndGLSAdIBQVVfeXFMTmFGNVdqeVVRTml6WXNUaEdfdVFLNldsZV9yY2tpS28wNHJJUURhMExJNnZyejd4YkRVUlJfQkxtN1huTU14R0tIRWt5aXBPSXNLX2ZqaGh4WTVCQUhGLU9LN0JReXg3eDhqLXM0WFBtbzY4bUZRWGMteE9Yc0k4U0QxNlBTS2lrODJwd0FTTzI5REFfZ0xxSmZXdnVnMHhwWkM5c0tpNmRZUXY2NlZnelhxVURJLUlJU2xGS1FmMDhzNkRXMWRyWnpoNjFEaWVzYjhn?oc=5"
-        },
-        {
           "outlet": "Inshorts",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDhiajlIVk9ZNUxvZnNtSmRNU2diaUVEcW5rQnRpZC0yLUJNX2ZnbWVncVBxdkFXSVU0UlFEZ0UtUEF5V0JKMWJwamJFc0Vpa0ZjLUFzY2VaM3FVZnVtcXY1eVkxX1VJeE56bHE1aDFFVG9jSnd4QUJfZ2VLZ0xWUjNNMHlIZjc0aGUzckUybFpLRWZoMENod2ZpVUpURTZBR3pQcDlsOVRZcmhKb0NpWWlnc291NDBlQ1JaOVBCRHVQd0pabV9MV2ZR0gHPAUFVX3lxTFBjcjd4bERCUEktdXhHdG1FblNDczFlMXJhaERtWmQwWGoxdkNpcVl3eG1yZlY2Z1FTS0t4XzBFU2lFQkxNUHBSMkxTY28xbGxhU0d0dnFFNjBUeTZNaVZwUWgxYUpjelY0cXRVVWxnM3d6NElLdzk4RW1yUFh5SzdzTTdYbE5JcmhoSGRzalZpRHA4UU5JUFpReUJ2dGhjeUN4dG5wTVhkRDMyZUFzRTlUMW5zdW5nMzVwLUJRTy1tLVFoZVo0US15NWpHQ21WNA?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY2RXSjBBcl80eW1OT0FwV2gzUGc4a2RZclhpb01COGZBSnZLMmhaUGMzMFdjVGNvbmZmR0ZNWVQwNGs2VkdMb3JMTU16ZG9mOGhJNUxic1pOOFgxTE5rOUJTMUE4YnBaS01Jd1BaWmNKclpXYTdqREhrZHREbjh2SVFQUnZnOTlydEhBWUNJbmJRYnZnTHR4QTNFQk5BMnhtZzdjRGlCTUZHaTRwdGM0TDhRbUxtcWFQSVFRZHFPd0JTQ2xPZ3o1YnNndGLSAdIBQVVfeXFMTmFGNVdqeVVRTml6WXNUaEdfdVFLNldsZV9yY2tpS28wNHJJUURhMExJNnZyejd4YkRVUlJfQkxtN1huTU14R0tIRWt5aXBPSXNLX2ZqaGh4WTVCQUhGLU9LN0JReXg3eDhqLXM0WFBtbzY4bUZRWGMteE9Yc0k4U0QxNlBTS2lrODJwd0FTTzI5REFfZ0xxSmZXdnVnMHhwWkM5c0tpNmRZUXY2NlZnelhxVURJLUlJU2xGS1FmMDhzNkRXMWRyWnpoNjFEaWVzYjhn?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar officer protests with a begging bowl, claims she didn't get salary for 8 months | Administration said action is being taken. A politics-related story. Covered by 3 outlets, including WION and India Today.",
+      "brief": "Bihar officer protests with a begging bowl, claims she didn't get salary for 8 months | Administration said action is being taken. A politics-related story. Covered by 3 outlets, including WION and Inshorts.",
       "image": "images/bihar-officer-protests-with-a-begging-bowl-claims-she-didn-t.jpg",
       "image_kind": "photo"
     },
@@ -442,6 +452,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "40-3-sho-aajtak",
+      "headline": "पटना में गंगा किनारे एनकाउंटर, 40 राउंड फायरिंग में 3 अपराधी ढेर, SHO को लगी गोली - AajTak",
+      "summary": "",
+      "date": "2026-11-06",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWxxRmxpZGduVG5PeVFGRlhSWkFTRXNTSkNqR1dxY0pCS3Y3QUpScDZyVUR1XzhvM0gzdE51OWY4T3ZUU25NY2Z4YUoxN2FVYWNKWlFXUzNxdTA5RmsxMFFXZHBiVjcwNldpZ0VZdkV1Ukg4WjI5QWRqaVpRWWJ0dnlLeldObWlRX3ZQMVEtOXdXbWlwdXlMNjhrUVBxQllQM3V5ckoteU5jamlRNmdGcHhzVElNVUNiRlhrOHNFRjdWRjUxNVlyLWlnem45U3VTOXNiVlZNUjVFUdIB3wFBVV95cUxONk5CcFNfMHd3SnYxaVFIWmhSOFgwajdELUZGdGRiY1JiSFdtVXdGWHd5VWZ4NmlwLUhxTGZCSVFfWEpXQ0Q1UHVPTmxpZV9jUFhzYkpBd3R3QjJGazlnVjZDeFhzcUNTQmFRMjRPUENZYzJ4Sjdta1QycDRXOW8yYmZhOWhUeW9pWFJ3SkZYT2F4V0RPN0YxbVFOLWxJWHhiMEM5MlhOZThlRTZBNjRORnBoRXMxVEFPLXJCX2FsVlNCdjVrY1NsY1ByS3pTYm95djlwV2RVaEF2NWc1bU84?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckt5REgyeE92c1g4aTMzUUVHSVlXWWIwcjFkSEdHM2RFQm9Jek9lSmlhSmZaMnlENmxUZHVPcHBkSGZxQVpoTENNMUNVVEhjdzlmTVQ1Qmk4QVY5NE9ZOE5WNFpvOU54UUdzeUg2TVBSbnhFX3lFY0RlV1QxTlJTUHA0Rkx4c3VnbXhEMFlvMXBrcFhKc2d3cGtn0gGfAUFVX3lxTFBFd2pPR0E2SmtqVkVySGdLcUVtbkRBeWtGSWhVQjNXMzBSeU1zbXJCUkpoLUVxdjZzdGJ2bTVpQ0dhalNUQkJLczg5dnJubU96ZW1UaGMzeWxwdDNtY2VQemxzdFhUdjA0TFpNS2RTdU9DLXlpZWZST2twQ2NvcDllY2JSMVJfRndxRzNQLW1Da2xzbTFrSDgtSXROV3B1RQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में गंगा किनारे एनकाउंटर, 40 राउंड फायरिंग में 3 अपराधी ढेर, SHO को लगी गोली। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/40-3-sho-aajtak.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "patna-encounter-3-asp-3-hindustan",
       "headline": "Patna Encounter: मनेर में एनकाउंटर के बाद बवाल, 3 की मौत पर परिजनों का हंगामा, ASP समेत 3 पुलिसकर्मी घायल - Hindustan",
       "summary": "",
@@ -450,6 +487,11 @@
         "general"
       ],
       "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjZQYUsyWmR2ZWVPWnljcThxb0VzcU8yUnItN2J6WG96UEdkNTF1RjRob0ttR0dxMWU1ZzFrWnBuXzVmc3REZ2FKQXp4YXNuVGtpVm8tcXlrVEJVcWdzZ2pFOEZUVktQczctS0pRamRwVHhMank1VWdQYkJfVG9sTXB6SldnempReDBXV2w2ZU41REhRMVlPODNhT2MtdE9USkgtZ3NwclNLR1M2WUc0Mmhn?oc=5"
+        },
         {
           "outlet": "AajTak",
           "type": "news",
@@ -464,11 +506,6 @@
           "outlet": "AajTak",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYVpvYkJPcFFNdFNoRmh1S2Y3Z3liUVpXSENMd1pTTURLQ2QyRXFGYjJydDh0Yl9SaDBVN2NoTU1tWC1sQlFuN3pwallHWDhyTDNpUS1wbElkSHR1M3FyMWpGSmVmOUNtbTh5S0Y5SUxSVXpwcU9YY2xzdDV6UElVaFZFQ3h2blh2eTEzcVgtRG5FQkFrNzI3RkRROWM1UzZUcE1mdnVULVpVNG1SOC1sbDl1amZ6VHRDejlkTEJxUGU1UUs3WXczZ214OEVsNzVwNjh4bnVvRjFXbXJ5MU9jSDBn0gHnAUFVX3lxTE95NmZuajRDTGVXVTE5VUJNUUNLU1I0eWU4aGJ6SGNZeFo1N0djYzc2WUhmbjE5aW1JZGVuQWU5MXR6VjZFQkM1Q2VNbUVMVTk4UHZVV040amhldGRtU1Q1NEhraFRSQ0JPSFFJOFE4TFBrdC1CeDRUX0FUQjV0SjU4VFNuVkRBTG9HUmhfYUZXa3g4Vzc2cUZvZExLc25UbS15SWZHMEEyaHpPbGVCSDdoQ3d5VE5WNnEwVDJZdHlURUUydU9sOVpaUll0T1FxRVVVcjE4TVV5akR6eGZYMVd2U25aWE0zNA?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjZQYUsyWmR2ZWVPWnljcThxb0VzcU8yUnItN2J6WG96UEdkNTF1RjRob0ttR0dxMWU1ZzFrWnBuXzVmc3REZ2FKQXp4YXNuVGtpVm8tcXlrVEJVcWdzZ2pFOEZUVktQczctS0pRamRwVHhMank1VWdQYkJfVG9sTXB6SldnempReDBXV2w2ZU41REhRMVlPODNhT2MtdE9USkgtZ3NwclNLR1M2WUc0Mmhn?oc=5"
         },
         {
           "outlet": "Hindustan",
@@ -534,7 +571,7 @@
       "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Patna Encounter: मनेर में एनकाउंटर के बाद बवाल, 3 की मौत पर परिजनों का हंगामा, ASP समेत 3 पुलिसकर्मी घायल। इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें AajTak और Jagran शामिल हैं।",
+      "brief": "Patna Encounter: मनेर में एनकाउंटर के बाद बवाल, 3 की मौत पर परिजनों का हंगामा, ASP समेत 3 पुलिसकर्मी घायल। इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और AajTak शामिल हैं।",
       "image": "images/patna-encounter-3-asp-3-hindustan.jpg",
       "image_kind": "photo"
     },
@@ -595,33 +632,6 @@
       "genuineness_label": "Verified",
       "brief": "पटना पुलिस ने मुठभेड़ में तीन अपराधियों को किया ढेर, मनेर के थानाध्यक्ष गोली लगने से घायल - दैनिक भास्कर हिन्दी। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Webdunia और Jagran शामिल हैं।",
       "image": "images/story.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "40-3-sho-aajtak",
-      "headline": "पटना में गंगा किनारे एनकाउंटर, 40 राउंड फायरिंग में 3 अपराधी ढेर, SHO को लगी गोली - AajTak",
-      "summary": "",
-      "date": "2026-11-06",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWxxRmxpZGduVG5PeVFGRlhSWkFTRXNTSkNqR1dxY0pCS3Y3QUpScDZyVUR1XzhvM0gzdE51OWY4T3ZUU25NY2Z4YUoxN2FVYWNKWlFXUzNxdTA5RmsxMFFXZHBiVjcwNldpZ0VZdkV1Ukg4WjI5QWRqaVpRWWJ0dnlLeldObWlRX3ZQMVEtOXdXbWlwdXlMNjhrUVBxQllQM3V5ckoteU5jamlRNmdGcHhzVElNVUNiRlhrOHNFRjdWRjUxNVlyLWlnem45U3VTOXNiVlZNUjVFUdIB3wFBVV95cUxONk5CcFNfMHd3SnYxaVFIWmhSOFgwajdELUZGdGRiY1JiSFdtVXdGWHd5VWZ4NmlwLUhxTGZCSVFfWEpXQ0Q1UHVPTmxpZV9jUFhzYkpBd3R3QjJGazlnVjZDeFhzcUNTQmFRMjRPUENZYzJ4Sjdta1QycDRXOW8yYmZhOWhUeW9pWFJ3SkZYT2F4V0RPN0YxbVFOLWxJWHhiMEM5MlhOZThlRTZBNjRORnBoRXMxVEFPLXJCX2FsVlNCdjVrY1NsY1ByS3pTYm95djlwV2RVaEF2NWc1bU84?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckt5REgyeE92c1g4aTMzUUVHSVlXWWIwcjFkSEdHM2RFQm9Jek9lSmlhSmZaMnlENmxUZHVPcHBkSGZxQVpoTENNMUNVVEhjdzlmTVQ1Qmk4QVY5NE9ZOE5WNFpvOU54UUdzeUg2TVBSbnhFX3lFY0RlV1QxTlJTUHA0Rkx4c3VnbXhEMFlvMXBrcFhKc2d3cGtn0gGfAUFVX3lxTFBFd2pPR0E2SmtqVkVySGdLcUVtbkRBeWtGSWhVQjNXMzBSeU1zbXJCUkpoLUVxdjZzdGJ2bTVpQ0dhalNUQkJLczg5dnJubU96ZW1UaGMzeWxwdDNtY2VQemxzdFhUdjA0TFpNS2RTdU9DLXlpZWZST2twQ2NvcDllY2JSMVJfRndxRzNQLW1Da2xzbTFrSDgtSXROV3B1RQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में गंगा किनारे एनकाउंटर, 40 राउंड फायरिंग में 3 अपराधी ढेर, SHO को लगी गोली। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/40-3-sho-aajtak.jpg",
       "image_kind": "photo"
     },
     {
@@ -694,7 +704,7 @@
       "summary": "",
       "date": "2026-11-05",
       "topics": [
-        "civic"
+        "general"
       ],
       "sources": [
         {
@@ -703,25 +713,15 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTBPUXRNb2RtMEQwMkVTYnVvQXZDcTBPSGVrRGVXVmJreHQ1a3g1ZUJkVEJiWmhJbTBBYVNFazNzMlRsNzMxU1g0OVh3eUd3LVl1NE9hUWlRTld2VFdHSnRDekRYSkhrS3JLazdxTk12UEVONGRVbkZGYlhMVEluS0dSWTlzZmNRNDRfTWZiMzV2enU1eTZ5b3p1OE9mT0cxOERkeHhETm9VcXFjNmFjRzNTUUVQTHluWjdVcDZXZGZkY3VMQ0HSAcsBQVVfeXFMTzNnamtESi1pbGpvSEREYVZqX0Y5Y3ZmX0V5YmhBUjZrVUtpNnh1VWpUbDFleDByZ3kzRHZzSVo0bXRmRzFVbklpR1ZrQ0NtSmRiZ2czVi1WRS1FSkppMS1RZzZmMlRMalU4OERyMHlEVngwa09pbWFQbnJDR1UzYlowNlBaQjFKdlFIYzRiY0pHYllJQXg4RlRabkRVTWJhRVpYT3N3TXlyeXRrc2NHcmVXbVdKVHcwNkM3RWZGQTVWeDhsQ0E3WWQtSW8?oc=5"
         },
         {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTd5RHNGWXJFY3Z3VkxDVXlWdjdBbEJqX3lwQ0RuVDJEQzdMN1hfTi1BUUhfMUxWdWQ1RmUycGlNYkptbmRnMVpIVkNzUlhhWDNwcGdyanZOY3FvWFJCakhqMkh2MXEtdklGaUJ1Njd5R192bXlLZk1vRkRldXZnMkFvM1poa3cwZ25yQ1RQNFhhNHZmZXo2LWZraVRCbjIyRXc5eDRicjkxTjRmcEJRbTltTTEtOWotMDE0atIBwgFBVV95cUxQYkx2S3RUbV9wbkdGNUxtbkRSUFB3WVFVcnJRSDFCX1BDSVNqVVRqT1oxSkNMQjJLbU1ndk9VOTRkVnhpeHB3dXV1d3d2U0Nlcy1JaWl4OUdoSUVneE9VTkJ4VEZZQmxBdS1JdDJ6TlY1QjRZUXFQbUdjQWtyY1l6UXpkVUZyVUkzTDkwb21Xck5NSEdXVGtkV2cwSXFHX2gxZlVpT29KTE5JdnRwaXJxWEdLN01XLTQwS3NNX3c2Mk9GQQ?oc=5"
-        },
-        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGtScm1VTkN2ZGpLaktBX0FKS0l3eFktZUowT1lKQWw5cXhwaDFxYjFSRnppakxpM3BhMkFxc2FMNHhmZnhTUUYxWTRweEtoSnhoQWE0aEhJakROQkFkZ3Z4Q2F4WTBJYmo2ZkdrOGo5dF9TdlJmUGRpbjRBb1dLSWl3Zmlyak1MYkVhYnp0WFYxM1hXZW85VU44Tm1DSXR4VGJ2TXVOOTFvV2xMRjY2R0dB0gG3AUFVX3lxTE5zVzJiWXhtM1VqUnA3c1k4V290MTJKcjF6VERyVVJVYUlQLWEyb3R5S0RoTjR3c1JZUXQ2RWl4ZXJiVExTWXlrN1ZXTzYwYkxRejZram5XY2RjQVVJaUdoX2lzcUtWU0VqdkZrRjdfRmx1VFpWYWF2SktsUHE5SU5vcmQzQkYtWk14NUEyZW14UG8yS0hoWktrOWNBUDA0S1lsZ3NvMFE3RDNBcFdiXzlGOC0xUklBaw?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3FRQjBnSmktaUdZcENQRWdmM01FRkNkbmpvUUFMNExuUzFBTHZNY3g2c0hCTW9HQXRZM0lmYXZLSUpKT05YMjVEbDVOa2N1NnlGdlM2YVhKcFM5QWE2ZFl4S0VFZ0VqcXhjYXdzbHRwMWpFSGQ4akctbUo4RmpuVkRDdjM1dUIzV3gyOHc5SEpjWUlYZDVtck9zWUZQemFmb2pYUG1lTHhELU5waEJoWG1vLVJoTFdsbTBrYjNEZ9IBxAFBVV95cUxPeWR3MThaQWJ1VVBjb2RRdnRYNVV2NEhZQXBIR2M4SEJqeXBLUG1NbDFmWThwc1RsRy15ZHFuYVlaVHItVzlZbm9rT3ZuVHJGVDFTeDBPeGdwUGREM1VFaFBLQ2sybjI2NmpWNkZvV0RGX3pFaUJzVS0wZWhQam9GclFNYUJmMFg5UlpaMlVUX2szdUxxOVpBZm42bXlfRXFvMHFXdlAzUHhqVUJ0ZDZpZlJ6SDYzWWdWMC11VTZ0Tk1MRTNt?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "PM likely to visit Bihar’s Vaishali on Nov 21 to launch projects, address rally. A civic-infrastructure story. Covered by The Times of India and ThePrint.",
+      "brief": "PM likely to visit Bihar’s Vaishali on Nov 21 to launch projects, address rally. Covered by The Times of India and ThePrint.",
       "image": "images/pm-likely-to-visit-bihar-s-vaishali-on-nov-21-to-launch-proj.jpg",
       "image_kind": "photo"
     },
@@ -777,20 +777,20 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHA2MU91YTZLWWE3cTJWVmJVODA2cGtfYmpZUEJGeldYSUNXOXZEMi1pWnEyNUt5dlo3SDJ4RlhTbkJWb0lwc2ZSaGdLU2NXUjlvOVphM1k0RVlIUXlyTTZZVDNGbXNXd3paYnlIaWhWWExWZVJibktsZ0ZOYUhOekgtQlJGZHhuM3BxcHlja1A5dTlhMDRFYU5yWFgyYzFIODFOdXltUlFnZkxwQjNheF9Hbk1GaEnSAbwBQVVfeXFMTjRNQXN2WGZGSVBvRzlycFlhdEJqMkZyOFNrOEk0MFY3ai1EWTZMcFdkQm9uQW1GaGU4WkE3b1pnYTk2SUR3MW9RUkdfQkpncUtDRW41azNVdjZzdVlJNkVWR3h0aE9mOHFOTmRjLUF4WjR5blVtSk5ERnQ2UlRvZkQweWVrYW91bURLd1F2LWdYTVJzMDJqVmtrMkFhZF9XTGpBaFB4ZFo5VDZ5WldodjU3M3M3dUQ2V1FlaDc?oc=5"
         },
         {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmkxT3hycnFWd3dmN2JVYTJEb3F1UTVFSUdCUjRsWlk2QkQycU1LYWJVMGRZTEJvVjZUTEZpTy01VmUtYzNvTWFla05vYURrVlZXVjIzUWRBTmtsdmpYZVRxUl9fNlVmS1M5azBQYUVTdDZNaF9lcXZtTThzZnNJMlMySHFWZ0Z5MVk5SGJOeDAzYmgxRy1GZWVlRU5aSnd6REdmTWRHUENIVUIySWJuOGRLWFN5MWfSAb8BQVVfeXFMUDJoWGZjdkpWZ1ZYc0VPNE9hdDhscnFmQ2NSMGUxNG1WQmdLYnRnblppTElSVzZudGRwTU9HQ3ZtazZ3a3JNNmhralF6NzhpU0RSbFgtVmcwTXdIOGtuYW11cUk2UURucnE0U3E5SnpQMm0zcngtdWpyT3lld3F6SkV3TmtWNVhyNTl2VmpYVDc1TmlKRXNOYW9HVU1uUC1EV3p1enZGSnNJUG1sWVM3aXZBdGFLSWZ2QmwyQUg3djQ?oc=5"
-        },
-        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSjRhdVBmalVrWXFUejU1TkJ3QWo2c0hSbTNTbUxvVG9tQko4YlROTFk2cU5kT3ZQWGQ5Z0VlZmp3NGlram5GSE1qTkUxdVU0eWNpWlNVNFh6Sjc0MkRqd0hXMTdMZkM1NmVyTGZqQVlmOFBxZEx6RzVFNkVNQ2hNUVJUNkgweXdqUnNZa1FmZHNWRkpEOUx3dno5b1M3X3VFZElRSXlXdFFzZ1AyN3RITlVWY0J6cm9DUVpsRGNWSjdCNW14T0Q3MnNVakZ0dFJKWS1iSFpMc2I2bV9scFBIbV9qSkxITU9UZFBFVU5wd0xrX1Rw0gH6AUFVX3lxTE9YMGlhQkVHNlR0R19nM1JUM2dxZFZnSEVnOVllaU5uNHBkYk1KbGNqVkR0dlcyVGI4MEFTd3c4R1pjWHNaSHJHVVFWX3o2bGJrSTlyb3J0X1UxSmFhOEQybXcyQk5MVWRfNFIwc21VajVraFhVNFpja3lSV0ZPb2d2UHZtVW5lSnpFU2JydFhRZnliZ3dGV3FqbGxMaHp6UElKMTlUeWFyd1dBeFBjXzJTdG5kX0M2bXFfS19lRzg2QUFJVEhLRUpLLXVSc2FLYWcyQXZQWHJSSFdqRW1VT3VGLXNtSlF0bnZrTW9DN1FDeXRobGNJa0VQYnc?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmkxT3hycnFWd3dmN2JVYTJEb3F1UTVFSUdCUjRsWlk2QkQycU1LYWJVMGRZTEJvVjZUTEZpTy01VmUtYzNvTWFla05vYURrVlZXVjIzUWRBTmtsdmpYZVRxUl9fNlVmS1M5azBQYUVTdDZNaF9lcXZtTThzZnNJMlMySHFWZ0Z5MVk5SGJOeDAzYmgxRy1GZWVlRU5aSnd6REdmTWRHUENIVUIySWJuOGRLWFN5MWfSAb8BQVVfeXFMUDJoWGZjdkpWZ1ZYc0VPNE9hdDhscnFmQ2NSMGUxNG1WQmdLYnRnblppTElSVzZudGRwTU9HQ3ZtazZ3a3JNNmhralF6NzhpU0RSbFgtVmcwTXdIOGtuYW11cUk2UURucnE0U3E5SnpQMm0zcngtdWpyT3lld3F6SkV3TmtWNVhyNTl2VmpYVDc1TmlKRXNOYW9HVU1uUC1EV3p1enZGSnNJUG1sWVM3aXZBdGFLSWZ2QmwyQUg3djQ?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Amid protest by wife, Bihar government transfers IPS officer Bhanu Pratap Singh. A politics-related story. Covered by 3 outlets, including The Times of India and NDTV.",
+      "brief": "Amid protest by wife, Bihar government transfers IPS officer Bhanu Pratap Singh. A politics-related story. Covered by 3 outlets, including The Times of India and India Today.",
       "image": "images/amid-protest-by-wife-bihar-government-transfers-ips-officer-.jpg",
       "image_kind": "photo"
     },
