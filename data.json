@@ -1,9 +1,36 @@
 {
-  "generated_at": "2026-11-07 15:55 UTC",
-  "generated_at_ist": "07 Nov 2026, 09:25 PM IST",
-  "story_count": 47,
+  "generated_at": "2026-11-07 16:55 UTC",
+  "generated_at_ist": "07 Nov 2026, 10:25 PM IST",
+  "story_count": 46,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "bihar-raises-rabi-crop-cultivation-target-to-48-lakh-hectare",
+      "headline": "Bihar Raises Rabi Crop Cultivation Target To 48 Lakh Hectares, Offers 40% Subsidies to Farmers For Alternative Crops - ETV Bharat",
+      "summary": "",
+      "date": "2026-11-07",
+      "topics": [
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUzBFMnhnTmh2Y1UxUWJhcHNDTzhRcjhneU9ZRVRNVTlYdUhGNF8zQjVHU2JXbi1SRHJ4VzNfZzNsVU8yUXYwcGVQYUxnV3lMRlRWVUNfQ3NUSDlUWXRNXzFyUzdJZXRraTdzS0p0THF5WXI5X1RBWWRwUFpyeTFWOTRvZ0UwZFlROXZiOUFFT0t4czh3eVVfTTkzZTBocDRMRTdkSE5KNzNlWTRoVEk3ejZrOEpZb0k4N01TbnJmWXJHeUNrMzFjY2lISjVHZ9IB0wFBVV95cUxPQm5qY0pBMWtYMU5PUHJpRUhiQ0RrSmRfa3JNWnFoRXlaeTVWamd5WnRrWV9vaDBQOVB1MXB4YzBiaGJOeWx3NmNVSGNQbEE5eDVNRGl6dUZxMTdWMjdzWWdtVm0xVFlJczRPVkRmTWRLbjZjalpHTU95R0tkSHZCNVV1TXZCcDlqaEhiS1BiOHdBbF9jRmdhNnd1c280b0F1SG9rbUdoaEN6R0dpeXkzcjNtMDJEakVsYjdJeHNMZFhYQUtNYUpMbkdRcllkaDFYS3hB?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNUxVdVE1WFBYZ1RxY3dQTTN1VGcxQjJib1hHV1BoRV9nSTNlc2tHeXhuX3lIMlFwbDFQamltbjljakpVVG9YZjdqcldnNllxZV9ZSkFNVGRnVDByR19QNmthY19TRHZTVUdtRFhhaHctSUhXang3VGF2TVdkMklQaXpwOUNVZENtdmlSWVdraDIySTNrejRudElXVjZJcnVSUTd3MEdGcWdYbS1Lb1FrR1ZXNzFJdzNBQ2pLLU9tcnE5d3VXaGoycWgtU3hyV1VsTFV2bFVpOXMzVWMtWjljcXNHdU5tQjd1a3NvcENWeXdPLWM1dF8wTHRReGJBTEgyNmfSAYcCQVVfeXFMTzhuWmlfbkREWmZ2TGVaRW5fVXNpSUJ2SnRJRXlTdHFvcXZXYjJxMkc2VDk5QWV5UkNSWjhnNVR1SVh4TUppNTFrbFo1Z2tLOHlTRlV3ekU3OWEtb2pFNGFlODdFdlJIbWt5ei1scVBraTNBcm1yeG9DemZJdUJJWkREYmNIVmpVZ0RQT2RuUENreTFveU01OXRWbzlGNkx0X1ZISWU3dk5mekRmNmRPQzMwZC1udVp2TlJmTGlRM29QNGFqa1Z0OUFYWnowY0pjUFRlUV9ma3dKQjRSdkl3SGdNNEtyWnFkSjRQUXNIYjkybXhYaVJjb1U5Y3lHRHNWQjVGS2dSNEk?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar Raises Rabi Crop Cultivation Target To 48 Lakh Hectares, Offers 40% Subsidies to Farmers For Alternative Crops. An economy-related story. Covered by The Times of India and ETV Bharat.",
+      "image": "images/bihar-raises-rabi-crop-cultivation-target-to-48-lakh-hectare.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "key-accused-in-bihar-rjd-leader-s-murder-arrested-from-kolla",
       "headline": "Key Accused in Bihar RJD Leader's Murder Arrested From Kollam in Keralam - Deccan Chronicle",
@@ -18,7 +45,7 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYW9mYUh0QlBDR2tEZmZMM3pZX09TWFQ1RDNZWWNEdW9qeFd0N3lTcW9sOTlJanVlWERhb2pVN3RUUVRaeEFNMjVYTFdSeTFCSXpsQUNYYVJ4NWgzQ1BnUUwwaXZWRXNyeVVCWTVfQy01ZEU2N3NVV3V1Z3pnNEl2X1dXeFZfUTRRX0k2OHJVN0JrMU9menhFeHFqeGh6RFNfS2hoM1B4VDM0R0NqN3JtaTBQd3hGNXIycmo5dVNRX0vSAcYBQVVfeXFMTXN3ZXRNb1dYd2h6SVQ2MnJZM0hBSG9QYXpzcjh1NldIcGMxUE9nVGxfdjBOS0swSnB6WFFpWklzM1kzemFCNi1DZXN0SVVmVDUxOFY0QUx5WjBlSzZDYl9qWGhJYlRKVTFDWVZNX0dEOU1SSlU2SldSNUNob0cxeHcybDdpamRLelpwYjM3VW1YOF95bTctUWo0cTlxLTRMNjNrdGhpU2dCM1d3cnk1bFJyUnZaajJfbWdfQ0lHY0x5NEZIajdn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbF9kRkc3eW50TWdPeXN4MHJ5ZUE1X1NMa3JLb2tOekVDSTN3SHVZemRMdVBIRk9FRU0tdnlvbW9aWFZpX01jSVlXRkltWjhGSUJORVlxckFHMVdta3Q2clFnM1R3YUpMVG5uUWYtY29UVkVwYVRXc2RWQy1kWVprQ2Vpb3owYzh6NHE3Yk96cjY4OWVKVURZSXpDSVRKN1Z0UHVuQWZmRW9NbGNybzhWZXQ0cHJOVHNSN1ZabUJB0gHDAUFVX3lxTE56eWZEWEgwOVNuSjRXUUY5U25pbmRKZVZBZ2pUak9xQVBIcU5oTkk3c2d5a2ZqR1NjUkpzZnNacUI1ZEkyVk5xVVVhX3FzVG02MjVlSHRQTGFQN25iOUsyb1FjbFZkVUhTbVFMRkh3N0x5Skp1Nk1LZmZwbUpYcUZ4WjR1cG9oSkJoMHAzYVNLRWptcFNrMFZxbXNRbTVUNkVKamxxcGZWaTBsZUxSSTNyaTBGVVU4UEQ4Y2xtbk9qTUNWYw?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -48,11 +75,6 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbF9kRkc3eW50TWdPeXN4MHJ5ZUE1X1NMa3JLb2tOekVDSTN3SHVZemRMdVBIRk9FRU0tdnlvbW9aWFZpX01jSVlXRkltWjhGSUJORVlxckFHMVdta3Q2clFnM1R3YUpMVG5uUWYtY29UVkVwYVRXc2RWQy1kWVprQ2Vpb3owYzh6NHE3Yk96cjY4OWVKVURZSXpDSVRKN1Z0UHVuQWZmRW9NbGNybzhWZXQ0cHJOVHNSN1ZabUJB0gHDAUFVX3lxTE56eWZEWEgwOVNuSjRXUUY5U25pbmRKZVZBZ2pUak9xQVBIcU5oTkk3c2d5a2ZqR1NjUkpzZnNacUI1ZEkyVk5xVVVhX3FzVG02MjVlSHRQTGFQN25iOUsyb1FjbFZkVUhTbVFMRkh3N0x5Skp1Nk1LZmZwbUpYcUZ4WjR1cG9oSkJoMHAzYVNLRWptcFNrMFZxbXNRbTVUNkVKamxxcGZWaTBsZUxSSTNyaTBGVVU4UEQ4Y2xtbk9qTUNWYw?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHpLbTk4VVQ2bWxzeFpSMklIVkVQcXF4eTlUeGV6bHQ0bzVqdlB0clVQOXc5bnl0N2RBSWl1OGo1emkwSmxxVmpMVktUWUM1U1JGSVRxeTVJZnZ0X1ppeDNpaFoxUndXdFBheTdzYmZtdGdhdGJmamtBRllGMHNsRlNqbTQ4a29oMkNObFF3TVV6Q3FONjNQaVI4d0lIWjh6N0xlQUI2TnVSRjJyT3lWeGRNZlV4VDVOcGhvMGVENEbSAcYBQVVfeXFMT2E4cElUOU92UGN3UmhreDNZUlhsUXFMeWFkMGY1RjhvR0NsaVBVdDVpMFNLczBXcW90SEFGMVNGbEdiNjFMVE8xZGtDZExZZGJaVVBnYWc0TFZWR29pc1BBbnpBX0xraFdIaHF0akd1dUZYUXZOR1lPN2tUeWc4bFZzT09nQXVQdl9WdFNCUFExOERBY2wzM3FBSVh0MlBHZktIdUFQUld3MjF1eHQ2Y2xjU1F4a2lTaHFQMU5YcmthZzR4OVdn?oc=5"
         },
         {
@@ -74,33 +96,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-raises-rabi-crop-cultivation-target-to-48-lakh-hectare",
-      "headline": "Bihar Raises Rabi Crop Cultivation Target To 48 Lakh Hectares, Offers 40% Subsidies to Farmers For Alternative Crops - ETV Bharat",
-      "summary": "",
-      "date": "2026-11-07",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUzBFMnhnTmh2Y1UxUWJhcHNDTzhRcjhneU9ZRVRNVTlYdUhGNF8zQjVHU2JXbi1SRHJ4VzNfZzNsVU8yUXYwcGVQYUxnV3lMRlRWVUNfQ3NUSDlUWXRNXzFyUzdJZXRraTdzS0p0THF5WXI5X1RBWWRwUFpyeTFWOTRvZ0UwZFlROXZiOUFFT0t4czh3eVVfTTkzZTBocDRMRTdkSE5KNzNlWTRoVEk3ejZrOEpZb0k4N01TbnJmWXJHeUNrMzFjY2lISjVHZ9IB0wFBVV95cUxPQm5qY0pBMWtYMU5PUHJpRUhiQ0RrSmRfa3JNWnFoRXlaeTVWamd5WnRrWV9vaDBQOVB1MXB4YzBiaGJOeWx3NmNVSGNQbEE5eDVNRGl6dUZxMTdWMjdzWWdtVm0xVFlJczRPVkRmTWRLbjZjalpHTU95R0tkSHZCNVV1TXZCcDlqaEhiS1BiOHdBbF9jRmdhNnd1c280b0F1SG9rbUdoaEN6R0dpeXkzcjNtMDJEakVsYjdJeHNMZFhYQUtNYUpMbkdRcllkaDFYS3hB?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNUxVdVE1WFBYZ1RxY3dQTTN1VGcxQjJib1hHV1BoRV9nSTNlc2tHeXhuX3lIMlFwbDFQamltbjljakpVVG9YZjdqcldnNllxZV9ZSkFNVGRnVDByR19QNmthY19TRHZTVUdtRFhhaHctSUhXang3VGF2TVdkMklQaXpwOUNVZENtdmlSWVdraDIySTNrejRudElXVjZJcnVSUTd3MEdGcWdYbS1Lb1FrR1ZXNzFJdzNBQ2pLLU9tcnE5d3VXaGoycWgtU3hyV1VsTFV2bFVpOXMzVWMtWjljcXNHdU5tQjd1a3NvcENWeXdPLWM1dF8wTHRReGJBTEgyNmfSAYcCQVVfeXFMTzhuWmlfbkREWmZ2TGVaRW5fVXNpSUJ2SnRJRXlTdHFvcXZXYjJxMkc2VDk5QWV5UkNSWjhnNVR1SVh4TUppNTFrbFo1Z2tLOHlTRlV3ekU3OWEtb2pFNGFlODdFdlJIbWt5ei1scVBraTNBcm1yeG9DemZJdUJJWkREYmNIVmpVZ0RQT2RuUENreTFveU01OXRWbzlGNkx0X1ZISWU3dk5mekRmNmRPQzMwZC1udVp2TlJmTGlRM29QNGFqa1Z0OUFYWnowY0pjUFRlUV9ma3dKQjRSdkl3SGdNNEtyWnFkSjRQUXNIYjkybXhYaVJjb1U5Y3lHRHNWQjVGS2dSNEk?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Raises Rabi Crop Cultivation Target To 48 Lakh Hectares, Offers 40% Subsidies to Farmers For Alternative Crops. An economy-related story. Covered by The Times of India and ETV Bharat.",
-      "image": "images/bihar-raises-rabi-crop-cultivation-target-to-48-lakh-hectare.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus",
       "headline": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh - The Times of India",
       "summary": "",
@@ -110,9 +105,9 @@
       ],
       "sources": [
         {
-          "outlet": "ESPN India",
+          "outlet": "Cricinfo",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3lZT0h1bko0SENzcy1ZRXZDak85Tkt1SndoZUhySTNyN0JPaXJFQWJqc2wwWFlBcDlzMGhCUkpyeFYtOU56LXE4c3A0Y1FuRlo2QUdnMFhkUzhjaU9jaGNCX0xyc2tEekU5b3ViV2xsYW9CQTZ0TVI0ZEd0c21YZXJHZ212WkNrUFU2dXdPY2lBdWlIN2FV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
         },
         {
           "outlet": "India TV News",
@@ -150,11 +145,6 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWtyTTRMRVZveEpxWHRsbEVTbHlxUDJRY3dMM25SRlYzaUd4WVFhVEJSTENYQlpPU2NvOURhM1FXaE8tZGpKZHk1Z2JSU2dIVVIyMllRUTJSekhHWDZOVTYzZ1NCeUktWFZiNzR0WERMdEVHTnZ3RTFLci1QRnRsbU1PaXZtMEU3X3VQZFpyWHloOS1USzRzTDVkbVQ0VGVa?oc=5"
         },
         {
-          "outlet": "Cricinfo",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
-        },
-        {
           "outlet": "Newsband",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzRWMUFtSEVvbHl1eFJ3Ym00bW9kZVlaM29tMEJONFlhcWJwOWZYVGl4S0J4anhISS1fT3pFa2xrRTRMVF9rZ2NJQnhlNDBHZlhuenlnSS1Ic1F6alpsb25meWVDc1V2dHBwS0UwMTNQY2kzMi1JTkw4THJhT0tMendTM052NjNNOTY4?oc=5"
@@ -185,14 +175,14 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUy1xVlZMeGFVZEZEZGF0d0dYalJPcUNkMmlQb1hOMkJHaXR2Q1dTZGRHUTIwTzBleEVfY2M0aC11WEFvcENJdVlNOWdBMW9XUm9WSld6RGdteGx6Q3JPSnFGSG94anVTSE5OUDRDOTMtRURmdXRkb29FLXNxZFJjMkVBcjVvbzVYRkp3dWJhdkFJWktuYU1pM2VFcU5sMEFkUXpkbE1DUzg3ZHVXWHdETzR2Y0xBQdIBuwFBVV95cUxNcXR6ZTFkcUctUWlFaTNXMHdaMDhFUkZGbjdVV3plU2tOU3Q0R05fUWtIcjRQZE1qeTg5REFOeDcxbWVhMW4yRkVaOG1MRUJpcE1lYThjS1hxcGhvOHdJQ0Q3bVREbG5IdG1mVlVlTXA4UU9rbFEyVmoteXRMRTFwWDFwTk9xZUI5dnd3Y25fcnV5M1NuLVhwUU02VUxJcWtjdnAyRlY4MlNhU0RyTk9vYWhNa1cwdWdFZGI4?oc=5"
         },
         {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmotUXJOd1ZuOXFtYmY4TGE0U0M4Q2MyM3puS3FDYm51Z1dyengxVGRoRFdRUFdHWUFuQVpRU3ZNYXl3TkhZN2tkeUMzdU1NQUM2T09Ia0RJdWM0cVRVVFl0aER5Tl8zUVN3WFVEQ1BDS01LbUdZZHB6ekRSczFrOGR6b1lKTEZjbGpVSTAyM0w3WmRyM1lQMHdzNkgtaGRsbWNzYg?oc=5"
-        },
-        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOUtnd0taby1vMUpBRTRfSXZUbXNMTFlscVpROFM2alJwbkluMHVBdU5hYTNCVmVXUVV0RjBhZzdzNXNtYW9qM2ZhQmh4dndnZHRUOFFWbUxLTzRyUlpic0pLTmlMWE9EeUNpQnpiaXVvenlncDZVUDB5ZGctRE5NZ1lmM3NtTmRwRkdUZTFDMXhqcVZtZ0xReUNsY2R4S3pyUzJhMllIUW9nQmlUN2RzV0t2MnU5cUFDeXFsM1JrMy1WQzhNdDNuWGpKb2FFMW9RdTlwb2stdkt2QnRXRzAxSdIB5gFBVV95cUxPbGhtTzFVSXdueGRFN0xvZ3A1SFJwTjJnRkgxal8tdTlKX3gzTUdIRU1FMDFCS1JkRENVTzFadENDekhYX2YtbE1hMnlBaXhmZzV2dE0xTGhjVlBfSElXV0wzUWZSUFBtMWlZNmVDaWVTdENJV3otT3ZqS0o0WDM4X0JqYWVPWVVjSGtWc1RZZEF6R0FvU25nWGo4SHNURU5iVGktTjFoczNnYTRPcHRuM2NDVFRmMkVpNW1hbl9yTnpQUUtUT3ZZVjRWYnFIQ0xaNDRQeTJrX21icXJKbnQ4UjRsZnk2dw?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmotUXJOd1ZuOXFtYmY4TGE0U0M4Q2MyM3puS3FDYm51Z1dyengxVGRoRFdRUFdHWUFuQVpRU3ZNYXl3TkhZN2tkeUMzdU1NQUM2T09Ia0RJdWM0cVRVVFl0aER5Tl8zUVN3WFVEQ1BDS01LbUdZZHB6ekRSczFrOGR6b1lKTEZjbGpVSTAyM0w3WmRyM1lQMHdzNkgtaGRsbWNzYg?oc=5"
         },
         {
           "outlet": "News18",
@@ -202,7 +192,7 @@
         {
           "outlet": "Cricbuzz",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXZWS0pORU83alJTT1lDTXJCeDVkcmZ4WHhEZDI2aUVFUV9QdW9mMmV1TnYzVkYwVnlVYTY3Q0VNTG4tTmN4bFc2YW1jUWZsX21xaDBBT1lLOG1qSk04dUtUdGJpSVVGYjRJYXFEN0gxODA4Y1lqT2hZak5WM3FNRzZiQWNlSnBnY1ZRZjIwQy1sNTh0T09PeUctUVl6OXhSMEIwZDBQeVRQd3ZrSmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdXNHRWg1aDVVSWN4Ul9ZYjBPXzZoMXc4VWZQQUR0TUtqcnhfSmV5RXJGdmozYjJ4Sk1hci1Xa2w3YU5QcTRQeXZ3ZkJITkFOVXdWcHdMaXd0MmVoYko2dnF4UVlXWE0zcTVtLWVJRDJRZE5jLVhnbkprRmZRWG1UUkJoeTIxSnZkUms3LU02NXBnLUU0c3V1bmFsQy1id0pUMnVndXpWMVozMk1vN0lGaVhfN1BsWHhwaGZFaTQ5RzB3OHY1TF9zTVRLMEw?oc=5"
         },
         {
           "outlet": "The Hindu",
@@ -215,10 +205,10 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb0R1X1M5X1JqSFBXTEhMQjBBYXVFYWR5U19MSzJXVzRKVjZMQ0ZXdWdCbXg3b2wwMnVxR2hPMTNJdmNsZVItZS1XNkN6SnZua0hDT0ZYcnhYZTdFc0x2dTRMLWVkSU1VdV9LYUZ1R2IzczhyRFFmX2Ywa25DVEhMQzYteTAyRHZLVVdzUzRqVkVhb0hnNEV5WUc0c09BemVhb2h6RHpvSkp5UmxRbWROSGs0RWdDUXFYdGo4eTAzbnE0MlRPeDBCcjFhV0fSAdIBQVVfeXFMT1lwVWxuYVNJVEpTYTVsOEVfT29KTUdQUjlsMXdzRHM2aktRa29JQVl5d0dIVVVEMGpsZGhYaTN3Q1dWNEFfVnp3Ny1mVmZTaFBFWll1d21GYTR2TnlfT3JFT0dhZWdvUXZ1R0o4MmpjanFtU1dCMk93WDg0MGMyWlpFUExhbFgtY3J3Yy11ZkV3dU9zYl80cGczRzdSVldTaFhuSTBGYXplT3g0cG11MzFKbkZGNUVOMXAzX09zVEdrSzRUdzI1SXhHU2R2TERNTXFn?oc=5"
         }
       ],
-      "source_count": 20,
+      "source_count": 19,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 20 outlets, including ESPN India and India TV News.",
+      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 19 outlets, including Cricinfo and India TV News.",
       "image": "images/vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus.jpg",
       "image_kind": "photo"
     },
@@ -448,12 +438,22 @@
           "outlet": "The Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVZWcDlXczFXR2tubGsxRWY1SzhaU0FxWWM2Q2VHWjZyd2hBS1ltTG5RRkQzSW03b01qZHJzSzB1blQ2WVlIRkpBSE5tLVE1eER0cmhpaUFiUHBrTHJrdExiM2FYbFhVX01DZGtoajBiMnEyVk53WVFVeGk1TDgwSEVaSk5JY3MtVXdpV1J4V3JZbndoeVgyVndRc0xKT05ZWkVNczY0c9IBrgFBVV95cUxOR1dCdmo0VEVOcWx3OHFzN0pWVHRlQzY2eFZ4Y0pGUkR1RURwQ0Y4N19SVjl5eXM0UTRrZDNUS3I0VUF2YWlJcDVTWjhhWjhuaElIX0JkZjRhR2U1ZE84LTJYSzJKeWpHVmZnam1oWnVPVlAtZ3pCcG9lZ2tEN1I1V2ZTT0Yzb3hjWTJ2Sks3WjgwdEdKYlhIbnNSRjV3dUk0TlBzV3BfazJrUlptdnc?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVW1mbDhFZ0NfbVZJX3VVWHR4ZEM2dDNVSnpyLUJxeEhWazJWT3NhT3IwLWtnVTJlVG1uZlUwWk4tUjlMZVdVaHh1X1BBZVpuQmZCOTh5OEpXbC1RWVg0RnJjWDh3Y0JGeTJWM0JyaktRb2ZiMFgyVjJaU3U0TEpOS3J6SEx2QUowWHp0bS1kbWZvZGdWZG1fVzF0RGtXb05RTFBQbk1aQ1NiMnRGUHRWV1pyX29ha2xEa2daeFI4QV9lTGdGQzlibWlMbjg2Q0U0TkR1Mg?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQemJJay12UzdYTFJWTjR5cnJ3LW1UVnBwal9mQjVCOTN1X0o3ZklVMmIzUVMtNzBlNmhlUVAxWk9pbkZWczRTN1Vva056OVQ0eUthUk5nTy1qXzY0LWlVZkthWTZ5R1ZudzNJZTFZdDlvWm92Q2REY2xLa2lqaGt4bVAxV05OcXBsWm44MlI4UTdZREgtTUZSWmlHQnZjSEk5TU1lN19oemJjVFNMaVR1SnB3T2w4UEdheTctRTZqTGE3QXZhbzhZUXctZG5zc1V4VUZEN2FETWRNa0RBbGRv0gHkAUFVX3lxTFBsUFRPY1M5UGQ3RGFWZW43MFl4LUtwUmhpcmVzVzdqbmdGRXdObkJKaHczS1BiX2NJejgxQ25JUXZfc2lmRjZleHc1VFdGb2VKZkdjRlllcEFEdVlCYkdmaDJtOFJmalBPM1dJTUJNWVVtbUg5RXBfTERGT191cGI2REk3TV91bmVybEZ3NWdSeGc1SldRQ1poTnpLbzdNU3I2RVZRU0Vyd25tYkdfMm5US2E4S0o3UXZQQmkwWkU5WmxNczJoUVdBZUhVanZtNzRpcjFZcXVFUHRNQ1VtU251OUd1Yw?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Three suspected criminals killed in exchange of fire with Bihar Police in Patna district. A politics-related story. Covered by 8 outlets, including ThePrint and The Hindu.",
+      "brief": "Three suspected criminals killed in exchange of fire with Bihar Police in Patna district. A politics-related story. Covered by 9 outlets, including ThePrint and The Hindu.",
       "image": "images/three-suspected-criminals-killed-in-exchange-of-fire-with-bi.jpg",
       "image_kind": "photo"
     },
@@ -514,33 +514,6 @@
       "genuineness_label": "Verified",
       "brief": "Bihar officer protests with a begging bowl, claims she didn't get salary for 8 months | Administration said action is being taken. A politics-related story. Covered by 3 outlets, including Inshorts and WION.",
       "image": "images/bihar-officer-protests-with-a-begging-bowl-claims-she-didn-t.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "lawyer-can-t-sue-client-for-defamation-for-ending-profession",
-      "headline": "Lawyer can't sue client for defamation for ending professional engagement: Patna High Court - Bar and Bench",
-      "summary": "",
-      "date": "2026-11-05",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Bar and Bench",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2ZwTFNXN0RHQmZSWnBoeWI1QVZGVzRmbVIyS0FVTUI1RU1Cb3pqVG1meHBJWkR6a241TFVxRXZVTnFFWjAyLVNIRzVSTGY5SDE4MXVPcTRGSFNkSmNsRGh5QnY0MDNwNVUtQ1REckNuZHZCbU53azJFOW1YSHUzajFhQ2VFTjM1OU5ZdlJFTGRabFBXTUJwaGt2Wld3dFJVVHNCb1R5Nkh4dmlRd2FRWDlLQmZQNkRMRUFTUGZyYjdlcWtFVjBYblg0b3phdw?oc=5"
-        },
-        {
-          "outlet": "LawChakra",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tU3dMSjBSRmNmaHN4RXRxdHJJTnN3NnZiamd4VE1zS09EczJBOElQS1dZT3BWTWZ5dVd2ZjdXcHZ6RkpsN1E0WXdCUXlxQW84OEowcjVhT05TeXpIUkxQTDdyOVpkaU5GWTdJbUpJM0RFRlp0ZVJQcEw4cjE3bms?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Lawyer can't sue client for defamation for ending professional engagement: Patna High Court. Covered by Bar and Bench and LawChakra.",
-      "image": "images/lawyer-can-t-sue-client-for-defamation-for-ending-profession.jpg",
       "image_kind": "photo"
     },
     {
