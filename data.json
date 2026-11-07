@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07 09:54 UTC",
-  "generated_at_ist": "07 Nov 2026, 03:24 PM IST",
-  "story_count": 46,
+  "generated_at": "2026-11-07 10:54 UTC",
+  "generated_at_ist": "07 Nov 2026, 04:24 PM IST",
+  "story_count": 48,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -79,11 +79,39 @@
       "image_kind": "photo"
     },
     {
-      "id": "vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus",
-      "headline": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh - The Times of India",
+      "id": "vande-bharat-festival-special-train-between-delhi-and-patna-",
+      "headline": "Vande Bharat Festival Special Train Between Delhi And Patna - Sarkaritel.com",
       "summary": "",
       "date": "2026-11-07",
       "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "UdaipurTimes.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnFPWXhVQUxRY01VNC05RnZVWk1yWFY5amVYWjZpTXN6cTZFellPMXJDNVBwRFQtbFNFOVR2Q1JMV2VoWklFUWZBWlVEYVM5ZkNLbVNjMW9VU1BHN0dxNHlCZktRckZSZ0lvUFYxQ1R3b0RoQ3JFbkVNcENKZWNyN1Z3R1FxQkI0SFVhZmx3dw?oc=5"
+        },
+        {
+          "outlet": "Sarkaritel.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnhscGZ6Y2JlVlpZbTVaTUpLZHRNdnU0RzRaSDYyNjVZdEg5bXBkbFAwNEVDNk81ZEhIZ3Y1bFpkNEl6bS1aNm9zYTVkSUtQWXFoNnhxRjlnUDNGRnM5eW5tOGhHOEtDd1hGcmxTZlF4bkRpOFVwdE9pOEpvZFFYUGJpWWtmMm9TRU1RQTJKQThxa0E?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Vande Bharat Festival Special Train Between Delhi And Patna. A civic-infrastructure story. Covered by UdaipurTimes.com and Sarkaritel.com.",
+      "image": "images/vande-bharat-festival-special-train-between-delhi-and-patna-.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "vaibhav-sooryavanshi-named-bihar-captain-for-syed-mushtaq-al",
+      "headline": "Vaibhav Sooryavanshi Named Bihar Captain for Syed Mushtaq Ali Trophy Opener; Nitish Rana Dropped from Delhi Squad - Pragativadi",
+      "summary": "",
+      "date": "2026-11-07",
+      "topics": [
+        "politics",
         "crime"
       ],
       "sources": [
@@ -93,19 +121,14 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3lZT0h1bko0SENzcy1ZRXZDak85Tkt1SndoZUhySTNyN0JPaXJFQWJqc2wwWFlBcDlzMGhCUkpyeFYtOU56LXE4c3A0Y1FuRlo2QUdnMFhkUzhjaU9jaGNCX0xyc2tEekU5b3ViV2xsYW9CQTZ0TVI0ZEd0c21YZXJHZ212WkNrUFU2dXdPY2lBdWlIN2FV?oc=5"
         },
         {
-          "outlet": "Cricbuzz",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21RZEQ0NWpBVnVibjhSdXAwYTRKOUo0dWs5eDJlWWxxcXRvajZmbmVjeFlXZWFiNjFid0Z1RXF4Wm1fQnNqRzF6ZVNuWDQ0TnpDcE1FVjM1WnNSNm5XbERqUkJzR0dvcUpVM1hiU3BTbUNPdmZ2YmhUSko2d0JOSXktX3JXbTJ5c3h5RHV5bExqNFBMMVg5SFQ1MGVzcVhVVFBLYUdVNVF3YzA?oc=5"
-        },
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTllGclNsVWFUYUJTTllqV2VoMk9KWEJqY1ZiZXJpMUg0TEZwN1NtNFZpQlVGcUhKN2Izck03aFgwM2tqZFNmbi11aUI4cmg4dTYwcmF0NU9lMHZNb3F0dlc1bkVTTWpjVzBEd0JUREJHbzhOSVZycXRzX0FCS01BWUZtaUx6WmUtc3YtT25RSjRzSWVRdlhrVFlkeDFHTmQ5NUtOcUhCWm5mdnN0M3drQU1RSknSAbcBQVVfeXFMTkhnR1RaeTRjMU91QU9rTHV4WUxOekdHMEFnQVgxeGVkTTY0TV9aY1BhandkX3VHb1AtcnNLeTBtTkxPZHlhOFk5amZ2dzBMVHl3WDcxNWI3eHBWcG5RTm80ZkV5RHJNUkVRdHN1TFJ3Q1llR2x3SjJSSEZXcmVhaUFjeHlDelAwdUlxVDVIUlM1X2ZIRVhDWDRhVDZjWGlGMkFrbnNPb0sxMUpVc0pHU2NMWlFIRkZj?oc=5"
-        },
-        {
           "outlet": "India TV News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNnlneW50alJTRlFldnl2TUNMTjRpM0s1dGhPVllZVFRuSG5ZVjZJWmJQOTdzZUFUSk1nMWJBbTE1RUpFNVl6T0FWY2hfM3lfTWlCeVE4ZTdjOXZSd01IdHNOQ0JtUUJidk4waWU1RWljTmswZEIxMzNpUXlNcVhpVC1SVlprU1ZNWlhUVUxhUXdoaUVUc3NrZWxTaGU1VXBhQkRlX25tLWUtM3JQVGg5VjdUVkdhNUtHUVh0SVJTbGREejB6aWlyNFNpU0Q2T2N0SGRNWkp3ampHaVdY0gHiAUFVX3lxTE1zeDFjUzk5RGlRb2xhZG0wS0l4elk2MXFiUlF0aGE0T0ZaOVlqZTc0bzNib3IydGNodXZ0bU82WmdJZlZaQ2R1WXh2TWFDWTdxMElRS1ZXWHdJZmcyOGhFLTBfU2xHZmQ5U2JBWTVoNkhtNU00cGdad25qSElKcVBFcWd2aVBnbkJxbmVuNTFFZnRjY2xsSkd2TFlaS2IwVzNsMl9XNGdvdGhSZUN3aVBrU05UZHphT2t6WjhnTXl0OWtpUldLaDB3cXEzRDkzWmpZQXYwclJEQjR2cjYxbkNqN3c?oc=5"
+        },
+        {
+          "outlet": "Cricbuzz",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21RZEQ0NWpBVnVibjhSdXAwYTRKOUo0dWs5eDJlWWxxcXRvajZmbmVjeFlXZWFiNjFid0Z1RXF4Wm1fQnNqRzF6ZVNuWDQ0TnpDcE1FVjM1WnNSNm5XbERqUkJzR0dvcUpVM1hiU3BTbUNPdmZ2YmhUSko2d0JOSXktX3JXbTJ5c3h5RHV5bExqNFBMMVg5SFQ1MGVzcVhVVFBLYUdVNVF3YzA?oc=5"
         },
         {
           "outlet": "The Hindu",
@@ -168,19 +191,14 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWtyTTRMRVZveEpxWHRsbEVTbHlxUDJRY3dMM25SRlYzaUd4WVFhVEJSTENYQlpPU2NvOURhM1FXaE8tZGpKZHk1Z2JSU2dIVVIyMllRUTJSekhHWDZOVTYzZ1NCeUktWFZiNzR0WERMdEVHTnZ3RTFLci1QRnRsbU1PaXZtMEU3X3VQZFpyWHloOS1USzRzTDVkbVQ0VGVa?oc=5"
         },
         {
-          "outlet": "Gulf News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmdhMEYtRlJ1Q3NidU5rcXhhRk1NSDcwclUxLVlIWVczcFI0S0ZHVTRQa3BvemR0dURJblRsMkFDWlk3YmgteG9rVmhYNWRlYkttY0U3RFpiNWlaaW9ncmVsUG1EbGpJQm5ZWnRvck0xV0RNeUZxcXFNUUk5YnRZdHRnSWpJTzd5WG1fd3dMQ1A2UDgta2JXcnFWcFlueGlQbWUwMHNWSXFhMklIQVc5V2dBMEJEcHpfYXZ1V2pB0gHQAUFVX3lxTE5abTVRS3hha2hCalZ3a2wwVEgxR3l4Z1ZPdG1haDJVMHFBVnFqTTB4cU42SHJIWDllb1dxNVVRRTliTExLYjM0ei1Ob09JNEhkcE1PNWJfNHVFampfMVlLQ3F6M0VheGJaMjhhaXFuaElmR1hYSHNJNlR4SDhGb0d4VGFrMkxiN052clEwRmNuR2JWWEtsZnp1dmRxdWlqUkVzc2ZPUHFPREcyRGdSNGtWTS1mRUdoY2R2TVVhR1BqYTY2RC1vYi00cWZ1WEhNdkk?oc=5"
-        },
-        {
           "outlet": "Newsband",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMEthT0h0MFI1Nnc3MjFxV0Z6bVNrY1BEWWtOZVFFWkdMTjZZZlJpcG4xMjhJTG5hVEstRkxvMENEdk1sQkg2YVlRaUhobFJUTHhHcGJnRUdFR3pEZ3FnU0FLbnoyQ3hCamY1ekVjeUhNVURZVm8zeU5KVlVTNEVjaEdWMW5kQQ?oc=5"
         },
         {
-          "outlet": "Cricbuzz",
+          "outlet": "Gulf News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2t5LVJ3Zk9NSEc5djZKVGNfOUNpVkZXLUMyMHF5LW5lZnRzTWFROHpkVlBPOXVTNmFBV3loYlRVMHFxR29iNHFKMk5QVnU4ZDE2ekpubjduQk9KcXVHbzRmc3VpOGhKUmxtMUs5cXFFYWZjdG5kVjdsd2lNVUxScmZoNTNzTDVDNUpvRVBoZ3pRMDhKUm1XZlcwbEN4NDRWN093RVdGbEJLWnM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmdhMEYtRlJ1Q3NidU5rcXhhRk1NSDcwclUxLVlIWVczcFI0S0ZHVTRQa3BvemR0dURJblRsMkFDWlk3YmgteG9rVmhYNWRlYkttY0U3RFpiNWlaaW9ncmVsUG1EbGpJQm5ZWnRvck0xV0RNeUZxcXFNUUk5YnRZdHRnSWpJTzd5WG1fd3dMQ1A2UDgta2JXcnFWcFlueGlQbWUwMHNWSXFhMklIQVc5V2dBMEJEcHpfYXZ1V2pB0gHQAUFVX3lxTE5abTVRS3hha2hCalZ3a2wwVEgxR3l4Z1ZPdG1haDJVMHFBVnFqTTB4cU42SHJIWDllb1dxNVVRRTliTExLYjM0ei1Ob09JNEhkcE1PNWJfNHVFampfMVlLQ3F6M0VheGJaMjhhaXFuaElmR1hYSHNJNlR4SDhGb0d4VGFrMkxiN052clEwRmNuR2JWWEtsZnp1dmRxdWlqUkVzc2ZPUHFPREcyRGdSNGtWTS1mRUdoY2R2TVVhR1BqYTY2RC1vYi00cWZ1WEhNdkk?oc=5"
         },
         {
           "outlet": "The Statesman",
@@ -206,18 +224,33 @@
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDJlczNfdXFKSUNESHBPczRWUGNuY3lKQllNb1NiOVFQTlZOOUV4N05QNlRrcjJJSkNhWTF1QmFySnk1Y29Ic3BvYm4tcmlpbzF5R1R2ZjUwaDF2NTRfdVlZcUJRMXY4bGFVQ2kwdHBxUmU4aFNKc2hWQkxqaDFoNW5nYm9JakViOGY0SDVvWmJyS3dpWmFMQWV2UkYyQ0stMERZ?oc=5"
+        },
+        {
+          "outlet": "Pragativadi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORTFqcm5zOXhqYUI2SUs4U2F5SlhzQmVUWlg3WmVieWNmYmlScmgzbXdLdHJzcmpPcXBTRmRhbGdQajJ0MFlUY1Y2Wm00Y1BGT0FwOEZsdk00bU51dGZudzVaV3hGcnNvNW5ZZ3cxamtLOTVaTUZGOVFOblE1NjZScVBydHZtYXdHbjFpNjE4MW8wc2hqR1pueHVnNkZiRmY0SzNKM1gwd29xNlpPSkZDTXYtXzNsUVgxTWtfTzRHVlk5TmFENWRya3E2N3pMdUhTdFVn?oc=5"
+        },
+        {
+          "outlet": "Cricbuzz",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXZWS0pORU83alJTT1lDTXJCeDVkcmZ4WHhEZDI2aUVFUV9QdW9mMmV1TnYzVkYwVnlVYTY3Q0VNTG4tTmN4bFc2YW1jUWZsX21xaDBBT1lLOG1qSk04dUtUdGJpSVVGYjRJYXFEN0gxODA4Y1lqT2hZak5WM3FNRzZiQWNlSnBnY1ZRZjIwQy1sNTh0T09PeUctUVl6OXhSMEIwZDBQeVRQd3ZrSmc?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTllGclNsVWFUYUJTTllqV2VoMk9KWEJqY1ZiZXJpMUg0TEZwN1NtNFZpQlVGcUhKN2Izck03aFgwM2tqZFNmbi11aUI4cmg4dTYwcmF0NU9lMHZNb3F0dlc1bkVTTWpjVzBEd0JUREJHbzhOSVZycXRzX0FCS01BWUZtaUx6WmUtc3YtT25RSjRzSWVRdlhrVFlkeDFHTmQ5NUtOcUhCWm5mdnN0M3drQU1RSkk?oc=5"
         }
       ],
-      "source_count": 22,
+      "source_count": 23,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 22 outlets, including ESPN India and Cricbuzz.",
-      "image": "images/vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus.jpg",
+      "brief": "Vaibhav Sooryavanshi Named Bihar Captain for Syed Mushtaq Ali Trophy Opener; Nitish Rana Dropped from Delhi Squad. A politics-related story. Covered by 23 outlets, including ESPN India and India TV News.",
+      "image": "images/vaibhav-sooryavanshi-named-bihar-captain-for-syed-mushtaq-al.jpg",
       "image_kind": "photo"
     },
     {
       "id": "bihar-govt-directs-departments-to-clear-salary-dues-before-f",
-      "headline": "Bihar govt directs departments to clear salary dues before festive season - Moneycontrol.com",
+      "headline": "Bihar govt directs departments to clear salary dues before festive season - ET Government",
       "summary": "",
       "date": "2026-11-07",
       "topics": [
@@ -230,22 +263,44 @@
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZWFocHN1YWprRk1ONVRSLVU4eHlueHdERUwtZ2U5cTdPY1NidENkV0RncVUwb1JZYUdVSlNORUhIUU5tQWtzQnVCR3N0WHZPY0JZb1hfNTE3d0hQX1RoYy1icHloLTRINzdwdXE0Y1lRVE9XM3B4c21nbEVoT1lmcjhKREROczNnRVVVTkk2U0pYbkpERzRXTERRdlZzeWlQZnJlUUFEdXI0TUtJRDEwUGxaMmZOWHhkY1dTcG1wekx1NFo2WktJTEM1Mnk2TUQtaFV6Q3N6b1ZKQlEteldibdIB5AFBVV95cUxPcm95U0JDX0pQeHpvREtFZ2IyWUpGWWc4RExiZTV3S2VqQjdNWmRST1ltTXQ4a1lSTVpSZWVmd0JBc1o1Y3BfRl83djI4eVd1WW42X1VFU0NZY1I1bGF0U1F5Tm1xaXZ1TEpCRk05ZFp1NmJUZ2NmQ04zUUludUZ6QzJqSzRFbjVNRFpsZUJlVzlTbGZKQWlPaEpTV0hGVGp0eHJUTmk0N3pFb0VwUmc0Sm9ISWg0VGZDYTdFa2VrcWpNTTJ2clJhb3Ewb3E5WFdWMmgtTzY1eUREbFVXZVhXQnk4R3g?oc=5"
         },
         {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNXU2WlpGUHJmd1RVeHQ3TEVDdjJEZ0pYaUJNV0hmbkJ2TzRabzJDb2JURk5wZFZ3c0R4Qzg1cEJiUTJIVjBMZjdMTFE5bHhPSVVyempMdW8xYllXbFNzRjV4Z3oxQjFadmJMRTJvRWFYT0o0OVZwYzB4SGhiME1kNzhvbGliSUZGaXlMeS1SeGNSTDB3TUlqMUw0cnE5NktJOGZZbFFsY3Yzd0xGdU1SY3hFYUFkdVF4cFBzcnNENlpzSmZyVkHSAcsBQVVfeXFMUDZZaWxVMGhVMy04ZWt2LWlzU1R1VXgtSndQOWdBc3p3NWpuaURFYm1YTXRYYk55bFlZWC1ENzlxWGJZcGlFdDNtVzFtWXhQbU1HWVRjcDJXWlA3aW1LUXFtRDM5V3lCaWQ0bnVwaWFILVhudENjeGMwUERva3FrRmI4Z2h4MlozczF0UTB4ek5pZ1k1STBlTWFzVVYyT015UHJNa2U3dzRVb2F4X2FIbVV3Z1lNNGE3THNYRjVBb21tek50Rk9mNjcxVlk?oc=5"
-        },
-        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU93QjAtNmRHX0FISG9NS2czOFlpUmxPRUZkbjMtNEc1bWJ0a2UxSG9UVVhoYjBtbklGNzFVRW96Zjg2QUJsMVBnUU5QT2NYTmdybDVQaXo3dXU5REJLRHN2bGFsMERWektvcWI2X044aVZuM0xDZVRHY1FYVWoxdWNFaHpyakhTTWR5MXU4RkY4cGtfVFJidXVFamdsLUEtZzBaNnVzWlcya1Ax0gGyAUFVX3lxTE9jR3VldDdnZnBMTXRXZy1jZkE2cDBTcjFhT1R4T2RrdEI0Y2xzekFrdXZwYnZ0MkZsWkg0Qnd3c3ktSjNiMjVYNWVPenNCMW9WR094a0xYV0l4OGFzX0VhNnZDRjZMbFdZdTd4OUdXaDhTVUUwbG93bDN4cGkxd0Q0MVNRWnpsdm9acldIODRFNnJKVHZYVjAxc2F0b055QXA4OFY0TjdwV1JXT2RqcHhXd3c?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar govt directs departments to clear salary dues before festive season. Covered by 3 outlets, including ET Government and Moneycontrol.com.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar govt directs departments to clear salary dues before festive season. Covered by ET Government and ThePrint.",
       "image": "images/bihar-govt-directs-departments-to-clear-salary-dues-before-f.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "missing-bihar-constable-found-dead-in-river-after-clash-with",
+      "headline": "Missing Bihar constable found dead in river after clash with suspected drug smugglers - ThePrint",
+      "summary": "",
+      "date": "2026-11-07",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQThPY0ZoUUlzdzV6TFVrUnFULXozTmJVcFA4dG9JVkg4Ny12REhpcldLaDdhUWthdHNUWWtuVkU3RWF6cTZ0eEF1eFlJQ3VUVUoxQnlGWUtSUk9NQjR6SzJjaUF2cTFudU1HajZOTl9lQUF2aUJKZUtHaURlaFgzYm51Z2JXcjlVTFdZRmdtMnlIOEdYNVBSaU5Kd2czWXRDSkFlYm5RZWl6YlAxYURLOEJXZ1hJRlMwWEg2U9IBwgFBVV95cUxOdVc3TGVkMEtESGwyaDRDbEctNFI0MGlEWTZxWUV4TE5IQTNZcEdHMHRTdERJY2FBblJvVFByTDRBWW1BaU9CbFV6cjZobFNBTUxBSWFGWHBjUmlEQ3VrRHB1RWIyWGY1LTlsMkFTeE9yLUtyUmRaTkRnbWtJbkduRW1LNTgxenhhR1JZZGxPZXlveFdqdXN3a2xpeEFPTUl2NG1fTmY2VlNpM2lEVmlHbENuYnlrT01WVW9ZLTdpWktxZw?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemJPVEJNNEFnNzR5MjdScEY5SGdfNDhFZjI2ZE1STk5wTXk1azBza3p0R2FCZWhhVHhSZ0ZHZjdtdURvWXk0Mnp4d3VWOGVVNHN2WlFmME15Q05PSDlLSEh0c254LTE0RkZ4My1wa2VJXzA3b0RIVXRUZnlWMWRUSmxqRnVUY2ZTT05WQ1docDlfdG5MbmY1WkZXcmdWM1lTWC1MZTBOUHhldw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Missing Bihar constable found dead in river after clash with suspected drug smugglers. A crime-related story. Covered by ThePrint and Rediff.",
+      "image": "images/missing-bihar-constable-found-dead-in-river-after-clash-with.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "three-dead-and-six-injured-in-delhi-bihar-bus-accident-in-ku",
@@ -304,16 +359,6 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGlHU1gyM2dEZUdZVXdmZHVidXRaZk9uZWRnWGFXNHdHOTlfQ3BXZmtsTGRJdGVObkVqRUpPT3QyYmE1SXAwdXVNTFpVeWppeExZbURKZHdSZGhOajczS1RjenFlZ2htYlZyLVU5TllDanZVdFJ3bFJVaElkOFY0UUJaQXduaXV6Q2VOMlJXVEwwVTJGWUJaekpMOUdZcEYyemNNWjgxTklLLVBHZ3lqeHFBTFJJMUNub3dDZFk5NWVNc0NoV2toM0hDNVducHPSAdQBQVVfeXFMT2wtc054UjdQQVY4TC1Wc1BLejJ5S05RUVlUNmNUa3ZuQndSNE5SelVUcVNwLV9VSUNKUS1oVks0UmNHZy0zc3FQN29TQ0NYVWtRUGlvLTNJQUNPWlJxUWt6S0wzMFZBdC1fNFZ0RUJidGFSM3kzeVgtTy05bDJUbENFWnI5MkNURmktcFpsUGxMOE44eUVrTWwtX2Ffazd2MGhadzUwNkFSVXRyRDE1WHNHQ0dmYVdsSjNxWWpjTjZwOVp6ZndacHZIYm9peUwyTXdsSDg?oc=5"
         },
         {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdnk1TndFVDRtOEI3TXNPbWt2THhnM0x3bkFUTWFtbHRJeFRLY3lNejFCaWVJM1NiWk0wMGZZWUVaTmRWRFhsRHRSVEVHNUJXRXpGd29ndFRqRmlCNkVqT2pnVS1td3FORERjbWhwckVTQmhacFBGYW5FQU5wZ3ZmR2hoVTFsc3pJVjM4WGllcWkyczJBS2dCcVZtZ0lkbWJCZWpvVlhKbldGZkozTEs3dGVRcGJvN1pYRWswZUJybXNUdjJ3MjRJak0xcTVHX0cwRUxMcmVaaEoyU0J6YTRIZnFiUEJBWERNVFNrLVJpM2E1b2lNdFHSAfsBQVVfeXFMUEQ1UTI3MDIyZ0RpQWtMWGpmZlVoR1duT1pubXFBSTZ3TWdQWE1qMkNjTV9RaGo2OXlpN3pZQ3kwbEcyWWFxU2QtcmFxNHRYM3FpVUtoM1JlclBEWk9NQ2pQdjE4eGxzN0c2elZQVGFpUFUwUUFZaHgyaS1yVHpjTDR4eWNfR09BYUoxQzVzWmNKdWF2SWlmRWtTckxjYzhTMWlneGNTdjExemlfblI3YWh5M09DMnBfb3NsNm5FaThoY0dxUXFza19sbkJYZmFZbFRsRXNGZEdrQU83TFNDZDZVbGJsM0pURTdhYUM1QnF5aklTM1ZtUlFHRzQ?oc=5"
-        },
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYVpvYkJPcFFNdFNoRmh1S2Y3Z3liUVpXSENMd1pTTURLQ2QyRXFGYjJydDh0Yl9SaDBVN2NoTU1tWC1sQlFuN3pwallHWDhyTDNpUS1wbElkSHR1M3FyMWpGSmVmOUNtbTh5S0Y5SUxSVXpwcU9YY2xzdDV6UElVaFZFQ3h2blh2eTEzcVgtRG5FQkFrNzI3RkRROWM1UzZUcE1mdnVULVpVNG1SOC1sbDl1amZ6VHRDejlkTEJxUGU1UUs3WXczZ214OEVsNzVwNjh4bnVvRjFXbXJ5MU9jSDBn0gHnAUFVX3lxTE95NmZuajRDTGVXVTE5VUJNUUNLU1I0eWU4aGJ6SGNZeFo1N0djYzc2WUhmbjE5aW1JZGVuQWU5MXR6VjZFQkM1Q2VNbUVMVTk4UHZVV040amhldGRtU1Q1NEhraFRSQ0JPSFFJOFE4TFBrdC1CeDRUX0FUQjV0SjU4VFNuVkRBTG9HUmhfYUZXa3g4Vzc2cUZvZExLc25UbS15SWZHMEEyaHpPbGVCSDdoQ3d5VE5WNnEwVDJZdHlURUUydU9sOVpaUll0T1FxRVVVcjE4TVV5akR6eGZYMVd2U25aWE0zNA?oc=5"
-        },
-        {
           "outlet": "AajTak",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWl9hX2RzYk1WUUZLU0p2YVZlZzdrc3NxNUVaZlZWUW5KVTZMWEJwcW5rS1JFTWF1dFNXWjI1Mk8xampRS3JNZExlRXdpOVIxRUJQQ2VDNXdvYUtVME8zdFpRbm40N3JQNlFWSU5FUGNMQ0JBX0NzaS15YXBCWERzVF9XdUhBeDVWVm40S0l5dnRfSWFJQVo5YVVOR2N5UlpyMjNBaDVNR1hLTUtvMkg4MW1aanV0QkxfZHZieEx0RWJFWnBhc0huYk9TWkw2OTc5WXp4NHZ6a3dZYlhieHk2amtyNW1jN0lYSnYwX0Nn0gHzAUFVX3lxTE41Y0pUSWl6cEZaS2JmVFVKMXRYbTdQZ2dRZkw4dFNtMkhJYjZOTHctNGhjLVl5Qk5vd1UzMy1LUWVubU1hZ050aEpZTmhIQUd3UXY1WFNJV1BreDRob1JCT29FUl9GbVNsWl83WnczMkc0MjRIQmhDNTVFM3JsekFEYnhnZ0laZEhzTGxRQUo4ZVg5M3BmbU5POF9mR2pqeWh4M1l6TVB5OHd6Q09uVW5xQTZfRmJrbUFSbHVveXk4N0NTVDJxdXpPM0taSThFRlBUcDFWRXFWYTNaZzAzYmYzZHpTMl9ORXBoSG9EdFB1ZGxoaw?oc=5"
@@ -322,12 +367,17 @@
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjZQYUsyWmR2ZWVPWnljcThxb0VzcU8yUnItN2J6WG96UEdkNTF1RjRob0ttR0dxMWU1ZzFrWnBuXzVmc3REZ2FKQXp4YXNuVGtpVm8tcXlrVEJVcWdzZ2pFOEZUVktQczctS0pRamRwVHhMank1VWdQYkJfVG9sTXB6SldnempReDBXV2w2ZU41REhRMVlPODNhT2MtdE9USkgtZ3NwclNLR1M2WUc0Mmhn?oc=5"
+        },
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYVpvYkJPcFFNdFNoRmh1S2Y3Z3liUVpXSENMd1pTTURLQ2QyRXFGYjJydDh0Yl9SaDBVN2NoTU1tWC1sQlFuN3pwallHWDhyTDNpUS1wbElkSHR1M3FyMWpGSmVmOUNtbTh5S0Y5SUxSVXpwcU9YY2xzdDV6UElVaFZFQ3h2blh2eTEzcVgtRG5FQkFrNzI3RkRROWM1UzZUcE1mdnVULVpVNG1SOC1sbDl1amZ6VHRDejlkTEJxUGU1UUs3WXczZ214OEVsNzVwNjh4bnVvRjFXbXJ5MU9jSDBn0gHnAUFVX3lxTE95NmZuajRDTGVXVTE5VUJNUUNLU1I0eWU4aGJ6SGNZeFo1N0djYzc2WUhmbjE5aW1JZGVuQWU5MXR6VjZFQkM1Q2VNbUVMVTk4UHZVV040amhldGRtU1Q1NEhraFRSQ0JPSFFJOFE4TFBrdC1CeDRUX0FUQjV0SjU4VFNuVkRBTG9HUmhfYUZXa3g4Vzc2cUZvZExLc25UbS15SWZHMEEyaHpPbGVCSDdoQ3d5VE5WNnEwVDJZdHlURUUydU9sOVpaUll0T1FxRVVVcjE4TVV5akR6eGZYMVd2U25aWE0zNA?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना के मनेर में पुलिस मुठभेड़ में 3 अपराधी ढेर, पोस्टमॉर्टम के दौरान अस्पताल के बाहर परिजनों का भारी हंगामा। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें AajTak और News18 Hindi शामिल हैं।",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना के मनेर में पुलिस मुठभेड़ में 3 अपराधी ढेर, पोस्टमॉर्टम के दौरान अस्पताल के बाहर परिजनों का भारी हंगामा। इसे AajTak और Jagran ने रिपोर्ट किया है।",
       "image": "images/3-aajtak.jpg",
       "image_kind": "photo"
     },
@@ -395,20 +445,20 @@
       ],
       "sources": [
         {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNHWk8wd0UzUWpyS05fNlU1V2tFNjQyTjRDVFVPT3ZFVU5tUm9oUXEtQmRfZVNCcHpLdE9mQkd4TG1UZDJ5SHE2TS1EU0JHcFpXTS1pejRXdDFZV0Izd280ckVTVDhtcDFkS1Zack55U3JQc2ktQ1B0RVZFZ3dDRlEwTGtVVVFqaGtWaUZ0am5OdnlCcUFFV3NsMzJza29LS3JqcnFubk9rZDZpcEh0NEV3bnNjSTFDdHdwc21WQQ?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNXJZbVVtdHE3UmJJdVgzTTk0UzVEb0ZuRjB1VEhlY3RUMktJUlB4UGNRbVZlRDRGT211ZktGdTVJSkJRWnBIODB2UEhfMzljbDRqRXMwWS1TMmRfRlpSM0dTYVY3RFJXV2RFbXZ3LWpjSl9leW5XVHVZSFNGM1hYX2hhLUctcmw4aGZnTWRtLWJHaXJjVUlYTmxtdW5zc2NSQ1pmQzNXamh2bC1DdS1DQnlxdV9CVUptMGlTR1ZVWkpSVlZMVEtuT3FSRzBUaVU5Vm9SaHpaTlB5QQ?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWNHWk8wd0UzUWpyS05fNlU1V2tFNjQyTjRDVFVPT3ZFVU5tUm9oUXEtQmRfZVNCcHpLdE9mQkd4TG1UZDJ5SHE2TS1EU0JHcFpXTS1pejRXdDFZV0Izd280ckVTVDhtcDFkS1Zack55U3JQc2ktQ1B0RVZFZ3dDRlEwTGtVVVFqaGtWaUZ0am5OdnlCcUFFV3NsMzJza29LS3JqcnFubk9rZDZpcEh0NEV3bnNjSTFDdHdwc21WQQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना-पूर्णिया के लिए चंडीगढ़ से चलेंगी स्पेशल ट्रेनें, जानिए टाइमिंग, रूट और स्टॉपेज। इसे Prabhat Khabar और Jagran ने रिपोर्ट किया है।",
+      "brief": "पटना-पूर्णिया के लिए चंडीगढ़ से चलेंगी स्पेशल ट्रेनें, जानिए टाइमिंग, रूट और स्टॉपेज। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/prabhat-khabar.jpg",
       "image_kind": "photo"
     },
@@ -433,14 +483,14 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmY1QmdvUU1TVjVtSXpkQ29CTmhseDFWMS1zOGVXYVRsMDRPNloyTVNWUHRFSURhQVdKUTVsbjl2V2FhQ1BYNHlSRXBIb1JUNkZ3VWJCTEE3MnRJUnZCUllldnhlUG4wRVdwSW1qbjFVams3b19jbmdrTTJLQ1RaSENZdnZIRkNoUTlrdTUta1dkUC1RaHFWZkdId2JualdwMlJzazQzWGI3LVlieHUySnZQUEVMY2pKbDZZREN5cVMtRkMyVi1VdlhhZEFlQWNCLThUdWVaZWU0YkwtQ0d6ZHBOTTRyY0FJ0gHvAUFVX3lxTE4wcnpSRThPYjl2OV9kMDI4VTN6UzRmdnNTT0pRdl8tcE1Wc3d3TUNYRGJQT2xxejVvQkRFd1Vna0lrMk1QWklKTDZBM1hrc1VHNUZQejBlRFRMZzkwQ0tjU2cyTDVTakpiem9WaXpuUWdBSXpKM29iQ1ZtY0tDYzRwRXlhSGp0Tm1zWlVqeXh0c1BlYmpnMUVsTVhqMFMtMTBycDlQNmk3eEI0bDA4U1JlSGY0MzJmZGFpRXdXdkdONmFYQ01nVk5xWHplc1ZlMVhXNlhqQUhJdmMxeGtaeU9pNHFha0hXaVQ0Z2tCbEdv?oc=5"
         },
         {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVzFGdlhtdko4Q2FKSW5GU2twMXRpeG44QzhlZUJ4ZjBud01UVTZaQUtkQTRkQTZxVTFMSmFFbi1EYzJ6Z1psbk1jWFUzTnQxa2g4MlM0REhHb1pZS21IdVNqdjBYbFFxaXFSZWlPY3RjbmJvak0tVE8zc3NHRkJvakduNEM4ZWk0MFhXUTltNzlSNmk2ZS1tTGxLWldmNTZPbk1SVS0tUnBYdkh0M3Z6OXFzekZzX21paktmTTlyTFhFcEx0cUppdFN1RjRRQy1ORDZMS9IB2gFBVV95cUxNbGJvVlpJMHhmcEo1SmI4dVhtX1Bma3didjZmc2NXZFFjaTRSeHhabnIyTXZEYlBUVlFabHVDVXlJY0J4QkQzdFoxc2p0a3RHeTRRSGRXUGQ5QTlLajlDUFA2U3ZDaDFZUERZUE1VaEdjZFZvZWhVQkpXX1lha1hfbHVha09SWXBiblo1dUw0a1RrU1pjM21PNnNwb05tc0pxdlQ2VmJOSGVGMG9vNnNsTnlHS0EwNnlXUl9XX1B6MmVXZjFzTzBKZXU4UENDbUFvWHhwaEVVSmdtUQ?oc=5"
-        },
-        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGhBNUFNNE1EVERCY2ZQTTl5LUhsdkdkTG1FRkhLaHdOYm5UQU9ENkFNR2tqUDhjUVJEWkRHYmdTcmpHZ3hLZV9lWEdYQ1lzTlpHVENsc2ZwUWVPZlFubExydjNiTnc4RzFfNWJDY253Q0JOQ2dlTXowYkFnb1MyVlBpVDZrdy1CQ3pTVDhKV1Y3a3Rnc3F2a05wbmtYclR0bDNzN2p4RXBlZEExOW16Q2RUZjBSUF85VDFqMzhLaVnSAcYBQVVfeXFMTjVpMnFOZmljaER4Y29JMzNHMjFzeG5sQm1OakZ1Uk1zX0lMd0tCU29fU0ZaenJVWmZkLTROdThnM3BHSEhQQW1KRk5VYzMzSXJMSE5HTlpkakRFZE1hY1hIZHZsdDJVa1VvS3Iwek45Q2dMQ2pPMXg2Z2stSGZYZXVweFh1RkhCNXBBSFUyOUpwejU4QzJiaThzX1dYMGhsTExyTHFpZTdPUm9QekJ0bjlNTmVrNDV0c1d6OGJiRXJOYjlxN0lB?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVzFGdlhtdko4Q2FKSW5GU2twMXRpeG44QzhlZUJ4ZjBud01UVTZaQUtkQTRkQTZxVTFMSmFFbi1EYzJ6Z1psbk1jWFUzTnQxa2g4MlM0REhHb1pZS21IdVNqdjBYbFFxaXFSZWlPY3RjbmJvak0tVE8zc3NHRkJvakduNEM4ZWk0MFhXUTltNzlSNmk2ZS1tTGxLWldmNTZPbk1SVS0tUnBYdkh0M3Z6OXFzekZzX21paktmTTlyTFhFcEx0cUppdFN1RjRRQy1ORDZMS9IB2gFBVV95cUxNbGJvVlpJMHhmcEo1SmI4dVhtX1Bma3didjZmc2NXZFFjaTRSeHhabnIyTXZEYlBUVlFabHVDVXlJY0J4QkQzdFoxc2p0a3RHeTRRSGRXUGQ5QTlLajlDUFA2U3ZDaDFZUERZUE1VaEdjZFZvZWhVQkpXX1lha1hfbHVha09SWXBiblo1dUw0a1RrU1pjM21PNnNwb05tc0pxdlQ2VmJOSGVGMG9vNnNsTnlHS0EwNnlXUl9XX1B6MmVXZjFzTzBKZXU4UENDbUFvWHhwaEVVSmdtUQ?oc=5"
         },
         {
           "outlet": "The News Mill",
@@ -451,6 +501,11 @@
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHRmZWVfN0QyeUY3bGRxZHFSbGJhekJSR0ZoUk9OMjZCOHpEZGsybzFaN1dHUkVmZmVHMFZOYnUySGR1cGpuV3JYeWVIeE5GdTFFMzNPWEJody1DYzZLY1g5SHFxUS1jd2syWU5GS0hpRXhfbWZ0aXlkZ25fOHBjY1JTT3U0UDhRT0RQZkxrV2IzLXBhaHJkMXpJeGllNVNNZ1U4?oc=5"
+        },
+        {
+          "outlet": "The Tribune",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1BLNEYwcnZ3VzIxV29SanZvOElOQjJ1Z1RHaHM5YjNqLWN2MUlQUV8xZkNmd2tsRWc3ekdJc3VBajJTbGpJcGJMdERWQkhORHJfMUNUc084U2tYU0kxcHRpRERpVHMwR0lYWURHQmF4Q1d0QnEtX2lORVVZMHNfVXRNalBrUXRVaTB3T2pHS2hlNm5WdFFfNm4xV2xWM1R2VkpYODgzNHk0NElMdFlMTk1xSjMyQlZXNTExUjUwajBtRTDSAccBQVVfeXFMUDd5WVUzamxQVkcyZHpNcUxzbEpNX0sxS2JUZFE5czB4MURtNDExM0pMYnhCU1F6ODdNX3FNZ0hIWnEzOVh3TktzeU9HeTB2Sjd1QWtwWldfd0ZZLU5PT0NVNGZ5WGgtdVlUR1FGX0Ywc0R0WG5VQ1VsbFFsb1kzYzczSDc5WW9FMEUtOHIyZS1aNWNYQ2hqR3VOMG5pOGtNWEFJY1gxcW5WazBjcnhuWnNvZ20ySW40bnp6ckNzRk01a054Qkljdw?oc=5"
         },
         {
           "outlet": "Hindustan Times",
@@ -473,38 +528,11 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVZWcDlXczFXR2tubGsxRWY1SzhaU0FxWWM2Q2VHWjZyd2hBS1ltTG5RRkQzSW03b01qZHJzSzB1blQ2WVlIRkpBSE5tLVE1eER0cmhpaUFiUHBrTHJrdExiM2FYbFhVX01DZGtoajBiMnEyVk53WVFVeGk1TDgwSEVaSk5JY3MtVXdpV1J4V3JZbndoeVgyVndRc0xKT05ZWkVNczY0c9IBrgFBVV95cUxOR1dCdmo0VEVOcWx3OHFzN0pWVHRlQzY2eFZ4Y0pGUkR1RURwQ0Y4N19SVjl5eXM0UTRrZDNUS3I0VUF2YWlJcDVTWjhhWjhuaElIX0JkZjRhR2U1ZE84LTJYSzJKeWpHVmZnam1oWnVPVlAtZ3pCcG9lZ2tEN1I1V2ZTT0Yzb3hjWTJ2Sks3WjgwdEdKYlhIbnNSRjV3dUk0TlBzV3BfazJrUlptdnc?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Three suspected criminals killed in exchange of fire with Bihar Police in Patna district. A politics-related story. Covered by 8 outlets, including ThePrint and The Hindu.",
+      "brief": "Three suspected criminals killed in exchange of fire with Bihar Police in Patna district. A politics-related story. Covered by 9 outlets, including ThePrint and The Hindu.",
       "image": "images/three-suspected-criminals-killed-in-exchange-of-fire-with-bi.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-leads-bihar-with-over-1-13-crore-abdm-linked-health-re",
-      "headline": "Patna Leads Bihar With Over 1.13 Crore ABDM-Linked Health Records - Voice of Healthcare",
-      "summary": "",
-      "date": "2026-11-06",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "eHealth Magazine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6MDhpcHAwWkVYWnNKZEdtSVU1aW9OWWh1R0tneUk0ck00Q280QTRuWUgtNVNGcUUySF9xaGgwZkJwY05xb2lfUVUtblZYUzVKcG5vanQzSzNiOHh3Q2tGNzJSaVlmWFdZZ2IwQXc0amdZZndt?oc=5"
-        },
-        {
-          "outlet": "Voice of Healthcare",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmpGUHRYdDlXT0dmNC04SGlkb3Rudm9LTnRGNmZicnpSajEyTDFjYVRLUURQNG5CcWpCVVNWTy04cGlWSnJrUVpMWHlUU29JSkJWcXltR21fbm9lWmdheTUxeW5KTXZkU1g3eFU5RkFRLTEwQWtOaHhPdjlEWGd3eHoyb01ROUwzd1UxOHpsMVF6MllxcldDNHpvdEdlS3llRGc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna Leads Bihar With Over 1.13 Crore ABDM-Linked Health Records. An economy-related story. Covered by eHealth Magazine and Voice of Healthcare.",
-      "image": "images/patna-leads-bihar-with-over-1-13-crore-abdm-linked-health-re.jpg",
       "image_kind": "photo"
     },
     {
@@ -567,8 +595,35 @@
       "image_kind": "photo"
     },
     {
-      "id": "samrat-choudhary-s-there-s-crime-but-no-apraadh-in-bihar-rem",
-      "headline": "Samrat Choudhary's 'There's Crime But No Apraadh In Bihar' Remark Draws Jibes - NDTV",
+      "id": "lawyer-can-t-sue-client-for-defamation-for-ending-profession",
+      "headline": "Lawyer can't sue client for defamation for ending professional engagement: Patna High Court - Bar and Bench",
+      "summary": "",
+      "date": "2026-11-05",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Bar and Bench",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2ZwTFNXN0RHQmZSWnBoeWI1QVZGVzRmbVIyS0FVTUI1RU1Cb3pqVG1meHBJWkR6a241TFVxRXZVTnFFWjAyLVNIRzVSTGY5SDE4MXVPcTRGSFNkSmNsRGh5QnY0MDNwNVUtQ1REckNuZHZCbU53azJFOW1YSHUzajFhQ2VFTjM1OU5ZdlJFTGRabFBXTUJwaGt2Wld3dFJVVHNCb1R5Nkh4dmlRd2FRWDlLQmZQNkRMRUFTUGZyYjdlcWtFVjBYblg0b3phdw?oc=5"
+        },
+        {
+          "outlet": "LawChakra",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tU3dMSjBSRmNmaHN4RXRxdHJJTnN3NnZiamd4VE1zS09EczJBOElQS1dZT3BWTWZ5dVd2ZjdXcHZ6RkpsN1E0WXdCUXlxQW84OEowcjVhT05TeXpIUkxQTDdyOVpkaU5GWTdJbUpJM0RFRlp0ZVJQcEw4cjE3bms?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Lawyer can't sue client for defamation for ending professional engagement: Patna High Court. Covered by Bar and Bench and LawChakra.",
+      "image": "images/lawyer-can-t-sue-client-for-defamation-for-ending-profession.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "there-can-be-crime-in-bihar-but-no-apraadh-samrat-choudhary-",
+      "headline": "There can be crime in Bihar, but no apraadh: Samrat Choudhary's shocker sparks row - India Today",
       "summary": "",
       "date": "2026-11-05",
       "topics": [
@@ -584,14 +639,19 @@
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXNyS0huUjIzWWdsQzh0UUhTM2R6LWFqTll4clBzRnRWZHVLUDgxVThVQkNOaDR1TXlKOUxXSHhGY2pqNk9Od1RsVmhhUXVlcXNvaDEzQ0dMNlVMSEJuUDdqQnQ3ZTdWWG5ZNy16M245aFRlMGhjQzRiek8zTTBlRjlVcWlWWm5JWDZCZVVhUldpN2dORGJqVGt1LUxUdVFaTld1V0p2YUxSVXdwRzlDQUxHMkpLQdIBvgFBVV95cUxQTTAwSzNISlNwTGEwZXpLeE93NGZyOVUzMGVndXd0b0tkMVNWbnhiWEtpQUh1UXp2OWJBLTMwTWttS184cTB4ZDZBS3JXcURUU0xjQzNlN1dhSnZGOTNkWExmU2l2RmMtZy1RdjJuMlBVVHBRZGhMMVhKMUVaWlA5OTNsZWdMdnhFUkZzSlpBTXFEcmVjWGc0OExET1hSdldoWU8wcnBYWEZ6WG9RcldqaVlsTk5LZFFNZ3ZUS25R?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWVydk5RY2JJV3V1bkhvSmFJbDhzS2c5UGNyOEpVU3Jnd1BXMkhram5wVVNFQ0s0Y3RGWFdOQjcyQjJOUWlkOGtGY2pQQkFoWlJnMGJNVnUwSFMxcFVPRkV2blMyS0ptN05xa3o2cEhXV3RnY0s3Y0dVajZURmdQNFo0cGtRY2VCNnJPMnEzejB2UGRBU1pzdUVxN1MzdG5uZDRsZ2RjTlN6MG9XYWNMeTVGNVF4U0dFT3pWSmJXUFZqZGtuQVczVTgyOErSAdIBQVVfeXFMUGplMWtlRDQtRkZXNjVZbUFrdTRfS2w4ZnV2Z2FmdVhMbmlPOHZEZ0FRdURveXQ0cm1PblZpN2RRLUh0NXFkRWpoUHhVYXlIeXBHcHZwZkpQY0FxdVBnVTk0RF9CR3Z5S0h2X2ZNVVhyQ1MwZjVIZ1BrdmhqS1BNdXhhOHpmRjFTWnFHUkpJbERxNFEzOVdTTGMta2k2MWFmZzljSmxMX2h2TFpBVWFJVVB5NGtDZlRjWnhjOVVRaW93SmFZSWVWaVo2SktyaVRWS1lR?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Samrat Choudhary's 'There's Crime But No Apraadh In Bihar' Remark Draws Jibes. A politics-related story. Covered by The Hindu and NDTV.",
-      "image": "images/samrat-choudhary-s-there-s-crime-but-no-apraadh-in-bihar-rem.jpg",
-      "image_kind": "photo"
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "There can be crime in Bihar, but no apraadh: Samrat Choudhary's shocker sparks row. A politics-related story. Covered by 3 outlets, including The Hindu and NDTV.",
+      "image": "images/there-can-be-crime-in-bihar-but-no-apraadh-samrat-choudhary-.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "amid-protest-by-wife-bihar-government-transfers-ips-officer-",
@@ -722,12 +782,17 @@
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmlrX2NRZEREVmV0OGp5YWotNkVSSWZvM3RWT0VmMG45bTZvSDVjTmJTYkktZE1XckdWQzlCNkpVQmVvQmRLVHpiV1B2Q29oWG4zMWRwRmlEc3JVV2hmeHp2RktyaVduYldYdVJwSzYtbUhzMnhTSTJhQlNFLTFTeXVMZFA1U0ZkTlpfelNEelZiTDZ3WmpMamNCeDR1eE9rTzU0Y0tCc2tBbnNXd0dFOTk1RXROS05zUk9XX2U5eG1ySlVMbG43TzR1YkfSAdQBQVVfeXFMTkQyNzFBcUFNWXJUV0RfSEFZTzBFaFJlS0M3V2pXMXVhVDU2MDJpd3hJdHl4b2IwY3VIT0FmUkR3c3ZYV1ZfTkNwLTVsOGtiM1BaaG4wendIRldqczFJM3BreHQwNzh4OUpnZGppcjJNUkFXd1pnOFNlWTJaa3lVNUpyMkpmLWpBN0l3aldJQTROM0FkRVcxcFQ5UkZSNHlCR3RsaWc1QXR2R2w0Y3JGa2pRd3J1eVBTVXZsLWZBTWhsTWp4SlpialRzUGJ2THd5V3kwWmc?oc=5"
+        },
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOHVsNlZMdlZuNUQweFJSMklCTlZscnI5S3JadUgybm5EUnNPZlZnZkl4TWc2N2FUSWIwVDBMX2VtUTY0SGlyT2U2b25TNUlqNWZZQndWLThpXzA1dzB4OG00Ylc5ZTJGaU1XWlg2WUdnYnQxRkRaUE1rT2x2blJRRWh0aFZhUTJYVnk1NXNKVkI3aEhwbnU1TVF0ZzBJLXpGREV2WXFIRm9sNDRoZ3lTc1pNTW5zT3A5WDNaa3JXQdIBxgFBVV95cUxOeVR4eWg5UUtPUmpNQ2tkVFhqSl9LcGNEbTZraEZQRndvVjFNc0tUY096UEprYTc3U1BjUE9qMU9jWndvV2E0eVB4eHlMMGlMVmNNQmVlaVBKTWFmR19ySEExTXBONU5hWGR2TENpNUh3OWdjR054MnRSbTR0WGxaa29RaGxralBscDFxMnhfNERRRWY1VGF2dzZ6SklfOUlUNlJNaEV3LVJpTERBZUlaRUxJN21menZJODFCd2JqMUQ4SXRhakE?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "ECR to run 17 pairs of festival special trains to manage Durga Puja, Diwali and Chhath rush. Covered by 3 outlets, including Times of India and Daily Jagran.",
+      "brief": "ECR to run 17 pairs of festival special trains to manage Durga Puja, Diwali and Chhath rush. Covered by 4 outlets, including Times of India and Daily Jagran.",
       "image": "images/ecr-to-run-17-pairs-of-festival-special-trains-to-manage-dur.jpg",
       "image_kind": "photo"
     },
