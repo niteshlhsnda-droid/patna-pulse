@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08 20:36 UTC",
-  "generated_at_ist": "09 Nov 2026, 02:06 AM IST",
+  "generated_at": "2026-11-08 21:36 UTC",
+  "generated_at_ist": "09 Nov 2026, 03:06 AM IST",
   "story_count": 43,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -19,22 +19,17 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa1plRXNjUlBBMFcyYkdCWnYwV0FLV3d2LUNqZUJnMW5VbklXX0cwOVBOamdFR29iSndINTBITjBQZWJyZ3hkLTk0QXYzcDlJaVhweHNjdzl4QmhqRG8yZWc1OVpMVW94ZF8wUlgzTXZUWmwxT0N3TkdyZUFzS0p1cUdsT3lLVjRRQjFEZTUwWHhwanVvV2NnZHFfWVZtZFhpeUY5aXdXbHpjQTNWUFR5MmtKQ0Z2aFJzZ1hrNE1DMFh5RXZa0gHKAUFVX3lxTE9HTnZxc0thdjF5R3g3SzdDd2pvS3ExMEVtdUJfWjlyaUlWQUJEYkR3NTl3TXJ6cXRuUWk4OE1qdjkyeGNNaDYwaTlqNm9rcXdPLTBMNk9TakJNdWkzVVFQT2YtQVFRSFpxZDJQd2FBa19maFVUdjFoNHRMc3lNM24yaERxZExhQ2ttVS1EMmxTeEF1NFBQRlBSU1VtTlEtd0t6Q183ZmsyYkFZNGwtb1N4eVN4ekE2NWNXeDRFSWtjUUtPbUQwN2dadmc?oc=5"
         },
         {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEl5Uy14NzladEtVNHlUYXh6bDJiVU5oa3RmbzBsX1llZWJtcmh0cFRHTkoyNHhrTzE2cW9uUks0ci1JRjRFVC0xZG5UYk9NNUN0UmtvYUJaLXZrck1JS0xBX3lzRi1uWjNjWW1EcGxSd05hdl9lRTR0ZTVlcndtMHdTd2lfRmJZamh3cVMxeU1PVVNKanF0aVBNMVR0NDB2MlB0YQ?oc=5"
-        },
-        {
           "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdk1acXhYX0IzN3V4Q3VIalNnRlRXVVJYb0dBVVl6NTlWTGVIbnZPZGJJYmZlcUNBRndhckc1S19NVFhZZnkxQ2x4WnZwNkVNc1BHM0lxZGx2dlk0cFNBVFpOWTRXWDZnYlUxbk1OYWlPWFJxR3lza2o2bFFIQnFnM2hWdlM0VWw0MDNLa1FmN1RsUHlyZWd4OGI3RlYwWEdpNUE0OUQtREFVY1NHTzlPSlBzdzAwWDNoOS1odkpEbHdjQTYwOWl2aXA0SUs0TzlHZ21mU01sMnFaX093TUZMWk9PRUpDdkxNajgxZVk4WE1rd2s?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "\"Let us contribute towards progress of country\": Tejashwi Yadav celebrates Diwali with family in Patna. A politics-related story. Covered by 3 outlets, including Asianet Newsable and The News Mill.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "\"Let us contribute towards progress of country\": Tejashwi Yadav celebrates Diwali with family in Patna. A politics-related story. Covered by Asianet Newsable and ANI News.",
       "image": "images/let-us-contribute-towards-progress-of-country-tejashwi-yadav.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihar-to-launch-drive-from-dec-1-to-encourage-well-off-peopl",
@@ -195,7 +190,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar STET 2026: Exam rescheduled to November 22, revised admit cards available from November 12; Check... An education-related story. Covered by NDTV and Moneycontrol.com.",
       "image": "images/bihar-stet-2026-exam-rescheduled-to-november-22-revised-admi.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "state-govt-to-launch-campaign-from-dec-1-encouraging-volunta",
@@ -237,60 +232,6 @@
       "genuineness_label": "Verified",
       "brief": "State govt to launch campaign from Dec 1 encouraging voluntary contributions to electricity subsidy: Bihar CM Samrat Choudhary. A politics-related story. Covered by 4 outlets, including Asianet Newsable and The News Mill.",
       "image": "images/state-govt-to-launch-campaign-from-dec-1-encouraging-volunta.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "navbharat-live",
-      "headline": "देश के कई राज्यों में आगजनी का तांडव: दिल्ली-गाजियाबाद से सिक्किम और पटना तक मचा हड़कंप - Navbharat Live",
-      "summary": "",
-      "date": "2026-11-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUR2T0NPLUM3cFlSV2ZuM09Ec2U1UmhnOTA4NnNZSGxPTGNyWVhUYmxZZG42M0ZIMDlrbEpnbXIyY2hpU09WQ2xuc2hURG5ZUmpIVFhLNHFBalFQYWNPWElJcllpOWtfWUF5TElGbWJIekxmMGptTHBGMVI0bGFZTEhmM1RUOUFzR1hoZlNQSXVWZUU1LXN6b21MZHE3ZlpZTlZoV2I0MGJfOVowRk1ydUxCS2pCbC1YbE5QOWd0bXNUWW9jN0E3NktBSkkzc1hrVEJnRjlKRkx0LWwzZGROcjFDMNIB6AFBVV95cUxPZURDMUZsRnJHQVZNa0lUZmRXcTRMNHhPQVBKTHE1RVQ1YWdINy1henhRN0p2UVZDZGFhR1AwanJpajY2bDZrZFVCTGpTcGVfSXpveVA5TXcwTEpNYjZuY09BYlZ5Q1lWRjZBemQwRDFDOXZJRnNFRTVXX1lGR3MxLVg2SWk2SGhCSktsbnFWbDkwTmUtWkNDS0U2bDlueUV2bHJ6NXJmWmZBRU5MRUN0RXZlWkNlSDJDLXEwMWlscFI3azMyZkpWSWlPRE9jX0lrMElsRzVyc2JjWTlTUmNNeUNVS2tRSEpw?oc=5"
-        },
-        {
-          "outlet": "Navbharat Live",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemVldFd5VVpiRUdYU0dSbE9YZzQyUzlnM2RFS3JwMlhfMHNtMUQtcllsWlRRN3ZibkRIcUVqQVNLTV9wbFo0eS1PSVB6eWp3Si01Y01nc1JpNmlHa3VsQVo3bENZcTB3ZXJzWXo4bVB3aVFsMnJvNnc4VEJncGozdXA5ajExa3ZtS0dWdUMwaDFjVk4wTU9rUURMNWrSAaoBQVVfeXFMT19NdkxEckRwc2x5WmloLWNJd2tsMlFnYXFuRTByalpCR2VLQ0lzaXN5RUFrMHlPcWpxQ09lVUFGcnFPbW9YdzRPLVVPeXBVNERXWXdoeHA1eGxoY3FiTjlPMDZiUjlVR0J4NTZJVHRQd2hoRDFsckkwZ3NEckt6S1E1UlJlV1RnZjJvT05nS09ELTJhNnpnM1BFZ1ZuaEZhdWxFd01lSllBN2c?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "देश के कई राज्यों में आगजनी का तांडव: दिल्ली-गाजियाबाद से सिक्किम और पटना तक मचा हड़कंप। इसे AajTak और Navbharat Live ने रिपोर्ट किया है।",
-      "image": "images/navbharat-live.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "11-prabhat-khabar",
-      "headline": "दिल्ली से पटना के लिए एक और वंदे भारत: 11 नवंबर को चलाने की तैयारी, अलीगढ़-कानपुर होते हुए प्रयागराज पहुंचेगी ट्रेन - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-11-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVc5MmJWMzhVTDhiQm41bWRJeDZtalBWNkZVSDVTTGpJOG12N01FYzZuWnFIeXF4WFZQWmdLTm5xQVBzSmFWUk1wbDZrV2dQNHk1UkdqeTdBMEVPWkE1SFVCQnZZRWZlaWNScllvSTFTRDQwTjBKUGJ5VnhRTnFfSjZyOExwUDlBYm5VQVo0emt1b3gwcmJFZURZZTZ4dXo1SHktNXB5ZlQtYW03dk9oSUJVQkFzYUdwMEUySzYzSG9FSUZQMlhhNWw0dE54Zl9ZRmhzMEJka2Y2aF83VXA4dkctNXY?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnFhOGRIUzl6X3cwV180TDE1REw1djA5dFFGQzN0Y3lrSFhhZUd4bkVRaVZSdS04c1BwZEZYcllSbTEyMkNQNWxGN29BVkk2SzNDZU1zMTdwNi1YVzNUdnVkaVZiY001QzAxeGVSRjRFYmNvMC1IVzVrdnBIQV9TbFdYTlhoWVozQk5ZYTJsb0lDWmhiQ0dhRF9Nak9TazVld0pZbHk5QTc3ZTRfUFdMNTZYb0ZxYzRWSWMwLW0xWWRDVWFtWGc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "दिल्ली से पटना के लिए एक और वंदे भारत: 11 नवंबर को चलाने की तैयारी, अलीगढ़-कानपुर होते हुए प्रयागराज पहुंचेगी ट्रेन। इसे NDTV India और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/11-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -336,6 +277,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "11-prabhat-khabar",
+      "headline": "दिल्ली से पटना के लिए एक और वंदे भारत: 11 नवंबर को चलाने की तैयारी, अलीगढ़-कानपुर होते हुए प्रयागराज पहुंचेगी ट्रेन - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-08",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVc5MmJWMzhVTDhiQm41bWRJeDZtalBWNkZVSDVTTGpJOG12N01FYzZuWnFIeXF4WFZQWmdLTm5xQVBzSmFWUk1wbDZrV2dQNHk1UkdqeTdBMEVPWkE1SFVCQnZZRWZlaWNScllvSTFTRDQwTjBKUGJ5VnhRTnFfSjZyOExwUDlBYm5VQVo0emt1b3gwcmJFZURZZTZ4dXo1SHktNXB5ZlQtYW03dk9oSUJVQkFzYUdwMEUySzYzSG9FSUZQMlhhNWw0dE54Zl9ZRmhzMEJka2Y2aF83VXA4dkctNXY?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnFhOGRIUzl6X3cwV180TDE1REw1djA5dFFGQzN0Y3lrSFhhZUd4bkVRaVZSdS04c1BwZEZYcllSbTEyMkNQNWxGN29BVkk2SzNDZU1zMTdwNi1YVzNUdnVkaVZiY001QzAxeGVSRjRFYmNvMC1IVzVrdnBIQV9TbFdYTlhoWVozQk5ZYTJsb0lDWmhiQ0dhRF9Nak9TazVld0pZbHk5QTc3ZTRfUFdMNTZYb0ZxYzRWSWMwLW0xWWRDVWFtWGc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "दिल्ली से पटना के लिए एक और वंदे भारत: 11 नवंबर को चलाने की तैयारी, अलीगढ़-कानपुर होते हुए प्रयागराज पहुंचेगी ट्रेन। इसे NDTV India और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/11-prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "academic-assessment-planned-for-students-in-state-s-25-triba",
       "headline": "Academic assessment planned for students in state’s 25 tribal schools - The Times of India",
       "summary": "",
@@ -360,6 +328,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Academic assessment planned for students in state’s 25 tribal schools. An education-related story. Covered by The Times of India and ET Education.",
       "image": "images/academic-assessment-planned-for-students-in-state-s-25-triba.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "missing-bihar-constable-found-dead-in-river-after-clash-with",
+      "headline": "Missing Bihar constable found dead in river after clash with suspected drug smugglers - ThePrint",
+      "summary": "",
+      "date": "2026-11-07",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQThPY0ZoUUlzdzV6TFVrUnFULXozTmJVcFA4dG9JVkg4Ny12REhpcldLaDdhUWthdHNUWWtuVkU3RWF6cTZ0eEF1eFlJQ3VUVUoxQnlGWUtSUk9NQjR6SzJjaUF2cTFudU1HajZOTl9lQUF2aUJKZUtHaURlaFgzYm51Z2JXcjlVTFdZRmdtMnlIOEdYNVBSaU5Kd2czWXRDSkFlYm5RZWl6YlAxYURLOEJXZ1hJRlMwWEg2U9IBwgFBVV95cUxOdVc3TGVkMEtESGwyaDRDbEctNFI0MGlEWTZxWUV4TE5IQTNZcEdHMHRTdERJY2FBblJvVFByTDRBWW1BaU9CbFV6cjZobFNBTUxBSWFGWHBjUmlEQ3VrRHB1RWIyWGY1LTlsMkFTeE9yLUtyUmRaTkRnbWtJbkduRW1LNTgxenhhR1JZZGxPZXlveFdqdXN3a2xpeEFPTUl2NG1fTmY2VlNpM2lEVmlHbENuYnlrT01WVW9ZLTdpWktxZw?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemJPVEJNNEFnNzR5MjdScEY5SGdfNDhFZjI2ZE1STk5wTXk1azBza3p0R2FCZWhhVHhSZ0ZHZjdtdURvWXk0Mnp4d3VWOGVVNHN2WlFmME15Q05PSDlLSEh0c254LTE0RkZ4My1wa2VJXzA3b0RIVXRUZnlWMWRUSmxqRnVUY2ZTT05WQ1docDlfdG5MbmY1WkZXcmdWM1lTWC1MZTBOUHhld9IBrAFBVV95cUxPVTlhWU9HaWUyc3B1eTZYTkhOVDgzajN0M2JMRzkwYlBUVzcwNXc3b2hzMUdIX3Ezb3A4MHZxVkRPN0dXQWoxRUFXT29KSTdKSFp6bkNNUHFtME4zbTgxT3VIWFplWnVHYWsxbjRJeEVaNmc1eE9MX1hDQ20yY2hCSHRGbG0zOXhoenZ0UUNHZjNFb2pTeE5ZVm1OdVJ5eGh3bzgzdUlNaEp3OVRk?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Missing Bihar constable found dead in river after clash with suspected drug smugglers. A crime-related story. Covered by ThePrint and Rediff.",
+      "image": "images/missing-bihar-constable-found-dead-in-river-after-clash-with.jpg",
       "image_kind": "photo"
     },
     {
