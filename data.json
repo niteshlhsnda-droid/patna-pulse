@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08 18:54 UTC",
-  "generated_at_ist": "09 Nov 2026, 12:24 AM IST",
-  "story_count": 41,
+  "generated_at": "2026-11-08 19:36 UTC",
+  "generated_at_ist": "09 Nov 2026, 01:06 AM IST",
+  "story_count": 42,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -178,7 +178,7 @@
       "genuineness_label": "Verified",
       "brief": "State govt to launch campaign from Dec 1 encouraging voluntary contributions to electricity subsidy: Bihar CM Samrat Choudhary. A politics-related story. Covered by 4 outlets, including Asianet Newsable and The News Mill.",
       "image": "images/state-govt-to-launch-campaign-from-dec-1-encouraging-volunta.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "navbharat-live",
@@ -205,6 +205,48 @@
       "genuineness_label": "Corroborated",
       "brief": "देश के कई राज्यों में आगजनी का तांडव: दिल्ली-गाजियाबाद से सिक्किम और पटना तक मचा हड़कंप। इसे AajTak और Navbharat Live ने रिपोर्ट किया है।",
       "image": "images/navbharat-live.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "prabhat-khabar",
+      "headline": "पटना के बिहटा में कबाड़ी दुकान में लगी भीषण आग, बुझाने के दौरान झुलसे दुकानदार - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-08",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUl1dE5ZSkF4S09JVWxQd2szYktPVG5QcUd6STJaMnJGYUtYVGRxT3RXWUo0YjhXTDlMS0FpYTI2ai1UWVdQNXFaMVZuVjkyYkJFREh1UGZqREZPN2pld244b195dmdrUTR3ekxXaUNhd0pHalM1WExjbzRjR3JfakxaUGh5QWxDT2FqMXQ1TnpGLWE2c2Z2Z1hQMlhQMGdkQlBGQ1R4dWFMcU5S?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2lWN2tIdFFPREx2M2p2MGNFMGFmUGZfYk9UQjdyeWtyNUhuRFozX3ZEZHdXR3ZTWGhGOEVYSEQ1NWV2VjNkRFN3VU5xekhUaVlBMnAyLTM0SXB4VmZuNmFHRUdZTFBhSTljV2RiTTFIVGU5VnJjSUx4NEdvZk9WMVN4aGNMZVVIMWRVdFVhVjlfXy1hZTFlVTZSQ2FXNldFTXNzRFVmT25ydXYzdHVJ?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOME51ck1VMlJFcVFIN0UwYk1DRFhWaFB5WnN6cjl5WXNQNlhJZGtXbWRySEYyNHVzSkk5dm5fb1I2NzV3a0lrd0VXNTEwYy0yQkkxcFNfeUNsUmlZNWZ2REJNN09idXEyYzE1ODdrRWhoQzgxVkNibEFHRThRQUg0TzZONURhaXFZS01CREotdHhFNXVtMlZjbU1Jb2JGR0NKejJ4d1J5bm95T3Brd2VoekdQMXBsU2tPalFMa19PbGRTaEt0QWxEY3UzdEl6WEJGX0xLWQ?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckt5REgyeE92c1g4aTMzUUVHSVlXWWIwcjFkSEdHM2RFQm9Jek9lSmlhSmZaMnlENmxUZHVPcHBkSGZxQVpoTENNMUNVVEhjdzlmTVQ1Qmk4QVY5NE9ZOE5WNFpvOU54UUdzeUg2TVBSbnhFX3lFY0RlV1QxTlJTUHA0Rkx4c3VnbXhEMFlvMXBrcFhKc2d3cGtn0gGfAUFVX3lxTFBFd2pPR0E2SmtqVkVySGdLcUVtbkRBeWtGSWhVQjNXMzBSeU1zbXJCUkpoLUVxdjZzdGJ2bTVpQ0dhalNUQkJLczg5dnJubU96ZW1UaGMzeWxwdDNtY2VQemxzdFhUdjA0TFpNS2RTdU9DLXlpZWZST2twQ2NvcDllY2JSMVJfRndxRzNQLW1Da2xzbTFrSDgtSXROV3B1RQ?oc=5"
+        },
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWxxRmxpZGduVG5PeVFGRlhSWkFTRXNTSkNqR1dxY0pCS3Y3QUpScDZyVUR1XzhvM0gzdE51OWY4T3ZUU25NY2Z4YUoxN2FVYWNKWlFXUzNxdTA5RmsxMFFXZHBiVjcwNldpZ0VZdkV1Ukg4WjI5QWRqaVpRWWJ0dnlLeldObWlRX3ZQMVEtOXdXbWlwdXlMNjhrUVBxQllQM3V5ckoteU5jamlRNmdGcHhzVElNVUNiRlhrOHNFRjdWRjUxNVlyLWlnem45U3VTOXNiVlZNUjVFUdIB3wFBVV95cUxONk5CcFNfMHd3SnYxaVFIWmhSOFgwajdELUZGdGRiY1JiSFdtVXdGWHd5VWZ4NmlwLUhxTGZCSVFfWEpXQ0Q1UHVPTmxpZV9jUFhzYkpBd3R3QjJGazlnVjZDeFhzcUNTQmFRMjRPUENZYzJ4Sjdta1QycDRXOW8yYmZhOWhUeW9pWFJ3SkZYT2F4V0RPN0YxbVFOLWxJWHhiMEM5MlhOZThlRTZBNjRORnBoRXMxVEFPLXJCX2FsVlNCdjVrY1NsY1ByS3pTYm95djlwV2RVaEF2NWc1bU84?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना के बिहटा में कबाड़ी दुकान में लगी भीषण आग, बुझाने के दौरान झुलसे दुकानदार। अपराध से जुड़ी ख़बर। इसे Prabhat Khabar और AajTak ने रिपोर्ट किया है।",
+      "image": "images/prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
