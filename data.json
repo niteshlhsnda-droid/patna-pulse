@@ -1,9 +1,36 @@
 {
-  "generated_at": "2026-11-08 04:35 UTC",
-  "generated_at_ist": "08 Nov 2026, 10:05 AM IST",
-  "story_count": 46,
+  "generated_at": "2026-11-08 05:54 UTC",
+  "generated_at_ist": "08 Nov 2026, 11:24 AM IST",
+  "story_count": 47,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "11-ndtv-india",
+      "headline": "दिल्ली से पटना एक और वंदे भारत स्पेशल ट्रेन, 11 नवंबर को चलाने की योजना, अलीगढ़-कानपुर-प्रयागराज होकर जाएगी - NDTV India",
+      "summary": "",
+      "date": "2026-11-08",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "RailJournal",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUdqU1BhdE5kdWhRalJkU3d2VXhUYUV3QllBZzNiQ0czU1F5MnJQWkZqcUZ3d2pZcWxWQ3JOUTZ4VHdaZ1RqMTE3QWFIMTZaWkFSbDJWbXhySEZ0c19HTkFUYmc1QldWZXZiZnl2eXFZYlIyT04xc1lhZUhxUFg2dkhBTUJWYk5tX3c3NmJzTHBrenBUM3JEMGtKdw?oc=5"
+        },
+        {
+          "outlet": "NDTV India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVc5MmJWMzhVTDhiQm41bWRJeDZtalBWNkZVSDVTTGpJOG12N01FYzZuWnFIeXF4WFZQWmdLTm5xQVBzSmFWUk1wbDZrV2dQNHk1UkdqeTdBMEVPWkE1SFVCQnZZRWZlaWNScllvSTFTRDQwTjBKUGJ5VnhRTnFfSjZyOExwUDlBYm5VQVo0emt1b3gwcmJFZURZZTZ4dXo1SHktNXB5ZlQtYW03dk9oSUJVQkFzYUdwMEUySzYzSG9FSUZQMlhhNWw0dE54Zl9ZRmhzMEJka2Y2aF83VXA4dkctNXY?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "दिल्ली से पटना एक और वंदे भारत स्पेशल ट्रेन, 11 नवंबर को चलाने की योजना, अलीगढ़-कानपुर-प्रयागराज होकर जाएगी। इसे RailJournal और NDTV India ने रिपोर्ट किया है।",
+      "image": "images/11-ndtv-india.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "bihar-raises-rabi-crop-cultivation-target-to-48-lakh-hectare",
       "headline": "Bihar Raises Rabi Crop Cultivation Target To 48 Lakh Hectares, Offers 40% Subsidies to Farmers For Alternative Crops - ETV Bharat",
@@ -73,6 +100,11 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
         },
         {
+          "outlet": "India TV News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNnlneW50alJTRlFldnl2TUNMTjRpM0s1dGhPVllZVFRuSG5ZVjZJWmJQOTdzZUFUSk1nMWJBbTE1RUpFNVl6T0FWY2hfM3lfTWlCeVE4ZTdjOXZSd01IdHNOQ0JtUUJidk4waWU1RWljTmswZEIxMzNpUXlNcVhpVC1SVlprU1ZNWlhUVUxhUXdoaUVUc3NrZWxTaGU1VXBhQkRlX25tLWUtM3JQVGg5VjdUVkdhNUtHUVh0SVJTbGREejB6aWlyNFNpU0Q2T2N0SGRNWkp3ampHaVdY0gHiAUFVX3lxTE1zeDFjUzk5RGlRb2xhZG0wS0l4elk2MXFiUlF0aGE0T0ZaOVlqZTc0bzNib3IydGNodXZ0bU82WmdJZlZaQ2R1WXh2TWFDWTdxMElRS1ZXWHdJZmcyOGhFLTBfU2xHZmQ5U2JBWTVoNkhtNU00cGdad25qSElKcVBFcWd2aVBnbkJxbmVuNTFFZnRjY2xsSkd2TFlaS2IwVzNsMl9XNGdvdGhSZUN3aVBrU05UZHphT2t6WjhnTXl0OWtpUldLaDB3cXEzRDkzWmpZQXYwclJEQjR2cjYxbkNqN3c?oc=5"
+        },
+        {
           "outlet": "Cricbuzz",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21RZEQ0NWpBVnVibjhSdXAwYTRKOUo0dWs5eDJlWWxxcXRvajZmbmVjeFlXZWFiNjFid0Z1RXF4Wm1fQnNqRzF6ZVNuWDQ0TnpDcE1FVjM1WnNSNm5XbERqUkJzR0dvcUpVM1hiU3BTbUNPdmZ2YmhUSko2d0JOSXktX3JXbTJ5c3h5RHV5bExqNFBMMVg5SFQ1MGVzcVhVVFBLYUdVNVF3YzA?oc=5"
@@ -106,6 +138,11 @@
           "outlet": "Rajasthan Royals",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWxoc1UtRlcyc0pPME9kMU5Mb0ZWczRjQnVsWHhJclRnRklBSHE5RlQ0Rk9tT3MxQnhZekpWdHVBNmJIdDhHQWxyOFEydHZLZm12Nng1NGtHOTQyMFhWWkJLdTRMVVFaV1kzSWZ3TUVoWlpFeGlya3lUdC16aWE3MzdVdFZJRU5PdnVXb1M1ZzJjMDFkU1RLNVNSZTkzOEwyb0pFekhCSDNGZWI2YVg3T0RzSQ?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNcjZqaTNJcWs1dm0ySXgxaTNwam04ZnlZdUVDNmVPaC1KTkV3QWtFOGFEWktsU1E5WXE2MmJHSTBBclpzM05JdmNocXdYRWY4R2FyLWxCYjNOMERZS2tWbDM3M1RtNktIS015dWtxMzFnbVBJRWg0UjVlZnJuSUJIcGx5bVVrLVFPc08tSG1JUmZNb3lSZC1fcjh3eEF1a3VHdXBycTJGdDFYNU4zX2VTRVJCQTlzb09LWm5yWFNvY2xiY1RScHRQVEFMM1ZNaENCdXk2d3EzdTFCa0ZZbmMtNi1aOEhhb3RaTTFQNWZYLUhYV2RPcmo1VzdheTVuLTRBYU1ZQkVPT1dpN1cxMzVRNTBDZ0g2cXpJc3VrMnoyX0nSAaYCQVVfeXFMUGRvTzV6Nkd3YnQ4T2JQV29lTmJfV1pINkFUM2lqbGRMUWEtLVR4NER2amZpTHEzS0pYV3RfX09jMzlFOF9Wc21yV3BUUDBVTExjN0cySW5yaEsyQURLOG5zNFoxbF9QUGNoV2tYRE5ROEhkTm53RXNqcFhoVHVPYS00TmFJeEpFaWlQLVNQa0g2NFg0UnprMTlKZDJZWDR2TE1CRkNyRm5UNHpCTm5oTkhYVVJJMlBWcWo3TjhDRmJBLXh4cDlKNF8zLS1OMHN6OFgwb0dHbmp1REl0dVd4SlJnOUQtWmdCNFA0Y1AtLVRSZUdURXBPakZrZXBTRlZDa3hiSmlLMGZSbkhwS2Y4X2FRaTQ5X1dMbk53VTl5ODMtTmRKaF93?oc=5"
         },
         {
           "outlet": "Gulf News",
@@ -151,17 +188,12 @@
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcm1MV1Y3TUR3TFF6ZHBIbXVHM2I5Z3d1bEFHaUdMTTl4alVoTEc2aGNoZGxEYmhqUXgwOFFsQ19tdXZkMDJ1ampoYVRGUHJhTm1vVHgzQWFibTNCdTBuMkxoeXkwQzFxOW1FUEQycG1EcUJYU1ZHWklReVZLamR4V0dpWlNfT3psR0QzUWw0OTZRdklRV3U3SnJ0VFhCRjNic1dxVFltVXpFVUpTTExHNURPVGl2UFVadzdv0gHCAUFVX3lxTE9iMlRqRzVJaU9rTmlhdFNhWUwyVGtxLVRrSC1JTlpQSzJEUVROdl9WV3ZzWk5mSHd3UzJnZVFZeE5Ic2lnU3lRNWhDZnQ0RHJCb3Z1M0FKTWVWQ1JQVEg0SXNkMmU1WldWX1MtTnZCRmozNkFLdXZWVEFyZ3k0V2ZuZTEtbnBXOUpjZlh1Nk54Rl9jWWE4UzV2UWJ2UGxxVGNRbVdlZWw4ZFNRa044dlhkVlhrcEprQzBpclZkMllYY1Bn?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNcjZqaTNJcWs1dm0ySXgxaTNwam04ZnlZdUVDNmVPaC1KTkV3QWtFOGFEWktsU1E5WXE2MmJHSTBBclpzM05JdmNocXdYRWY4R2FyLWxCYjNOMERZS2tWbDM3M1RtNktIS015dWtxMzFnbVBJRWg0UjVlZnJuSUJIcGx5bVVrLVFPc08tSG1JUmZNb3lSZC1fcjh3eEF1a3VHdXBycTJGdDFYNU4zX2VTRVJCQTlzb09LWm5yWFNvY2xiY1RScHRQVEFMM1ZNaENCdXk2d3EzdTFCa0ZZbmMtNi1aOEhhb3RaTTFQNWZYLUhYV2RPcmo1VzdheTVuLTRBYU1ZQkVPT1dpN1cxMzVRNTBDZ0g2cXpJc3VrMnoyX0nSAaYCQVVfeXFMUGRvTzV6Nkd3YnQ4T2JQV29lTmJfV1pINkFUM2lqbGRMUWEtLVR4NER2amZpTHEzS0pYV3RfX09jMzlFOF9Wc21yV3BUUDBVTExjN0cySW5yaEsyQURLOG5zNFoxbF9QUGNoV2tYRE5ROEhkTm53RXNqcFhoVHVPYS00TmFJeEpFaWlQLVNQa0g2NFg0UnprMTlKZDJZWDR2TE1CRkNyRm5UNHpCTm5oTkhYVVJJMlBWcWo3TjhDRmJBLXh4cDlKNF8zLS1OMHN6OFgwb0dHbmp1REl0dVd4SlJnOUQtWmdCNFA0Y1AtLVRSZUdURXBPakZrZXBTRlZDa3hiSmlLMGZSbkhwS2Y4X2FRaTQ5X1dMbk53VTl5ODMtTmRKaF93?oc=5"
         }
       ],
-      "source_count": 17,
+      "source_count": 18,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 17 outlets, including Cricinfo and Cricbuzz.",
+      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 18 outlets, including Cricinfo and India TV News.",
       "image": "images/vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus.jpg",
       "image_kind": "photo"
     },
@@ -220,33 +252,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "three-killed-as-delhi-to-bihar-bus-meets-with-accident-in-ku",
-      "headline": "Three Killed as Delhi-to-Bihar Bus Meets with Accident in Kushinagar - Asianet Newsable",
-      "summary": "",
-      "date": "2026-11-07",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1JRQzdEeWlmLW1RbG1BMC1pSnRjWnI0Qk45dHQ0U2RibkVGVnQwLTJJLVBrTTdLQ2lfTGp6LS1LZUpZMXp0a3FtckdHSEIzaXNoVGM2WHVSaDZtOWgwci1NSHgweFlleG5mdUlZRXNRUTdvTjgyRHJKaERlQnd5RXg1UXhzb1llN1NvU2Q2N2kzSjdLNDRPT1BHYnU0SHhDMkk4bDlBSDFVXy12N21tSVlfMXBvQzFWT1R1bU1DRVo0MnE4SEHSAcsBQVVfeXFMTWJHNmNQYlp5Y3NYRUhLTEJVMmZEd3dpVHUtQ3MxbHFraWs3UVRfU0VvMEU3d2REYTNVcEh2TXlHVC1pVXZqWjFTejFUeTdMMmpzVGZHaTA5RnJabHlMZ1haRkFNbGNLT0dBVWhMZk1QZFVuUk4zR0lWUXBVMjZKUGhraUg5QWJTUFAzOWJjMVp3REs2a09wbGJCak9ZOEk1SFBndlJBbTZpRVcwN0hGcWhkclFpRkVWQkZDZmZneUJSSGxZclYxNTQyVkk?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkZVU0lXREhTdzBHZTJaOTV5dzZsanBjZkotUlpqWTBJMHR3QTRUeEJzN3ZFN0IxTGhVejhScEtQOXhYX0p4MmNMWlNFOWNQMGo4X2FhYkRzOE9SN1lIYW52YUVuVDRiVVNOSTc3ZVdtQk93WEJ0bXlNY21HcXNrTWs3cXdhSnN5SU84YlM2MXpvU1FBa2NuNXBJLUx4a1BxcTVj?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Three Killed as Delhi-to-Bihar Bus Meets with Accident in Kushinagar. Covered by Asianet Newsable and The News Mill.",
-      "image": "images/three-killed-as-delhi-to-bihar-bus-meets-with-accident-in-ku.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "prabhat-khabar",
       "headline": "गया-पटना जाने वाले यात्रियों के लिए चलेंगी अतिरिक्त पैसेंजर स्पेशल ट्रेनें, डीआरएम उदय सिंह मीना ने दी जानकारी - Prabhat Khabar",
       "summary": "",
@@ -288,11 +293,6 @@
       ],
       "sources": [
         {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDNDSldFLVhIZXQwTHRtemF1cGMwNTAzN0ZpZ05tTXcyZFY5ckE1NDl0OVJHYV9DcXlEOGJySEpOczdQOGxkRWVDV2JPUjFvY1dTM3dIeTJqVkxzbVN2aEp4dEVyNm0yenI5Y1h0cGo3SlpmWlMwQVNIRWRucUc3RUdrQjF3d0ZCazZWRUw5UWZodDRWQlBwc25hcEhucGtxSGtzUWRNQdIBrAFBVV95cUxOb1hHWjhudjZ3U1A3OVA2VVJrWkdHUm82d2dVQUtkZ2FpbGtMWm1paEVNZzhpbDlzZ1pIYnN1QjJpSWttNjVHQUQ3V0FKZTZVenJaVUExNU54N19qaU0wTXBUdDRYcWlKYW1KczlBc2R3enl4bFB2T05zeFZVc0twY05FNTNCbmpOcEtLZzNycWZncHhzSVhSVklpYmExZUktWkhtYktxa3NTdkpW?oc=5"
-        },
-        {
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQTFseVVKUEZEQ1RGcjZ6YjZqdmZLOWU5VWRzWnJ4YzBrZ2xIVVoxYnNmOV8ySXBnUWh4eVYzVEZzX1c0VGVYUjFUT3hUSk1ORW5hR18yS0xrZDdiOFE3UWh2dTRiSkh2WEtBdFVIZUJuTHZVZlU5eDdndGZJRVFydm5WWG1jZVZSOGY1U1VJZlhGcHVUenRYRXRWOVdCdHdMdFo4X3J5ZzhVRkRULTh4S2piU0FlTUl6Z1pHU1RWUDBHczVrYmFJS09nYnB4VlJWRVpIYTFUamJQZi1WZWdTNjFHODBETjl1Q1HSAe8BQVVfeXFMT2RmMmhtRHA4d1lkZFZWWllvbHZ5bWhHU19qdUJvZWZTakh4QVNDU2ktbllzRnk0bzBjdE9iS05qcUxqLW1ta2tzRkNHcDY4WXQyOHBVRS1yUzYwWE9CVjJIRS1mSTVPU3BxRDIyRWlQN2FMbVpBTUszNzdOOXZVSEpoYTJyVkU2QVBMU2N2R0hvTnpSTVEyVHdUQ3dERFVVT1RVdzVUYTN6cUQ4b0xjWmxvT3o0Um4yV3RXeGFkdFBSYk5yanNfVUJ5SjNrSHF5WWtKZEQ1WXdxdklOQ3VKZkxjaXhWMkNzNmtMNFVlRFE?oc=5"
@@ -301,12 +301,17 @@
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQkkxeGJnMEJJajliS1BZZU40VWR2Y0wyaWVGWFNmQnBfUjlHMlIwZjhPY3JWb1NCRnBBYUlXazhLZnN2R2VLNHhwRjhWbG1FVTV3a21QTXpQd1UzNkxUT1RwWTd0d1o3Y3BncUNPUHJkMlRsQm9YcTFlQTFxQXNpLVF4TmtKZHRGZVUwMFdVdUozQXIxWjRaTlB4aWNFbWduY3ROTV9SdTZ5VHowYUstUGVoLUdBZC1TZlF6Nk13?oc=5"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDNDSldFLVhIZXQwTHRtemF1cGMwNTAzN0ZpZ05tTXcyZFY5ckE1NDl0OVJHYV9DcXlEOGJySEpOczdQOGxkRWVDV2JPUjFvY1dTM3dIeTJqVkxzbVN2aEp4dEVyNm0yenI5Y1h0cGo3SlpmWlMwQVNIRWRucUc3RUdrQjF3d0ZCazZWRUw5UWZodDRWQlBwc25hcEhucGtxSGtzUWRNQdIBrAFBVV95cUxOb1hHWjhudjZ3U1A3OVA2VVJrWkdHUm82d2dVQUtkZ2FpbGtMWm1paEVNZzhpbDlzZ1pIYnN1QjJpSWttNjVHQUQ3V0FKZTZVenJaVUExNU54N19qaU0wTXBUdDRYcWlKYW1KczlBc2R3enl4bFB2T05zeFZVc0twY05FNTNCbmpOcEtLZzNycWZncHhzSVhSVklpYmExZUktWkhtYktxa3NTdkpW?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना समेत 10 जिलों के डीईओ बदले, 9 डीपीओ का भी ट्रांसफर; बिहार शिक्षा विभाग में बड़ा फेरबदल। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें ETV Bharat और Hindustan शामिल हैं।",
+      "brief": "पटना समेत 10 जिलों के डीईओ बदले, 9 डीपीओ का भी ट्रांसफर; बिहार शिक्षा विभाग में बड़ा फेरबदल। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
       "image": "images/10-9-hindustan.jpg",
       "image_kind": "photo"
     },
@@ -431,20 +436,30 @@
       ],
       "sources": [
         {
-          "outlet": "NDTV",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVhnOHdKeFBvV3o3ZVY0T0o3Y1hnbEhUNThOWkpQNGwxYkN6dERsT2tZVUhKTjloRG00bkJSVUtQWUd2ZUZSOEhvWEVuZ1pEZjRfVkxFY3k2SDZna0dqY3IyQjljY2ltdjZXdGRpRkh1UjExVm04RFgyV3VUbXVOVjlzcEM0UXFHY2ZCR0YzVGVOVEZTSHAzbHVnRDIwSjhn0gGoAUFVX3lxTE9vNHlVM0EtTElIUnJvQ0p5aUtWR2JUdGVGQWtsMEhlTTR0NWFVaEJ0Y2FwRWUzNFc5UVFfNldHUWVuNkoyd2F3LU9mUXdaRHZSSm5jZ00tUVBPTmJnRjJGZFRXM2xfY0FvRHp0VVZ1VDV0dEpXOUdMd2JNS3ZOOWowQkl4V19ocllvZXMxb2Rja2RfUHhyTk1UTXZucUVrVXZKQ3IwRnk2cQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYW9mYUh0QlBDR2tEZmZMM3pZX09TWFQ1RDNZWWNEdW9qeFd0N3lTcW9sOTlJanVlWERhb2pVN3RUUVRaeEFNMjVYTFdSeTFCSXpsQUNYYVJ4NWgzQ1BnUUwwaXZWRXNyeVVCWTVfQy01ZEU2N3NVV3V1Z3pnNEl2X1dXeFZfUTRRX0k2OHJVN0JrMU9menhFeHFqeGh6RFNfS2hoM1B4VDM0R0NqN3JtaTBQd3hGNXIycmo5dVNRX0vSAcYBQVVfeXFMTXN3ZXRNb1dYd2h6SVQ2MnJZM0hBSG9QYXpzcjh1NldIcGMxUE9nVGxfdjBOS0swSnB6WFFpWklzM1kzemFCNi1DZXN0SVVmVDUxOFY0QUx5WjBlSzZDYl9qWGhJYlRKVTFDWVZNX0dEOU1SSlU2SldSNUNob0cxeHcybDdpamRLelpwYjM3VW1YOF95bTctUWo0cTlxLTRMNjNrdGhpU2dCM1d3cnk1bFJyUnZaajJfbWdfQ0lHY0x5NEZIajdn?oc=5"
         },
         {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT0l3SGNtMWtQNW5IdDdwSDViWW0ydElxOUNtME40SXJ6R3dZNldfLUZmRFJNQ014VmJxbUIyNTNvUXp4STYzQXZ2ZmJTal9JRmJyYWZiN0ItMkJVbHNyWk9Qa0luT19PZGk0VWhvcDV4R3NwX1cxZElqNU5VcERrNFZacWZKc0hLTnJ3emNHTW5UZVRMWGlfLTdLRE1KMG5mellFc2R5UGFxczdUMnhYRi1adEY2eHNtbVNnYkllbGFjQkdVbUhYUE9tWFdiLWpBOFdIekk0dWZOemJhWHVGStIB5gFBVV95cUxPNzkwMGlsdEtDeXl5LVRRQldRN3p1dXk1NXBpSVlvTnZkbmdYcU5ieE8yNlF2WGVBamJuVkxsOGgwbHp1VTNvOVA2SWNRT09BN2JNc2NjYzFHdEhqMjJ5TmY5akg3NFRmbWhDNDlpSWpBRVJoYXNxUklTdkk5SllOQkppTXl0U2FHRkl4Nk4xNUU1NU1lcVpJRmpYX0xZMHhUaHlYTXg4U0EtOGc0RDVxaUNpTk05VWw0VWt6V3RTbzdwRW9vNUtZa0I4M0N0MmlwM2drUmMwbEFBV2trdWtJc1d6TTdJUQ?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTdlNGtoOXZLd3ozbTFyWGxwZWFJcWtpWlJ3MGt1Z0JnQ2hUNXBfdmhMVHk0RWlHMXNfZDZEdl9nSy1CbEVTVjMtM3kzaWFGTjZhaDgxZ1ZzbGRJWU9GS3lJa2ZBNjhNaE12VmFkSml5WmJneTVESzY0QkR0NWJweU9xNEhZS3pLSnFIc0xVcm52Z3haTFNCRXljalNzMlNGQ24yWVFLMndxWDM4VlVlUWFzUjNQeHpmSm94Xy1KN1F2UdIBxwFBVV95cUxObE0xc0JxUTZDS1lTVFRDTXdoSEZXTHhjcGFTN1hic3hFVDVGaDd3enVUcUk4SER1R2pvcGtaQ0gzemtQWWhyeGJwLVJDOEtPY3NNOHo4UnBHdzVRaU9jTHFVSzRvTUV6YWhobk5FdzVzVUhIQVJ3SzloSUZRdGM3TVVVWTlSNGtSVEpxSEctR2JwZmlUd090d1pldEt2QXFnWUI4aGU4Zlczck15VzFuNzZ6Y2RQMUZ4WXlaX0NlUEpMY1VfOTEw?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVhnOHdKeFBvV3o3ZVY0T0o3Y1hnbEhUNThOWkpQNGwxYkN6dERsT2tZVUhKTjloRG00bkJSVUtQWUd2ZUZSOEhvWEVuZ1pEZjRfVkxFY3k2SDZna0dqY3IyQjljY2ltdjZXdGRpRkh1UjExVm04RFgyV3VUbXVOVjlzcEM0UXFHY2ZCR0YzVGVOVEZTSHAzbHVnRDIwSjhn0gGoAUFVX3lxTE9vNHlVM0EtTElIUnJvQ0p5aUtWR2JUdGVGQWtsMEhlTTR0NWFVaEJ0Y2FwRWUzNFc5UVFfNldHUWVuNkoyd2F3LU9mUXdaRHZSSm5jZ00tUVBPTmJnRjJGZFRXM2xfY0FvRHp0VVZ1VDV0dEpXOUdMd2JNS3ZOOWowQkl4V19ocllvZXMxb2Rja2RfUHhyTk1UTXZucUVrVXZKQ3IwRnk2cQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Man wanted for murder of RJD man in Bihar arrested in Keralam. A politics-related story. Covered by NDTV and The Times of India.",
+      "brief": "Man wanted for murder of RJD man in Bihar arrested in Keralam. A politics-related story. Covered by The Times of India and NDTV.",
       "image": "images/man-wanted-for-murder-of-rjd-man-in-bihar-arrested-in-kerala.jpg",
       "image_kind": "photo"
     },
@@ -473,6 +488,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar officer protests 8-month salary delay by holding begging bowl outside office. A politics-related story. Covered by India Today and WION.",
       "image": "images/bihar-officer-protests-8-month-salary-delay-by-holding-beggi.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "40-3-sho-aajtak",
+      "headline": "पटना में गंगा किनारे एनकाउंटर, 40 राउंड फायरिंग में 3 अपराधी ढेर, SHO को लगी गोली - AajTak",
+      "summary": "",
+      "date": "2026-11-06",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWxxRmxpZGduVG5PeVFGRlhSWkFTRXNTSkNqR1dxY0pCS3Y3QUpScDZyVUR1XzhvM0gzdE51OWY4T3ZUU25NY2Z4YUoxN2FVYWNKWlFXUzNxdTA5RmsxMFFXZHBiVjcwNldpZ0VZdkV1Ukg4WjI5QWRqaVpRWWJ0dnlLeldObWlRX3ZQMVEtOXdXbWlwdXlMNjhrUVBxQllQM3V5ckoteU5jamlRNmdGcHhzVElNVUNiRlhrOHNFRjdWRjUxNVlyLWlnem45U3VTOXNiVlZNUjVFUdIB3wFBVV95cUxONk5CcFNfMHd3SnYxaVFIWmhSOFgwajdELUZGdGRiY1JiSFdtVXdGWHd5VWZ4NmlwLUhxTGZCSVFfWEpXQ0Q1UHVPTmxpZV9jUFhzYkpBd3R3QjJGazlnVjZDeFhzcUNTQmFRMjRPUENZYzJ4Sjdta1QycDRXOW8yYmZhOWhUeW9pWFJ3SkZYT2F4V0RPN0YxbVFOLWxJWHhiMEM5MlhOZThlRTZBNjRORnBoRXMxVEFPLXJCX2FsVlNCdjVrY1NsY1ByS3pTYm95djlwV2RVaEF2NWc1bU84?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckt5REgyeE92c1g4aTMzUUVHSVlXWWIwcjFkSEdHM2RFQm9Jek9lSmlhSmZaMnlENmxUZHVPcHBkSGZxQVpoTENNMUNVVEhjdzlmTVQ1Qmk4QVY5NE9ZOE5WNFpvOU54UUdzeUg2TVBSbnhFX3lFY0RlV1QxTlJTUHA0Rkx4c3VnbXhEMFlvMXBrcFhKc2d3cGtn0gGfAUFVX3lxTFBFd2pPR0E2SmtqVkVySGdLcUVtbkRBeWtGSWhVQjNXMzBSeU1zbXJCUkpoLUVxdjZzdGJ2bTVpQ0dhalNUQkJLczg5dnJubU96ZW1UaGMzeWxwdDNtY2VQemxzdFhUdjA0TFpNS2RTdU9DLXlpZWZST2twQ2NvcDllY2JSMVJfRndxRzNQLW1Da2xzbTFrSDgtSXROV3B1RQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में गंगा किनारे एनकाउंटर, 40 राउंड फायरिंग में 3 अपराधी ढेर, SHO को लगी गोली। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/40-3-sho-aajtak.jpg",
       "image_kind": "photo"
     },
     {
