@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09 19:37 UTC",
-  "generated_at_ist": "10 Nov 2026, 01:07 AM IST",
+  "generated_at": "2026-11-09 20:36 UTC",
+  "generated_at_ist": "10 Nov 2026, 02:06 AM IST",
   "story_count": 54,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -250,6 +250,33 @@
       "genuineness_label": "Corroborated",
       "brief": "PM Modi to visit Bihar's Vaishali on November 21, inaugurate Kachchi Dargah-Bidupur six-lane bridge and launch development projects. A civic-infrastructure story. Covered by Asianet Newsable and ANI News.",
       "image": "images/pm-modi-to-visit-bihar-s-vaishali-on-november-21-inaugurate-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "another-encounter-in-bengal-12-year-old-girl-s-rape-and-murd",
+      "headline": "Another encounter in Bengal: 12-year-old girl’s rape and murder accused shot dead while attempting to flee ... - Bhaskar English",
+      "summary": "",
+      "date": "2026-11-09",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWkhhR1BNcmsxUXkxdVc4SThfOUdVZF9DZWtYak4wLVB3aGl3ZFgtNFM2SnVNUzlNd0hxZHZVTElLZ2ZVVnVfNnhEN3dxLWhQa1ZEVXF5blR2Rk1ibUJYeFI0VnJGRmlyVVF0ei14X01vT1d3QnBydzAwbTN0Vnk0T1pZY0p3TnkyTE9tcFhVdVcxaGJBcWxZeXA1eGl3RnMwSzBsNE1ycC05OUk5MHM5QzhHdXdiUTVidHBTMGFyQkQ0YmFYLXRkWlJVOGtnbDktRGh2X3hodTY4Sm9LanN1VGRhTWpHc2tyX3BsM2lsejF6cE5mUWxSYjl6TEhuUC1TQndpWGl30gGLAkFVX3lxTE9lc3FnV3VOQ2Iza0ZueEhFY3JVS2JHS09mZFY4LU5FalRaNDBNWlVHV2czUHhFQzRHeVpWMXpSMUFIQ3N1enNZMEY3Y0JSUHY3TGsxbWI3SWRkUENWd1Zia3hXcWNrQ2Yzek5uSjZ3OFJCbFRRVUluUzZPcFdlTEtMNV9WNEJpVzVQQkpVMFlQVTFJZjNIb3dJdHBPbnZ5MkxSc2p6MWpGNU1MZmZ2VVVram03YzJyYTRwQ0pFbVFVd0FDd0JjeXpUazZoajNEMXIwejJOTjZyWnBsVFB3WFNsdTNZMHA2LVZ5d3drdE44eEItZ0ZzUksxd01fYzBEUGNvWFhuUXlBSjFQWQ?oc=5"
+        },
+        {
+          "outlet": "Bhaskar English",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRHJ6bGUxRmQxYkg4Y202aXBOVEdUTE1INGF5M1cyTkFSVXFaUS1LdVpjTkRXMHRNdE4tUUVfR3dzNDhVUmNLTXZ4V1EtNU5IS3JvNVAxRlpIMTZXcDR5X3NpVHZVdXRyYVZlUEhWT2RQaFJCS0FzN05vMzlwOWgwRlJQVDZDSTloWnlaeVl6WUpBN0s3NFAtRm1sZTVXRU92S3lrQTZhM3l1WHhLVDZTLXNIRnVweEdGVlZMTnJyMzd1WWNZeWU4emlJa1BENElsdzRWTHVpbWJmcktRSk9UYVNiWVR4RGZhaDQxekxwMGlCX2NTbG5Eb2RwWm85QUxC0gGGAkFVX3lxTFBqbnVha2swdEltZDBJZlVpY2hyMmluaXo1TEZqMzBpdHdEUjZQYzRTWDhRbXdoTGt6TWFlQWRkVTJMN25HbEw3N1U2TWt0SEU1QThpbnh0N2dCTFdsMnZBZFpYZ3J5ZXlLYkIwNURSN2VrZWF4bkdOQ3BsYVNVTFRGTUs5QlhmT3dIRDJCOVQzcGhqZ2RTN1Jia0c2d1ltY1p5NDFCNDlGWGR3djlsNzRVdGExSUg4bXBlOEU1NUZQWElSbHVuTlR0alJ5cTU5OVMwR2VaUHJ6TEVoZ2xZSUwwZzVKbWwxclZ6d0pwM0VQeWpDdWtiXzFFTllNSWJpMkRyajlyYVE?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Another encounter in Bengal: 12-year-old girl’s rape and murder accused shot dead while attempting to flee ... A crime-related story. Covered by The Times of India and Bhaskar English.",
+      "image": "images/another-encounter-in-bengal-12-year-old-girl-s-rape-and-murd.jpg",
       "image_kind": "placeholder"
     },
     {
@@ -312,38 +339,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "navbharat-times",
-      "headline": "पिज्जा और मिठाई के बाद सब्जी-फल दुकानों की पड़ताल, पटना में सेब, केला और आलू के लिए गए नमूने - Navbharat Times",
-      "summary": "",
-      "date": "2026-11-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUjJWbXBta0wzMzl4OVZQUjg2RWU5WEdsdEswM1h0OG1ZNmpRUVhTY2RRdk9XaDkzUlhsN21ySFZRV1g2RG1ib3E3aXNyYVlCQ3ZNd09uU0NGZlhOLVl2Q25WMklyb0JISDRENHBoaGFqeV81S2gzQ1Bsc1B5Nk1SRVBCNTZMdE1WbXhUNVpYbnlDalJ6cHpCZTZVeUIyRW1JYjRqUndZZGg3WGNCS0p2YVljVTFIVzNUWEtmelRvb2VaenlPNVpJcU1zZDcxZmpjQk02eVllUmpMQ2k4eGtKaERSdVlxN3VZ0gHuAUFVX3lxTE5XR2g4amlpazNKbVBiUjBKeFhLTjZlT1lHM2xMZl94dEJVZ1VtTWE5d01GYWQtWU1BalY1YjFxc2pwLWlDVDJ6U3NNQ1hVcTFmLURfc2dGYWdxS2FCbVZNYUttbW1rSmRUOElyWU92MVRTMkU3Tlo4dnNrbEE0aHNsbXdPT2N4ZTR3YTdQRXo4N3A5TTl5SDF5Y3lOUi0zbkdQMlViVEF1U0hyOHpfNDB1cXJOMjBRcmtLenJscXRzNEx3T2dkeWw0N2tscG1xbE5jS0l4VE1GbGJZRWd1ZUxxRWVkQmxMLTJyWGxtaGc?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUlXSk9hS1A4VHhld2VKeVpaLTh6b0hGaTU3Z25SNmxuLXhkZmZ4Qi1sVFVlVEE2dDV0b1pycW0ycG5ZZnlKYjJIMHU4d0MzT3pQTWg3UHZnWldkMldHcnNyNWRpT1JHQjAtY05hRlJ0YTc2a3U4TzhBY29fbjBmVU8wdVp6Qlp3dm50MjhMZmZTUzhTTjVQcGRQQkRRVWc?oc=5"
-        },
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNR1hiT1dnTGlmS0U1Snk5TFdGX0s2dTIzWHZhcjgtVFc4cHEyRjg4MHY1OTB6SHNhN2tZcFp3M083aUxuVW16X1hPMnIzRXdEbkpxaVo1eDJnLU1UdTRncXZJdFhONW1ubm5Gc1VaQ2h5U01aVVVRNlpNMkI1ZFZLaVBVV1VmeVhmV0luMG01cXFoQVZJVzJLYUpRbWxsVGRDanRDLXVMNmIxeWxQaXBhNWFPR1VEcWgyWkFwTmttRXhtempwTlg4SUk0RTZUZVVCS19EM2stSDZ4ams1bTBzYmlyQXJvZGtHMVUyTVNOdzkxcHExWFZRVjJ5X2dpOVFuNG1Nd042cFbSAY4CQVVfeXFMUGFiOVhCMUNkYVNjVk4zR3lMdGcxZ1NpOEtieDJHWmROcGljS2E5NExIU1FMTlhDMXdmUzZTeTB1Y3d1TFFndnlRY1RDdEJkMHo0VTZBLUlQS0VIeVhfRXVIZks1a0oza0YzSHVJNXJQSlJFdUJHMkhNNVlSQlBMMHQwanoxNEJ3QmpnX0ZYalBDOTl0MTRZX1I0ZENDMTFTVFRwdnhDSUUwT2dtRnRKa3liUUN6WVAzWFZGamlzaWFBQWhEcW9RLWUxT2p6VUNDckN0UVgwZmZhQVU4UmxmbVJqU05vS19QUDdYQlBwSFRvSE5SNGtHcWJXTTZ1aG1QNkdHSUFLM0c2Tm9JYUVn?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पिज्जा और मिठाई के बाद सब्जी-फल दुकानों की पड़ताल, पटना में सेब, केला और आलू के लिए गए नमूने। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Prabhat Khabar शामिल हैं।",
-      "image": "images/navbharat-times.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "50-dainik-bhaskar",
       "headline": "पटना में चालक ने ही चुराई मालिक की बोलेरो पिकअप: गैरेज में कटवाकर 50 हजार में बेचा; तीन गिरफ्तार - Dainik Bhaskar",
       "summary": "",
@@ -398,6 +393,38 @@
       "image_kind": "photo"
     },
     {
+      "id": "navbharat-times",
+      "headline": "पिज्जा और मिठाई के बाद सब्जी-फल दुकानों की पड़ताल, पटना में सेब, केला और आलू के लिए गए नमूने - Navbharat Times",
+      "summary": "",
+      "date": "2026-11-09",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUlXSk9hS1A4VHhld2VKeVpaLTh6b0hGaTU3Z25SNmxuLXhkZmZ4Qi1sVFVlVEE2dDV0b1pycW0ycG5ZZnlKYjJIMHU4d0MzT3pQTWg3UHZnWldkMldHcnNyNWRpT1JHQjAtY05hRlJ0YTc2a3U4TzhBY29fbjBmVU8wdVp6Qlp3dm50MjhMZmZTUzhTTjVQcGRQQkRRVWc?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUjJWbXBta0wzMzl4OVZQUjg2RWU5WEdsdEswM1h0OG1ZNmpRUVhTY2RRdk9XaDkzUlhsN21ySFZRV1g2RG1ib3E3aXNyYVlCQ3ZNd09uU0NGZlhOLVl2Q25WMklyb0JISDRENHBoaGFqeV81S2gzQ1Bsc1B5Nk1SRVBCNTZMdE1WbXhUNVpYbnlDalJ6cHpCZTZVeUIyRW1JYjRqUndZZGg3WGNCS0p2YVljVTFIVzNUWEtmelRvb2VaenlPNVpJcU1zZDcxZmpjQk02eVllUmpMQ2k4eGtKaERSdVlxN3VZ0gHuAUFVX3lxTE5XR2g4amlpazNKbVBiUjBKeFhLTjZlT1lHM2xMZl94dEJVZ1VtTWE5d01GYWQtWU1BalY1YjFxc2pwLWlDVDJ6U3NNQ1hVcTFmLURfc2dGYWdxS2FCbVZNYUttbW1rSmRUOElyWU92MVRTMkU3Tlo4dnNrbEE0aHNsbXdPT2N4ZTR3YTdQRXo4N3A5TTl5SDF5Y3lOUi0zbkdQMlViVEF1U0hyOHpfNDB1cXJOMjBRcmtLenJscXRzNEx3T2dkeWw0N2tscG1xbE5jS0l4VE1GbGJZRWd1ZUxxRWVkQmxMLTJyWGxtaGc?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNR1hiT1dnTGlmS0U1Snk5TFdGX0s2dTIzWHZhcjgtVFc4cHEyRjg4MHY1OTB6SHNhN2tZcFp3M083aUxuVW16X1hPMnIzRXdEbkpxaVo1eDJnLU1UdTRncXZJdFhONW1ubm5Gc1VaQ2h5U01aVVVRNlpNMkI1ZFZLaVBVV1VmeVhmV0luMG01cXFoQVZJVzJLYUpRbWxsVGRDanRDLXVMNmIxeWxQaXBhNWFPR1VEcWgyWkFwTmttRXhtempwTlg4SUk0RTZUZVVCS19EM2stSDZ4ams1bTBzYmlyQXJvZGtHMVUyTVNOdzkxcHExWFZRVjJ5X2dpOVFuNG1Nd042cFbSAY4CQVVfeXFMUGFiOVhCMUNkYVNjVk4zR3lMdGcxZ1NpOEtieDJHWmROcGljS2E5NExIU1FMTlhDMXdmUzZTeTB1Y3d1TFFndnlRY1RDdEJkMHo0VTZBLUlQS0VIeVhfRXVIZks1a0oza0YzSHVJNXJQSlJFdUJHMkhNNVlSQlBMMHQwanoxNEJ3QmpnX0ZYalBDOTl0MTRZX1I0ZENDMTFTVFRwdnhDSUUwT2dtRnRKa3liUUN6WVAzWFZGamlzaWFBQWhEcW9RLWUxT2p6VUNDckN0UVgwZmZhQVU4UmxmbVJqU05vS19QUDdYQlBwSFRvSE5SNGtHcWJXTTZ1aG1QNkdHSUFLM0c2Tm9JYUVn?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पिज्जा और मिठाई के बाद सब्जी-फल दुकानों की पड़ताल, पटना में सेब, केला और आलू के लिए गए नमूने। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Hindustan शामिल हैं।",
+      "image": "images/navbharat-times.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bihar-stet-2026-exam-rescheduled-to-november-22-revised-admi",
       "headline": "Bihar STET 2026: Exam rescheduled to November 22, revised admit cards available from November 12; Check... - Moneycontrol.com",
       "summary": "",
@@ -434,9 +461,9 @@
       ],
       "sources": [
         {
-          "outlet": "Cricbuzz",
+          "outlet": "Cricinfo",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdXNHRWg1aDVVSWN4Ul9ZYjBPXzZoMXc4VWZQQUR0TUtqcnhfSmV5RXJGdmozYjJ4Sk1hci1Xa2w3YU5QcTRQeXZ3ZkJITkFOVXdWcHdMaXd0MmVoYko2dnF4UVlXWE0zcTVtLWVJRDJRZE5jLVhnbkprRmZRWG1UUkJoeTIxSnZkUms3LU02NXBnLUU0c3V1bmFsQy1id0pUMnVndXpWMVozMk1vN0lGaVhfN1BsWHhwaGZFaTQ5RzB3OHY1TF9zTVRLMEw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
         },
         {
           "outlet": "Cricbuzz",
@@ -447,11 +474,6 @@
           "outlet": "ESPN India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3lZT0h1bko0SENzcy1ZRXZDak85Tkt1SndoZUhySTNyN0JPaXJFQWJqc2wwWFlBcDlzMGhCUkpyeFYtOU56LXE4c3A0Y1FuRlo2QUdnMFhkUzhjaU9jaGNCX0xyc2tEekU5b3ViV2xsYW9CQTZ0TVI0ZEd0c21YZXJHZ212WkNrUFU2dXdPY2lBdWlIN2FV?oc=5"
-        },
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTllGclNsVWFUYUJTTllqV2VoMk9KWEJqY1ZiZXJpMUg0TEZwN1NtNFZpQlVGcUhKN2Izck03aFgwM2tqZFNmbi11aUI4cmg4dTYwcmF0NU9lMHZNb3F0dlc1bkVTTWpjVzBEd0JUREJHbzhOSVZycXRzX0FCS01BWUZtaUx6WmUtc3YtT25RSjRzSWVRdlhrVFlkeDFHTmQ5NUtOcUhCWm5mdnN0M3drQU1RSkk?oc=5"
         },
         {
           "outlet": "India Today",
@@ -489,15 +511,20 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzRWMUFtSEVvbHl1eFJ3Ym00bW9kZVlaM29tMEJONFlhcWJwOWZYVGl4S0J4anhISS1fT3pFa2xrRTRMVF9rZ2NJQnhlNDBHZlhuenlnSS1Ic1F6alpsb25meWVDc1V2dHBwS0UwMTNQY2kzMi1JTkw4THJhT0tMendTM052NjNNOTY4?oc=5"
         },
         {
-          "outlet": "Cricinfo",
+          "outlet": "Cricbuzz",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdXNHRWg1aDVVSWN4Ul9ZYjBPXzZoMXc4VWZQQUR0TUtqcnhfSmV5RXJGdmozYjJ4Sk1hci1Xa2w3YU5QcTRQeXZ3ZkJITkFOVXdWcHdMaXd0MmVoYko2dnF4UVlXWE0zcTVtLWVJRDJRZE5jLVhnbkprRmZRWG1UUkJoeTIxSnZkUms3LU02NXBnLUU0c3V1bmFsQy1id0pUMnVndXpWMVozMk1vN0lGaVhfN1BsWHhwaGZFaTQ5RzB3OHY1TF9zTVRLMEw?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTllGclNsVWFUYUJTTllqV2VoMk9KWEJqY1ZiZXJpMUg0TEZwN1NtNFZpQlVGcUhKN2Izck03aFgwM2tqZFNmbi11aUI4cmg4dTYwcmF0NU9lMHZNb3F0dlc1bkVTTWpjVzBEd0JUREJHbzhOSVZycXRzX0FCS01BWUZtaUx6WmUtc3YtT25RSjRzSWVRdlhrVFlkeDFHTmQ5NUtOcUhCWm5mdnN0M3drQU1RSkk?oc=5"
         }
       ],
       "source_count": 11,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 11 outlets, including Cricbuzz and ESPN India.",
+      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 11 outlets, including Cricinfo and Cricbuzz.",
       "image": "images/vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus.jpg",
       "image_kind": "photo"
     },
@@ -639,34 +666,6 @@
       "genuineness_label": "Verified",
       "brief": "Three wanted criminals in PACS chairman's murder killed in police encounter in Patna. A crime-related story. Covered by 3 outlets, including The Hindu and The New Indian Express.",
       "image": "images/three-wanted-criminals-in-pacs-chairman-s-murder-killed-in-p.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "notorious-criminal-wanted-for-rjd-leader-s-murder-in-bihar-a",
-      "headline": "Notorious criminal wanted for RJD leader’s murder in Bihar arrested in Keralam’s Kollam - The Hindu",
-      "summary": "",
-      "date": "2026-11-06",
-      "topics": [
-        "politics",
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVhnOHdKeFBvV3o3ZVY0T0o3Y1hnbEhUNThOWkpQNGwxYkN6dERsT2tZVUhKTjloRG00bkJSVUtQWUd2ZUZSOEhvWEVuZ1pEZjRfVkxFY3k2SDZna0dqY3IyQjljY2ltdjZXdGRpRkh1UjExVm04RFgyV3VUbXVOVjlzcEM0UXFHY2ZCR0YzVGVOVEZTSHAzbHVnRDIwSjhn0gGoAUFVX3lxTE9vNHlVM0EtTElIUnJvQ0p5aUtWR2JUdGVGQWtsMEhlTTR0NWFVaEJ0Y2FwRWUzNFc5UVFfNldHUWVuNkoyd2F3LU9mUXdaRHZSSm5jZ00tUVBPTmJnRjJGZFRXM2xfY0FvRHp0VVZ1VDV0dEpXOUdMd2JNS3ZOOWowQkl4V19ocllvZXMxb2Rja2RfUHhyTk1UTXZucUVrVXZKQ3IwRnk2cQ?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRHI1ZUJIU1ZqYVhXWnlQN0VDUGJYTWEwQnBJb3hBemRlaFZDZnZVNTFGN3V5a2tGdDVWR2NqSERSbGh6YjBqUk9rbEx2WE54S1NmR25kNFRENHBSSGdfanEwdzJ3RzVNNnZ6VHI1MVlSZk02OXRyWWsxSUI5SWlJNVJTanV0Z2NvY3lJTDRmOGVPb2dkRDlRWlRVcHJfbl94c0NSckpvaTE4SHVSQVljLUxJMmcxenR6Q2tPNVVXT3VnbGtyNlEybGt5YWY2Smd0QXhwdEtuR0VFRkxEdXh6NHVJSW5iZ9IB7AFBVV95cUxQbHVxRkFISkNMNFZJQjZ2ZktMaGZIdjdlSmVLRVlhb3NSZ3Boc29TRHE5QW1wb29NUzZxWUc0cHpHNUloQXkxTHZ3cmZKUDZTRGlMS3FwNGlETTFLWENGWmFlamxtNDJDVkNxaWpmanB6OS1wNlVPWk02ZFptd29vOWUyVGh0TjQtVzV3MzFFYlZQOHlvTjZWTFRTMWk4ZEJvNEFLSFZZMzc0cUlrcVNuX3JDMHpYT3RfVFV0enEzOERtRmZiWUZCQWhlc2xUZXBhSmFTVTJxbzlEN3pnR3FCeWlOVW8xb3hRZHhVVw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Notorious criminal wanted for RJD leader’s murder in Bihar arrested in Keralam’s Kollam. A politics-related story. Covered by NDTV and The Hindu.",
-      "image": "images/notorious-criminal-wanted-for-rjd-leader-s-murder-in-bihar-a.jpg",
       "image_kind": "photo"
     },
     {
