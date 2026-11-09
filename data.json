@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09 08:37 UTC",
-  "generated_at_ist": "09 Nov 2026, 02:07 PM IST",
-  "story_count": 49,
+  "generated_at": "2026-11-09 09:55 UTC",
+  "generated_at_ist": "09 Nov 2026, 03:25 PM IST",
+  "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -35,7 +35,7 @@
       "genuineness_label": "Verified",
       "brief": "Bihar MLA Anant Singh Plans Grand Wedding For Daughter With Feast For 4 Lakh Guests, Thar As Horse Race Prize. A politics-related story. Covered by 3 outlets, including India Today and Gujarat Samachar.",
       "image": "images/bihar-mla-anant-singh-plans-grand-wedding-for-daughter-with-.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "3-bihar-friends-turn-banana-waste-into-a-2-5-crore-business-",
@@ -47,20 +47,20 @@
       ],
       "sources": [
         {
-          "outlet": "Education Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZ0lzNFZSZHZDUlh2TUhmOXpZN3NySFFoWlV5NW9OcHF1M2FkQWxSbVpmcVVzdDc3cG9XUWlVcXVQcHdoX3dDNkZVcDFhQU5ncWpXSDJMZjJqNVZDZDN4SURySkRONW1vWktqamp5RlVZa2l3SWhPV0VMRE1DOHlHSVBOSzZ4NzFUMnBzMkJlaTFDZU90b1FVOFpBbTlKNnptRjB2bnNudngxWTh1MDY3SlZnUUtsckJlOU0zc1R4YW5fRml0eWhSRWREQzRSaDdxcXJHWFAta3VGdE80TFgwQWNpdmFrcGpTUlBzRUU1QjNTYkJUM0dhVUF2U0k1SlJ6b3ZRdUNpVjU2U2M?oc=5"
-        },
-        {
           "outlet": "Moneycontrol.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWnhHaDNkb2E5ZUxOeUwzM3czVFh0YzNiM3lyTUZEQVJ0enVTUXY0bm03WDNsakozbkVBV0JiMkdJYUJ4LURLeVFyeXJIUlBzTFNNd2Z3S3k0eFJ1d3dwNUluZndYNjZkeGJJTWlIUFJUZzNwZjlERzJ5T3lUSzNjUHY2MURYMmJiTXlHOC1VWGZjemJ1MHNhX3ppRlQwY2lFTUdzRGliV2NUREpNTkxEMm5PbzJrNU1SdzhsYVZoM1NxS1lpZ1FXUFA1ZFNDeGprYjBfcG5B0gHbAUFVX3lxTFBNaGg3Y0RVbFRmZzkyUHVJQnhMQ2ZQSUJvdzhJenhhXzI3V18welFXU0xHQ0VCemIwZHY2ZWFpZ0lXUVh0cjRJYlFidVN2a0JTXzRRakdxRzBiMUV3VWhWOTJoNF9YN2NIaWVkOGxNQ0haXzJtdVlySXhmcGVjWVJHZXVzT1dnUDdPZlpwQ2NFOHRPV0J4d2hKZ2twamwwdjQ2TURIREJQWDJGbGt5ZFBIR3VuaFZaRV9ROFF6VGJCRzhpbU1vOThja3pQSWJiUmVLaFVHQUoxTnNQWQ?oc=5"
+        },
+        {
+          "outlet": "Education Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZ0lzNFZSZHZDUlh2TUhmOXpZN3NySFFoWlV5NW9OcHF1M2FkQWxSbVpmcVVzdDc3cG9XUWlVcXVQcHdoX3dDNkZVcDFhQU5ncWpXSDJMZjJqNVZDZDN4SURySkRONW1vWktqamp5RlVZa2l3SWhPV0VMRE1DOHlHSVBOSzZ4NzFUMnBzMkJlaTFDZU90b1FVOFpBbTlKNnptRjB2bnNudngxWTh1MDY3SlZnUUtsckJlOU0zc1R4YW5fRml0eWhSRWREQzRSaDdxcXJHWFAta3VGdE80TFgwQWNpdmFrcGpTUlBzRUU1QjNTYkJUM0dhVUF2U0k1SlJ6b3ZRdUNpVjU2U2M?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "3 Bihar friends turn banana waste into a ₹2.5 crore business: How they built Taruwar Agro from discarded farm stems. An economy-related story. Covered by Education Times and Moneycontrol.com.",
+      "brief": "3 Bihar friends turn banana waste into a ₹2.5 crore business: How they built Taruwar Agro from discarded farm stems. An economy-related story. Covered by Moneycontrol.com and Education Times.",
       "image": "images/3-bihar-friends-turn-banana-waste-into-a-2-5-crore-business-.jpg",
       "image_kind": "photo"
     },
@@ -87,14 +87,19 @@
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmQ4YlpRWkZNRElHRnhmZThVY0hScmVDbHRTeER5NEdqM0k2UHZWa0lLc3lDVUJMeVJqc3NDR2ZnNmV3dlhLR2VBVnBYZkRtbVRmcHZyVkU1eWpONTRaZUR5OHhSWk41NzhwYU8zTzN6dm5XZXoxR1ZWMFBzb3NrV1RVeTl6T3haMkNYdw?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVWIwV2RNRTJOOXFHVGpnYzRZTkVBVm1BcjBWaWs5ekNpcEN0Yi1pVkZLYTRwdzY1YXl3aFJ1U1JNLVZHblhxcUQ5R3kyRkstWG9MMWdwMXNpS3dieEcwQkNGdVpKTGlBNVlTUnNIZGhPMUszVWZxQk1XekFETXFHM3pEMjlnY0k4RHVyZGJIRVdMTEZiV0NDTEY3elY4Z3FpTVp3bkFJSEZGRzdNeDQ2M0F6OE5qamQtVHM40gHAAUFVX3lxTE9qQmJ2RFE5RWhJMGExOGoyZy0xU0FVUmtmdHpMNHdhQ3hiWklXYy1jNHBEeUxYMl9fLURIV19NTXcteURHTXE3VFZTSWJaZmUycnN6OWU2NlZ0WWxTdVQtTzZBWmFxeEx5eU5sTWloNG5UTDBuV2JsMTR3RjZNdWlpN2xrYjBmS3VYTXkza2pvMTVpc0otdFNWaDgzZjVnRGtTSlFlODAyWFd2OVBLd0p2S0NOZE41TVRYZEJuRzVRaQ?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "मुजफ्फरपुर में सांस लेना 11 सिगरेट पीने जैसा: आतिशबाजी के बाद बिहार की हवा जहरीली; पटना, मोतिहारी में लगी आग - Patna News। इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "मुजफ्फरपुर में सांस लेना 11 सिगरेट पीने जैसा: आतिशबाजी के बाद बिहार की हवा जहरीली; पटना, मोतिहारी में लगी आग - Patna News। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Prabhat Khabar शामिल हैं।",
       "image": "images/11-patna-news-dainik-bhaskar.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "37-dainik-bhaskar",
@@ -121,7 +126,7 @@
       "genuineness_label": "Corroborated",
       "brief": "तेजस्वी यादव का 37वां जन्मदिन: आधी रात को परिवार के साथ काटा केक; जिला से लेकर पटना ऑफिस में आज भव्य कार्यक... इसे दैनिक भास्कर हिन्दी और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/37-dainik-bhaskar.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "pmch-dainik-bhaskar",
@@ -231,12 +236,17 @@
         {
           "outlet": "Rediff",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTllGclNsVWFUYUJTTllqV2VoMk9KWEJqY1ZiZXJpMUg0TEZwN1NtNFZpQlVGcUhKN2Izck03aFgwM2tqZFNmbi11aUI4cmg4dTYwcmF0NU9lMHZNb3F0dlc1bkVTTWpjVzBEd0JUREJHbzhOSVZycXRzX0FCS01BWUZtaUx6WmUtc3YtT25RSjRzSWVRdlhrVFlkeDFHTmQ5NUtOcUhCWm5mdnN0M3drQU1RSknSAbcBQVVfeXFMTkhnR1RaeTRjMU91QU9rTHV4WUxOekdHMEFnQVgxeGVkTTY0TV9aY1BhandkX3VHb1AtcnNLeTBtTkxPZHlhOFk5amZ2dzBMVHl3WDcxNWI3eHBWcG5RTm80ZkV5RHJNUkVRdHN1TFJ3Q1llR2x3SjJSSEZXcmVhaUFjeHlDelAwdUlxVDVIUlM1X2ZIRVhDWDRhVDZjWGlGMkFrbnNPb0sxMUpVc0pHU2NMWlFIRkZj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTllGclNsVWFUYUJTTllqV2VoMk9KWEJqY1ZiZXJpMUg0TEZwN1NtNFZpQlVGcUhKN2Izck03aFgwM2tqZFNmbi11aUI4cmg4dTYwcmF0NU9lMHZNb3F0dlc1bkVTTWpjVzBEd0JUREJHbzhOSVZycXRzX0FCS01BWUZtaUx6WmUtc3YtT25RSjRzSWVRdlhrVFlkeDFHTmQ5NUtOcUhCWm5mdnN0M3drQU1RSkk?oc=5"
         },
         {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdy1JMTFLdFUwT1RfRm16amRxN0VsWGhmRGhPbHZyd2M1eFZVOWlMcHJUTXpBU2pBbE4tVjZGMGtaM1M1SG9HWG5QeFdCaGlfQy1lQlI2d1VlQzJVUmx5bnR2NnhTaU52a2dlWk41azZESVpyWURBaEtiX0g0SVRaSnlVY0ozVHVranhVbjZYMUxEYTIyeXBrOTJJUlJJSkp4QjQwb0p30gGrAUFVX3lxTE9nOWhFNzVIMXNmRnVyWEgxaWhPWnhlTDMxSEpNNFoyd2V1UE13bUZpUnJlN0ZiNWt4REpsQUNJV3Z6S1k2a3RiSnVCSlhsRzRVWXJjM2ExcVdSREU4STdROUhmZFpBSzBBLTcwN0Z6SGttdk1maUQ4MUlNUVVVSzB2N3BJR040dktqc1JiRGcxX013NzNlb2JmZ0RnOUNGX2lDVmluOE56bTJNYw?oc=5"
+        },
+        {
+          "outlet": "Sportstar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2dad2lYaTYxT05sYjR6WG5iXzJjVGhib2dLLWFvb3U2WmlUUVk1Znl3a1NuWl9ndXMzMG1BVGZfd0tSSEZUSlFfMkg0bVN5S0xFellzLWk3aEJzVVRScEhZLV8zNjdIZGJjbVNPODQ4LVhNajhjZktac3JxOUktaXN0QWk5RzBWR1JmSVk0bnFfLTRNX0ZTMUxfMnppRWZtanFuQmM2YWkyOVNuNXJ0ZTcyZ2lsam9jSXJ0elQ1VWpidnhJOWNpeFBjWUtsLS1YRE1v0gHaAUFVX3lxTE10ZE9uY1BUd1daZy1aanZaNUxJaTB2QWF3YVZ3UVg1MXZGSGNKOHc1OW9SSko2RlkwTTdWTlFVaVJyWWpqcjZBeGZfcjUzLS11bXhPaG1BaDJvMGd5clpncUhSeUNuSjVnbWdxSC1hRjdFX0xXU3VkNno0Y0FYZ1I4eW5rTDNHVDJ6LWI2T1RXZ2k2TlpoQWZyaUg2WTU0dzdJUndKQjd3U1pmWHlPRVVJdm9xOEdIU1BGN0JkbWNmSmpHYnNMcWg4ckVELXk3UnNLSDBfRFJobmRB?oc=5"
         },
         {
           "outlet": "The Indian Express",
@@ -304,10 +314,10 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcm1MV1Y3TUR3TFF6ZHBIbXVHM2I5Z3d1bEFHaUdMTTl4alVoTEc2aGNoZGxEYmhqUXgwOFFsQ19tdXZkMDJ1ampoYVRGUHJhTm1vVHgzQWFibTNCdTBuMkxoeXkwQzFxOW1FUEQycG1EcUJYU1ZHWklReVZLamR4V0dpWlNfT3psR0QzUWw0OTZRdklRV3U3SnJ0VFhCRjNic1dxVFltVXpFVUpTTExHNURPVGl2UFVadzdv0gHCAUFVX3lxTE9iMlRqRzVJaU9rTmlhdFNhWUwyVGtxLVRrSC1JTlpQSzJEUVROdl9WV3ZzWk5mSHd3UzJnZVFZeE5Ic2lnU3lRNWhDZnQ0RHJCb3Z1M0FKTWVWQ1JQVEg0SXNkMmU1WldWX1MtTnZCRmozNkFLdXZWVEFyZ3k0V2ZuZTEtbnBXOUpjZlh1Nk54Rl9jWWE4UzV2UWJ2UGxxVGNRbVdlZWw4ZFNRa044dlhkVlhrcEprQzBpclZkMllYY1Bn?oc=5"
         }
       ],
-      "source_count": 17,
+      "source_count": 18,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 17 outlets, including Cricinfo and Cricbuzz.",
+      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 18 outlets, including Cricinfo and Cricbuzz.",
       "image": "images/vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus.jpg",
       "image_kind": "photo"
     },
@@ -339,8 +349,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-minister-vows-to-oppose-casteism-as-cm-announces-volun",
-      "headline": "Bihar minister vows to oppose casteism as CM announces voluntary electricity subsidy drive - The News Mill",
+      "id": "state-govt-to-launch-campaign-from-dec-1-encouraging-volunta",
+      "headline": "State govt to launch campaign from Dec 1 encouraging voluntary contributions to electricity subsidy: Bihar CM Samrat Choudhary - ANI News",
       "summary": "",
       "date": "2026-11-08",
       "topics": [
@@ -348,9 +358,9 @@
       ],
       "sources": [
         {
-          "outlet": "Asianet Newsable",
+          "outlet": "Inshorts",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2c3VHU5bEtLQ3dJaWtjRmNRa2ljWXVTdnFocS1HVGxjMjk0MGNjZ0llczRSSUNMQjViUkVZV3ZnU1U3N2JuNUEyOVU3VU1NQ0NpbWQ1VG5vc3dIUWVhYXkxTEtDcTJUMmgxOG44Nnp6WWRaOEFLOEludURBZGJfS1ZicDV3S2wyX21MYUFyM0V3U1JhaTJTYXNjbXJmQzlUOUJKLXgwNThTRHNjTEozbUIyYzNmSG1xN05XVnhLMENVZU5U0gHKAUFVX3lxTE5lQnJSTjQ2aW00aUtwUlJBSDNINDJOZ25fWGU5WElkX28yRnFUZmJWWjc2dkZMa3dXM1dWSEF5SnVWR0RqMW9JX1dYaVJHMkR2ek1lUDZtcHBldWNuOHozb0pvMmxJQmN3dGtOWmdtR1Zqb2VfcmlzdjBHNVVOUmRMNEtlMmFhd3ZNZzJocXlNWkRHbWZlcU4tRFNnUTNHcWlqT1Vnc1NjMG5zX2xQQjZ4VzhIX1EtTkIzUlo3TTVXY0FXX3hxalY2b2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDU0NkFLN1lHVFJBSTlFellPRHFRUUd5T1ZfX0tzMGlBLTdRTVNpR19HTmd3TkhfRXUxb1ZOaC03Q2RRSjN3SXgxMHd0ZkEzMjlaVF9EbEJ1WmtuVl9RYWNWcURpajZQRHlvTW1wZTVHZUxMUDI2M2hEVFc5TGpMOVZ0UFp5dTNQMHg0QjRXdHg3Q1ZOMVlfU2RCbHcyTnhncGY2cnpB0gGrAUFVX3lxTE9RdXJoaUpFNlZvZU8ydjI0dWYtYjlvMnFOLVJ3NFBIMmdfQ0w3a2pWcmo1OTlwTXhORVdBdGJzRGdXY1NXY29Gal9nNDZFZjQ4c19ZY0E3NnduMlRZUE5QV2FtYWk3a0puOGs3bWdnWUJiS0g2QjVBd2dsVVhhb2EwTUVaQ3JoQ2EzNERXejY0RGJ6X3lZalNhVFFvdmdJempLRVNzN1k3ekdUaw?oc=5"
         },
         {
           "outlet": "The News Mill",
@@ -358,17 +368,54 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0JTRFJ2LTdZRTAxMnozSFdITnpVLTMxcTY4OTctcENLbGJlUVdteUxVSlBQZG5uTTlLSWd4N241aVFTOGNDeHJYN2o2MThnY2RyNDgzWUk3dmNDNFBoSjJpblpDODJNSEhrczhiNlZTZzhXTWg2M3ZnUHhBdjllZDVSZ3kwT1JPQzJwZkdWVWJGYnJLbm83Wl90ZlNab2VzUjc1cFM2NVNzeURSOUVsZVFERFM4dkRWeEYydjlB?oc=5"
         },
         {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNU5VTjFPb0R0Uk1VbnM4dUJGZXc0Q0dRZG1QTF9yMm5WSVpUa2tKeUxtZ1dmVVRsbVFkUy1aODY2eFU0UENnVDFaUFB4N2tuOTd3cDN5UUJ4YXZOQ28yaXYwejdkUndTMnlydFd0SkJlaGxiN1p5N1I1TG9XLVdrSWdiNUxIOWlIZVlfRnJTVDc0SUcxaFpVN1pQQXJaakJYeVEzcGMxd1BrNDB5bHp6VmI1RUUzM0hsUDd5NDdXdUtscDVSV2hPZ0c3eDNXdGVPTlh1N2pINjgxOHk5Q2t2YTIwWUVhOVlYLVlDUTJob3dvckJVRGh1RmpOSEVRX2NsSXlUdFMzalNsWE9nWE1Vc0V3UGxRVVhP?oc=5"
+        },
+        {
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWXF6S1NNdzNQSkY2NFpxMFhsX1IxZzZFRFpKbzh2c3BoLXg5dG4zeU5GelNpSFhkSkZvSm8zeWxoTHVzZ2hWV3pFNHNjckUzWExqSHhEZHBkbnFpQkRQQjh1MlZENDJCZU55bUZraHVIbzBmeUJUX2pISWhTVlVNbFpPTmF0cWpmN2dTaUtJaDJpb2dUOGw4ZGlHd3lJWGtWLVhpVkZlQTlJY1BTamVnWVJ6TkJrdzBtMm91eWp0cEs?oc=5"
         }
       ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "State govt to launch campaign from Dec 1 encouraging voluntary contributions to electricity subsidy: Bihar CM Samrat Choudhary. A politics-related story. Covered by 3 outlets, including Inshorts and The News Mill.",
+      "image": "images/state-govt-to-launch-campaign-from-dec-1-encouraging-volunta.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "two-arrested-in-bihar-s-east-champaran-for-cyber-fraud-alleg",
+      "headline": "Two arrested in Bihar’s East Champaran for cyber fraud, alleged links to Pakistani contacts - ThePrint",
+      "summary": "",
+      "date": "2026-11-08",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPclczOHliMlV3d1h5N2FRT3RfWlo2ZVFSUlNDdG9UcGdVTk56ZDktNVAwYi1fT1hsOUJxZ1MxclRzQTlJQ3Z6YkNJLUkxdjR0RHJQa1lDVnIxZ2RERWNXd21Id3JBOU1OUmFuRkFpZ1JxN09hSDF2bFhqS3VBb1VUYmJkUGpjRUwzMWNxWHB2cnZhczBXWjBmT1JQb3pJSkNqNXdv0gGmAUFVX3lxTE9UdDBzRkprT3VEUHZycG9CRFV3YWptd0Y5RFJqU0N3ZVBERWhtMy1LbjgyYUo3SFQ2UGNnWTNfdVNUcmFYd3I2RkZ5SzNROWZNd3VYNlVwSjFFSkpLMTNUaU5RT1Nha3RhMUk3aWtyR3FoaGlOUmlfcTdIUDF4SUgzZHNXQ3ZWMHVQcXpxSUotM0JUbVE0YTFlQTdPR0tCSi05QkYtYlE?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPclczOHliMlV3d1h5N2FRT3RfWlo2ZVFSUlNDdG9UcGdVTk56ZDktNVAwYi1fT1hsOUJxZ1MxclRzQTlJQ3Z6YkNJLUkxdjR0RHJQa1lDVnIxZ2RERWNXd21Id3JBOU1OUmFuRkFpZ1JxN09hSDF2bFhqS3VBb1VUYmJkUGpjRUwzMWNxWHB2cnZhczBXWjBmT1JQb3pJSkNqNXdv?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYzdzOW9rSVJDY1Jua3dEbldkQ0wxZ3ZzNXRrQzJmcXhQVXM0a01NREl3cXJkbTM2YWh1TFVFaGdZYy04TGUwMzhEYkdhZ2FtaXpyNWdoV3o4dHlyRUZIbWFoLUlmN1pORFk4bzlacko2NzQ3ai02S21RVXJGSUNXdVN6QWxzV3pDY0N4NmctOTNuT0VVR1p1OU5wYUs3NkFvUnRhcFZQdVJxR2JJb0E4N2xLX0E4NHB0UlBXbWVpeThKQdIBxwFBVV95cUxNRTVxNDliU3c1cC1zbE1TMlEwOVMxcTNpc0FleFhGUEFpaEFpckZiTm0tRFhhRWdfMUNJVTk3eExmbkZYaHNDOVZFRTNpMzBjSGVwUUppN1ZWbW1iUHd6YkFYc2xIMlJ6aHpXLU4yQkdONDNjVlRjMFJWQ3VibGN3bTNEYWlmcXFVQ2lkZWVjd1JMcmh4cjFvdnVYNWszYzBZUnp1blh3dmZSNXFLQlpRNElpVGtzMGRCLVNlZVgzN3A3U3NLQ2xr?oc=5"
+        }
+      ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar minister vows to oppose casteism as CM announces voluntary electricity subsidy drive. A politics-related story. Covered by Asianet Newsable and The News Mill.",
-      "image": "images/bihar-minister-vows-to-oppose-casteism-as-cm-announces-volun.jpg",
-      "image_kind": "photo"
+      "brief": "Two arrested in Bihar’s East Champaran for cyber fraud, alleged links to Pakistani contacts. A crime-related story. Covered by Rediff and ThePrint.",
+      "image": "images/two-arrested-in-bihar-s-east-champaran-for-cyber-fraud-alleg.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "11-prabhat-khabar",
@@ -499,7 +546,6 @@
       "summary": "",
       "date": "2026-11-06",
       "topics": [
-        "politics",
         "crime"
       ],
       "sources": [
@@ -507,26 +553,6 @@
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmY1QmdvUU1TVjVtSXpkQ29CTmhseDFWMS1zOGVXYVRsMDRPNloyTVNWUHRFSURhQVdKUTVsbjl2V2FhQ1BYNHlSRXBIb1JUNkZ3VWJCTEE3MnRJUnZCUllldnhlUG4wRVdwSW1qbjFVams3b19jbmdrTTJLQ1RaSENZdnZIRkNoUTlrdTUta1dkUC1RaHFWZkdId2JualdwMlJzazQzWGI3LVlieHUySnZQUEVMY2pKbDZZREN5cVMtRkMyVi1VdlhhZEFlQWNCLThUdWVaZWU0YkwtQ0d6ZHBOTTRyY0FJ0gHvAUFVX3lxTE4wcnpSRThPYjl2OV9kMDI4VTN6UzRmdnNTT0pRdl8tcE1Wc3d3TUNYRGJQT2xxejVvQkRFd1Vna0lrMk1QWklKTDZBM1hrc1VHNUZQejBlRFRMZzkwQ0tjU2cyTDVTakpiem9WaXpuUWdBSXpKM29iQ1ZtY0tDYzRwRXlhSGp0Tm1zWlVqeXh0c1BlYmpnMUVsTVhqMFMtMTBycDlQNmk3eEI0bDA4U1JlSGY0MzJmZGFpRXdXdkdONmFYQ01nVk5xWHplc1ZlMVhXNlhqQUhJdmMxeGtaeU9pNHFha0hXaVQ0Z2tCbEdv?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYmRDakNvNXRWdmZyNmZ2aGlfREZPa19BNGFRSDVnS1BTVlIyVFZnN3VIb21ZaGVoOWhmSFhpZHBZYTIxQ0g0RE52UzdxenQxVF85X2ZEbjdVajhiVWVYOW0yOTZaT2NuQmcwQlpVVW12MDhRaVFBZmhIUVd0bUVWbnBlZVI4akhrUTVZQVFFMkphTzBGdXNWSGJFdHRTRjIxaHRHbDN1TlVKclNKRk9YT29FbkxqUk1hdHZSSlhidGZKakZtNko2dlVpRVpCaHB4N1hTQ1VoZ2HSAeYBQVVfeXFMTmFZZmg1UnFIRFptVzY3aDRIdy00dkMxS29MeE1veVpoeWNFdTVpM1lGNXRkMFNLaU5KZlFSQkJVYzVQMWlSVXAwN1A3eFJfSEFJeThBa3h5Y0VhOEYybmdPTHpYZkJFTnhlMU1MZXU3c2w1R0FGVGxSeXBUNF9aUFBEMVROYVppQjdLelkySTFDcldKOUItaWFTUTM0OS1tUWNhQnlOWFRyZmtYTW00THVwWjZQUHBhYUxJSWxhVF9XWVI4UEo0Q3pqVUVDRFdWU0NmMlRlamJjbTdLNURJWmduejdYeFE?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbnZZUl9PXzFIQmdtOGlHa1BlVy13UGdNbUpjSTVNY19TTHlvMVQ3Yk9kNVlmNWFaZDJxV3ZKVm1TZWZPMGxVX2NQb1VDc1ExZUtGRklGeGc4VVBnZ3VGcndwUEpIaVJUWS13aE45MWNNbzZvT2lGNDl5SkdfN0wtN3FhcVhicFloSml2UWo4aGR3Z3BDT1lnZVFCZnc0WEZxbURpbUZQQ0tiUVZTV1ZWdXU2OTlkaTBURlJnVHdLbWZUbUtHU1RsNklB0gHPAUFVX3lxTE1kVHMwQnExRlNYNm1iZkpBcXc2TmVOamFnUncwdHBJVXU1bDAxMTdvX25hYmh1RkpmbVpkWlJOVk9TMTB1WHNPSHJLQjVKTGxYdnpieWdndHMwZldTT3p0bEVseExjM2Fyc2R3dHN6Y2l1a2o2QXJIRGZZdzBRU0ZZQjZSUTJvVUxpc0RpTUc0bXdxVlluSEZveXZxZ2tMYWo4TWlNS1hjbW81QVJOUEpvTUJVOVRVc3U1UWpYYi1MeF9lWXNfbVV2ZHFocW5LZw?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVzFGdlhtdko4Q2FKSW5GU2twMXRpeG44QzhlZUJ4ZjBud01UVTZaQUtkQTRkQTZxVTFMSmFFbi1EYzJ6Z1psbk1jWFUzTnQxa2g4MlM0REhHb1pZS21IdVNqdjBYbFFxaXFSZWlPY3RjbmJvak0tVE8zc3NHRkJvakduNEM4ZWk0MFhXUTltNzlSNmk2ZS1tTGxLWldmNTZPbk1SVS0tUnBYdkh0M3Z6OXFzekZzX21paktmTTlyTFhFcEx0cUppdFN1RjRRQy1ORDZMS9IB2gFBVV95cUxNbGJvVlpJMHhmcEo1SmI4dVhtX1Bma3didjZmc2NXZFFjaTRSeHhabnIyTXZEYlBUVlFabHVDVXlJY0J4QkQzdFoxc2p0a3RHeTRRSGRXUGQ5QTlLajlDUFA2U3ZDaDFZUERZUE1VaEdjZFZvZWhVQkpXX1lha1hfbHVha09SWXBiblo1dUw0a1RrU1pjM21PNnNwb05tc0pxdlQ2VmJOSGVGMG9vNnNsTnlHS0EwNnlXUl9XX1B6MmVXZjFzTzBKZXU4UENDbUFvWHhwaEVVSmdtUQ?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdlJjbi1nNjQ1eWI3TzVtYXUxMkhjLUFNR3RNVC1kb19wWXYyWmFkZWFSRUZJNnUtSzlRYUJwajROYVd4bFc3YkxFRHVaZ3YtZi1BU0Jlb3Azb1JXNmdKbUQ1OEZHc3J0QVhkNU1qdGltMFhoVW9vVjFvbmg3R19QdHZXZF8zazM0ZUVUUlVia2VxVzVoaHk5c3hFSkl2Wkw5U3RnWUpqODFocjNLNXRyYk9uWVhtQ2VTc2xPelQ4ZzZabEx2YXRoc3dTeVM0ZFJXaGpfRXN5cmtEcVpTZWhVZzJQbWtPSUhxQ2FzM2x0NNIB9AFBVV95cUxQWUtpeHZucUhqXzR1TkZpbjJ2VWVHTVhLaW5zekc0NXF1UDZlbm8wTmZXeUlUaFNEejBOQUhBQTBZWld0cEdidW5abnczVUxycHNDS04yR2U4VkkxRDRhUUpPSjh2a3RyOTd1dXlxZlZNbGJJVzZWdlRUMDA2N0dlcGZpWE53Nm1IU1o0NHpkQnVnY19xUlNXcWlHaG42Z1FYeE1FN2FBZGoxOHFiX2tTdFgza3JFWHVFZHNmb2hMWHk5WDhXRC00UzF5VkZxeUh6SG1xRFltdjU1YWFTV2pqN1FYU0xJbUQxaTBnU0Q2YUJ2c19u?oc=5"
         },
         {
           "outlet": "ThePrint",
@@ -539,25 +565,15 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1lDZzlmcWZiT3FDLWJLcnBfemFpVG5MWDZlUHpQZWFLYWctamo1eHZoNzh0MEs2My1FT2x3RGNBYXJET3JXSWRQVDB2NU0ycm5MSjZYd3M0WndlbEI4cC1CWTZTWTlTdnNZcnV6a0RzN0V1V1lDazBJTkpyRUF0VWM4Wk1GSTRSckdVT29VSlY5QWZyLWJyaS1LMVVmZw?oc=5"
         },
         {
-          "outlet": "The Tribune",
+          "outlet": "Hindustan Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1BLNEYwcnZ3VzIxV29SanZvOElOQjJ1Z1RHaHM5YjNqLWN2MUlQUV8xZkNmd2tsRWc3ekdJc3VBajJTbGpJcGJMdERWQkhORHJfMUNUc084U2tYU0kxcHRpRERpVHMwR0lYWURHQmF4Q1d0QnEtX2lORVVZMHNfVXRNalBrUXRVaTB3T2pHS2hlNm5WdFFfNm4xV2xWM1R2VkpYODgzNHk0NElMdFlMTk1xSjMyQlZXNTExUjUwajBtRTDSAccBQVVfeXFMUDd5WVUzamxQVkcyZHpNcUxzbEpNX0sxS2JUZFE5czB4MURtNDExM0pMYnhCU1F6ODdNX3FNZ0hIWnEzOVh3TktzeU9HeTB2Sjd1QWtwWldfd0ZZLU5PT0NVNGZ5WGgtdVlUR1FGX0Ywc0R0WG5VQ1VsbFFsb1kzYzczSDc5WW9FMEUtOHIyZS1aNWNYQ2hqR3VOMG5pOGtNWEFJY1gxcW5WazBjcnhuWnNvZ20ySW40bnp6ckNzRk01a054Qkljdw?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVZWcDlXczFXR2tubGsxRWY1SzhaU0FxWWM2Q2VHWjZyd2hBS1ltTG5RRkQzSW03b01qZHJzSzB1blQ2WVlIRkpBSE5tLVE1eER0cmhpaUFiUHBrTHJrdExiM2FYbFhVX01DZGtoajBiMnEyVk53WVFVeGk1TDgwSEVaSk5JY3MtVXdpV1J4V3JZbndoeVgyVndRc0xKT05ZWkVNczY0c9IBrgFBVV95cUxOR1dCdmo0VEVOcWx3OHFzN0pWVHRlQzY2eFZ4Y0pGUkR1RURwQ0Y4N19SVjl5eXM0UTRrZDNUS3I0VUF2YWlJcDVTWjhhWjhuaElIX0JkZjRhR2U1ZE84LTJYSzJKeWpHVmZnam1oWnVPVlAtZ3pCcG9lZ2tEN1I1V2ZTT0Yzb3hjWTJ2Sks3WjgwdEdKYlhIbnNSRjV3dUk0TlBzV3BfazJrUlptdnc?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHRmZWVfN0QyeUY3bGRxZHFSbGJhekJSR0ZoUk9OMjZCOHpEZGsybzFaN1dHUkVmZmVHMFZOYnUySGR1cGpuV3JYeWVIeE5GdTFFMzNPWEJody1DYzZLY1g5SHFxUS1jd2syWU5GS0hpRXhfbWZ0aXlkZ25fOHBjY1JTT3U0UDhRT0RQZkxrV2IzLXBhaHJkMXpJeGllNVNNZ1U4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdlJjbi1nNjQ1eWI3TzVtYXUxMkhjLUFNR3RNVC1kb19wWXYyWmFkZWFSRUZJNnUtSzlRYUJwajROYVd4bFc3YkxFRHVaZ3YtZi1BU0Jlb3Azb1JXNmdKbUQ1OEZHc3J0QVhkNU1qdGltMFhoVW9vVjFvbmg3R19QdHZXZF8zazM0ZUVUUlVia2VxVzVoaHk5c3hFSkl2Wkw5U3RnWUpqODFocjNLNXRyYk9uWVhtQ2VTc2xPelQ4ZzZabEx2YXRoc3dTeVM0ZFJXaGpfRXN5cmtEcVpTZWhVZzJQbWtPSUhxQ2FzM2x0NNIB9AFBVV95cUxQWUtpeHZucUhqXzR1TkZpbjJ2VWVHTVhLaW5zekc0NXF1UDZlbm8wTmZXeUlUaFNEejBOQUhBQTBZWld0cEdidW5abnczVUxycHNDS04yR2U4VkkxRDRhUUpPSjh2a3RyOTd1dXlxZlZNbGJJVzZWdlRUMDA2N0dlcGZpWE53Nm1IU1o0NHpkQnVnY19xUlNXcWlHaG42Z1FYeE1FN2FBZGoxOHFiX2tTdFgza3JFWHVFZHNmb2hMWHk5WDhXRC00UzF5VkZxeUh6SG1xRFltdjU1YWFTV2pqN1FYU0xJbUQxaTBnU0Q2YUJ2c19u?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Three suspected criminals killed in exchange of fire with Bihar Police in Patna district. A politics-related story. Covered by 8 outlets, including The Hindu and The New Indian Express.",
+      "brief": "Three suspected criminals killed in exchange of fire with Bihar Police in Patna district. A crime-related story. Covered by 4 outlets, including The Hindu and ThePrint.",
       "image": "images/three-suspected-criminals-killed-in-exchange-of-fire-with-bi.jpg",
       "image_kind": "photo"
     },
