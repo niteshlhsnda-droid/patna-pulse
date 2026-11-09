@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09 15:55 UTC",
-  "generated_at_ist": "09 Nov 2026, 09:25 PM IST",
-  "story_count": 47,
+  "generated_at": "2026-11-09 16:54 UTC",
+  "generated_at_ist": "09 Nov 2026, 10:24 PM IST",
+  "story_count": 51,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -69,21 +69,53 @@
       ],
       "sources": [
         {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0c3Mmc5TkZ2VkFWSmo0QkpybkVLOTc5dFkwOHRpaTdJNXF2YmZIS0t0TnhWWXhBWmRoNk0zVnl6S2NFekNLbjdiUWVjdUl3cU1Eeng4M0NBUk02TmVDQWVQaVVYQnNRaHhSMmVrQ3BONlo0c2lPUURTYmVjUkZ1ODg3NFJ5MzlZME9JeW8xWkhyS2kwbmVhQ2RiaUV6V0lDT1VXVFExYlYzeU9fdHUxZGE1WHY5QdIBuwFBVV95cUxORUNNT1padTNXNzhCUThERVhGb2IyNHU2MUZBS29ndjJWQmhESG44Wjk0Q2xJZ2tUSDBGQmUzX1I0MjEwZ055eWxXU0Fha3VqeWxXT3BtNG03dVA5QjE3VEt2WEJZbEdENWY4R3VDcjFLdlVpVjg5emZ6cWVoVUU0bGptYlMtMzJsZTBPc0JSN1phcXBEUTZ1QldfQ2lMN0MxZXlNN25PcDM5Q0hzeV82RUdpV2RvRmI2cG5z?oc=5"
-        },
-        {
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcmhmc19Sc3lieWZNdWN5UTE0NGRSZWVQSVdKUGF1T2tVcG43aXJ3ZXNPeFpoTVhBNnNWNWc5ck42ZDdLcEZqZ3YyanZPa21RTm9RX05Uam5uTHNzb05sY1ZBQjc4VDQyT2RGWWhXdmxBczE1eXpwNUxtcDBJT1lpdktFcmE0Q2dlVjJ3d0VIbm5lRUZ3ak5Kc1BLREFVT18zcE55V0QtSGVwYkR3bFJHYjB1cnZaVGt3dkhvc3N0OUYwUEg0U01tVHA3Y2lNVnpHVEJ1UmZFU2N6Z9IB5wFBVV95cUxNYmlzWmtIblFjWVM4THlFS1JzdkRLQU5fRHp2bzVTY2R6WWdJUlEwWG5WWnBZaTJlb3FhTjFJMVI2anIydG13dHdiYjljZUdCaVFPaTNudEtKb2t3Z1NOMDRkMl9FVUtXM0d3eENYTTlBTXo2VHZtR1EyU2VGMVE4Z2pqWnJ1cUEtbS1YNjlkdG9Qb0ZJUnM4Vkktb0lPcUt6M3UxLTNBMjdXN0VWUFFFcVNUbmw1MFRGV3cyYzdWOHFqa3ExNHp2RXlaTXJqWlFzRGtIQTFLRXRySGV2Rkd0TmlPNW5lRVU?oc=5"
+        },
+        {
+          "outlet": "Vartha Bharati",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3hEOXYyMHNUM0lKYkhIVGFjY3R0WDNsc2xTbXdLRXd0cGtGT2ZvTVJDT05ZTU50LTBDRklKNklJYTRLNUdRZUpFaFhXczFsNUZIU3NvN0NMQW4xTnVSUUNNSlRvSGlwSVJ1cjUzbDJhTHgwM3JiNTFVaGJydlB2UGNTU3M1dkxMY3ZlQWN0NTNJWGVRZi12X3ZyeW9pd1NDOG1iMEczbTEtZFpoRlFKS0I1Y1k2eDhnUzFWdGZlN0Z6NXJ5SnfSAcsBQVVfeXFMTkRfcHZVUkFOaFBEV2RHZk1NTHEzYWRjT1JieF96OFdla0lhd0hpbXlMSEppcXIzNUpUY083Ukt5bEQ4c2NxUDFFNFRsd0VuTjB3cVN0ZGpjazhBQWQtYk1WOVpWdTBXNk9KeHMwcFJjV0sxcG84a1VWYmFQaENpVUUyTmRxTzF5ZlFXZENaSEh0cEFVTzAwbEMza21XYUtvbEs0VWxiSDZpckVyTk9Tb29fOFN6bEd4MkJjTVQ1cjlaT01vYlNtamlCYlU?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0c3Mmc5TkZ2VkFWSmo0QkpybkVLOTc5dFkwOHRpaTdJNXF2YmZIS0t0TnhWWXhBWmRoNk0zVnl6S2NFekNLbjdiUWVjdUl3cU1Eeng4M0NBUk02TmVDQWVQaVVYQnNRaHhSMmVrQ3BONlo0c2lPUURTYmVjUkZ1ODg3NFJ5MzlZME9JeW8xWkhyS2kwbmVhQ2RiaUV6V0lDT1VXVFExYlYzeU9fdHUxZGE1WHY5QdIBuwFBVV95cUxORUNNT1padTNXNzhCUThERVhGb2IyNHU2MUZBS29ndjJWQmhESG44Wjk0Q2xJZ2tUSDBGQmUzX1I0MjEwZ055eWxXU0Fha3VqeWxXT3BtNG03dVA5QjE3VEt2WEJZbEdENWY4R3VDcjFLdlVpVjg5emZ6cWVoVUU0bGptYlMtMzJsZTBPc0JSN1phcXBEUTZ1QldfQ2lMN0MxZXlNN25PcDM5Q0hzeV82RUdpV2RvRmI2cG5z?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Tejashwi slams PM Modi's Bihar visit, says he should have come during September floods. A politics-related story. Covered by 3 outlets, including The New Indian Express and Vartha Bharati.",
+      "image": "images/tejashwi-slams-pm-modi-s-bihar-visit-says-he-should-have-com.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "visiting-bihar-for-chhath-puja-8-offbeat-places-to-explore-b",
+      "headline": "Visiting Bihar For Chhath Puja? 8 Offbeat Places To Explore Beyond The Festivities - News18",
+      "summary": "",
+      "date": "2026-11-09",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "CNBC TV18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlRqXy1FSk9XN3Joc3VNNHdQUGdnN0JzSHpFdHkybm1PUWRYSHQzQjlsOHpibEIySFBkNi1LZ1BYNlp2Q1dkUnBqcEpYUXhtLUJYaGhZUFdfSV9UTHpiUjdyakRvWGt0NWY5bnJDRDBZVUMxRWdGdERMZS1qSHNFbUpmTk5pMkVSWjNSdUFveTRlcHBlOUFmek1TSm11bHc3eXFveWxXUWlnU3hTYnVEQnZfZ9IBuAFBVV95cUxNdlpmaFBoXy1sMjdzZkpRcDhGblFqZTJWdzRkdmpVdjk5eEJ2a1hFRzFYR0dQUXNEdkdHTlVkZUFVdUJMNDE0OFRTM3ZvYXNibzBYdjlNZ3NfQVRGa2t1YWpVZUg0alU0RW91VlZLVUNjMVpBaWMyNGVyMU1OUzF6eHBJUkxhSG9tSGlCQ3MzWFU0eVRhbVd4WGthNDIyLU9iR19ib05NTDZra0QyRXRReWdqWjVPVnA2?oc=5"
+        },
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLWFKZ241UFVLdGYwNFVIYU1kOTNnSUNqZllBSkQ1MTV5clQ0UzNFeXd6Y3kxMzluVHhWQjFuLUk4RUQwMmZlSlBsYno4Z0twdHBiX3ZqN1RhUTBqNFJ6SVlZekN1TzBEcjFhOGQ4Um0xWjNrTGVFbFBSbzNJZFlsNUlFdGcwZk9jQmNiWG9wWHZtWXVxeElMSUpZejdyanlKakhXcXRsM3Y2bm1sRUZKYkFDYnJqWklZSUlPVUJEaVRmaU8xSDNyQ0FfQUhrNEpJUzF4VjRsT0NXVW54VDZSeDVVUUU4WWJy?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Tejashwi slams PM Modi's Bihar visit, says he should have come during September floods. A politics-related story. Covered by ThePrint and The New Indian Express.",
-      "image": "images/tejashwi-slams-pm-modi-s-bihar-visit-says-he-should-have-com.jpg",
+      "brief": "Visiting Bihar For Chhath Puja? 8 Offbeat Places To Explore Beyond The Festivities - News18. Covered by CNBC TV18 and News18.",
+      "image": "images/visiting-bihar-for-chhath-puja-8-offbeat-places-to-explore-b.jpg",
       "image_kind": "photo"
     },
     {
@@ -97,14 +129,14 @@
       ],
       "sources": [
         {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQldiOTZubmdQM2N0ODV6dXowR1Qyelc0TmVCbmZZRHdBR1JtVVdzUTFkZjBSeXJib2EtUFExU1dhd1N6S1RRNTFCMG5sYWljZ1FrQjB4WWJpT0k4R0RHZW1scC05dnM2al9nNnF0LXZDSzBpLUhTYVBNa195eG44VWlydFBQQnZFSUZFcTRxY2RUdzdtTENXekRtclV1al9sNG9yWHA3NnlfZzhmTzNHbWMwcnV6QnhCZGFxQTRXWEI3Y2lMYjJrM2lBaV9mT3ha0gHWAUFVX3lxTE54ek1jaV9vYzlIX1dvVlRTZXhralQzMFp2dDhSaW9OTm90QlJleGNvb0hSNzRGQTRGUTg2WEtIeTZJand6T2NYWFlLOVgyVDByQ1FScGxGT1YzcnV1UEwwczB3QXBYV1FLRFlTc0NTakdtdVE5cEhXaTVwMmFsdlVIdDBMRmxBbDRUYlVyZWZBbERabXhlMkxMX3NIdkJtWHZZMl9LajNod2FWTXFvN0VkZGh0YUlFVWtTQnNtMlhHUEhmNGsyeWpTZFdxN0hfUWd2dWJlNXc?oc=5"
-        },
-        {
           "outlet": "Gujarat Samachar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUWlCR29pMWFhcFAyaHdrSGxEVG1vbWJJbjVxZEZrN0ViZ2FaSV80ZzRtNnBxRE43QVJDMlc2X3ZHRy1zLVEwd1dRLWhPMnR2b053QXU0a0FjUWxSb1hIVWVLRURQVDNJQklFcG1LbnlVc1BrTEhTZXR6UnJ1QVoyRTdvbHRIaFllbE1QT2FSNV9Xa18yaGpwMkxwaHJHMWVnN2piOTRnTERsLWtaWWRFRnp6bDdnYlMtMm9DYmpibFE5OXBJTmktcDJNYy16eW85aVFFRW9fZTlEMUdZakx4WUJudmYxUWhqMEZ5UzhfUjc1T1hEQVZHZFRjMzFpdTQ?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQldiOTZubmdQM2N0ODV6dXowR1Qyelc0TmVCbmZZRHdBR1JtVVdzUTFkZjBSeXJib2EtUFExU1dhd1N6S1RRNTFCMG5sYWljZ1FrQjB4WWJpT0k4R0RHZW1scC05dnM2al9nNnF0LXZDSzBpLUhTYVBNa195eG44VWlydFBQQnZFSUZFcTRxY2RUdzdtTENXekRtclV1al9sNG9yWHA3NnlfZzhmTzNHbWMwcnV6QnhCZGFxQTRXWEI3Y2lMYjJrM2lBaV9mT3ha0gHWAUFVX3lxTE54ek1jaV9vYzlIX1dvVlRTZXhralQzMFp2dDhSaW9OTm90QlJleGNvb0hSNzRGQTRGUTg2WEtIeTZJand6T2NYWFlLOVgyVDByQ1FScGxGT1YzcnV1UEwwczB3QXBYV1FLRFlTc0NTakdtdVE5cEhXaTVwMmFsdlVIdDBMRmxBbDRUYlVyZWZBbERabXhlMkxMX3NIdkJtWHZZMl9LajNod2FWTXFvN0VkZGh0YUlFVWtTQnNtMlhHUEhmNGsyeWpTZFdxN0hfUWd2dWJlNXc?oc=5"
         },
         {
           "outlet": "NKTV",
@@ -115,7 +147,7 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar MLA Anant Singh Plans Grand Wedding For Daughter With Feast For 4 Lakh Guests, Thar As Horse Race Prize. A politics-related story. Covered by 3 outlets, including India Today and Gujarat Samachar.",
+      "brief": "Bihar MLA Anant Singh Plans Grand Wedding For Daughter With Feast For 4 Lakh Guests, Thar As Horse Race Prize. A politics-related story. Covered by 3 outlets, including Gujarat Samachar and India Today.",
       "image": "images/bihar-mla-anant-singh-plans-grand-wedding-for-daughter-with-.jpg",
       "image_kind": "photo"
     },
@@ -156,14 +188,14 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGNGamFlRmxON1ZVSzgwZGItbHloSnVnZ1N6RG05MW5nazlHTlp6THEwVlVCNUpzVlF2RU90RGh4aFJNSk5faEhGR3AydlVGcnFyckxtaTM5NUpqNnZqOXljRXp5ekRqUUpBX2NGUmxsaEs5NTFBbnBjYnA3ZzlTWkNHT2ZmM2VIVzd1REV4cnVjMWtPVmNCYnZxQzZibEFFdnNSOXpYZ1lYMDcyUjBSNEdzb1E?oc=5"
-        },
-        {
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVjlicVBJV2lYbXNudVVBUndCUDNyZk9DbzA3VjMyOTdoWklVUVl1YW9zQlB2MG9JQklxakRxUXA2MDRYdWpYSFFpS05tZG5SM2dNX0dGV0NNWUxDdkVTLV9zeV8tNmVVNGtLNlBjTUFhdGI1UDU2d2EzX3BUOTZueW1SNnJIczFfNGtVazZGYTRQMmxibHZQQW1IQm9hTjJHakh2U282RlRwdjNQV2IybDJabmRwdXB1MGlWV3JmQ2tWWTNqVXRJZmM2WklRZFE4TTVHeUlDZXdJOTBuWlduUXpGYmIzUdIB6wFBVV95cUxPSGdIdklHVWs1YVBZelptMzBYWFFQbXZURHR0NGVqeXlLdEhVNkxSeFN2YktVU2JSaVpEOTlUZlFjVHBvdGdsUkNGUDl5Z2ZzUVZiSno5M2wtOXNMX1hnZVlGUEVONXMzdTdIbmJ5SXNsZHVXeG50VDFDUjk2ZzNhamRid3pHRnh4OG1aa0gwMV8wMW56U2JkSmExTU5qLXRsZ1I2bmh1S0hJM1NEc084SGp0enl4LUd4QkV6OXEwY1BRLTRRYnVKWFNtQzZ5NF82VnE3Zmk2My0tN0hsVWNJNGxLTGJ2QkN6dUxv?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGNGamFlRmxON1ZVSzgwZGItbHloSnVnZ1N6RG05MW5nazlHTlp6THEwVlVCNUpzVlF2RU90RGh4aFJNSk5faEhGR3AydlVGcnFyckxtaTM5NUpqNnZqOXljRXp5ekRqUUpBX2NGUmxsaEs5NTFBbnBjYnA3ZzlTWkNHT2ZmM2VIVzd1REV4cnVjMWtPVmNCYnZxQzZibEFFdnNSOXpYZ1lYMDcyUjBSNEdzb1E?oc=5"
         },
         {
           "outlet": "Amar Ujala",
@@ -174,8 +206,62 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "छठ पर घर लौटना होगा आसान! दिल्ली से पटना के लिए एसी स्पेशल ट्रेन, कब और कहां से चलेगी ये भी जानिए। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
+      "brief": "छठ पर घर लौटना होगा आसान! दिल्ली से पटना के लिए एसी स्पेशल ट्रेन, कब और कहां से चलेगी ये भी जानिए। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Jagran शामिल हैं।",
       "image": "images/jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "nda-navbharat-times",
+      "headline": "बिहार NDA के 'ट्रबलशूटर' धर्मेंद्र प्रधान में बढ़ाई पटना में सियासी हलचल, नीतीश से सम्राट तक ताबड़तोड़ मुलाकात - Navbharat Times",
+      "summary": "",
+      "date": "2026-11-09",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ABP News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWp2NkhBYmpQNkIwZzJHZldMM2I4QldTRjhNVFhMUGJYSmxaZkJNYzJzVEVpMWc3b2hvWW1BUkEyMWltYTlnbGFBM1V4ZFlvZjIxYzQ5YlkyX1ZWUTFrYVZfemZFRS0tY01mMi11SDJaYk13Qm9PRVgwVHVqblRXVDI0eFFacnB3ZzFmS2wyZ3JEYUM4TTEwb3U4a0I3QzZUUDBEZXMtWUd4NmF6b0tuSGlMN1BSTVRtVDNlTm83TzfSAcYBQVVfeXFMTnU4d21MSU9RMDhOMmVQS0lEV2ZaMGJhSEZvNlpndHRwNlhhZ3pmZlVnOEJ1dUgtcEgxZzJ4U3NWUHZWS0pLQ3k4NzlEcFdOaHZ6YklWeWpBYlJ5eHQ0VTN4NHFyWEVJM1FyWGdPZ1hxaFZMOGFtV0FlZXJVM3JTRWJXNVM1NWYteVItRXRDUWw3R1R3NTBmU1lnOEpwc09WWWtmdk1nUzVsN3VRY21GbFRjVGMzT2JoTjFjeVBQMHVwLWVPdl93?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbUx5UndfUXQzVVRRZFdvaG5PRVZqcm9XY0R2Yjh4YTZOU2JMS3k4UldvaUs4dFRTTjNUU0V6MFRTWWs0aktsYlViNzVwMHJzbEE4RVlZVG93NVRVcEF6VVJ4WkZ6aUlGZFZyZzN2bHAtSWtqSWRlTTBESW5ubWl4djM2MVF5MEZmV1dDdnduZ0Rsc2xmcllRQ0RtUm1JN3AxSnZwNm5RUk5sZHI4Vml2aEJHWG4zSzNOaXd4Rm9iazVGcUxaZ2xCX1ZIZHBpRmhVLXRrcUhjb1FGZzV2aTZNa09lcFZTNkFXeWtQcWoyeXdQdFRTMko0c2FnRUxJblh1RF9xemFvZ9IBjAJBVV95cUxPRFlSUFU5VURVYnNpaExWaVJQcTFCOFJqR3p3LU9TLVRHVDJKOUFpWHlqX2ltanVnVWlWQ25fc2RvRG9TVl9xZU0zTllVRHg3RVBjZTd2YW5oV054SWZFdTlZS0diUHF1a1FXczRnZy1VZHY4YTVfb0RSYlFuLV9JRkZsSFFjQUItUGJ4OGpKOWVlNERBaXUtYlAzVVc1U2x1ZllXSEtqU2oxU0VmTFBrbmJVUzZLeFl4ajlORkVhYlktcnN3LXByQVRrSjMzMHFSTDZGbGlJSmhwMDNvakJZVC13TndNdDJ0ZTZVRmtXQURidGc4dU00WGdodzh4UDZVVm1tZ3BxS3B0V093?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बिहार NDA के 'ट्रबलशूटर' धर्मेंद्र प्रधान में बढ़ाई पटना में सियासी हलचल, नीतीश से सम्राट तक ताबड़तोड़ मुलाकात। इसे ABP News और Navbharat Times ने रिपोर्ट किया है।",
+      "image": "images/nda-navbharat-times.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "5-prabhat-khabar",
+      "headline": "पटना: मिठाई के साथ फल-सब्जी दुकानों पर भी छापा, 5 फेल - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-09",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUlXSk9hS1A4VHhld2VKeVpaLTh6b0hGaTU3Z25SNmxuLXhkZmZ4Qi1sVFVlVEE2dDV0b1pycW0ycG5ZZnlKYjJIMHU4d0MzT3pQTWg3UHZnWldkMldHcnNyNWRpT1JHQjAtY05hRlJ0YTc2a3U4TzhBY29fbjBmVU8wdVp6Qlp3dm50MjhMZmZTUzhTTjVQcGRQQkRRVWc?oc=5"
+        },
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUjJWbXBta0wzMzl4OVZQUjg2RWU5WEdsdEswM1h0OG1ZNmpRUVhTY2RRdk9XaDkzUlhsN21ySFZRV1g2RG1ib3E3aXNyYVlCQ3ZNd09uU0NGZlhOLVl2Q25WMklyb0JISDRENHBoaGFqeV81S2gzQ1Bsc1B5Nk1SRVBCNTZMdE1WbXhUNVpYbnlDalJ6cHpCZTZVeUIyRW1JYjRqUndZZGg3WGNCS0p2YVljVTFIVzNUWEtmelRvb2VaenlPNVpJcU1zZDcxZmpjQk02eVllUmpMQ2k4eGtKaERSdVlxN3VZ0gHuAUFVX3lxTE5XR2g4amlpazNKbVBiUjBKeFhLTjZlT1lHM2xMZl94dEJVZ1VtTWE5d01GYWQtWU1BalY1YjFxc2pwLWlDVDJ6U3NNQ1hVcTFmLURfc2dGYWdxS2FCbVZNYUttbW1rSmRUOElyWU92MVRTMkU3Tlo4dnNrbEE0aHNsbXdPT2N4ZTR3YTdQRXo4N3A5TTl5SDF5Y3lOUi0zbkdQMlViVEF1U0hyOHpfNDB1cXJOMjBRcmtLenJscXRzNEx3T2dkeWw0N2tscG1xbE5jS0l4VE1GbGJZRWd1ZUxxRWVkQmxMLTJyWGxtaGc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना: मिठाई के साथ फल-सब्जी दुकानों पर भी छापा, 5 फेल। इसे Prabhat Khabar और Hindustan ने रिपोर्ट किया है।",
+      "image": "images/5-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -215,20 +301,20 @@
       ],
       "sources": [
         {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdkM4TDMtUVFRMU1XZWVqT0JucWpaRzhBQ0tfRmxmcmxUeUZkYmtJdDZkbXRFdVRHVU84T3QwUFpMaGRzaGNMLWwzdHhNa1dQRXhlVXpnalU0eDhCTkRueURHSE93LUpub2pzN0FrTmhTLVI2UEMtMW9ZckFTaFVSTHJqcUEwR2lxVko0alBBeGRPZFhtb0RyTFBkbkFaSWNmUEU3WjIwT2szNlVnZzhBU1l1MVJTYnIxaC1WT3o3V1VPcGNaODJWbDk0UE81YzBSTzQ5SWo1eTduX0xJN2Vr0gHkAUFVX3lxTE1aRDEtZ0lLVENRUVREVUthMzlMZlQ1Qkx2Vl81TXV4N1RROExjYldqR3p1MmdRSkllendlblplbDRhM1BnVXJUdjkwZlZ5SHZiNmtDT3RfVFhNRUJuUWdFRHdaMXRWRV9oRm1jZHJjZWNVdm5XakgxRXE3c0pOcDN2ejZ5My1oNWtkRzZzZjdpUEJwM0NHYnV4X1hTQmZHR3NhY1IzT2prQm1SUldBa2lXeDgtbnR4SEE2MDhLVFFmWmw1NU1vRkItNHNOYjVrS01fVXB5ZU1BaUZFZ2pFMVBqYkE1QQ?oc=5"
-        },
-        {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzN3MkR4ejBFVEdMZDRjaUF2MHdIc183dG1rYk1NQnM3M01zNEhSdEg1QUlEbTJ5T2pOV0xBWTY0bVZQbnR2WURKN1BlRVFPYmZ0ckt2eVpEQjg3ZjdkaFBkY2RibW1HZXVWaE5BOHZFWGJTVzB2WGRIMjlzTDZOMjhzLW1aOXk4aHhrVGVuM2laNnRXbEFYQ1kxOXhyMnd6NXM0T0JOZi13N1pWSGhuejYxdUp0dzUtYy1ERWU2cEcyZ9IBxwFBVV95cUxPSlRrYjFmNGwyc3gwVkktcWtoTEk2UUNmYnFza1QtelUtenAxU1VuQXBOcEd0YWRnY3U5cVMtbG9FcFNjUldKWVhNU2xGVHN2ZjVVZGNjS1VQc1h1MDlTTmloZ1VwUUg2VVMtMGJabHFTWmI4TF9QMGZaMnZLamVhclRPUldfTS1NVk1IWkIwcmRiS0QyNDVRcGl5NGNJbjdiVnJHSEItQ3RSMXBPd2JzaGVCUkJraWdCN29tVXJnM2Mzd3NaTlMw?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdkM4TDMtUVFRMU1XZWVqT0JucWpaRzhBQ0tfRmxmcmxUeUZkYmtJdDZkbXRFdVRHVU84T3QwUFpMaGRzaGNMLWwzdHhNa1dQRXhlVXpnalU0eDhCTkRueURHSE93LUpub2pzN0FrTmhTLVI2UEMtMW9ZckFTaFVSTHJqcUEwR2lxVko0alBBeGRPZFhtb0RyTFBkbkFaSWNmUEU3WjIwT2szNlVnZzhBU1l1MVJTYnIxaC1WT3o3V1VPcGNaODJWbDk0UE81YzBSTzQ5SWo1eTduX0xJN2Vr0gHkAUFVX3lxTE1aRDEtZ0lLVENRUVREVUthMzlMZlQ1Qkx2Vl81TXV4N1RROExjYldqR3p1MmdRSkllendlblplbDRhM1BnVXJUdjkwZlZ5SHZiNmtDT3RfVFhNRUJuUWdFRHdaMXRWRV9oRm1jZHJjZWNVdm5XakgxRXE3c0pOcDN2ejZ5My1oNWtkRzZzZjdpUEJwM0NHYnV4X1hTQmZHR3NhY1IzT2prQm1SUldBa2lXeDgtbnR4SEE2MDhLVFFmWmw1NU1vRkItNHNOYjVrS01fVXB5ZU1BaUZFZ2pFMVBqYkE1QQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "बाढ़ में ढाबा संचालक के भाई को मारी गोली: सीने में लगी बुलेट, पटना PMCH रेफर; भाई बोला- रंगदारी नहीं देने प... इसे Amar Ujala और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "brief": "बाढ़ में ढाबा संचालक के भाई को मारी गोली: सीने में लगी बुलेट, पटना PMCH रेफर; भाई बोला- रंगदारी नहीं देने प... इसे Dainik Bhaskar और Amar Ujala ने रिपोर्ट किया है।",
       "image": "images/pmch-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -260,33 +346,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-to-launch-drive-from-dec-1-to-encourage-well-off-peopl",
-      "headline": "Bihar to launch drive from Dec 1 to encourage 'well-off' people to surrender power subsidy - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-08",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2xyczg4R2UzM0JBWl96My1VQWk2M3V6dElIY0w0WUI4aHNEeTB2X0xmaUxhOXZub1RhOXlQdkVwUE9MdEJ4R0RuRFRfbVdCVnhnX0l5QnR3cFJjd3lidzlqbTFBMGZ5NkFWejJRT2w4bUt3a3JFZkFuejlVZ2twUU1hR0lnN3ltNUFnWWQtRVdZeWJianQwOXI4M2JfWjlmNjlhLTgzRDVrLXZTQ3ljczdrNXEzNzE5bzZhbGRMTmTSAcYBQVVfeXFMTmJudlJwR3lESWlpV0ZoUFBaSVBLdk9EMjF5ZXlnN0hGMElDX2prajlqQTM5LTl4YThabXlIOER4ckhNUG5NSzMyMTVDMm0wdThIdjFKVDJ6bmxQQkg4RE4wRHVld2JaVGpWeTRmUWVteUl1OTJHQk56V1VlTml4dE5TTW9kOTYxZHNXVDFmZk4taDgyLTdDY0hSaGJtcjFMN1VXOW1ja2dVNm5jaDd6dEQ1MFBPLWcxU0c4ZmFDc2o3am1HMXZB?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONDVSdjNUc0JNUkExRWZ6Ql94R251SExFbmxCUXY1eDhxN0ZuR3pnN1VldXFMd0F1TkpRNEo2QjBkRWZfdk5qVUZ5dmtTa1ptbDJOQ1lDQm9FeEwyQk44X1FKQ3VyMzhpQzBhUHBOTldKdzQ4WDBFUnUtdEtEenhlOEFBVTRBUW5Fc2RPZGo4LTJ1YzhTeF96Ukt6QkRmZXl0SUU5eHpBRk53SkZkZl9QMGxialpWenRfUUM1M25WVjlqdVc4eHBjbUdYcDhuUXB1Qmc2N0VsTmdOUEJPdjNsajZR0gHvAUFVX3lxTE1CUDh6QkNDTk5QSjRnckZDdEpuQ1h0Mk9LYXRqVEdwcHZEd2Qtc2JoNVlWd3FCRXlka0liYy1OaktpVDhQQnlXNjVzeHZUajQzQnQybHR6Z0hZZnFGM3d0LW1rTjlWdGJHRGgtdldzZW1RUFVLTVE1RkQxaGFNeHNEUXdfVHlTaXNBQXdOb1F0QUFBTGRrSHpLal96aFBJd19NVXBZRURWLXhqSnpTbmEyTEh3UzNIV2dUWFdoVEJJV0pBanVtYjRFeE9NSzMycHJzT3hNZVBfd0NBWmdQS3hhbmhYclFXbXZJanh6SmJ3?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar to launch drive from Dec 1 to encourage 'well-off' people to surrender power subsidy. Covered by ThePrint and The New Indian Express.",
-      "image": "images/bihar-to-launch-drive-from-dec-1-to-encourage-well-off-peopl.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus",
       "headline": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh - The Times of India",
       "summary": "",
@@ -314,11 +373,6 @@
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTllGclNsVWFUYUJTTllqV2VoMk9KWEJqY1ZiZXJpMUg0TEZwN1NtNFZpQlVGcUhKN2Izck03aFgwM2tqZFNmbi11aUI4cmg4dTYwcmF0NU9lMHZNb3F0dlc1bkVTTWpjVzBEd0JUREJHbzhOSVZycXRzX0FCS01BWUZtaUx6WmUtc3YtT25RSjRzSWVRdlhrVFlkeDFHTmQ5NUtOcUhCWm5mdnN0M3drQU1RSkk?oc=5"
-        },
-        {
-          "outlet": "Sportstar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2dad2lYaTYxT05sYjR6WG5iXzJjVGhib2dLLWFvb3U2WmlUUVk1Znl3a1NuWl9ndXMzMG1BVGZfd0tSSEZUSlFfMkg0bVN5S0xFellzLWk3aEJzVVRScEhZLV8zNjdIZGJjbVNPODQ4LVhNajhjZktac3JxOUktaXN0QWk5RzBWR1JmSVk0bnFfLTRNX0ZTMUxfMnppRWZtanFuQmM2YWkyOVNuNXJ0ZTcyZ2lsam9jSXJ0elQ1VWpidnhJOWNpeFBjWUtsLS1YRE1v0gHaAUFVX3lxTE10ZE9uY1BUd1daZy1aanZaNUxJaTB2QWF3YVZ3UVg1MXZGSGNKOHc1OW9SSko2RlkwTTdWTlFVaVJyWWpqcjZBeGZfcjUzLS11bXhPaG1BaDJvMGd5clpncUhSeUNuSjVnbWdxSC1hRjdFX0xXU3VkNno0Y0FYZ1I4eW5rTDNHVDJ6LWI2T1RXZ2k2TlpoQWZyaUg2WTU0dzdJUndKQjd3U1pmWHlPRVVJdm9xOEdIU1BGN0JkbWNmSmpHYnNMcWg4ckVELXk3UnNLSDBfRFJobmRB?oc=5"
         },
         {
           "outlet": "India Today",
@@ -361,16 +415,43 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
         }
       ],
-      "source_count": 12,
+      "source_count": 11,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 12 outlets, including Cricbuzz and ESPN India.",
+      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 11 outlets, including Cricbuzz and ESPN India.",
       "image": "images/vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "bihar-to-launch-voluntary-electricity-subsidy-campaign-from-",
-      "headline": "Bihar to launch voluntary electricity subsidy campaign from Dec 1 | Tap to know more | Inshorts - Inshorts",
+      "id": "two-arrested-in-bihar-s-east-champaran-for-cyber-fraud-alleg",
+      "headline": "Two arrested in Bihar’s East Champaran for cyber fraud, alleged links to Pakistani contacts - ThePrint",
+      "summary": "",
+      "date": "2026-11-08",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYzdzOW9rSVJDY1Jua3dEbldkQ0wxZ3ZzNXRrQzJmcXhQVXM0a01NREl3cXJkbTM2YWh1TFVFaGdZYy04TGUwMzhEYkdhZ2FtaXpyNWdoV3o4dHlyRUZIbWFoLUlmN1pORFk4bzlacko2NzQ3ai02S21RVXJGSUNXdVN6QWxzV3pDY0N4NmctOTNuT0VVR1p1OU5wYUs3NkFvUnRhcFZQdVJxR2JJb0E4N2xLX0E4NHB0UlBXbWVpeThKQdIBxwFBVV95cUxNRTVxNDliU3c1cC1zbE1TMlEwOVMxcTNpc0FleFhGUEFpaEFpckZiTm0tRFhhRWdfMUNJVTk3eExmbkZYaHNDOVZFRTNpMzBjSGVwUUppN1ZWbW1iUHd6YkFYc2xIMlJ6aHpXLU4yQkdONDNjVlRjMFJWQ3VibGN3bTNEYWlmcXFVQ2lkZWVjd1JMcmh4cjFvdnVYNWszYzBZUnp1blh3dmZSNXFLQlpRNElpVGtzMGRCLVNlZVgzN3A3U3NLQ2xr?oc=5"
+        },
+        {
+          "outlet": "The Week",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZW9PT0oxelZCOFh1c0dGb0Rwd2t3QVVqbDhfUC1RR29GZThrQTVLUEllSDZsdFZmTGlNMWR0MlEwdzc4NG9WNUIwMEg0TlBQYVdEOWs4REwya0Z1TVVCeFEtODkwNlNhbVY1bEFjMVlIOF9qN1QwU1ExY2xTRW8zTHFwZGluMGd0TnJJUVZWNzZ2alk5aUlHX0NmeGZTWHBMR1RObXdNSzhueTE0Q1ZRR0tKNE5aRmpHRGxuZ3NaZjlpbVlqalJqVGpVUGVxcHZ1VmVjU3J3ems4T3M5Y1Q2cHh0OF8yQdIB6wFBVV95cUxQdHQwQ2l4V0JMUUhOdDUwYlR3aWdCRWVVZTY3bGZuRnY4TDJaVmJyM0pNRlM3YUJPdkNTRUtJNmRYa0FBMWtZWTNHUFNKN0VldFlIeUJVMURoSEpKNVYzaE15UnR0YkZ2bl9XTVI1NGJmaktYNWJNUnh4bmNVMkNINVJHWGNtU2stV1dwM2l0M2FDN1puNlZkNnpIQzhONk5FT0d2TDVLX2c0Rk1uVkh0VXNWUk9ad0M4M3pYZm94OUFkN1UxZTYxNUF3N2VzSXJKVWFWZmFLdjFHT0psa1NOUjBfRS1sYkhNZGl3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Two arrested in Bihar’s East Champaran for cyber fraud, alleged links to Pakistani contacts. A crime-related story. Covered by ThePrint and The Week.",
+      "image": "images/two-arrested-in-bihar-s-east-champaran-for-cyber-fraud-alleg.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-to-launch-drive-from-dec-1-to-encourage-well-off-peopl",
+      "headline": "Bihar to launch drive from Dec 1 to encourage 'well-off' people to surrender power subsidy - The New Indian Express",
       "summary": "",
       "date": "2026-11-08",
       "topics": [
@@ -378,21 +459,48 @@
       ],
       "sources": [
         {
-          "outlet": "Inshorts",
+          "outlet": "The New Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDU0NkFLN1lHVFJBSTlFellPRHFRUUd5T1ZfX0tzMGlBLTdRTVNpR19HTmd3TkhfRXUxb1ZOaC03Q2RRSjN3SXgxMHd0ZkEzMjlaVF9EbEJ1WmtuVl9RYWNWcURpajZQRHlvTW1wZTVHZUxMUDI2M2hEVFc5TGpMOVZ0UFp5dTNQMHg0QjRXdHg3Q1ZOMVlfU2RCbHcyTnhncGY2cnpB0gGrAUFVX3lxTE9RdXJoaUpFNlZvZU8ydjI0dWYtYjlvMnFOLVJ3NFBIMmdfQ0w3a2pWcmo1OTlwTXhORVdBdGJzRGdXY1NXY29Gal9nNDZFZjQ4c19ZY0E3NnduMlRZUE5QV2FtYWk3a0puOGs3bWdnWUJiS0g2QjVBd2dsVVhhb2EwTUVaQ3JoQ2EzNERXejY0RGJ6X3lZalNhVFFvdmdJempLRVNzN1k3ekdUaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONDVSdjNUc0JNUkExRWZ6Ql94R251SExFbmxCUXY1eDhxN0ZuR3pnN1VldXFMd0F1TkpRNEo2QjBkRWZfdk5qVUZ5dmtTa1ptbDJOQ1lDQm9FeEwyQk44X1FKQ3VyMzhpQzBhUHBOTldKdzQ4WDBFUnUtdEtEenhlOEFBVTRBUW5Fc2RPZGo4LTJ1YzhTeF96Ukt6QkRmZXl0SUU5eHpBRk53SkZkZl9QMGxialpWenRfUUM1M25WVjlqdVc4eHBjbUdYcDhuUXB1Qmc2N0VsTmdOUEJPdjNsajZR0gHvAUFVX3lxTE1CUDh6QkNDTk5QSjRnckZDdEpuQ1h0Mk9LYXRqVEdwcHZEd2Qtc2JoNVlWd3FCRXlka0liYy1OaktpVDhQQnlXNjVzeHZUajQzQnQybHR6Z0hZZnFGM3d0LW1rTjlWdGJHRGgtdldzZW1RUFVLTVE1RkQxaGFNeHNEUXdfVHlTaXNBQXdOb1F0QUFBTGRrSHpLal96aFBJd19NVXBZRURWLXhqSnpTbmEyTEh3UzNIV2dUWFdoVEJJV0pBanVtYjRFeE9NSzMycHJzT3hNZVBfd0NBWmdQS3hhbmhYclFXbXZJanh6SmJ3?oc=5"
         },
         {
-          "outlet": "The News Mill",
+          "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0JTRFJ2LTdZRTAxMnozSFdITnpVLTMxcTY4OTctcENLbGJlUVdteUxVSlBQZG5uTTlLSWd4N241aVFTOGNDeHJYN2o2MThnY2RyNDgzWUk3dmNDNFBoSjJpblpDODJNSEhrczhiNlZTZzhXTWg2M3ZnUHhBdjllZDVSZ3kwT1JPQzJwZkdWVWJGYnJLbm83Wl90ZlNab2VzUjc1cFM2NVNzeURSOUVsZVFERFM4dkRWeEYydjlB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2xyczg4R2UzM0JBWl96My1VQWk2M3V6dElIY0w0WUI4aHNEeTB2X0xmaUxhOXZub1RhOXlQdkVwUE9MdEJ4R0RuRFRfbVdCVnhnX0l5QnR3cFJjd3lidzlqbTFBMGZ5NkFWejJRT2w4bUt3a3JFZkFuejlVZ2twUU1hR0lnN3ltNUFnWWQtRVdZeWJianQwOXI4M2JfWjlmNjlhLTgzRDVrLXZTQ3ljczdrNXEzNzE5bzZhbGRMTmTSAcYBQVVfeXFMTmJudlJwR3lESWlpV0ZoUFBaSVBLdk9EMjF5ZXlnN0hGMElDX2prajlqQTM5LTl4YThabXlIOER4ckhNUG5NSzMyMTVDMm0wdThIdjFKVDJ6bmxQQkg4RE4wRHVld2JaVGpWeTRmUWVteUl1OTJHQk56V1VlTml4dE5TTW9kOTYxZHNXVDFmZk4taDgyLTdDY0hSaGJtcjFMN1VXOW1ja2dVNm5jaDd6dEQ1MFBPLWcxU0c4ZmFDc2o3am1HMXZB?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar to launch voluntary electricity subsidy campaign from Dec 1 | Tap to know more. Covered by Inshorts and The News Mill.",
-      "image": "images/bihar-to-launch-voluntary-electricity-subsidy-campaign-from-.jpg",
+      "brief": "Bihar to launch drive from Dec 1 to encourage 'well-off' people to surrender power subsidy. Covered by The New Indian Express and ThePrint.",
+      "image": "images/bihar-to-launch-drive-from-dec-1-to-encourage-well-off-peopl.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "11-prabhat-khabar",
+      "headline": "दिल्ली से पटना के लिए एक और वंदे भारत: 11 नवंबर को चलाने की तैयारी, अलीगढ़-कानपुर होते हुए प्रयागराज पहुंचेगी ट्रेन - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-08",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVc5MmJWMzhVTDhiQm41bWRJeDZtalBWNkZVSDVTTGpJOG12N01FYzZuWnFIeXF4WFZQWmdLTm5xQVBzSmFWUk1wbDZrV2dQNHk1UkdqeTdBMEVPWkE1SFVCQnZZRWZlaWNScllvSTFTRDQwTjBKUGJ5VnhRTnFfSjZyOExwUDlBYm5VQVo0emt1b3gwcmJFZURZZTZ4dXo1SHktNXB5ZlQtYW03dk9oSUJVQkFzYUdwMEUySzYzSG9FSUZQMlhhNWw0dE54Zl9ZRmhzMEJka2Y2aF83VXA4dkctNXY?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnFhOGRIUzl6X3cwV180TDE1REw1djA5dFFGQzN0Y3lrSFhhZUd4bkVRaVZSdS04c1BwZEZYcllSbTEyMkNQNWxGN29BVkk2SzNDZU1zMTdwNi1YVzNUdnVkaVZiY001QzAxeGVSRjRFYmNvMC1IVzVrdnBIQV9TbFdYTlhoWVozQk5ZYTJsb0lDWmhiQ0dhRF9Nak9TazVld0pZbHk5QTc3ZTRfUFdMNTZYb0ZxYzRWSWMwLW0xWWRDVWFtWGc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "दिल्ली से पटना के लिए एक और वंदे भारत: 11 नवंबर को चलाने की तैयारी, अलीगढ़-कानपुर होते हुए प्रयागराज पहुंचेगी ट्रेन। इसे NDTV India और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/11-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -429,25 +537,9 @@
       "date": "2026-11-06",
       "topics": [
         "politics",
-        "crime",
-        "civic"
+        "crime"
       ],
       "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHpLbTk4VVQ2bWxzeFpSMklIVkVQcXF4eTlUeGV6bHQ0bzVqdlB0clVQOXc5bnl0N2RBSWl1OGo1emkwSmxxVmpMVktUWUM1U1JGSVRxeTVJZnZ0X1ppeDNpaFoxUndXdFBheTdzYmZtdGdhdGJmamtBRllGMHNsRlNqbTQ4a29oMkNObFF3TVV6Q3FONjNQaVI4d0lIWjh6N0xlQUI2TnVSRjJyT3lWeGRNZlV4VDVOcGhvMGVENEbSAcYBQVVfeXFMT2E4cElUOU92UGN3UmhreDNZUlhsUXFMeWFkMGY1RjhvR0NsaVBVdDVpMFNLczBXcW90SEFGMVNGbEdiNjFMVE8xZGtDZExZZGJaVVBnYWc0TFZWR29pc1BBbnpBX0xraFdIaHF0akd1dUZYUXZOR1lPN2tUeWc4bFZzT09nQXVQdl9WdFNCUFExOERBY2wzM3FBSVh0MlBHZktIdUFQUld3MjF1eHQ2Y2xjU1F4a2lTaHFQMU5YcmthZzR4OVdn?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT0l3SGNtMWtQNW5IdDdwSDViWW0ydElxOUNtME40SXJ6R3dZNldfLUZmRFJNQ014VmJxbUIyNTNvUXp4STYzQXZ2ZmJTal9JRmJyYWZiN0ItMkJVbHNyWk9Qa0luT19PZGk0VWhvcDV4R3NwX1cxZElqNU5VcERrNFZacWZKc0hLTnJ3emNHTW5UZVRMWGlfLTdLRE1KMG5mellFc2R5UGFxczdUMnhYRi1adEY2eHNtbVNnYkllbGFjQkdVbUhYUE9tWFdiLWpBOFdIekk0dWZOemJhWHVGStIB5gFBVV95cUxPNzkwMGlsdEtDeXl5LVRRQldRN3p1dXk1NXBpSVlvTnZkbmdYcU5ieE8yNlF2WGVBamJuVkxsOGgwbHp1VTNvOVA2SWNRT09BN2JNc2NjYzFHdEhqMjJ5TmY5akg3NFRmbWhDNDlpSWpBRVJoYXNxUklTdkk5SllOQkppTXl0U2FHRkl4Nk4xNUU1NU1lcVpJRmpYX0xZMHhUaHlYTXg4U0EtOGc0RDVxaUNpTk05VWw0VWt6V3RTbzdwRW9vNUtZa0I4M0N0MmlwM2drUmMwbEFBV2trdWtJc1d6TTdJUQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakVNZTBqQ0ZpSFJEM1NBU1YxZ0pzNnEyYzhkeEVzckRFRmItME42eGRDZGZYZEJDaVAzNDVoMkxhVVIydWpfbGlLVmZUYm1ySWJQRXprd3VYRzV5TWk4ZktNNzR0bTBITkFTSS1QRHQtSnZpSldHZGV0cnNxLWlZN1UtRVp1UkVEbUwwNlFrVnBxQktGMHpudklNX2tvUzBkSE5uTTRwQmxRQmJfWm1mOUdCR0tuUdIBuwFBVV95cUxQTlA0M25FajVKTEVrUHJhYl9pYW45OXhyd3FIMm5iUEk1SllBWDFYZlZvNTNwNDAtR3VKU2tBdmIzbUp1bG9MbDEtR3k0dnRFWnF4aTVWdlNUNHRTbmdLZXp0NkxNWjdTb19LVV92RnRnUmoybnRUUVFkZTR0UC1ReUNZQ3JTbG9pT2pabkpxTVBtUVJQNGFjOWhQcEhtU1FrQ3RLbV9YNUkxMkVndlE5T0M5d3hSaVpPZWhZ?oc=5"
-        },
         {
           "outlet": "NDTV",
           "type": "news",
@@ -459,10 +551,10 @@
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRHI1ZUJIU1ZqYVhXWnlQN0VDUGJYTWEwQnBJb3hBemRlaFZDZnZVNTFGN3V5a2tGdDVWR2NqSERSbGh6YjBqUk9rbEx2WE54S1NmR25kNFRENHBSSGdfanEwdzJ3RzVNNnZ6VHI1MVlSZk02OXRyWWsxSUI5SWlJNVJTanV0Z2NvY3lJTDRmOGVPb2dkRDlRWlRVcHJfbl94c0NSckpvaTE4SHVSQVljLUxJMmcxenR6Q2tPNVVXT3VnbGtyNlEybGt5YWY2Smd0QXhwdEtuR0VFRkxEdXh6NHVJSW5iZ9IB7AFBVV95cUxQbHVxRkFISkNMNFZJQjZ2ZktMaGZIdjdlSmVLRVlhb3NSZ3Boc29TRHE5QW1wb29NUzZxWUc0cHpHNUloQXkxTHZ3cmZKUDZTRGlMS3FwNGlETTFLWENGWmFlamxtNDJDVkNxaWpmanB6OS1wNlVPWk02ZFptd29vOWUyVGh0TjQtVzV3MzFFYlZQOHlvTjZWTFRTMWk4ZEJvNEFLSFZZMzc0cUlrcVNuX3JDMHpYT3RfVFV0enEzOERtRmZiWUZCQWhlc2xUZXBhSmFTVTJxbzlEN3pnR3FCeWlOVW8xb3hRZHhVVw?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Notorious criminal wanted for RJD leader’s murder in Bihar arrested in Keralam’s Kollam. A politics-related story. Covered by 3 outlets, including The Times of India and NDTV.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Notorious criminal wanted for RJD leader’s murder in Bihar arrested in Keralam’s Kollam. A politics-related story. Covered by NDTV and The Hindu.",
       "image": "images/notorious-criminal-wanted-for-rjd-leader-s-murder-in-bihar-a.jpg",
       "image_kind": "photo"
     },
