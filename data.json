@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09 04:54 UTC",
-  "generated_at_ist": "09 Nov 2026, 10:24 AM IST",
-  "story_count": 47,
+  "generated_at": "2026-11-09 05:55 UTC",
+  "generated_at_ist": "09 Nov 2026, 11:25 AM IST",
+  "story_count": 48,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "id": "from-horse-racing-to-a-feast-for-4-lakh-guests-bihar-mla-ana",
-      "headline": "From Horse Racing to a Feast for 4 Lakh Guests: Bihar MLA Anant Singh Plans Grand Wedding for Daughter - www.nktv.in",
+      "headline": "From Horse Racing to a Feast for 4 Lakh Guests: Bihar MLA Anant Singh Plans Grand Wedding for Daughter - NKTV",
       "summary": "",
       "date": "2026-11-09",
       "topics": [
@@ -42,7 +42,7 @@
       ],
       "sources": [
         {
-          "outlet": "www.nktv.in",
+          "outlet": "NKTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNek5IYWpGZ25yXzlZX1VnVzhjY0FpN19rdkpPVVo5Y3g5dFRRaDJSUldPT1l0alNpV1RUUklqZXVXZ2tXTWIydWhTeTZvemlfX0QteWQ5T1Biejd6WW53UmNIVzRyNEk2Wk9ZWTI1bl9NTFhWTFN0bmFRSC1GVE4yckQ1ODZRT2NFMjE5ZDdLTzc1Q1pqUk5VRDRHTWloaUlzMDNNV1laRHlHZTlkX0kxV2RtMmRGdm53RVJvNzlKYw?oc=5"
         },
@@ -55,9 +55,9 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "From Horse Racing to a Feast for 4 Lakh Guests: Bihar MLA Anant Singh Plans Grand Wedding for Daughter - www.nktv.in. A politics-related story. Covered by www.nktv.in and India Today.",
+      "brief": "From Horse Racing to a Feast for 4 Lakh Guests: Bihar MLA Anant Singh Plans Grand Wedding for Daughter. A politics-related story. Covered by NKTV and India Today.",
       "image": "images/from-horse-racing-to-a-feast-for-4-lakh-guests-bihar-mla-ana.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "pmch-dainik-bhaskar",
@@ -111,6 +111,33 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना में अभी ठंड की एंट्री नहीं, सुबह हल्की धुंध, दोपहर में बढ़ेगी गर्मी, जानें अगले 5 दिनों का मौसम। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/5-prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "let-us-contribute-towards-progress-of-country-tejashwi-yadav",
+      "headline": "\"Let us contribute towards progress of country\": Tejashwi Yadav celebrates Diwali with family in Patna - ANI News",
+      "summary": "",
+      "date": "2026-11-08",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa1plRXNjUlBBMFcyYkdCWnYwV0FLV3d2LUNqZUJnMW5VbklXX0cwOVBOamdFR29iSndINTBITjBQZWJyZ3hkLTk0QXYzcDlJaVhweHNjdzl4QmhqRG8yZWc1OVpMVW94ZF8wUlgzTXZUWmwxT0N3TkdyZUFzS0p1cUdsT3lLVjRRQjFEZTUwWHhwanVvV2NnZHFfWVZtZFhpeUY5aXdXbHpjQTNWUFR5MmtKQ0Z2aFJzZ1hrNE1DMFh5RXZa0gHKAUFVX3lxTE9HTnZxc0thdjF5R3g3SzdDd2pvS3ExMEVtdUJfWjlyaUlWQUJEYkR3NTl3TXJ6cXRuUWk4OE1qdjkyeGNNaDYwaTlqNm9rcXdPLTBMNk9TakJNdWkzVVFQT2YtQVFRSFpxZDJQd2FBa19maFVUdjFoNHRMc3lNM24yaERxZExhQ2ttVS1EMmxTeEF1NFBQRlBSU1VtTlEtd0t6Q183ZmsyYkFZNGwtb1N4eVN4ekE2NWNXeDRFSWtjUUtPbUQwN2dadmc?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdk1acXhYX0IzN3V4Q3VIalNnRlRXVVJYb0dBVVl6NTlWTGVIbnZPZGJJYmZlcUNBRndhckc1S19NVFhZZnkxQ2x4WnZwNkVNc1BHM0lxZGx2dlk0cFNBVFpOWTRXWDZnYlUxbk1OYWlPWFJxR3lza2o2bFFIQnFnM2hWdlM0VWw0MDNLa1FmN1RsUHlyZWd4OGI3RlYwWEdpNUE0OUQtREFVY1NHTzlPSlBzdzAwWDNoOS1odkpEbHdjQTYwOWl2aXA0SUs0TzlHZ21mU01sMnFaX093TUZMWk9PRUpDdkxNajgxZVk4WE1rd2s?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "\"Let us contribute towards progress of country\": Tejashwi Yadav celebrates Diwali with family in Patna. A politics-related story. Covered by Asianet Newsable and ANI News.",
+      "image": "images/let-us-contribute-towards-progress-of-country-tejashwi-yadav.jpg",
       "image_kind": "photo"
     },
     {
@@ -503,8 +530,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "man-wanted-for-murder-of-rjd-man-in-bihar-arrested-in-kerala",
-      "headline": "Man wanted for murder of RJD man in Bihar arrested in Keralam - The Times of India",
+      "id": "notorious-criminal-wanted-for-rjd-leader-s-murder-in-bihar-a",
+      "headline": "Notorious criminal wanted for RJD leader’s murder in Bihar arrested in Keralam’s Kollam - The Hindu",
       "summary": "",
       "date": "2026-11-06",
       "topics": [
@@ -528,16 +555,21 @@
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT0l3SGNtMWtQNW5IdDdwSDViWW0ydElxOUNtME40SXJ6R3dZNldfLUZmRFJNQ014VmJxbUIyNTNvUXp4STYzQXZ2ZmJTal9JRmJyYWZiN0ItMkJVbHNyWk9Qa0luT19PZGk0VWhvcDV4R3NwX1cxZElqNU5VcERrNFZacWZKc0hLTnJ3emNHTW5UZVRMWGlfLTdLRE1KMG5mellFc2R5UGFxczdUMnhYRi1adEY2eHNtbVNnYkllbGFjQkdVbUhYUE9tWFdiLWpBOFdIekk0dWZOemJhWHVGStIB5gFBVV95cUxPNzkwMGlsdEtDeXl5LVRRQldRN3p1dXk1NXBpSVlvTnZkbmdYcU5ieE8yNlF2WGVBamJuVkxsOGgwbHp1VTNvOVA2SWNRT09BN2JNc2NjYzFHdEhqMjJ5TmY5akg3NFRmbWhDNDlpSWpBRVJoYXNxUklTdkk5SllOQkppTXl0U2FHRkl4Nk4xNUU1NU1lcVpJRmpYX0xZMHhUaHlYTXg4U0EtOGc0RDVxaUNpTk05VWw0VWt6V3RTbzdwRW9vNUtZa0I4M0N0MmlwM2drUmMwbEFBV2trdWtJc1d6TTdJUQ?oc=5"
         },
         {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRHI1ZUJIU1ZqYVhXWnlQN0VDUGJYTWEwQnBJb3hBemRlaFZDZnZVNTFGN3V5a2tGdDVWR2NqSERSbGh6YjBqUk9rbEx2WE54S1NmR25kNFRENHBSSGdfanEwdzJ3RzVNNnZ6VHI1MVlSZk02OXRyWWsxSUI5SWlJNVJTanV0Z2NvY3lJTDRmOGVPb2dkRDlRWlRVcHJfbl94c0NSckpvaTE4SHVSQVljLUxJMmcxenR6Q2tPNVVXT3VnbGtyNlEybGt5YWY2Smd0QXhwdEtuR0VFRkxEdXh6NHVJSW5iZ9IB7AFBVV95cUxQbHVxRkFISkNMNFZJQjZ2ZktMaGZIdjdlSmVLRVlhb3NSZ3Boc29TRHE5QW1wb29NUzZxWUc0cHpHNUloQXkxTHZ3cmZKUDZTRGlMS3FwNGlETTFLWENGWmFlamxtNDJDVkNxaWpmanB6OS1wNlVPWk02ZFptd29vOWUyVGh0TjQtVzV3MzFFYlZQOHlvTjZWTFRTMWk4ZEJvNEFLSFZZMzc0cUlrcVNuX3JDMHpYT3RfVFV0enEzOERtRmZiWUZCQWhlc2xUZXBhSmFTVTJxbzlEN3pnR3FCeWlOVW8xb3hRZHhVVw?oc=5"
+        },
+        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVhnOHdKeFBvV3o3ZVY0T0o3Y1hnbEhUNThOWkpQNGwxYkN6dERsT2tZVUhKTjloRG00bkJSVUtQWUd2ZUZSOEhvWEVuZ1pEZjRfVkxFY3k2SDZna0dqY3IyQjljY2ltdjZXdGRpRkh1UjExVm04RFgyV3VUbXVOVjlzcEM0UXFHY2ZCR0YzVGVOVEZTSHAzbHVnRDIwSjhn0gGoAUFVX3lxTE9vNHlVM0EtTElIUnJvQ0p5aUtWR2JUdGVGQWtsMEhlTTR0NWFVaEJ0Y2FwRWUzNFc5UVFfNldHUWVuNkoyd2F3LU9mUXdaRHZSSm5jZ00tUVBPTmJnRjJGZFRXM2xfY0FvRHp0VVZ1VDV0dEpXOUdMd2JNS3ZOOWowQkl4V19ocllvZXMxb2Rja2RfUHhyTk1UTXZucUVrVXZKQ3IwRnk2cQ?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Man wanted for murder of RJD man in Bihar arrested in Keralam. A politics-related story. Covered by The Times of India and NDTV.",
-      "image": "images/man-wanted-for-murder-of-rjd-man-in-bihar-arrested-in-kerala.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Notorious criminal wanted for RJD leader’s murder in Bihar arrested in Keralam’s Kollam. A politics-related story. Covered by 3 outlets, including The Times of India and The Hindu.",
+      "image": "images/notorious-criminal-wanted-for-rjd-leader-s-murder-in-bihar-a.jpg",
       "image_kind": "photo"
     },
     {
