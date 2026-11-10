@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10 04:54 UTC",
-  "generated_at_ist": "10 Nov 2026, 10:24 AM IST",
+  "generated_at": "2026-11-10 05:55 UTC",
+  "generated_at_ist": "10 Nov 2026, 11:25 AM IST",
   "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -35,6 +35,43 @@
       "brief": "New Delhi-Patna Vande Bharat chair car costs more than Tejas Rajdhani. Covered by 3 outlets, including ThePrint and The Financial Express.",
       "image": "images/new-delhi-patna-vande-bharat-chair-car-costs-more-than-tejas.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "indian-railways-announces-puja-special-trains-between-patna-",
+      "headline": "Indian Railways Announces Puja Special Trains Between Patna, Delhi And Mumbai - Sarkaritel.com",
+      "summary": "",
+      "date": "2026-11-10",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Sarkaritel.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMGV6Yko3a2FlQXZRZkZpbENOSVpoV2toOVdnbDFEbzNvWTZvZ29vY1lUaktZeU9rUVl3UkcxcVlGcmVxd2gxZGFHS01DVHpBaXlxLWIwTllpYjFHVWJyVVNHQkJCOFZBOU9vQUtLai1yYmJBN1g1VGZzdHk1MnhBM3FlRGl2eEN5bTcycW5hMnZTUDlG?oc=5"
+        },
+        {
+          "outlet": "Sarkaritel.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVJwTHcydENxQWU3c0Z3NE02dVkxRlV5Z1l2QnlQV1dnNVZKcnhhTnlnZlNXVXFqTVQwbG5nYUdMb3VueVBoTWx3Y2ZqbmRfWFM1VWJhTjZJNnM3NkZVdVBSc3pRYnZseXNfYkJHYXB4RVFac0N3N3BFV2NBUE44b0RNMElMX2htWDV4UlpwRDVnU0lMTXJLQXFkOA?oc=5"
+        },
+        {
+          "outlet": "Sarkaritel.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnhscGZ6Y2JlVlpZbTVaTUpLZHRNdnU0RzRaSDYyNjVZdEg5bXBkbFAwNEVDNk81ZEhIZ3Y1bFpkNEl6bS1aNm9zYTVkSUtQWXFoNnhxRjlnUDNGRnM5eW5tOGhHOEtDd1hGcmxTZlF4bkRpOFVwdE9pOEpvZFFYUGJpWWtmMm9TRU1RQTJKQThxa0E?oc=5"
+        },
+        {
+          "outlet": "UdaipurTimes.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnFPWXhVQUxRY01VNC05RnZVWk1yWFY5amVYWjZpTXN6cTZFellPMXJDNVBwRFQtbFNFOVR2Q1JMV2VoWklFUWZBWlVEYVM5ZkNLbVNjMW9VU1BHN0dxNHlCZktRckZSZ0lvUFYxQ1R3b0RoQ3JFbkVNcENKZWNyN1Z3R1FxQkI0SFVhZmx3dw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Indian Railways Announces Puja Special Trains Between Patna, Delhi And Mumbai. A civic-infrastructure story. Covered by Sarkaritel.com and UdaipurTimes.com.",
+      "image": "images/indian-railways-announces-puja-special-trains-between-patna-.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "bihar-chhath-puja-2026-samrat-choudhary-government-bans-fire",
@@ -128,31 +165,31 @@
       "image_kind": "photo"
     },
     {
-      "id": "rss-bjp-owe-nation-some-answers-priyank-kharge-on-cartridges",
-      "headline": "\"RSS, BJP owe nation some answers\": Priyank Kharge on cartridges seized from people resembling Swayamsevaks in Bihar, Haryana - ANI News",
+      "id": "44-250-cartridges-seized-in-bihar-haryana-priyank-kharge-que",
+      "headline": "44,250 cartridges seized in Bihar, Haryana: Priyank Kharge questions alleged RSS links - Mathrubhumi English",
       "summary": "",
       "date": "2026-11-10",
       "topics": [
-        "politics"
+        "general"
       ],
       "sources": [
+        {
+          "outlet": "Mathrubhumi English",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzBpRTRHenhma2ptWk1ha3pRQkswcEU4cTBUa0hWbTJYeEIzYlFrMWxrZ0tfX1otWVNyUjZDV09xWF83QUpGQWNWWlNrc0t5Ml9NaDBFcUo1UERxcWxTWHJ3VlVrQ1c5SFVVM1k4NjV3V1A5VXZ4WmhJdmdkZS1VMW0zQWJPS20zMFJKZmkycjdkLVVMaUduSmgxTTg0RTZS0gGmAUFVX3lxTFAwaFZIWmhCbi1tTnZsNS1RM2xEOU9oYTlOVWQ0d19fdTdzYi0tWG5iNG0xZUl2b2M2WDFzTjJibHcwakFtV21FbmFDc2pMcGJtVmlCV1hncXdONjR1eWo4YVlPdGN0Y0UtWUhMRUNkMmZYTWJnWGJrRXBGWHlqcWQ0ek5XOVRuWlc0YkxHdUI5WS1heFJsMFdJY2c1V3RYdUhEODBiOVE?oc=5"
+        },
         {
           "outlet": "The News Mill",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGNGZHhmdVF4NzYwbU5aVExZVF9rV0N3OU1vc3A3ZVVCNWlXWEVXX3g0c0pQNHFjZVY3V05NLU1ydm1OR1hmcGhndzFhOVlxVjBUQ1BzLW1qdVF4U2dfdkZ1a3FZZlJCZmx4Q095VXlXdWFoM2hQU1JldlB3MDBVdG9hZ1ZIWDRndE1EdDd2OUpEbmd4RXlqZ0ZmbUFYMWRHdk43SXN5cFRNR0l0LVlvRmlBQQ?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOamFhMWJKVG9DdVFKV0tJcWJENmhJRnVpVEg5VjhyUHA3M2VocU10STltbFA2REtla01zMUlqX0ZDODBaOTV5aG1EZUlVcVB2Y0ZxeGo4S1hsVlJjNGtkZGRYRER6aW5mc2xhTjl4eHRleXVWdmF0UktNYVFVZlFLaFh0dzZQMldHeXVLZklfRkF3dnFlRV9HVm93Z2Z3RVhFbXBWMkZ4UEpqdVczZm44LW1qLTd4aEVSaVJvOUhHNVZqbUxEYnMwVU9YVm1XZk1DNTVEZndmUFg4NGgwVDJHc2dUSlZRdWpVZWs5VW1Ea1RJNEVIaTh0b1JaRVdPNTZIZDNORzZENjE5Q3R2?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "\"RSS, BJP owe nation some answers\": Priyank Kharge on cartridges seized from people resembling Swayamsevaks in Bihar, Haryana. A politics-related story. Covered by The News Mill and ANI News.",
-      "image": "images/rss-bjp-owe-nation-some-answers-priyank-kharge-on-cartridges.jpg",
-      "image_kind": "placeholder"
+      "brief": "44,250 cartridges seized in Bihar, Haryana: Priyank Kharge questions alleged RSS links. Covered by Mathrubhumi English and The News Mill.",
+      "image": "images/44-250-cartridges-seized-in-bihar-haryana-priyank-kharge-que.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "ac",
@@ -216,54 +253,6 @@
       "genuineness_label": "Corroborated",
       "brief": "'Depanelment Of Advocate Is Not Defamation, Merely Discontinues Professional Engagement': Patna High... Covered by Live Law and Bar and Bench.",
       "image": "images/depanelment-of-advocate-is-not-defamation-merely-discontinue.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-accounts-for-42-of-110-diwali-fire-calls-received-from",
-      "headline": "Patna accounts for 42 of 110 Diwali fire calls received from across Bihar - The Times of India",
-      "summary": "",
-      "date": "2026-11-09",
-      "topics": [
-        "politics",
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGFFcFlPU3VmZUwyakhCSWxnWTk0dDB4S2l1VHNjNmdGMHZyQUVmTmhfbUlpUktocVR3dE9BaVBtWTk4Y0l2Z1AweHY2NDBHelRYV085cE5pRkVjSDNpc0pmT3ZRVnZuM19helo1SmxWMG1MT2ROWVRXa2xhSmNwc19mb0dQOVhyYzU2VnN0Y3o1RTRFZ3YxVHlGLXFWSXkyS0pNYTlWRm5kLXVDVHFaM0VzclZXMWprY0NGa0ZDM2JVeUFzN19oTWVWM1F4eFZJRUhVYlJucGdjbk5kLWpF0gHkAUFVX3lxTFBkVmx0Z1hNNS14SklNUGtYMm55ZGZkZkFQYzRfVVpGYnNOZnRuT3MxZEZVMmJzQTlhT3YxOXhFYVpBSV9uenJuS2trVTBJM3JKUTVqSElVUlJLbUZFSUFVTGVValFXTXd4YzFSZTIyZ1lKSXFfekp0QkhlMVhacEotX0pNM3diQ3ljUFBDYjFadlBET2hFQk56UFZpNm5MZTJ0WnBhbVN6NTdpNGw2X1JseGg2c2t6VGk2MFZoVjNiLWRTTnFfbXhsQ2t6R19ZTk9adUoyWURSeTNBLVhKci1LQVY4Qw?oc=5"
-        },
-        {
-          "outlet": "Urban Acres",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHJmQXYyTERfTVpmUXBqNEJLbll6RTJTTlFDYXN2VWZnbUV5ZHJldnZNRzZRZDJheXBLMEJXZjhPaWxaRDhES3oydHNmSzIyWkJhZG9QUnRIazBrSzgwcmJEYnpHSDNaaUlCanppSEVKRTd2dFRFMmR6SllPSUdmX2R6eXlhS24wdm01WmhwemU?oc=5"
-        },
-        {
-          "outlet": "Urban Acres",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0NtTWFndEwzVXVEWVdGcFlLbW93MXI0TlV4WGJPR2J3TElEUXRjMjFBUUl0ZzRGY1A1RHdqVWhIUTJnT0xLZGdaS2NKMEpja25lOGNWUVpFeWxFODcxZ3kwTWJPb1dJbmhkX3J2TkhrY05YZlZjNDYzQjIyRFBZX013?oc=5"
-        },
-        {
-          "outlet": "Urban Acres",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEFTMGllVmZtOFNPMVhEMGF0MnBJZHlZc0Q5Mng1aGhycVdZbjU5SUJmTFFLRjFOZGlvbmpWQkJ3ZEdwY29LZTczZkpfYXVHRnZwR0lRS21VWHpPcXR2SENWV1dGX1JNZURMLWctbnlCNWEzR3QxSno0SlQxUndtY2l6MVhkS0t5?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX29nVkY2MWJUQlFKX3hLR0JSeVdld2dLSkhPWUhPaGIwc2JUcllwWmhVYXAwMzVZdGRaSW1acW9ZVWZoaTcyejhhOWF4VVhiejF5WDA5emJSUUxzWUVpbEJrMklPZzU5UVVXdU90R2pDdEkwRkNwaks3bEdEQ0w4aEpfSnNHa3JfeEVCZ2gzbjZ4aEFZbnNUam1USC1LNVN6NkF5VzNyTTF3NnE5cXdOZWJpb0JBQThvSHotYjgtTnRQOGc4cndQODdwbkxNQjZsSGhv0gHYAUFVX3lxTE1uTnNlcHZRa24zZk5paWNNd1R3Z3RCZkM0QXlKVlRsaWFSeTZpeGdUMUZ0cEs5MlotU0xjM3g5OUZ1cWE2RXFFZ1h6eXllN1NZblVlQm5CTjBHMTJQRHlDNXQtV1plS1A2X3Jia2QzQmo2Z2wwQURGY1JCTVJ0QkIxQnNBd3YyNF9jcWlPN3N2RUphd3pHS0FaTWxHRjZ1TWJGZzN3RVh5Y1ZhSERFOFNlLTFRRzFlU1Y4SXdkdlk4T3VrLUM0MEZhUTNKdnB2SFFJSnFzakZlRQ?oc=5"
-        },
-        {
-          "outlet": "Urban Acres",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXpTR2lCN0dUTkRfWVdNRDNCdzYzbFA2ako5OVFNejRiNk9IUkdkS3hldDQ1MkpYNG1BbzY4WVo3a1BqaXJ6bjB4OXRVdnotYXVtUEh0M3F4YkprUV9oR21hM3JsX2swVTJFRFRaaXdySDY0aUFDQm93V0FXbkRvY0tZTml2VTI1YVE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna accounts for 42 of 110 Diwali fire calls received from across Bihar. A politics-related story. Covered by The Times of India and Urban Acres.",
-      "image": "images/patna-accounts-for-42-of-110-diwali-fire-calls-received-from.jpg",
       "image_kind": "photo"
     },
     {
@@ -333,6 +322,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-nda-committed-to-making-modi-s-vaishali-visit-historic",
+      "headline": "Bihar NDA committed to making Modi’s Vaishali visit historic: State chiefs of ally parties - ThePrint",
+      "summary": "",
+      "date": "2026-11-09",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Week",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS3VhVlg3QlRodlJLNll6UmlTRGNlNkNmMzg1NkxkSExPaWt0SjBQeDZMQ0R6V295M0ludGhfdFdQdV9HLVFxc0s3WWhXVXBhWUIzM1ZqVDZteDNsek1FNzU2VzR4TXhCRFo1cVAwQ25aRkNHdWhlTnhYWjhNdHpMcG5WVXFkYzlPWjctdkVMd2RzWjhyNDl0OWtvSmM5c0ZJNlZobFEzUm9rUTFUMUhPb0NQZTc2Y0tjeF9LS3FJXzRWXy1PbnRRc3FHRlFsenBXSlMyZ1VMVWppX2I5bkZQQWpEUFLSAeoBQVVfeXFMUDgzU0R2ZUV4dUo2V3FrWFd6NVZTSFhfOWpLTVA4cEFUd0JzZ1ZGSVhka0tmZkFYZXMyN2E4RUpsNGxJZi1TTUpJSVJubVEtSlhWYjVPeVJRLTRiWXE0MXIzS0M5NWkzdVdMbHQ1RFh0alNWenNZM1VVSEx6OF9Udl80ekJ5dF9ueXpRMm1Wa3hJbmttRlYyMklZaWdMVTdfU0xZMDFwRXVUMER1SjJhVjBaYUtNdnIycDhXUmdISmd6c3AxUDBGMXhkUUZocVVvRmNmcmVnUmpfUGZfMmFKaGZQWDJ2TFJqSEJ3?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUURpbC04WENlQnNYdEdtQ3RXSjRXbkFjdWE1WnRkQUxUeV9yb1dnTDVGa2Z2YU84bGZOb2Y3Tmh0S2NvTjVROGxzWFM4RFFjR0JqcHp4bVpiRkwtb3I0SnctcnAydEVEZkZyYlZla3c1MzJMUjVYSGZjbHVjbmFMWlVRZ2ZtVy1CSC1Zd29OWDdWNDBEcFA2RVJuVF85VXVkdVkxS1RNQXI5RWVUR0N1RTVmM2JwbTR4UWR5SnRVVG_SAcYBQVVfeXFMTTFQMEhKWk1vc0g2QjY3UllreWxWSXF3M25VSUFIUWRfR0xqRTVoVUM2RGFIRHFtcGZTMjdpejJqZlRfRjVIQzJCUmI1NzEyd2VaOXE4dWczdFNyWFFJQVRwdlBoSjFZd2hNNjVjRHpqelNvNGV3WTBGT19QYTZNSmJxem1OTHBSZG4xbU83dnFzWVhWb3FiZjBNc3Q1dFl2eDVjajNSc2JsdDhEajRZZWJ5c1BKa3Q1MjBzTHc5ZGpXT1N0LTZn?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar NDA committed to making Modi’s Vaishali visit historic: State chiefs of ally parties. Covered by The Week and ThePrint.",
+      "image": "images/bihar-nda-committed-to-making-modi-s-vaishali-visit-historic.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "visiting-bihar-for-chhath-puja-8-offbeat-places-to-explore-b",
       "headline": "Visiting Bihar For Chhath Puja? 8 Offbeat Places To Explore Beyond The Festivities - News18",
       "summary": "",
@@ -384,33 +400,6 @@
       "genuineness_label": "Corroborated",
       "brief": "PM Modi to visit Bihar's Vaishali on November 21, inaugurate Kachchi Dargah-Bidupur six-lane bridge and launch development projects. A civic-infrastructure story. Covered by Asianet Newsable and ANI News.",
       "image": "images/pm-modi-to-visit-bihar-s-vaishali-on-november-21-inaugurate-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-nda-committed-to-making-modi-s-vaishali-visit-historic",
-      "headline": "Bihar NDA committed to making Modi’s Vaishali visit historic: State chiefs of ally parties - ThePrint",
-      "summary": "",
-      "date": "2026-11-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUURpbC04WENlQnNYdEdtQ3RXSjRXbkFjdWE1WnRkQUxUeV9yb1dnTDVGa2Z2YU84bGZOb2Y3Tmh0S2NvTjVROGxzWFM4RFFjR0JqcHp4bVpiRkwtb3I0SnctcnAydEVEZkZyYlZla3c1MzJMUjVYSGZjbHVjbmFMWlVRZ2ZtVy1CSC1Zd29OWDdWNDBEcFA2RVJuVF85VXVkdVkxS1RNQXI5RWVUR0N1RTVmM2JwbTR4UWR5SnRVVG_SAcYBQVVfeXFMTTFQMEhKWk1vc0g2QjY3UllreWxWSXF3M25VSUFIUWRfR0xqRTVoVUM2RGFIRHFtcGZTMjdpejJqZlRfRjVIQzJCUmI1NzEyd2VaOXE4dWczdFNyWFFJQVRwdlBoSjFZd2hNNjVjRHpqelNvNGV3WTBGT19QYTZNSmJxem1OTHBSZG4xbU83dnFzWVhWb3FiZjBNc3Q1dFl2eDVjajNSc2JsdDhEajRZZWJ5c1BKa3Q1MjBzTHc5ZGpXT1N0LTZn?oc=5"
-        },
-        {
-          "outlet": "The Week",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS3VhVlg3QlRodlJLNll6UmlTRGNlNkNmMzg1NkxkSExPaWt0SjBQeDZMQ0R6V295M0ludGhfdFdQdV9HLVFxc0s3WWhXVXBhWUIzM1ZqVDZteDNsek1FNzU2VzR4TXhCRFo1cVAwQ25aRkNHdWhlTnhYWjhNdHpMcG5WVXFkYzlPWjctdkVMd2RzWjhyNDl0OWtvSmM5c0ZJNlZobFEzUm9rUTFUMUhPb0NQZTc2Y0tjeF9LS3FJXzRWXy1PbnRRc3FHRlFsenBXSlMyZ1VMVWppX2I5bkZQQWpEUFLSAeoBQVVfeXFMUDgzU0R2ZUV4dUo2V3FrWFd6NVZTSFhfOWpLTVA4cEFUd0JzZ1ZGSVhka0tmZkFYZXMyN2E4RUpsNGxJZi1TTUpJSVJubVEtSlhWYjVPeVJRLTRiWXE0MXIzS0M5NWkzdVdMbHQ1RFh0alNWenNZM1VVSEx6OF9Udl80ekJ5dF9ueXpRMm1Wa3hJbmttRlYyMklZaWdMVTdfU0xZMDFwRXVUMER1SjJhVjBaYUtNdnIycDhXUmdISmd6c3AxUDBGMXhkUUZocVVvRmNmcmVnUmpfUGZfMmFKaGZQWDJ2TFJqSEJ3?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar NDA committed to making Modi’s Vaishali visit historic: State chiefs of ally parties. Covered by ThePrint and The Week.",
-      "image": "images/bihar-nda-committed-to-making-modi-s-vaishali-visit-historic.jpg",
       "image_kind": "photo"
     },
     {
@@ -512,20 +501,15 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzRWMUFtSEVvbHl1eFJ3Ym00bW9kZVlaM29tMEJONFlhcWJwOWZYVGl4S0J4anhISS1fT3pFa2xrRTRMVF9rZ2NJQnhlNDBHZlhuenlnSS1Ic1F6alpsb25meWVDc1V2dHBwS0UwMTNQY2kzMi1JTkw4THJhT0tMendTM052NjNNOTY4?oc=5"
         },
         {
-          "outlet": "Deccan Chronicle",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUy1xVlZMeGFVZEZEZGF0d0dYalJPcUNkMmlQb1hOMkJHaXR2Q1dTZGRHUTIwTzBleEVfY2M0aC11WEFvcENJdVlNOWdBMW9XUm9WSld6RGdteGx6Q3JPSnFGSG94anVTSE5OUDRDOTMtRURmdXRkb29FLXNxZFJjMkVBcjVvbzVYRkp3dWJhdkFJWktuYU1pM2VFcU5sMEFkUXpkbE1DUzg3ZHVXWHdETzR2Y0xBQdIBuwFBVV95cUxNcXR6ZTFkcUctUWlFaTNXMHdaMDhFUkZGbjdVV3plU2tOU3Q0R05fUWtIcjRQZE1qeTg5REFOeDcxbWVhMW4yRkVaOG1MRUJpcE1lYThjS1hxcGhvOHdJQ0Q3bVREbG5IdG1mVlVlTXA4UU9rbFEyVmoteXRMRTFwWDFwTk9xZUI5dnd3Y25fcnV5M1NuLVhwUU02VUxJcWtjdnAyRlY4MlNhU0RyTk9vYWhNa1cwdWdFZGI4?oc=5"
-        },
-        {
           "outlet": "Cricinfo",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 8 outlets, including Cricbuzz and Rajasthan Royals.",
+      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 7 outlets, including Cricbuzz and Rajasthan Royals.",
       "image": "images/vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus.jpg",
       "image_kind": "photo"
     },
@@ -574,17 +558,12 @@
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmkxT3hycnFWd3dmN2JVYTJEb3F1UTVFSUdCUjRsWlk2QkQycU1LYWJVMGRZTEJvVjZUTEZpTy01VmUtYzNvTWFla05vYURrVlZXVjIzUWRBTmtsdmpYZVRxUl9fNlVmS1M5azBQYUVTdDZNaF9lcXZtTThzZnNJMlMySHFWZ0Z5MVk5SGJOeDAzYmgxRy1GZWVlRU5aSnd6REdmTWRHUENIVUIySWJuOGRLWFN5MWfSAb8BQVVfeXFMUDJoWGZjdkpWZ1ZYc0VPNE9hdDhscnFmQ2NSMGUxNG1WQmdLYnRnblppTElSVzZudGRwTU9HQ3ZtazZ3a3JNNmhralF6NzhpU0RSbFgtVmcwTXdIOGtuYW11cUk2UURucnE0U3E5SnpQMm0zcngtdWpyT3lld3F6SkV3TmtWNVhyNTl2VmpYVDc1TmlKRXNOYW9HVU1uUC1EV3p1enZGSnNJUG1sWVM3aXZBdGFLSWZ2QmwyQUg3djQ?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSjRhdVBmalVrWXFUejU1TkJ3QWo2c0hSbTNTbUxvVG9tQko4YlROTFk2cU5kT3ZQWGQ5Z0VlZmp3NGlram5GSE1qTkUxdVU0eWNpWlNVNFh6Sjc0MkRqd0hXMTdMZkM1NmVyTGZqQVlmOFBxZEx6RzVFNkVNQ2hNUVJUNkgweXdqUnNZa1FmZHNWRkpEOUx3dno5b1M3X3VFZElRSXlXdFFzZ1AyN3RITlVWY0J6cm9DUVpsRGNWSjdCNW14T0Q3MnNVakZ0dFJKWS1iSFpMc2I2bV9scFBIbV9qSkxITU9UZFBFVU5wd0xrX1Rw0gH6AUFVX3lxTE9YMGlhQkVHNlR0R19nM1JUM2dxZFZnSEVnOVllaU5uNHBkYk1KbGNqVkR0dlcyVGI4MEFTd3c4R1pjWHNaSHJHVVFWX3o2bGJrSTlyb3J0X1UxSmFhOEQybXcyQk5MVWRfNFIwc21VajVraFhVNFpja3lSV0ZPb2d2UHZtVW5lSnpFU2JydFhRZnliZ3dGV3FqbGxMaHp6UElKMTlUeWFyd1dBeFBjXzJTdG5kX0M2bXFfS19lRzg2QUFJVEhLRUpLLXVSc2FLYWcyQXZQWHJSSFdqRW1VT3VGLXNtSlF0bnZrTW9DN1FDeXRobGNJa0VQYnc?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Amid protest by wife, Bihar government transfers IPS officer Bhanu Pratap Singh. A politics-related story. Covered by 3 outlets, including The Times of India and NDTV.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Amid protest by wife, Bihar government transfers IPS officer Bhanu Pratap Singh. A politics-related story. Covered by The Times of India and NDTV.",
       "image": "images/amid-protest-by-wife-bihar-government-transfers-ips-officer-.jpg",
       "image_kind": "photo"
     },
