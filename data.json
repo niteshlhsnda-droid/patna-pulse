@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10 18:54 UTC",
-  "generated_at_ist": "11 Nov 2026, 12:24 AM IST",
+  "generated_at": "2026-11-10 19:55 UTC",
+  "generated_at_ist": "11 Nov 2026, 01:25 AM IST",
   "story_count": 56,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -246,6 +246,11 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTdXNTZJbWJWU3NrZFdlanNtUS1WdWgzRGpFYVpZaHhTdGJQNDV3UFNMbnNqX0ZQRkdTR3AxRno4RXRiUEZTbHBlaHNUazIwcG1QbF9DdHhvb2dmMzBjcnNhSnZtS3hjNmpkdGdUT3NIRTcwcEJsXzFoendQYUZEUFAzZWVQVDFlc3lOekdDdzdSbDUwaWdkUU5YcFRmODhvcUREdTh6UVNpdHdVX2R1U3BITVQzR2JZbnJoNXAwM250Unp3ZlHSAcsBQVVfeXFMUDJHTVRMdjFfX1FlVlJ6WTc3aDVyLS1la2lscWtRcjRmU3hWTUVzZ3o2SXRFSVZFWF9EU1hpaExKVnVrc21OamhONDNBRDFhdDJvckRwU3dNektWWVlhdGJDaDZJTDN1RnU1NXVlT1owSHh3b1AzME9RM1BNaTl4Z2ZPdlZXYkFmUXdwSTZCeThJOVJUT3ZQUVFIZzlEUml6bkJtcU5FQzNGX1hqUzVaWGtRTUJrcWh6emdBcGNidHpPNTI1Y0QxX05qdGM?oc=5"
         },
         {
+          "outlet": "NewsBytes",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVU5Fdk5kZGFxU1hGZ2RMTkpXNGZucmM0Y3ZqOVROTVB1YnM1OG50cmc1V1ppNHotdGtuamNzQkZfQmhyUmh0X1k3LWZYRU45MmRUR1FiN3NfeTNqckNPU1ZYdzZSc3NfZzFMR2lkN09WYm9aMzdSel94cDZDUGhQc09jRmRCeE1jTUhUNTdGQURsZXBENTVjdXhrb1lGT2p5Z2hZajJHMA?oc=5"
+        },
+        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQldiOTZubmdQM2N0ODV6dXowR1Qyelc0TmVCbmZZRHdBR1JtVVdzUTFkZjBSeXJib2EtUFExU1dhd1N6S1RRNTFCMG5sYWljZ1FrQjB4WWJpT0k4R0RHZW1scC05dnM2al9nNnF0LXZDSzBpLUhTYVBNa195eG44VWlydFBQQnZFSUZFcTRxY2RUdzdtTENXekRtclV1al9sNG9yWHA3NnlfZzhmTzNHbWMwcnV6QnhCZGFxQTRXWEI3Y2lMYjJrM2lBaV9mT3ha0gHWAUFVX3lxTE54ek1jaV9vYzlIX1dvVlRTZXhralQzMFp2dDhSaW9OTm90QlJleGNvb0hSNzRGQTRGUTg2WEtIeTZJand6T2NYWFlLOVgyVDByQ1FScGxGT1YzcnV1UEwwczB3QXBYV1FLRFlTc0NTakdtdVE5cEhXaTVwMmFsdlVIdDBMRmxBbDRUYlVyZWZBbERabXhlMkxMX3NIdkJtWHZZMl9LajNod2FWTXFvN0VkZGh0YUlFVWtTQnNtMlhHUEhmNGsyeWpTZFdxN0hfUWd2dWJlNXc?oc=5"
@@ -258,51 +263,24 @@
         {
           "outlet": "NDTV",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2lVMGNHLWpWRFVUZ2VJNk1EZ2h0am9mQ0M0WmlQeWFCMXBfeWthMkRTUGk4Qlo1MkJXY0xzX1BlMTVZSENLbnduVHdsQ0RQd29nUnhmM2tJU2xwWjFybXBPSTZfNlVJcy1LTzNCMmdMUWpGalU0b1dFcFpQa1Zwb2hoTzZwLXZVbTB2NlpDYUVWam5jUnAyb2JDb2ZNZFZ5Mi1Lb2lzZ1ZPTnlPODZYQm9VLTNsLUpneU80?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTm1BYU5DQU50QjZOVTN2eVNMeTcyVmJLTFV3Z2k3N0dSbzNBdVlzVngzeFU2UEpZOFFXS3VQdWVSQXlVRXBSdjdObmJUazM2MnB4ZUR6SWp2Vzgzem93MVoyWFVSSnpXbWdCQ2ZjODc0QUxFYUZKWnFIc05BbVdYVXlfQzF4ZW1NWkhBRUl0d1lfUVhUVVJBenlqZXlBdlBaYk9vYW1Qa3UxQ2pzaFhqaFpLaWFYTmJ4LTh2S2tYSVfSAcgBQVVfeXFMTk9BaXFnUzFfYzB5VXE2dVhUUHo0ZEd4Q1NSTXYxdGZyU1lMQnljOFQyU211YzRYbl9zMVozV3p5VF9JRVYyRjJyUjBabnZxcDNGSnlydDJCdV9aU2tPRkFTWHZMRkg4Q0RZY0JsUll5ZVBrSzVSc3FpUnh1bFcybWw4T3plMmh3YjZmOUV1eDdOV0d6LUd4NnNsdkotTW1ZRkdzVWtrWGQ1ZkhmMUFmc2J6U0VPeHdNWVdpTXNIaVZZckt1WS1zdnY?oc=5"
         },
         {
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUVhzcnZKTk5CRzJtbjFxNllxbHhCN3psZ1FsZ3ZzaDJZeHVXanBXSmVqYW5MOWltcV94ckxTR1lkTVYydzM4MzBMd0h2RGRXWV9YNnB5WlRwTEtZN1o2Z3ExX2N2eEhHT2R3R1E4MENxTFJkOC1lQ3NpOXdvS1BlLWJ5aEpFQjh6T0E0Zk02TnU0VnowUU5od1hyLV9ldmFiZDNET3d4TW9ubGM4Q3N3SG8tS19hR0NRbEFNLUtUeFF6SThiRElocXotQUxFc3dxa0lvSzJ2QlU5UmF6T0xYYm5DYjE?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2lVMGNHLWpWRFVUZ2VJNk1EZ2h0am9mQ0M0WmlQeWFCMXBfeWthMkRTUGk4Qlo1MkJXY0xzX1BlMTVZSENLbnduVHdsQ0RQd29nUnhmM2tJU2xwWjFybXBPSTZfNlVJcy1LTzNCMmdMUWpGalU0b1dFcFpQa1Zwb2hoTzZwLXZVbTB2NlpDYUVWam5jUnAyb2JDb2ZNZFZ5Mi1Lb2lzZ1ZPTnlPODZYQm9VLTNsLUpneU80?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Rs 3-crore Defender, horse race with SUV prize, 150 dishes: Anant Singh goes all out for daughter's weddi. A politics-related story. Covered by 4 outlets, including The Times of India and India Today.",
+      "brief": "Rs 3-crore Defender, horse race with SUV prize, 150 dishes: Anant Singh goes all out for daughter's weddi. A politics-related story. Covered by 5 outlets, including The Times of India and India Today.",
       "image": "images/rs-3-crore-defender-horse-race-with-suv-prize-150-dishes-ana.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-to-set-up-disaster-response-mitigation-funds-for-2026-",
-      "headline": "Bihar to set up disaster response, mitigation funds for 2026-31 with 75:25 Centre-state sharing - ET Government",
-      "summary": "",
-      "date": "2026-11-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Government",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTlU0R1hZcVllMzdDd1NncTlGejZleTdja2xtbTN0NFR4WWVrRU1GbWJqVjAwR21UcUVNX19BdWVjTmY5dFBfRGJ2R09pbk5ZS1N3Z2RJRGZ5WnNycTJ2ZDJwejZYV05uM21KWDFMRkdwNFVvU2tNVVB1YndVcnNYX00zWktxZy15T3dXQkw3VThXNzVvWWY0UUZDRmYyUi1LdEprSzA4QjIyOG5xakhsOTZ0bnFaV3JqaTNLaUhHRXZIWlNIT2tvRzBQQVJ0eWlsYnc0by15Sy1PbHA2aU14YndRTXI0Nmt1cER3Wi1PS3dxUTdy0gH6AUFVX3lxTFBCNjBTMHgzM2lDRzVqd1I3M1hXZzlTTjcyRGE5QWUwWXZmQ3BNQ01yT3ZpQjV2OVc1TS1reURsRlRobmhVc0JjNmMzeHBPT3ZOMTgxazZoaFR6T0VHWEx0dzJmc2YtaWo2RTNZWmVmR2puRDQ5SElwSXNnQldFemhsenZKT2swYjFYSlB5RF8wNVBmcnhUaW1BZ3FFU0xla2hRN3VSSkZXWWswM3RpbksxYjQ2R29vXzdXVHlRaXZfMG44YnFwTU1rUzBtMy11Q0ZCOHVSdDdsZWFNZ1pJalp6dHRQVFhTeloyZ2ZwWW5UaGtBQlVyQ0UxN2c?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXF1aW0wOHNNUU5MR1JoTGVGVEpmY0J1aG4zS1h2eVdNZ2czVU0xQ1BGbjUyOVR5S1pwaW9uX3hpeWs0NmtTajZwTlhjU0FjbGRFcTN6UlZXYk5mZnRzeTBjb2NzVlpaeGhQV1o5a1ZNX0NHMXZIaHlXOGttMFl5NndabnZFODVoODBoOE9Nam8zNGZaX25naEJlZ040cE1jNWo4S3ZaanRTOHRTNEpwWHN2Tk11cGRiT0t0Ymw0bHJMUUowWW5Z0gHMAUFVX3lxTE9MamVCX3FBTzMtZ2M4U3hkUDBLR2lHc2VQT2ZjZlZjeFI3YkJ4dm9KakRyOW1hMEd2dk1qUWkzZ0w3N1N0TWlQUS1KMHNtMVdsT1ZIeklsV2VYTlJvS251bUwzZ284eHdiWlRqeDFBM1RJR1ZyNVVQZEJNSTU2V1gwelBnX2NiUVBITnBycVprLU1yRGNWT0ViR2VkRG5LbG54a3luTGVqMjlZSUczMXZMbXh1RnQ3UHZ1eXlISzljOVB0TktEcTAtUk9TMw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar to set up disaster response, mitigation funds for 2026-31 with 75:25 Centre-state sharing. Covered by ET Government and ThePrint.",
-      "image": "images/bihar-to-set-up-disaster-response-mitigation-funds-for-2026-.jpg",
       "image_kind": "photo"
     },
     {
@@ -365,8 +343,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-cm-samrat-choudhary-suspends-15-officials-over-neglige",
-      "headline": "Bihar CM Samrat Choudhary Suspends 15 Officials Over Negligence And Delays In Public Grievance Redressal Under - Free Press Journal",
+      "id": "bihar-to-set-up-disaster-response-mitigation-funds-for-2026-",
+      "headline": "Bihar to set up disaster response, mitigation funds for 2026-31 with 75:25 Centre-state sharing - ET Government",
       "summary": "",
       "date": "2026-11-10",
       "topics": [
@@ -374,36 +352,21 @@
       ],
       "sources": [
         {
-          "outlet": "The New Indian Express",
+          "outlet": "ET Government",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNanRES0s1RmZUUXpqODktblFfcVdBZ0tnWjZtWjZ6U29aVEZVMUMtVzA2VnNMUFp6NUoxQ1FMOG5NRFgyeDFpM1ZodnNCck1aQ1RkQnlJOGZRYkVPTmxCb1dYaXdUUHZXdm5BVE5Ld1BRdVNrSS1fZGlZb2NhcjJWMmlsakxUdzlVaUNIaWF5ekFLaU5fVTQ0ZmpHVG1qVjJwZmc4YjNac2hjZ29GS2pHamxEUkdIVE40T2R6aHdTV3c5aVpiWGZXVzltNFFyZFREdngxbEprQ01aOEswR2N6cE130gHvAUFVX3lxTE03Z0N3YzBpWjhJQ1M2ZDNMa0xJdjdLb2MxZmMwT0lUOFdmRDBSTlpaakFOZEJxM0RBYXNSOXdkUFMzakdMUVViSmZJNXFaVGttTFFoTFAwVjFVYVVIbHY4VjN6ZmpuZVBvNFUxaTZONUJ0THhHVENIRm5UNEg0b1FWaGRxMnRvaGJmMm5VbUFxVlRHd01jRVVLejA2RndIQUdQTUVyYVRfYVhKaFV1UGNRY1BHZ0l1NUZqemZJekF6WkVyMl84VW9kN0ktS0pyNFpoZGlVVXBsN3B0bFk0MHcxNVk5WGc1THJQWm9odC13?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTlU0R1hZcVllMzdDd1NncTlGejZleTdja2xtbTN0NFR4WWVrRU1GbWJqVjAwR21UcUVNX19BdWVjTmY5dFBfRGJ2R09pbk5ZS1N3Z2RJRGZ5WnNycTJ2ZDJwejZYV05uM21KWDFMRkdwNFVvU2tNVVB1YndVcnNYX00zWktxZy15T3dXQkw3VThXNzVvWWY0UUZDRmYyUi1LdEprSzA4QjIyOG5xakhsOTZ0bnFaV3JqaTNLaUhHRXZIWlNIT2tvRzBQQVJ0eWlsYnc0by15Sy1PbHA2aU14YndRTXI0Nmt1cER3Wi1PS3dxUTdy0gH6AUFVX3lxTFBCNjBTMHgzM2lDRzVqd1I3M1hXZzlTTjcyRGE5QWUwWXZmQ3BNQ01yT3ZpQjV2OVc1TS1reURsRlRobmhVc0JjNmMzeHBPT3ZOMTgxazZoaFR6T0VHWEx0dzJmc2YtaWo2RTNZWmVmR2puRDQ5SElwSXNnQldFemhsenZKT2swYjFYSlB5RF8wNVBmcnhUaW1BZ3FFU0xla2hRN3VSSkZXWWswM3RpbksxYjQ2R29vXzdXVHlRaXZfMG44YnFwTU1rUzBtMy11Q0ZCOHVSdDdsZWFNZ1pJalp6dHRQVFhTeloyZ2ZwWW5UaGtBQlVyQ0UxN2c?oc=5"
         },
         {
-          "outlet": "Free Press Journal",
+          "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa3gycHhpZ1lFQ0FfMDFTUHYtd0tXTjgtTkVmcmVVdjhRd21jb1d6OU1pWnpLUmRBaGpNUUh4Q3gzX3N6SG01dmRHNUkxcGNjaGxxZ25RMXhuR0t0NUlVLVFkX08yTjFxZVA3R1ZYTWs3cUdwU01ZeFZWanRRcTVLVS1BWVdLNE1KcnR6dV8zRHZMdXdQR3k0REhsV09EVUh2MmV2bEo5V0V3aFJOb2lLTEI3b0p6SlNuM1lHQ1FoN3BiUFA3OVhLanQ2X1ZkR01oRjBNRVZoZXVkU0QtTmJtanZ1U1RGX0tBQm05a3MyY1o1ZTJWbnfSAfsBQVVfeXFMTy03UE9nX2QxMFp5R20zZ0QyZnRlX3QzSUtxeDNTMkkxZkVCdHdQZ2ZlbzNuc1lOcERscXIzNDY0SkRJSnF2My1aTVhpaUd4NllzR1N3aHJaZkk0VGJ6UmkwNDdPa0NmV01GNVRkNWRfajVaMW8yZ09pTUxSejdHWWhMNFNjTW5md0x3bzV2cDYtOXd2R3lVanJDaS11a2pkMHV5bS1ycFBacjNYeGxvazBwemdyNzE1eEktaWc4bjhmUXJhUkRLdXNzQnFsRFFxSkFRZWlKZlFXWUhmYlIya3g1UkcxcFhYeXljR1lVN3FMdVljVlBmdUdTMlE?oc=5"
-        },
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1NyUkNGX2xacG9Ua2w1MzkzbS1QejZPSHhkeldQSkprOU5xMXhubDhIVFFMRjBxeUUxRGdXZFdHUFhrVUJRMExtS2xKMHU4VENHc3JVd1dvLWRkRTBDM2liVGhTc25xZkJHMlVRZUF3TTBBQjVKa0V5cDVsSUtFa1ZteHY1TllmNG5hYV9yTjNrVlVFRnZnTktxakxzWXBPVHBnWFAwSzE2UEwtYUdESWtELU5QY0VxSlhvMzZTbEhwZmZrYWVuRtIBzgFBVV95cUxNOFdsR2F0VUk2WWZqQUV6TnY5Y2phanZPTGl3UWFnTUdjWnlncTNzRmpJR0MwYXJWSXI3N1Juakd3YnJFWXJGcmc4UFBkNVpqbzVWcjVyZ19ZMnZQaUxsbFNHamtaTTBqWm1QY2ZNZGJMREVUTEZTbXd1ZXVSb2VBTE95YkcyOXJSYUQ5Z1R0eTBWWWlyZ3F1U3ZtYzNHOTF3TVpwMXA0UnFrV0FwRXkxYW95cl85UEhBeE9adF9vcDRYQVdpSWZVQkRacTVydw?oc=5"
-        },
-        {
-          "outlet": "The Statesman",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZE0yY3dXbjlTRVZMT1NOd1VDZS1SNmtPQmw5U2JaUGlGMXcyczdtTUJMX1dHN1pFbHJRWHF3bTNkSW9mdjRjYVdKT0ZuMm9CdUhqZjVkdmdTMGRwTEU4aDhhdGhEajRreTZmaE9ybFgtV0htYzFNWDAweE8wMllkUHJianotMk96NnJQQ2R2TVhoNWw0QVROY1pFakp1dFJQbDAzdnByZXpXQkM5X1VRVWxGLU5Ddk3SAbwBQVVfeXFMTlJlZDhKSjc4VlBZam8xS3BYa1pwaThvcFFUQm9ncjJDZ0NNa3JZT2ROUjBiLXdrWGFmeWdxUGEtbzhmN3pvdVg3TjNYWUpGYmhSNjdPQ0pWU1A5MEcyYWQyb0VKREN5OWtiQ3pjbWY5UHFBV2VoUHFCaHpHNUp3SzdsOXBGamxhc1pNX0pLTUNOVkxNeUtkb2FjT0lxNXNRMXFkdjJfckJTcU4xb1J0RjBtUENwYjZ0c0NIV2E?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3N4UTN1cXBheG8yS0xMUTBIM2dCVnBQS205cXl0d0o2MGphOHFDdjBfRHJBVEFRc192Z3lZTXEyV1U4MEwwdi1uLVRkRWZHOEROSlExUUM5ODcxcnhOR2VYejNZY0NMSU55TktWeVdwaUxUb1dyRXJWTFZNSFNEYmtVMTJuUFozdWUtR3hPNk4xMlJkcVFwOFd5SQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXF1aW0wOHNNUU5MR1JoTGVGVEpmY0J1aG4zS1h2eVdNZ2czVU0xQ1BGbjUyOVR5S1pwaW9uX3hpeWs0NmtTajZwTlhjU0FjbGRFcTN6UlZXYk5mZnRzeTBjb2NzVlpaeGhQV1o5a1ZNX0NHMXZIaHlXOGttMFl5NndabnZFODVoODBoOE9Nam8zNGZaX25naEJlZ040cE1jNWo4S3ZaanRTOHRTNEpwWHN2Tk11cGRiT0t0Ymw0bHJMUUowWW5Z0gHMAUFVX3lxTE9MamVCX3FBTzMtZ2M4U3hkUDBLR2lHc2VQT2ZjZlZjeFI3YkJ4dm9KakRyOW1hMEd2dk1qUWkzZ0w3N1N0TWlQUS1KMHNtMVdsT1ZIeklsV2VYTlJvS251bUwzZ284eHdiWlRqeDFBM1RJR1ZyNVVQZEJNSTU2V1gwelBnX2NiUVBITnBycVprLU1yRGNWT0ViR2VkRG5LbG54a3luTGVqMjlZSUczMXZMbXh1RnQ3UHZ1eXlISzljOVB0TktEcTAtUk9TMw?oc=5"
         }
       ],
-      "source_count": 5,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar CM Samrat Choudhary Suspends 15 Officials Over Negligence And Delays In Public Grievance Redressal Under. Covered by 5 outlets, including The New Indian Express and Free Press Journal.",
-      "image": "images/bihar-cm-samrat-choudhary-suspends-15-officials-over-neglige.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar to set up disaster response, mitigation funds for 2026-31 with 75:25 Centre-state sharing. Covered by ET Government and ThePrint.",
+      "image": "images/bihar-to-set-up-disaster-response-mitigation-funds-for-2026-.jpg",
       "image_kind": "photo"
     },
     {
@@ -470,11 +433,6 @@
       ],
       "sources": [
         {
-          "outlet": "Vartha Bharati",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFpJclpSY1A0VDFxSHByZmNvTEcyaVNXYVNqS2V0dGR2Ulp1SndFWkFPdXNVUVNlZHprMjkwYV9FUWQ0bGVhZVdaRHZtSFAtaXBfUnE3a3hSTlRjaThsaG9FOVFYWFB5d2V1OWk4RkpndEFnVjlYeVpEQXBwQTViVU1LSjQxeHFGdGVLVTRKbjlmTWVsZUU2RUJweS01OFRFaUhicG9oMHBoSEJpeUlseUU1TmJUaWtSRmp5ZDVyWVhQbGtfaEItSlE5a1V0cEc4T2w3VQ?oc=5"
-        },
-        {
           "outlet": "Mathrubhumi English",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzBpRTRHenhma2ptWk1ha3pRQkswcEU4cTBUa0hWbTJYeEIzYlFrMWxrZ0tfX1otWVNyUjZDV09xWF83QUpGQWNWWlNrc0t5Ml9NaDBFcUo1UERxcWxTWHJ3VlVrQ1c5SFVVM1k4NjV3V1A5VXZ4WmhJdmdkZS1VMW0zQWJPS20zMFJKZmkycjdkLVVMaUduSmgxTTg0RTZS0gGmAUFVX3lxTFAwaFZIWmhCbi1tTnZsNS1RM2xEOU9oYTlOVWQ0d19fdTdzYi0tWG5iNG0xZUl2b2M2WDFzTjJibHcwakFtV21FbmFDc2pMcGJtVmlCV1hncXdONjR1eWo4YVlPdGN0Y0UtWUhMRUNkMmZYTWJnWGJrRXBGWHlqcWQ0ek5XOVRuWlc0YkxHdUI5WS1heFJsMFdJY2c1V3RYdUhEODBiOVE?oc=5"
@@ -490,11 +448,43 @@
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOamFhMWJKVG9DdVFKV0tJcWJENmhJRnVpVEg5VjhyUHA3M2VocU10STltbFA2REtla01zMUlqX0ZDODBaOTV5aG1EZUlVcVB2Y0ZxeGo4S1hsVlJjNGtkZGRYRER6aW5mc2xhTjl4eHRleXVWdmF0UktNYVFVZlFLaFh0dzZQMldHeXVLZklfRkF3dnFlRV9HVm93Z2Z3RVhFbXBWMkZ4UEpqdVczZm44LW1qLTd4aEVSaVJvOUhHNVZqbUxEYnMwVU9YVm1XZk1DNTVEZndmUFg4NGgwVDJHc2dUSlZRdWpVZWs5VW1Ea1RJNEVIaTh0b1JaRVdPNTZIZDNORzZENjE5Q3R2?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "\"RSS, BJP owe nation some answers\": Priyank Kharge on cartridges seized from people resembling Swayamsevaks in Bihar, Haryana. A politics-related story. Covered by 4 outlets, including Vartha Bharati and Mathrubhumi English.",
+      "brief": "\"RSS, BJP owe nation some answers\": Priyank Kharge on cartridges seized from people resembling Swayamsevaks in Bihar, Haryana. A politics-related story. Covered by 3 outlets, including Mathrubhumi English and The News Mill.",
       "image": "images/rss-bjp-owe-nation-some-answers-priyank-kharge-on-cartridges.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-cm-samrat-choudhary-suspends-15-officials-over-sahyog-",
+      "headline": "Bihar CM Samrat Choudhary Suspends 15 Officials Over Sahyog Negligence - Asianet Newsable",
+      "summary": "",
+      "date": "2026-11-10",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Statesman",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZE0yY3dXbjlTRVZMT1NOd1VDZS1SNmtPQmw5U2JaUGlGMXcyczdtTUJMX1dHN1pFbHJRWHF3bTNkSW9mdjRjYVdKT0ZuMm9CdUhqZjVkdmdTMGRwTEU4aDhhdGhEajRreTZmaE9ybFgtV0htYzFNWDAweE8wMllkUHJianotMk96NnJQQ2R2TVhoNWw0QVROY1pFakp1dFJQbDAzdnByZXpXQkM5X1VRVWxGLU5Ddk3SAbwBQVVfeXFMTlJlZDhKSjc4VlBZam8xS3BYa1pwaThvcFFUQm9ncjJDZ0NNa3JZT2ROUjBiLXdrWGFmeWdxUGEtbzhmN3pvdVg3TjNYWUpGYmhSNjdPQ0pWU1A5MEcyYWQyb0VKREN5OWtiQ3pjbWY5UHFBV2VoUHFCaHpHNUp3SzdsOXBGamxhc1pNX0pLTUNOVkxNeUtkb2FjT0lxNXNRMXFkdjJfckJTcU4xb1J0RjBtUENwYjZ0c0NIV2E?oc=5"
+        },
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1NyUkNGX2xacG9Ua2w1MzkzbS1QejZPSHhkeldQSkprOU5xMXhubDhIVFFMRjBxeUUxRGdXZFdHUFhrVUJRMExtS2xKMHU4VENHc3JVd1dvLWRkRTBDM2liVGhTc25xZkJHMlVRZUF3TTBBQjVKa0V5cDVsSUtFa1ZteHY1TllmNG5hYV9yTjNrVlVFRnZnTktxakxzWXBPVHBnWFAwSzE2UEwtYUdESWtELU5QY0VxSlhvMzZTbEhwZmZrYWVuRtIBzgFBVV95cUxNOFdsR2F0VUk2WWZqQUV6TnY5Y2phanZPTGl3UWFnTUdjWnlncTNzRmpJR0MwYXJWSXI3N1Juakd3YnJFWXJGcmc4UFBkNVpqbzVWcjVyZ19ZMnZQaUxsbFNHamtaTTBqWm1QY2ZNZGJMREVUTEZTbXd1ZXVSb2VBTE95YkcyOXJSYUQ5Z1R0eTBWWWlyZ3F1U3ZtYzNHOTF3TVpwMXA0UnFrV0FwRXkxYW95cl85UEhBeE9adF9vcDRYQVdpSWZVQkRacTVydw?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3N4UTN1cXBheG8yS0xMUTBIM2dCVnBQS205cXl0d0o2MGphOHFDdjBfRHJBVEFRc192Z3lZTXEyV1U4MEwwdi1uLVRkRWZHOEROSlExUUM5ODcxcnhOR2VYejNZY0NMSU55TktWeVdwaUxUb1dyRXJWTFZNSFNEYmtVMTJuUFozdWUtR3hPNk4xMlJkcVFwOFd5SQ?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar CM Samrat Choudhary Suspends 15 Officials Over Sahyog Negligence. Covered by 3 outlets, including The Statesman and Asianet Newsable.",
+      "image": "images/bihar-cm-samrat-choudhary-suspends-15-officials-over-sahyog-.jpg",
       "image_kind": "photo"
     },
     {
@@ -656,9 +646,9 @@
       ],
       "sources": [
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Amar Ujala",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORnR4cEJrWHc1WHFISmRXX0dYQ1NqWDBSMkhIc0FaeGRXcG9sdkdpMlpMeWhTSnY0VEJzbzg1Rlk2bVZrQ3UyNkZnTHk5SVJkeFN0ZEY4bjZkYjBjbHF1QTBMRWpsaTBkX2hXTU9VZnhocVJySnczbjRISHVKWlNOTmFyNzdBRlpJWDVWOVRkejNTSEI2STBLdFAxaWlSZDVOdXF1Q3M5eDlYM1hZblh4alllbUk3S190Qk8wQlUwNlIwWlYxd0pV0gHMAUFVX3lxTE5lUjVjYjRjb3VXVHpneUhCSFBhdDZWS0ZITXI2V0lTb3g5eUpaLUlacTM3LXRUSnl3S25Mckt4bTg2eEVYZkstTnYxUnpHS2NaUk9ZVk1aNjNvMFNIY01GVnY2ZWFENzV2QW1LVUFjWkdRNmE1alM5R2N3REFMcDhHckR0R2twVnVRRVNfZ2pnLWFFTGVMdEhxM05jRTJrS1dKU2kwTGdCSUtMc05jdkpUUktpalVrVXg1OVNpVUlfdmd3b2RWTUhrSjJNXw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZNT1RnVEtJSExIRXlBS0x0ajA1MkVhX1RQa0xKSTJUNktQOUZxY1ZrQW9hSDFEN1JRS3FYN2pLWEpBNjAyazZTaGE1N1ZQSjJXY25fanZ4NzdNb1JpV3BsTFRObnlnRjYwLXZXY0JKeW9XTDRkZzJONzhHcEtlYnRoT0p4aVhHQkFZN3JrLTl4aTRwMzdyT191cEtpTDhZRGpqX1RxSHQzZVVwa3UzVVhjUV9wZlRFVVRqNHhaTHU3N2JhZDNKSFRaM3pPN0t2eC1zd2xOYVp6WDNxRk1kLW5qTUs1Z9IB6wFBVV95cUxQTExHaDU3Z3BsN3VRRk53SFhEclhJMk5pd1JsUXhEZDdVT3pSUlZNNWQ2MUNVN3h3ZEhGU3lpWGx6cWloVTlYeFJrdWFXb0RBYnZDekUxR3NJWFk1OWk4RXB3RlRDTFNRRURpTnI4MG0yZi05QkNWc1J2QUxRZDc4V1hPSk9oMVJ1aXRIMnk2Z3g1VThhdjJlUVpHa2JHUUpxTzYxTXFCYUdlQThiYUtKUXZZam1weVZjaDk5QXMwTFJNeklCdzZySUdNdE42QnhfdzJrWmVBTC1vWWd0cHozaW10R2kyMmk4QUs4?oc=5"
         },
         {
           "outlet": "Jagran",
@@ -666,24 +656,14 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGxSUHhJVUYyZGFNZ2xoV0lMSEhjdmlOZndBOHB6dG43X21ObXpIWkZTX1BZSV9RZ1laVTdpUmFReHZGM3N5R0pNQTl2MXZDdWloX1RKclp3NGZKMDNhWGtCdVA0TE1yVXJuV0I3QmFtdTA4TmlhT1NVX293eGw3TFJVWjdWR0Q5MWJLeDZORUVGcUV3RkFKSDdKMnJsd09YTTZYb0Y0bTR5WjNWWU9qa0NnSkIxeE1kQ0E?oc=5"
         },
         {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZNT1RnVEtJSExIRXlBS0x0ajA1MkVhX1RQa0xKSTJUNktQOUZxY1ZrQW9hSDFEN1JRS3FYN2pLWEpBNjAyazZTaGE1N1ZQSjJXY25fanZ4NzdNb1JpV3BsTFRObnlnRjYwLXZXY0JKeW9XTDRkZzJONzhHcEtlYnRoT0p4aVhHQkFZN3JrLTl4aTRwMzdyT191cEtpTDhZRGpqX1RxSHQzZVVwa3UzVVhjUV9wZlRFVVRqNHhaTHU3N2JhZDNKSFRaM3pPN0t2eC1zd2xOYVp6WDNxRk1kLW5qTUs1Z9IB6wFBVV95cUxQTExHaDU3Z3BsN3VRRk53SFhEclhJMk5pd1JsUXhEZDdVT3pSUlZNNWQ2MUNVN3h3ZEhGU3lpWGx6cWloVTlYeFJrdWFXb0RBYnZDekUxR3NJWFk1OWk4RXB3RlRDTFNRRURpTnI4MG0yZi05QkNWc1J2QUxRZDc4V1hPSk9oMVJ1aXRIMnk2Z3g1VThhdjJlUVpHa2JHUUpxTzYxTXFCYUdlQThiYUtKUXZZam1weVZjaDk5QXMwTFJNeklCdzZySUdNdE42QnhfdzJrWmVBTC1vWWd0cHozaW10R2kyMmk4QUs4?oc=5"
-        },
-        {
           "outlet": "Zee Business",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZHphRHpmdU9QUkw1Q2VXVmVjTUlTRFpEVFlFT2tsZEFJWVRsOE16WXJRRUdPM2JxUW1uSFRrUlVMLWFpRFNxYUNFWm9GRklKN0RHSjRNNHNNYm5QeWhRd2pUYlNQMjUxQTRSX3JfSlZjVUNscFlSZTdPN2FmUzIwemRzR0hxNnFKTzVJMDBlUElJMHZ0WGs3S19QNjFvTGwtZ3B2SnhJZXd5S1RqUFNtaDZzMnJsUUMtV05vMVFTZk01eEFJa0hpRm9ydHluSmdkbzdta1ZIanNDR2FYR0p2T3VIRXh0V3BQZnM2NWpHaTNxRktkTlRVZzBvbjhkWkJUSWlWWmxrMDN1Y2hJaGdGMw?oc=5"
         },
         {
-          "outlet": "News18 Hindi",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTZRaTQ2ZXpkaHZBel9tdEZmQnJJa2RHa2x2bEN6eF9RVW55cGFpREVhT29uZ2E0QWttcHZfR2pWNmVxa2NHUzJQV0ozZWVfWVVmQnNkZVpLQjRqSVV6ekVtMGFKUnVvaGh0YnA3Z1pUb0RqVzJWRG5Sa0hhaVlYTFFicS13RDdKQnZWWGZCUzRWenllNVQ3c0FicFFieEwycUg5d0Z5UjRWbFZreUE1enl1OWxPWXNoVWJnZmdxdkl5bkZnUWFTQXRpaWphUmFuNUN0WURRRnlncmlMZGfSAeMBQVVfeXFMTTFmV2k1Y3lvdGRMWHkyZHZKX19ReXZORnRYRm15ZmtaU01saTJ3N2VSVHo2ZXJNU2dlX2EzbXZYb0RXOXo1WGQxU1NPMzc2S29BYVRlS3lKUGZVRkpMUzUyLUxueG1HZ3gwaURuNWNJLTM3eDJZZWFVOFg1eER3aU1CaDRyOE91QlZlc05Ubjd2M2sxYjFkVGowRDFvV3hpVUZUWVFUaFVkYWgyMTNVbFNDWWhjQnhlX0gtZmRNUFltejJKOF8xQ1hIMElfT25HX21QX0RQLW5RX2dyRExtcHp3SEk?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1Nkc1duQzN4aGs1aVdpZFRZM2ZaRWxpNkJueGJoMG85dVdUS1RRWEJQY2FvNVQ3blVuMnYxQ0c2NjdiSkhjZ3BxU1U4UE81YVliTTVNSnQ1YlhSaktmRDBFR1p4M05XU0NZeGQyTlR2dXlIcVJBdkwwa1luR1ZPNTdkbGhqTEZVdTFVQi1XMGswdWJuZFZZZXlLVVhUU05KSFMxdjQtaDJoSE9TMVducXRLX3RQek05dkxvUHlCMl9CTVnSAcgBQVVfeXFMTzVYbTRsNnRCdFAxS1BDYlk0cGJUb3FXSlA0dmVabjNRSFBRNHktZzVibVJST0x5YjRZVE93STRRdThqVFlYRE9CUUN2Uy15dXlGSGFsUnVoMTdlN2RuMUxrRktVekE1WHRIQjlkWWloZnBfTEVQRW44Q1hMMDBiRndQUHR6bllMMmtid2pQUVVHYVlkQWU3dVBDSS1BZFpsTkJNMExlZ2Ytck9RbWZ2X0ZvOWlUVTVVa2JWZk9PSzhUaWtxdVFNMFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORnR4cEJrWHc1WHFISmRXX0dYQ1NqWDBSMkhIc0FaeGRXcG9sdkdpMlpMeWhTSnY0VEJzbzg1Rlk2bVZrQ3UyNkZnTHk5SVJkeFN0ZEY4bjZkYjBjbHF1QTBMRWpsaTBkX2hXTU9VZnhocVJySnczbjRISHVKWlNOTmFyNzdBRlpJWDVWOVRkejNTSEI2STBLdFAxaWlSZDVOdXF1Q3M5eDlYM1hZblh4alllbUk3S190Qk8wQlUwNlIwWlYxd0pV0gHMAUFVX3lxTE5lUjVjYjRjb3VXVHpneUhCSFBhdDZWS0ZITXI2V0lTb3g5eUpaLUlacTM3LXRUSnl3S25Mckt4bTg2eEVYZkstTnYxUnpHS2NaUk9ZVk1aNjNvMFNIY01GVnY2ZWFENzV2QW1LVUFjWkdRNmE1alM5R2N3REFMcDhHckR0R2twVnVRRVNfZ2pnLWFFTGVMdEhxM05jRTJrS1dKU2kwTGdCSUtMc05jdkpUUktpalVrVXg1OVNpVUlfdmd3b2RWTUhrSjJNXw?oc=5"
         },
         {
           "outlet": "ABP News",
@@ -694,17 +674,12 @@
           "outlet": "NDTV India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU19oU0hBRnFSWGRXbTRLa2lJOHBoMXdBWW9ralkzSWFOaVNtNzBfMXZ3czNnMjF6WGNZZGoxbk9felUxbVJvX2lVNVhTWjRaUkFNejlRTlk4TlhpZklpSm5xN0ltd1JYWTF0SGttZGxKTWtXNkpXdVlBYkhwemZTNENHVTJ5dTRFZjFlOUg4TjNpRmtqdTVTQXM3QWluZ19GcWJsZlVOWm4tUDl2QmFUTWZJaGZ0ODlPY3hlWDZiRQ?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWE5ESTUtS2phN0FjOUVZRjVqT180UFg3NzNoZFUxc0YyWmN2YkhKVGNXRE9GYzlwemtDdjIwN1JLeS1VQ1F5b29ELVFWRkItTjJ4WVBXcklBVTFzYXFxWkhjNWxSOVFqbTNTTVhmZ3F5dW5ITnFGTHdHV19Teml2Ry1yZ3V3NGhmdDBMbXppaUxTQ0hPT2RYcVNLbUxIMm8tdl83OXhiS3FZNnNzWFdpOUJ5bzA1clFuNzBROUd5X1dlZlJIWE5pQzFaYUpXV3PSAdQBQVVfeXFMTTlQMWRaMVp3LTlha2NUbHRPUHhyeVRhZHY1X09XSVV2R2N6dE1tZjZUTTluRGNteWxGeWlhdjJ4V1NRNkUyZTY4b0liWVhOUmdndWR5cnBTb3o0bG5WMTdSV19SMFRuYmVRek1wOW5pX0xrRnVZUFo5Tkl2QjVjMmEyd09tNmZlOF9GZWxYaDRUYmtiWEhSckFQOS0zUDVKbUFHR1cxVVFDc050WktsTHRydlpfdklJTXNzclZ1VnUwM0RsbWNqQ0w0c09URDRQQjhoSXk?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार में पहली बार पटना नगर निगम के ₹200 करोड़ के म्यूनिसिपल बॉन्ड की NSE में लिस्टिंग, मुख्यमंत्री ने बेल सेरेमनी कर किया शुभारंभ। इसे 8 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और Jagran शामिल हैं।",
+      "brief": "बिहार में पहली बार पटना नगर निगम के ₹200 करोड़ के म्यूनिसिपल बॉन्ड की NSE में लिस्टिंग, मुख्यमंत्री ने बेल सेरेमनी कर किया शुभारंभ। इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें Amar Ujala और Jagran शामिल हैं।",
       "image": "images/200-nse-zee-business.jpg",
       "image_kind": "photo"
     },
@@ -763,6 +738,34 @@
       "image_kind": "photo"
     },
     {
+      "id": "tejashwi-slams-pm-modi-s-bihar-visit-says-he-should-have-com",
+      "headline": "Tejashwi slams PM Modi's Bihar visit, says he should have come during September floods - The New Indian Express",
+      "summary": "",
+      "date": "2026-11-09",
+      "topics": [
+        "politics",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0c3Mmc5TkZ2VkFWSmo0QkpybkVLOTc5dFkwOHRpaTdJNXF2YmZIS0t0TnhWWXhBWmRoNk0zVnl6S2NFekNLbjdiUWVjdUl3cU1Eeng4M0NBUk02TmVDQWVQaVVYQnNRaHhSMmVrQ3BONlo0c2lPUURTYmVjUkZ1ODg3NFJ5MzlZME9JeW8xWkhyS2kwbmVhQ2RiaUV6V0lDT1VXVFExYlYzeU9fdHUxZGE1WHY5QdIBuwFBVV95cUxORUNNT1padTNXNzhCUThERVhGb2IyNHU2MUZBS29ndjJWQmhESG44Wjk0Q2xJZ2tUSDBGQmUzX1I0MjEwZ055eWxXU0Fha3VqeWxXT3BtNG03dVA5QjE3VEt2WEJZbEdENWY4R3VDcjFLdlVpVjg5emZ6cWVoVUU0bGptYlMtMzJsZTBPc0JSN1phcXBEUTZ1QldfQ2lMN0MxZXlNN25PcDM5Q0hzeV82RUdpV2RvRmI2cG5z?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcmhmc19Sc3lieWZNdWN5UTE0NGRSZWVQSVdKUGF1T2tVcG43aXJ3ZXNPeFpoTVhBNnNWNWc5ck42ZDdLcEZqZ3YyanZPa21RTm9RX05Uam5uTHNzb05sY1ZBQjc4VDQyT2RGWWhXdmxBczE1eXpwNUxtcDBJT1lpdktFcmE0Q2dlVjJ3d0VIbm5lRUZ3ak5Kc1BLREFVT18zcE55V0QtSGVwYkR3bFJHYjB1cnZaVGt3dkhvc3N0OUYwUEg0U01tVHA3Y2lNVnpHVEJ1UmZFU2N6Z9IB5wFBVV95cUxNYmlzWmtIblFjWVM4THlFS1JzdkRLQU5fRHp2bzVTY2R6WWdJUlEwWG5WWnBZaTJlb3FhTjFJMVI2anIydG13dHdiYjljZUdCaVFPaTNudEtKb2t3Z1NOMDRkMl9FVUtXM0d3eENYTTlBTXo2VHZtR1EyU2VGMVE4Z2pqWnJ1cUEtbS1YNjlkdG9Qb0ZJUnM4Vkktb0lPcUt6M3UxLTNBMjdXN0VWUFFFcVNUbmw1MFRGV3cyYzdWOHFqa3ExNHp2RXlaTXJqWlFzRGtIQTFLRXRySGV2Rkd0TmlPNW5lRVU?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Tejashwi slams PM Modi's Bihar visit, says he should have come during September floods. A politics-related story. Covered by ThePrint and The New Indian Express.",
+      "image": "images/tejashwi-slams-pm-modi-s-bihar-visit-says-he-should-have-com.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "named-captain-sooryavanshi-will-lead-bihar-in-only-one-smat-",
       "headline": "Named captain, Sooryavanshi will lead Bihar in only one SMAT game - Cricbuzz",
       "summary": "",
@@ -792,33 +795,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Named captain, Sooryavanshi will lead Bihar in only one SMAT game. Covered by Cricbuzz and Cricinfo.",
       "image": "images/named-captain-sooryavanshi-will-lead-bihar-in-only-one-smat-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "three-wanted-criminals-in-pacs-chairman-s-murder-killed-in-p",
-      "headline": "Three wanted criminals in PACS chairman's murder killed in police encounter in Patna - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-06",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmY1QmdvUU1TVjVtSXpkQ29CTmhseDFWMS1zOGVXYVRsMDRPNloyTVNWUHRFSURhQVdKUTVsbjl2V2FhQ1BYNHlSRXBIb1JUNkZ3VWJCTEE3MnRJUnZCUllldnhlUG4wRVdwSW1qbjFVams3b19jbmdrTTJLQ1RaSENZdnZIRkNoUTlrdTUta1dkUC1RaHFWZkdId2JualdwMlJzazQzWGI3LVlieHUySnZQUEVMY2pKbDZZREN5cVMtRkMyVi1VdlhhZEFlQWNCLThUdWVaZWU0YkwtQ0d6ZHBOTTRyY0FJ0gHvAUFVX3lxTE4wcnpSRThPYjl2OV9kMDI4VTN6UzRmdnNTT0pRdl8tcE1Wc3d3TUNYRGJQT2xxejVvQkRFd1Vna0lrMk1QWklKTDZBM1hrc1VHNUZQejBlRFRMZzkwQ0tjU2cyTDVTakpiem9WaXpuUWdBSXpKM29iQ1ZtY0tDYzRwRXlhSGp0Tm1zWlVqeXh0c1BlYmpnMUVsTVhqMFMtMTBycDlQNmk3eEI0bDA4U1JlSGY0MzJmZGFpRXdXdkdONmFYQ01nVk5xWHplc1ZlMVhXNlhqQUhJdmMxeGtaeU9pNHFha0hXaVQ0Z2tCbEdv?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYmRDakNvNXRWdmZyNmZ2aGlfREZPa19BNGFRSDVnS1BTVlIyVFZnN3VIb21ZaGVoOWhmSFhpZHBZYTIxQ0g0RE52UzdxenQxVF85X2ZEbjdVajhiVWVYOW0yOTZaT2NuQmcwQlpVVW12MDhRaVFBZmhIUVd0bUVWbnBlZVI4akhrUTVZQVFFMkphTzBGdXNWSGJFdHRTRjIxaHRHbDN1TlVKclNKRk9YT29FbkxqUk1hdHZSSlhidGZKakZtNko2dlVpRVpCaHB4N1hTQ1VoZ2HSAeYBQVVfeXFMTmFZZmg1UnFIRFptVzY3aDRIdy00dkMxS29MeE1veVpoeWNFdTVpM1lGNXRkMFNLaU5KZlFSQkJVYzVQMWlSVXAwN1A3eFJfSEFJeThBa3h5Y0VhOEYybmdPTHpYZkJFTnhlMU1MZXU3c2w1R0FGVGxSeXBUNF9aUFBEMVROYVppQjdLelkySTFDcldKOUItaWFTUTM0OS1tUWNhQnlOWFRyZmtYTW00THVwWjZQUHBhYUxJSWxhVF9XWVI4UEo0Q3pqVUVDRFdWU0NmMlRlamJjbTdLNURJWmduejdYeFE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Three wanted criminals in PACS chairman's murder killed in police encounter in Patna. A crime-related story. Covered by The Hindu and The New Indian Express.",
-      "image": "images/three-wanted-criminals-in-pacs-chairman-s-murder-killed-in-p.jpg",
       "image_kind": "photo"
     },
     {
