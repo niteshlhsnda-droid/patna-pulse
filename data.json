@@ -1,36 +1,9 @@
 {
-  "generated_at": "2026-11-10 09:54 UTC",
-  "generated_at_ist": "10 Nov 2026, 03:24 PM IST",
+  "generated_at": "2026-11-10 10:54 UTC",
+  "generated_at_ist": "10 Nov 2026, 04:24 PM IST",
   "story_count": 56,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
-    {
-      "id": "patna-high-court-pil-challenges-deepak-prakash-s-nomination-",
-      "headline": "Patna High Court PIL\nchallenges Deepak Prakash's nomination as MLC - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORnBMMlVoMnQwT096UF83eFFCak43Skx5QVd5aXQ2TXliTnI3U3N4eUp5ampfSlhaQUlZWE9GQVduSXRZQy1mZldhVmxDdHBoZ2RmRXBhS2VmUzhfb3A5anZZcjMxQkM1RWQ1bkhMM29Ba3ZmQ2tfUjJtTGNVWXBpd1BodTVaUEh1eS1MX3lMQlhQRVpZTG5tY0I2MkUzVWxXakRyZGZHQ0VqWXI5SGh1QUpWbG16WU5uUlBTb1BtONIBzAFBVV95cUxQMVA4SERyMnZEMXpaMGNnaXhWWThwak9fdGRza0ZtVVVkVDNORFlVLXZiOVRyUDYxWWZTODRjSEMyOFBxbmNOWHR3cDlmVW1uc3Bnajc4d2ItRFl4YVloT2NYOHdTcWJKYnpTMGhoYWhOS3plVkxKUFAyb2EzWUoyM1BpNWJLRGNOM1d4WU40UktYMFJTcmZEeFp6bzA3bEFfM19JdzBqMmthRkM0VEZaRW9IaXlfOW1JaWFBbFlFb2pXVnp4VWJPNGFNbmQ?oc=5"
-        },
-        {
-          "outlet": "Live Law",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTZRbFVQd09ITnBQbldINlpVQVd1bHVvYVlpaFpUZHBvZXVYU2gyOFhzcUhIZm9NTmFIa1JmWXdHUERtNFdFS3VZQ09JTTFnMG9fR0VxMDhWSXl3Vjk3TmxVWllFakpDekNIRWplb29CUHUxMWNvRnFlUVpwSkxBbEJxNDhtRjdfNkU0TmFaM2NOU3FfZEg2VEVEVFFGNFhjYTRZeVZmclFTRVNoTkZxYWxTMmhpYUZBRTJubFZB0gHDAUFVX3lxTFBqY3JDT092V2tfc2NqQVJPSFdOczRjSFFUMXhQREo1WTRfUnFYdzd1TnhPRHBYWlhCVFBLaTlablRjVlI4ZFhSTEU4aF9Vd3RtaHcwODEtbkpyWHhKODZUanZLVzJISmd2WjJva0FOenpWajMtNms5RkJJNnRGT3UtcFdmaVdlUllJNlVDRHZGM1BFcGhFVmd0UW5JcUNyOGZrWmc3RTI0N3lKVnhuTkRFc2piWmtOZTMxbDVqeG1mX0p5MA?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna High Court PIL\nchallenges Deepak Prakash's nomination as MLC. Covered by The New Indian Express and Live Law.",
-      "image": "images/patna-high-court-pil-challenges-deepak-prakash-s-nomination-.jpg",
-      "image_kind": "photo"
-    },
     {
       "id": "new-delhi-patna-vande-bharat-chair-car-costs-more-than-tejas",
       "headline": "New Delhi-Patna Vande Bharat chair car costs more than Tejas Rajdhani — But takes 90 minutes longer? - The Financial Express",
@@ -41,6 +14,16 @@
       ],
       "sources": [
         {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZGJpU3c5RkpITzVoU2pNdDR1NV9SNGEtVExrcVNnMzIweDF0V21GOTJNd1pJcGR1aHY5MGthc1NOdDlpcjRSTzhrVHFWVUVBN2E3U2xaT1p0UkhreVYySXNnWHdyQmdMLTd6S3Y4dFN3NldIRUh0N1l3OEsxZ2lNT0RwWXpfVXN5YVlSVDhRNjVlbEZmLXFVZ3pNazZrQTg3Vmp6M25ZLTlmbUZ1Rjg3X00yS3dnZndTcHFpS2tyN3NwWHRCR3dWNEFqRE1JX1Q5ZlZITG5DM1RYNlFLaEpKTFdyODlXeG5rd1VrU3JUakpkR01Lcm9SbkVXV0hqTWgtazUxNXFB0gGLAkFVX3lxTE05d3lKR3duNU1seGtudnNiS1N1dXFVSmdvUDFLbUtnQ2dfbmF5Z08taDZDVDQ1OVlZMERWNUhCSEVDZkYxTXVORE9ZOFdwclBTMGVNWWNBSG1IU0djdjZtZTBXcUVSRl9RZUg2ZURjMXlNbV81NnJ5ZUVMMzVaUDF1RnRwLTVISU51VWQ1TUZYVnVDZVAzcy1tWHVwU2JOZ210TjBROEdJZmpxUXFiUkpSVjFGUnBDd1lHaEFTekZBajFLRnVLTmZMRm1rNl9lQkVfWDJieXBnOUVXMEY4bnpyYlM1MjM5T1F6aWc5LUY2dGgyUTh5VWg4SWVYQ3VCdHA0a2xEMnBmZDJvWQ?oc=5"
+        },
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWlFtLVJqd2pDRi1BRDF2blZPQmtDQVR5RmpEME00VjRLWGZEbzZFVXM3TXhXR2JrMFEyM1V2N1VrV21QSWl6aTNsUnpkX08yUVVIaFV1c0RpSDBRUFppZGhxOTlHMlNHN29rTkZiQXVtTFFjRDYxMy1YaUpTd0xQcFJPTktiYXVuQ0hxYlJxMDNEbHZRb0dkUWtQQVV1Rm94V3FTQmhCY2FHV0HSAbIBQVVfeXFMTmlBSGtaSm5odjNNREZlYnFiNFZHSDVnQXhuVWZpSjdxMkI1aVNxZnd2N3Zwa3Nkdk1ZTlVPdEhULXJEQUY1c0t2T2tPaWJNWk1Ma3JIMk1ybXlSVmt1ZzMtVDlHaFFJNnZqUzNmSXlDbGpUelRqc1FLZkIzbEJwVDU2M0x6TS11SFk5aTJwY21IVVIzS2I2ZzBLcFI2ZlBTYVpoZTA4cWFETU9jZWYzMUNmUQ?oc=5"
+        },
+        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUl9DUmJYaERITjY2V3ZsS0NmUEduZm44MWhUMWFFUG1YVUJWUEJzZUJoSVQwdUp2b0VpRkJXcWd3R3pQTEpRR1B0Tk8xYzJOamxwZlh0Wms1UU5adGJtejRLQ01KaF9HbXVyek9PMGNwWWFBcWFEVWhCWkNBVTR1ZEVIbFN3MTAwWHBEVXpXWi1fQ3E3V1JYMUxBNGdHZFlfTjFmYkNjR2JsSjh5ME5ZN2NCcG1GT0dsOW1xanpyTzZZM3Y0QklnaDBIVdIB0AFBVV95cUxQeDhKZktDMzhRdmp3VE44REl1cTFTUUdBM1NKUzQybGVDV3ZaRk1IYjlrSzlVeEZybkF0SVlLaHA5OVh2RjNpaTl0TVR4QmlxM2tXcGVpaE14VG5SMFFEbGF1SDdlTGdQaFVRaVpDNTFZMzNKaW9ZbmM2d3ZMZGxGdmR1dUpzWGxMZlNxTF9IYkp6STNuaUw4bTJDSkRicl9tb092UE4wcjUwdlNJVWxVOTBkNm12SHRla0ZPT2R6MjIwcEVFdFowR2pad1RYdzU1?oc=5"
@@ -49,23 +32,74 @@
           "outlet": "The Financial Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlo1NEo3bHZTTndQaVp3b1c3cWRnbUJqTlhvempGd0VLcWtCaGpWeUIwM0l1U2d1bk1IOFEyaUxfT3NkNkFhT1hsV3gzWlBnQ0tVeUtnTE9GdUlaU3FRelV5UXQ4MVlXYk1mNnpKME0zcHpOUnVHX1JIUUwtUzBBRHJXYmxDeWZheURJRVljU2NCS0wzak91UnFPenJnaVI1YzFTQXFrS3Q0R09pTVRBeNIBtwFBVV95cUxNNkVIMWt6SUNZQUM3UlBoMDJqWU0xQjZVaHNGNXVmal9pZHhNeGxjUkVwUl9Sa1JiTk9SLXloRlN0Mll4VU5oemZva21QbzU1d05ENDVvZEJ6LVMwS04xZnI1SG81T0NRYUxsdXJBVUF6RExJSWZGQWVwMGNLMHhyNG9HV1hDWjNWRnZYeU53YkhhaEx6c3ZmUV9Ta0V4QUw4RHhSbHVYc2NGdmNkTzVIWVFMMUI5RmM?oc=5"
-        },
-        {
-          "outlet": "The Economic Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZGJpU3c5RkpITzVoU2pNdDR1NV9SNGEtVExrcVNnMzIweDF0V21GOTJNd1pJcGR1aHY5MGthc1NOdDlpcjRSTzhrVHFWVUVBN2E3U2xaT1p0UkhreVYySXNnWHdyQmdMLTd6S3Y4dFN3NldIRUh0N1l3OEsxZ2lNT0RwWXpfVXN5YVlSVDhRNjVlbEZmLXFVZ3pNazZrQTg3Vmp6M25ZLTlmbUZ1Rjg3X00yS3dnZndTcHFpS2tyN3NwWHRCR3dWNEFqRE1JX1Q5ZlZITG5DM1RYNlFLaEpKTFdyODlXeG5rd1VrU3JUakpkR01Lcm9SbkVXV0hqTWgtazUxNXFB0gGLAkFVX3lxTE05d3lKR3duNU1seGtudnNiS1N1dXFVSmdvUDFLbUtnQ2dfbmF5Z08taDZDVDQ1OVlZMERWNUhCSEVDZkYxTXVORE9ZOFdwclBTMGVNWWNBSG1IU0djdjZtZTBXcUVSRl9RZUg2ZURjMXlNbV81NnJ5ZUVMMzVaUDF1RnRwLTVISU51VWQ1TUZYVnVDZVAzcy1tWHVwU2JOZ210TjBROEdJZmpxUXFiUkpSVjFGUnBDd1lHaEFTekZBajFLRnVLTmZMRm1rNl9lQkVfWDJieXBnOUVXMEY4bnpyYlM1MjM5T1F6aWc5LUY2dGgyUTh5VWg4SWVYQ3VCdHA0a2xEMnBmZDJvWQ?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "New Delhi-Patna Vande Bharat chair car costs more than Tejas Rajdhani. Covered by 3 outlets, including ThePrint and The Financial Express.",
+      "brief": "New Delhi-Patna Vande Bharat chair car costs more than Tejas Rajdhani. Covered by 4 outlets, including The Economic Times and The Indian Express.",
       "image": "images/new-delhi-patna-vande-bharat-chair-car-costs-more-than-tejas.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "bihar-mla-anant-singh-plans-grand-wedding-for-daughter-with-",
-      "headline": "Bihar MLA Anant Singh Plans Grand Wedding For Daughter With Feast For 4 Lakh Guests, Thar As Horse Race Prize - Gujarat Samachar",
+      "id": "patna-high-court-pil-challenges-deepak-prakash-s-nomination-",
+      "headline": "Patna High Court PIL\nchallenges Deepak Prakash's nomination as MLC - The New Indian Express",
+      "summary": "",
+      "date": "2026-11-10",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Live Law",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTZRbFVQd09ITnBQbldINlpVQVd1bHVvYVlpaFpUZHBvZXVYU2gyOFhzcUhIZm9NTmFIa1JmWXdHUERtNFdFS3VZQ09JTTFnMG9fR0VxMDhWSXl3Vjk3TmxVWllFakpDekNIRWplb29CUHUxMWNvRnFlUVpwSkxBbEJxNDhtRjdfNkU0TmFaM2NOU3FfZEg2VEVEVFFGNFhjYTRZeVZmclFTRVNoTkZxYWxTMmhpYUZBRTJubFZB0gHDAUFVX3lxTFBqY3JDT092V2tfc2NqQVJPSFdOczRjSFFUMXhQREo1WTRfUnFYdzd1TnhPRHBYWlhCVFBLaTlablRjVlI4ZFhSTEU4aF9Vd3RtaHcwODEtbkpyWHhKODZUanZLVzJISmd2WjJva0FOenpWajMtNms5RkJJNnRGT3UtcFdmaVdlUllJNlVDRHZGM1BFcGhFVmd0UW5JcUNyOGZrWmc3RTI0N3lKVnhuTkRFc2piWmtOZTMxbDVqeG1mX0p5MA?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORnBMMlVoMnQwT096UF83eFFCak43Skx5QVd5aXQ2TXliTnI3U3N4eUp5ampfSlhaQUlZWE9GQVduSXRZQy1mZldhVmxDdHBoZ2RmRXBhS2VmUzhfb3A5anZZcjMxQkM1RWQ1bkhMM29Ba3ZmQ2tfUjJtTGNVWXBpd1BodTVaUEh1eS1MX3lMQlhQRVpZTG5tY0I2MkUzVWxXakRyZGZHQ0VqWXI5SGh1QUpWbG16WU5uUlBTb1BtONIBzAFBVV95cUxQMVA4SERyMnZEMXpaMGNnaXhWWThwak9fdGRza0ZtVVVkVDNORFlVLXZiOVRyUDYxWWZTODRjSEMyOFBxbmNOWHR3cDlmVW1uc3Bnajc4d2ItRFl4YVloT2NYOHdTcWJKYnpTMGhoYWhOS3plVkxKUFAyb2EzWUoyM1BpNWJLRGNOM1d4WU40UktYMFJTcmZEeFp6bzA3bEFfM19JdzBqMmthRkM0VEZaRW9IaXlfOW1JaWFBbFlFb2pXVnp4VWJPNGFNbmQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna High Court PIL\nchallenges Deepak Prakash's nomination as MLC. Covered by Live Law and The New Indian Express.",
+      "image": "images/patna-high-court-pil-challenges-deepak-prakash-s-nomination-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-municipal-corporation-lists-rs-200-crore-municipal-bon",
+      "headline": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market - The Tribune",
+      "summary": "",
+      "date": "2026-11-10",
+      "topics": [
+        "crime",
+        "civic",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWlLeXQyaHFqcEtlRWE0dEdQakVLTUo1RjRtLWJHZlVSdDZBckQ0d05LVi12RDV1VXJmVHVoR2hOXzNfRkVBYzFTeEpRcF9ZM1dhLXk3ZVNxb2ZxeWhjUHFIdGRJU1FieEZ1R2R0czRwRWZVZm9yRmU2TGRBcHpKdVRfaGVmZWU0SklqY1VUQ2dLSlVaOW9yMVplN2VoLWlCN0RJempPOE5qNU9mcjBLTUlDalh5M08zQ2NqQzhWY1ZJLTgyT1J6Y0kxQzYtdmZTYzJ2cTVYd9IB3AFBVV95cUxPQjZkY2RPYWVfeVVvekYzU1pPbFBrT2stYlNzb2ZNVGhuNjFhbWdXVGh5aVVRd1BFTzBOcmFqMG9sV0VkZlN1MlBlY0J2Q1VWUFhPd2NkMUkxNTVzSWU0QV83SUs2blFGMWUxY1R5NV9GMWZsMmtNSUE2SS1SYzVqVkc3MHkwSlBFbHM0eEJCeGxDNWdYOHFfUEJqWlZGZlpmQzhtYlpPeHd6T1JpT09rZTE3ZmZYQUhVY25zOEFEOEwycHUtcjc5SEQ5aHNPdjhiZEVycGg2bDhWZFBF?oc=5"
+        },
+        {
+          "outlet": "The Tribune",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdnM0ekowMFRDUmZ4cWhQVDdBcWYxRVl5R0NtVkFaR1dSeWNDcHVOMENPX2JYbUo4STQwVUVvdWJsdmhNNkZ2VUdwc0NySXlBdHZKdUF4S0hYS3NQOXgtaUx3blFBeHdLRkdqNlotcGZCMHJXeFljQWdrN1ppcEJqQl9iemtZdG1NbkYtYzl2SVFLbTljTGFhZzh6NWRWVjNoZmtLNGNuVkFkTHl3RnBGR0doN0JaZFB5enVYZzBHMGt4WndqX3E3bTd1bjVnNlJRWk1Yc0RQdmNseE1KZFI1aGtLcDN0aE5lR29VN1NRWlJtLW1JMW92TFBn0gH-AUFVX3lxTFBwVjdUZ29nckllbXZOdUdxenNkNTBiNllOVGFVQ2ZVSngydTlpendKTDZYQ21TZE04dG8ySDNFOFpvUTcwcGhYUjk1MG4tOEtwWl9ha2FrbklabnhYT3F6RkdjeklvbXZsWUF3TVdwYjRGWjZZeFdsSU9XWWE4R2o1aDFsa2hwTHBuWWYwMFVCUVFQUDV5U2txZUJTa1JRN19uemhYRjY2cHh2NVlqdjk5VHFELTJjZlQtdXRyM0lkVUdBSWNWMHJGWEFtSzNfWWRDYUZFR1dBQTE1MDFtOGF2N0p6bU1qdXdvVm1rZURfMUduYUdFWVRHUlNSVjJ3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market. A crime-related story. Covered by Moneycontrol.com and The Tribune.",
+      "image": "images/patna-municipal-corporation-lists-rs-200-crore-municipal-bon.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "rs-3-crore-defender-horse-race-with-suv-prize-150-dishes-ana",
+      "headline": "Rs 3-crore Defender, horse race with SUV prize, 150 dishes: Anant Singh goes all out for daughter's weddi - The Times of India",
       "summary": "",
       "date": "2026-11-10",
       "topics": [
@@ -89,21 +123,43 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2lVMGNHLWpWRFVUZ2VJNk1EZ2h0am9mQ0M0WmlQeWFCMXBfeWthMkRTUGk4Qlo1MkJXY0xzX1BlMTVZSENLbnduVHdsQ0RQd29nUnhmM2tJU2xwWjFybXBPSTZfNlVJcy1LTzNCMmdMUWpGalU0b1dFcFpQa1Zwb2hoTzZwLXZVbTB2NlpDYUVWam5jUnAyb2JDb2ZNZFZ5Mi1Lb2lzZ1ZPTnlPODZYQm9VLTNsLUpneU80?oc=5"
         },
         {
-          "outlet": "Gujarat Samachar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUWlCR29pMWFhcFAyaHdrSGxEVG1vbWJJbjVxZEZrN0ViZ2FaSV80ZzRtNnBxRE43QVJDMlc2X3ZHRy1zLVEwd1dRLWhPMnR2b053QXU0a0FjUWxSb1hIVWVLRURQVDNJQklFcG1LbnlVc1BrTEhTZXR6UnJ1QVoyRTdvbHRIaFllbE1QT2FSNV9Xa18yaGpwMkxwaHJHMWVnN2piOTRnTERsLWtaWWRFRnp6bDdnYlMtMm9DYmpibFE5OXBJTmktcDJNYy16eW85aVFFRW9fZTlEMUdZakx4WUJudmYxUWhqMEZ5UzhfUjc1T1hEQVZHZFRjMzFpdTQ?oc=5"
-        },
-        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTm1BYU5DQU50QjZOVTN2eVNMeTcyVmJLTFV3Z2k3N0dSbzNBdVlzVngzeFU2UEpZOFFXS3VQdWVSQXlVRXBSdjdObmJUazM2MnB4ZUR6SWp2Vzgzem93MVoyWFVSSnpXbWdCQ2ZjODc0QUxFYUZKWnFIc05BbVdYVXlfQzF4ZW1NWkhBRUl0d1lfUVhUVVJBenlqZXlBdlBaYk9vYW1Qa3UxQ2pzaFhqaFpLaWFYTmJ4LTh2S2tYSVfSAcgBQVVfeXFMTk9BaXFnUzFfYzB5VXE2dVhUUHo0ZEd4Q1NSTXYxdGZyU1lMQnljOFQyU211YzRYbl9zMVozV3p5VF9JRVYyRjJyUjBabnZxcDNGSnlydDJCdV9aU2tPRkFTWHZMRkg4Q0RZY0JsUll5ZVBrSzVSc3FpUnh1bFcybWw4T3plMmh3YjZmOUV1eDdOV0d6LUd4NnNsdkotTW1ZRkdzVWtrWGQ1ZkhmMUFmc2J6U0VPeHdNWVdpTXNIaVZZckt1WS1zdnY?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar MLA Anant Singh Plans Grand Wedding For Daughter With Feast For 4 Lakh Guests, Thar As Horse Race Prize. A politics-related story. Covered by 4 outlets, including The Times of India and India Today.",
-      "image": "images/bihar-mla-anant-singh-plans-grand-wedding-for-daughter-with-.jpg",
+      "brief": "Rs 3-crore Defender, horse race with SUV prize, 150 dishes: Anant Singh goes all out for daughter's weddi. A politics-related story. Covered by 3 outlets, including The Times of India and India Today.",
+      "image": "images/rs-3-crore-defender-horse-race-with-suv-prize-150-dishes-ana.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "bihar-to-host-convention-in-january-to-draw-up-roadmap-for-s",
+      "headline": "Bihar to host convention in January to draw up roadmap for state's development - ET Government",
+      "summary": "",
+      "date": "2026-11-10",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "ET Government",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUkNxY0JTMWt6RHJVaUE4c0t0SEpCVWpvR3hCUVFxXzJyb1VxaUdKdTBKM1kzdy1NVjN0elpKM3hrMXVLbkVqd0VKMlpSeEZHZmRFRWdvc1JLSFF2eTgxdk9XY0hNWFYxSnMyMTR1bEdFSDR5eGkzQXM5RDlJRENUVHM3WTVsWmFUMlh3TlM1enk2R1BLXzMzRXpTMTl2Rm5wdHYtQVpQN3RhU1BvRTRnOXRFNzk4bDZRQVh5TEZtTFdMaTdxaUZRVjQzLVBoUmdmeTU0cUNPemFOUURZaTVqbmVB0gHmAUFVX3lxTE42VWU2bGF4LUxHTXdKVHlXWC1aQkpQb2RpX0RxS2V3UU5QLVBIWDBJN05DSUYzdlg0VWdSMHRnU1M3OTNHV1VGZmM3VjNqZWV0OWtUY2xKeHFkWlU3SzdhMHo2VnpSR2p5VHRTNHhUQ3FfSkluUTJDSW5sNm9QWlZHUHM0TFlMLVZKX1N6OW5ReFZQYWFsRk83SklxUHJKcG95UFNyTFBScUVlMWlHU014bEhDN3lGamZzZU9LTlpfalFsVXR2OVZMMEhLTlY1R2hYMXc5Q0diUEVnbTJxMC1OYWo1aEln?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkJrcmdsR3RTQ0F0X1lkc3pURlhXWmhscklMRXlRQ09RekdRT1FPdlpMam1UQVFEWnJfQnVuTEo4VmRNeUhCbnJOd2hOaEZlc3BqNjZSNFFNTGY4NTFUbGRxN2VucXZ2N1UyVXdGSTB5RUx1T0EzY083NjZqSGJZMVJyUUZZVWNvcDZrM0NHOExQMk8tRTV2Z2JFLTlsY1N0d3BXSkh0MS1wY3NqZk5DNW5pREFJeXF0MUVvcFZJYmJVVTZLeEh1UldySlYwZG1sbGhSVlpCSUFOd9IB4AFBVV95cUxPTld3dXBPRUNwYy1SRmhDS01pMHFHWWZWaGM3RU5ySmtPS0dZbDczTGxCejNwM3RHTUtNMklzQ0Ixa0dDN3hGWnhKVkIwc0xMQTdndjlUaFVkNHZ1clFZTTBSWHVBR202V0NuY0JSWHUyS1dlMnN1bXZINHl2SWNPRXZ4WVA2RWZGbGVua2Rib1VtaGx2elY0RGJ5Q2JfVHVRdjZ6NkpkOV9ZZUdLWThWbW9JTFhGNzFGNm5EQW9KM1l1U2VYM1piaGRXcWFZb3ZHMmg4Y2RYUjBwemJUaFNhMQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar to host convention in January to draw up roadmap for state's development. A civic-infrastructure story. Covered by ET Government and The Hindu.",
+      "image": "images/bihar-to-host-convention-in-january-to-draw-up-roadmap-for-s.jpg",
       "image_kind": "photo"
     },
     {
@@ -175,6 +231,11 @@
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLXdZNUVkaHo4YkR6NGpBVVdPeU1ES0ZMdVp4ckhYMU1HRTBiX0RZaUVGZzFDcVBUbXloOVlSY1RaREVzX2l5Si12QzNaVGhVM29oXy0wcGlEWGFpWGRCY3RWZVo3RVY2elYyMXlRWW5kSUI1NEpGLXNqU2VQREsyTkxvLW1yV0pGQUd3dGR6RWlaMFFvZThLb1F3OWFoYjJKcWswMXJ3eEMxRG1FaDEzSHBWWFR1eS1aRkxtYlU3OXFJUUNzRjhwZHA4MmNfX2FwcC1BWmFuZmZtWk5vN0l0WWJkd3AwY2_SAewBQVVfeXFMTm5jZlRTRUdrQWl3T1plOUdTV3JCRFBlSXdYMzdJYlM4TDZtMUFFczd4UldKNHVuckkyQmZTbUZsLTFVOFdRU3FlOUdrdGgzZXZ2V0k2dFVRd3FJYTJDYUstU3dPNk1GMDB2LWNMRjVEX1p1Mk5XeEdMaFdlRFhicVhDXzVxbTI4OEc2TWJoTkUwNXdUUXNJSWsxY01jcEJxODEyU3RVQW5IWTNYclM4c1pIRVhGcXlVT2hqQ1lZV2I0R25Cb0U0c1RnOHU4UVRkT0tjTU5UY2Fmc00zOWNUQWdtazhGNXkwbXQ5MUE?oc=5"
         },
         {
+          "outlet": "India.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTVV4SUNjLU9tYWZwN0tjVGNtbjdQaDljR0NfTWtKcHFOMk1veWthcDlOWmVLTWp0MWd2UUk4Qm5ZQ000VERXTGlpdkcyTEIwM2pHaEhnTXhQYU5mU2dwQnhJU0p6MU1MRWpnRFlfeXpWWWlYeW9ETE5UQnh4NVB4YTBCYjJRVGFLZWxqX2xxTWZ4elNFMlZ3ZjJwNU9kNENuYzMzSDYyN2FxLWJsb0dDNkVsa1Q2eEdMNHVoYVBhb19YTUZRQjBHUUJBOU9pWTJZc1czYkotbFZJVzktX2JxbkJYUGRIZ3Z1Tl9XNUN4dzlxRWo0bjEwZWc2QVDSAYICQVVfeXFMUHd0ZWJqVUN5NkVLNEZjU3VuMTZ6SHBhOU03Y1JURGVXd0NlSHBXOURLal9UQzNjaEJoY3ZMUGJVbTdBWG1uMVd1b1c1eFA4S3Bqb21OeFdKYW5ZbnBSWVlaU0xsYXNac01qdDZidDBKa3pxZE5VcWxVLXhia1NWVmRoQWxsazJOOTRyUS01OXZ5NXdWMllMUGdKaFBreFluQjlFb0dXd1NXaXdvWERDWnNHQ3JXMk84WkRsWEVTMzg2Zk1qVTVTU09icEVSbXI4MVJjTUJxT0dyWmFfcDE4OVh0a3JHcko2Z2hQSERnNHUyZDhwcXhwYWswMkpkRGRUc2VR?oc=5"
+        },
+        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ0tGNDhKQmd2VWZSRVBic1daek5Ka21ueTNHUXhYbFVEN1FpNDBlVU5qa1MzbDdSRlVEZVlFU1VBeUNlQkJVN0hidHdCbTl5bnNBaVhKeTVzcVJoRngxVi03bFFQbDFOR0VYMmwyRW1ZUlJWWHpUQjlxaE1TWGtoUlJIUW9jam1SQU9GcGhsU3NQcFI2RENsbHVJbEVlS3BsZXliNlJqeFN1SF9lMWMyRWNkQkEtaWxxcjVORktsWFh6ZWdMV3JaYXd4cEVDLVdSRFZrOWFCVzh3ZkR2cXfSAeMBQVVfeXFMUG5BaFhuX1VqOU5uaGFMbmtvV3hDU05PUTIwT1pwOHBESHZEdGZ3Wlh6S0k2dUY3QmRJNmNsc0EwMkx3dG9KVnViNGlQMS1oV29fWGdlVWNrbHgzVjNCa2dTY014WGNfbGxzR2c0RTJtZTR1STE4NnlzaGxVeTlka2dtZ3I1V1pZR19Semgxd18yRHBMYVVQemZaelFBWHRPWlNhRmJqNVdHU0M2STlaNUhBUlRJcm1sZTRlMExBNHRGN2FJMW16RWE4TU9xQmVfeXQyVkZwU0taNlIxZFBoOWUySVE?oc=5"
@@ -185,11 +246,6 @@
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNHk1eWxzenN5VmN4MFdDX1RPMlZ6MFpKcHJTTzdLd1cxNTZ1WkVUWjBrOUxxRjUzaXdtSzlBbm9kWGlWVUFpRFk3aHpPZTJZOWFMaHZtenpLa3lkOUxRdDFEVW5venEwc2x2bWdodGMxeEVyU0JiWU5xdWk3WmR0WGg4SGdHNlFNLUVaa2lSMEZ5SC1qQ0k4UkpTSW0wTXcwSWd5Sm5kNVpJLUZiQWFGbzRNSFFiWWQtRkd1eW9FM1hmOXBsaWJ1VVdYX1I2VHZlX2tVM2JLWkwyTknSAeABQVVfeXFMUGtOVGs1S0wzV25UT3pUZTRkN3ZpWDAybzh5ZFV4T0tsTkE5dUl5WFlub1lEV011X0VsbE9yckpteXlkclk0alBrUEpianlINGhBTnlPVThGNkQ2M1AxcW9SLWhEeHhiNkJhNnJiOXd6UjB5UXg5SXNOOGVKRjFzMWNBQ1hLM0RNaEZ5ZFRuaE1rX0pTdG1ERm5aQ1d5b3NWTHp5dzhfcDc0N21SZzIyTWJZSGNJSVZ4UGEtX2duNzQ4M0xvS21ITGU1TlRGOWdYMllZWms1QVRYdlJObEF2a08?oc=5"
         },
         {
-          "outlet": "India.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTVV4SUNjLU9tYWZwN0tjVGNtbjdQaDljR0NfTWtKcHFOMk1veWthcDlOWmVLTWp0MWd2UUk4Qm5ZQ000VERXTGlpdkcyTEIwM2pHaEhnTXhQYU5mU2dwQnhJU0p6MU1MRWpnRFlfeXpWWWlYeW9ETE5UQnh4NVB4YTBCYjJRVGFLZWxqX2xxTWZ4elNFMlZ3ZjJwNU9kNENuYzMzSDYyN2FxLWJsb0dDNkVsa1Q2eEdMNHVoYVBhb19YTUZRQjBHUUJBOU9pWTJZc1czYkotbFZJVzktX2JxbkJYUGRIZ3Z1Tl9XNUN4dzlxRWo0bjEwZWc2QVDSAYICQVVfeXFMUHd0ZWJqVUN5NkVLNEZjU3VuMTZ6SHBhOU03Y1JURGVXd0NlSHBXOURLal9UQzNjaEJoY3ZMUGJVbTdBWG1uMVd1b1c1eFA4S3Bqb21OeFdKYW5ZbnBSWVlaU0xsYXNac01qdDZidDBKa3pxZE5VcWxVLXhia1NWVmRoQWxsazJOOTRyUS01OXZ5NXdWMllMUGdKaFBreFluQjlFb0dXd1NXaXdvWERDWnNHQ3JXMk84WkRsWEVTMzg2Zk1qVTVTU09icEVSbXI4MVJjTUJxT0dyWmFfcDE4OVh0a3JHcko2Z2hQSERnNHUyZDhwcXhwYWswMkpkRGRUc2VR?oc=5"
-        },
-        {
           "outlet": "CNBC TV18",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeTViWVR1RTJRV3BKMU1EUzVvbHNVeS1mdmxfajZSS2h6aF9kVVVCMmpWejhGbHdaLXFyTlVocnNvM2xvb0NYbjN2ZmhDR1BQZmJzdmxRV0F6cldvZ1h6UFdrNFpmdDhqbm1DbUdfT1NhZnBxd1p0WUh0MldjZkFIRVZfa2cxdDRWaHh4anVwZkFsemFyWTdmTlY5ZDdmMi16bmF0T3ZyR2dsNXNnRFIzSzVVdGVTOGhLUzJkcVpFY3djLVVfSks0a0pwVGLSAdIBQVVfeXFMTVdxNkwwN1RCZ3c2Rk9FT3JjVVJSZk80OW8wbTh5M0Z6Ymg3SndGVjBCbWFXaV9td1ZobktEUUN2Q0lhckNGYloxVHNXaDZlcmlkVWpXZlFVZW4ycldLaW1QQ3pyQnRtdmJJZWhBQUF6cFduSWZNUEhwQ3ZmRHJzTVNlOXNlNm00YXBxU3NpMHJZZDV4cmVYemNteXRZVkhvTDBHNTZvOGRWQXVwMVhNelVrbVBLUUlXZlp5VkVEb3dKTDFGenBCbHA2eEcxM1hTMGJB?oc=5"
@@ -198,35 +254,8 @@
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar Chhath Puja 2026: Samrat Choudhary government bans firecrackers near ghats, private boat operations. A crime-related story. Covered by 5 outlets, including The Times of India and Hindustan Times.",
+      "brief": "Bihar Chhath Puja 2026: Samrat Choudhary government bans firecrackers near ghats, private boat operations. A crime-related story. Covered by 5 outlets, including The Times of India and India.com.",
       "image": "images/bihar-chhath-puja-2026-samrat-choudhary-government-bans-fire.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-to-host-convention-in-january-to-draw-up-roadmap-for-s",
-      "headline": "Bihar to host convention in January to draw up roadmap for state's development - ET Government",
-      "summary": "",
-      "date": "2026-11-10",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Government",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUkNxY0JTMWt6RHJVaUE4c0t0SEpCVWpvR3hCUVFxXzJyb1VxaUdKdTBKM1kzdy1NVjN0elpKM3hrMXVLbkVqd0VKMlpSeEZHZmRFRWdvc1JLSFF2eTgxdk9XY0hNWFYxSnMyMTR1bEdFSDR5eGkzQXM5RDlJRENUVHM3WTVsWmFUMlh3TlM1enk2R1BLXzMzRXpTMTl2Rm5wdHYtQVpQN3RhU1BvRTRnOXRFNzk4bDZRQVh5TEZtTFdMaTdxaUZRVjQzLVBoUmdmeTU0cUNPemFOUURZaTVqbmVB0gHmAUFVX3lxTE42VWU2bGF4LUxHTXdKVHlXWC1aQkpQb2RpX0RxS2V3UU5QLVBIWDBJN05DSUYzdlg0VWdSMHRnU1M3OTNHV1VGZmM3VjNqZWV0OWtUY2xKeHFkWlU3SzdhMHo2VnpSR2p5VHRTNHhUQ3FfSkluUTJDSW5sNm9QWlZHUHM0TFlMLVZKX1N6OW5ReFZQYWFsRk83SklxUHJKcG95UFNyTFBScUVlMWlHU014bEhDN3lGamZzZU9LTlpfalFsVXR2OVZMMEhLTlY1R2hYMXc5Q0diUEVnbTJxMC1OYWo1aEln?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkJrcmdsR3RTQ0F0X1lkc3pURlhXWmhscklMRXlRQ09RekdRT1FPdlpMam1UQVFEWnJfQnVuTEo4VmRNeUhCbnJOd2hOaEZlc3BqNjZSNFFNTGY4NTFUbGRxN2VucXZ2N1UyVXdGSTB5RUx1T0EzY083NjZqSGJZMVJyUUZZVWNvcDZrM0NHOExQMk8tRTV2Z2JFLTlsY1N0d3BXSkh0MS1wY3NqZk5DNW5pREFJeXF0MUVvcFZJYmJVVTZLeEh1UldySlYwZG1sbGhSVlpCSUFOd9IB4AFBVV95cUxPTld3dXBPRUNwYy1SRmhDS01pMHFHWWZWaGM3RU5ySmtPS0dZbDczTGxCejNwM3RHTUtNMklzQ0Ixa0dDN3hGWnhKVkIwc0xMQTdndjlUaFVkNHZ1clFZTTBSWHVBR202V0NuY0JSWHUyS1dlMnN1bXZINHl2SWNPRXZ4WVA2RWZGbGVua2Rib1VtaGx2elY0RGJ5Q2JfVHVRdjZ6NkpkOV9ZZUdLWThWbW9JTFhGNzFGNm5EQW9KM1l1U2VYM1piaGRXcWFZb3ZHMmg4Y2RYUjBwemJUaFNhMQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar to host convention in January to draw up roadmap for state's development. A civic-infrastructure story. Covered by ET Government and The Hindu.",
-      "image": "images/bihar-to-host-convention-in-january-to-draw-up-roadmap-for-s.jpg",
       "image_kind": "photo"
     },
     {
@@ -239,14 +268,14 @@
       ],
       "sources": [
         {
-          "outlet": "Mathrubhumi English",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzBpRTRHenhma2ptWk1ha3pRQkswcEU4cTBUa0hWbTJYeEIzYlFrMWxrZ0tfX1otWVNyUjZDV09xWF83QUpGQWNWWlNrc0t5Ml9NaDBFcUo1UERxcWxTWHJ3VlVrQ1c5SFVVM1k4NjV3V1A5VXZ4WmhJdmdkZS1VMW0zQWJPS20zMFJKZmkycjdkLVVMaUduSmgxTTg0RTZS0gGmAUFVX3lxTFAwaFZIWmhCbi1tTnZsNS1RM2xEOU9oYTlOVWQ0d19fdTdzYi0tWG5iNG0xZUl2b2M2WDFzTjJibHcwakFtV21FbmFDc2pMcGJtVmlCV1hncXdONjR1eWo4YVlPdGN0Y0UtWUhMRUNkMmZYTWJnWGJrRXBGWHlqcWQ0ek5XOVRuWlc0YkxHdUI5WS1heFJsMFdJY2c1V3RYdUhEODBiOVE?oc=5"
-        },
-        {
           "outlet": "Vartha Bharati",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFpJclpSY1A0VDFxSHByZmNvTEcyaVNXYVNqS2V0dGR2Ulp1SndFWkFPdXNVUVNlZHprMjkwYV9FUWQ0bGVhZVdaRHZtSFAtaXBfUnE3a3hSTlRjaThsaG9FOVFYWFB5d2V1OWk4RkpndEFnVjlYeVpEQXBwQTViVU1LSjQxeHFGdGVLVTRKbjlmTWVsZUU2RUJweS01OFRFaUhicG9oMHBoSEJpeUlseUU1TmJUaWtSRmp5ZDVyWVhQbGtfaEItSlE5a1V0cEc4T2w3VQ?oc=5"
+        },
+        {
+          "outlet": "Mathrubhumi English",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzBpRTRHenhma2ptWk1ha3pRQkswcEU4cTBUa0hWbTJYeEIzYlFrMWxrZ0tfX1otWVNyUjZDV09xWF83QUpGQWNWWlNrc0t5Ml9NaDBFcUo1UERxcWxTWHJ3VlVrQ1c5SFVVM1k4NjV3V1A5VXZ4WmhJdmdkZS1VMW0zQWJPS20zMFJKZmkycjdkLVVMaUduSmgxTTg0RTZS0gGmAUFVX3lxTFAwaFZIWmhCbi1tTnZsNS1RM2xEOU9oYTlOVWQ0d19fdTdzYi0tWG5iNG0xZUl2b2M2WDFzTjJibHcwakFtV21FbmFDc2pMcGJtVmlCV1hncXdONjR1eWo4YVlPdGN0Y0UtWUhMRUNkMmZYTWJnWGJrRXBGWHlqcWQ0ek5XOVRuWlc0YkxHdUI5WS1heFJsMFdJY2c1V3RYdUhEODBiOVE?oc=5"
         },
         {
           "outlet": "The News Mill",
@@ -262,7 +291,7 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "\"RSS, BJP owe nation some answers\": Priyank Kharge on cartridges seized from people resembling Swayamsevaks in Bihar, Haryana. A politics-related story. Covered by 4 outlets, including Mathrubhumi English and Vartha Bharati.",
+      "brief": "\"RSS, BJP owe nation some answers\": Priyank Kharge on cartridges seized from people resembling Swayamsevaks in Bihar, Haryana. A politics-related story. Covered by 4 outlets, including Vartha Bharati and Mathrubhumi English.",
       "image": "images/rss-bjp-owe-nation-some-answers-priyank-kharge-on-cartridges.jpg",
       "image_kind": "photo"
     },
@@ -359,53 +388,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "news18-hindi",
-      "headline": "पटना में गंगा गंगा की लहरों पर वाटर मेट्रो की सुविधा, दीघा से गांधी घाट पहुंचने में कितना समय और कितना लगेग... - News18 Hindi",
-      "summary": "",
-      "date": "2026-11-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnNoS1pZOExrRC1JS1E1V2kxQzlqaEFvWDdlZ09KZm5sTm5ER1JaQmJCTGN5UEF6T3BYbkh0QkQtbGdVNjZJOTZkTEJuWVVlMWJhRW9PVTNqVjljbXJjS3VhMVFWM2tLbW1mTEFVMVJvSWpBUktaeVRsallteFI1VjYtMC1ZWlB3SG9sNlpSQ3JsNG1rcnFfdndkdmZPYWZGenFxOE5hNXF4ME5uR1hhMDZmcDdDWnBVUkFqQm1NQnppcnFrajdZU9IBzgFBVV95cUxPT0FNb2Q1bmhHYmgxTjN0ZVZJVGhZeWZhVEgtY0hEWm5zU0hUWGVMU043Tk9veEhqSjVWVVlxMmNVN0oxLUtvbXlHOUZuaDhyNGpjRGZuM0lMYm84NnJpWjNCeGJYYXJ6TThKOHNWZWwxVlg5b1dCQTk3QXU0M3R2Q1Rnamh1MWVvcW5ya1BIc0hSaDhDZURiSVc5UDQxcUllNXRZUzNYSUhiVzQ4aGpoaC1neVJHRzBoQzU4aDVvMHozUl9YcDFRNTk4dHJmZw?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGJ4dXpVMEF5SGNRZTA3TjFubUU2VXBrNzRnVDd1MUZ3MnRoUFVOd1ZPbUxIdVdIMDJKa2R6VTJBc2NxelF6TTFoaHREMDdFRE9iV2dPUkxTZE85VFBlRFQxb0JQWUIzQ28zSUxZa2RLTW1helYzY1RlWXpmNzJLTU9JeHg1anBfdnFPQzVGelY1X1NNYXVIQXJxdGI2UmVUWmxhSFhqZjBNOThxa3pvRtIBtgFBVV95cUxNNEhOc2dLMXNGcTBERnZod2FXSzZWMlhDUFRxX2xSWk11Z1VLejZOQmt4Vy1Kb0tZb1NWVkFmQ29rT3VSLUh3THV6b3RnWDZGMUR2czBYaTlaeUVMNXRkU0p4Ry1DSkRPVGxrbnM5SjF5V1NwUjZ5U1RpYUpJZE9GVHVGazBPTWxsbW80QVBHd2hDRm5TZEh6TU4zR2xzTUxCMFJQMFgxU3kwMXJkMU1mT0tpbjgzdw?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFlwa08weUdCR01ZOGplMFBldXBFQk81ZVc3TlRFSmNsdXNwbHczaDI0N1czTnplUVlmQ19ic3FIUVN4OFBVOU5zTGJDNzZNY1ZPRTVZUkQxTmc3SHc5YTdjZ3ZnQXhHajlOWi05VGdSbWpzRFBuTXJIXzZXYXVzbUgwMDg1ZnZLbUJWWTFPS3dkOUtMSm1VcFpqUmJqQTg?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPXzdKNF8wWVZkdzNseUhxa0RwUUVnTy1RclNKVXRxZXR3dUo3SnAxUjhRRU9lZ2lSdm9wbkNjTzl4V0FjTEk3cjJaVE9yZTlGcWd0QjBiTzB2MENPbVZ5V1AwdDlJa1RGRVREMEZaSWE2dTN6RzROTG5TLWxwRkNNQVlrZHBTVlBHbXJFY09scFdObnd0QVFGSlFFX2NrNzJPcFRoaTJQNTlONVRVZktfYjdleGVtLWJtbENmeQ?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaS05WERldWNrc2NzeFZTQ3llM0Z6eU9tQUlCSEF4WlkwZ0JWUXltc000cTF0MjV5ZnhSSTEzeHlyRDlUNVVVMmVHVm5KRkxQNzlLWC10WHVOb1hIZ0E0cjc3c1JsX2Rmc1h4bHc1aUNaMXphQVpmS2doeHBPWmRLWnFaN1BEd2xGUmZXRWZRY3ZwS2wwUjFOZWtXbXB5UkdPQXcwVzlObjVXOWpaSm1mdS1UN3pBUWhOR3E5RnlyeXRTZ9IBxwFBVV95cUxOM2hDQnRfME1CU1hSdWluanFOanMzZm9mR2p6M29oaFVMcEFDeHhWaVlVSnV5MXNINVFFRmpHdWVQdWFyRlg4eUstNFNpa0R6OU9qd3E0Mjh5T0Y3bWhrakhNaldnWDdmZmdOdU54OGtINE95Z1VlTXItUXpWS2pFemJwVXlUTGRzNWtfbGoyY1Q1SENqMm1jNHhvREY1dldOenFZYUkwYTBxOGhHVTlsQ1ZBdi1xOWpEMENWZHZVRWc0Sk1QVUFV?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOa1RJeUdXZXZPbDFGdnB3dUZMTnJOa2ozbmFDWTIwaEFUUVNycXAxbnJlenR4TVNkV1pqd1BQeTBnTUhURnN6dkZmazdoT2lIS3NqYUp1eHFTdjVoSjNycEc2Nm5mWkg2c2puSUhnN0VDV3E5M25MaVlBdy0xRlpNTzZqZmcxU0NFNnRpNks2a0pZUHhLRjE3Y0pqQmR3Y2JHaFVUWU5VVVNFUmJxWGxOLU45Y2tVU1JFMFhoblZ6RU5fY0VJd2duV195dk5wVVgtZW5tVElwZzV6aGY3c0s4TnVaek9VQmdWWGVNb0dMLTBUZTFWUG14OEl3T01feGxFUWJvbVR30gGGAkFVX3lxTE5rVEl5R1dldk9sMUZ2cHd1RkxOck5rajNuYUNZMjBoQVRRU3JxcDFucmV6dHhNU2RXWmp3UFB5MGdNSFRGc3p2RmZrN2hPaUhLc2phSnV4cVN2NWhKM3JwRzY2bmZaSDZzam5JSGc3RUNXcTkzbkxpWUF3LTFGWk1PNmpmZzFTQ0U2dGk2SzZrSllQeEtGMTdjSmpCZHdjYkdoVVRZTlVVU0VSYnFYbE4tTjlja1VTUkUwWGhuVnpFTl9jRUl3Z25XX3l2TnBVWC1lbm1USXBnNXpoZjdzSzhOdVp6T1VCZ1ZYZU1vR0wtMFRlMVZQbXg4SXdPTV94bEVRYm9tVHc?oc=5"
-        }
-      ],
-      "source_count": 5,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना में गंगा गंगा की लहरों पर वाटर मेट्रो की सुविधा, दीघा से गांधी घाट पहुंचने में कितना समय और कितना लगेग... - News18 Hindi। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Prabhat Khabar शामिल हैं।",
-      "image": "images/news18-hindi.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "11-prabhat-khabar",
       "headline": "दिल्ली से पटना के लिए एक और वंदे भारत: 11 नवंबर को चलाने की तैयारी, अलीगढ़-कानपुर होते हुए प्रयागराज पहुंचेगी ट्रेन - Prabhat Khabar",
       "summary": "",
@@ -430,11 +412,6 @@
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPXzBOck9IemhWVUNfbnE3QmJQZ052d1JKcEpqbU8zRlRnZGYwWGwzYzB0Vjk1b3BQMHJVUUJlZjBiMVFVN3A2SWF3QWlJSkVoMHdOdy1EUjFpUUVIVnpTLVJRamlUSXJXaEZGaUxkQ1lyWUd5SHNfN2kxN2FVMFNWc29yRUZnUEtoeldnRUE4RnBWdnFqLWt4UXVaWnFlQUhpcFdUSU92WWVfMDZlbjA1dUZDR1ZEWUszMlBxbUdLNGpzS1prbW84cS1RXzU3RTFWQnczMmxtYUFVYmhtOWtqc3Y5aTZYZkZOMFBPRF9iM18?oc=5"
         },
         {
-          "outlet": "NDTV India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkcyU0syWnU5eEVScGZBdVVhYXpqU2plUGlkeEJ6NlRPaWFXWGF3MHBtazIwZHZmU0JCcXE1S3lLajBQN2FGZDVMMC1nNnItbS1DOXYxd1VuWDV1Wjh2aGZRQ0dLTTFDWG1kc09KVE5xZS1ZeG9MWEpRUmZTVDFuT0lnbjVfQWhwSXFfZ3dqc09Gc2F3UUFhUlVPRHl5Ym11dmxXUUUxVVhPRUdMeG9XZWxmTWlab3diOG5uLUVrYzVvUmZScjlyYi1ENUFUZw?oc=5"
-        },
-        {
           "outlet": "RailJournal",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGRlTjdZWXZZbVJYRnJpQ015bzg0cUdoX1Mzak51U1QzOWQ2SjU1cVBnWlp3R3dTSm1qTmN1eU16dGIyX1BCRG8zS1NYWHdaOVY3akdLOWVNeHl2WG11TE96cFFlUEJNQUNWTlBmNjYzUi1ORk1kWU9jRFhQRjcwcWRFNUEtcnVxNlRaa19iZTBneGdkYkE5M0tVQ2RzeTNNbk9nUl9fMHd2QQ?oc=5"
@@ -445,6 +422,48 @@
       "genuineness_label": "Verified",
       "brief": "दिल्ली से पटना के लिए एक और वंदे भारत: 11 नवंबर को चलाने की तैयारी, अलीगढ़-कानपुर होते हुए प्रयागराज पहुंचेगी ट्रेन। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और India TV Hindi शामिल हैं।",
       "image": "images/11-prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "news18-hindi",
+      "headline": "पटना में गंगा गंगा की लहरों पर वाटर मेट्रो की सुविधा, दीघा से गांधी घाट पहुंचने में कितना समय और कितना लगेग... - News18 Hindi",
+      "summary": "",
+      "date": "2026-11-10",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnNoS1pZOExrRC1JS1E1V2kxQzlqaEFvWDdlZ09KZm5sTm5ER1JaQmJCTGN5UEF6T3BYbkh0QkQtbGdVNjZJOTZkTEJuWVVlMWJhRW9PVTNqVjljbXJjS3VhMVFWM2tLbW1mTEFVMVJvSWpBUktaeVRsallteFI1VjYtMC1ZWlB3SG9sNlpSQ3JsNG1rcnFfdndkdmZPYWZGenFxOE5hNXF4ME5uR1hhMDZmcDdDWnBVUkFqQm1NQnppcnFrajdZU9IBzgFBVV95cUxPT0FNb2Q1bmhHYmgxTjN0ZVZJVGhZeWZhVEgtY0hEWm5zU0hUWGVMU043Tk9veEhqSjVWVVlxMmNVN0oxLUtvbXlHOUZuaDhyNGpjRGZuM0lMYm84NnJpWjNCeGJYYXJ6TThKOHNWZWwxVlg5b1dCQTk3QXU0M3R2Q1Rnamh1MWVvcW5ya1BIc0hSaDhDZURiSVc5UDQxcUllNXRZUzNYSUhiVzQ4aGpoaC1neVJHRzBoQzU4aDVvMHozUl9YcDFRNTk4dHJmZw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGJ4dXpVMEF5SGNRZTA3TjFubUU2VXBrNzRnVDd1MUZ3MnRoUFVOd1ZPbUxIdVdIMDJKa2R6VTJBc2NxelF6TTFoaHREMDdFRE9iV2dPUkxTZE85VFBlRFQxb0JQWUIzQ28zSUxZa2RLTW1helYzY1RlWXpmNzJLTU9JeHg1anBfdnFPQzVGelY1X1NNYXVIQXJxdGI2UmVUWmxhSFhqZjBNOThxa3pvRtIBtgFBVV95cUxNNEhOc2dLMXNGcTBERnZod2FXSzZWMlhDUFRxX2xSWk11Z1VLejZOQmt4Vy1Kb0tZb1NWVkFmQ29rT3VSLUh3THV6b3RnWDZGMUR2czBYaTlaeUVMNXRkU0p4Ry1DSkRPVGxrbnM5SjF5V1NwUjZ5U1RpYUpJZE9GVHVGazBPTWxsbW80QVBHd2hDRm5TZEh6TU4zR2xzTUxCMFJQMFgxU3kwMXJkMU1mT0tpbjgzdw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFlwa08weUdCR01ZOGplMFBldXBFQk81ZVc3TlRFSmNsdXNwbHczaDI0N1czTnplUVlmQ19ic3FIUVN4OFBVOU5zTGJDNzZNY1ZPRTVZUkQxTmc3SHc5YTdjZ3ZnQXhHajlOWi05VGdSbWpzRFBuTXJIXzZXYXVzbUgwMDg1ZnZLbUJWWTFPS3dkOUtMSm1VcFpqUmJqQTg?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaS05WERldWNrc2NzeFZTQ3llM0Z6eU9tQUlCSEF4WlkwZ0JWUXltc000cTF0MjV5ZnhSSTEzeHlyRDlUNVVVMmVHVm5KRkxQNzlLWC10WHVOb1hIZ0E0cjc3c1JsX2Rmc1h4bHc1aUNaMXphQVpmS2doeHBPWmRLWnFaN1BEd2xGUmZXRWZRY3ZwS2wwUjFOZWtXbXB5UkdPQXcwVzlObjVXOWpaSm1mdS1UN3pBUWhOR3E5RnlyeXRTZ9IBxwFBVV95cUxOM2hDQnRfME1CU1hSdWluanFOanMzZm9mR2p6M29oaFVMcEFDeHhWaVlVSnV5MXNINVFFRmpHdWVQdWFyRlg4eUstNFNpa0R6OU9qd3E0Mjh5T0Y3bWhrakhNaldnWDdmZmdOdU54OGtINE95Z1VlTXItUXpWS2pFemJwVXlUTGRzNWtfbGoyY1Q1SENqMm1jNHhvREY1dldOenFZYUkwYTBxOGhHVTlsQ1ZBdi1xOWpEMENWZHZVRWc0Sk1QVUFV?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVGE3R3k5eUNieFNrc3huM0pSSklxYTloYXFRekNIVnZmaWgwQVo1SGpOSkhLV0Z1U1VoUjJkeWE5NE5RaEM2Y1JwNzFnS0x6enVtMHpCZ01RWlhhYVZ5ckRTdmVxZ0U0dVpjOUtYenh2NFZvdThpZHRrYUdtMWJIMmIyQ19saDdqVV9oX0ZEY2lBLTU0WENxVjdLNENMbXhjQ0VnSExHSmNDWlJzc0QtYXdRa05lRUxZOHdES2M5ME5kLTJIbXdfblQwd0xnbXhMZmNFUWNWTDNDWGZMVlZQeHJIREtQUFk3ai1yUDh0T2dUbGdXT3pJTFhTZV8wcG1P0gGGAkFVX3lxTE5rVEl5R1dldk9sMUZ2cHd1RkxOck5rajNuYUNZMjBoQVRRU3JxcDFucmV6dHhNU2RXWmp3UFB5MGdNSFRGc3p2RmZrN2hPaUhLc2phSnV4cVN2NWhKM3JwRzY2bmZaSDZzam5JSGc3RUNXcTkzbkxpWUF3LTFGWk1PNmpmZzFTQ0U2dGk2SzZrSllQeEtGMTdjSmpCZHdjYkdoVVRZTlVVU0VSYnFYbE4tTjlja1VTUkUwWGhuVnpFTl9jRUl3Z25XX3l2TnBVWC1lbm1USXBnNXpoZjdzSzhOdVp6T1VCZ1ZYZU1vR0wtMFRlMVZQbXg4SXdPTV94bEVRYm9tVHc?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "पटना में गंगा गंगा की लहरों पर वाटर मेट्रो की सुविधा, दीघा से गांधी घाट पहुंचने में कितना समय और कितना लगेग... - News18 Hindi। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Hindustan और Prabhat Khabar शामिल हैं।",
+      "image": "images/news18-hindi.jpg",
       "image_kind": "photo"
     },
     {
@@ -639,33 +658,6 @@
       "genuineness_label": "Verified",
       "brief": "छठ पर घर लौटना होगा आसान! दिल्ली से पटना के लिए एसी स्पेशल ट्रेन, कब और कहां से चलेगी ये भी जानिए। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Hindustan शामिल हैं।",
       "image": "images/jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "5-prabhat-khabar",
-      "headline": "पटना: मिठाई के साथ फल-सब्जी दुकानों पर भी छापा, 5 फेल - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-11-09",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUjJWbXBta0wzMzl4OVZQUjg2RWU5WEdsdEswM1h0OG1ZNmpRUVhTY2RRdk9XaDkzUlhsN21ySFZRV1g2RG1ib3E3aXNyYVlCQ3ZNd09uU0NGZlhOLVl2Q25WMklyb0JISDRENHBoaGFqeV81S2gzQ1Bsc1B5Nk1SRVBCNTZMdE1WbXhUNVpYbnlDalJ6cHpCZTZVeUIyRW1JYjRqUndZZGg3WGNCS0p2YVljVTFIVzNUWEtmelRvb2VaenlPNVpJcU1zZDcxZmpjQk02eVllUmpMQ2k4eGtKaERSdVlxN3VZ0gHuAUFVX3lxTE5XR2g4amlpazNKbVBiUjBKeFhLTjZlT1lHM2xMZl94dEJVZ1VtTWE5d01GYWQtWU1BalY1YjFxc2pwLWlDVDJ6U3NNQ1hVcTFmLURfc2dGYWdxS2FCbVZNYUttbW1rSmRUOElyWU92MVRTMkU3Tlo4dnNrbEE0aHNsbXdPT2N4ZTR3YTdQRXo4N3A5TTl5SDF5Y3lOUi0zbkdQMlViVEF1U0hyOHpfNDB1cXJOMjBRcmtLenJscXRzNEx3T2dkeWw0N2tscG1xbE5jS0l4VE1GbGJZRWd1ZUxxRWVkQmxMLTJyWGxtaGc?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUlXSk9hS1A4VHhld2VKeVpaLTh6b0hGaTU3Z25SNmxuLXhkZmZ4Qi1sVFVlVEE2dDV0b1pycW0ycG5ZZnlKYjJIMHU4d0MzT3pQTWg3UHZnWldkMldHcnNyNWRpT1JHQjAtY05hRlJ0YTc2a3U4TzhBY29fbjBmVU8wdVp6Qlp3dm50MjhMZmZTUzhTTjVQcGRQQkRRVWc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना: मिठाई के साथ फल-सब्जी दुकानों पर भी छापा, 5 फेल। इसे Hindustan और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/5-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -873,17 +865,12 @@
           "outlet": "Daily Jagran",
           "type": "news",
           "url": "https://thedailyjagran.com/bihar/durga-puja-east-central-railway-announces-16-special-trains-from-dhanbad-patna-10270458"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmlrX2NRZEREVmV0OGp5YWotNkVSSWZvM3RWT0VmMG45bTZvSDVjTmJTYkktZE1XckdWQzlCNkpVQmVvQmRLVHpiV1B2Q29oWG4zMWRwRmlEc3JVV2hmeHp2RktyaVduYldYdVJwSzYtbUhzMnhTSTJhQlNFLTFTeXVMZFA1U0ZkTlpfelNEelZiTDZ3WmpMamNCeDR1eE9rTzU0Y0tCc2tBbnNXd0dFOTk1RXROS05zUk9XX2U5eG1ySlVMbG43TzR1YkfSAdQBQVVfeXFMTkQyNzFBcUFNWXJUV0RfSEFZTzBFaFJlS0M3V2pXMXVhVDU2MDJpd3hJdHl4b2IwY3VIT0FmUkR3c3ZYV1ZfTkNwLTVsOGtiM1BaaG4wendIRldqczFJM3BreHQwNzh4OUpnZGppcjJNUkFXd1pnOFNlWTJaa3lVNUpyMkpmLWpBN0l3aldJQTROM0FkRVcxcFQ5UkZSNHlCR3RsaWc1QXR2R2w0Y3JGa2pRd3J1eVBTVXZsLWZBTWhsTWp4SlpialRzUGJ2THd5V3kwWmc?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "ECR to run 17 pairs of festival special trains to manage Durga Puja, Diwali and Chhath rush. Covered by 3 outlets, including Times of India and Daily Jagran.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "ECR to run 17 pairs of festival special trains to manage Durga Puja, Diwali and Chhath rush. Covered by Times of India and Daily Jagran.",
       "image": "images/ecr-to-run-17-pairs-of-festival-special-trains-to-manage-dur.jpg",
       "image_kind": "photo"
     },
