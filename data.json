@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10 01:54 UTC",
-  "generated_at_ist": "10 Nov 2026, 07:24 AM IST",
-  "story_count": 54,
+  "generated_at": "2026-11-10 02:54 UTC",
+  "generated_at_ist": "10 Nov 2026, 08:24 AM IST",
+  "story_count": 55,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -44,7 +44,34 @@
       "genuineness_label": "Verified",
       "brief": "Bihar Chhath Puja 2026: Samrat Choudhary government bans firecrackers near ghats, private boat operations. A crime-related story. Covered by 5 outlets, including The Times of India and Hindustan Times.",
       "image": "images/bihar-chhath-puja-2026-samrat-choudhary-government-bans-fire.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "3-bihar-friends-turn-banana-waste-into-everyday-products-bui",
+      "headline": "3 Bihar friends turn banana waste into everyday products, build Rs 2.5 crore business - Moneycontrol.com",
+      "summary": "",
+      "date": "2026-11-10",
+      "topics": [
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaDhXMFFsbmlTNl9FeEdaZ0dFaVQ4VUpSbGxKUVFsZy1ScHFRRDZHelV1WExkZmZOT1ZVSjBQRHNROVhnQ0dad3dxZTNCejFnNGVuMjZjY1hIdDl2ckVtb3VtbGZCY1RjV1Fzc0pIeGEtU3hYelF4UktUQ3BTWHhMN0ZhZFRUdEk3bUVUVVdWeDI4Ny1aeDItNEFqWkQwNHJVNlFEd0xvNzNBWHFDTXlhMXZCa2hTUzJ4WmMwd2JLMkVwTlpmaGJoQmlkNFA5elRqY3luQlRacHpmT29DaXhqSEZYaGFRZUEwcEVVZtIB8gFBVV95cUxPTXR5MkRVZHlGMTJMcEh2b196TnZ2QVFCaTFlX3JmMzJZQURDbWdvdkJqZ1F3WGdWaXZzbDZ1VW5mQWk5VVY3QUxZcFpvV3ZKQVJKVmMxUUxuVENONlNJTzdZakZkVWQ0aFpKVkhiRVU1M0RxdTFQR0RzOTk2MktLTVFMRDZXTlVRQUxCbFZJTk1WSXk0ZWgzNktFcmxqUkZMOUk2VzFIX1lJYTU3WnB2djZpb0oyYWhBb2pNdVpYQnV6cV9SeHZuemJZM3VhUVU3YVlBS1lCcHJJQ0JVOHJFeGM3RFpabW5rWW9WZFJmRHFOQQ?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWnhHaDNkb2E5ZUxOeUwzM3czVFh0YzNiM3lyTUZEQVJ0enVTUXY0bm03WDNsakozbkVBV0JiMkdJYUJ4LURLeVFyeXJIUlBzTFNNd2Z3S3k0eFJ1d3dwNUluZndYNjZkeGJJTWlIUFJUZzNwZjlERzJ5T3lUSzNjUHY2MURYMmJiTXlHOC1VWGZjemJ1MHNhX3ppRlQwY2lFTUdzRGliV2NUREpNTkxEMm5PbzJrNU1SdzhsYVZoM1NxS1lpZ1FXUFA1ZFNDeGprYjBfcG5B0gHbAUFVX3lxTFBNaGg3Y0RVbFRmZzkyUHVJQnhMQ2ZQSUJvdzhJenhhXzI3V18welFXU0xHQ0VCemIwZHY2ZWFpZ0lXUVh0cjRJYlFidVN2a0JTXzRRakdxRzBiMUV3VWhWOTJoNF9YN2NIaWVkOGxNQ0haXzJtdVlySXhmcGVjWVJHZXVzT1dnUDdPZlpwQ2NFOHRPV0J4d2hKZ2twamwwdjQ2TURIREJQWDJGbGt5ZFBIR3VuaFZaRV9ROFF6VGJCRzhpbU1vOThja3pQSWJiUmVLaFVHQUoxTnNQWQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "3 Bihar friends turn banana waste into everyday products, build Rs 2.5 crore business. An economy-related story. Covered by India Today and Moneycontrol.com.",
+      "image": "images/3-bihar-friends-turn-banana-waste-into-everyday-products-bui.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "tejas-rajdhani-faster-cheaper-than-vande-bharat-chair-car-on",
@@ -126,6 +153,11 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0NtTWFndEwzVXVEWVdGcFlLbW93MXI0TlV4WGJPR2J3TElEUXRjMjFBUUl0ZzRGY1A1RHdqVWhIUTJnT0xLZGdaS2NKMEpja25lOGNWUVpFeWxFODcxZ3kwTWJPb1dJbmhkX3J2TkhrY05YZlZjNDYzQjIyRFBZX013?oc=5"
         },
         {
+          "outlet": "Urban Acres",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEFTMGllVmZtOFNPMVhEMGF0MnBJZHlZc0Q5Mng1aGhycVdZbjU5SUJmTFFLRjFOZGlvbmpWQkJ3ZEdwY29LZTczZkpfYXVHRnZwR0lRS21VWHpPcXR2SENWV1dGX1JNZURMLWctbnlCNWEzR3QxSno0SlQxUndtY2l6MVhkS0t5?oc=5"
+        },
+        {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX29nVkY2MWJUQlFKX3hLR0JSeVdld2dLSkhPWUhPaGIwc2JUcllwWmhVYXAwMzVZdGRaSW1acW9ZVWZoaTcyejhhOWF4VVhiejF5WDA5emJSUUxzWUVpbEJrMklPZzU5UVVXdU90R2pDdEkwRkNwaks3bEdEQ0w4aEpfSnNHa3JfeEVCZ2gzbjZ4aEFZbnNUam1USC1LNVN6NkF5VzNyTTF3NnE5cXdOZWJpb0JBQThvSHotYjgtTnRQOGc4cndQODdwbkxNQjZsSGhv0gHYAUFVX3lxTE1uTnNlcHZRa24zZk5paWNNd1R3Z3RCZkM0QXlKVlRsaWFSeTZpeGdUMUZ0cEs5MlotU0xjM3g5OUZ1cWE2RXFFZ1h6eXllN1NZblVlQm5CTjBHMTJQRHlDNXQtV1plS1A2X3Jia2QzQmo2Z2wwQURGY1JCTVJ0QkIxQnNBd3YyNF9jcWlPN3N2RUphd3pHS0FaTWxHRjZ1TWJGZzN3RVh5Y1ZhSERFOFNlLTFRRzFlU1Y4SXdkdlk4T3VrLUM0MEZhUTNKdnB2SFFJSnFzakZlRQ?oc=5"
@@ -133,7 +165,7 @@
         {
           "outlet": "Urban Acres",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEFTMGllVmZtOFNPMVhEMGF0MnBJZHlZc0Q5Mng1aGhycVdZbjU5SUJmTFFLRjFOZGlvbmpWQkJ3ZEdwY29LZTczZkpfYXVHRnZwR0lRS21VWHpPcXR2SENWV1dGX1JNZURMLWctbnlCNWEzR3QxSno0SlQxUndtY2l6MVhkS0t5?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXpTR2lCN0dUTkRfWVdNRDNCdzYzbFA2ako5OVFNejRiNk9IUkdkS3hldDQ1MkpYNG1BbzY4WVo3a1BqaXJ6bjB4OXRVdnotYXVtUEh0M3F4YkprUV9oR21hM3JsX2swVTJFRFRaaXdySDY0aUFDQm93V0FXbkRvY0tZTml2VTI1YVE?oc=5"
         }
       ],
       "source_count": 2,
@@ -441,8 +473,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "navbharat-times",
-      "headline": "पिज्जा और मिठाई के बाद सब्जी-फल दुकानों की पड़ताल, पटना में सेब, केला और आलू के लिए गए नमूने - Navbharat Times",
+      "id": "5-prabhat-khabar",
+      "headline": "पटना: मिठाई के साथ फल-सब्जी दुकानों पर भी छापा, 5 फेल - Prabhat Khabar",
       "summary": "",
       "date": "2026-11-09",
       "topics": [
@@ -458,18 +490,13 @@
           "outlet": "Hindustan",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUjJWbXBta0wzMzl4OVZQUjg2RWU5WEdsdEswM1h0OG1ZNmpRUVhTY2RRdk9XaDkzUlhsN21ySFZRV1g2RG1ib3E3aXNyYVlCQ3ZNd09uU0NGZlhOLVl2Q25WMklyb0JISDRENHBoaGFqeV81S2gzQ1Bsc1B5Nk1SRVBCNTZMdE1WbXhUNVpYbnlDalJ6cHpCZTZVeUIyRW1JYjRqUndZZGg3WGNCS0p2YVljVTFIVzNUWEtmelRvb2VaenlPNVpJcU1zZDcxZmpjQk02eVllUmpMQ2k4eGtKaERSdVlxN3VZ0gHuAUFVX3lxTE5XR2g4amlpazNKbVBiUjBKeFhLTjZlT1lHM2xMZl94dEJVZ1VtTWE5d01GYWQtWU1BalY1YjFxc2pwLWlDVDJ6U3NNQ1hVcTFmLURfc2dGYWdxS2FCbVZNYUttbW1rSmRUOElyWU92MVRTMkU3Tlo4dnNrbEE0aHNsbXdPT2N4ZTR3YTdQRXo4N3A5TTl5SDF5Y3lOUi0zbkdQMlViVEF1U0hyOHpfNDB1cXJOMjBRcmtLenJscXRzNEx3T2dkeWw0N2tscG1xbE5jS0l4VE1GbGJZRWd1ZUxxRWVkQmxMLTJyWGxtaGc?oc=5"
-        },
-        {
-          "outlet": "Navbharat Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNR1hiT1dnTGlmS0U1Snk5TFdGX0s2dTIzWHZhcjgtVFc4cHEyRjg4MHY1OTB6SHNhN2tZcFp3M083aUxuVW16X1hPMnIzRXdEbkpxaVo1eDJnLU1UdTRncXZJdFhONW1ubm5Gc1VaQ2h5U01aVVVRNlpNMkI1ZFZLaVBVV1VmeVhmV0luMG01cXFoQVZJVzJLYUpRbWxsVGRDanRDLXVMNmIxeWxQaXBhNWFPR1VEcWgyWkFwTmttRXhtempwTlg4SUk0RTZUZVVCS19EM2stSDZ4ams1bTBzYmlyQXJvZGtHMVUyTVNOdzkxcHExWFZRVjJ5X2dpOVFuNG1Nd042cFbSAY4CQVVfeXFMUGFiOVhCMUNkYVNjVk4zR3lMdGcxZ1NpOEtieDJHWmROcGljS2E5NExIU1FMTlhDMXdmUzZTeTB1Y3d1TFFndnlRY1RDdEJkMHo0VTZBLUlQS0VIeVhfRXVIZks1a0oza0YzSHVJNXJQSlJFdUJHMkhNNVlSQlBMMHQwanoxNEJ3QmpnX0ZYalBDOTl0MTRZX1I0ZENDMTFTVFRwdnhDSUUwT2dtRnRKa3liUUN6WVAzWFZGamlzaWFBQWhEcW9RLWUxT2p6VUNDckN0UVgwZmZhQVU4UmxmbVJqU05vS19QUDdYQlBwSFRvSE5SNGtHcWJXTTZ1aG1QNkdHSUFLM0c2Tm9JYUVn?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पिज्जा और मिठाई के बाद सब्जी-फल दुकानों की पड़ताल, पटना में सेब, केला और आलू के लिए गए नमूने। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Hindustan शामिल हैं।",
-      "image": "images/navbharat-times.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना: मिठाई के साथ फल-सब्जी दुकानों पर भी छापा, 5 फेल। इसे Prabhat Khabar और Hindustan ने रिपोर्ट किया है।",
+      "image": "images/5-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -581,15 +608,20 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUy1xVlZMeGFVZEZEZGF0d0dYalJPcUNkMmlQb1hOMkJHaXR2Q1dTZGRHUTIwTzBleEVfY2M0aC11WEFvcENJdVlNOWdBMW9XUm9WSld6RGdteGx6Q3JPSnFGSG94anVTSE5OUDRDOTMtRURmdXRkb29FLXNxZFJjMkVBcjVvbzVYRkp3dWJhdkFJWktuYU1pM2VFcU5sMEFkUXpkbE1DUzg3ZHVXWHdETzR2Y0xBQdIBuwFBVV95cUxNcXR6ZTFkcUctUWlFaTNXMHdaMDhFUkZGbjdVV3plU2tOU3Q0R05fUWtIcjRQZE1qeTg5REFOeDcxbWVhMW4yRkVaOG1MRUJpcE1lYThjS1hxcGhvOHdJQ0Q3bVREbG5IdG1mVlVlTXA4UU9rbFEyVmoteXRMRTFwWDFwTk9xZUI5dnd3Y25fcnV5M1NuLVhwUU02VUxJcWtjdnAyRlY4MlNhU0RyTk9vYWhNa1cwdWdFZGI4?oc=5"
         },
         {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTllGclNsVWFUYUJTTllqV2VoMk9KWEJqY1ZiZXJpMUg0TEZwN1NtNFZpQlVGcUhKN2Izck03aFgwM2tqZFNmbi11aUI4cmg4dTYwcmF0NU9lMHZNb3F0dlc1bkVTTWpjVzBEd0JUREJHbzhOSVZycXRzX0FCS01BWUZtaUx6WmUtc3YtT25RSjRzSWVRdlhrVFlkeDFHTmQ5NUtOcUhCWm5mdnN0M3drQU1RSkk?oc=5"
+        },
+        {
           "outlet": "Cricinfo",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
         }
       ],
-      "source_count": 9,
+      "source_count": 10,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 9 outlets, including Cricbuzz and ESPN India.",
+      "brief": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh. A crime-related story. Covered by 10 outlets, including Cricbuzz and ESPN India.",
       "image": "images/vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mus.jpg",
       "image_kind": "photo"
     },
@@ -665,17 +697,12 @@
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYmRDakNvNXRWdmZyNmZ2aGlfREZPa19BNGFRSDVnS1BTVlIyVFZnN3VIb21ZaGVoOWhmSFhpZHBZYTIxQ0g0RE52UzdxenQxVF85X2ZEbjdVajhiVWVYOW0yOTZaT2NuQmcwQlpVVW12MDhRaVFBZmhIUVd0bUVWbnBlZVI4akhrUTVZQVFFMkphTzBGdXNWSGJFdHRTRjIxaHRHbDN1TlVKclNKRk9YT29FbkxqUk1hdHZSSlhidGZKakZtNko2dlVpRVpCaHB4N1hTQ1VoZ2HSAeYBQVVfeXFMTmFZZmg1UnFIRFptVzY3aDRIdy00dkMxS29MeE1veVpoeWNFdTVpM1lGNXRkMFNLaU5KZlFSQkJVYzVQMWlSVXAwN1A3eFJfSEFJeThBa3h5Y0VhOEYybmdPTHpYZkJFTnhlMU1MZXU3c2w1R0FGVGxSeXBUNF9aUFBEMVROYVppQjdLelkySTFDcldKOUItaWFTUTM0OS1tUWNhQnlOWFRyZmtYTW00THVwWjZQUHBhYUxJSWxhVF9XWVI4UEo0Q3pqVUVDRFdWU0NmMlRlamJjbTdLNURJWmduejdYeFE?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVZWcDlXczFXR2tubGsxRWY1SzhaU0FxWWM2Q2VHWjZyd2hBS1ltTG5RRkQzSW03b01qZHJzSzB1blQ2WVlIRkpBSE5tLVE1eER0cmhpaUFiUHBrTHJrdExiM2FYbFhVX01DZGtoajBiMnEyVk53WVFVeGk1TDgwSEVaSk5JY3MtVXdpV1J4V3JZbndoeVgyVndRc0xKT05ZWkVNczY0c9IBrgFBVV95cUxOR1dCdmo0VEVOcWx3OHFzN0pWVHRlQzY2eFZ4Y0pGUkR1RURwQ0Y4N19SVjl5eXM0UTRrZDNUS3I0VUF2YWlJcDVTWjhhWjhuaElIX0JkZjRhR2U1ZE84LTJYSzJKeWpHVmZnam1oWnVPVlAtZ3pCcG9lZ2tEN1I1V2ZTT0Yzb3hjWTJ2Sks3WjgwdEdKYlhIbnNSRjV3dUk0TlBzV3BfazJrUlptdnc?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Three wanted criminals in PACS chairman's murder killed in police encounter in Patna. A crime-related story. Covered by 3 outlets, including The Hindu and The New Indian Express.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Three wanted criminals in PACS chairman's murder killed in police encounter in Patna. A crime-related story. Covered by The Hindu and The New Indian Express.",
       "image": "images/three-wanted-criminals-in-pacs-chairman-s-murder-killed-in-p.jpg",
       "image_kind": "photo"
     },
