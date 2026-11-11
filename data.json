@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11 11:55 UTC",
-  "generated_at_ist": "11 Nov 2026, 05:25 PM IST",
-  "story_count": 56,
+  "generated_at": "2026-11-11 12:35 UTC",
+  "generated_at_ist": "11 Nov 2026, 06:05 PM IST",
+  "story_count": 55,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -51,6 +51,48 @@
       "genuineness_label": "Verified",
       "brief": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market. A crime-related story. Covered by 5 outlets, including BusinessLine and ANI News.",
       "image": "images/patna-municipal-corporation-lists-rs-200-crore-municipal-bon.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "nitin-nabin-calls-chhath-puja-pride-of-bihar-extends-wishes-",
+      "headline": "Nitin Nabin calls Chhath Puja \"pride of Bihar\", extends wishes on Chitragupta Puja - ANI News",
+      "summary": "",
+      "date": "2026-11-11",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPREhMVEJTZm1aNEpJWExFVExDYWhRcTRXTWx1Mi1vT3VmRF9qNHpZbUtwSmVFcjUzRmVoZTVIQ2RRd0lHeWhwRmZBYWNzRW5QLXFRTU1VQWpFUmdKQ2FPOHBmclZKNUNydXRYMXVXamI2X3F2MGE4SWhqOE02eXRnR0lhM19KM2pfVjRwYW5ueGd2dmc2Y2xtRVZLSlBqUDNqOFE1eWttNjNwdlNQa2Nac2lFVklRWkk0V1UzS0NJR1FwSS14cHRlazNn0gHPAUFVX3lxTE8zd21ZMzNWY2NqYjhTM1VXRC1zaVBrdzJZbzBrT2ROc2ZfY0pma0lObDFfaWUtTW1VWk5YdWJJd2dtX0xnQVJWb3pJUnRDT2dGNzNvR2xMcWpDcDRhUkpWMGFmMURhYWhVOVdkaEwzWmduTGF6X0VTQkhISzA2MEhoTnRBbEw1SWFYak4yYWEycXR0MDc3Mk1GR28tZG9MQk1JRjdoWU53SUIyQ1NLMUlnelpHa3BLamY5OWlQU3FLNnNaTURDSmpqeHA0cjRiMA?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FRMkhwc3BCRnRDU0FLZVlCaU5menlVN3JmOWllTExoU2k0ci1KelBLeVktZWtqU29hVi0yS2steHJjOGQwY2pDN0lTNno2RlBFV19ONERVeGlxOEg0YmZYUWM3TnZJZVFfS0lFV1dwMU9ZLUdqWjFuTmxmdHlOLXV1ZnZwQWFyem4tQzc4dS1XWEl5b002VDlVX1NqNWRq?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeG12YWlTUllBS2hSNkJPQTk1ZWJLMi05YjVoM3FfNFNCbmRCcS1QSExJakd5T0xIcjdYdDBYcUhiUmZ3aWtOSzhBOFR4bHQ2eTZWSHNPbnVqRFItc1FpNzBuMko3VFd4Z2JaRTUySkxpc1ZOXzZZSW5NS0lqN0pET2hsQWYxam5PTmROZXRVc3ZYeUVOcEtGREtzN2JWb0k?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMEd1TnFnbzRWVWJxTzlELTF1dTdscW5kdGVUS29fdTlKd09iN3lqYVJRbTJyT24wamhHRWhSMEV4YlBacE5JS3ZCUWhTT0hXeVNYalk4ZktURVJSNnN1UGwydWxGZGpiRlZFcU1jUEN6eEZFTnZKeEkyWGxicklUbGt2RFZKWnJWbUVMc0lqaFhlYWhXaEdHUHZRTmJhNDRXWXBRV0M0RVJ4b0R3c2NZMHN3Mkt6MTNuYXd1Mk8zTWNNazJMV3gwQnoyZWo3LXNTSWh1eUotbG1hWlk?oc=5"
+        },
+        {
+          "outlet": "Inshorts",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHRoOE1yblpXNzNkZkJJQWN0RDhVT3VIdVhRTWlOYzNPRmtCXzZDZXdEOTdyN2c4WlF6dTJpejJ4T0JBd3VmTHpNazFGZVk4ME1xdUVLeEEzTG5QWmtpUXNaRTVXQVdkNXZZX1p6OFdLWXBHa0dlSHU4LW9NX0NaeC0xalBqLWhlR2gtMllFNkdGbjQxb3huQ9IBngFBVV95cUxQM0s0OTNQTzlCN2Z6SkVRZHhJUjYwd19CQU9yRDUtS2lGaHF1d1JzRnMxS2UyMmo1LUNaWnUya3ZqTkI5UENwS0pXT21JRElCcFdzaTBCYTVBWTN6dWc1U3dDX0NIbzFwazUyQXQtcE1uQnZkaXBHYTdLS3pQVWpMakNmdGM0dlJHaGZMUUxSTDdybFEwWGFwRzlyNFgyZw?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Nitin Nabin calls Chhath Puja \"pride of Bihar\", extends wishes on Chitragupta Puja. A politics-related story. Covered by 4 outlets, including Asianet Newsable and The News Mill.",
+      "image": "images/nitin-nabin-calls-chhath-puja-pride-of-bihar-extends-wishes-.jpg",
       "image_kind": "photo"
     },
     {
@@ -155,11 +197,6 @@
           "outlet": "Urban Acres",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYWNDNmlqX2ZXSjZ2SWpEcnVRZjg2RXJKM2lVWmxkVkRJc1ExSTFTd0N0TWxnVUdrejZranlpTUo5UFJqeW5scFlocEZ0SWlYWnBlUHc1TDR1TXJQTGJKbTNxMWFsNno2VlZYMDcxSlJHZDZVdGQxV045UllwVzlBM1FmWmFfUE5GeFlCYkFDWVNTZkE?oc=5"
-        },
-        {
-          "outlet": "Sarkaritel.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnhscGZ6Y2JlVlpZbTVaTUpLZHRNdnU0RzRaSDYyNjVZdEg5bXBkbFAwNEVDNk81ZEhIZ3Y1bFpkNEl6bS1aNm9zYTVkSUtQWXFoNnhxRjlnUDNGRnM5eW5tOGhHOEtDd1hGcmxTZlF4bkRpOFVwdE9pOEpvZFFYUGJpWWtmMm9TRU1RQTJKQThxa0E?oc=5"
         }
       ],
       "source_count": 2,
@@ -185,6 +222,11 @@
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSS1KTlQ1eXNMblZ5RzJLdDVnMzRRMk1udGZrWHJfNFpSeDhIVWExTjhBZmlpdHh5RXNvRmpod0dQLWRjZVF6SjdWZExRbWxwX0tzall1cy1YakdoTllnUXdQaWdldk9aWXdRVWtQaFJpdTZ3SDJpcFVIeVJySGV2V3BpV0djcWl2SGhjcmd6cEM0OXU5Y0kxMkwtSS1tZEpvSWtVVnhqMXpIdHV0NWpqZi04MDRsT09GV0VUTEpPM0RFUGpKUGlkRjVESDQyYzZCV0xzNHhTYXlTUdIB3wFBVV95cUxQVWlTVWV0SXRwa3o1S1pIYkZxSzQ2bDZWZ3dNcEtEVUdxWlpxczhCSm94cWtmYlJ5WkhjN0FnbTBibjE3azltQmV1YUFBWk9TNjBOTHVhSEgwb0huTTJXN0ozTFRQYzhkNTBzcWI0MXotU1k0cldyWE5OaTlOSy1WeWlDSnREbFRvUWZzSzFaS3NVSUtyaVZYUXcwWWE4QzVad2FTOHlNS0pwdjBIT3JDRVY0OUJ3eHNiLTBlS2daTDM3MDVHUEVmUFdUVTVNaUlOQlJYNWNHdmNMckxFVlY4?oc=5"
         },
         {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFJYdG5KNjB5UmVybUY1bjVQSHRpZi1Qa3RRemZPRExWWXhRdklILV91eFhOb1p0RzdpYURaR0xOTFJlU055LUhEU21sT3U5c05Nb2t3QUpGME96bWVKZGl2NTFiTTdUZnJaX09pX3BqQzJnblRWSTlMbVhOZlVrVEV6MmVnSWFXZjdyMW01SGlzNFg0UWllWExQRm93M0dTckVwZUR2bkJRc2ZJYmtmS0J0Ri1rT1JOcXRsUmhFR1RvZ05Sa2tfWTBFdXJLSXBRa1dISWg4dHRfZHNObjJlcmFJemhKcFNDM25qQnhYdF_SAfYBQVVfeXFMTi1Dc0RCX1h2cTdXYWhqMFlPdjlZRHRJc055aTFTcTVaUGZncUVkNzdNX3Zjc3l2N2p3ejkxVzhFcGFqSmVUMzB1MDJuVVRWMFVjbHlxUzYxTTRRbzFtM1ZUU25BX3MyWE5VNWJWbUtJMEJjYS1zSmNWQ0cyMnhMbXA1TzZ2WTdwcTlkNGhfWEZzV2tKMXdzdk5TUUsxQnhaUFFadEZhcExOS2cxMnB3X1JMUFB5Z2gtWGZhUHI0QXk0SElNSWpsVFdORVQtbHhseF8tY2R2Y0ZldTNMQTh0SEJZTHVPYzB4RFNOWHk1Ry1RMXg1Zm9B?oc=5"
+        },
+        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTdXNTZJbWJWU3NrZFdlanNtUS1WdWgzRGpFYVpZaHhTdGJQNDV3UFNMbnNqX0ZQRkdTR3AxRno4RXRiUEZTbHBlaHNUazIwcG1QbF9DdHhvb2dmMzBjcnNhSnZtS3hjNmpkdGdUT3NIRTcwcEJsXzFoendQYUZEUFAzZWVQVDFlc3lOekdDdzdSbDUwaWdkUU5YcFRmODhvcUREdTh6UVNpdHdVX2R1U3BITVQzR2JZbnJoNXAwM250Unp3ZlHSAcsBQVVfeXFMUDJHTVRMdjFfX1FlVlJ6WTc3aDVyLS1la2lscWtRcjRmU3hWTUVzZ3o2SXRFSVZFWF9EU1hpaExKVnVrc21OamhONDNBRDFhdDJvckRwU3dNektWWVlhdGJDaDZJTDN1RnU1NXVlT1owSHh3b1AzME9RM1BNaTl4Z2ZPdlZXYkFmUXdwSTZCeThJOVJUT3ZQUVFIZzlEUml6bkJtcU5FQzNGX1hqUzVaWGtRTUJrcWh6emdBcGNidHpPNTI1Y0QxX05qdGM?oc=5"
@@ -195,11 +237,90 @@
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3Q1SnYyMzY0SmNvX1B2R3ZscTBGTnFwckt3b2ZvbjFpS3daclJDUzVaemE5VXM4cFloZzdyYWY2SVB4Q0JiNWtCbHNBYkxEdVhBYUJPSHZGRWFIaEtpczR4NDZzSk9hWTBFeVJRanQ2V1oyVS02b1NWdDJTd09pV1RtM0lrcnpuZGV0cFpjR1BUamdlMDB3dWdLcjVlSTFsQmFlUVotRG9XcERVWEsyaXowMGRfa1VZaF95ajdaUU1TRGFTcjM5UGVxYVQwRFpWNjlKNkpweDlIUdIB4gFBVV95cUxQSkZjc3lfLUpERDU5bXNSOWhNYWdXYXVHcnNaRGt5dm51azk2T2hmUzZUNlVOLVdJRTBEbkVjWjhERS1jMElNWDd4dmV6V3hTQWpQazRidmZ2UWwzM2dyT3FiUlVma0NZamFsVXlxVXRDUHlxdy10dl93U2lpT21abnNXZWhLSE9qVVFaVUVESXZxczh4dmZiNlM5RlZTT3hQSFgzczcyc3pVcnRzZmlXUzB3UnloNUdXbDdHRmZSUDNaRUUtSGRPMTdfT2JMTUtqS2RxUzFLUElXbjFCMnBIVVh3?oc=5"
         }
       ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Rs 3-crore Defender, horse race with SUV prize, 150 dishes: Anant Singh goes all out for daughter's weddi. A politics-related story. Covered by 4 outlets, including The Times of India and News18.",
+      "image": "images/rs-3-crore-defender-horse-race-with-suv-prize-150-dishes-ana.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "mafia-rule-prevails-at-every-level-in-bihar-claims-rjd-s-tej",
+      "headline": "'Mafia rule prevails at every level' in Bihar, claims RJD's Tejashwi Yadav - The New Indian Express",
+      "summary": "",
+      "date": "2026-11-11",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd25LN3lyMnEwQ2s0TUJJdjJsXzZBOUZoUFFpLUN2aGNwZjR1RDJ4UlN3UU5QS1gtRHNhYXRkZWZUWmdqTVRMbW9OQm5vcnUxQ0FnQUkxYVplUHE5QkZ6cEpvUXVQYkFXc2R3dTdQZEl3Tzg5dE1KMU00MGJ6clNQR01OOGFFSzhiOFE5WHRnNFdLemVZdFQ3VDBMZmZYSk1BbDR3XzQ1VC1XNFFaaWJEMUpVZzlJSU5aa211ZGxFaHdlSDM5a3UxU1plb2lNS1J60gHXAUFVX3lxTE50V1FTc3E2N3BSeTFLVGVlNzlKT1hzVGduR3VaOHFtXzZWZG82WDgyX2ZvT2paSTlHcTBsVHI5dHpTSEhGTHZ2MDF5VnFRMm5Wd2trUnl4QU5KR0lTcUxsMFRmeGk3Tk5CdXJRd2hkdWYyZWI2YTNQZFJ5MjctUndCQmtPektlX1gtck91dVBEbkxJRWVYUDVRWVRldlVyQ2hodzRsSEQxRlc4aktnQ2ZnV1RmUWhnWUN3TjdnbVhKZml4aThFUWVVOFZvc2toNW1XVnItelB3?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWY5ZUVXVHg1dWNZMkR1N2VpQ241Q0JmcjlYbU5lUG9ubUVKZ2pQVFFBa1NlTzdhZnZMVW1aSHBmekxHQmt4ZmJiczBMb1NSb0s5TGo1V2VaU2d3b3JYUUItbS1PM0pUWm9iVWtkcWFFQk5mdjBvYlU4NjBUU25BOFo5MEJ6bzNoTjc4VlZzY3I3U0dYZDFvcm9TNEFQUXFSSU9CclliaFfSAa4BQVVfeXFMUHNuYU12T3dTdVVLMmRPdHdpX19kQnJTRmIwMnFXOGVjejlTcWdpeEFNT3c5cExTMGtES2FFWURWeHNuX2JORkxfUnVFZ1J5Yl9mWW9IZy16NjcycDFwSE83M2ZBQ0lPeXNPUEs4RDIwZEVoaUdqNi1pVjN2NUxwcUw4ZlhfdXFFd1M0YW1ZWUhPaXh5WUIxN19WQUtoM0ZLTzZ0S2RHZWdOZHJMR01R?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHFhWGh4ZUsyY2tkMjZDanhKZlZfQTRIOWs5TkVHaDQ5VVRFd1BEMWI5bW1IYk0yMXFTYnp5QjZoVlFzS0lSelZTa2UxaWZKeThkbFUzOTF6LTNQRHVTVVdJdERGOF83NU5hSnZNOXpNQVBDX09qZ1lBUnNJQnZydXJCNUh4V3ZYS0J6YkM4VW9Za3FsTzM2YzR1RmtaNktnSGxONjNPMU5BeWlfSE56Y1ExdG1BMGxFclEyMUFWUDI2cFJMVFg00gHUAUFVX3lxTE1ySEdJTENxVGd4Z3BacmYtbXRLT3gxQU43Zy01NmRoS2VJQUZrX2tVdktZUDd5bWRVNVM4V2RpYUVWcnU2Q251MnZwSEJGRFNIVWZRUFlDNWpobHAtX1lYMXh3dWxrQnNOZzRTdmQ1cUhUQ253b3hWYV9ST0VZYVBVckJDWDBha1EzTUR0dVYtYkVoUmdZZ1lfYlRTWS0wRE1MLU9DcXI2V0JkbXd3ZGY0MnVpelB5YWVScl96dE0yWUF6MzlSakkwblg1UHpZcDF6Ynk0?oc=5"
+        }
+      ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Rs 3-crore Defender, horse race with SUV prize, 150 dishes: Anant Singh goes all out for daughter's weddi. A politics-related story. Covered by 3 outlets, including The Times of India and India Today.",
-      "image": "images/rs-3-crore-defender-horse-race-with-suv-prize-150-dishes-ana.jpg",
+      "brief": "'Mafia rule prevails at every level' in Bihar, claims RJD's Tejashwi Yadav. A politics-related story. Covered by 3 outlets, including The Hindu and ThePrint.",
+      "image": "images/mafia-rule-prevails-at-every-level-in-bihar-claims-rjd-s-tej.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "gangrape-survivor-thrown-off-roof-in-bihar-s-begusarai-month",
+      "headline": "Gangrape survivor thrown off roof in Bihar's Begusarai months after sexual assault; one arrested - Deccan Herald",
+      "summary": "",
+      "date": "2026-11-11",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Telegraph India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdHI4aDdhdnVPTEdIY2FRVVk5RHJfUTEzNTdHS08wUzJaQ25xQXJvVDF6UmV0ZFdGNnVqazBQSkxJMW9zUWFoWEhabDNDZDNfR3RuaTFHN2RZNVp5NUN0UzY2eE4wa3dZVXN1cnh1OTJmWkJNRXEzWld6c2VFMUxySTF0bEhJSnIzZDV3dklOLWdUa3JFMjRFYXN2bXFkajd6emhPNGZGOE9JYzB3ckE2RmFhQmZXdlRhU3Z5OGxtSERIa0xFZDZ6NG1ZTGpUeFJFNWtxYdIB2gFBVV95cUxPWWlqWnNpNnI1YmFhNlNiX3BITjd2a2dGR1NkLTFtM3A2cWxpMENIYy1wUXpRTHhsalo4cUZVOHRzRjlsdzBTU21NNXpoYWFHNlpIZElTblFqUUZQQ2tma2syTndWUGZhak0yM3pkQzQ1UTF3NTZfWGNDb0cxLTdVYTRyQXpNQ2t2TjFhN0xzdUZMemsxOGZZemgxdWRONUNrMWdmRVBLQlFkTW9nUURGSUZzZ2ZBMmI3TEppdWQ1ZmpES1RiX3FsRkpGSFBNQmhUa0UyQXpqSndOUQ?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnRZVFp6QjVnN3hUX1NYdTYzNjhpcVE5WVRKUzBWRjFiSWdkMVV0dUdvMjdhblBDSi1WOTNRdEk2Nll4ZElBcWZ1QzVva1EyUm45b0NyaDRFenE5SXJKaGRCQmpndDB3cTdDWTgwZnFsSFY5R0N4cEJONng3eGNpbkdLV1JteVZwVzB1and2Wk9wMUtoS2xZMVBrU1pESUdQV09jRVVYU05JRXM1R2RMTkdWV1piRGVsS0l5bmlWQ2NyNm1kWHFR0gHMAUFVX3lxTE1DTHN6MHZpRlo3dEJkLU1qanJVbzk5Ql9UWElFNG1lb043Qk5LYUpIakJwUmYtd08xd2kzNWEyNWVNQmxkQXNlbW9RYzJWTm9lT0R2NTM4aVFtSVVnd2s2NVBqMWhtbkdHb0k5SnNPdkNDa25sM2NvX1ZKZ0JnNTVLb003ZFdzN3BuNE1Ka1lHSkFvVl9Yc2pUYWFJSEpiMi11MVlkcWRwRUhVSGUtSEd2YVE4bE1qZXExRmJLeFNOUklIWUJ1Vkt5NEpCXw?oc=5"
+        },
+        {
+          "outlet": "Deccan Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQlVtLWRXQlBrS1Q1NHJfVFhpTkVDdldBSEpMODduWEV0SElubmFuU2RtRFpQRGFzd1EyQUpEcFpNUVd1Q3I0V3RMLVBvV2lENUN4QUFwVk5GZ29GV2NhaEdKUU1UdzQxajE4cHV6RHp4TlhWdnR5cXpnUUxmX2JtSjVXSXlsWC1rdjhEZU5IVkZoaUp2Nlp5ZnFKcFNMbDBiZmM3azFYYVJhZ200YkVRYTZhanlvMGhWeDNXY1VGMjQtY3lpSUkza1hxM0RWTms2RVJTTktfUXREV0E?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjdjdElZY3V2VG5KOVhnNlNubm0tY2ZOMVp0UDZFLXc1VTBnZV96OU8zQ0FtRkdMaUNsNlhSS0tjR0N1dXEtQi1ZOHNUQlMwV0hiV3lXdkRsV1dkXzY2YTdlbXJhTTRWWW1UZy1KUFpDa1QxOHF4SVFVVGxSdlFnSk1McWkwMkpBS0ZFU25zNktRbV91bl9KMURqLUhpeXVmdFlIRzdXUXJ1Y1hibDc2cmxQQlh2OFU4cm1JZHJ6a21CbmlBcUhTeA?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmJKQlZjT3VHRlZLY3kxeUd3aUVnbXktR2tObG84V1c1SXV4eVJQajNhOXFkSWJLc0ZXWEZmTS1CMUlIcUVhSktxaWQ4TlZ5OFlUdTFjVC1BWkg1b3VYWW9PV2dqM1owbGVuNmIxQjNaVkZiNm5xRHk4NlBERWp1ek5XOTdBdWFqQktmb2w1bEkwOU84Mzhta0R6RldpeTNUSDhUeW95ZDhUTkVScVBJRVNmbkFfbWJIZFJCZDN4LTJMNlNhTzg2dzlIeHZjRTjSAdQBQVVfeXFMT3J6Z0dSbDZxM3BFSjRuQXZ6eFJpZ251QzVxRHpZcEFkZjR6b19ZQ2Z0VWRsMVBWZGdPSVg2NGNKR3lhZXVCeFktaHVSaEhtcnNlMDdSNW00YUhMa1A0Q3ducjNMOVkwWkRZa25fSGFydWM3M1pJQThRQWxsX3lOVW1iTnB2b0MxSWVYMi04Z2ZoSGY2MWhWVHFkZmJ1bHVzLWVxZmpFU1N0SjRGUUFpYVFjcHpGd3lBY05IWk02RWhZSDk1eF9CYUZPSWJ4S0E4UmZpZ3U?oc=5"
+        },
+        {
+          "outlet": "Vartha Bharati",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQVgtcmZ4ZzVpaW0zcWM5d0twQVNhcHotTFR0NHFtUDdYb1dfSFVhYTVPV1dWRHF3SXpZZE5yMzI2UnZ5clJ2UEYwR1B2QzZFdXV1dXBLNjQwRkwtc0t6TU9PcVJFQnk3S0pkTXdtRU12bVpjb05pN2NQa09IeEN0WksyYTRURFNFS2lZLWdILXNkaTItZ3dTMVFoVWNDZWNrWlFSOXh4SGpIMXVFRG92Y0QwTGxzRjNIbW9jN2YxcEV0ajdzOFg1a1FBcEpUNTY3cy1GbFI2NNIB3AFBVV95cUxNVDZRQW0wYXg2bnAtc2NiaWRpd3VLNVpGQk5odFJBRGJTQzVfXzhiajNObTdldzZ0aUxXZWlEVUYyUUN3RXFrZGR0Mmpoa1ZIbG1PbzA0eXEwUWNPc1ZuYzZjQnU4cGJWUTlxbFhRSHBkTDNfcGptOERoTDd5eTc5cHBuclB5Nk9iMFhwazdhMXZpMnhlME1mSWU3aEhwSDFvckhGN3lyNGpyVFF6V3VnOUtOYURPY29KR20xZWtNV3d3RHNyVURPUDBtLVlfSmNKa3pPLUx4MkVqOElZ?oc=5"
+        }
+      ],
+      "source_count": 6,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Gangrape survivor thrown off roof in Bihar's Begusarai months after sexual assault; one arrested. A crime-related story. Covered by 6 outlets, including Telegraph India and ThePrint.",
+      "image": "images/gangrape-survivor-thrown-off-roof-in-bihar-s-begusarai-month.jpg",
       "image_kind": "photo"
     },
     {
@@ -235,53 +356,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "gangrape-survivor-thrown-off-roof-in-bihar-s-begusarai-month",
-      "headline": "Gangrape survivor thrown off roof in Bihar's Begusarai months after sexual assault; one arrested - Deccan Herald",
-      "summary": "",
-      "date": "2026-11-11",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjdjdElZY3V2VG5KOVhnNlNubm0tY2ZOMVp0UDZFLXc1VTBnZV96OU8zQ0FtRkdMaUNsNlhSS0tjR0N1dXEtQi1ZOHNUQlMwV0hiV3lXdkRsV1dkXzY2YTdlbXJhTTRWWW1UZy1KUFpDa1QxOHF4SVFVVGxSdlFnSk1McWkwMkpBS0ZFU25zNktRbV91bl9KMURqLUhpeXVmdFlIRzdXUXJ1Y1hibDc2cmxQQlh2OFU4cm1JZHJ6a21CbmlBcUhTeA?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnRZVFp6QjVnN3hUX1NYdTYzNjhpcVE5WVRKUzBWRjFiSWdkMVV0dUdvMjdhblBDSi1WOTNRdEk2Nll4ZElBcWZ1QzVva1EyUm45b0NyaDRFenE5SXJKaGRCQmpndDB3cTdDWTgwZnFsSFY5R0N4cEJONng3eGNpbkdLV1JteVZwVzB1and2Wk9wMUtoS2xZMVBrU1pESUdQV09jRVVYU05JRXM1R2RMTkdWV1piRGVsS0l5bmlWQ2NyNm1kWHFR0gHMAUFVX3lxTE1DTHN6MHZpRlo3dEJkLU1qanJVbzk5Ql9UWElFNG1lb043Qk5LYUpIakJwUmYtd08xd2kzNWEyNWVNQmxkQXNlbW9RYzJWTm9lT0R2NTM4aVFtSVVnd2s2NVBqMWhtbkdHb0k5SnNPdkNDa25sM2NvX1ZKZ0JnNTVLb003ZFdzN3BuNE1Ka1lHSkFvVl9Yc2pUYWFJSEpiMi11MVlkcWRwRUhVSGUtSEd2YVE4bE1qZXExRmJLeFNOUklIWUJ1Vkt5NEpCXw?oc=5"
-        },
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQlVtLWRXQlBrS1Q1NHJfVFhpTkVDdldBSEpMODduWEV0SElubmFuU2RtRFpQRGFzd1EyQUpEcFpNUVd1Q3I0V3RMLVBvV2lENUN4QUFwVk5GZ29GV2NhaEdKUU1UdzQxajE4cHV6RHp4TlhWdnR5cXpnUUxmX2JtSjVXSXlsWC1rdjhEZU5IVkZoaUp2Nlp5ZnFKcFNMbDBiZmM3azFYYVJhZ200YkVRYTZhanlvMGhWeDNXY1VGMjQtY3lpSUkza1hxM0RWTms2RVJTTktfUXREV0E?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmJKQlZjT3VHRlZLY3kxeUd3aUVnbXktR2tObG84V1c1SXV4eVJQajNhOXFkSWJLc0ZXWEZmTS1CMUlIcUVhSktxaWQ4TlZ5OFlUdTFjVC1BWkg1b3VYWW9PV2dqM1owbGVuNmIxQjNaVkZiNm5xRHk4NlBERWp1ek5XOTdBdWFqQktmb2w1bEkwOU84Mzhta0R6RldpeTNUSDhUeW95ZDhUTkVScVBJRVNmbkFfbWJIZFJCZDN4LTJMNlNhTzg2dzlIeHZjRTjSAdQBQVVfeXFMT3J6Z0dSbDZxM3BFSjRuQXZ6eFJpZ251QzVxRHpZcEFkZjR6b19ZQ2Z0VWRsMVBWZGdPSVg2NGNKR3lhZXVCeFktaHVSaEhtcnNlMDdSNW00YUhMa1A0Q3ducjNMOVkwWkRZa25fSGFydWM3M1pJQThRQWxsX3lOVW1iTnB2b0MxSWVYMi04Z2ZoSGY2MWhWVHFkZmJ1bHVzLWVxZmpFU1N0SjRGUUFpYVFjcHpGd3lBY05IWk02RWhZSDk1eF9CYUZPSWJ4S0E4UmZpZ3U?oc=5"
-        },
-        {
-          "outlet": "Vartha Bharati",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQVgtcmZ4ZzVpaW0zcWM5d0twQVNhcHotTFR0NHFtUDdYb1dfSFVhYTVPV1dWRHF3SXpZZE5yMzI2UnZ5clJ2UEYwR1B2QzZFdXV1dXBLNjQwRkwtc0t6TU9PcVJFQnk3S0pkTXdtRU12bVpjb05pN2NQa09IeEN0WksyYTRURFNFS2lZLWdILXNkaTItZ3dTMVFoVWNDZWNrWlFSOXh4SGpIMXVFRG92Y0QwTGxzRjNIbW9jN2YxcEV0ajdzOFg1a1FBcEpUNTY3cy1GbFI2NNIB3AFBVV95cUxNVDZRQW0wYXg2bnAtc2NiaWRpd3VLNVpGQk5odFJBRGJTQzVfXzhiajNObTdldzZ0aUxXZWlEVUYyUUN3RXFrZGR0Mmpoa1ZIbG1PbzA0eXEwUWNPc1ZuYzZjQnU4cGJWUTlxbFhRSHBkTDNfcGptOERoTDd5eTc5cHBuclB5Nk9iMFhwazdhMXZpMnhlME1mSWU3aEhwSDFvckhGN3lyNGpyVFF6V3VnOUtOYURPY29KR20xZWtNV3d3RHNyVURPUDBtLVlfSmNKa3pPLUx4MkVqOElZ?oc=5"
-        },
-        {
-          "outlet": "Telegraph India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdHI4aDdhdnVPTEdIY2FRVVk5RHJfUTEzNTdHS08wUzJaQ25xQXJvVDF6UmV0ZFdGNnVqazBQSkxJMW9zUWFoWEhabDNDZDNfR3RuaTFHN2RZNVp5NUN0UzY2eE4wa3dZVXN1cnh1OTJmWkJNRXEzWld6c2VFMUxySTF0bEhJSnIzZDV3dklOLWdUa3JFMjRFYXN2bXFkajd6emhPNGZGOE9JYzB3ckE2RmFhQmZXdlRhU3Z5OGxtSERIa0xFZDZ6NG1ZTGpUeFJFNWtxYdIB2gFBVV95cUxPWWlqWnNpNnI1YmFhNlNiX3BITjd2a2dGR1NkLTFtM3A2cWxpMENIYy1wUXpRTHhsalo4cUZVOHRzRjlsdzBTU21NNXpoYWFHNlpIZElTblFqUUZQQ2tma2syTndWUGZhak0yM3pkQzQ1UTF3NTZfWGNDb0cxLTdVYTRyQXpNQ2t2TjFhN0xzdUZMemsxOGZZemgxdWRONUNrMWdmRVBLQlFkTW9nUURGSUZzZ2ZBMmI3TEppdWQ1ZmpES1RiX3FsRkpGSFBNQmhUa0UyQXpqSndOUQ?oc=5"
-        }
-      ],
-      "source_count": 6,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Gangrape survivor thrown off roof in Bihar's Begusarai months after sexual assault; one arrested. A crime-related story. Covered by 6 outlets, including Rediff and ThePrint.",
-      "image": "images/gangrape-survivor-thrown-off-roof-in-bihar-s-begusarai-month.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "4-year-old-girl-raped-in-goa-bihar-native-arrested-2nd-such-",
       "headline": "4-year-old girl raped in Goa; Bihar native arrested, 2nd such case in a week - Mathrubhumi English",
       "summary": "",
@@ -291,19 +365,14 @@
       ],
       "sources": [
         {
-          "outlet": "The Siasat Daily",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHItQmQ0SU9ucHFlc0xqRVJ3QTNpTFdQaE9PVlg3bU9HOXZ5MXB4SWdUZWtyUjJSNV90MGM1YnFLZy1naWpIY05Ncll2UDdmWWJQY0FfTDBIOFdvVXFraFhOemJ4ZzJOMk8waTZTMG80V1Nmc0M2MURDVXVxRWRFcG43V0NDMVVaMWfSAY8BQVVfeXFMTTZ1S0hMMEFsZTZ4b0tSblI2NW8xME5aN000QUN1VTBaSEUtUWdwWTBpVkxwbEVJMFE3QmFzMFh4bFlWd0dFR2QtbElCX2oxX2NvdU1SVlRoNkl4MmxIUzVYeTRNam9zMmxScUVyNWNIMUJoaHBIcGwySWQ2aWg1UENyazVMdWRhYk9iVmYxLWc?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZzA1U1FUZlRobElLcnVySHk0TFBGSnpWa1ZNTUY3dXhVV0FPMHRYWGdoM1FYQWFmWDlBUXR1TnhBWlMzeTZCOFFIUThnRXVEV0JOOWx5SldHb2hlZWdmMndPRHVKa3RuUmVYNlNTc0t2dEpEY3NlMm4wU0wzQk1kdUlRWU9jaE9FRS10a19FTnUzZGttallRR2JqZm1NNnRXVlQ0dDdaTlYzTDY2ZmhnUjNuY0IzbWhwcUMzdXZJcTZrMklESXZjN1VyTk9wZlhSUEFr0gHaAUFVX3lxTFBGU1ZtcHBXNEVTemFBeHlqbmJQc0haaWpJVW1iUzhxTDhKdnJqUUV3V1l5aDdGb0I2cEtYQ1MzSHppV09pQ1hkUXJSdTV0Y0VTejV2dkFGWk45VERDcko4OFhTS1FmaHdwWUM5OG91cTJVeENzdlJpLU8tOGlIN2liVHJrcnpLUDdMUlJTQ1g1ZDVUM3NySG9Pc3Jjb2UwMUxGZlA0bFJQUDNueHhETzBmSW1LTmVmclRxU2toazBITFBwbHJqVGxSOFJFYXJXUTFLR0lhLVQ5X2pR?oc=5"
-        },
-        {
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE5NenNqQy1sTjNGYTRDaGEtSkltX3BWLVd5ODVrc2dRUnZwdmJNTms3R3Z0b2txM3lIaE00X1JEMkswUUgxSy03Qk5PTHJ4M2VYeGlQaFRNUEtON1kwbHByQXlLenhDUkJuNEhoUDhrZjY3aHdNb3I4SnVuTWpKRVYwbHhqTzBMVUlhZ05JU1RhVGFOSFVfb0xNQ2lpaE1FVHZaQS1Dc1Q1bWZPamxocTZkdmUzeEduaVllOU5WWVV4eU42UGFz?oc=5"
+        },
+        {
+          "outlet": "The Siasat Daily",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHItQmQ0SU9ucHFlc0xqRVJ3QTNpTFdQaE9PVlg3bU9HOXZ5MXB4SWdUZWtyUjJSNV90MGM1YnFLZy1naWpIY05Ncll2UDdmWWJQY0FfTDBIOFdvVXFraFhOemJ4ZzJOMk8waTZTMG80V1Nmc0M2MURDVXVxRWRFcG43V0NDMVVaMWfSAY8BQVVfeXFMTTZ1S0hMMEFsZTZ4b0tSblI2NW8xME5aN000QUN1VTBaSEUtUWdwWTBpVkxwbEVJMFE3QmFzMFh4bFlWd0dFR2QtbElCX2oxX2NvdU1SVlRoNkl4MmxIUzVYeTRNam9zMmxScUVyNWNIMUJoaHBIcGwySWQ2aWg1UENyazVMdWRhYk9iVmYxLWc?oc=5"
         },
         {
           "outlet": "Mathrubhumi English",
@@ -314,12 +383,17 @@
           "outlet": "Udayavani",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmJfNlVZZlc5WWxFcXpyVFdZR09wSFNoZC1STWlaZy16NWtEZ1pkai00STFpdFg0cWRWVzlTUHFmQU1TcGJ2Rk14LWs0b2w4eDdneFV3NnR4aFVlZU1QQnZMS3EwX28yLU1wOHNGVW94QzFjbGpzSmN6VWtRQXpIWjJrRGc3ZmRmWVFBRzBIRXlSdThWVjF0Uy04Q09HRnVtZlhxMEVLNW40ZXBxQ1N3UUlyX0gyMlV3OGl0UQ?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZzA1U1FUZlRobElLcnVySHk0TFBGSnpWa1ZNTUY3dXhVV0FPMHRYWGdoM1FYQWFmWDlBUXR1TnhBWlMzeTZCOFFIUThnRXVEV0JOOWx5SldHb2hlZWdmMndPRHVKa3RuUmVYNlNTc0t2dEpEY3NlMm4wU0wzQk1kdUlRWU9jaE9FRS10a19FTnUzZGttallRR2JqZm1NNnRXVlQ0dDdaTlYzTDY2ZmhnUjNuY0IzbWhwcUMzdXZJcTZrMklESXZjN1VyTk9wZlhSUEFr0gHaAUFVX3lxTFBGU1ZtcHBXNEVTemFBeHlqbmJQc0haaWpJVW1iUzhxTDhKdnJqUUV3V1l5aDdGb0I2cEtYQ1MzSHppV09pQ1hkUXJSdTV0Y0VTejV2dkFGWk45VERDcko4OFhTS1FmaHdwWUM5OG91cTJVeENzdlJpLU8tOGlIN2liVHJrcnpLUDdMUlJTQ1g1ZDVUM3NySG9Pc3Jjb2UwMUxGZlA0bFJQUDNueHhETzBmSW1LTmVmclRxU2toazBITFBwbHJqVGxSOFJFYXJXUTFLR0lhLVQ5X2pR?oc=5"
         }
       ],
       "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "4-year-old girl raped in Goa; Bihar native arrested, 2nd such case in a week. A crime-related story. Covered by 5 outlets, including The Siasat Daily and The Hindu.",
+      "brief": "4-year-old girl raped in Goa; Bihar native arrested, 2nd such case in a week. A crime-related story. Covered by 5 outlets, including Rediff and The Siasat Daily.",
       "image": "images/4-year-old-girl-raped-in-goa-bihar-native-arrested-2nd-such-.jpg",
       "image_kind": "photo"
     },
@@ -362,38 +436,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "mafia-rule-prevails-at-every-level-in-bihar-claims-rjd-s-tej",
-      "headline": "'Mafia rule prevails at every level' in Bihar, claims RJD's Tejashwi Yadav - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-11",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWY5ZUVXVHg1dWNZMkR1N2VpQ241Q0JmcjlYbU5lUG9ubUVKZ2pQVFFBa1NlTzdhZnZMVW1aSHBmekxHQmt4ZmJiczBMb1NSb0s5TGo1V2VaU2d3b3JYUUItbS1PM0pUWm9iVWtkcWFFQk5mdjBvYlU4NjBUU25BOFo5MEJ6bzNoTjc4VlZzY3I3U0dYZDFvcm9TNEFQUXFSSU9CclliaFfSAa4BQVVfeXFMUHNuYU12T3dTdVVLMmRPdHdpX19kQnJTRmIwMnFXOGVjejlTcWdpeEFNT3c5cExTMGtES2FFWURWeHNuX2JORkxfUnVFZ1J5Yl9mWW9IZy16NjcycDFwSE83M2ZBQ0lPeXNPUEs4RDIwZEVoaUdqNi1pVjN2NUxwcUw4ZlhfdXFFd1M0YW1ZWUhPaXh5WUIxN19WQUtoM0ZLTzZ0S2RHZWdOZHJMR01R?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd25LN3lyMnEwQ2s0TUJJdjJsXzZBOUZoUFFpLUN2aGNwZjR1RDJ4UlN3UU5QS1gtRHNhYXRkZWZUWmdqTVRMbW9OQm5vcnUxQ0FnQUkxYVplUHE5QkZ6cEpvUXVQYkFXc2R3dTdQZEl3Tzg5dE1KMU00MGJ6clNQR01OOGFFSzhiOFE5WHRnNFdLemVZdFQ3VDBMZmZYSk1BbDR3XzQ1VC1XNFFaaWJEMUpVZzlJSU5aa211ZGxFaHdlSDM5a3UxU1plb2lNS1J60gHXAUFVX3lxTE50V1FTc3E2N3BSeTFLVGVlNzlKT1hzVGduR3VaOHFtXzZWZG82WDgyX2ZvT2paSTlHcTBsVHI5dHpTSEhGTHZ2MDF5VnFRMm5Wd2trUnl4QU5KR0lTcUxsMFRmeGk3Tk5CdXJRd2hkdWYyZWI2YTNQZFJ5MjctUndCQmtPektlX1gtck91dVBEbkxJRWVYUDVRWVRldlVyQ2hodzRsSEQxRlc4aktnQ2ZnV1RmUWhnWUN3TjdnbVhKZml4aThFUWVVOFZvc2toNW1XVnItelB3?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHFhWGh4ZUsyY2tkMjZDanhKZlZfQTRIOWs5TkVHaDQ5VVRFd1BEMWI5bW1IYk0yMXFTYnp5QjZoVlFzS0lSelZTa2UxaWZKeThkbFUzOTF6LTNQRHVTVVdJdERGOF83NU5hSnZNOXpNQVBDX09qZ1lBUnNJQnZydXJCNUh4V3ZYS0J6YkM4VW9Za3FsTzM2YzR1RmtaNktnSGxONjNPMU5BeWlfSE56Y1ExdG1BMGxFclEyMUFWUDI2cFJMVFg00gHUAUFVX3lxTE1ySEdJTENxVGd4Z3BacmYtbXRLT3gxQU43Zy01NmRoS2VJQUZrX2tVdktZUDd5bWRVNVM4V2RpYUVWcnU2Q251MnZwSEJGRFNIVWZRUFlDNWpobHAtX1lYMXh3dWxrQnNOZzRTdmQ1cUhUQ253b3hWYV9ST0VZYVBVckJDWDBha1EzTUR0dVYtYkVoUmdZZ1lfYlRTWS0wRE1MLU9DcXI2V0JkbXd3ZGY0MnVpelB5YWVScl96dE0yWUF6MzlSakkwblg1UHpZcDF6Ynk0?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "'Mafia rule prevails at every level' in Bihar, claims RJD's Tejashwi Yadav. A politics-related story. Covered by 3 outlets, including ThePrint and The Hindu.",
-      "image": "images/mafia-rule-prevails-at-every-level-in-bihar-claims-rjd-s-tej.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-board-to-provide-free-jee-neet-coaching-for-2027-regis",
       "headline": "Bihar Board to provide free JEE, NEET coaching for 2027, registration begins at coaching.biharboardonline.com | Education - Hindustan Times",
       "summary": "",
@@ -423,14 +465,14 @@
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOWdXbDVGbkhRN2IyYUl2aVhSTV93RkpxUThVUnpMUkpWb25BOEhDSTRYeDgyTnl4WWNlVktqdWtOMlM3S0JHX0Q0VDlyRzQtd2ZrS0hmd0hxYVo0b3ZMa3RmaUlQQzhIQk9oVUNsUi02dEdISU5pU3JBWmtuS19wWFhlcXFmUUdUT3RSVDBScFZRbUdkTV9ENG1Lenc2al9fbEtQbGx4NFJBYUlkMlVNUFdWamFjbERkUHp5OE5RbGV5eDZsdkU1UnJPSklMdk90Yk9VMDR0U2VmemtoTW1NeFJvcngxZFBPN3d0Wm8xMmpYbHZlVjVDdDRodw?oc=5"
         },
         {
-          "outlet": "Shiksha.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2UtUkM3ejEwaWVKcXR5T2VCaVVVQkQ3LVZVZ1RLZHV5MEwwOUhLV0gxbTAxdkJLSVJIRlpBOEZsQ1FlU0Y3bHlSeVpycE5jOHBnUXU0dzFMekpGYWY0SU1WTGt5Tmg0Wnk0QTlycmw5Qm8wYTBqUEp1YjdxNWxSaTlPR2g5WG1pM2ZXUEUxa0RCZk1fTVRUWENjVFJIQ1I2dFBqQll4SFVvWXBZTXlIc1Bya1ZpNGdiZFJKa2p5SQ?oc=5"
-        },
-        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbUFhbGtReWllUE82UU5hc1Vha1lwLU00QkUtYlo1ck1FSTJHUnhtZ2ZLeUpzMk14Tk9iYm9iaVAteFJfWFFWMFdpb1RSaGZCczYxXzFndXJuNkFkb053Yjl3b1p4bHpMQ1hpMmF5eGw2Wmg5UEpQWDRkV0o2OUNYMjZsRmQ5RFlseXZVUnAyaFJKNS1PUEZ4cFR4NU9UdzdmMGFCY3oyWEpjM1hsTE9lOGlPdmdpVVBoVC1LRDNhTTBjSzFta20wQVRtNkZldUg4enVz?oc=5"
+        },
+        {
+          "outlet": "Shiksha.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2UtUkM3ejEwaWVKcXR5T2VCaVVVQkQ3LVZVZ1RLZHV5MEwwOUhLV0gxbTAxdkJLSVJIRlpBOEZsQ1FlU0Y3bHlSeVpycE5jOHBnUXU0dzFMekpGYWY0SU1WTGt5Tmg0Wnk0QTlycmw5Qm8wYTBqUEp1YjdxNWxSaTlPR2g5WG1pM2ZXUEUxa0RCZk1fTVRUWENjVFJIQ1I2dFBqQll4SFVvWXBZTXlIc1Bya1ZpNGdiZFJKa2p5SQ?oc=5"
         },
         {
           "outlet": "Hindustan Times",
@@ -473,38 +515,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "nitin-nabin-calls-chhath-puja-pride-of-bihar-extends-wishes-",
-      "headline": "Nitin Nabin calls Chhath Puja \"pride of Bihar\", extends wishes on Chitragupta Puja - ANI News",
-      "summary": "",
-      "date": "2026-11-11",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "Inshorts",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHRoOE1yblpXNzNkZkJJQWN0RDhVT3VIdVhRTWlOYzNPRmtCXzZDZXdEOTdyN2c4WlF6dTJpejJ4T0JBd3VmTHpNazFGZVk4ME1xdUVLeEEzTG5QWmtpUXNaRTVXQVdkNXZZX1p6OFdLWXBHa0dlSHU4LW9NX0NaeC0xalBqLWhlR2gtMllFNkdGbjQxb3huQ9IBngFBVV95cUxQM0s0OTNQTzlCN2Z6SkVRZHhJUjYwd19CQU9yRDUtS2lGaHF1d1JzRnMxS2UyMmo1LUNaWnUya3ZqTkI5UENwS0pXT21JRElCcFdzaTBCYTVBWTN6dWc1U3dDX0NIbzFwazUyQXQtcE1uQnZkaXBHYTdLS3pQVWpMakNmdGM0dlJHaGZMUUxSTDdybFEwWGFwRzlyNFgyZw?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMEd1TnFnbzRWVWJxTzlELTF1dTdscW5kdGVUS29fdTlKd09iN3lqYVJRbTJyT24wamhHRWhSMEV4YlBacE5JS3ZCUWhTT0hXeVNYalk4ZktURVJSNnN1UGwydWxGZGpiRlZFcU1jUEN6eEZFTnZKeEkyWGxicklUbGt2RFZKWnJWbUVMc0lqaFhlYWhXaEdHUHZRTmJhNDRXWXBRV0M0RVJ4b0R3c2NZMHN3Mkt6MTNuYXd1Mk8zTWNNazJMV3gwQnoyZWo3LXNTSWh1eUotbG1hWlk?oc=5"
-        },
-        {
-          "outlet": "The News Mill",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeG12YWlTUllBS2hSNkJPQTk1ZWJLMi05YjVoM3FfNFNCbmRCcS1QSExJakd5T0xIcjdYdDBYcUhiUmZ3aWtOSzhBOFR4bHQ2eTZWSHNPbnVqRFItc1FpNzBuMko3VFd4Z2JaRTUySkxpc1ZOXzZZSW5NS0lqN0pET2hsQWYxam5PTmROZXRVc3ZYeUVOcEtGREtzN2JWb0k?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Nitin Nabin calls Chhath Puja \"pride of Bihar\", extends wishes on Chitragupta Puja. A politics-related story. Covered by 3 outlets, including Inshorts and ANI News.",
-      "image": "images/nitin-nabin-calls-chhath-puja-pride-of-bihar-extends-wishes-.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "abp-news",
       "headline": "पटना में घर में घुसकर सिर में मारी गोली, मौके पर मौत इलाके में दहशत - ABP News",
       "summary": "",
@@ -543,12 +553,12 @@
         {
           "outlet": "Amar Ujala",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWRZRlduR3hOeENrZG1UcjFCS1ZmVXV4WWlfem9objJQUmRISEZzbTgzMkdkelVZc1plS1JvWUdLb0VMaExfdVRwdy15S2FLZVF1NWtSU2ZDdmxnNTUwY3puNmZySDZtbzc2ZDBpWURwUWFpdlRCMk4ybUJvYjRuUFFKdllvVTBwWjFoTy1yVDBONkJCei1ndWY5cncweDNSUEREU2MtYi1LZmN3SHBfZU5seEdlUGxVc2prdjg5eUE5UWt30gHKAUFVX3lxTFBfeDJBSW45NGpPbXdZNXhOVW9NZGRJNHJaSVEtRzhPMkxpcUwzdUYyU2JweWtabnotVUhzSmZiVkZNY1I0X1lwMTlncm5IODZuNmRfQW8yMHNkdGdwMlFNd0x2Snd6OFpjR0NoQy1QemRBN09iQzZtR21Id0NqdTh2VDQ5ZlZ2VGVyLWRMall3YkJyTDB1SThTdXV6eTZWUTExT25Wa1lkQzhkZkpaXzM4Q2tvMGtNbHlJWnpsRnpqWGJ2b1lzQ25reVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZNT1RnVEtJSExIRXlBS0x0ajA1MkVhX1RQa0xKSTJUNktQOUZxY1ZrQW9hSDFEN1JRS3FYN2pLWEpBNjAyazZTaGE1N1ZQSjJXY25fanZ4NzdNb1JpV3BsTFRObnlnRjYwLXZXY0JKeW9XTDRkZzJONzhHcEtlYnRoT0p4aVhHQkFZN3JrLTl4aTRwMzdyT191cEtpTDhZRGpqX1RxSHQzZVVwa3UzVVhjUV9wZlRFVVRqNHhaTHU3N2JhZDNKSFRaM3pPN0t2eC1zd2xOYVp6WDNxRk1kLW5qTUs1Z9IB6wFBVV95cUxQTExHaDU3Z3BsN3VRRk53SFhEclhJMk5pd1JsUXhEZDdVT3pSUlZNNWQ2MUNVN3h3ZEhGU3lpWGx6cWloVTlYeFJrdWFXb0RBYnZDekUxR3NJWFk1OWk4RXB3RlRDTFNRRURpTnI4MG0yZi05QkNWc1J2QUxRZDc4V1hPSk9oMVJ1aXRIMnk2Z3g1VThhdjJlUVpHa2JHUUpxTzYxTXFCYUdlQThiYUtKUXZZam1weVZjaDk5QXMwTFJNeklCdzZySUdNdE42QnhfdzJrWmVBTC1vWWd0cHozaW10R2kyMmk4QUs4?oc=5"
         },
         {
           "outlet": "Amar Ujala",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZNT1RnVEtJSExIRXlBS0x0ajA1MkVhX1RQa0xKSTJUNktQOUZxY1ZrQW9hSDFEN1JRS3FYN2pLWEpBNjAyazZTaGE1N1ZQSjJXY25fanZ4NzdNb1JpV3BsTFRObnlnRjYwLXZXY0JKeW9XTDRkZzJONzhHcEtlYnRoT0p4aVhHQkFZN3JrLTl4aTRwMzdyT191cEtpTDhZRGpqX1RxSHQzZVVwa3UzVVhjUV9wZlRFVVRqNHhaTHU3N2JhZDNKSFRaM3pPN0t2eC1zd2xOYVp6WDNxRk1kLW5qTUs1Z9IB6wFBVV95cUxQTExHaDU3Z3BsN3VRRk53SFhEclhJMk5pd1JsUXhEZDdVT3pSUlZNNWQ2MUNVN3h3ZEhGU3lpWGx6cWloVTlYeFJrdWFXb0RBYnZDekUxR3NJWFk1OWk4RXB3RlRDTFNRRURpTnI4MG0yZi05QkNWc1J2QUxRZDc4V1hPSk9oMVJ1aXRIMnk2Z3g1VThhdjJlUVpHa2JHUUpxTzYxTXFCYUdlQThiYUtKUXZZam1weVZjaDk5QXMwTFJNeklCdzZySUdNdE42QnhfdzJrWmVBTC1vWWd0cHozaW10R2kyMmk4QUs4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWRZRlduR3hOeENrZG1UcjFCS1ZmVXV4WWlfem9objJQUmRISEZzbTgzMkdkelVZc1plS1JvWUdLb0VMaExfdVRwdy15S2FLZVF1NWtSU2ZDdmxnNTUwY3puNmZySDZtbzc2ZDBpWURwUWFpdlRCMk4ybUJvYjRuUFFKdllvVTBwWjFoTy1yVDBONkJCei1ndWY5cncweDNSUEREU2MtYi1LZmN3SHBfZU5seEdlUGxVc2prdjg5eUE5UWt30gHKAUFVX3lxTFBfeDJBSW45NGpPbXdZNXhOVW9NZGRJNHJaSVEtRzhPMkxpcUwzdUYyU2JweWtabnotVUhzSmZiVkZNY1I0X1lwMTlncm5IODZuNmRfQW8yMHNkdGdwMlFNd0x2Snd6OFpjR0NoQy1QemRBN09iQzZtR21Id0NqdTh2VDQ5ZlZ2VGVyLWRMall3YkJyTDB1SThTdXV6eTZWUTExT25Wa1lkQzhkZkpaXzM4Q2tvMGtNbHlJWnpsRnpqWGJ2b1lzQ25reVE?oc=5"
         },
         {
           "outlet": "Zee Business",
@@ -739,33 +749,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-to-set-up-disaster-response-mitigation-funds-for-2026-",
-      "headline": "Bihar to set up disaster response, mitigation funds for 2026-31 with 75:25 Centre-state sharing - ET Government",
-      "summary": "",
-      "date": "2026-11-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Government",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTlU0R1hZcVllMzdDd1NncTlGejZleTdja2xtbTN0NFR4WWVrRU1GbWJqVjAwR21UcUVNX19BdWVjTmY5dFBfRGJ2R09pbk5ZS1N3Z2RJRGZ5WnNycTJ2ZDJwejZYV05uM21KWDFMRkdwNFVvU2tNVVB1YndVcnNYX00zWktxZy15T3dXQkw3VThXNzVvWWY0UUZDRmYyUi1LdEprSzA4QjIyOG5xakhsOTZ0bnFaV3JqaTNLaUhHRXZIWlNIT2tvRzBQQVJ0eWlsYnc0by15Sy1PbHA2aU14YndRTXI0Nmt1cER3Wi1PS3dxUTdy0gH6AUFVX3lxTFBCNjBTMHgzM2lDRzVqd1I3M1hXZzlTTjcyRGE5QWUwWXZmQ3BNQ01yT3ZpQjV2OVc1TS1reURsRlRobmhVc0JjNmMzeHBPT3ZOMTgxazZoaFR6T0VHWEx0dzJmc2YtaWo2RTNZWmVmR2puRDQ5SElwSXNnQldFemhsenZKT2swYjFYSlB5RF8wNVBmcnhUaW1BZ3FFU0xla2hRN3VSSkZXWWswM3RpbksxYjQ2R29vXzdXVHlRaXZfMG44YnFwTU1rUzBtMy11Q0ZCOHVSdDdsZWFNZ1pJalp6dHRQVFhTeloyZ2ZwWW5UaGtBQlVyQ0UxN2c?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXF1aW0wOHNNUU5MR1JoTGVGVEpmY0J1aG4zS1h2eVdNZ2czVU0xQ1BGbjUyOVR5S1pwaW9uX3hpeWs0NmtTajZwTlhjU0FjbGRFcTN6UlZXYk5mZnRzeTBjb2NzVlpaeGhQV1o5a1ZNX0NHMXZIaHlXOGttMFl5NndabnZFODVoODBoOE9Nam8zNGZaX25naEJlZ040cE1jNWo4S3ZaanRTOHRTNEpwWHN2Tk11cGRiT0t0Ymw0bHJMUUowWW5Z0gHMAUFVX3lxTE9MamVCX3FBTzMtZ2M4U3hkUDBLR2lHc2VQT2ZjZlZjeFI3YkJ4dm9KakRyOW1hMEd2dk1qUWkzZ0w3N1N0TWlQUS1KMHNtMVdsT1ZIeklsV2VYTlJvS251bUwzZ284eHdiWlRqeDFBM1RJR1ZyNVVQZEJNSTU2V1gwelBnX2NiUVBITnBycVprLU1yRGNWT0ViR2VkRG5LbG54a3luTGVqMjlZSUczMXZMbXh1RnQ3UHZ1eXlISzljOVB0TktEcTAtUk9TMw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar to set up disaster response, mitigation funds for 2026-31 with 75:25 Centre-state sharing. Covered by ET Government and ThePrint.",
-      "image": "images/bihar-to-set-up-disaster-response-mitigation-funds-for-2026-.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-to-host-convention-in-january-to-draw-up-roadmap-for-s",
       "headline": "Bihar to host convention in January to draw up roadmap for state's development - ET Government",
       "summary": "",
@@ -793,8 +776,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-cm-samrat-choudhary-suspends-15-officials-over-sahyog-",
-      "headline": "Bihar CM Samrat Choudhary Suspends 15 Officials Over Sahyog Negligence - Asianet Newsable",
+      "id": "bihar-to-set-up-disaster-response-mitigation-funds-for-2026-",
+      "headline": "Bihar to set up disaster response, mitigation funds for 2026-31 with 75:25 Centre-state sharing - ET Government",
       "summary": "",
       "date": "2026-11-10",
       "topics": [
@@ -802,48 +785,48 @@
       ],
       "sources": [
         {
-          "outlet": "The Statesman",
+          "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZE0yY3dXbjlTRVZMT1NOd1VDZS1SNmtPQmw5U2JaUGlGMXcyczdtTUJMX1dHN1pFbHJRWHF3bTNkSW9mdjRjYVdKT0ZuMm9CdUhqZjVkdmdTMGRwTEU4aDhhdGhEajRreTZmaE9ybFgtV0htYzFNWDAweE8wMllkUHJianotMk96NnJQQ2R2TVhoNWw0QVROY1pFakp1dFJQbDAzdnByZXpXQkM5X1VRVWxGLU5Ddk3SAbwBQVVfeXFMTlJlZDhKSjc4VlBZam8xS3BYa1pwaThvcFFUQm9ncjJDZ0NNa3JZT2ROUjBiLXdrWGFmeWdxUGEtbzhmN3pvdVg3TjNYWUpGYmhSNjdPQ0pWU1A5MEcyYWQyb0VKREN5OWtiQ3pjbWY5UHFBV2VoUHFCaHpHNUp3SzdsOXBGamxhc1pNX0pLTUNOVkxNeUtkb2FjT0lxNXNRMXFkdjJfckJTcU4xb1J0RjBtUENwYjZ0c0NIV2E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXF1aW0wOHNNUU5MR1JoTGVGVEpmY0J1aG4zS1h2eVdNZ2czVU0xQ1BGbjUyOVR5S1pwaW9uX3hpeWs0NmtTajZwTlhjU0FjbGRFcTN6UlZXYk5mZnRzeTBjb2NzVlpaeGhQV1o5a1ZNX0NHMXZIaHlXOGttMFl5NndabnZFODVoODBoOE9Nam8zNGZaX25naEJlZ040cE1jNWo4S3ZaanRTOHRTNEpwWHN2Tk11cGRiT0t0Ymw0bHJMUUowWW5Z0gHMAUFVX3lxTE9MamVCX3FBTzMtZ2M4U3hkUDBLR2lHc2VQT2ZjZlZjeFI3YkJ4dm9KakRyOW1hMEd2dk1qUWkzZ0w3N1N0TWlQUS1KMHNtMVdsT1ZIeklsV2VYTlJvS251bUwzZ284eHdiWlRqeDFBM1RJR1ZyNVVQZEJNSTU2V1gwelBnX2NiUVBITnBycVprLU1yRGNWT0ViR2VkRG5LbG54a3luTGVqMjlZSUczMXZMbXh1RnQ3UHZ1eXlISzljOVB0TktEcTAtUk9TMw?oc=5"
         },
         {
-          "outlet": "Asianet Newsable",
+          "outlet": "ET Government",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1NyUkNGX2xacG9Ua2w1MzkzbS1QejZPSHhkeldQSkprOU5xMXhubDhIVFFMRjBxeUUxRGdXZFdHUFhrVUJRMExtS2xKMHU4VENHc3JVd1dvLWRkRTBDM2liVGhTc25xZkJHMlVRZUF3TTBBQjVKa0V5cDVsSUtFa1ZteHY1TllmNG5hYV9yTjNrVlVFRnZnTktxakxzWXBPVHBnWFAwSzE2UEwtYUdESWtELU5QY0VxSlhvMzZTbEhwZmZrYWVuRtIBzgFBVV95cUxNOFdsR2F0VUk2WWZqQUV6TnY5Y2phanZPTGl3UWFnTUdjWnlncTNzRmpJR0MwYXJWSXI3N1Juakd3YnJFWXJGcmc4UFBkNVpqbzVWcjVyZ19ZMnZQaUxsbFNHamtaTTBqWm1QY2ZNZGJMREVUTEZTbXd1ZXVSb2VBTE95YkcyOXJSYUQ5Z1R0eTBWWWlyZ3F1U3ZtYzNHOTF3TVpwMXA0UnFrV0FwRXkxYW95cl85UEhBeE9adF9vcDRYQVdpSWZVQkRacTVydw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTlU0R1hZcVllMzdDd1NncTlGejZleTdja2xtbTN0NFR4WWVrRU1GbWJqVjAwR21UcUVNX19BdWVjTmY5dFBfRGJ2R09pbk5ZS1N3Z2RJRGZ5WnNycTJ2ZDJwejZYV05uM21KWDFMRkdwNFVvU2tNVVB1YndVcnNYX00zWktxZy15T3dXQkw3VThXNzVvWWY0UUZDRmYyUi1LdEprSzA4QjIyOG5xakhsOTZ0bnFaV3JqaTNLaUhHRXZIWlNIT2tvRzBQQVJ0eWlsYnc0by15Sy1PbHA2aU14YndRTXI0Nmt1cER3Wi1PS3dxUTdy0gH6AUFVX3lxTFBCNjBTMHgzM2lDRzVqd1I3M1hXZzlTTjcyRGE5QWUwWXZmQ3BNQ01yT3ZpQjV2OVc1TS1reURsRlRobmhVc0JjNmMzeHBPT3ZOMTgxazZoaFR6T0VHWEx0dzJmc2YtaWo2RTNZWmVmR2puRDQ5SElwSXNnQldFemhsenZKT2swYjFYSlB5RF8wNVBmcnhUaW1BZ3FFU0xla2hRN3VSSkZXWWswM3RpbksxYjQ2R29vXzdXVHlRaXZfMG44YnFwTU1rUzBtMy11Q0ZCOHVSdDdsZWFNZ1pJalp6dHRQVFhTeloyZ2ZwWW5UaGtBQlVyQ0UxN2c?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar CM Samrat Choudhary Suspends 15 Officials Over Sahyog Negligence. Covered by The Statesman and Asianet Newsable.",
-      "image": "images/bihar-cm-samrat-choudhary-suspends-15-officials-over-sahyog-.jpg",
+      "brief": "Bihar to set up disaster response, mitigation funds for 2026-31 with 75:25 Centre-state sharing. Covered by ThePrint and ET Government.",
+      "image": "images/bihar-to-set-up-disaster-response-mitigation-funds-for-2026-.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "three-wanted-criminals-in-pacs-chairman-s-murder-killed-in-p",
-      "headline": "Three wanted criminals in PACS chairman's murder killed in police encounter in Patna - The New Indian Express",
+      "id": "2100-10-16-jagran",
+      "headline": "पटना में 2100 रुपये में आसमान से दिखेगी गंगा घाटों की रौनक, 10 से 16 नवंबर तक हर दिन हेलीकॉप्टर राइड - Jagran",
       "summary": "",
-      "date": "2026-11-06",
+      "date": "2026-11-10",
       "topics": [
-        "crime"
+        "general"
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
+          "outlet": "Jagran",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmY1QmdvUU1TVjVtSXpkQ29CTmhseDFWMS1zOGVXYVRsMDRPNloyTVNWUHRFSURhQVdKUTVsbjl2V2FhQ1BYNHlSRXBIb1JUNkZ3VWJCTEE3MnRJUnZCUllldnhlUG4wRVdwSW1qbjFVams3b19jbmdrTTJLQ1RaSENZdnZIRkNoUTlrdTUta1dkUC1RaHFWZkdId2JualdwMlJzazQzWGI3LVlieHUySnZQUEVMY2pKbDZZREN5cVMtRkMyVi1VdlhhZEFlQWNCLThUdWVaZWU0YkwtQ0d6ZHBOTTRyY0FJ0gHvAUFVX3lxTE4wcnpSRThPYjl2OV9kMDI4VTN6UzRmdnNTT0pRdl8tcE1Wc3d3TUNYRGJQT2xxejVvQkRFd1Vna0lrMk1QWklKTDZBM1hrc1VHNUZQejBlRFRMZzkwQ0tjU2cyTDVTakpiem9WaXpuUWdBSXpKM29iQ1ZtY0tDYzRwRXlhSGp0Tm1zWlVqeXh0c1BlYmpnMUVsTVhqMFMtMTBycDlQNmk3eEI0bDA4U1JlSGY0MzJmZGFpRXdXdkdONmFYQ01nVk5xWHplc1ZlMVhXNlhqQUhJdmMxeGtaeU9pNHFha0hXaVQ0Z2tCbEdv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1g4dEZYaHd5Q1RFdjhJUGJBWXlKQU9hV21GR01iT0Zkd281bmNXVHpFeEM1ZVJHTnI2d0FDa0tFXzVTb195eHpSYWVFZFB0U3hYWnFSeWdSLXNVYTRreVk3bHdnb3hJb1h1RkxpTWJxQ3BfdVpib0NmQmZBdzdJZERZNy1keVlTSVdtUER3dFpnYU9QLWEzME41NTFyVFBtR0UzNnZPaUpoQ0ZlOE5obWxR?oc=5"
         },
         {
-          "outlet": "The New Indian Express",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYmRDakNvNXRWdmZyNmZ2aGlfREZPa19BNGFRSDVnS1BTVlIyVFZnN3VIb21ZaGVoOWhmSFhpZHBZYTIxQ0g0RE52UzdxenQxVF85X2ZEbjdVajhiVWVYOW0yOTZaT2NuQmcwQlpVVW12MDhRaVFBZmhIUVd0bUVWbnBlZVI4akhrUTVZQVFFMkphTzBGdXNWSGJFdHRTRjIxaHRHbDN1TlVKclNKRk9YT29FbkxqUk1hdHZSSlhidGZKakZtNko2dlVpRVpCaHB4N1hTQ1VoZ2HSAeYBQVVfeXFMTmFZZmg1UnFIRFptVzY3aDRIdy00dkMxS29MeE1veVpoeWNFdTVpM1lGNXRkMFNLaU5KZlFSQkJVYzVQMWlSVXAwN1A3eFJfSEFJeThBa3h5Y0VhOEYybmdPTHpYZkJFTnhlMU1MZXU3c2w1R0FGVGxSeXBUNF9aUFBEMVROYVppQjdLelkySTFDcldKOUItaWFTUTM0OS1tUWNhQnlOWFRyZmtYTW00THVwWjZQUHBhYUxJSWxhVF9XWVI4UEo0Q3pqVUVDRFdWU0NmMlRlamJjbTdLNURJWmduejdYeFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzNiRGRBdEMyZ0JDOER1NHVXai1ta0dndVFxOTV1aVZ0ZDdZWlI2Nll1YXVNWEFmd3dUY0kyaE5YYjYyV3d2aWpiLW1iSlg2aEpkMUpLby1MNEhqdDNEOS1BVVo5NGpwanlMdW1hVHlic05vamF1UndmN2xXQk9VdGNCQzQtcDAycFdRTTNtY09lQ3RRM3hJcUloUnNsZFNsWkxLdzByQ0U?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Three wanted criminals in PACS chairman's murder killed in police encounter in Patna. A crime-related story. Covered by The Hindu and The New Indian Express.",
-      "image": "images/three-wanted-criminals-in-pacs-chairman-s-murder-killed-in-p.jpg",
+      "brief": "पटना में 2100 रुपये में आसमान से दिखेगी गंगा घाटों की रौनक, 10 से 16 नवंबर तक हर दिन हेलीकॉप्टर राइड। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/2100-10-16-jagran.jpg",
       "image_kind": "photo"
     },
     {
