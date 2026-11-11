@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11 16:54 UTC",
-  "generated_at_ist": "11 Nov 2026, 10:24 PM IST",
-  "story_count": 56,
+  "generated_at": "2026-11-11 17:36 UTC",
+  "generated_at_ist": "11 Nov 2026, 11:06 PM IST",
+  "story_count": 57,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -51,6 +51,33 @@
       "genuineness_label": "Verified",
       "brief": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market. A crime-related story. Covered by 5 outlets, including BusinessLine and Traders Union.",
       "image": "images/patna-municipal-corporation-lists-rs-200-crore-municipal-bon.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-becomes-india-s-second-city-with-water-metro-as-bihar-",
+      "headline": "Patna becomes India's second city with water metro as Bihar CM inaugurates Ganga service at Rs 50 fare - Swarajya",
+      "summary": "",
+      "date": "2026-11-11",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQandQSHhmVGE4VnljVmlLcjRFRHJJdjNRdnd5dkFGZ2FpZm51RWV2MFZTNUdMMVo5V1ROcy1JaXh1SVRDRnJXOVRHNExleEdSOW1wMkN6NFU2N2l4T0JiYUh4SW9zQW5XY3Jkc2RoNU1jRGRxZXEtQi1vWDZxVDBrSDZlR0YwSlM2bnEtY19WcHh3NVl5MTBkMTZtdTdOc1FYTVI2azlobnpYRFZZRV96Y1hPMDV1Z2gwc2FrdUxfVVBpWXU5LXJueUtVT19UQdIB0wFBVV95cUxQdFhhUnVzVXhGR2R3YTVxNllVSzczMWZlZzVVbUtnZXZmeW5XcnRFbm5IZ2lodDNqcjctN0lQRGtGcVJ1NElUSlJzU1Jjd3ZaUEVPYXhoQnc1REZiNWstMGZORFFuWW9hX0VkZVRRSkNqNzlRcDI5SzJoa2EwSDRZSkZTVVZDTVpsSnJqRE9wTUpqOWt5aDBhSFMtQzd5TTVXeWR3VDNGNlZYZjhNSjV4XzF6Q29DdUN4U3dNZXFDVS1Yb0FmTUhveThKcDF4Yzk3WXlJ?oc=5"
+        },
+        {
+          "outlet": "Swarajya",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTlVXQ1RFODYwTVk1YTVTQjlRRnhLZ0NpU1o1cXBMblFsc3pWQTdTaWRTUjlOYWpaQUU0LUp1bUs0R3VuVUUwV1dORTRZYWRyczJqZmhvaHlrZW1fQkloQ2FiRC00WDc4dTlxUFAzNU9MLVdPNHNBajRwZmJubGdQRmVaOUg0YlQ0SFd3WnZxTnltODlMcWJWRDdFa2VqYkdWS3VjRm9FZUJqWHdoNVNsRnJObnJvRXY5S1cyZUVaYW9pcTJtaEpMZjFzenRmREQzT3fSAeIBQVVfeXFMTldIaFJwbXdSbFFqN2x6MnpRYzNvLURuejBJUFVLYlZfcWNsOGlweWhfQktrYVBPM0RNeE40aEpfUi1MTFlDMF8xejVxMFQwVHVkVXBsZ25YVU5fdXRjdWgzUXhGb25lcE10UENmNjF4QlFnanA5VFRYaXJjZDZQVEZDMm5RWDEyOUYwcXBjdTZJTkprd1hIOURWeFhTeVEzcXI0Tk1QTDhDcEVmY29NSGhrOXdEQy1XbHNmeERBQW8wU09zb0FzRWt4Nk1Cbkhka3ZVWldjaXg0M1laeGhERm5OZw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna becomes India's second city with water metro as Bihar CM inaugurates Ganga service at Rs 50 fare. A civic-infrastructure story. Covered by The Times of India and Swarajya.",
+      "image": "images/patna-becomes-india-s-second-city-with-water-metro-as-bihar-.jpg",
       "image_kind": "photo"
     },
     {
@@ -109,33 +136,6 @@
       "genuineness_label": "Corroborated",
       "brief": "3 teens riding without helmets die in Darbhanga road accident. A crime-related story. Covered by The Times of India and Outlook India.",
       "image": "images/3-teens-riding-without-helmets-die-in-darbhanga-road-acciden.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-becomes-india-s-second-city-with-water-metro-as-bihar-",
-      "headline": "Patna becomes India's second city with water metro as Bihar CM inaugurates Ganga service at Rs 50 fare - Swarajya",
-      "summary": "",
-      "date": "2026-11-11",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQandQSHhmVGE4VnljVmlLcjRFRHJJdjNRdnd5dkFGZ2FpZm51RWV2MFZTNUdMMVo5V1ROcy1JaXh1SVRDRnJXOVRHNExleEdSOW1wMkN6NFU2N2l4T0JiYUh4SW9zQW5XY3Jkc2RoNU1jRGRxZXEtQi1vWDZxVDBrSDZlR0YwSlM2bnEtY19WcHh3NVl5MTBkMTZtdTdOc1FYTVI2azlobnpYRFZZRV96Y1hPMDV1Z2gwc2FrdUxfVVBpWXU5LXJueUtVT19UQdIB0wFBVV95cUxQdFhhUnVzVXhGR2R3YTVxNllVSzczMWZlZzVVbUtnZXZmeW5XcnRFbm5IZ2lodDNqcjctN0lQRGtGcVJ1NElUSlJzU1Jjd3ZaUEVPYXhoQnc1REZiNWstMGZORFFuWW9hX0VkZVRRSkNqNzlRcDI5SzJoa2EwSDRZSkZTVVZDTVpsSnJqRE9wTUpqOWt5aDBhSFMtQzd5TTVXeWR3VDNGNlZYZjhNSjV4XzF6Q29DdUN4U3dNZXFDVS1Yb0FmTUhveThKcDF4Yzk3WXlJ?oc=5"
-        },
-        {
-          "outlet": "Swarajya",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTlVXQ1RFODYwTVk1YTVTQjlRRnhLZ0NpU1o1cXBMblFsc3pWQTdTaWRTUjlOYWpaQUU0LUp1bUs0R3VuVUUwV1dORTRZYWRyczJqZmhvaHlrZW1fQkloQ2FiRC00WDc4dTlxUFAzNU9MLVdPNHNBajRwZmJubGdQRmVaOUg0YlQ0SFd3WnZxTnltODlMcWJWRDdFa2VqYkdWS3VjRm9FZUJqWHdoNVNsRnJObnJvRXY5S1cyZUVaYW9pcTJtaEpMZjFzenRmREQzT3fSAeIBQVVfeXFMTldIaFJwbXdSbFFqN2x6MnpRYzNvLURuejBJUFVLYlZfcWNsOGlweWhfQktrYVBPM0RNeE40aEpfUi1MTFlDMF8xejVxMFQwVHVkVXBsZ25YVU5fdXRjdWgzUXhGb25lcE10UENmNjF4QlFnanA5VFRYaXJjZDZQVEZDMm5RWDEyOUYwcXBjdTZJTkprd1hIOURWeFhTeVEzcXI0Tk1QTDhDcEVmY29NSGhrOXdEQy1XbHNmeERBQW8wU09zb0FzRWt4Nk1Cbkhka3ZVWldjaXg0M1laeGhERm5OZw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna becomes India's second city with water metro as Bihar CM inaugurates Ganga service at Rs 50 fare. A civic-infrastructure story. Covered by The Times of India and Swarajya.",
-      "image": "images/patna-becomes-india-s-second-city-with-water-metro-as-bihar-.jpg",
       "image_kind": "photo"
     },
     {
@@ -255,6 +255,11 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnRZVFp6QjVnN3hUX1NYdTYzNjhpcVE5WVRKUzBWRjFiSWdkMVV0dUdvMjdhblBDSi1WOTNRdEk2Nll4ZElBcWZ1QzVva1EyUm45b0NyaDRFenE5SXJKaGRCQmpndDB3cTdDWTgwZnFsSFY5R0N4cEJONng3eGNpbkdLV1JteVZwVzB1and2Wk9wMUtoS2xZMVBrU1pESUdQV09jRVVYU05JRXM1R2RMTkdWV1piRGVsS0l5bmlWQ2NyNm1kWHFR0gHMAUFVX3lxTE1DTHN6MHZpRlo3dEJkLU1qanJVbzk5Ql9UWElFNG1lb043Qk5LYUpIakJwUmYtd08xd2kzNWEyNWVNQmxkQXNlbW9RYzJWTm9lT0R2NTM4aVFtSVVnd2s2NVBqMWhtbkdHb0k5SnNPdkNDa25sM2NvX1ZKZ0JnNTVLb003ZFdzN3BuNE1Ka1lHSkFvVl9Yc2pUYWFJSEpiMi11MVlkcWRwRUhVSGUtSEd2YVE4bE1qZXExRmJLeFNOUklIWUJ1Vkt5NEpCXw?oc=5"
         },
         {
+          "outlet": "Deccan Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQlVtLWRXQlBrS1Q1NHJfVFhpTkVDdldBSEpMODduWEV0SElubmFuU2RtRFpQRGFzd1EyQUpEcFpNUVd1Q3I0V3RMLVBvV2lENUN4QUFwVk5GZ29GV2NhaEdKUU1UdzQxajE4cHV6RHp4TlhWdnR5cXpnUUxmX2JtSjVXSXlsWC1rdjhEZU5IVkZoaUp2Nlp5ZnFKcFNMbDBiZmM3azFYYVJhZ200YkVRYTZhanlvMGhWeDNXY1VGMjQtY3lpSUkza1hxM0RWTms2RVJTTktfUXREV0E?oc=5"
+        },
+        {
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeTdJV0hCcjVqUzV1b18yMHZ5aDhpcHpLTXZPMlNhaEMwZ2NrTy14bmpKNFpLMk02Tk5qc0R6c08xMVVQQ0swR0VwNWVHaWF5WXR0N3Roa2RURkNmZURKODdXOTFUQ3QyMFlYYTI2WjdTN2ZRUGxVZmwtcWsyTkpaS19EcXdIYVhZQlZqNVdVMk5aa0lxSDJXVFdBUlFEb3BndzBiZzJINGx5cGQyUzdnU1pDRGI4LVhZUkdJZm5VNC1xQTVTM25pQU1XS0hJUFB3cTFDQ3VmMFNDbEU5ZXBv0gHsAUFVX3lxTFBkN043cER0Q2Y0cXptZGFRaEI2c2c2bXFwRnF4WkxpRVN5d2hrR2dWUDRpOXkyTHI5YnZLUEFpZEhZOUh4bUMzWW95N1JCbXRzRGR6R0k2ZXI5SnpVcDlKNE9pRnBjVmtyREtDM0pCdlhFQk5MVUhVWkU3MUJXYXdwenRwdHNTODFTbjRYanVWNzlzYUJwNjJZSU5DR3ZweGVGYld0enJnMXFYV1lTOGVDOU9NaHp0TUZ5TVZoQXRzVUppbkxuOTdodVFTZFVDbE1nczVIeFhqY1N2X2ZkZ2h5eXhfNW9pRWU4b2Y2?oc=5"
@@ -278,11 +283,6 @@
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0VyNUQzZmlMUnBHZ3p6S2c2QmhHMW1hMDF1MjJTRU12c0J1TlZrcDVvY2dKeU9YNGk2ZFRxX2NhYlltU0JiSURoZUNoSTl3TnhjNy1TZnhjd1JxNHRnazhaQkRTaXV2TFBUdHBoUXFHdmZfemxRQ0ZaQ3ZiUlJKNm5pX2luNkUxTTRSU0FxUEY0VUdLZUFyeTdVVHN2dWgzOC1Md0h1RmpqNDhhQXJyNkhVeElKX1hCcVA0R3F6UTlXSnZnVnVvMEJrN1Jtd2RwNmltcFAzUmFqekdwcTdEVHJDTGdsaXhocDNNZnZn0gH7AUFVX3lxTFB3dWdyTmxjbTV1OE5OMGJTLXlONU94aUdPdnl3N2plYjZ0OWo3cWdSWmxTNkp6djU3cmVOd013X0xDMnVOR0IxVHBrWXVrNk5ybEFkQmczbVB0YnVja3FVTkptYTJyeGJ2V2dHWkpHOEhUVHVrbmtFTmZrdTR1bW9idzdXbERtUFBTdnVqb3ZpMmZrT0ZoMlRVOGt0cnZCbXZpdjVhS3FVYkIwTTlfTnFBcmV6TVBDcFc5cWxqMnpPRl9vckRpRGNYdi1DdEdVWEpJT3J1UnRHNkJWME1XZzlxU2xUZUpqbUFhZkpEdm5RaHRPckRTTWxXQ09z?oc=5"
-        },
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQlVtLWRXQlBrS1Q1NHJfVFhpTkVDdldBSEpMODduWEV0SElubmFuU2RtRFpQRGFzd1EyQUpEcFpNUVd1Q3I0V3RMLVBvV2lENUN4QUFwVk5GZ29GV2NhaEdKUU1UdzQxajE4cHV6RHp4TlhWdnR5cXpnUUxmX2JtSjVXSXlsWC1rdjhEZU5IVkZoaUp2Nlp5ZnFKcFNMbDBiZmM3azFYYVJhZ200YkVRYTZhanlvMGhWeDNXY1VGMjQtY3lpSUkza1hxM0RWTms2RVJTTktfUXREV0E?oc=5"
         }
       ],
       "source_count": 7,
@@ -394,6 +394,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "bengal-plans-to-bring-two-more-tigers-from-bihar-assam-to-bo",
+      "headline": "Bengal plans to bring two more tigers from Bihar, Assam to boost Buxa reserve's big cat population - Telegraph India",
+      "summary": "",
+      "date": "2026-11-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Deccan Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkhEVUMzRDZKeWFpYUgyMkNKMXpzanNzcXEwOVlkc2lUbWhrWVNHX2g2dUlqa2tuSWdtWEV6eXhoa2lmQXJleVlDX3FrdmJXWjVJSmxERzNQMzE1b0RGMTlfOGpHMXQ1ZUkybTZyVThHNWZnR05ZVzNVbmVwTkhydld2dmFZaE5BNUFkUTFPaVZKYjI1c2VXYk1iTl9lTEMzUVJIa1doaFJYalQwUkpxZks3SmxIZ3hUYVFodjlTd1ZwZDh0ZV9qSHpsaV9fVEk?oc=5"
+        },
+        {
+          "outlet": "Telegraph India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZlpiQnlBYXMtQ3hLTTdGeWU3UHNOU2t6UHVCeE5OS3dPTHFFdUUwQ3ZlWGlfaWVuRnRQN2cyQVVKZGsxOG1oaDhQMVF1eUk0V3k3MERZd2ZJQUsxRTRVZGdjNUdjbXA4V051S2l2WUo1dzVTcjlHQ1h0WTBoMU1Od1hRNG0teXp4WXBQVUVrSGlpVzBwOXVoOWQ3REFHcGN2TzdUOUxHSWdXNnFaT2pQY0R6TFFxdjlhWkFRQ0Q2Z2hCMllMUEg3dHViN2FtcU0tWTlwa2lMTFlfNlZ3RFZWbHNpaUdEd9IB6wFBVV95cUxPWDBQcWRuakdodE9XZVhtZWxaMzdaV3JlSFRER0l1cXQ1QVFQOXBiZzZDNlA1Mi14MW9uSUowbVVnamIzSkNOc0c5cG5XVGhwX1hHYWlsQXd6cHVpVnhLbXpNejRyMGZvQnhOR3lBcndVaW5wN21DUTRQZm44ajNkcjdLQWFBdzRrZ2JfRGtmMFZBeU1ycE5xZGxBYkdiVlhfSkV3YU5RZXBZdWx4Qkg4aXhIa2xaQ1plY29fQ1ZPb1E3Zzh1N3FtN09YejlaUUhlS29tY3JZM3loSWNrVi1PWjg5VGktenBGSzh3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bengal plans to bring two more tigers from Bihar, Assam to boost Buxa reserve's big cat population. Covered by Deccan Herald and Telegraph India.",
+      "image": "images/bengal-plans-to-bring-two-more-tigers-from-bihar-assam-to-bo.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "bihar-board-to-provide-free-jee-neet-coaching-for-2027-regis",
       "headline": "Bihar Board to provide free JEE, NEET coaching for 2027, registration begins at coaching.biharboardonline.com | Education - Hindustan Times",
       "summary": "",
@@ -413,11 +440,6 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmlNTE9JcHpFbHN1RTltb29FbHkxbUFUTU50YUxJZ3J3dEYwWVlKOGdGRUhxdGdIbC1nRGZKeGY2c19ZWk9DaEJrSzhidlVuRFA2LVQxb0E0N2FXeGo3MFRpaXl1RHJYSktpTUw4OW04NC14M0Rpd3AzZE9pRkViODNYYVJyZDRKeDZoSnFKYW1fYzNRcGZ0RURjaDMwdXQ2bFdMbGd6dm9JeUdEY2FqZ3BZUGJ2ZXczYUQ3aGUybGLSAcgBQVVfeXFMT3hRWG5wckMwZ0JXdmlxaWJqTGN6RDNZUFJFckdTWVRqRG5Yd080ZGsxWFlDMDgzT3VMMjRycm50RTB5NEFwLXFHRm9FdDA4V08yRHdEdnhfUXNhdG1KM1ZXV1NUZTRxWDJlMmtxaVFYVVQzaURYY0ZpM0h4SXhGa29NcWJPTDJ5SlY0cWxGT0dYWDhSeGF3VWQ2RlVQS3ZPRXlwOTluZUdDZHkyN0lqanZhZkkwQUlMWFpuNnZTNEF5cDhyUDlSaS0?oc=5"
         },
         {
-          "outlet": "Education Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU2dYMDZsNVE4ejJabjdKd04xbE9GdXdQTjY4VGtFWW03ZFE0eGJGdmFSdlpBeXYzTmhZdmVUZWE0ZmdUSUcwdkFwM2N3SHF2ZENhWktfT05iQ2dwaTlZT2hiMUlCbWRLemFKc0dCLW5zSjZzcUR0MkxsU3duaGVnMS1Ua2hhblZiX0l0UGROSm56NHBzZE1YS3VRT2NpOUw2QmM2WUFZTVl4Y1lENDhqTHNnbW1tZWVQeXFVNV9udzlEM1FjSEVxeGkyUWExbGpxajlscA?oc=5"
-        },
-        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbUFhbGtReWllUE82UU5hc1Vha1lwLU00QkUtYlo1ck1FSTJHUnhtZ2ZLeUpzMk14Tk9iYm9iaVAteFJfWFFWMFdpb1RSaGZCczYxXzFndXJuNkFkb053Yjl3b1p4bHpMQ1hpMmF5eGw2Wmg5UEpQWDRkV0o2OUNYMjZsRmQ5RFlseXZVUnAyaFJKNS1PUEZ4cFR4NU9UdzdmMGFCY3oyWEpjM1hsTE9lOGlPdmdpVVBoVC1LRDNhTTBjSzFta20wQVRtNkZldUg4enVz?oc=5"
@@ -428,10 +450,10 @@
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdFlUY2Q3WDlLb2Q1LTlFVmxEMjJnWklXdlNEZzZPZUVPYlBlSDU5NjVaNW1HLTdmZWJ2THhaTzFpdk95bzcwcWxqRjhnTEFjVjR5NF9lNXUtdk9DaU5wa1hRRWJUOENkRzJzY3Fwa3kwN0tNcVpGSnROUEZSd09hcWN3UVlpRnVRX0FUOHY3cnQzeERON0xzeTNhdlVIU0JfNllBZ0RjbF9HcF9seFpyZDFXZGRBc0ZQeGwyc09BSkZ0cThsMmRXVEl1STJTUS1ZT2NUeFh4Q29lWHRjRzdHck5FY0o5ZFpqei1vNVJHd0FNUGhnYmlGbkJUWGJPM09TWWfSAYcCQVVfeXFMT21pUUhMQ3F1WmVQQWxaajB4X2hEdElKZVNLVnN0ZEdDZXFZVHVibWlHbHZOX0ZpRUd1NlV5YzhiNVFFeHYzRlZuSWJyNGRLNzk0TTYwaEN2aTQwaFBSMktuLVl1eGRSaU9uMkFORVRwYlI3eWJoLUdNYnZjc29URFZpU0pJYlVBQ2VPNTlMNmIybVV1VzBscG5DMDBYWlNrUXRNTnVBX3hiZ19JYUpSLVc3aWEzX1pYbnowOHdrT2FnaXRKemZqRXdRMXJiVXRudkxjd2V4V05uYUFINDU3RWEycnFRN3BhOTVqcE04MGpMd3lGWWVEbjcyMDdBMDB3d2lKN19zTlU?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar Board to provide free JEE, NEET coaching for 2027, registration begins at coaching.biharboardonline.com. Covered by 5 outlets, including EdexLive and NDTV.",
+      "brief": "Bihar Board to provide free JEE, NEET coaching for 2027, registration begins at coaching.biharboardonline.com. Covered by 4 outlets, including EdexLive and NDTV.",
       "image": "images/bihar-board-to-provide-free-jee-neet-coaching-for-2027-regis.jpg",
       "image_kind": "photo"
     },
@@ -463,6 +485,34 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-five-persons-including-an-ex-bjp-officeholder-held-in-",
+      "headline": "Bihar: Five persons, including an ex-BJP officeholder, held in connection with robbery case - ThePrint",
+      "summary": "",
+      "date": "2026-11-11",
+      "topics": [
+        "politics",
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Deccan Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXlKQTAtM19VazRwQkVtOERhRUtjUkg3UE0zZV9WV2c4T2huWVhlZl9hSW5zai1fRy12YXBUWXVldGp0SUh1M0t0enJTMUd6T2lzaUFZZ2w5anRyUnBmTFlVcEhGSThUODJyRWdab01Demxiam1WWnQxOFUwam5Ic2E1a0txamFLSUk5ZlVWbjRHaEF6a1BmcFhoX0tEbDJXMC1lY3g4dDB4RVZ3QjhKeFN2b0RiNUtRVzRkTHBFdUZKYXZyb0Vqdg?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV20wQy0yQ1hNZjFKc0Z0bkh5VTRfSGZDd0JKR05Fc0UzNWljVElqMUVVMlJtOHNUaGhOc2JZY1lST29QWlB1SHo1X0MyYzBmX21Ncm9XNjBCaHNKV1NKSUZuUlh1M0NYM3NpN0FxNFdJcTRFbnJXbldfZjFxUENQcnB3UElKTWNlY3ctX3ZoallsVFZETjBxRS1KZ1lram0yd0E0RDEzeEwyNUJKQ2xmZFN6eGRpMzdHazFhbzF2QjDSAcYBQVVfeXFMTlhfZm02TkdQak5Qb3lVd0VFbGpEdlVnXzhBeEFZdmxoVkotR1hpOUptSDlMQmFxWWF4RjRneXd5ZXpmMVJybkVkeDN3cWp6MnowS3NYUHBrRlQxUnBZbWRtTkJDQnA0ZFNGRzRFbXJIRVU1VU5sX0pXb19NRkN3MWZoN2VNVS1Qc1Q0cnpWNTFDdzhHNFNRSHRmSGg4ZnNQNldUZklhSEM5cFdJTWZjcUo0UlZUQzRtZ2xwTWMwVXRURnVHYXhR?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar: Five persons, including an ex-BJP officeholder, held in connection with robbery case. A politics-related story. Covered by Deccan Herald and ThePrint.",
+      "image": "images/bihar-five-persons-including-an-ex-bjp-officeholder-held-in-.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "nitin-nabin-calls-chhath-puja-pride-of-bihar-extends-wishes-",
       "headline": "Nitin Nabin calls Chhath Puja \"pride of Bihar\", extends wishes on Chitragupta Puja - ANI News",
       "summary": "",
@@ -487,33 +537,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Nitin Nabin calls Chhath Puja \"pride of Bihar\", extends wishes on Chitragupta Puja. A politics-related story. Covered by Inshorts and ANI News.",
       "image": "images/nitin-nabin-calls-chhath-puja-pride-of-bihar-extends-wishes-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "abp-news",
-      "headline": "पटना में घर में घुसकर सिर में मारी गोली, मौके पर मौत इलाके में दहशत - ABP News",
-      "summary": "",
-      "date": "2026-11-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "ABP News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmp4UHFnTTZxUWoxT0NPTHgwd2pMb3lybkhtbkttWTVEVVZjMXQzMnIxaVNlT3h1QkpEWFhzeEdlMUh5VFpIaHIycDVoWU85Nms3NlRnUk1Lel9EZFI2M1l6cFNJRXJrWVo4RkYwQk8xRVVVSEJpSnB6NXBCODdXRFVvVzJjRldtU3IzMVFSZnY3SGVOMGhSQXE4Um5GX1NOMzA1QnRZQlBsbTNld2dGZXJCc19aQdIBuwFBVV95cUxNQUk0d0JmbFZ3MkVGeGZrTmxxQVpwd1o1c3FaVElZaTdKS1RGWUhvcWpPeUlUdV94c1B4Ykh3VmNJNS1YN0FpYXY2ZWRqSDVhX3Y3TU9rYngwelhqUGFwVXlqdF9wYTF5WnNOc0toQllDeUItRWtHdEhjcmIwSUhEbm5xRnJZN0VLbkdrMDUyS1FQTEI1M09zUjdWWUY0aTNMSmYxRGJrckpEYjZTbkx1NXpjZVlxc2NKQ0Jz?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFM3a1cwVW52eFBlOS1aSkQzMFdJYVFSbmRnZll2U292UkRTa3lIUHRocGQyMHdid3NPU3FIWTNlYXJCQlFBSTZXbkVGM0gtT09ENGNCWWJqUHRHVXJOS2trWTMxaGRkX0JVU2d2OHRuNnA3aGdxZVNjWHoxNEw0akNOMVZGRllaOTlZVHJROVYzV05jS2VZU9IBngFBVV95cUxQcWwtTzZ1bVFKNkdFMU9aUzRSY0JUOU9zQnFXWFNvVDRvU0Z6YzV5bDJ4NDFzQThGRHY5b09mN0hTOXNBaVFhLVJBdmZQdnZfNVJoMnBFMmM3TENEdUUtazRoOU1zQWc0MlZRSjZDcEdvVnlJTUFvZ2xnZUdFWGlQcGtOSmp4VVdjWEJKVEFJSG80SkZXNnNEQ3JBOVFJZw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में घर में घुसकर सिर में मारी गोली, मौके पर मौत इलाके में दहशत। इसे ABP News और ETV Bharat ने रिपोर्ट किया है।",
-      "image": "images/abp-news.jpg",
       "image_kind": "photo"
     },
     {
@@ -645,33 +668,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "patna-high-court-pil-challenges-deepak-prakash-s-nomination-",
-      "headline": "Patna High Court PIL\nchallenges Deepak Prakash's nomination as MLC - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Live Law",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTZRbFVQd09ITnBQbldINlpVQVd1bHVvYVlpaFpUZHBvZXVYU2gyOFhzcUhIZm9NTmFIa1JmWXdHUERtNFdFS3VZQ09JTTFnMG9fR0VxMDhWSXl3Vjk3TmxVWllFakpDekNIRWplb29CUHUxMWNvRnFlUVpwSkxBbEJxNDhtRjdfNkU0TmFaM2NOU3FfZEg2VEVEVFFGNFhjYTRZeVZmclFTRVNoTkZxYWxTMmhpYUZBRTJubFZB0gHDAUFVX3lxTFBqY3JDT092V2tfc2NqQVJPSFdOczRjSFFUMXhQREo1WTRfUnFYdzd1TnhPRHBYWlhCVFBLaTlablRjVlI4ZFhSTEU4aF9Vd3RtaHcwODEtbkpyWHhKODZUanZLVzJISmd2WjJva0FOenpWajMtNms5RkJJNnRGT3UtcFdmaVdlUllJNlVDRHZGM1BFcGhFVmd0UW5JcUNyOGZrWmc3RTI0N3lKVnhuTkRFc2piWmtOZTMxbDVqeG1mX0p5MA?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORnBMMlVoMnQwT096UF83eFFCak43Skx5QVd5aXQ2TXliTnI3U3N4eUp5ampfSlhaQUlZWE9GQVduSXRZQy1mZldhVmxDdHBoZ2RmRXBhS2VmUzhfb3A5anZZcjMxQkM1RWQ1bkhMM29Ba3ZmQ2tfUjJtTGNVWXBpd1BodTVaUEh1eS1MX3lMQlhQRVpZTG5tY0I2MkUzVWxXakRyZGZHQ0VqWXI5SGh1QUpWbG16WU5uUlBTb1BtONIBzAFBVV95cUxQMVA4SERyMnZEMXpaMGNnaXhWWThwak9fdGRza0ZtVVVkVDNORFlVLXZiOVRyUDYxWWZTODRjSEMyOFBxbmNOWHR3cDlmVW1uc3Bnajc4d2ItRFl4YVloT2NYOHdTcWJKYnpTMGhoYWhOS3plVkxKUFAyb2EzWUoyM1BpNWJLRGNOM1d4WU40UktYMFJTcmZEeFp6bzA3bEFfM19JdzBqMmthRkM0VEZaRW9IaXlfOW1JaWFBbFlFb2pXVnp4VWJPNGFNbmQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna High Court PIL\nchallenges Deepak Prakash's nomination as MLC. Covered by Live Law and The New Indian Express.",
-      "image": "images/patna-high-court-pil-challenges-deepak-prakash-s-nomination-.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-suspends-15-government-employees-over-lapses-in-handli",
       "headline": "Bihar suspends 15 government employees over lapses in handling public complaints - India TV News",
       "summary": "",
@@ -704,8 +700,35 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-da-hike-ahead-of-chhath-puja-state-govt-employees-allo",
-      "headline": "Bihar DA hike ahead of Chhath Puja: State govt employees' allowance rises from 60% to 63% — check details - Livemint",
+      "id": "patna-high-court-pil-challenges-deepak-prakash-s-nomination-",
+      "headline": "Patna High Court PIL\nchallenges Deepak Prakash's nomination as MLC - The New Indian Express",
+      "summary": "",
+      "date": "2026-11-10",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Live Law",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTZRbFVQd09ITnBQbldINlpVQVd1bHVvYVlpaFpUZHBvZXVYU2gyOFhzcUhIZm9NTmFIa1JmWXdHUERtNFdFS3VZQ09JTTFnMG9fR0VxMDhWSXl3Vjk3TmxVWllFakpDekNIRWplb29CUHUxMWNvRnFlUVpwSkxBbEJxNDhtRjdfNkU0TmFaM2NOU3FfZEg2VEVEVFFGNFhjYTRZeVZmclFTRVNoTkZxYWxTMmhpYUZBRTJubFZB0gHDAUFVX3lxTFBqY3JDT092V2tfc2NqQVJPSFdOczRjSFFUMXhQREo1WTRfUnFYdzd1TnhPRHBYWlhCVFBLaTlablRjVlI4ZFhSTEU4aF9Vd3RtaHcwODEtbkpyWHhKODZUanZLVzJISmd2WjJva0FOenpWajMtNms5RkJJNnRGT3UtcFdmaVdlUllJNlVDRHZGM1BFcGhFVmd0UW5JcUNyOGZrWmc3RTI0N3lKVnhuTkRFc2piWmtOZTMxbDVqeG1mX0p5MA?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORnBMMlVoMnQwT096UF83eFFCak43Skx5QVd5aXQ2TXliTnI3U3N4eUp5ampfSlhaQUlZWE9GQVduSXRZQy1mZldhVmxDdHBoZ2RmRXBhS2VmUzhfb3A5anZZcjMxQkM1RWQ1bkhMM29Ba3ZmQ2tfUjJtTGNVWXBpd1BodTVaUEh1eS1MX3lMQlhQRVpZTG5tY0I2MkUzVWxXakRyZGZHQ0VqWXI5SGh1QUpWbG16WU5uUlBTb1BtONIBzAFBVV95cUxQMVA4SERyMnZEMXpaMGNnaXhWWThwak9fdGRza0ZtVVVkVDNORFlVLXZiOVRyUDYxWWZTODRjSEMyOFBxbmNOWHR3cDlmVW1uc3Bnajc4d2ItRFl4YVloT2NYOHdTcWJKYnpTMGhoYWhOS3plVkxKUFAyb2EzWUoyM1BpNWJLRGNOM1d4WU40UktYMFJTcmZEeFp6bzA3bEFfM19JdzBqMmthRkM0VEZaRW9IaXlfOW1JaWFBbFlFb2pXVnp4VWJPNGFNbmQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna High Court PIL\nchallenges Deepak Prakash's nomination as MLC. Covered by Live Law and The New Indian Express.",
+      "image": "images/patna-high-court-pil-challenges-deepak-prakash-s-nomination-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-hikes-da-for-employees-pensioners-ahead-of-chhath-clea",
+      "headline": "Bihar hikes DA for employees, pensioners ahead of Chhath, clears 31 proposals - The New Indian Express",
       "summary": "",
       "date": "2026-11-10",
       "topics": [
@@ -728,22 +751,17 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaG5ZcWZnT05IOWtxWGJKRmZfbkdxVTg3MUE5ZjVsVXlqa2NyN01kVEtoSlFBSzhBRDRva01nR3BGNnV4dmliOHNRZXpsVk9xYjZxUDBzNThEQWNvdXRsLXplMjVBMXdjYlMwTlNaSWVGOTJFRUhqeThOS1JhTzNpRXN4RVBYU1FEOGZkNU5CWHFQdWJxakE4N2hKb25paE03RmZYemJlNVQtbHhyZWp5ZkxlVS1KbjjSAbwBQVVfeXFMTlhiOTlSdkFkVmNib1kxV3g2N0h1Rk00Q3FlSWg4Y3RsMk9BQUFlbkFNbEwzWERFTkdBMnhReFBVb0tDZkNHUVJvMWFVQUxJRUd3SW0wSnRZQ1VQYzk0R0g3d3hGdGtpZmJtN3dCeHdOMWNjRENFU0xsT0tYbjZvOUFFeW1ZYm0yMFFoWW04YVVweWowY0o5Yzc0NzRxbGt4VE9zRHRoVU1CUVVPOTRPWWFfcXVINUdnTWQ3TkE?oc=5"
         },
         {
-          "outlet": "Livemint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdExvUU1GMUcxc01zMGp3bWk5clBydjZzQV9FMFNXeUk1dmdXaDZNVXY5Q0VvVFB4Vmk1dVBBWDZmMlZpNGhoc0NRTVBoREpSUDJDNE02Y0V5QmtSaG5ubUVxYVZ6Wmc5U2dpNVBGQVVJRDFkU2ljZXRsSVRJdFExSnlSM05rS3QyVTZpNFd2bG9GdlJFcVNneHJyRXdEakZJWVZFaHI1Sm9pZk82UlFPeUtaVG81djVnTVVsQ0RmRE5uTGJTTC1YYjAxOVJrSUkwREMwbnVJU0hObnhTY0UwcGtSb1rSAeoBQVVfeXFMTWZlSi1tWnQ4X1lTYS11WDV1N1FiWGNDU3dHMW5nMDJWZVRJMThzUmdOUldCa2NSb0R0cjI5anpLanJQS0JvRkF0YjFsZjlGeHlxbzR4TTFKZGticklMaTd1T094ci1VaUk2MXktNXlheUllTFk4OXN4NVNDWlUyN2FOczBRSXNYSTM3Y0dUMDl0UVNiWTBZWkZYWmNERlYyTVhtcWlTMzh2dUFlM01wSm9NMFpwaEVORnFSSGFXRXdhVGRqZHNLRGNkWUtPWjJSNHR0VUFtQm4yWmNkaTEyZDZZcjhnc1I1d1JR?oc=5"
-        },
-        {
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVVRWGo2VjMzTV9uNlRzc1NZZnJTZzVFUnc5RUlKbUNwM1ZTWDNST3Z4MzMyWkdUaDZZZjFaMDllbzEzLXdPZTBTdjZBOEl4ckJNaENCekRoZFRqSkdual9ScjhYN19rX1JUTmFLZDREUFZaLTZtdVRJTjhMVUhSa2E5QjF6SWFKWlJOaWpPWUlRMUZDbFBGbEJ4NzZRMTJoRk5fTkNHVTJQdFJoQ0gzRGMyay3SAbsBQVVfeXFMT0phQkdkYUg1NEV5SnJUdzJ1WjlBM2R6dUNmcnlMQ0d0aGVDdXJWWlZmRkJUcU9hOUM1ako5aFQtZV84UWhGMmdGRnQ4WldxN3RrTWpYX2pWTTdza3JaR0kwY05sX25sdGp4ZGNrVjBZUUktNlROeW52UE9uc2k0VkpxLUtlNFdLZlNZSUxhX2NTUmkwUTRfTmxHeUhjWnd1NFJsbGtTT21zNzg5YWpnYkctYXlzbE5FYlU4MA?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar DA hike ahead of Chhath Puja: State govt employees' allowance rises from 60% to 63%. Covered by 5 outlets, including The New Indian Express and ET Government.",
-      "image": "images/bihar-da-hike-ahead-of-chhath-puja-state-govt-employees-allo.jpg",
-      "image_kind": "photo"
+      "brief": "Bihar hikes DA for employees, pensioners ahead of Chhath, clears 31 proposals. Covered by 4 outlets, including The New Indian Express and ET Government.",
+      "image": "images/bihar-hikes-da-for-employees-pensioners-ahead-of-chhath-clea.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "bihar-s-bahubali-anant-singh-plans-daughter-s-wedding-4-lakh",
