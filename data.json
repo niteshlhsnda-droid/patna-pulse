@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-11-11 05:54 UTC",
-  "generated_at_ist": "11 Nov 2026, 11:24 AM IST",
-  "story_count": 58,
+  "generated_at": "2026-11-11 06:54 UTC",
+  "generated_at_ist": "11 Nov 2026, 12:24 PM IST",
+  "story_count": 57,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "patna-becomes-india-s-second-city-with-water-metro-as-bihar-",
+      "headline": "Patna becomes India's second city with water metro as Bihar CM inaugurates Ganga service at Rs 50 fare - Swarajya",
+      "summary": "",
+      "date": "2026-11-11",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Swarajya",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTlVXQ1RFODYwTVk1YTVTQjlRRnhLZ0NpU1o1cXBMblFsc3pWQTdTaWRTUjlOYWpaQUU0LUp1bUs0R3VuVUUwV1dORTRZYWRyczJqZmhvaHlrZW1fQkloQ2FiRC00WDc4dTlxUFAzNU9MLVdPNHNBajRwZmJubGdQRmVaOUg0YlQ0SFd3WnZxTnltODlMcWJWRDdFa2VqYkdWS3VjRm9FZUJqWHdoNVNsRnJObnJvRXY5S1cyZUVaYW9pcTJtaEpMZjFzenRmREQzT3fSAeIBQVVfeXFMTldIaFJwbXdSbFFqN2x6MnpRYzNvLURuejBJUFVLYlZfcWNsOGlweWhfQktrYVBPM0RNeE40aEpfUi1MTFlDMF8xejVxMFQwVHVkVXBsZ25YVU5fdXRjdWgzUXhGb25lcE10UENmNjF4QlFnanA5VFRYaXJjZDZQVEZDMm5RWDEyOUYwcXBjdTZJTkprd1hIOURWeFhTeVEzcXI0Tk1QTDhDcEVmY29NSGhrOXdEQy1XbHNmeERBQW8wU09zb0FzRWt4Nk1Cbkhka3ZVWldjaXg0M1laeGhERm5OZw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQandQSHhmVGE4VnljVmlLcjRFRHJJdjNRdnd5dkFGZ2FpZm51RWV2MFZTNUdMMVo5V1ROcy1JaXh1SVRDRnJXOVRHNExleEdSOW1wMkN6NFU2N2l4T0JiYUh4SW9zQW5XY3Jkc2RoNU1jRGRxZXEtQi1vWDZxVDBrSDZlR0YwSlM2bnEtY19WcHh3NVl5MTBkMTZtdTdOc1FYTVI2azlobnpYRFZZRV96Y1hPMDV1Z2gwc2FrdUxfVVBpWXU5LXJueUtVT19UQdIB0wFBVV95cUxQdFhhUnVzVXhGR2R3YTVxNllVSzczMWZlZzVVbUtnZXZmeW5XcnRFbm5IZ2lodDNqcjctN0lQRGtGcVJ1NElUSlJzU1Jjd3ZaUEVPYXhoQnc1REZiNWstMGZORFFuWW9hX0VkZVRRSkNqNzlRcDI5SzJoa2EwSDRZSkZTVVZDTVpsSnJqRE9wTUpqOWt5aDBhSFMtQzd5TTVXeWR3VDNGNlZYZjhNSjV4XzF6Q29DdUN4U3dNZXFDVS1Yb0FmTUhveThKcDF4Yzk3WXlJ?oc=5"
+        },
+        {
+          "outlet": "شبكة تواصل الإخبارية",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iMkpUSlJmQlpzZ0xJWlhjdWRRcDVCLXlJMlp5MEduVnA2elFfZkNSOW5VU3I4NEJzZGJhcU5tM0prNHllT1YyeS1oS0c3QW9MZnM4?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Patna becomes India's second city with water metro as Bihar CM inaugurates Ganga service at Rs 50 fare. A civic-infrastructure story. Covered by 3 outlets, including Swarajya and The Times of India.",
+      "image": "images/patna-becomes-india-s-second-city-with-water-metro-as-bihar-.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "rs-3-crore-defender-horse-race-with-suv-prize-150-dishes-ana",
       "headline": "Rs 3-crore Defender, horse race with SUV prize, 150 dishes: Anant Singh goes all out for daughter's weddi - The Times of India",
@@ -77,53 +109,26 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHNWWjFXeHdia3Ffa0RnS3ZyUGZ6akc3R1FEczB6RlYxRTlCTExNZnNSUjk0UVlRT1YyeGRqM2JmRlV0M2VRTVRKVlE5eGdQUVZIV1JRVWZwZ2Z6bUZwSGlFN2hYT2VVRUZZOXphNk05VGVWOHAzX3JKa2tNbHpYd1hPaTdHRk94OEdJalVVRVNTenJKb0tpUVp0c2NiQQ?oc=5"
         },
         {
+          "outlet": "The Siasat Daily",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHItQmQ0SU9ucHFlc0xqRVJ3QTNpTFdQaE9PVlg3bU9HOXZ5MXB4SWdUZWtyUjJSNV90MGM1YnFLZy1naWpIY05Ncll2UDdmWWJQY0FfTDBIOFdvVXFraFhOemJ4ZzJOMk8waTZTMG80V1Nmc0M2MURDVXVxRWRFcG43V0NDMVVaMWfSAY8BQVVfeXFMTTZ1S0hMMEFsZTZ4b0tSblI2NW8xME5aN000QUN1VTBaSEUtUWdwWTBpVkxwbEVJMFE3QmFzMFh4bFlWd0dFR2QtbElCX2oxX2NvdU1SVlRoNkl4MmxIUzVYeTRNam9zMmxScUVyNWNIMUJoaHBIcGwySWQ2aWg1UENyazVMdWRhYk9iVmYxLWc?oc=5"
+        },
+        {
           "outlet": "Udayavani",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmJfNlVZZlc5WWxFcXpyVFdZR09wSFNoZC1STWlaZy16NWtEZ1pkai00STFpdFg0cWRWVzlTUHFmQU1TcGJ2Rk14LWs0b2w4eDdneFV3NnR4aFVlZU1QQnZMS3EwX28yLU1wOHNGVW94QzFjbGpzSmN6VWtRQXpIWjJrRGc3ZmRmWVFBRzBIRXlSdThWVjF0Uy04Q09HRnVtZlhxMEVLNW40ZXBxQ1N3UUlyX0gyMlV3OGl0UQ?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE5NenNqQy1sTjNGYTRDaGEtSkltX3BWLVd5ODVrc2dRUnZwdmJNTms3R3Z0b2txM3lIaE00X1JEMkswUUgxSy03Qk5PTHJ4M2VYeGlQaFRNUEtON1kwbHByQXlLenhDUkJuNEhoUDhrZjY3aHdNb3I4SnVuTWpKRVYwbHhqTzBMVUlhZ05JU1RhVGFOSFVfb0xNQ2lpaE1FVHZaQS1Dc1Q1bWZPamxocTZkdmUzeEduaVllOU5WWVV4eU42UGFz?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "4-year-old girl raped in Goa; Bihar native arrested, 2nd such case in a week. A crime-related story. Covered by 3 outlets, including The Hindu and Mathrubhumi English.",
+      "brief": "4-year-old girl raped in Goa; Bihar native arrested, 2nd such case in a week. A crime-related story. Covered by 5 outlets, including The Hindu and Mathrubhumi English.",
       "image": "images/4-year-old-girl-raped-in-goa-bihar-native-arrested-2nd-such-.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "bihar-board-to-provide-free-jee-neet-coaching-for-2027-regis",
-      "headline": "Bihar Board to provide free JEE, NEET coaching for 2027, registration begins at coaching.biharboardonline.com | Education - Hindustan Times",
-      "summary": "",
-      "date": "2026-11-11",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmlNTE9JcHpFbHN1RTltb29FbHkxbUFUTU50YUxJZ3J3dEYwWVlKOGdGRUhxdGdIbC1nRGZKeGY2c19ZWk9DaEJrSzhidlVuRFA2LVQxb0E0N2FXeGo3MFRpaXl1RHJYSktpTUw4OW04NC14M0Rpd3AzZE9pRkViODNYYVJyZDRKeDZoSnFKYW1fYzNRcGZ0RURjaDMwdXQ2bFdMbGd6dm9JeUdEY2FqZ3BZUGJ2ZXczYUQ3aGUybGLSAcgBQVVfeXFMT3hRWG5wckMwZ0JXdmlxaWJqTGN6RDNZUFJFckdTWVRqRG5Yd080ZGsxWFlDMDgzT3VMMjRycm50RTB5NEFwLXFHRm9FdDA4V08yRHdEdnhfUXNhdG1KM1ZXV1NUZTRxWDJlMmtxaVFYVVQzaURYY0ZpM0h4SXhGa29NcWJPTDJ5SlY0cWxGT0dYWDhSeGF3VWQ2RlVQS3ZPRXlwOTluZUdDZHkyN0lqanZhZkkwQUlMWFpuNnZTNEF5cDhyUDlSaS0?oc=5"
-        },
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdFlUY2Q3WDlLb2Q1LTlFVmxEMjJnWklXdlNEZzZPZUVPYlBlSDU5NjVaNW1HLTdmZWJ2THhaTzFpdk95bzcwcWxqRjhnTEFjVjR5NF9lNXUtdk9DaU5wa1hRRWJUOENkRzJzY3Fwa3kwN0tNcVpGSnROUEZSd09hcWN3UVlpRnVRX0FUOHY3cnQzeERON0xzeTNhdlVIU0JfNllBZ0RjbF9HcF9seFpyZDFXZGRBc0ZQeGwyc09BSkZ0cThsMmRXVEl1STJTUS1ZT2NUeFh4Q29lWHRjRzdHck5FY0o5ZFpqei1vNVJHd0FNUGhnYmlGbkJUWGJPM09TWWfSAYcCQVVfeXFMT21pUUhMQ3F1WmVQQWxaajB4X2hEdElKZVNLVnN0ZEdDZXFZVHVibWlHbHZOX0ZpRUd1NlV5YzhiNVFFeHYzRlZuSWJyNGRLNzk0TTYwaEN2aTQwaFBSMktuLVl1eGRSaU9uMkFORVRwYlI3eWJoLUdNYnZjc29URFZpU0pJYlVBQ2VPNTlMNmIybVV1VzBscG5DMDBYWlNrUXRNTnVBX3hiZ19JYUpSLVc3aWEzX1pYbnowOHdrT2FnaXRKemZqRXdRMXJiVXRudkxjd2V4V05uYUFINDU3RWEycnFRN3BhOTVqcE04MGpMd3lGWWVEbjcyMDdBMDB3d2lKN19zTlU?oc=5"
-        },
-        {
-          "outlet": "Shiksha.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2UtUkM3ejEwaWVKcXR5T2VCaVVVQkQ3LVZVZ1RLZHV5MEwwOUhLV0gxbTAxdkJLSVJIRlpBOEZsQ1FlU0Y3bHlSeVpycE5jOHBnUXU0dzFMekpGYWY0SU1WTGt5Tmg0Wnk0QTlycmw5Qm8wYTBqUEp1YjdxNWxSaTlPR2g5WG1pM2ZXUEUxa0RCZk1fTVRUWENjVFJIQ1I2dFBqQll4SFVvWXBZTXlIc1Bya1ZpNGdiZFJKa2p5SQ?oc=5"
-        },
-        {
-          "outlet": "NDTV Profit",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzZOdVNJWXpiWHIxdVRRSHZReGJOeDdZVDdoWkJJeXVoamU5WlJ5YmRtdjliLUlyOXZzd0lBVnd1MDk4QjN2Ri1TdVpTWjZCQWo2dEExeVJDb29ZRnVvWjVOdGtZMFlNa3g3eEVRY2I4cVBMeVNnWWttSUNRc21vOVJWam1YQjVzaVEzWlk1YWpvMFhUYk00Vmp1akVPdXE3Yl8wSFQ0Y3R6bUNfa2pHR3QyWEVibW1LMFHSAcIBQVVfeXFMTlFRcnJkYm5JV3dEdUl0djJtQndfNzdhVWpROUJJejBsRGFBeHRGSE50VWw5VWNFMWtyek9HV1lEN1V4R1g0WDZnYVJQb29VcUk5VGpyNThuV0dLdTZPOW5qcmtXclhGYmg3X3JWUUFLdWY1Y0wtbV9GZmpfYU11cTY0Qi1nRlJvY1NQcFBLbU02Q3R5UEl5YTFqd0c1a1Y2UDNqSHZVU2FTbDlsQ0JKRlhIMzJDTGZYODg2cVpfdXBrX3c?oc=5"
-        }
-      ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar Board to provide free JEE, NEET coaching for 2027, registration begins at coaching.biharboardonline.com. An education-related story. Covered by 4 outlets, including NDTV and Hindustan Times.",
-      "image": "images/bihar-board-to-provide-free-jee-neet-coaching-for-2027-regis.jpg",
       "image_kind": "photo"
     },
     {
@@ -151,7 +156,81 @@
       "genuineness_label": "Corroborated",
       "brief": "Girl kidnapped in Bihar's Rohtas, gang-raped in Aurangabad; auto-rickshaw driver among three arrested. A crime-related story. Covered by Asianet Newsable and Hindustan Times.",
       "image": "images/girl-kidnapped-in-bihar-s-rohtas-gang-raped-in-aurangabad-au.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-board-to-provide-free-jee-neet-coaching-for-2027-regis",
+      "headline": "Bihar Board to provide free JEE, NEET coaching for 2027, registration begins at coaching.biharboardonline.com | Education - Hindustan Times",
+      "summary": "",
+      "date": "2026-11-11",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbUFhbGtReWllUE82UU5hc1Vha1lwLU00QkUtYlo1ck1FSTJHUnhtZ2ZLeUpzMk14Tk9iYm9iaVAteFJfWFFWMFdpb1RSaGZCczYxXzFndXJuNkFkb053Yjl3b1p4bHpMQ1hpMmF5eGw2Wmg5UEpQWDRkV0o2OUNYMjZsRmQ5RFlseXZVUnAyaFJKNS1PUEZ4cFR4NU9UdzdmMGFCY3oyWEpjM1hsTE9lOGlPdmdpVVBoVC1LRDNhTTBjSzFta20wQVRtNkZldUg4enVz?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdFlUY2Q3WDlLb2Q1LTlFVmxEMjJnWklXdlNEZzZPZUVPYlBlSDU5NjVaNW1HLTdmZWJ2THhaTzFpdk95bzcwcWxqRjhnTEFjVjR5NF9lNXUtdk9DaU5wa1hRRWJUOENkRzJzY3Fwa3kwN0tNcVpGSnROUEZSd09hcWN3UVlpRnVRX0FUOHY3cnQzeERON0xzeTNhdlVIU0JfNllBZ0RjbF9HcF9seFpyZDFXZGRBc0ZQeGwyc09BSkZ0cThsMmRXVEl1STJTUS1ZT2NUeFh4Q29lWHRjRzdHck5FY0o5ZFpqei1vNVJHd0FNUGhnYmlGbkJUWGJPM09TWWfSAYcCQVVfeXFMT21pUUhMQ3F1WmVQQWxaajB4X2hEdElKZVNLVnN0ZEdDZXFZVHVibWlHbHZOX0ZpRUd1NlV5YzhiNVFFeHYzRlZuSWJyNGRLNzk0TTYwaEN2aTQwaFBSMktuLVl1eGRSaU9uMkFORVRwYlI3eWJoLUdNYnZjc29URFZpU0pJYlVBQ2VPNTlMNmIybVV1VzBscG5DMDBYWlNrUXRNTnVBX3hiZ19JYUpSLVc3aWEzX1pYbnowOHdrT2FnaXRKemZqRXdRMXJiVXRudkxjd2V4V05uYUFINDU3RWEycnFRN3BhOTVqcE04MGpMd3lGWWVEbjcyMDdBMDB3d2lKN19zTlU?oc=5"
+        },
+        {
+          "outlet": "Education Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOWdXbDVGbkhRN2IyYUl2aVhSTV93RkpxUThVUnpMUkpWb25BOEhDSTRYeDgyTnl4WWNlVktqdWtOMlM3S0JHX0Q0VDlyRzQtd2ZrS0hmd0hxYVo0b3ZMa3RmaUlQQzhIQk9oVUNsUi02dEdISU5pU3JBWmtuS19wWFhlcXFmUUdUT3RSVDBScFZRbUdkTV9ENG1Lenc2al9fbEtQbGx4NFJBYUlkMlVNUFdWamFjbERkUHp5OE5RbGV5eDZsdkU1UnJPSklMdk90Yk9VMDR0U2VmemtoTW1NeFJvcngxZFBPN3d0Wm8xMmpYbHZlVjVDdDRodw?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmlNTE9JcHpFbHN1RTltb29FbHkxbUFUTU50YUxJZ3J3dEYwWVlKOGdGRUhxdGdIbC1nRGZKeGY2c19ZWk9DaEJrSzhidlVuRFA2LVQxb0E0N2FXeGo3MFRpaXl1RHJYSktpTUw4OW04NC14M0Rpd3AzZE9pRkViODNYYVJyZDRKeDZoSnFKYW1fYzNRcGZ0RURjaDMwdXQ2bFdMbGd6dm9JeUdEY2FqZ3BZUGJ2ZXczYUQ3aGUybGLSAcgBQVVfeXFMT3hRWG5wckMwZ0JXdmlxaWJqTGN6RDNZUFJFckdTWVRqRG5Yd080ZGsxWFlDMDgzT3VMMjRycm50RTB5NEFwLXFHRm9FdDA4V08yRHdEdnhfUXNhdG1KM1ZXV1NUZTRxWDJlMmtxaVFYVVQzaURYY0ZpM0h4SXhGa29NcWJPTDJ5SlY0cWxGT0dYWDhSeGF3VWQ2RlVQS3ZPRXlwOTluZUdDZHkyN0lqanZhZkkwQUlMWFpuNnZTNEF5cDhyUDlSaS0?oc=5"
+        },
+        {
+          "outlet": "Shiksha.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2UtUkM3ejEwaWVKcXR5T2VCaVVVQkQ3LVZVZ1RLZHV5MEwwOUhLV0gxbTAxdkJLSVJIRlpBOEZsQ1FlU0Y3bHlSeVpycE5jOHBnUXU0dzFMekpGYWY0SU1WTGt5Tmg0Wnk0QTlycmw5Qm8wYTBqUEp1YjdxNWxSaTlPR2g5WG1pM2ZXUEUxa0RCZk1fTVRUWENjVFJIQ1I2dFBqQll4SFVvWXBZTXlIc1Bya1ZpNGdiZFJKa2p5SQ?oc=5"
+        },
+        {
+          "outlet": "NDTV Profit",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzZOdVNJWXpiWHIxdVRRSHZReGJOeDdZVDdoWkJJeXVoamU5WlJ5YmRtdjliLUlyOXZzd0lBVnd1MDk4QjN2Ri1TdVpTWjZCQWo2dEExeVJDb29ZRnVvWjVOdGtZMFlNa3g3eEVRY2I4cVBMeVNnWWttSUNRc21vOVJWam1YQjVzaVEzWlk1YWpvMFhUYk00Vmp1akVPdXE3Yl8wSFQ0Y3R6bUNfa2pHR3QyWEVibW1LMFHSAcIBQVVfeXFMTlFRcnJkYm5JV3dEdUl0djJtQndfNzdhVWpROUJJejBsRGFBeHRGSE50VWw5VWNFMWtyek9HV1lEN1V4R1g0WDZnYVJQb29VcUk5VGpyNThuV0dLdTZPOW5qcmtXclhGYmg3X3JWUUFLdWY1Y0wtbV9GZmpfYU11cTY0Qi1nRlJvY1NQcFBLbU02Q3R5UEl5YTFqd0c1a1Y2UDNqSHZVU2FTbDlsQ0JKRlhIMzJDTGZYODg2cVpfdXBrX3c?oc=5"
+        }
+      ],
+      "source_count": 6,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar Board to provide free JEE, NEET coaching for 2027, registration begins at coaching.biharboardonline.com. An education-related story. Covered by 6 outlets, including India Today and Hindustan Times.",
+      "image": "images/bihar-board-to-provide-free-jee-neet-coaching-for-2027-regis.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "nitin-nabin-calls-chhath-puja-pride-of-bihar-extends-wishes-",
+      "headline": "Nitin Nabin calls Chhath Puja \"pride of Bihar\", extends wishes on Chitragupta Puja - ANI News",
+      "summary": "",
+      "date": "2026-11-11",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMEd1TnFnbzRWVWJxTzlELTF1dTdscW5kdGVUS29fdTlKd09iN3lqYVJRbTJyT24wamhHRWhSMEV4YlBacE5JS3ZCUWhTT0hXeVNYalk4ZktURVJSNnN1UGwydWxGZGpiRlZFcU1jUEN6eEZFTnZKeEkyWGxicklUbGt2RFZKWnJWbUVMc0lqaFhlYWhXaEdHUHZRTmJhNDRXWXBRV0M0RVJ4b0R3c2NZMHN3Mkt6MTNuYXd1Mk8zTWNNazJMV3gwQnoyZWo3LXNTSWh1eUotbG1hWlk?oc=5"
+        },
+        {
+          "outlet": "The News Mill",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeG12YWlTUllBS2hSNkJPQTk1ZWJLMi05YjVoM3FfNFNCbmRCcS1QSExJakd5T0xIcjdYdDBYcUhiUmZ3aWtOSzhBOFR4bHQ2eTZWSHNPbnVqRFItc1FpNzBuMko3VFd4Z2JaRTUySkxpc1ZOXzZZSW5NS0lqN0pET2hsQWYxam5PTmROZXRVc3ZYeUVOcEtGREtzN2JWb0k?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Nitin Nabin calls Chhath Puja \"pride of Bihar\", extends wishes on Chitragupta Puja. Covered by ANI News and The News Mill.",
+      "image": "images/nitin-nabin-calls-chhath-puja-pride-of-bihar-extends-wishes-.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "200-nse-zee-business",
@@ -163,39 +242,9 @@
       ],
       "sources": [
         {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTZRaTQ2ZXpkaHZBel9tdEZmQnJJa2RHa2x2bEN6eF9RVW55cGFpREVhT29uZ2E0QWttcHZfR2pWNmVxa2NHUzJQV0ozZWVfWVVmQnNkZVpLQjRqSVV6ekVtMGFKUnVvaGh0YnA3Z1pUb0RqVzJWRG5Sa0hhaVlYTFFicS13RDdKQnZWWGZCUzRWenllNVQ3c0FicFFieEwycUg5d0Z5UjRWbFZreUE1enl1OWxPWXNoVWJnZmdxdkl5bkZnUWFTQXRpaWphUmFuNUN0WURRRnlncmlMZGfSAeMBQVVfeXFMTTFmV2k1Y3lvdGRMWHkyZHZKX19ReXZORnRYRm15ZmtaU01saTJ3N2VSVHo2ZXJNU2dlX2EzbXZYb0RXOXo1WGQxU1NPMzc2S29BYVRlS3lKUGZVRkpMUzUyLUxueG1HZ3gwaURuNWNJLTM3eDJZZWFVOFg1eER3aU1CaDRyOE91QlZlc05Ubjd2M2sxYjFkVGowRDFvV3hpVUZUWVFUaFVkYWgyMTNVbFNDWWhjQnhlX0gtZmRNUFltejJKOF8xQ1hIMElfT25HX21QX0RQLW5RX2dyRExtcHp3SEk?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZNT1RnVEtJSExIRXlBS0x0ajA1MkVhX1RQa0xKSTJUNktQOUZxY1ZrQW9hSDFEN1JRS3FYN2pLWEpBNjAyazZTaGE1N1ZQSjJXY25fanZ4NzdNb1JpV3BsTFRObnlnRjYwLXZXY0JKeW9XTDRkZzJONzhHcEtlYnRoT0p4aVhHQkFZN3JrLTl4aTRwMzdyT191cEtpTDhZRGpqX1RxSHQzZVVwa3UzVVhjUV9wZlRFVVRqNHhaTHU3N2JhZDNKSFRaM3pPN0t2eC1zd2xOYVp6WDNxRk1kLW5qTUs1Z9IB6wFBVV95cUxQTExHaDU3Z3BsN3VRRk53SFhEclhJMk5pd1JsUXhEZDdVT3pSUlZNNWQ2MUNVN3h3ZEhGU3lpWGx6cWloVTlYeFJrdWFXb0RBYnZDekUxR3NJWFk1OWk4RXB3RlRDTFNRRURpTnI4MG0yZi05QkNWc1J2QUxRZDc4V1hPSk9oMVJ1aXRIMnk2Z3g1VThhdjJlUVpHa2JHUUpxTzYxTXFCYUdlQThiYUtKUXZZam1weVZjaDk5QXMwTFJNeklCdzZySUdNdE42QnhfdzJrWmVBTC1vWWd0cHozaW10R2kyMmk4QUs4?oc=5"
-        },
-        {
-          "outlet": "Zee Business",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZHphRHpmdU9QUkw1Q2VXVmVjTUlTRFpEVFlFT2tsZEFJWVRsOE16WXJRRUdPM2JxUW1uSFRrUlVMLWFpRFNxYUNFWm9GRklKN0RHSjRNNHNNYm5QeWhRd2pUYlNQMjUxQTRSX3JfSlZjVUNscFlSZTdPN2FmUzIwemRzR0hxNnFKTzVJMDBlUElJMHZ0WGs3S19QNjFvTGwtZ3B2SnhJZXd5S1RqUFNtaDZzMnJsUUMtV05vMVFTZk01eEFJa0hpRm9ydHluSmdkbzdta1ZIanNDR2FYR0p2T3VIRXh0V3BQZnM2NWpHaTNxRktkTlRVZzBvbjhkWkJUSWlWWmxrMDN1Y2hJaGdGMw?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGxSUHhJVUYyZGFNZ2xoV0lMSEhjdmlOZndBOHB6dG43X21ObXpIWkZTX1BZSV9RZ1laVTdpUmFReHZGM3N5R0pNQTl2MXZDdWloX1RKclp3NGZKMDNhWGtCdVA0TE1yVXJuV0I3QmFtdTA4TmlhT1NVX293eGw3TFJVWjdWR0Q5MWJLeDZORUVGcUV3RkFKSDdKMnJsd09YTTZYb0Y0bTR5WjNWWU9qa0NnSkIxeE1kQ0E?oc=5"
-        },
-        {
-          "outlet": "News18 Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1Nkc1duQzN4aGs1aVdpZFRZM2ZaRWxpNkJueGJoMG85dVdUS1RRWEJQY2FvNVQ3blVuMnYxQ0c2NjdiSkhjZ3BxU1U4UE81YVliTTVNSnQ1YlhSaktmRDBFR1p4M05XU0NZeGQyTlR2dXlIcVJBdkwwa1luR1ZPNTdkbGhqTEZVdTFVQi1XMGswdWJuZFZZZXlLVVhUU05KSFMxdjQtaDJoSE9TMVducXRLX3RQek05dkxvUHlCMl9CTVnSAcgBQVVfeXFMTzVYbTRsNnRCdFAxS1BDYlk0cGJUb3FXSlA0dmVabjNRSFBRNHktZzVibVJST0x5YjRZVE93STRRdThqVFlYRE9CUUN2Uy15dXlGSGFsUnVoMTdlN2RuMUxrRktVekE1WHRIQjlkWWloZnBfTEVQRW44Q1hMMDBiRndQUHR6bllMMmtid2pQUVVHYVlkQWU3dVBDSS1BZFpsTkJNMExlZ2Ytck9RbWZ2X0ZvOWlUVTVVa2JWZk9PSzhUaWtxdVFNMFE?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWRZRlduR3hOeENrZG1UcjFCS1ZmVXV4WWlfem9objJQUmRISEZzbTgzMkdkelVZc1plS1JvWUdLb0VMaExfdVRwdy15S2FLZVF1NWtSU2ZDdmxnNTUwY3puNmZySDZtbzc2ZDBpWURwUWFpdlRCMk4ybUJvYjRuUFFKdllvVTBwWjFoTy1yVDBONkJCei1ndWY5cncweDNSUEREU2MtYi1LZmN3SHBfZU5seEdlUGxVc2prdjg5eUE5UWt30gHKAUFVX3lxTFBfeDJBSW45NGpPbXdZNXhOVW9NZGRJNHJaSVEtRzhPMkxpcUwzdUYyU2JweWtabnotVUhzSmZiVkZNY1I0X1lwMTlncm5IODZuNmRfQW8yMHNkdGdwMlFNd0x2Snd6OFpjR0NoQy1QemRBN09iQzZtR21Id0NqdTh2VDQ5ZlZ2VGVyLWRMall3YkJyTDB1SThTdXV6eTZWUTExT25Wa1lkQzhkZkpaXzM4Q2tvMGtNbHlJWnpsRnpqWGJ2b1lzQ25reVE?oc=5"
-        },
-        {
           "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORnR4cEJrWHc1WHFISmRXX0dYQ1NqWDBSMkhIc0FaeGRXcG9sdkdpMlpMeWhTSnY0VEJzbzg1Rlk2bVZrQ3UyNkZnTHk5SVJkeFN0ZEY4bjZkYjBjbHF1QTBMRWpsaTBkX2hXTU9VZnhocVJySnczbjRISHVKWlNOTmFyNzdBRlpJWDVWOVRkejNTSEI2STBLdFAxaWlSZDVOdXF1Q3M5eDlYM1hZblh4alllbUk3S190Qk8wQlUwNlIwWlYxd0pV0gHMAUFVX3lxTE5lUjVjYjRjb3VXVHpneUhCSFBhdDZWS0ZITXI2V0lTb3g5eUpaLUlacTM3LXRUSnl3S25Mckt4bTg2eEVYZkstTnYxUnpHS2NaUk9ZVk1aNjNvMFNIY01GVnY2ZWFENzV2QW1LVUFjWkdRNmE1alM5R2N3REFMcDhHckR0R2twVnVRRVNfZ2pnLWFFTGVMdEhxM05jRTJrS1dKU2kwTGdCSUtMc05jdkpUUktpalVrVXg1OVNpVUlfdmd3b2RWTUhrSjJNXw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEd5TjBBcVJOSWNRdTd2TnZCMmc4a1phME1TbmpYTlZOYkFzSDYtUmIzNWJKZUNQbDRIQU44eWNkUE81YU5QbU5tUms5YkZIbFFVMjdWNW1hOFctU3FOUzBVdGNrV2FqZGF6Q2szNjVBalJlNzZ1UmVweEJrdlJ1SHUzTjJsZmtSMWJmR3FJXzlNZ3ZFWE9MaFVWOFpmeEQxMEVsNFZnakR5UWIwZjc5OUhEWDFVZXpGODBOemRqX1RqdHhfVXFYSWVTMUVWZzVCR2xMdVZWWTJVXzBUN1HSAeMBQVVfeXFMT3RlbmlSbFdRODJZN3BlUlBfbWZmQVBhb01IWGtZdmJkenk4czNHNUwtdmFIdlM1aGpFT1FjMGk0OC0wUkMydlU1Rjd4TFZILTNPMkRnWmNGVi1qdWtwejV2NVJqbHB3Q0FFNkNJTE5QQXdWOUxMV0RqWFRsd0dYQTBDQ1FMeTBqM1NkTmtfTGNOTFpvcWVfUUxFWjdtbjVSZDREY3ZrZFhJVlcxOXFhd2FBNlBrVEVheThwYkpVbVRBTWVuSnJDMzZyLWwzdjdVS21LQjkzWXA5RDZjUzJkUHctX1k?oc=5"
         },
         {
           "outlet": "ABP News",
@@ -203,25 +252,55 @@
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQlZxaFlGaWZlX0lzZFBZbDR2TnJCaS05Tlh6dDZPeXVScUpmX25BMDBTUnlQc0pSaUFtNm93MXlkSnNIMXlQUW0xQXJGNGNhV05MdnpkdDZYLTd2VXZkalNQeDZXNTRnMEJ3UjdnS3Z2ZS1TX1IyRTh4QlA3NlNXUzBuNnRmSmRPMTVmSzN4YVlFekpjZ3JRblVTdnJ4NUV4dk1LaG1rZmpPN2lzUVhZdFk0dFc1WHQ4UlBTZ3JUZWdqMUZRUXBkYzljTEJXd1pmUWIyNGpxZGNybl9IdFHSAeMBQVVfeXFMTm5TTElrYUxXSlB0R3p3cmJON1NQNjJqRlBBODdoOEtaTHdhOWY3dW4tV2VUaU01SjRCSGg5UjY0ZDVBc1FUMWEwbFgzZXltSmtVN2wydy1qWXBDTzBLcDVneHRaVnRLc291SFprVkRuME11M1JyRE1XdGFlUHV4ZDZIZXY5T003dWdUZWdlaG1Ja0ZqSWtlSkZxV2JkNllCbVhwdkR2dFRXdEY1YVlvUUswUllJRXZjOWpNYVpHZ0JKNU1oMzJQMzJNaXlTTHhmREFlcjhsckxaOHMxNFJ6WG4wdEE?oc=5"
         },
         {
+          "outlet": "Zee Business",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZHphRHpmdU9QUkw1Q2VXVmVjTUlTRFpEVFlFT2tsZEFJWVRsOE16WXJRRUdPM2JxUW1uSFRrUlVMLWFpRFNxYUNFWm9GRklKN0RHSjRNNHNNYm5QeWhRd2pUYlNQMjUxQTRSX3JfSlZjVUNscFlSZTdPN2FmUzIwemRzR0hxNnFKTzVJMDBlUElJMHZ0WGs3S19QNjFvTGwtZ3B2SnhJZXd5S1RqUFNtaDZzMnJsUUMtV05vMVFTZk01eEFJa0hpRm9ydHluSmdkbzdta1ZIanNDR2FYR0p2T3VIRXh0V3BQZnM2NWpHaTNxRktkTlRVZzBvbjhkWkJUSWlWWmxrMDN1Y2hJaGdGMw?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTZRaTQ2ZXpkaHZBel9tdEZmQnJJa2RHa2x2bEN6eF9RVW55cGFpREVhT29uZ2E0QWttcHZfR2pWNmVxa2NHUzJQV0ozZWVfWVVmQnNkZVpLQjRqSVV6ekVtMGFKUnVvaGh0YnA3Z1pUb0RqVzJWRG5Sa0hhaVlYTFFicS13RDdKQnZWWGZCUzRWenllNVQ3c0FicFFieEwycUg5d0Z5UjRWbFZreUE1enl1OWxPWXNoVWJnZmdxdkl5bkZnUWFTQXRpaWphUmFuNUN0WURRRnlncmlMZGfSAeMBQVVfeXFMTTFmV2k1Y3lvdGRMWHkyZHZKX19ReXZORnRYRm15ZmtaU01saTJ3N2VSVHo2ZXJNU2dlX2EzbXZYb0RXOXo1WGQxU1NPMzc2S29BYVRlS3lKUGZVRkpMUzUyLUxueG1HZ3gwaURuNWNJLTM3eDJZZWFVOFg1eER3aU1CaDRyOE91QlZlc05Ubjd2M2sxYjFkVGowRDFvV3hpVUZUWVFUaFVkYWgyMTNVbFNDWWhjQnhlX0gtZmRNUFltejJKOF8xQ1hIMElfT25HX21QX0RQLW5RX2dyRExtcHp3SEk?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1Nkc1duQzN4aGs1aVdpZFRZM2ZaRWxpNkJueGJoMG85dVdUS1RRWEJQY2FvNVQ3blVuMnYxQ0c2NjdiSkhjZ3BxU1U4UE81YVliTTVNSnQ1YlhSaktmRDBFR1p4M05XU0NZeGQyTlR2dXlIcVJBdkwwa1luR1ZPNTdkbGhqTEZVdTFVQi1XMGswdWJuZFZZZXlLVVhUU05KSFMxdjQtaDJoSE9TMVducXRLX3RQek05dkxvUHlCMl9CTVnSAcgBQVVfeXFMTzVYbTRsNnRCdFAxS1BDYlk0cGJUb3FXSlA0dmVabjNRSFBRNHktZzVibVJST0x5YjRZVE93STRRdThqVFlYRE9CUUN2Uy15dXlGSGFsUnVoMTdlN2RuMUxrRktVekE1WHRIQjlkWWloZnBfTEVQRW44Q1hMMDBiRndQUHR6bllMMmtid2pQUVVHYVlkQWU3dVBDSS1BZFpsTkJNMExlZ2Ytck9RbWZ2X0ZvOWlUVTVVa2JWZk9PSzhUaWtxdVFNMFE?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORnR4cEJrWHc1WHFISmRXX0dYQ1NqWDBSMkhIc0FaeGRXcG9sdkdpMlpMeWhTSnY0VEJzbzg1Rlk2bVZrQ3UyNkZnTHk5SVJkeFN0ZEY4bjZkYjBjbHF1QTBMRWpsaTBkX2hXTU9VZnhocVJySnczbjRISHVKWlNOTmFyNzdBRlpJWDVWOVRkejNTSEI2STBLdFAxaWlSZDVOdXF1Q3M5eDlYM1hZblh4alllbUk3S190Qk8wQlUwNlIwWlYxd0pV0gHMAUFVX3lxTE5lUjVjYjRjb3VXVHpneUhCSFBhdDZWS0ZITXI2V0lTb3g5eUpaLUlacTM3LXRUSnl3S25Mckt4bTg2eEVYZkstTnYxUnpHS2NaUk9ZVk1aNjNvMFNIY01GVnY2ZWFENzV2QW1LVUFjWkdRNmE1alM5R2N3REFMcDhHckR0R2twVnVRRVNfZ2pnLWFFTGVMdEhxM05jRTJrS1dKU2kwTGdCSUtMc05jdkpUUktpalVrVXg1OVNpVUlfdmd3b2RWTUhrSjJNXw?oc=5"
+        },
+        {
           "outlet": "NDTV India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU19oU0hBRnFSWGRXbTRLa2lJOHBoMXdBWW9ralkzSWFOaVNtNzBfMXZ3czNnMjF6WGNZZGoxbk9felUxbVJvX2lVNVhTWjRaUkFNejlRTlk4TlhpZklpSm5xN0ltd1JYWTF0SGttZGxKTWtXNkpXdVlBYkhwemZTNENHVTJ5dTRFZjFlOUg4TjNpRmtqdTVTQXM3QWluZ19GcWJsZlVOWm4tUDl2QmFUTWZJaGZ0ODlPY3hlWDZiRQ?oc=5"
         },
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Amar Ujala",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEd5TjBBcVJOSWNRdTd2TnZCMmc4a1phME1TbmpYTlZOYkFzSDYtUmIzNWJKZUNQbDRIQU44eWNkUE81YU5QbU5tUms5YkZIbFFVMjdWNW1hOFctU3FOUzBVdGNrV2FqZGF6Q2szNjVBalJlNzZ1UmVweEJrdlJ1SHUzTjJsZmtSMWJmR3FJXzlNZ3ZFWE9MaFVWOFpmeEQxMEVsNFZnakR5UWIwZjc5OUhEWDFVZXpGODBOemRqX1RqdHhfVXFYSWVTMUVWZzVCR2xMdVZWWTJVXzBUN1HSAeMBQVVfeXFMT3RlbmlSbFdRODJZN3BlUlBfbWZmQVBhb01IWGtZdmJkenk4czNHNUwtdmFIdlM1aGpFT1FjMGk0OC0wUkMydlU1Rjd4TFZILTNPMkRnWmNGVi1qdWtwejV2NVJqbHB3Q0FFNkNJTE5QQXdWOUxMV0RqWFRsd0dYQTBDQ1FMeTBqM1NkTmtfTGNOTFpvcWVfUUxFWjdtbjVSZDREY3ZrZFhJVlcxOXFhd2FBNlBrVEVheThwYkpVbVRBTWVuSnJDMzZyLWwzdjdVS21LQjkzWXA5RDZjUzJkUHctX1k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZNT1RnVEtJSExIRXlBS0x0ajA1MkVhX1RQa0xKSTJUNktQOUZxY1ZrQW9hSDFEN1JRS3FYN2pLWEpBNjAyazZTaGE1N1ZQSjJXY25fanZ4NzdNb1JpV3BsTFRObnlnRjYwLXZXY0JKeW9XTDRkZzJONzhHcEtlYnRoT0p4aVhHQkFZN3JrLTl4aTRwMzdyT191cEtpTDhZRGpqX1RxSHQzZVVwa3UzVVhjUV9wZlRFVVRqNHhaTHU3N2JhZDNKSFRaM3pPN0t2eC1zd2xOYVp6WDNxRk1kLW5qTUs1Z9IB6wFBVV95cUxQTExHaDU3Z3BsN3VRRk53SFhEclhJMk5pd1JsUXhEZDdVT3pSUlZNNWQ2MUNVN3h3ZEhGU3lpWGx6cWloVTlYeFJrdWFXb0RBYnZDekUxR3NJWFk1OWk4RXB3RlRDTFNRRURpTnI4MG0yZi05QkNWc1J2QUxRZDc4V1hPSk9oMVJ1aXRIMnk2Z3g1VThhdjJlUVpHa2JHUUpxTzYxTXFCYUdlQThiYUtKUXZZam1weVZjaDk5QXMwTFJNeklCdzZySUdNdE42QnhfdzJrWmVBTC1vWWd0cHozaW10R2kyMmk4QUs4?oc=5"
         },
         {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjhxdWJKQXBHYm1aRVdQdDBGLUxoS2VJNTF3VTlxVnJkZmpHZmNOOEwyOHZnd1JyaGpLX3U5Qk5aVzJKMlptZkRaZm5TcTZwdlZTdmUtWnBnV1dnQm9rQkp3MHNpa0VXamlfMVFVMzRxR3JteWtTZ2Y2aUVRNUh1VHRYZGJMS2V0d1VoUDJvVDJsUmZBMHhaN1VpR0FDV25HdDFoQ2VNU0c1d2F0R1Y3T0xOM1ZhcHpEbXlJS3dUQ1VUWXZBMEE?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGxSUHhJVUYyZGFNZ2xoV0lMSEhjdmlOZndBOHB6dG43X21ObXpIWkZTX1BZSV9RZ1laVTdpUmFReHZGM3N5R0pNQTl2MXZDdWloX1RKclp3NGZKMDNhWGtCdVA0TE1yVXJuV0I3QmFtdTA4TmlhT1NVX293eGw3TFJVWjdWR0Q5MWJLeDZORUVGcUV3RkFKSDdKMnJsd09YTTZYb0Y0bTR5WjNWWU9qa0NnSkIxeE1kQ0E?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWRZRlduR3hOeENrZG1UcjFCS1ZmVXV4WWlfem9objJQUmRISEZzbTgzMkdkelVZc1plS1JvWUdLb0VMaExfdVRwdy15S2FLZVF1NWtSU2ZDdmxnNTUwY3puNmZySDZtbzc2ZDBpWURwUWFpdlRCMk4ybUJvYjRuUFFKdllvVTBwWjFoTy1yVDBONkJCei1ndWY5cncweDNSUEREU2MtYi1LZmN3SHBfZU5seEdlUGxVc2prdjg5eUE5UWt30gHKAUFVX3lxTFBfeDJBSW45NGpPbXdZNXhOVW9NZGRJNHJaSVEtRzhPMkxpcUwzdUYyU2JweWtabnotVUhzSmZiVkZNY1I0X1lwMTlncm5IODZuNmRfQW8yMHNkdGdwMlFNd0x2Snd6OFpjR0NoQy1QemRBN09iQzZtR21Id0NqdTh2VDQ5ZlZ2VGVyLWRMall3YkJyTDB1SThTdXV6eTZWUTExT25Wa1lkQzhkZkpaXzM4Q2tvMGtNbHlJWnpsRnpqWGJ2b1lzQ25reVE?oc=5"
         }
       ],
       "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार में पहली बार पटना नगर निगम के ₹200 करोड़ के म्यूनिसिपल बॉन्ड की NSE में लिस्टिंग, मुख्यमंत्री ने बेल सेरेमनी कर किया शुभारंभ। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें News18 Hindi और Amar Ujala शामिल हैं।",
+      "brief": "बिहार में पहली बार पटना नगर निगम के ₹200 करोड़ के म्यूनिसिपल बॉन्ड की NSE में लिस्टिंग, मुख्यमंत्री ने बेल सेरेमनी कर किया शुभारंभ। इसे 7 मीडिया संस्थानों ने कवर किया है, जिनमें Dainik Bhaskar और ABP News शामिल हैं।",
       "image": "images/200-nse-zee-business.jpg",
       "image_kind": "photo"
     },
@@ -415,30 +494,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "patna-becomes-india-s-2nd-city-after-kochi-to-get-water-metr",
-      "headline": "Patna becomes India’s 2nd city after Kochi to get Water Metro - شبكة تواصل الإخبارية",
+      "id": "cabinet-clears-building-bylaws-with-deemed-map-approval-the-",
+      "headline": "Cabinet clears building bylaws with deemed map approval - The Times of India",
       "summary": "",
       "date": "2026-11-10",
       "topics": [
-        "civic"
+        "general"
       ],
       "sources": [
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQandQSHhmVGE4VnljVmlLcjRFRHJJdjNRdnd5dkFGZ2FpZm51RWV2MFZTNUdMMVo5V1ROcy1JaXh1SVRDRnJXOVRHNExleEdSOW1wMkN6NFU2N2l4T0JiYUh4SW9zQW5XY3Jkc2RoNU1jRGRxZXEtQi1vWDZxVDBrSDZlR0YwSlM2bnEtY19WcHh3NVl5MTBkMTZtdTdOc1FYTVI2azlobnpYRFZZRV96Y1hPMDV1Z2gwc2FrdUxfVVBpWXU5LXJueUtVT19UQdIB0wFBVV95cUxQdFhhUnVzVXhGR2R3YTVxNllVSzczMWZlZzVVbUtnZXZmeW5XcnRFbm5IZ2lodDNqcjctN0lQRGtGcVJ1NElUSlJzU1Jjd3ZaUEVPYXhoQnc1REZiNWstMGZORFFuWW9hX0VkZVRRSkNqNzlRcDI5SzJoa2EwSDRZSkZTVVZDTVpsSnJqRE9wTUpqOWt5aDBhSFMtQzd5TTVXeWR3VDNGNlZYZjhNSjV4XzF6Q29DdUN4U3dNZXFDVS1Yb0FmTUhveThKcDF4Yzk3WXlJ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWS13WFVpOXhndmUxbkg4dS0tOXgzX3NtVTZBV3FVZ1JhU1p0MEp6N1ItNjFtdmlZZFFYNXRuSmZ2R2h1bm5JeGRWU2FNU2hTSUs4cUtOcDh4YWxVVkJGS1hLUkVydGNIOFJyYmxQX3R0aEhMZ25SRFpqRzQ4NHBXZ1I4MEhRcWNWUkpvN0dhRmI2Q3Y2b1dXR3g1c19BMHJ2OTJHRDZyeXRjUXZORjJuTUNQanNqbDE3QXI0N2x6T0hWMGpTWFp30gHMAUFVX3lxTE5lYm1RRmZVNHhxcVJENjR4MnduaHI4SHdMbzBkSkxxMzZyLXl3ZjZHNEh0RWNZZ1J2QnQtNnJON2JkQ05DTlNGNkFzTHhNR3pSbkxpQjhjR29wN3RKbGptcUkyUWx6anFXUDdJWEhpMFp5aUtNVWQxS21pNVNZcW9OZ2ZRcURrVURNUU5IQV9iNDdDMGNUYnZWcUFyS3Mta09SN0psOXdjU1BIU3BNWVk4ZDdGTjNaWkVlT0xrMk9OVXBCR1Fmd18tRG9wNg?oc=5"
         },
         {
-          "outlet": "شبكة تواصل الإخبارية",
+          "outlet": "Urban Acres",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iMkpUSlJmQlpzZ0xJWlhjdWRRcDVCLXlJMlp5MEduVnA2elFfZkNSOW5VU3I4NEJzZGJhcU5tM0prNHllT1YyeS1oS0c3QW9MZnM4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWhIbnhod3Z6a3k5SXBseXFHcDNrOThDQjNpQ01xajlTTWk5YnNscDFxVUE3S0tZWFRYVGZFdUZmQzVCenY1azMzYklISHJmTi1neDlXOEhud0I3Vks3Y0QwMExfZHZwbnNiN0NVYlVWVzYxRWVtT2FlcVRGSXc5NXpKZlE?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Patna becomes India’s 2nd city after Kochi to get Water Metro - شبكة تواصل الإخبارية. A civic-infrastructure story. Covered by The Times of India and شبكة تواصل الإخبارية.",
-      "image": "images/patna-becomes-india-s-2nd-city-after-kochi-to-get-water-metr.jpg",
+      "brief": "Cabinet clears building bylaws with deemed map approval. Covered by The Times of India and Urban Acres.",
+      "image": "images/cabinet-clears-building-bylaws-with-deemed-map-approval-the-.jpg",
       "image_kind": "photo"
     },
     {
@@ -471,33 +550,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar CM Reviews Chhath Puja Preparations Across 103 Ghats in State. Covered by The Times of India and Asianet Newsable.",
       "image": "images/bihar-cm-reviews-chhath-puja-preparations-across-103-ghats-i.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "cabinet-clears-building-bylaws-with-deemed-map-approval-the-",
-      "headline": "Cabinet clears building bylaws with deemed map approval - The Times of India",
-      "summary": "",
-      "date": "2026-11-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWS13WFVpOXhndmUxbkg4dS0tOXgzX3NtVTZBV3FVZ1JhU1p0MEp6N1ItNjFtdmlZZFFYNXRuSmZ2R2h1bm5JeGRWU2FNU2hTSUs4cUtOcDh4YWxVVkJGS1hLUkVydGNIOFJyYmxQX3R0aEhMZ25SRFpqRzQ4NHBXZ1I4MEhRcWNWUkpvN0dhRmI2Q3Y2b1dXR3g1c19BMHJ2OTJHRDZyeXRjUXZORjJuTUNQanNqbDE3QXI0N2x6T0hWMGpTWFp30gHMAUFVX3lxTE5lYm1RRmZVNHhxcVJENjR4MnduaHI4SHdMbzBkSkxxMzZyLXl3ZjZHNEh0RWNZZ1J2QnQtNnJON2JkQ05DTlNGNkFzTHhNR3pSbkxpQjhjR29wN3RKbGptcUkyUWx6anFXUDdJWEhpMFp5aUtNVWQxS21pNVNZcW9OZ2ZRcURrVURNUU5IQV9iNDdDMGNUYnZWcUFyS3Mta09SN0psOXdjU1BIU3BNWVk4ZDdGTjNaWkVlT0xrMk9OVXBCR1Fmd18tRG9wNg?oc=5"
-        },
-        {
-          "outlet": "Urban Acres",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWhIbnhod3Z6a3k5SXBseXFHcDNrOThDQjNpQ01xajlTTWk5YnNscDFxVUE3S0tZWFRYVGZFdUZmQzVCenY1azMzYklISHJmTi1neDlXOEhud0I3Vks3Y0QwMExfZHZwbnNiN0NVYlVWVzYxRWVtT2FlcVRGSXc5NXpKZlE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Cabinet clears building bylaws with deemed map approval. Covered by The Times of India and Urban Acres.",
-      "image": "images/cabinet-clears-building-bylaws-with-deemed-map-approval-the-.jpg",
       "image_kind": "photo"
     },
     {
@@ -572,33 +624,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar CM suspends 15 officers, employees over delays and negligence in public service applications. Covered by The Hindu and ANI News.",
       "image": "images/bihar-cm-suspends-15-officers-employees-over-delays-and-negl.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "pm-modi-to-visit-bihar-s-vaishali-on-november-21-inaugurate-",
-      "headline": "PM Modi to visit Bihar's Vaishali on November 21, inaugurate Kachchi Dargah-Bidupur six-lane bridge and launch development projects - ANI News",
-      "summary": "",
-      "date": "2026-11-10",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "Inshorts",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUNnY0plQ3hvOU1PSWttVTFwclRXbXBIbVVLZnJPdG5uLXUwRXQ4bEIxTzdmX0tmQ1BpZXdQd1Y1cXdJaVBXVllEdmhmakpCMW1YaFY0V3dCSUhsR3FSS1JPTXFVejJiVEVjZURRcEJYa28xczVfV25aRThBUndlUFRNdUxpbTQyZXVzT0RLTTR2dWNHVTB3UEMtRzRpVGxMTHFVa1ZlNm9WbWRiWkHSAbMBQVVfeXFMT0NEeDYxLXZvcU9xZDM2YnI2d0NLZEhwaGQ3QWNidnkzZHlkdzFzWDBHR1FFMEZ2T05KSmtiZWNTN2UzdnAzZnItSi00U3ZWbUVsRExRM2kyVjNvYTJ2YURvOGtKZVQ2MjRsd0tJQVRFWWlXY2V0bzdhVERSNnNLeS1IMGJHRW9nb3lwNV9CWjNyZ3lVMFRyQmE0em1NRkVISlZ5a01BZ05obHRNTFJsRTVRbVE?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSHhpd1hPY0cxNzV0ajM0SjE2TWQyREs5WFJxT2FhMUVnR3htWllYbG1lX3k1MmRidHpCTU1qTVFheHpWUVF6aDN3cktYQ2FyNjhjSFlOTUMzZnp5TEJLUUpnV3gyRjhla1V3bjV1cThYV0lZdDUxV0psRG8tUC1KZXNJWnVsQ1QydHFULU9fQWI3THRFM1QtS1hjaTZLRW9yX3dpYVhtYVdSNF8xZGlVazB3TmRXNDktbUQ0V1h2WE5VS3E4WnJadXBCOWw4MTdEREdtR1hqUTYzcjlodTZTQjRsR3czdE1XdkVGMl9vcy1RYk02bGRBa192R2Jnc255SGdidHh3bnJwQ29XQkJfcVdhMmx6UmVz?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "PM Modi to visit Bihar's Vaishali on November 21, inaugurate Kachchi Dargah-Bidupur six-lane bridge and launch development projects. A civic-infrastructure story. Covered by Inshorts and ANI News.",
-      "image": "images/pm-modi-to-visit-bihar-s-vaishali-on-november-21-inaugurate-.jpg",
       "image_kind": "photo"
     },
     {
@@ -720,6 +745,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "50-50-bhaskarhindi-com",
+      "headline": "बिहार पटना में वाटर मेट्रो का शुभारंभ, गंगा में 50 रुपए में कर सकेंगे सफर, अशोक राजपथ के जाम से मिलेगी राहत | ?????: ???? ??? ???? ?????? ?? ???????, ???? ??? 50 ???? ??? ?? ?????? ???, ???? ????? ?? ??? ?? ???? - bhaskarhindi.com",
+      "summary": "",
+      "date": "2026-11-10",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "bhaskarhindi.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdHltc1VROFNaSVN5VGpITDlubEtDVkQ5TFZyVDBSY2pWN21oWnBHNkJHcndXMTdzcVp6Zl9UdDZjcjdPMFF6NVBSX2tiVDhZZmRySVo0YkNJbEVmcFd0MUxGOWRzM1FTZVhKYmo0MjdLRVN0YTIwMkE3bFJHaHdqdTFZbzRvQm5XMUZISURjQ2NYaDhEMjN0ODktUHNCbWVJWDVvTHJwbVJZYnRaN0pOUmxuQnhyYVJ1clBuMXV1V2Z5NHVQVm5pX2dUa3R3WEhNY3MxbU9aalkxanlLMmt0NXVPVE5JTUhfNDIzX3B0NUJrNUNiUDMzamJpQQ?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS2JqcG1DQVdZUzZTMU5CVXgyekJzV2F5WmM2dEZzdFJpYzNSY09zbGRnN1JfTlBlQWZtNkxwX0c5Z0pNQmlaRGtZMlBnbFgySU81NTZTOEJLcjF1Z09ITm9uUEY5UWVmYW1xVmdHNlUxX2JES3ZPamxnZTEwUXlUU0VaRHh1RUxlcXZXTC0tSktUUnJlRURmdFpmZmRpRS05UmI2NDdPN2VXMDl5THpTLVhrWm10c3hMaHZuTXV2ZkFiN2VIVml0ajNxbFd0X1NQX2c?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बिहार पटना में वाटर मेट्रो का शुभारंभ, गंगा में 50 रुपए में कर सकेंगे सफर, अशोक राजपथ के जाम से मिलेगी राहत। इसे bhaskarhindi.com और Amar Ujala ने रिपोर्ट किया है।",
+      "image": "images/50-50-bhaskarhindi-com.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "etv-bharat",
       "headline": "केरलम के बाद पटना में अब वाटर मेट्रो, जानें क्या है किराया और कहां से कहां तक चलेगा? - ETV Bharat",
       "summary": "",
@@ -752,93 +804,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "50-50-bhaskarhindi-com",
-      "headline": "बिहार पटना में वाटर मेट्रो का शुभारंभ, गंगा में 50 रुपए में कर सकेंगे सफर, अशोक राजपथ के जाम से मिलेगी राहत | ?????: ???? ??? ???? ?????? ?? ???????, ???? ??? 50 ???? ??? ?? ?????? ???, ???? ????? ?? ??? ?? ???? - bhaskarhindi.com",
-      "summary": "",
-      "date": "2026-11-10",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "bhaskarhindi.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdHltc1VROFNaSVN5VGpITDlubEtDVkQ5TFZyVDBSY2pWN21oWnBHNkJHcndXMTdzcVp6Zl9UdDZjcjdPMFF6NVBSX2tiVDhZZmRySVo0YkNJbEVmcFd0MUxGOWRzM1FTZVhKYmo0MjdLRVN0YTIwMkE3bFJHaHdqdTFZbzRvQm5XMUZISURjQ2NYaDhEMjN0ODktUHNCbWVJWDVvTHJwbVJZYnRaN0pOUmxuQnhyYVJ1clBuMXV1V2Z5NHVQVm5pX2dUa3R3WEhNY3MxbU9aalkxanlLMmt0NXVPVE5JTUhfNDIzX3B0NUJrNUNiUDMzamJpQQ?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS2JqcG1DQVdZUzZTMU5CVXgyekJzV2F5WmM2dEZzdFJpYzNSY09zbGRnN1JfTlBlQWZtNkxwX0c5Z0pNQmlaRGtZMlBnbFgySU81NTZTOEJLcjF1Z09ITm9uUEY5UWVmYW1xVmdHNlUxX2JES3ZPamxnZTEwUXlUU0VaRHh1RUxlcXZXTC0tSktUUnJlRURmdFpmZmRpRS05UmI2NDdPN2VXMDl5THpTLVhrWm10c3hMaHZuTXV2ZkFiN2VIVml0ajNxbFd0X1NQX2c?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बिहार पटना में वाटर मेट्रो का शुभारंभ, गंगा में 50 रुपए में कर सकेंगे सफर, अशोक राजपथ के जाम से मिलेगी राहत। इसे bhaskarhindi.com और Amar Ujala ने रिपोर्ट किया है।",
-      "image": "images/50-50-bhaskarhindi-com.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "tejashwi-slams-pm-modi-s-bihar-visit-says-he-should-have-com",
-      "headline": "Tejashwi slams PM Modi's Bihar visit, says he should have come during September floods - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-09",
-      "topics": [
-        "politics",
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcmhmc19Sc3lieWZNdWN5UTE0NGRSZWVQSVdKUGF1T2tVcG43aXJ3ZXNPeFpoTVhBNnNWNWc5ck42ZDdLcEZqZ3YyanZPa21RTm9RX05Uam5uTHNzb05sY1ZBQjc4VDQyT2RGWWhXdmxBczE1eXpwNUxtcDBJT1lpdktFcmE0Q2dlVjJ3d0VIbm5lRUZ3ak5Kc1BLREFVT18zcE55V0QtSGVwYkR3bFJHYjB1cnZaVGt3dkhvc3N0OUYwUEg0U01tVHA3Y2lNVnpHVEJ1UmZFU2N6Z9IB5wFBVV95cUxNYmlzWmtIblFjWVM4THlFS1JzdkRLQU5fRHp2bzVTY2R6WWdJUlEwWG5WWnBZaTJlb3FhTjFJMVI2anIydG13dHdiYjljZUdCaVFPaTNudEtKb2t3Z1NOMDRkMl9FVUtXM0d3eENYTTlBTXo2VHZtR1EyU2VGMVE4Z2pqWnJ1cUEtbS1YNjlkdG9Qb0ZJUnM4Vkktb0lPcUt6M3UxLTNBMjdXN0VWUFFFcVNUbmw1MFRGV3cyYzdWOHFqa3ExNHp2RXlaTXJqWlFzRGtIQTFLRXRySGV2Rkd0TmlPNW5lRVU?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0c3Mmc5TkZ2VkFWSmo0QkpybkVLOTc5dFkwOHRpaTdJNXF2YmZIS0t0TnhWWXhBWmRoNk0zVnl6S2NFekNLbjdiUWVjdUl3cU1Eeng4M0NBUk02TmVDQWVQaVVYQnNRaHhSMmVrQ3BONlo0c2lPUURTYmVjUkZ1ODg3NFJ5MzlZME9JeW8xWkhyS2kwbmVhQ2RiaUV6V0lDT1VXVFExYlYzeU9fdHUxZGE1WHY5QdIBuwFBVV95cUxORUNNT1padTNXNzhCUThERVhGb2IyNHU2MUZBS29ndjJWQmhESG44Wjk0Q2xJZ2tUSDBGQmUzX1I0MjEwZ055eWxXU0Fha3VqeWxXT3BtNG03dVA5QjE3VEt2WEJZbEdENWY4R3VDcjFLdlVpVjg5emZ6cWVoVUU0bGptYlMtMzJsZTBPc0JSN1phcXBEUTZ1QldfQ2lMN0MxZXlNN25PcDM5Q0hzeV82RUdpV2RvRmI2cG5z?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Tejashwi slams PM Modi's Bihar visit, says he should have come during September floods. A politics-related story. Covered by The New Indian Express and ThePrint.",
-      "image": "images/tejashwi-slams-pm-modi-s-bihar-visit-says-he-should-have-com.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "named-captain-sooryavanshi-will-lead-bihar-in-only-one-smat-",
-      "headline": "Named captain, Sooryavanshi will lead Bihar in only one SMAT game - Cricbuzz",
-      "summary": "",
-      "date": "2026-11-07",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Cricinfo",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
-        },
-        {
-          "outlet": "Cricbuzz",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21RZEQ0NWpBVnVibjhSdXAwYTRKOUo0dWs5eDJlWWxxcXRvajZmbmVjeFlXZWFiNjFid0Z1RXF4Wm1fQnNqRzF6ZVNuWDQ0TnpDcE1FVjM1WnNSNm5XbERqUkJzR0dvcUpVM1hiU3BTbUNPdmZ2YmhUSko2d0JOSXktX3JXbTJ5c3h5RHV5bExqNFBMMVg5SFQ1MGVzcVhVVFBLYUdVNVF3YzA?oc=5"
-        },
-        {
-          "outlet": "Cricbuzz",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdXNHRWg1aDVVSWN4Ul9ZYjBPXzZoMXc4VWZQQUR0TUtqcnhfSmV5RXJGdmozYjJ4Sk1hci1Xa2w3YU5QcTRQeXZ3ZkJITkFOVXdWcHdMaXd0MmVoYko2dnF4UVlXWE0zcTVtLWVJRDJRZE5jLVhnbkprRmZRWG1UUkJoeTIxSnZkUms3LU02NXBnLUU0c3V1bmFsQy1id0pUMnVndXpWMVozMk1vN0lGaVhfN1BsWHhwaGZFaTQ5RzB3OHY1TF9zTVRLMEw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Named captain, Sooryavanshi will lead Bihar in only one SMAT game. Covered by Cricinfo and Cricbuzz.",
-      "image": "images/named-captain-sooryavanshi-will-lead-bihar-in-only-one-smat-.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "three-wanted-criminals-in-pacs-chairman-s-murder-killed-in-p",
       "headline": "Three wanted criminals in PACS chairman's murder killed in police encounter in Patna - The New Indian Express",
       "summary": "",
@@ -863,6 +828,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Three wanted criminals in PACS chairman's murder killed in police encounter in Patna. A crime-related story. Covered by The Hindu and The New Indian Express.",
       "image": "images/three-wanted-criminals-in-pacs-chairman-s-murder-killed-in-p.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "smat-2026-vaibhav-sooryavanshi-named-bihar-captain-cricbuzz",
+      "headline": "SMAT 2026: Vaibhav Sooryavanshi named Bihar captain - Cricbuzz",
+      "summary": "",
+      "date": "2026-11-06",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Cricinfo",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck1mSmhPaGNGcjd4N201T3pYUURubkFWRjRGTlpKeGtqS2x4SkZoVzg0WnVUNFo2elF3VzNNRzRPX0JyTlI3QXBNcGxybG5PdWhZaXFtSlpsWVhuZnlwOXp0MEJRY3RrNmc0a2dvLV9ucnNDMTJ5U0tsT0dtaXVRRks5MVBrRlQxa28xdGx6cXJXd9IBowFBVV95cUxObnhvWU1zNGdfTm9ySGdBMWhlbE9oU0NrbFA1N3RqWjhOcFpxZFhNdlFlbEtOTEpJR2ZTWTZiaUQzT3I0ZklGb2NxeThVTi1rcEdId0tUNGJKMDdySHRvNUR4YUNTN0RQYUt6SEthaDRvc2ZEajlYRm9tNm92NmRoUDNoWFo2bEtpYVYyNzFTajVuMkxON2dDUjkwUFZEb0JfR2hB?oc=5"
+        },
+        {
+          "outlet": "Cricbuzz",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21RZEQ0NWpBVnVibjhSdXAwYTRKOUo0dWs5eDJlWWxxcXRvajZmbmVjeFlXZWFiNjFid0Z1RXF4Wm1fQnNqRzF6ZVNuWDQ0TnpDcE1FVjM1WnNSNm5XbERqUkJzR0dvcUpVM1hiU3BTbUNPdmZ2YmhUSko2d0JOSXktX3JXbTJ5c3h5RHV5bExqNFBMMVg5SFQ1MGVzcVhVVFBLYUdVNVF3YzA?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "SMAT 2026: Vaibhav Sooryavanshi named Bihar captain. Covered by Cricinfo and Cricbuzz.",
+      "image": "images/smat-2026-vaibhav-sooryavanshi-named-bihar-captain-cricbuzz.jpg",
       "image_kind": "photo"
     },
     {
