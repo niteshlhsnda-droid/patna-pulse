@@ -1,50 +1,61 @@
 {
-  "generated_at": "2026-11-12 14:55 UTC",
-  "generated_at_ist": "12 Nov 2026, 08:25 PM IST",
-  "story_count": 50,
+  "generated_at": "2026-11-12 15:54 UTC",
+  "generated_at_ist": "12 Nov 2026, 09:24 PM IST",
+  "story_count": 49,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "india-s-first-amrit-bharat-express-with-ac-coaches-rolls-out",
-      "headline": "India’s first Amrit Bharat Express with AC coaches rolls out on Delhi-Patna route to ease Chhath Puja rush - The Indian Express",
+      "id": "patna-municipal-corporation-lists-rs-200-crore-municipal-bon",
+      "headline": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market - ANI News",
       "summary": "",
       "date": "2026-11-12",
       "topics": [
         "crime",
-        "civic"
+        "civic",
+        "economy"
       ],
       "sources": [
         {
-          "outlet": "NDTV",
+          "outlet": "BusinessLine",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGd3dk1NcGVIa0FVQjBGZlJNNDZWNExJckFoVlplZDc0b3R5NVYyajR1clhubEw5QkNwY3RpWF9UbXR5LTVCbklaNkF0V3dXdVAtbVpqMU5FRnRVcENLbDlIeE5Qb1UwM0Zlc3BtOVVHV21uTmRIZ0pEb1B2RDJYWDBCNGZOMFgyZWQzQVdUMGFwM0NHaFRQT3dzNDNHd1dzNERIdC1nM0dQYlBVZ1N6S0dxbmhBclXSAb8BQVVfeXFMT3BRelRBdGZZTkdsalhXcnlhMW56bUJvVzFNNjlYRi1xMlZUUHZ0SDFkc0VMMlVUQU5iYm9mUXo2NTZFd2tDOEVoU3g4QzFBVDUxVndDeVhJdTJ3SnNxbHIyd05VSmNtc0hCNW03bGFjZkg4N01rcG9yLVU2cTZqbjRnbGFxMW9IWnRCT1FSM3pHNm1hV2Y4VjdfMDVGVm1PVkhkMVRBSGZ3bUJHNkp2cER1ZzhUbUxYdGFsNG1tTkk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFVaZHBDaFI0bE50NEhfNEo2SWRfMzBYRVR1VGVFUUFtRWR4LWlQV0d6ZDVGOTVKUWVIQW8xekZlWmliYUg0UHJhMXRJSkVxczk2NXJIZi1iRFBMOUJxYktOdTEyM3BSX1VYRUdYMWc5Wk83SmlQT3RkSHBQT0ctV3pzWElCRGhJdk50UHE1UDltZkZSTFdKX0JQTDJPNS1DRGtSU3pFYXdESEprSENpZExuRGhjZGdXR3JOYlVjaFN5T25HS0VnUGVMdzYzd9IB1AFBVV95cUxPanh1eWlCWjRCY0piRjNMU3NYZDRjUzVXRjZtX1JjTG9NRVBuMzhzTWZVVWVTT3h6Z0ZBV3RwY2JtQVhsWk83bFNOdzUtSXdYNWl6MktJS0J4Njd5azRLTUhBXzZrb08wTlg0eEhPOGs2OERsaWVULW94U0pTdmpYLTBmZk1Pa0cwR0RXbHlaUUV4emhfNi16cExjb1pvTlBrajJhX1lfV2tIYXV3M3ZaMWp0WWhJUVFLS05xZVd0VzY1VUUyY3ZQNWwwREZvT2plcko4eA?oc=5"
         },
         {
-          "outlet": "The Times of India",
+          "outlet": "Livemint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWWtZbXgxREU4QkhpWjBRQUxENzNoNnR1eXloMTM4QWRhVlBQZXY4SFNsd1FyOHpoUndTaEQ0alpiQ2JQUEQ2Q3VyU0hnNGU0WE5VOFQ1VXJXOGRGVWJjM0dNdUs5UmkwbkFHMFpSenNlOTRzUEF6bHE2elBfQ3NhV29QcGJyUjhUM05aalRubGdGekR4M2ZPakhqeWx1VjZ2QW10d0xtam5KRFhHS3UxY0ZTcVViQlpWdE02S0c1VWFSeVJlc3A5THFxOXQ3VlYyb3h4aGVsZjhURjR1b3UyZElZWFFjdHFmenVreEI3RFpRckYtOWk4MElSZnBfRWg0YXRwQjJn0gGLAkFVX3lxTE1mc1J2NDN6RnFVLXI3c3JQQTAtOTZvYkR6UGFZSWRKc25ObXgwdTk2cmNBX01tb3hPVHl0bWNtV0E2LV81SEh0bzB4eUJEX3RleUZycTdKWTNjTTNBT29UQnlGZzJHRTg3bHVKNy1oMUlYbGFEeDlhN1pTUEc1X2JWMFRpSVo3OThTSjU3VDh5QXBGR1hwTjUwVmNFSHllZTNfZU5va3hGRlhDcFFNckRjRzUtZWpDdERjMTgwVDVkZkFJaEpZQ0hRX3ZrMndwVjVueFJNZzhiZDdLWENBSDRBaV9Eb1VFbE1zNjI4NjMzX2dNWGNRaUpMcjBDdU1mWl9YZVhlQXhvS1JtVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNOEFzYjY2NVhRcUF2ZTVEMHZySENOYU1GS2hoUXJ4T2k1Y1kwVlpsWXpsdmV1NkhwYzlEVUpkLVRsOGNMZlRtTXp3bC05bHFzdExsTUxIcmVXcVBubE9Bci1YREV0UGZOYkhrMGVZZ2FNV3J0TFJfWTFzTFBfcVI1cGZoYTlYTE9FaW1ic2hKY2xrVVhTaGtuamtOVDhMOV8wcDMwM3VXTlhnZWd2WmowblZsc1p4Y0t3b3VwN1Zldll6Nkc2YkFGZWw4Q1hFa0ZGdm04OHRnWDVuY3NackVuc2F0N3h5cmprZnhzaVZSZnB1SGgzUkE4anRQcVRaR0JTOWdRSnh2TWpEbm1SWWxWN2p30gGXAkFVX3lxTE5qWkhRN2Z3MzU4NkNabjFrU0liWU9YNzR2aUN6N1FHT0dTSmVQZ29IM25zN3dYUDJ2U0s2eTVETTBfRndTdW81aTlIcG90X01hS2dOdWcyREVvcXUtbE9HZzF1RzZuZnFQU0FwczFVYlZWRG5PcnBOeW1XbW52VG9tSzVfOEExX0RJclBIclRBeV9rVHBPallwRWt2V1lycEVoUmxvb212M1BPV0VOQU1qckc2ZTI4cDdvVDBKMjVpT2hWLWdodm15cnpLRURCTHN1MUxvcVNaQVlOM2VvTDNORHh0M3hfaTZEcWJneEVIeFFNRXVzV2dyZUlXUjhtTWhicDY2YXVPYUdFNVZiQW5WZjdKbEh1bw?oc=5"
         },
         {
-          "outlet": "The Indian Express",
+          "outlet": "ANI News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMndtdHBHRFE1LWxDTmZPY3E2YjBKQ2MwcVVRMkY5MFhGZG5ETTRiUlM5dlF2NjVnaC1FMDE0T2M1b2hKeUZBOEtROFVmVEdfR3g0Yjk5VFVzTFBpV2E3RW5TeHRiMThudWRRRjRRR3NtOHNVUE1jZEJucVREOGc4QlV2V1Q0OGVPVFR1OE8xcFBTdDZZRzNVcGlHbmZrWEUySVQzSWZISnVtc2R1Rk0wTHg0SEdxMGhNUGpIWnJ30gHEAUFVX3lxTE9QWWh4V1VaNVBKMjlGczhONzRNR2pZdXd4TDRiTkVxRXRrMFlQaWNWR3llcDFMdnVkMXZrX2ZOVVRNV0htcWt6eFVuSUNrWktkbHpnZnVYNW1UZWNVcEVYMUNOZEI3T3hFZkdDc0dkNnB2S2VGSVpxVG91dlY1b0wzUFFoYmpiNURXQlg0YkhQNFRuU3h0Y21zUmh4SGxYNXZDQXEwS3ZJaHBEV1dlcTQtUFVzSWw4QVQ4M2ltcFdxM2wtcjk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYUZEdDROaE9vdVotaXVyMFd6Z2o2RWFwVzI1MHBkVDJIRlNpaGFPSThSc19wZGR1eWFsSUxwVWVvcThQNS1Jcnk2QTFvWFJDdnNEYTQzYzBoVnJwWVVUZ09YaVZMNEpERUZFbnB4ZVZrTEJnVE9oVFhHYk5xbWVINTRUd3V0d05Ja0NQX2ZiVV91VXZpSnA2bTZLZ1lkZTFPWXhQbFpfRzltX2ZNQUpHYzFVUnNTQmF6LUNhdmJtc0xWdm42UWNvMUhwR1Q5TVg0YTJCTkhkQXRzdDFLVjlGeHF6SHVXeDhjVjRzbnRrc1lodHo4ZEdnOWpVZGk1UVhzbXM4?oc=5"
         },
         {
-          "outlet": "Daily Pioneer",
+          "outlet": "MillenniumPost",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjc5LV92Wmp4VGhtcGxDYUY1WTV2ZGJlSGpvZkdveTdaQmlFQWlDTjhUeVpPaU9RT3VhZVBNZUJzT0t1eG5fRm1oLUJXOGdLYXN0cndOTmF2V2pQUzR2aWw0UWo3d2hyZ2MycU5NYWpxaDJmU3ZCVE4tTDhEMl8yZklfanpNdnFnaFB1RUkyWFhhbTJIMjNpZEFIRW5NOER1Xy1KaGVXRDF1QVlydFh1WGpR0gG_AUFVX3lxTE9QUHpzRjZqdjA5Z0tmbG9BSFJjZzBpWFR3YWRpT2pMSi1COWhBZUVSeW4xY0lLOUJITS13b0hSejBrRkkxRlhLQXFfNS01VVJMMEtNbTAzZGhYQ3VFU25QZFVuc2JYTWVJazdOWEtkV0dTX1FodHBXSnhFSzlRQlY5MEpza0E3Nmk3dzJ2MTFob3FRVHpDejBjVThTMnc0UVBzUlhGT2JyZk9uQkk3ZmpFVHFuX0x2ZXlSSTM5RWNN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDNsT0xGUmFxQmtvVlZjUXZIaUlrcElPWHBVRy1rY3otNlNFclZwQjVyZlhHSUVCZXl1a0YwVnF2V1p2UlhfbThsODdJWWtUNjV6NTZtamF1cm9EeUlTam1VR0ZnRXh5T09TNUJDSWpkdnFuWEUxeHhfa2FMcy1NT0c0RFFPcElUbVowVnkwaFlkd0hhSVc0TjRibFNTM0EzZC1Bc1J1MWLSAa4BQVVfeXFMUHNVcVk4LXAyc01NOUJ6aEJBUUMtQ0tqU0RrUldKMGpteVdwX1hJU0FCQmd3YzRoNjRZclNYbGNTSHdqM1loVVRBaTZvSlNJd3JYZk1DRUdYd1cxRGxsUmNoMF9kMDNTdkY0djJoQ1RBT01oVkxuSTJLN3phNjN5OHpyX1M5WUtZU0QzUlBScmtUTkhsNjNpNjV2WUo1eVl5RHdHZk1hU3lvVE0tdDln?oc=5"
         },
         {
-          "outlet": "Metro Rail News",
+          "outlet": "Traders Union",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0xCRXZRZlhRaEhyX19BUUw2aTI3MkJHSGV0d05fT1lfOVM2VmZLT1I3SExUVEdmTGpPT25fVmZZelE1TmwyWmNOOFdmWmZ5UFJjX0RQSDMtcnBnVzBnaHU0b1JDSk5hWmlkMVZqU1FXREo0UGFPSVJpa05EWVJxdGdJVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkkxajc5QmRMRnZHaGtNTHd3QXBjUzBxeXNkUXFra3BoeGxaYWxfZzRqNWVQOXRhQk1TeGVmR2RUdjZXN21DZGtTbFFVZE1nRnhRdXNISTE1VGtRQXJMaldLZHBCaXdrb1RjMVM5VmNlVENmam9vMkdCTGRTN3FKaGprR3lsSFI1cFVXRw?oc=5"
+        },
+        {
+          "outlet": "KNN India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkhwc2pONnc0S3BPMnFIUmdtWkRhQng2N1ZrM3p2MkdTYWFYVnJlUzRJb0dlRnZkb014NW5CdURNWDZyQ3p0QlM0RWF0dllnVTJUTGc5RnBKdHpvbDNOVXRiYWFPMjFINGxxdlNqeGREU3c3c29wXzdUVXZNbFVKYTNqbHB0VEJFLVBXczNFUTlYS1JXMEdmbjFzQkFJQUstU3NGVFE5TWloM1MxLUN5bVJEVWp1MHdJaUFhWWNmMXQ?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNenROZ050N0pNNnRENU5BdVBVamczemYwX2hyWTJrVE1PQTViN1M4YzNUSmc0ZjJVeVMzSGNGeXhlWWstZnZXY3ZQdk11Rnc4NnFiQ3hzWVdrSWp2aUVpMks0Tjd6ZW1RcnBzb0JqV0dPa2dSeG9GSlRQZlJOR3NpdklOMy1nemNNUW9CZ2dfSDJRSFdXdzhHSWFIWWdQOUtWYk5CRzBZZ1I5QlQ3bHAwVm1XTEN3V2FnR3c0RGl0SkJLWHR5QkZYTFV1SmM5UUpXZG5tb2JIX0NydmtsMlIxY1FvWUdTUURhZWFtStIB8gFBVV95cUxNZnUzMFI3UzhHbWcycmRvcTFqblNwaW43eFdWOW9zbkg4OUR3VEJrcnRTMVdqUjNuRGoyWXJZZjg4UVdlSFZFdldRcFlHcGlpQmdWUmdCNnRzSWgtWGZlOEpIeVlhMkNqcTVtSmRIOERubWowVmRBT01yWm1LS2Q2U3BJcjhrb0pPVDVxSVZQLXFReXFvMF8yTXBLS3VHWERkaXllOW1NeUgyR2NYMHNjYmxtc3djd1JXNzBFZzdCXzBYVXdFd05ENVRjNTVDUGRPR0JLNXVnTy1yY0J1M1RGN2hWTEJWLUtoWjdTY0JyUWRndw?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "India’s first Amrit Bharat Express with AC coaches rolls out on Delhi-Patna route to ease Chhath Puja rush. A crime-related story. Covered by 5 outlets, including NDTV and The Times of India.",
-      "image": "images/india-s-first-amrit-bharat-express-with-ac-coaches-rolls-out.jpg",
+      "brief": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market. A crime-related story. Covered by 7 outlets, including BusinessLine and Livemint.",
+      "image": "images/patna-municipal-corporation-lists-rs-200-crore-municipal-bon.jpg",
       "image_kind": "photo"
     },
     {
@@ -109,6 +120,11 @@
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajJqZ2lHWTJZVmc0aXBKSFJqMzZtOHhhZFU5Zms0YmZvUG11SEgzUFpnZDFSdFh1VjFuR0F2ZnRTcGJmamlnN21pVjV2MWh1UlBQbzhQY1lTQTlZWjBvLUNXTDdoUmt4aUM3R3F5Q0otamd3aUZmR1BOdDdMM0NGWjRmalNpV1gxLTBXVW53a3lseXZPdkVOYU9HWjE3R1Q4czM2bURCXzlMWnhqODNCWHVxbG1iN05VWW9BcWh5VV9iVnN3MFVzcEE0ZEZrZVZ5dmFSWW9tWW9SYXdUYS13R1htMNIB6AFBVV95cUxNU2ZsYWNmUXBieHhHbUwxSWtlNEp4OWxxM1otUW1pWDFBSHlsLWpKemZNQTdsM3lYOFRQN0NMS0NyVTVIOGx2dnlMYXdEeHBoVUtDRW4weEpZNW9HU042RGpVbVFPSXk2Ykt1Mm5CdjhfbTZJR0syLWt0YnNlelAzWkRDSFNOelF1dmFGQm0tc0hyNTdUWFZHWjc3VGNfbkpEZ2xnU1FxOC0tR19hRVU4NjR4UERWNE5Tb2hYc3BLZTJKSWZBTzBocHNXZ1pVMXktX3g1MWhKNTNCYXZqM1c4RndHS3BhbEJ5?oc=5"
         },
         {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaENHRjRKYUZSZjJWelVRemtDa1I3djQ4RXowV3k4NVFpMmpBYTVQdTBNVkhlQ3gzaVRZaWRtNGlzMnBhQnFuNEozQU1hQkx4RklBX1dKOHdmSDBuUVpfVjQtTmUwZnFzNXhmSXRqZTNLSUh4Nk1VTnFzd2EtaEZ6dU4zb0xQV0s1VUE4UTdVYk01d0tvSWQwM2taYzdwNzhDMlFmWDNLbzNWSm43eTh3TmNieDJjM2FRUHR6WTN4VUxnM1B6VU40OFJQY9IB0AFBVV95cUxOdGRPRzZfMThrUkRsX3Y3OV94QzhqWDRINXdwbU92U0ljSFVrSnRwRE9LcUVQNEtlejh4YnJkN0NxSEREam1iZHdtb1ZnWHhiMl94SmZFbUZjTjAwMVlXR21ZV295SVRqSFBjdkQ0bHoxOFdtanh4MDdONnByRHFPS3FvVHFvYjBlbzdkLTJBTG5ZQzJMUHNOZ3pCeG9xeEN0dnE1VVo5U1I3UXZFSTZmbGxRTDdySXV3b3I3YVRWb0NrNThHc01tLU1mc0FtdjNL?oc=5"
+        },
+        {
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelR2T1NMYmNlb1A5MjJYOGl4QUZzeGIzX2xDWFZMbUNGRWM5LXVNN0ZNTDZXTGIxLTlQVkdBQ29nYk03RHEtSko3OG5vRTl6MTZoelkxWmtKVy1vUmFpZVBwR1lNYXRTWmpKd00wbVp2ODRxV21hNUpSY1BnekJYc1RPb3I1NGhwNkZGLVlKNl9iclMyS3hGMkRuNE9EOFdOZ0dWbEhTWS1HZFJ1Z05yUy00Yk53a2kyeHZn0gHCAUFVX3lxTE4tMDlQRXoyRkl3aTBvMlB0U2UwTTdBME12c3RxV2NiWGMwWFRkS2pyVXhuenlDX2ZNWEotaUNkbFVwYmdqUTd2NW5GeXBEcWN5SGpSWUxMVXNDOFozSzhtbFdsczdDU3g2cm9EekdONHppNmJZV2xRZklQRk1CTHh4aFJlYkpRUUFibGtFcjNxZkVNSnJLQkt2QTNsZ0VOVnAzYzFoeVZUSVBueEh2RGN5bWtwakJ5QjU1UV8ydmtNRWtn?oc=5"
@@ -122,11 +138,6 @@
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeTdJV0hCcjVqUzV1b18yMHZ5aDhpcHpLTXZPMlNhaEMwZ2NrTy14bmpKNFpLMk02Tk5qc0R6c08xMVVQQ0swR0VwNWVHaWF5WXR0N3Roa2RURkNmZURKODdXOTFUQ3QyMFlYYTI2WjdTN2ZRUGxVZmwtcWsyTkpaS19EcXdIYVhZQlZqNVdVMk5aa0lxSDJXVFdBUlFEb3BndzBiZzJINGx5cGQyUzdnU1pDRGI4LVhZUkdJZm5VNC1xQTVTM25pQU1XS0hJUFB3cTFDQ3VmMFNDbEU5ZXBv0gHsAUFVX3lxTFBkN043cER0Q2Y0cXptZGFRaEI2c2c2bXFwRnF4WkxpRVN5d2hrR2dWUDRpOXkyTHI5YnZLUEFpZEhZOUh4bUMzWW95N1JCbXRzRGR6R0k2ZXI5SnpVcDlKNE9pRnBjVmtyREtDM0pCdlhFQk5MVUhVWkU3MUJXYXdwenRwdHNTODFTbjRYanVWNzlzYUJwNjJZSU5DR3ZweGVGYld0enJnMXFYV1lTOGVDOU9NaHp0TUZ5TVZoQXRzVUppbkxuOTdodVFTZFVDbE1nczVIeFhqY1N2X2ZkZ2h5eXhfNW9pRWU4b2Y2?oc=5"
-        },
-        {
-          "outlet": "Telegraph India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdHI4aDdhdnVPTEdIY2FRVVk5RHJfUTEzNTdHS08wUzJaQ25xQXJvVDF6UmV0ZFdGNnVqazBQSkxJMW9zUWFoWEhabDNDZDNfR3RuaTFHN2RZNVp5NUN0UzY2eE4wa3dZVXN1cnh1OTJmWkJNRXEzWld6c2VFMUxySTF0bEhJSnIzZDV3dklOLWdUa3JFMjRFYXN2bXFkajd6emhPNGZGOE9JYzB3ckE2RmFhQmZXdlRhU3Z5OGxtSERIa0xFZDZ6NG1ZTGpUeFJFNWtxYdIB2gFBVV95cUxPWWlqWnNpNnI1YmFhNlNiX3BITjd2a2dGR1NkLTFtM3A2cWxpMENIYy1wUXpRTHhsalo4cUZVOHRzRjlsdzBTU21NNXpoYWFHNlpIZElTblFqUUZQQ2tma2syTndWUGZhak0yM3pkQzQ1UTF3NTZfWGNDb0cxLTdVYTRyQXpNQ2t2TjFhN0xzdUZMemsxOGZZemgxdWRONUNrMWdmRVBLQlFkTW9nUURGSUZzZ2ZBMmI3TEppdWQ1ZmpES1RiX3FsRkpGSFBNQmhUa0UyQXpqSndOUQ?oc=5"
         },
         {
           "outlet": "The New Indian Express",
@@ -159,75 +170,54 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjdjdElZY3V2VG5KOVhnNlNubm0tY2ZOMVp0UDZFLXc1VTBnZV96OU8zQ0FtRkdMaUNsNlhSS0tjR0N1dXEtQi1ZOHNUQlMwV0hiV3lXdkRsV1dkXzY2YTdlbXJhTTRWWW1UZy1KUFpDa1QxOHF4SVFVVGxSdlFnSk1McWkwMkpBS0ZFU25zNktRbV91bl9KMURqLUhpeXVmdFlIRzdXUXJ1Y1hibDc2cmxQQlh2OFU4cm1JZHJ6a21CbmlBcUhTeA?oc=5"
         }
       ],
-      "source_count": 10,
+      "source_count": 9,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar gang-rape survivor's ordeal far from over; thrown off rooftop of her house months after assault. A crime-related story. Covered by 10 outlets, including The Times of India and The Hindu.",
+      "brief": "Bihar gang-rape survivor's ordeal far from over; thrown off rooftop of her house months after assault. A crime-related story. Covered by 9 outlets, including The Times of India and The Hindu.",
       "image": "images/bihar-gang-rape-survivor-s-ordeal-far-from-over-thrown-off-r.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "patna-municipal-corporation-lists-rs-200-crore-municipal-bon",
-      "headline": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market - ANI News",
+      "id": "india-s-first-amrit-bharat-express-with-ac-coaches-rolls-out",
+      "headline": "India’s first Amrit Bharat Express with AC coaches rolls out on Delhi-Patna route to ease Chhath Puja rush - The Indian Express",
       "summary": "",
       "date": "2026-11-12",
       "topics": [
         "crime",
-        "civic",
-        "economy"
+        "civic"
       ],
       "sources": [
         {
-          "outlet": "India Today",
+          "outlet": "NDTV",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNenROZ050N0pNNnRENU5BdVBVamczemYwX2hyWTJrVE1PQTViN1M4YzNUSmc0ZjJVeVMzSGNGeXhlWWstZnZXY3ZQdk11Rnc4NnFiQ3hzWVdrSWp2aUVpMks0Tjd6ZW1RcnBzb0JqV0dPa2dSeG9GSlRQZlJOR3NpdklOMy1nemNNUW9CZ2dfSDJRSFdXdzhHSWFIWWdQOUtWYk5CRzBZZ1I5QlQ3bHAwVm1XTEN3V2FnR3c0RGl0SkJLWHR5QkZYTFV1SmM5UUpXZG5tb2JIX0NydmtsMlIxY1FvWUdTUURhZWFtStIB8gFBVV95cUxNZnUzMFI3UzhHbWcycmRvcTFqblNwaW43eFdWOW9zbkg4OUR3VEJrcnRTMVdqUjNuRGoyWXJZZjg4UVdlSFZFdldRcFlHcGlpQmdWUmdCNnRzSWgtWGZlOEpIeVlhMkNqcTVtSmRIOERubWowVmRBT01yWm1LS2Q2U3BJcjhrb0pPVDVxSVZQLXFReXFvMF8yTXBLS3VHWERkaXllOW1NeUgyR2NYMHNjYmxtc3djd1JXNzBFZzdCXzBYVXdFd05ENVRjNTVDUGRPR0JLNXVnTy1yY0J1M1RGN2hWTEJWLUtoWjdTY0JyUWRndw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGd3dk1NcGVIa0FVQjBGZlJNNDZWNExJckFoVlplZDc0b3R5NVYyajR1clhubEw5QkNwY3RpWF9UbXR5LTVCbklaNkF0V3dXdVAtbVpqMU5FRnRVcENLbDlIeE5Qb1UwM0Zlc3BtOVVHV21uTmRIZ0pEb1B2RDJYWDBCNGZOMFgyZWQzQVdUMGFwM0NHaFRQT3dzNDNHd1dzNERIdC1nM0dQYlBVZ1N6S0dxbmhBclXSAb8BQVVfeXFMT3BRelRBdGZZTkdsalhXcnlhMW56bUJvVzFNNjlYRi1xMlZUUHZ0SDFkc0VMMlVUQU5iYm9mUXo2NTZFd2tDOEVoU3g4QzFBVDUxVndDeVhJdTJ3SnNxbHIyd05VSmNtc0hCNW03bGFjZkg4N01rcG9yLVU2cTZqbjRnbGFxMW9IWnRCT1FSM3pHNm1hV2Y4VjdfMDVGVm1PVkhkMVRBSGZ3bUJHNkp2cER1ZzhUbUxYdGFsNG1tTkk?oc=5"
         },
         {
-          "outlet": "KNN India",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkhwc2pONnc0S3BPMnFIUmdtWkRhQng2N1ZrM3p2MkdTYWFYVnJlUzRJb0dlRnZkb014NW5CdURNWDZyQ3p0QlM0RWF0dllnVTJUTGc5RnBKdHpvbDNOVXRiYWFPMjFINGxxdlNqeGREU3c3c29wXzdUVXZNbFVKYTNqbHB0VEJFLVBXczNFUTlYS1JXMEdmbjFzQkFJQUstU3NGVFE5TWloM1MxLUN5bVJEVWp1MHdJaUFhWWNmMXQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWWtZbXgxREU4QkhpWjBRQUxENzNoNnR1eXloMTM4QWRhVlBQZXY4SFNsd1FyOHpoUndTaEQ0alpiQ2JQUEQ2Q3VyU0hnNGU0WE5VOFQ1VXJXOGRGVWJjM0dNdUs5UmkwbkFHMFpSenNlOTRzUEF6bHE2elBfQ3NhV29QcGJyUjhUM05aalRubGdGekR4M2ZPakhqeWx1VjZ2QW10d0xtam5KRFhHS3UxY0ZTcVViQlpWdE02S0c1VWFSeVJlc3A5THFxOXQ3VlYyb3h4aGVsZjhURjR1b3UyZElZWFFjdHFmenVreEI3RFpRckYtOWk4MElSZnBfRWg0YXRwQjJn0gGLAkFVX3lxTE1mc1J2NDN6RnFVLXI3c3JQQTAtOTZvYkR6UGFZSWRKc25ObXgwdTk2cmNBX01tb3hPVHl0bWNtV0E2LV81SEh0bzB4eUJEX3RleUZycTdKWTNjTTNBT29UQnlGZzJHRTg3bHVKNy1oMUlYbGFEeDlhN1pTUEc1X2JWMFRpSVo3OThTSjU3VDh5QXBGR1hwTjUwVmNFSHllZTNfZU5va3hGRlhDcFFNckRjRzUtZWpDdERjMTgwVDVkZkFJaEpZQ0hRX3ZrMndwVjVueFJNZzhiZDdLWENBSDRBaV9Eb1VFbE1zNjI4NjMzX2dNWGNRaUpMcjBDdU1mWl9YZVhlQXhvS1JtVQ?oc=5"
         },
         {
-          "outlet": "MillenniumPost",
+          "outlet": "The Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDNsT0xGUmFxQmtvVlZjUXZIaUlrcElPWHBVRy1rY3otNlNFclZwQjVyZlhHSUVCZXl1a0YwVnF2V1p2UlhfbThsODdJWWtUNjV6NTZtamF1cm9EeUlTam1VR0ZnRXh5T09TNUJDSWpkdnFuWEUxeHhfa2FMcy1NT0c0RFFPcElUbVowVnkwaFlkd0hhSVc0TjRibFNTM0EzZC1Bc1J1MWLSAa4BQVVfeXFMUHNVcVk4LXAyc01NOUJ6aEJBUUMtQ0tqU0RrUldKMGpteVdwX1hJU0FCQmd3YzRoNjRZclNYbGNTSHdqM1loVVRBaTZvSlNJd3JYZk1DRUdYd1cxRGxsUmNoMF9kMDNTdkY0djJoQ1RBT01oVkxuSTJLN3phNjN5OHpyX1M5WUtZU0QzUlBScmtUTkhsNjNpNjV2WUo1eVl5RHdHZk1hU3lvVE0tdDln?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMndtdHBHRFE1LWxDTmZPY3E2YjBKQ2MwcVVRMkY5MFhGZG5ETTRiUlM5dlF2NjVnaC1FMDE0T2M1b2hKeUZBOEtROFVmVEdfR3g0Yjk5VFVzTFBpV2E3RW5TeHRiMThudWRRRjRRR3NtOHNVUE1jZEJucVREOGc4QlV2V1Q0OGVPVFR1OE8xcFBTdDZZRzNVcGlHbmZrWEUySVQzSWZISnVtc2R1Rk0wTHg0SEdxMGhNUGpIWnJ30gHEAUFVX3lxTE9QWWh4V1VaNVBKMjlGczhONzRNR2pZdXd4TDRiTkVxRXRrMFlQaWNWR3llcDFMdnVkMXZrX2ZOVVRNV0htcWt6eFVuSUNrWktkbHpnZnVYNW1UZWNVcEVYMUNOZEI3T3hFZkdDc0dkNnB2S2VGSVpxVG91dlY1b0wzUFFoYmpiNURXQlg0YkhQNFRuU3h0Y21zUmh4SGxYNXZDQXEwS3ZJaHBEV1dlcTQtUFVzSWw4QVQ4M2ltcFdxM2wtcjk?oc=5"
         },
         {
-          "outlet": "ANI News",
+          "outlet": "Daily Pioneer",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYUZEdDROaE9vdVotaXVyMFd6Z2o2RWFwVzI1MHBkVDJIRlNpaGFPSThSc19wZGR1eWFsSUxwVWVvcThQNS1Jcnk2QTFvWFJDdnNEYTQzYzBoVnJwWVVUZ09YaVZMNEpERUZFbnB4ZVZrTEJnVE9oVFhHYk5xbWVINTRUd3V0d05Ja0NQX2ZiVV91VXZpSnA2bTZLZ1lkZTFPWXhQbFpfRzltX2ZNQUpHYzFVUnNTQmF6LUNhdmJtc0xWdm42UWNvMUhwR1Q5TVg0YTJCTkhkQXRzdDFLVjlGeHF6SHVXeDhjVjRzbnRrc1lodHo4ZEdnOWpVZGk1UVhzbXM4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjc5LV92Wmp4VGhtcGxDYUY1WTV2ZGJlSGpvZkdveTdaQmlFQWlDTjhUeVpPaU9RT3VhZVBNZUJzT0t1eG5fRm1oLUJXOGdLYXN0cndOTmF2V2pQUzR2aWw0UWo3d2hyZ2MycU5NYWpxaDJmU3ZCVE4tTDhEMl8yZklfanpNdnFnaFB1RUkyWFhhbTJIMjNpZEFIRW5NOER1Xy1KaGVXRDF1QVlydFh1WGpR0gG_AUFVX3lxTE9QUHpzRjZqdjA5Z0tmbG9BSFJjZzBpWFR3YWRpT2pMSi1COWhBZUVSeW4xY0lLOUJITS13b0hSejBrRkkxRlhLQXFfNS01VVJMMEtNbTAzZGhYQ3VFU25QZFVuc2JYTWVJazdOWEtkV0dTX1FodHBXSnhFSzlRQlY5MEpza0E3Nmk3dzJ2MTFob3FRVHpDejBjVThTMnc0UVBzUlhGT2JyZk9uQkk3ZmpFVHFuX0x2ZXlSSTM5RWNN?oc=5"
         },
         {
-          "outlet": "Traders Union",
+          "outlet": "Metro Rail News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkkxajc5QmRMRnZHaGtNTHd3QXBjUzBxeXNkUXFra3BoeGxaYWxfZzRqNWVQOXRhQk1TeGVmR2RUdjZXN21DZGtTbFFVZE1nRnhRdXNISTE1VGtRQXJMaldLZHBCaXdrb1RjMVM5VmNlVENmam9vMkdCTGRTN3FKaGprR3lsSFI1cFVXRw?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWlLeXQyaHFqcEtlRWE0dEdQakVLTUo1RjRtLWJHZlVSdDZBckQ0d05LVi12RDV1VXJmVHVoR2hOXzNfRkVBYzFTeEpRcF9ZM1dhLXk3ZVNxb2ZxeWhjUHFIdGRJU1FieEZ1R2R0czRwRWZVZm9yRmU2TGRBcHpKdVRfaGVmZWU0SklqY1VUQ2dLSlVaOW9yMVplN2VoLWlCN0RJempPOE5qNU9mcjBLTUlDalh5M08zQ2NqQzhWY1ZJLTgyT1J6Y0kxQzYtdmZTYzJ2cTVYd9IB3AFBVV95cUxPQjZkY2RPYWVfeVVvekYzU1pPbFBrT2stYlNzb2ZNVGhuNjFhbWdXVGh5aVVRd1BFTzBOcmFqMG9sV0VkZlN1MlBlY0J2Q1VWUFhPd2NkMUkxNTVzSWU0QV83SUs2blFGMWUxY1R5NV9GMWZsMmtNSUE2SS1SYzVqVkc3MHkwSlBFbHM0eEJCeGxDNWdYOHFfUEJqWlZGZlpmQzhtYlpPeHd6T1JpT09rZTE3ZmZYQUhVY25zOEFEOEwycHUtcjc5SEQ5aHNPdjhiZEVycGg2bDhWZFBF?oc=5"
-        },
-        {
-          "outlet": "Livemint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNOEFzYjY2NVhRcUF2ZTVEMHZySENOYU1GS2hoUXJ4T2k1Y1kwVlpsWXpsdmV1NkhwYzlEVUpkLVRsOGNMZlRtTXp3bC05bHFzdExsTUxIcmVXcVBubE9Bci1YREV0UGZOYkhrMGVZZ2FNV3J0TFJfWTFzTFBfcVI1cGZoYTlYTE9FaW1ic2hKY2xrVVhTaGtuamtOVDhMOV8wcDMwM3VXTlhnZWd2WmowblZsc1p4Y0t3b3VwN1Zldll6Nkc2YkFGZWw4Q1hFa0ZGdm04OHRnWDVuY3NackVuc2F0N3h5cmprZnhzaVZSZnB1SGgzUkE4anRQcVRaR0JTOWdRSnh2TWpEbm1SWWxWN2p30gGXAkFVX3lxTE5qWkhRN2Z3MzU4NkNabjFrU0liWU9YNzR2aUN6N1FHT0dTSmVQZ29IM25zN3dYUDJ2U0s2eTVETTBfRndTdW81aTlIcG90X01hS2dOdWcyREVvcXUtbE9HZzF1RzZuZnFQU0FwczFVYlZWRG5PcnBOeW1XbW52VG9tSzVfOEExX0RJclBIclRBeV9rVHBPallwRWt2V1lycEVoUmxvb212M1BPV0VOQU1qckc2ZTI4cDdvVDBKMjVpT2hWLWdodm15cnpLRURCTHN1MUxvcVNaQVlOM2VvTDNORHh0M3hfaTZEcWJneEVIeFFNRXVzV2dyZUlXUjhtTWhicDY2YXVPYUdFNVZiQW5WZjdKbEh1bw?oc=5"
-        },
-        {
-          "outlet": "BusinessLine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFVaZHBDaFI0bE50NEhfNEo2SWRfMzBYRVR1VGVFUUFtRWR4LWlQV0d6ZDVGOTVKUWVIQW8xekZlWmliYUg0UHJhMXRJSkVxczk2NXJIZi1iRFBMOUJxYktOdTEyM3BSX1VYRUdYMWc5Wk83SmlQT3RkSHBQT0ctV3pzWElCRGhJdk50UHE1UDltZkZSTFdKX0JQTDJPNS1DRGtSU3pFYXdESEprSENpZExuRGhjZGdXR3JOYlVjaFN5T25HS0VnUGVMdzYzd9IB1AFBVV95cUxPanh1eWlCWjRCY0piRjNMU3NYZDRjUzVXRjZtX1JjTG9NRVBuMzhzTWZVVWVTT3h6Z0ZBV3RwY2JtQVhsWk83bFNOdzUtSXdYNWl6MktJS0J4Njd5azRLTUhBXzZrb08wTlg0eEhPOGs2OERsaWVULW94U0pTdmpYLTBmZk1Pa0cwR0RXbHlaUUV4emhfNi16cExjb1pvTlBrajJhX1lfV2tIYXV3M3ZaMWp0WWhJUVFLS05xZVd0VzY1VUUyY3ZQNWwwREZvT2plcko4eA?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNa3RUd25wMGVNMlZkeERoVlZ2YUNBLXFyalVOZEJnT0JsUEU2S0pVaXROcUtlRkZNYm5Zc3ltaFZkb21NSTRDMC00RzZzMTdRNFFoUnc1Mm4zeXRpR0JUenpJMGtNNTFDZHU5UERDVlgxX2xTTEhVU1Y0bFRZaGx1c1F3UGNxWk9RODRsSE5fd0F1bVEwY3JpTXZYNG9YZmxiUHhFdExRZFBacTVUb3VjQUF3TERuaEFWWlRESm50ZHNGeHJuMU1icDdKU2NKQjZtOGoweU9pQXMybGY1VjRTLW5HcWtjOUJwNEVCSjdjUmx0ZEh5M1FuVlNpZ9IBgAJBVV95cUxQb2l6WjlfQUJpaHI3dzdKZ0dtMFloamZveFdCREVEcnZ2ZXhjREVCak03T29mbjhPTnJPSUtDeXlReVVCTWEwbFQwWTVtZEJwbmNhbmRBLVdQeUZ2djhpWnlmc0lnS19pTkRDSmNUTWNFamZFUnd6VUllTlMwRkV2bkxLcjFUYTZmRkdPT3ZTeDRrcjh1ZWE0WXJnR19UcVoxRVh1Rl9yelpUTEpJZzRZUlBNWDRiSDU4TC1scVh5endSblZxWEc2N1d6U19aY3FjU2RLR3o1cmRSSVI0VjdWdzFUMzhwTXVoWmNyVGxQZmRvbUN1TVlaU09ROXZSS0tD?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0xCRXZRZlhRaEhyX19BUUw2aTI3MkJHSGV0d05fT1lfOVM2VmZLT1I3SExUVEdmTGpPT25fVmZZelE1TmwyWmNOOFdmWmZ5UFJjX0RQSDMtcnBnVzBnaHU0b1JDSk5hWmlkMVZqU1FXREo0UGFPSVJpa05EWVJxdGdJVQ?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market. A crime-related story. Covered by 8 outlets, including India Today and KNN India.",
-      "image": "images/patna-municipal-corporation-lists-rs-200-crore-municipal-bon.jpg",
+      "brief": "India’s first Amrit Bharat Express with AC coaches rolls out on Delhi-Patna route to ease Chhath Puja rush. A crime-related story. Covered by 5 outlets, including NDTV and The Times of India.",
+      "image": "images/india-s-first-amrit-bharat-express-with-ac-coaches-rolls-out.jpg",
       "image_kind": "photo"
     },
     {
@@ -509,6 +499,11 @@
         {
           "outlet": "Jagran",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZXpwTEUzeU90dE5aY29VTnFoOUdycnBaZzhNTHJ2VlNfclV4M2VkMzJ6NWhKMmRNYVVHZzNJbC1vM2V6TGNEWEZ3ZklVWjF4TEMtcG83dks0RFNRemV4d2l4X0lqU0I2NFgyeXcwR0lOWEJLTGdyeUtzQW93N2M4VHJOYUlDRUx4VVRVRVJhQzVsQ29ERmY5NzV2clFtLUFzcWNiUXk5ZnJ4RVVjZmpF?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUhuZnV6amJQUElzTVNjRTNuNWk1M1pRUzd4alVCUzVERHJRVkpZTVlIOVo4SzdoNWtkWmdyVEkyWWdfRVlaQlE3d0NIMHIwTlFNemhzb040OUlVRi16ZGpabFp6WklZdUpWRWtSVWhjRmJybC11R2pZWUdNMFJBTVNJSUV6TWlDcDh3VlBKaDFqYjcyZHVBSFFrTG5GV2lUZHBOREJqMUNuV0liaFFMNUJzZnlGYVAxLTlHUlZ3?oc=5"
         },
         {
@@ -557,30 +552,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-health-minister-conducts-surprise-inspections-of-healt",
-      "headline": "Bihar: Health Minister conducts surprise inspections of health centres in Patna - The Healthy Indian Project (THIP)",
+      "id": "bengal-plans-to-bring-two-more-tigers-from-bihar-assam-to-bo",
+      "headline": "Bengal plans to bring two more tigers from Bihar, Assam to boost Buxa reserve's big cat population - Telegraph India",
       "summary": "",
       "date": "2026-11-11",
       "topics": [
-        "politics"
+        "general"
       ],
       "sources": [
         {
-          "outlet": "The Healthy Indian Project (THIP)",
+          "outlet": "Telegraph India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3NldExUR1VtR1NxanItYkRrV0wtTDA4RldGaTlJeEZ3MmdXdzA5SVZfTjdOckpjZGJiTFV3WDdldHFpVWhSQTB6TGtzdEYwUXlqM1hVdXo3bGUzSGp1eXJadjJOQmtKaWJhX2dRZlA2TjdfUmZXZHVwUjZ3M2dXM2tSeVBpMkVaY3hQaTFUd19PM2FoTTVabDUzNDVPYWtOQzJCYTdTbmdubTlmWE5yalhGclc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZlpiQnlBYXMtQ3hLTTdGeWU3UHNOU2t6UHVCeE5OS3dPTHFFdUUwQ3ZlWGlfaWVuRnRQN2cyQVVKZGsxOG1oaDhQMVF1eUk0V3k3MERZd2ZJQUsxRTRVZGdjNUdjbXA4V051S2l2WUo1dzVTcjlHQ1h0WTBoMU1Od1hRNG0teXp4WXBQVUVrSGlpVzBwOXVoOWQ3REFHcGN2TzdUOUxHSWdXNnFaT2pQY0R6TFFxdjlhWkFRQ0Q2Z2hCMllMUEg3dHViN2FtcU0tWTlwa2lMTFlfNlZ3RFZWbHNpaUdEd9IB6wFBVV95cUxPWDBQcWRuakdodE9XZVhtZWxaMzdaV3JlSFRER0l1cXQ1QVFQOXBiZzZDNlA1Mi14MW9uSUowbVVnamIzSkNOc0c5cG5XVGhwX1hHYWlsQXd6cHVpVnhLbXpNejRyMGZvQnhOR3lBcndVaW5wN21DUTRQZm44ajNkcjdLQWFBdzRrZ2JfRGtmMFZBeU1ycE5xZGxBYkdiVlhfSkV3YU5RZXBZdWx4Qkg4aXhIa2xaQ1plY29fQ1ZPb1E3Zzh1N3FtN09YejlaUUhlS29tY3JZM3loSWNrVi1PWjg5VGktenBGSzh3?oc=5"
         },
         {
-          "outlet": "Tripuratimes",
+          "outlet": "Deccan Herald",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ21RZm1Cc2cxMGNSQm8zaHprOG4weVNhTzhwaFl1YmI4dlF2bTBhZFI1QjVILWdscDY2RU4zbUJYUzF3LTViTVl4UEU5bVdjUzdKVUV3NTBRY0xOYXVhMmFOMUdJOFRwWnduZjE3a2hxT3Rzb3lXWDhSVGtnaXNIMFZ4WkZsOGhBVl9PNDdMWVItbHR3RVpoejVJVkE5V0ZmTkp1ck1jeGVramJnbDRrc21mR0Nxd0EzTUhKMnV3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkhEVUMzRDZKeWFpYUgyMkNKMXpzanNzcXEwOVlkc2lUbWhrWVNHX2g2dUlqa2tuSWdtWEV6eXhoa2lmQXJleVlDX3FrdmJXWjVJSmxERzNQMzE1b0RGMTlfOGpHMXQ1ZUkybTZyVThHNWZnR05ZVzNVbmVwTkhydld2dmFZaE5BNUFkUTFPaVZKYjI1c2VXYk1iTl9lTEMzUVJIa1doaFJYalQwUkpxZks3SmxIZ3hUYVFodjlTd1ZwZDh0ZV9qSHpsaV9fVEk?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar: Health Minister conducts surprise inspections of health centres in Patna - The Healthy Indian Project (THIP). A politics-related story. Covered by The Healthy Indian Project (THIP) and Tripuratimes.",
-      "image": "images/bihar-health-minister-conducts-surprise-inspections-of-healt.jpg",
+      "brief": "Bengal plans to bring two more tigers from Bihar, Assam to boost Buxa reserve's big cat population. Covered by Telegraph India and Deccan Herald.",
+      "image": "images/bengal-plans-to-bring-two-more-tigers-from-bihar-assam-to-bo.jpg",
       "image_kind": "photo"
     },
     {
@@ -608,34 +603,6 @@
       "genuineness_label": "Corroborated",
       "brief": "'Mafia rule prevails at every level' in Bihar, claims RJD's Tejashwi Yadav. A politics-related story. Covered by The New Indian Express and Daily Excelsior.",
       "image": "images/mafia-rule-prevails-at-every-level-in-bihar-claims-rjd-s-tej.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-five-persons-including-an-ex-bjp-officeholder-held-in-",
-      "headline": "Bihar: Five persons, including an ex-BJP officeholder, held in connection with robbery case - ThePrint",
-      "summary": "",
-      "date": "2026-11-11",
-      "topics": [
-        "politics",
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXlKQTAtM19VazRwQkVtOERhRUtjUkg3UE0zZV9WV2c4T2huWVhlZl9hSW5zai1fRy12YXBUWXVldGp0SUh1M0t0enJTMUd6T2lzaUFZZ2w5anRyUnBmTFlVcEhGSThUODJyRWdab01Demxiam1WWnQxOFUwam5Ic2E1a0txamFLSUk5ZlVWbjRHaEF6a1BmcFhoX0tEbDJXMC1lY3g4dDB4RVZ3QjhKeFN2b0RiNUtRVzRkTHBFdUZKYXZyb0Vqdg?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV20wQy0yQ1hNZjFKc0Z0bkh5VTRfSGZDd0JKR05Fc0UzNWljVElqMUVVMlJtOHNUaGhOc2JZY1lST29QWlB1SHo1X0MyYzBmX21Ncm9XNjBCaHNKV1NKSUZuUlh1M0NYM3NpN0FxNFdJcTRFbnJXbldfZjFxUENQcnB3UElKTWNlY3ctX3ZoallsVFZETjBxRS1KZ1lram0yd0E0RDEzeEwyNUJKQ2xmZFN6eGRpMzdHazFhbzF2QjDSAcYBQVVfeXFMTlhfZm02TkdQak5Qb3lVd0VFbGpEdlVnXzhBeEFZdmxoVkotR1hpOUptSDlMQmFxWWF4RjRneXd5ZXpmMVJybkVkeDN3cWp6MnowS3NYUHBrRlQxUnBZbWRtTkJDQnA0ZFNGRzRFbXJIRVU1VU5sX0pXb19NRkN3MWZoN2VNVS1Qc1Q0cnpWNTFDdzhHNFNRSHRmSGg4ZnNQNldUZklhSEM5cFdJTWZjcUo0UlZUQzRtZ2xwTWMwVXRURnVHYXhR?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar: Five persons, including an ex-BJP officeholder, held in connection with robbery case. A politics-related story. Covered by Deccan Herald and ThePrint.",
-      "image": "images/bihar-five-persons-including-an-ex-bjp-officeholder-held-in-.jpg",
       "image_kind": "photo"
     },
     {
