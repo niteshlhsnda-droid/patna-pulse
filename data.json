@@ -1,9 +1,52 @@
 {
-  "generated_at": "2026-11-13 14:54 UTC",
-  "generated_at_ist": "13 Nov 2026, 08:24 PM IST",
-  "story_count": 54,
+  "generated_at": "2026-11-13 15:55 UTC",
+  "generated_at_ist": "13 Nov 2026, 09:25 PM IST",
+  "story_count": 53,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "pm-modi-to-inaugurate-6-lane-bridge-named-after-nitish-kumar",
+      "headline": "PM Modi to inaugurate 6-lane bridge named after Nitish Kumar in Bihar’s Vaishali on Nov 21- Moneycontrol.com - LinkedIn",
+      "summary": "",
+      "date": "2026-11-13",
+      "topics": [
+        "politics",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOeDkyUjVPY0QyUGZLb212dExkUXBIYWlMRVQ1QlhWN3cyS1hyczNQdHFlZ0ttaUpiMlhfdVRYemVOMkFTdG5TREotM29KdnVFRi14SFBBblNwYTlBc01nazlwUndwNm9TUHpKT1d1VldOLThDVk9Dd2hMYk94cEsxanZYRnhramktV2JUNmZiWHRXMkNXZzY0X2hUc09VVWZMMmwxOUpDc3FXMFFSc3FqWEppWVZFUGVqZE9rTG4ybmJ2M0wxa3ZNTk93UVozdlU4aC1fMG9DdlEwT1RhRmEzUnM3VTNmSjBZYUlwYjB2RE1kNlFmRDgxSW1pYjd5QTFZeHRRX2RRWnZKN0xC0gHCAUFVX3lxTE1FTDNEa3k4bWhwMkdWNjlpVHNTN3Jkc1FtcXVaQTc0ZndfSU8yeEw1ZXVzUjBLV0dFZ3M1MUZuOW1qcC1JcUc1ZmpqWW9VOEJQOERMdmZpaUVPZUNLS19SU1oyZFg3QnNCVWhvS1p6NjdZX2MtU09vMzMwQ0QzSEd6anZqM0JOZnlPWEplUjc5QXFPVWtlRkx6Mk1BZkh2b0ptT3ZDREJDQjRuaUE3ckRwWjZjdEJ0T05YR0VMekJlOEdn?oc=5"
+        },
+        {
+          "outlet": "India TV News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORU9yVFE3T1FUY2hieGNscmtGcHlYbjlqWGwwbU1QSXV5S00zc1lBaEtNVjAtbXFxUmtEeG9XclhjTlRvTzhXNkRCSFRVaVJLVVdWOFlwcVZxWDNpbHJJWGlKcjgyNWYyWU5Ebnd4SWxjN3JzUEVmNkJKTktzUHB1RmxzN3VKOGxyVDVDTEczUjdmd1NkZlJwc0NJaGh3N1JhSllfZk1SeDZ2dTVKSjdleWl0ZDlhSWZiSnNSbndsa0JJNXlacmd2SXc4RDlHYmpqeTBMX2VaV25hMEpXajhQNzgyQdIB6AFBVV95cUxNcVZCdTVyMlRpXzN5dWJucDVHSzlzdjRCOFZrU3NsblVvQ2VkZVZpd2lCdU9PMUhLOUZVY1Vxd25vVTF3UWZNNV9UOWdjYWhMa0lENjlVTUpYMlBPQWU2eG40VVBzNW0xV21sVHZqTm96c20tUkpqNEJNTEJlSFN3NGZnbzBjdU9ORE51QlhjSExINWV3Y0ZyZjkteTNRV245cE5CNXlaNkZFMGZhSlphVU15SjhydG1tdU5oaW02Rk9LbngtWGlxeDhDWHlWX181U2FfaTE0Q2FRTi1BdmFDTGhjbDhUYUFS?oc=5"
+        },
+        {
+          "outlet": "LinkedIn",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVhJOTNyRXR3a29ZUUE4dFJoYkh1OE9VR3AzSXJTbUczN3p3Nmk3aU5nSkNVX0Z1bk9aRHg4U0NYOTgxc2NZLWNjWmRLcURQVWtFcEt1dGxQQTVYQTRmMGhrM2Zpei1HOEtZWkhQQU9xdGVGWUk5YXFrVlJaSnhSUnZDaXF0bmJNZFdrSC13UEFqRzQ4d0JlSHNtTVZvY3BFbkVwenNWM2poc3IxelhUWGZVZml4OGdwSXM0?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNjktUHdKNXNPTFY4RHdUY0l0Z21uT3N3SDJ2N3VPc3BNMnZGRGNvLTRxdFptdlZiZUdTakhBaUZhY2FPYnYxMDZhekNKemJMN3ZzbE1mdUJfWnd3bGljTEdlYW9zcTlBaUR6aW9hb3Y5X3dJR3htOGszanFOUkR6M2xEamtsNmhaYzQxaWo0ZmRhRjlUZjdtZnMtZ2wxRFZfT3dhcGJ2TVNuY0xiTU1TcDdNbmIxWmp5bDkyUEg3X3ZhMUxCWGxkYXl6M1lLcXJTWURsd1A0Z2F6aFI5b3U00gHkAUFVX3lxTFBRNXBMOENQVndWelVDYWFGR1NldWtYRE5NZUdZUTZnRzJGbWVxMWI2SnlwREMzN1htSWpXSWhpQmE2eHB2RVFkLW55NHB2MkdLUUZOak03VU5pR1J0Q2RfYmdqRlZpaU1fZWQzaEtoM0dVNmxfMEVISk8wLThRdUdyU3RqeFRiUTFHU2xMSnpZcTI0WklZWldqZGhHWnRpSEtPYkRzOFVpUE5HSDVhcTRRQXdfcmJxWkRjSXM0M0ZwLTNpLTdvYTI1MTFZRHdEYzljZUZZYXF6VEdNMHpoQlhXNlpVTg?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb2h4ME1wMWFOQml4OFpoSGNoRjNibXdIRjM2WW1fYVhnYmhVcndINFBBaDFPN0dZWEN5eUlOLW1LeThMTjBWdDhYVGFQZkw5cHk2bHVKNmp1dDRuOTdSUkQ3aWJwWlpGc1o4Qks3aHJVVFZVWEpsT1lacWE5RUVjNm9Db3R5MlAxMXo2SW5MMTZpYmZ1c1JaVV9QX2l1cHpMYjE3THNKeXJIaVd5TlM1TUlxOVlRRXZmRDNQclpkendQN1p5aHlldUtSY25lUmdiYVBjVV9UejBWUUoxMnlN0gHsAUFVX3lxTE8wQzJQclhuNlVhOUR4VVIycnhjdFpGX0V2bnM1TE5kS0U0NTFjajlYNmFVdnVoVG0zck93NDR4eE5rRTJMWllyN2dtT0EwS3Jka24zTkY2X1kzUjVncjZoYnV2cmNMdmNOTVVVZF9TXzlwdGVOcTFBS0V6TjJLbTBWRlF4ZWE2ZzZON3lFZTRZZ3ByMU11WXNSa3UxM0RWUEhjWWZTS19qRGhDWnFWSkVkaFFZQmRHRXdFcUNpZDlPaGtNZTNSSWFPNmp1Y19jcWF5WWJxbmxwa0VMLU9OWHNGRXhBUXNXOFR6YkNX?oc=5"
+        }
+      ],
+      "source_count": 5,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "PM Modi to inaugurate 6-lane bridge named after Nitish Kumar in Bihar’s Vaishali on Nov 21- Moneycontrol.com. A politics-related story. Covered by 5 outlets, including The Times of India and India TV News.",
+      "image": "images/pm-modi-to-inaugurate-6-lane-bridge-named-after-nitish-kumar.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "bihar-gang-rape-survivor-s-ordeal-far-from-over-thrown-off-r",
       "headline": "Bihar gang-rape survivor's ordeal far from over; thrown off rooftop of her house months after assault - The New Indian Express",
@@ -19,19 +62,24 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaENHRjRKYUZSZjJWelVRemtDa1I3djQ4RXowV3k4NVFpMmpBYTVQdTBNVkhlQ3gzaVRZaWRtNGlzMnBhQnFuNEozQU1hQkx4RklBX1dKOHdmSDBuUVpfVjQtTmUwZnFzNXhmSXRqZTNLSUh4Nk1VTnFzd2EtaEZ6dU4zb0xQV0s1VUE4UTdVYk01d0tvSWQwM2taYzdwNzhDMlFmWDNLbzNWSm43eTh3TmNieDJjM2FRUHR6WTN4VUxnM1B6VU40OFJQY9IB0AFBVV95cUxOdGRPRzZfMThrUkRsX3Y3OV94QzhqWDRINXdwbU92U0ljSFVrSnRwRE9LcUVQNEtlejh4YnJkN0NxSEREam1iZHdtb1ZnWHhiMl94SmZFbUZjTjAwMVlXR21ZV295SVRqSFBjdkQ0bHoxOFdtanh4MDdONnByRHFPS3FvVHFvYjBlbzdkLTJBTG5ZQzJMUHNOZ3pCeG9xeEN0dnE1VVo5U1I3UXZFSTZmbGxRTDdySXV3b3I3YVRWb0NrNThHc01tLU1mc0FtdjNL?oc=5"
         },
         {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeTdJV0hCcjVqUzV1b18yMHZ5aDhpcHpLTXZPMlNhaEMwZ2NrTy14bmpKNFpLMk02Tk5qc0R6c08xMVVQQ0swR0VwNWVHaWF5WXR0N3Roa2RURkNmZURKODdXOTFUQ3QyMFlYYTI2WjdTN2ZRUGxVZmwtcWsyTkpaS19EcXdIYVhZQlZqNVdVMk5aa0lxSDJXVFdBUlFEb3BndzBiZzJINGx5cGQyUzdnU1pDRGI4LVhZUkdJZm5VNC1xQTVTM25pQU1XS0hJUFB3cTFDQ3VmMFNDbEU5ZXBv0gHsAUFVX3lxTFBkN043cER0Q2Y0cXptZGFRaEI2c2c2bXFwRnF4WkxpRVN5d2hrR2dWUDRpOXkyTHI5YnZLUEFpZEhZOUh4bUMzWW95N1JCbXRzRGR6R0k2ZXI5SnpVcDlKNE9pRnBjVmtyREtDM0pCdlhFQk5MVUhVWkU3MUJXYXdwenRwdHNTODFTbjRYanVWNzlzYUJwNjJZSU5DR3ZweGVGYld0enJnMXFYV1lTOGVDOU9NaHp0TUZ5TVZoQXRzVUppbkxuOTdodVFTZFVDbE1nczVIeFhqY1N2X2ZkZ2h5eXhfNW9pRWU4b2Y2?oc=5"
+        },
+        {
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelR2T1NMYmNlb1A5MjJYOGl4QUZzeGIzX2xDWFZMbUNGRWM5LXVNN0ZNTDZXTGIxLTlQVkdBQ29nYk03RHEtSko3OG5vRTl6MTZoelkxWmtKVy1vUmFpZVBwR1lNYXRTWmpKd00wbVp2ODRxV21hNUpSY1BnekJYc1RPb3I1NGhwNkZGLVlKNl9iclMyS3hGMkRuNE9EOFdOZ0dWbEhTWS1HZFJ1Z05yUy00Yk53a2kyeHZn0gHCAUFVX3lxTE4tMDlQRXoyRkl3aTBvMlB0U2UwTTdBME12c3RxV2NiWGMwWFRkS2pyVXhuenlDX2ZNWEotaUNkbFVwYmdqUTd2NW5GeXBEcWN5SGpSWUxMVXNDOFozSzhtbFdsczdDU3g2cm9EekdONHppNmJZV2xRZklQRk1CTHh4aFJlYkpRUUFibGtFcjNxZkVNSnJLQkt2QTNsZ0VOVnAzYzFoeVZUSVBueEh2RGN5bWtwakJ5QjU1UV8ydmtNRWtn?oc=5"
         },
         {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONEtxdG9rVHRlSmozemxXRkEydUdHaGRRSUpQSnowOVVXel82VkI1LU1rNVFNS0lMam43Nng0a3RqcXBfRnk5SWItM1B3Vy1TalFVNXRJTEdyU2hlXzJMWGh1VW1vbWlRMTFmQWREWlM5ZEFFQXdNZVZJRWpGSWQtX3V0aE16S3IxV2JEbU05UHFoQUd1QWtsU3ZFNjhiaDI0RHZUTW1IeFlfanV0X0dqbXFaa1pHVGxVVkFHLWJlZUpoTG5GaFM0WXlWWG1KVlhHMEJmem5PVGNxT215Z3hzX9IB5gFBVV95cUxOemhYVVM3SXJSRjlKUFRsdGMtcGhBcWdfX2ZhSjRObUdNVWRxNzlfLTNlZGhPOXpkZWhHRnhMSk9XVDJ5VzFWbjJ1YnJCNW1rMXVVMFpicmRCZ2lCbWo4NFZiTURlS0xCNWJBMlBlb0YzQnVNOWMzX0Qta3JVN3dxbDUzLU5ncWxaNGlkbkI2M1hzYlJnWmFLeXNiUmY0d2hXZENmWVpZQ2R1dE44N1VmSzRqSWtxT2pWMlZWMF9XUzBveVVPWEhieEY0cEEwdU0yUGZzWmpGbVJRSUFjaTJJdDcxbmRCZw?oc=5"
+        },
+        {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajJqZ2lHWTJZVmc0aXBKSFJqMzZtOHhhZFU5Zms0YmZvUG11SEgzUFpnZDFSdFh1VjFuR0F2ZnRTcGJmamlnN21pVjV2MWh1UlBQbzhQY1lTQTlZWjBvLUNXTDdoUmt4aUM3R3F5Q0otamd3aUZmR1BOdDdMM0NGWjRmalNpV1gxLTBXVW53a3lseXZPdkVOYU9HWjE3R1Q4czM2bURCXzlMWnhqODNCWHVxbG1iN05VWW9BcWh5VV9iVnN3MFVzcEE0ZEZrZVZ5dmFSWW9tWW9SYXdUYS13R1htMNIB6AFBVV95cUxNU2ZsYWNmUXBieHhHbUwxSWtlNEp4OWxxM1otUW1pWDFBSHlsLWpKemZNQTdsM3lYOFRQN0NMS0NyVTVIOGx2dnlMYXdEeHBoVUtDRW4weEpZNW9HU042RGpVbVFPSXk2Ykt1Mm5CdjhfbTZJR0syLWt0YnNlelAzWkRDSFNOelF1dmFGQm0tc0hyNTdUWFZHWjc3VGNfbkpEZ2xnU1FxOC0tR19hRVU4NjR4UERWNE5Tb2hYc3BLZTJKSWZBTzBocHNXZ1pVMXktX3g1MWhKNTNCYXZqM1c4RndHS3BhbEJ5?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeTdJV0hCcjVqUzV1b18yMHZ5aDhpcHpLTXZPMlNhaEMwZ2NrTy14bmpKNFpLMk02Tk5qc0R6c08xMVVQQ0swR0VwNWVHaWF5WXR0N3Roa2RURkNmZURKODdXOTFUQ3QyMFlYYTI2WjdTN2ZRUGxVZmwtcWsyTkpaS19EcXdIYVhZQlZqNVdVMk5aa0lxSDJXVFdBUlFEb3BndzBiZzJINGx5cGQyUzdnU1pDRGI4LVhZUkdJZm5VNC1xQTVTM25pQU1XS0hJUFB3cTFDQ3VmMFNDbEU5ZXBv0gHsAUFVX3lxTFBkN043cER0Q2Y0cXptZGFRaEI2c2c2bXFwRnF4WkxpRVN5d2hrR2dWUDRpOXkyTHI5YnZLUEFpZEhZOUh4bUMzWW95N1JCbXRzRGR6R0k2ZXI5SnpVcDlKNE9pRnBjVmtyREtDM0pCdlhFQk5MVUhVWkU3MUJXYXdwenRwdHNTODFTbjRYanVWNzlzYUJwNjJZSU5DR3ZweGVGYld0enJnMXFYV1lTOGVDOU9NaHp0TUZ5TVZoQXRzVUppbkxuOTdodVFTZFVDbE1nczVIeFhqY1N2X2ZkZ2h5eXhfNW9pRWU4b2Y2?oc=5"
         },
         {
           "outlet": "The New Indian Express",
@@ -47,56 +95,13 @@
           "outlet": "Moneycontrol.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0REVnFMaWhRSkFobG9TbTczWHY3U2NXelpOVFZRQmwwOXVKVlE4WS02c0d1Wnc4dGRPQ3A5cmZMOTZXVnZqRFNOTkNmUHpjSm1SMDk5aUJWek8yTzRKSTU4bXFPNTRZMlo2eVREekNiSUozR0otTzJKNkk4WEFpeGFvcUtnNEp5TTE5RHh4QnYzYktlb3pqcDRaeWdQcjhYb2V5M1ZYd0QxUWZDWjhhVnllZjlDNVJOOUQxT0FtbS1UeVhZMHphMDYwdHBFUHdTdXdXOFdKRFZ4TEJrUk5j0gHkAUFVX3lxTFBIeVJPTFV0LVVva2NjTXEwZHo2bW1WcUhXeWc1WFJrQlR5UFdRSTV6VndxU1M5WElMNzJnZF82bFUwY1RXTDJNZHcxM1VSX2ZCVzVVQ0VMY2tXVjZ2R0VQamQyMkJ0T0FudC1BVHhYVFc2dmtGdEhmYkV4ZTNEWTVWVl9LRlBWVy1MU3ZNS3kzcm84WW8wQm1qNHJjVkpCaEo5eThhV0pRQ2I3cTdLOTRuWnllUk5MNjdnMDZDWmFfRjhGUFZISzZKNjVtYlVkSllNVFY1ZURTNGRmaW1mbzJmbHJYcQ?oc=5"
-        },
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONEtxdG9rVHRlSmozemxXRkEydUdHaGRRSUpQSnowOVVXel82VkI1LU1rNVFNS0lMam43Nng0a3RqcXBfRnk5SWItM1B3Vy1TalFVNXRJTEdyU2hlXzJMWGh1VW1vbWlRMTFmQWREWlM5ZEFFQXdNZVZJRWpGSWQtX3V0aE16S3IxV2JEbU05UHFoQUd1QWtsU3ZFNjhiaDI0RHZUTW1IeFlfanV0X0dqbXFaa1pHVGxVVkFHLWJlZUpoTG5GaFM0WXlWWG1KVlhHMEJmem5PVGNxT215Z3hzX9IB5gFBVV95cUxOemhYVVM3SXJSRjlKUFRsdGMtcGhBcWdfX2ZhSjRObUdNVWRxNzlfLTNlZGhPOXpkZWhHRnhMSk9XVDJ5VzFWbjJ1YnJCNW1rMXVVMFpicmRCZ2lCbWo4NFZiTURlS0xCNWJBMlBlb0YzQnVNOWMzX0Qta3JVN3dxbDUzLU5ncWxaNGlkbkI2M1hzYlJnWmFLeXNiUmY0d2hXZENmWVpZQ2R1dE44N1VmSzRqSWtxT2pWMlZWMF9XUzBveVVPWEhieEY0cEEwdU0yUGZzWmpGbVJRSUFjaTJJdDcxbmRCZw?oc=5"
         }
       ],
       "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar gang-rape survivor's ordeal far from over; thrown off rooftop of her house months after assault. A crime-related story. Covered by 6 outlets, including The Times of India and The Hindu.",
+      "brief": "Bihar gang-rape survivor's ordeal far from over; thrown off rooftop of her house months after assault. A crime-related story. Covered by 6 outlets, including The Times of India and The New Indian Express.",
       "image": "images/bihar-gang-rape-survivor-s-ordeal-far-from-over-thrown-off-r.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "pm-modi-to-inaugurate-6-lane-bridge-named-after-nitish-kumar",
-      "headline": "PM Modi to inaugurate 6-lane bridge named after Nitish Kumar in Bihar’s Vaishali on Nov 21- Moneycontrol.com - LinkedIn",
-      "summary": "",
-      "date": "2026-11-13",
-      "topics": [
-        "politics",
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNjktUHdKNXNPTFY4RHdUY0l0Z21uT3N3SDJ2N3VPc3BNMnZGRGNvLTRxdFptdlZiZUdTakhBaUZhY2FPYnYxMDZhekNKemJMN3ZzbE1mdUJfWnd3bGljTEdlYW9zcTlBaUR6aW9hb3Y5X3dJR3htOGszanFOUkR6M2xEamtsNmhaYzQxaWo0ZmRhRjlUZjdtZnMtZ2wxRFZfT3dhcGJ2TVNuY0xiTU1TcDdNbmIxWmp5bDkyUEg3X3ZhMUxCWGxkYXl6M1lLcXJTWURsd1A0Z2F6aFI5b3U00gHkAUFVX3lxTFBRNXBMOENQVndWelVDYWFGR1NldWtYRE5NZUdZUTZnRzJGbWVxMWI2SnlwREMzN1htSWpXSWhpQmE2eHB2RVFkLW55NHB2MkdLUUZOak03VU5pR1J0Q2RfYmdqRlZpaU1fZWQzaEtoM0dVNmxfMEVISk8wLThRdUdyU3RqeFRiUTFHU2xMSnpZcTI0WklZWldqZGhHWnRpSEtPYkRzOFVpUE5HSDVhcTRRQXdfcmJxWkRjSXM0M0ZwLTNpLTdvYTI1MTFZRHdEYzljZUZZYXF6VEdNMHpoQlhXNlpVTg?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb2h4ME1wMWFOQml4OFpoSGNoRjNibXdIRjM2WW1fYVhnYmhVcndINFBBaDFPN0dZWEN5eUlOLW1LeThMTjBWdDhYVGFQZkw5cHk2bHVKNmp1dDRuOTdSUkQ3aWJwWlpGc1o4Qks3aHJVVFZVWEpsT1lacWE5RUVjNm9Db3R5MlAxMXo2SW5MMTZpYmZ1c1JaVV9QX2l1cHpMYjE3THNKeXJIaVd5TlM1TUlxOVlRRXZmRDNQclpkendQN1p5aHlldUtSY25lUmdiYVBjVV9UejBWUUoxMnlN0gHsAUFVX3lxTE8wQzJQclhuNlVhOUR4VVIycnhjdFpGX0V2bnM1TE5kS0U0NTFjajlYNmFVdnVoVG0zck93NDR4eE5rRTJMWllyN2dtT0EwS3Jka24zTkY2X1kzUjVncjZoYnV2cmNMdmNOTVVVZF9TXzlwdGVOcTFBS0V6TjJLbTBWRlF4ZWE2ZzZON3lFZTRZZ3ByMU11WXNSa3UxM0RWUEhjWWZTS19qRGhDWnFWSkVkaFFZQmRHRXdFcUNpZDlPaGtNZTNSSWFPNmp1Y19jcWF5WWJxbmxwa0VMLU9OWHNGRXhBUXNXOFR6YkNX?oc=5"
-        },
-        {
-          "outlet": "India TV News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORU9yVFE3T1FUY2hieGNscmtGcHlYbjlqWGwwbU1QSXV5S00zc1lBaEtNVjAtbXFxUmtEeG9XclhjTlRvTzhXNkRCSFRVaVJLVVdWOFlwcVZxWDNpbHJJWGlKcjgyNWYyWU5Ebnd4SWxjN3JzUEVmNkJKTktzUHB1RmxzN3VKOGxyVDVDTEczUjdmd1NkZlJwc0NJaGh3N1JhSllfZk1SeDZ2dTVKSjdleWl0ZDlhSWZiSnNSbndsa0JJNXlacmd2SXc4RDlHYmpqeTBMX2VaV25hMEpXajhQNzgyQdIB6AFBVV95cUxNcVZCdTVyMlRpXzN5dWJucDVHSzlzdjRCOFZrU3NsblVvQ2VkZVZpd2lCdU9PMUhLOUZVY1Vxd25vVTF3UWZNNV9UOWdjYWhMa0lENjlVTUpYMlBPQWU2eG40VVBzNW0xV21sVHZqTm96c20tUkpqNEJNTEJlSFN3NGZnbzBjdU9ORE51QlhjSExINWV3Y0ZyZjkteTNRV245cE5CNXlaNkZFMGZhSlphVU15SjhydG1tdU5oaW02Rk9LbngtWGlxeDhDWHlWX181U2FfaTE0Q2FRTi1BdmFDTGhjbDhUYUFS?oc=5"
-        },
-        {
-          "outlet": "LinkedIn",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVhJOTNyRXR3a29ZUUE4dFJoYkh1OE9VR3AzSXJTbUczN3p3Nmk3aU5nSkNVX0Z1bk9aRHg4U0NYOTgxc2NZLWNjWmRLcURQVWtFcEt1dGxQQTVYQTRmMGhrM2Zpei1HOEtZWkhQQU9xdGVGWUk5YXFrVlJaSnhSUnZDaXF0bmJNZFdrSC13UEFqRzQ4d0JlSHNtTVZvY3BFbkVwenNWM2poc3IxelhUWGZVZml4OGdwSXM0?oc=5"
-        }
-      ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "PM Modi to inaugurate 6-lane bridge named after Nitish Kumar in Bihar’s Vaishali on Nov 21- Moneycontrol.com. A politics-related story. Covered by 4 outlets, including Moneycontrol.com and The New Indian Express.",
-      "image": "images/pm-modi-to-inaugurate-6-lane-bridge-named-after-nitish-kumar.jpg",
       "image_kind": "photo"
     },
     {
@@ -129,6 +134,11 @@
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeTR0cFdXd1BRQjB4UEdNX0w1SW9zaDNxZDU3SXdVc0xCMDNkY3drbUw3eC1IaElSM0pjeUJ5ak9iaDBEeS01OVZKeXQ4ZldOcXIzMjI4blphY28wUjlab2VleFRhUWtvNm5DYmZkOVBvU2dQeXlrTnhsVHdnV3hkNW9Vc3d6MWVGSXVfU1E2djPSAZYBQVVfeXFMT094eFRVNi03Smg0MWlvVkhQOGFjZmcxMDI1T0Z3QlQ5TjdJNXN5VGRsUW53SDg3RG5LWDFhc096c3hHMzhpc3k0LThvbGpndWVrd2pjWXJUTGRSQVV6TDI2eVJnVkpYYl96THNMNTE5LVNXZXIwYjhWMlJFbVNSbXFWbDVpN1NZcEwzMkc1OUUxcDJ0V2N3?oc=5"
         },
         {
+          "outlet": "The Week",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdy1SbEpuTjVXUkRncEkyTUx3MTJCR2Z0cjJpb1Jsb3BhU251RDlZX1F0RjczRERYeVA0R2Qxc181M1lJS2RJNlpqMVZfbDJndEJCTkR5VzV6UmdoU1QzTnplR3hMTEZxMU80VlZZa2VVMFlsQjdBXzNwQU5KS24zZjBPb1dXamVqeEhtN1VaRXRHWkZWLXlhMG5zUjBLQ1VoNmhBeUJaVDl2RjNZMk9IaUxJUdIBuAFBVV95cUxOakpFZmI3dkd4NFpnX1ZlTzJPaXJzRmhaelpUUFFub3ZmSjRhd0Nqa01GQ1FvSzBLUk5IcS1vN21leVdlcWJJaDAxY2JJX3RTMWZ0Z052cXlxSl9memR4Z3I2SWlvZkRGRTk4NW9hMEhaLURaaG5GZWhob3d2ZWk2ZWs2WFJBYkpZVm9hQmJFLXpUWmlxTGlidHJwMl9zZVJPaWRGc2Z6eTFQWDRCN2hUdkZTQTJteV9i?oc=5"
+        },
+        {
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX3VoX2lKQ2VJUFNRWjlJWnp4Z1FXZEwtdDNvdTJ6NDVuLVY3STVFbVQ3UThOYW9vR0JJRnJpanpTU3JlVENoa1JwajRheEtfaHJub1owckZVS1k1aUFGT1JhUTNCVUJJUEc3WlM2YklJNzFIRXFTa3FRLWk1VXdCSWVsY3dnbXFtM3dSRXR1dXZVS1VQWU9yb1hHSHhpc0hzelV6RnNlRkk0eUlYbHhaZnNjNXgxWGs0OVFGNWtlOUNua1hnampoeFpzaGpIZw?oc=5"
@@ -149,43 +159,16 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3RERFZkLW5GeV82UVJkeW9GM1pDYnRSbHdPdDZCQXAzMlFmV0JHR25LYjV5X1YybjZ6MGVZZkRRMEhpTHowcDBPOG9sNjl5Qm5Pak1JUS10R2w4TEh3T2Vvb3pmYVBfVDhTUWY1Zmh2Zk1yal9YbmRLeGFLX2g1MDF6clRzN2VET3A0Q1hVSEs4UmpDWWp2SkRTNzZsd3Qt0gGjAUFVX3lxTE9kZmREOFR6dG5IcVRtYVNZSDdqZU9VZmVEWjV4NjBsNEM5UEhJdlZCdjRoXzJLSDYzOEtBb3RPb1Y5YVA1U2dKWU9hMllTalBPUW5na0NGRVlzV0daMTBZaUwwNWVqX3E5ZUVkbDB5QlMta0RrX1V6ZFhEdXhFUWdOYURIeE9ycFd5MzNveEdLdUVjVDV5OXVGem01dVUyYjA3Y3M?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Absconding Bihar Police ASI Wanted in Murder Case Found Dead in Madhubani Field, Body Packed in Sack. A crime-related story. Covered by 5 outlets, including ThePrint and The Hindu.",
+      "brief": "Absconding Bihar Police ASI Wanted in Murder Case Found Dead in Madhubani Field, Body Packed in Sack. A crime-related story. Covered by 6 outlets, including ThePrint and The Hindu.",
       "image": "images/absconding-bihar-police-asi-wanted-in-murder-case-found-dead.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "video-lord-krishna-idol-unearthed-during-chhath-ghat-expansi",
-      "headline": "Video | Lord Krishna Idol Unearthed During Chhath Ghat Expansion Work In Bihar's Katihar - NDTV",
-      "summary": "",
-      "date": "2026-11-13",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUW95U2cyYXVIXzNtc0VnZHJOdzBEOFppTXNPdG9QV1dIZEFSdVI1T2lDWFp5Uk0xSmhacVdqbDRyTW9tQ2xIbW5RdDNiYjNlcUNXQ0tlQk5xSE8wNlpQdXJLODB3aUZfcEZYLWhXNXRPVlFNY2pNUWNZXzdLY0o2RnVnZ1JKOWVUdU5PcFlWc1FSU2tVQ0NKRm5ZVHVhQ19IV0tiaUc1eWlKSlIzd0hvZk41UTR4UQ?oc=5"
-        },
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbENaWVRURzJ4LWxGc2pGZFNKRDcxZTJ5eDhDZG16T2NodFJQTGxhZGMyb3VtLUxJbUdnLXJVMHVCSGRzaGsxSjZnOEVPS09BU2g5a0tUNTZkVjdzNkJZU0RLMVFtRkFOOU9MbDFXeHFiVElOTG9BQktKSGJ3RXRVX2tyb215ZDVWZ2VPWVNSd2ZLdXJZOE85ZmVhQnk5OWoteHN1cEpTM1BoZklvaVhCUTQxZWYzVGtEWWg5QVU3NU11WldYVlHSAcsBQVVfeXFMTzZUaDVpVXl5dW5RYS1kWVVpRHN1eERiRndrNndsMFZHWkVZQ0wxV1VJT2tBSUxqMGNHQnIteFBsS0Y0Z1UtR0V6eng0OWViYVRNamVTNE8yM2Z2c1dkaUV5YXh2V1o0YndRbHZFVTNqUVBLMTAtQ2l5dmRtNzNvVnFjcXpCVllyd3B3VWFYdXY1Snh4WVVtd201bE9QRFNKaFZxTTRHT2RMTkhwZHZPMndLY3FHdUxBcDlBbEJuOGJBMVVwV0l5ODUwTWc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Video. Covered by NDTV and Asianet Newsable.",
-      "image": "images/video-lord-krishna-idol-unearthed-during-chhath-ghat-expansi.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "pk-rules-out-thaw-with-bihar-cm-says-meeting-won-t-turn-clas",
-      "headline": "PK rules out thaw with Bihar CM, says meeting won't turn 'class 7-fail into PhD holder' - The Times of India",
+      "id": "kishor-s-video-of-meeting-bihar-cm-goes-viral-he-says-class-",
+      "headline": "Kishor's video of meeting Bihar CM goes viral, he says 'Class 7-fail CM won't turn PhD' | 'Our fight is for the betterment of Bihar' | Inshorts - Inshorts",
       "summary": "",
       "date": "2026-11-13",
       "topics": [
@@ -201,14 +184,19 @@
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVGZTVDk4eGJnY0hqdHNodGtTa2ktS2lfblgtM25iRFhlb0xsTlB2NUNvSVgtNTJka3hRakNqa0R4WVRXYi12bU5peHMtM3RfY1U3SWc2bDNTRHFPSjlyU18xdnV1NHNwU1FDeG1FUy1ubnlvUmJpTExZei10UU9GYlBSeC05bWNScFYwb1BnejlOVjc1U1kyYjlyTlRyZUxkU3B3cm1OdGdvRDlSaUR6TTI0cXBoTVhQbERhOVJvLXMxS2JrUS16ZktpaWRTRUl4NFBRMlZEQXczMnFOVE1lTllkalQtWXBlVGNfNFlXc1DSAfYBQVVfeXFMTXprYXRnbWpnMXgwb0c4Y055OVVPV1p3ZTJ4RmMxTXVySE8teVNrMVZkaktSQzd3b3dzWFlFT0JnTmRDYWpIT1Zib01lTUhqZ0d1MEtnVU5FY193MUxobWpSRXMtQjNRNnZsV2JhSFNGYjZNWlpQQzM0RjRWRGVMTFlWRDIxZnNyVml4bVJxbVU4ZDNjUkpTVDZQTGVuaGVqc0VXZkVLci1BYUJfOXl1Ymo0MnQyRUtIRWxiNkJBeU92SmtWRVhkNVhSSUMyNmFHSUoySUlKTmlhRkdqUlVaV1NyTFNtX3BxNEM1MkYxRVlISEJKdXFB?oc=5"
+        },
+        {
+          "outlet": "Inshorts",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDFUVGdwVlMyckU5R1JvcjV6YWNSa0EwZmUyRUFrQkxOTGM4ZS1rb3pYbFFsXzV0UTdONUZwMUpKeEF6d1Z6Y2laVnRSdWxtOFBXZFNpT3pUZ3I0VUdVUHBRU210bE1NX29DM0tzM3F6UGhNVEJjSmVZMUtjX052ZzBKajZMOHdaSlNrdlNnTXRIQU4xekN6LWtYdlFBdk1iVnR4c0syeGkwUGY5R3FCeTRKa0pYMFpGdlk5dEU4OWZfYWxiRTFnLXhn0gHPAUFVX3lxTE1VY1hGWGw4emdwNTBXSUNFSUd0aVk2QThhNkUtRzdqVENBNTRTbFQ3TnphdmttcWxQUnM2enI1T2oyWFBhMXJ1cFVCSVJxam5qR05WT3dpS1hIUG9iZUZCd2JPN1dicEhDb1VFLVlEYTRNSGJYM3BHRE8ydUZBQ1ZLcFhLR1lpUC1jaWM0c05nVkVpS3FjRGJPRHh2OU5jSDdrZVllbE9vN1h4TjhnWUphWnNVcm1sSUYwcUZEUm1qTVZ1MWsybkRvZEpuZFhLYw?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "PK rules out thaw with Bihar CM, says meeting won't turn 'class 7-fail into PhD holder'. Covered by The Times of India and India Today.",
-      "image": "images/pk-rules-out-thaw-with-bihar-cm-says-meeting-won-t-turn-clas.jpg",
-      "image_kind": "photo"
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Kishor's video of meeting Bihar CM goes viral, he says 'Class 7-fail CM won't turn PhD' | 'Our fight is for the betterment of Bihar'. Covered by 3 outlets, including The Times of India and India Today.",
+      "image": "images/kishor-s-video-of-meeting-bihar-cm-goes-viral-he-says-class-.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "delhi-to-run-special-buses-to-bihar-for-chhath-puja-fares-di",
@@ -294,6 +282,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar woman government officer sits with begging bowl outside office over 8 months of unpaid salary. A politics-related story. Covered by Moneycontrol.com and The Times of India.",
       "image": "images/bihar-woman-government-officer-sits-with-begging-bowl-outsid.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "video-lord-krishna-idol-unearthed-during-chhath-ghat-expansi",
+      "headline": "Video | Lord Krishna Idol Unearthed During Chhath Ghat Expansion Work In Bihar's Katihar - NDTV",
+      "summary": "",
+      "date": "2026-11-13",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUW95U2cyYXVIXzNtc0VnZHJOdzBEOFppTXNPdG9QV1dIZEFSdVI1T2lDWFp5Uk0xSmhacVdqbDRyTW9tQ2xIbW5RdDNiYjNlcUNXQ0tlQk5xSE8wNlpQdXJLODB3aUZfcEZYLWhXNXRPVlFNY2pNUWNZXzdLY0o2RnVnZ1JKOWVUdU5PcFlWc1FSU2tVQ0NKRm5ZVHVhQ19IV0tiaUc1eWlKSlIzd0hvZk41UTR4UQ?oc=5"
+        },
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbENaWVRURzJ4LWxGc2pGZFNKRDcxZTJ5eDhDZG16T2NodFJQTGxhZGMyb3VtLUxJbUdnLXJVMHVCSGRzaGsxSjZnOEVPS09BU2g5a0tUNTZkVjdzNkJZU0RLMVFtRkFOOU9MbDFXeHFiVElOTG9BQktKSGJ3RXRVX2tyb215ZDVWZ2VPWVNSd2ZLdXJZOE85ZmVhQnk5OWoteHN1cEpTM1BoZklvaVhCUTQxZWYzVGtEWWg5QVU3NU11WldYVlHSAcsBQVVfeXFMTzZUaDVpVXl5dW5RYS1kWVVpRHN1eERiRndrNndsMFZHWkVZQ0wxV1VJT2tBSUxqMGNHQnIteFBsS0Y0Z1UtR0V6eng0OWViYVRNamVTNE8yM2Z2c1dkaUV5YXh2V1o0YndRbHZFVTNqUVBLMTAtQ2l5dmRtNzNvVnFjcXpCVllyd3B3VWFYdXY1Snh4WVVtd201bE9QRFNKaFZxTTRHT2RMTkhwZHZPMndLY3FHdUxBcDlBbEJuOGJBMVVwV0l5ODUwTWc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Video. Covered by NDTV and Asianet Newsable.",
+      "image": "images/video-lord-krishna-idol-unearthed-during-chhath-ghat-expansi.jpg",
       "image_kind": "photo"
     },
     {
@@ -400,22 +415,12 @@
           "outlet": "Bar and Bench",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWlI1U2VaYnBBdW9QVWhUQWZkUzZZdVdfVndsSUV0bTVSalJaTE04UmV2azE5TVFaeVdNSWpyZHJNVUZZU3dBdklsYVFwSG5kNVdJWktwRmt3Q0VfVGVyZHdOcmpMOGt2RW1uRHZqYUFkVnVkRktSTUd1RHJJa25rVkF5ZkdXeUpnYldPM3RqSmdCQy0yTWYyRHE4RjRkWUdQVEJIdU5Sc09POUFKbjBMMzllV3VtdFBMUVBLWnppY3Fnb3c?oc=5"
-        },
-        {
-          "outlet": "India Legal",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQODdNY0hOVFNOSHh0NUFMOWZvN3pubE9XOUpMcnZYbWZsNmtKbk53UVZzT2hTZ3R2UDFhTEJDYVZLbDJqZmVGX29yWG0xdE5Bb0ZqdTNjbmlxOTdRdVAzd21vdllPamozTnl0VDlKT3VIbFBxVGhDRVFxT1RwZjFfY3otcm1ReUhLbUR0LTJXUm81ZTQyNEpxVG9uUEtVR3oza21HM1Q3NHhheVQ1ak9CeUFPd25ObWVPLXluVVJDVnpyNDFiMHZBd21EQWcwMV9YeTRDN0wxUm1pR1N4VENoQXlxSjNDVVZqRjBvMWI0U2pQbmJkOUp2S2JfV2EzbWs?oc=5"
-        },
-        {
-          "outlet": "LawBeat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUF6dTBEV3VxTlc5MjV0Y3ljWHFIdndmUGtaNlJ4SEYyakUwS3hYaHlna3pBY0t4NnQtc0RONTJ5X1ZmbVc2TXZkcHlHOEktaXVOQ2F0U2h2QmxiR0drWlJXSTRYTTVIM3laUG50b2xSblVMVk5nVkRUT2dlMjVkTFpMbHFvYU9mLTZlMmdXMXo1RDZCcVRhMW9MUFpidG90NElWbFVmaG9kams5NlVFM0s0T1VXSGdxd3FHVEx2c3B0aTI0WHVV0gHMAUFVX3lxTE9BNFdkVTJmRHhyNXlKdlhadmtwaE0zWDAwSzFvX0M4Nm4wbkJuSGh6R2habEF0dG5pc1VaeFBZbC0xczdCZnVIcmxtb3ZhYTRUTUZ2ejhaUGs5cE5GZ3BzWUdTVjZSUGl1ZHFFb19VeTBuTFZDcEpoeGM4ZDZCM1JDRGRnXzE4MlBQNGlVX1BJTlJ6MGg0cmVPVEZXSjhDOVl1WlUxS3VIaFVTYzF4Znk0RWFSanhRbG1qTVVNRWJrMkVNTEhGdzBENVpmcA?oc=5"
         }
       ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Evening Courts To Be Launched As Pilot Project In Bihar, Delhi & Andhra Pradesh To Reduce Pendency: Union ... Covered by 4 outlets, including Verdictum and Bar and Bench.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Evening Courts To Be Launched As Pilot Project In Bihar, Delhi & Andhra Pradesh To Reduce Pendency: Union ... Covered by Verdictum and Bar and Bench.",
       "image": "images/evening-courts-to-be-launched-as-pilot-project-in-bihar-delh.jpg",
       "image_kind": "photo"
     },
@@ -464,6 +469,11 @@
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWpIZVVWSFNDMk11SjN5TURRanc2MlF1U3hjdXNiVjFkMFd3djlsdUpjYnRrc1dHUVdiZWhycjRWbEZvLVJSeTVyU0ZKSTVRbHdRbVZxNW1LV0VLRC1ibWJ4SWJyMWpJRlRFakFGbzA4X3I2VV9aN0k4c0VpM0hKRXpGSFNjeERhTEdFck4tUzNOMzI0LUwzVGV0LUFGZnBzTS1TdEFUNEZrSUttRVU0TWt3QW0tUElkaTJLSGlrb3pUMGfSAcgBQVVfeXFMTkJHbUZLaXZfWGtNY0hHT3g5bGNnRDlsY2preG5KTEozZmdQTF9BSHgwN2dfd0c0bENXRVJoajJuLWNTYkRvc1NoOG81ZHRuLTlzcmVMNXBrODFaR3AxUWdNRktnMXNybnlVUXlIRm5BQ3RjSnFMRktUUzc3Z3BGZE02NjhzaXAtbGtfMXVEbzRLdmh0WlBOcUtUWjVaa1RLd3JoU09TZGkyaGt4M0ticHVkb1R1TnBZcnVmNkVHaUNOYVpjRmNTd28?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOW9EZmlTUXQ0ZFBGN0E2TDFhbk1JX0xPa0toUGc3OGZhNGtlSngxeC1KZnBPVW50NWQ2SmJLZWttb2xhMk5ZcldmVWlwdWVLbEVrSkU2d2NjYXVKaDVmZ1BDWTltMW9DVFFRZ0gza3VkTEw3cGpRS056Q1dla2Zod2JiU1g4YkxnODVqZ2FHc0drMERZczFZbVcyWEJ6SHVrYkN4c3M4VjNBWGNMLXc4NWQ1WG0yaXFjOXF0VUxXWnB5QdIBxwFBVV95cUxQWTdvOXN5MWo4S2VCNXo0Nk1mWTktX3pWczdYejZOWG1KbE5hTVJWTE5SUVNMbjdSckZOR3dWdmpCSVB1YVUtRTViUE9vVnpWLW9Na01DcW1VT0d6ZmpGcUtfa1M2WGNPTV9XQmlzWGt3TTM0R3J0SFh0dVlQYzYzSHJsaFZValFYeGxldG52TGRtN1JLYTZfQVNidDdQSkZBd0c5Smc3X0N2azM5ZjJtVDNhcGRvQ0VFcWt3a1BwU3VwZDFpVTMw?oc=5"
         }
       ],
       "source_count": 2,
@@ -504,33 +514,6 @@
       "genuineness_label": "Verified",
       "brief": "Amrit Bharat Express 3.0: Indian Railways rolls out 1st AC version on Delhi-Patna route for Chhath rush. A crime-related story. Covered by 3 outlets, including NDTV and The Times of India.",
       "image": "images/amrit-bharat-express-3-0-indian-railways-rolls-out-1st-ac-ve.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-cm-launches-water-metro-service-on-ganga-river-in-patn",
-      "headline": "Bihar CM launches water metro service on Ganga river in Patna - Prop News Time",
-      "summary": "",
-      "date": "2026-11-12",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Infra",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOXZOYmpMejMzS1NpZjJFTWJDS0JEVktkTDRRUW51M3BUQko3TnIyWDZkdzlBMlVzMExSbGdqVVBsQTdIMFBOVXRod0Y0ZUw5X3ozWkk0MmJya2VwUUZvZXlaUlB3eVY0LWNEZnIzODhhbFRzMVlzR2wzcWd0RndzRGtKMDB5VG9uMTJjbEZzY2NvZTJlUEJraTBCUnNaRkEyblNTZkpVRUVXc0M0amF0WWVRZ1ZKOTBkRFY5MmNTbjMzM211MnI1RU9GQVJwU2ZPY3RzNktQZ9IB2wFBVV95cUxOZUIwR3djVVpHeUhZZkZHNDV0U3hqQ2M5UFc4TlJjSHF2WWkxLVNqVXZQb3g3dEpsMzAzSjlDNFRoRlIwZGY5elQ3am1xc3drZ2RuWVBYOGhOTG9MUWlYWmlIa0doSno0b0VlTU9XdUw5UWlPaDlhbFZpY1ZOSFh1QVVoOUZvM0xycjNFOUdhY1pXM3MwbFI5ZDJPUVViVUM1YUhxVkFGSWNiTGRvbHJ0YVg0VHNhSlFJcmJnajVTbG5JVGNsU1cweTRDOW5UWWlnT1FqVnFwby1RWFE?oc=5"
-        },
-        {
-          "outlet": "Prop News Time",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0U0M3I0WmJqcm9ra3hMRmtRdmZOc0toSm5jems1UUlYcl9tSU9hRlBkYUJVZUpqdVllYUxHYjMtSTBJWTduOFhzdGpzOHFCUl9ldGVDNDE2RzBuLWVtcW9jSlkyaWlna3FEZ3BPVkF4cU9MWTIzZ04tR2VqTUQ5dE9YbURoemt6UVJYcmhBZ1lIMEhkemRXZjVaeE03S254Mm04TC1oY014UTBIamRzVHJzYw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar CM launches water metro service on Ganga river in Patna. A civic-infrastructure story. Covered by ET Infra and Prop News Time.",
-      "image": "images/bihar-cm-launches-water-metro-service-on-ganga-river-in-patn.jpg",
       "image_kind": "photo"
     },
     {
@@ -588,6 +571,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-cm-launches-water-metro-service-on-ganga-river-in-patn",
+      "headline": "Bihar CM launches water metro service on Ganga river in Patna - Prop News Time",
+      "summary": "",
+      "date": "2026-11-12",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Prop News Time",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0U0M3I0WmJqcm9ra3hMRmtRdmZOc0toSm5jems1UUlYcl9tSU9hRlBkYUJVZUpqdVllYUxHYjMtSTBJWTduOFhzdGpzOHFCUl9ldGVDNDE2RzBuLWVtcW9jSlkyaWlna3FEZ3BPVkF4cU9MWTIzZ04tR2VqTUQ5dE9YbURoemt6UVJYcmhBZ1lIMEhkemRXZjVaeE03S254Mm04TC1oY014UTBIamRzVHJzYw?oc=5"
+        },
+        {
+          "outlet": "ET Infra",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOXZOYmpMejMzS1NpZjJFTWJDS0JEVktkTDRRUW51M3BUQko3TnIyWDZkdzlBMlVzMExSbGdqVVBsQTdIMFBOVXRod0Y0ZUw5X3ozWkk0MmJya2VwUUZvZXlaUlB3eVY0LWNEZnIzODhhbFRzMVlzR2wzcWd0RndzRGtKMDB5VG9uMTJjbEZzY2NvZTJlUEJraTBCUnNaRkEyblNTZkpVRUVXc0M0amF0WWVRZ1ZKOTBkRFY5MmNTbjMzM211MnI1RU9GQVJwU2ZPY3RzNktQZ9IB2wFBVV95cUxOZUIwR3djVVpHeUhZZkZHNDV0U3hqQ2M5UFc4TlJjSHF2WWkxLVNqVXZQb3g3dEpsMzAzSjlDNFRoRlIwZGY5elQ3am1xc3drZ2RuWVBYOGhOTG9MUWlYWmlIa0doSno0b0VlTU9XdUw5UWlPaDlhbFZpY1ZOSFh1QVVoOUZvM0xycjNFOUdhY1pXM3MwbFI5ZDJPUVViVUM1YUhxVkFGSWNiTGRvbHJ0YVg0VHNhSlFJcmJnajVTbG5JVGNsU1cweTRDOW5UWWlnT1FqVnFwby1RWFE?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar CM launches water metro service on Ganga river in Patna. A civic-infrastructure story. Covered by Prop News Time and ET Infra.",
+      "image": "images/bihar-cm-launches-water-metro-service-on-ganga-river-in-patn.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bbose-bihar-board-exam-dates-out-at-website-check-class-10-1",
       "headline": "BBOSE Bihar board exam dates out at website; check class 10, 12 exam dates - Business Standard",
       "summary": "",
@@ -639,33 +649,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Patna Becomes India's Second City With Water Metro As Bihar CM Inaugurates Ganga Service At Rs 50 Fare. A civic-infrastructure story. Covered by The Times of India and Swarajya.",
       "image": "images/patna-becomes-india-s-second-city-with-water-metro-as-bihar-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-cabinet-clears-building-bylaws-with-deemed-map-approva",
-      "headline": "Bihar cabinet clears building bylaws with deemed map approval - Prop News Time",
-      "summary": "",
-      "date": "2026-11-11",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWS13WFVpOXhndmUxbkg4dS0tOXgzX3NtVTZBV3FVZ1JhU1p0MEp6N1ItNjFtdmlZZFFYNXRuSmZ2R2h1bm5JeGRWU2FNU2hTSUs4cUtOcDh4YWxVVkJGS1hLUkVydGNIOFJyYmxQX3R0aEhMZ25SRFpqRzQ4NHBXZ1I4MEhRcWNWUkpvN0dhRmI2Q3Y2b1dXR3g1c19BMHJ2OTJHRDZyeXRjUXZORjJuTUNQanNqbDE3QXI0N2x6T0hWMGpTWFp30gHMAUFVX3lxTE5lYm1RRmZVNHhxcVJENjR4MnduaHI4SHdMbzBkSkxxMzZyLXl3ZjZHNEh0RWNZZ1J2QnQtNnJON2JkQ05DTlNGNkFzTHhNR3pSbkxpQjhjR29wN3RKbGptcUkyUWx6anFXUDdJWEhpMFp5aUtNVWQxS21pNVNZcW9OZ2ZRcURrVURNUU5IQV9iNDdDMGNUYnZWcUFyS3Mta09SN0psOXdjU1BIU3BNWVk4ZDdGTjNaWkVlT0xrMk9OVXBCR1Fmd18tRG9wNg?oc=5"
-        },
-        {
-          "outlet": "Prop News Time",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEwzeXNiYWY3NTRaX2lYOXM1OXR6dzdNWnI3a1ppX3BtbWczUU9Wa2JfQ1d5QWdzT2pvcGxSNlQ2VnoyelFudUNkcThfVzFrMDRCYV9aOVZvdXFvcEVlbFFDcnl5TlN1TXVkeW5mOGhUel9RWWNwLXRlRTQ3TjFkcjY2aFZfb1NVVEI4bFA3TEstQngxc0xDRHlwa1R0REw3U0xFd0tuLWY2a29ELVMzYm1Odw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar cabinet clears building bylaws with deemed map approval. Covered by The Times of India and Prop News Time.",
-      "image": "images/bihar-cabinet-clears-building-bylaws-with-deemed-map-approva.jpg",
       "image_kind": "photo"
     },
     {
