@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13 05:54 UTC",
-  "generated_at_ist": "13 Nov 2026, 11:24 AM IST",
-  "story_count": 50,
+  "generated_at": "2026-11-13 06:54 UTC",
+  "generated_at_ist": "13 Nov 2026, 12:24 PM IST",
+  "story_count": 51,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -34,6 +34,80 @@
       "genuineness_label": "Verified",
       "brief": "Nitin Nabin visits Patlipul, Digha Ghat in Patna on Chhath Puja; says festival takes Bihar’s culture to global stage. A politics-related story. Covered by 3 outlets, including Asianet Newsable and DD News.",
       "image": "images/nitin-nabin-visits-patlipul-digha-ghat-in-patna-on-chhath-pu.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bengaluru-advocate-murder-case-prime-accused-arrested-in-bih",
+      "headline": "Bengaluru advocate murder case: Prime accused arrested in Bihar - Vartha Bharati",
+      "summary": "",
+      "date": "2026-11-13",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX3VoX2lKQ2VJUFNRWjlJWnp4Z1FXZEwtdDNvdTJ6NDVuLVY3STVFbVQ3UThOYW9vR0JJRnJpanpTU3JlVENoa1JwajRheEtfaHJub1owckZVS1k1aUFGT1JhUTNCVUJJUEc3WlM2YklJNzFIRXFTa3FRLWk1VXdCSWVsY3dnbXFtM3dSRXR1dXZVS1VQWU9yb1hHSHhpc0hzelV6RnNlRkk0eUlYbHhaZnNjNXgxWGs0OVFGNWtlOUNua1hnampoeFpzaGpIZw?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3RERFZkLW5GeV82UVJkeW9GM1pDYnRSbHdPdDZCQXAzMlFmV0JHR25LYjV5X1YybjZ6MGVZZkRRMEhpTHowcDBPOG9sNjl5Qm5Pak1JUS10R2w4TEh3T2Vvb3pmYVBfVDhTUWY1Zmh2Zk1yal9YbmRLeGFLX2g1MDF6clRzN2VET3A0Q1hVSEs4UmpDWWp2SkRTNzZsd3Qt0gGjAUFVX3lxTE9kZmREOFR6dG5IcVRtYVNZSDdqZU9VZmVEWjV4NjBsNEM5UEhJdlZCdjRoXzJLSDYzOEtBb3RPb1Y5YVA1U2dKWU9hMllTalBPUW5na0NGRVlzV0daMTBZaUwwNWVqX3E5ZUVkbDB5QlMta0RrX1V6ZFhEdXhFUWdOYURIeE9ycFd5MzNveEdLdUVjVDV5OXVGem01dVUyYjA3Y3M?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaktsRW1pUnZzMk9sWWFWR2ZxUlZBemtyenkwX1B2bnkzRkVSY3d6Zi1aYkZ1dHo5SS1ReDAxWS1aWFRUWjA4UGJVR1VlUGZpMEFxcXFHR2Qyb3J0RnFHbG4zVHVEWEM4NzNMNGlpT0YySXJjelNteGc0QlpPUmJaUUhHMGFoUm02cGVDUGdhbGZaejh5d3FJbVZ6TXdWQdIBoAFBVV95cUxNYUxxY0E4eHhRR1RnVC1ndl9FcUpodjMwbDZGeUNuclQySlA1Z215SEY4M2lmaHY5SFhGRnNad0VmN0kxQmxBcl8weWM3R1BGX3hRQ3ZOZ2lua0hLWXhSQVBqYjA3SXRRZXgzOVQwaWRWQVpZSm5TZHV2WDZ4WGNzeG1yNE5TVFJ0YWw4M29tVmtDY0I4TVdYYXV1cWZJZnEw?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeTR0cFdXd1BRQjB4UEdNX0w1SW9zaDNxZDU3SXdVc0xCMDNkY3drbUw3eC1IaElSM0pjeUJ5ak9iaDBEeS01OVZKeXQ4ZldOcXIzMjI4blphY28wUjlab2VleFRhUWtvNm5DYmZkOVBvU2dQeXlrTnhsVHdnV3hkNW9Vc3d6MWVGSXVfU1E2djPSAZYBQVVfeXFMT094eFRVNi03Smg0MWlvVkhQOGFjZmcxMDI1T0Z3QlQ5TjdJNXN5VGRsUW53SDg3RG5LWDFhc096c3hHMzhpc3k0LThvbGpndWVrd2pjWXJUTGRSQVV6TDI2eVJnVkpYYl96THNMNTE5LVNXZXIwYjhWMlJFbVNSbXFWbDVpN1NZcEwzMkc1OUUxcDJ0V2N3?oc=5"
+        },
+        {
+          "outlet": "Vartha Bharati",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlB1enhHZkRZU3NLWUlFMk9uVVdYVUxxbm5XeWFBWjhVZ3pPWlZpZmVydGRCV0ZoaGtOVU52MzdkVFJOcW1nUWM2c1h4dktOWlhBWk9jM0VwY3FiczZwMENrVTJUeWNPT3VOX3lsNkM2cFEzbnlSeDNpY25MYWs2RFJycEE0TTJQaVhuZmlsZllTYmFkbVRZa2VWVC1XYnNCNERLVXRkLUFRbkVNeVhrTmVuQdIBuAFBVV95cUxNelVXbTBDUEJuSzFucmJTZXBDcEtoUVVGOFFaUURQWkRYdnkxVm41NEV1MENyRUo0Ym95QlRxY1M4RUlROVJDWmFQUXdxT19MZ2N3TXVxcEVadlYxUm10VGlqWTNBQmw1WXp3cm1OZ0VNNFJudjZobjA5LXFLNnIzMmplTTg5bTZGZzZUMHRBRXJvRjlPaDE0YTlDWmZPakxremdkN0dadFhVNWE0Yk5SLXB6YmtwNTZR?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDYzZ3pVNUdDdU1pLThQcE1uaU1oZWxBUVQ1QmhkSWJzYnNCWS1OQVNOb3dselJQMkU0emZraWJ4NkxlNVVnMUVUN2lqdUVXUXVwUjlqeml0WDNRcVhFRG9sdmoweUIxaEMteWxQMmxfaTM4X2QxYlNTVGQzVWtjSS1SWXNteFVVU2Q0VjEtYjRrSDhWSmI2dzRRU1lZOU9VNGfSAacBQVVfeXFMTXBGT1ZZa2NKTXdiaFFWc1UtVjhBay1DdmliZ21Fd2hlTG9QQ1hNSnBJNUQwQ1U4akZqZE9YbWhWOW9ZbHR4N1lzeEV4aHpaYUhvVUFKb3M1bGJ3Y1FYRWZzc3d3cU01M2ZJcnUzRUpGS1JlLXNRZzBKYjhqTlNfMmRod0UxN1phOEc2RHlGMnYtaXhkYjBfWXBNUldGMWxYY3AteW0yR3c?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bengaluru advocate murder case: Prime accused arrested in Bihar. A crime-related story. Covered by 3 outlets, including Rediff and ThePrint.",
+      "image": "images/bengaluru-advocate-murder-case-prime-accused-arrested-in-bih.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "dainik-bhaskar",
+      "headline": "नितिन नवीन ने नहाय-खाय पर गंगा में लगाई डुबकी: बोले- चार दिनों का पर्व पूरे साल देता है ऊर्जा, न्यूयॉर्क-न्... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-11-13",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU0NyMjNHWXZtbmtIZ0pnSVNpMHVWejkxeXZSbmRjejJsUFo2c3lKRWFwaEhhYlpiTXQyVWhxUnM3NFpjeDZtQlB5UV9ZWnhKTExEbVRHODlCeFhsMmJ2S3Zzc0FsVkZIRVlqSkoyb1ZIVm5ZRUVGRmRzR0g4MXA2OHhONkU1X05GdE9RcWpGR0kyUHI3WHNILXlmeS1qdUI2aG41eDd5clRkRnp0SFdTOWlCakIyNHplMjk0LWUwLWVJc2ZvQlk4eDUyUVM2V1dyNXdSMUk3cFBQeGZTU0VVaGlB0gHnAUFVX3lxTE1KQWpOUDNPeXAzYWlqZzZnTGIyV3N5U055bm1RM1pQb2wwZlJpS093bTdPUGlmVVRxcHNkRFdMTG1OOHpITFlLbGVpYjJFTHVGUnhEdkhQZ19Gb3dqRDF1eldMeDdMM1VaMFJrRDh0TE5CVHBNX3F1UVFnY3FsQnRwMFNhTHREblpPd3M0a3BkOGZuakNZQk1jZjA4REpaMXNjdnRBclc4QUZVRFIyQkRSOXZJVk93QU5RaGREdjN6NVB2cWlWajRrdm5KVW1mbEpPQnRfcGFJVWZaSl9zeG55Nk5SblBjVQ?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOW9EZmlTUXQ0ZFBGN0E2TDFhbk1JX0xPa0toUGc3OGZhNGtlSngxeC1KZnBPVW50NWQ2SmJLZWttb2xhMk5ZcldmVWlwdWVLbEVrSkU2d2NjYXVKaDVmZ1BDWTltMW9DVFFRZ0gza3VkTEw3cGpRS056Q1dla2Zod2JiU1g4YkxnODVqZ2FHc0drMERZczFZbVcyWEJ6SHVrYkN4c3M4VjNBWGNMLXc4NWQ1WG0yaXFjOXF0VUxXWnB5QdIBxwFBVV95cUxQWTdvOXN5MWo4S2VCNXo0Nk1mWTktX3pWczdYejZOWG1KbE5hTVJWTE5SUVNMbjdSckZOR3dWdmpCSVB1YVUtRTViUE9vVnpWLW9Na01DcW1VT0d6ZmpGcUtfa1M2WGNPTV9XQmlzWGt3TTM0R3J0SFh0dVlQYzYzSHJsaFZValFYeGxldG52TGRtN1JLYTZfQVNidDdQSkZBd0c5Smc3X0N2azM5ZjJtVDNhcGRvQ0VFcWt3a1BwU3VwZDFpVTMw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "नितिन नवीन ने नहाय-खाय पर गंगा में लगाई डुबकी: बोले- चार दिनों का पर्व पूरे साल देता है ऊर्जा, न्यूयॉर्क-न्... इसे Navbharat Times और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -72,6 +146,33 @@
       "genuineness_label": "Verified",
       "brief": "Amrit Bharat Express 3.0: Indian Railways rolls out 1st AC version on Delhi-Patna route for Chhath rush. A crime-related story. Covered by 4 outlets, including Metro Rail News and Daily Pioneer.",
       "image": "images/amrit-bharat-express-3-0-indian-railways-rolls-out-1st-ac-ve.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-s-state-first-clean-city-award-a-proud-achievement-for",
+      "headline": "Patna's 'State First Clean City' award a proud achievement for Bihar: CM Samrat Choudhary - ANI News",
+      "summary": "",
+      "date": "2026-11-12",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "Inshorts",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMEJBRE1LeFNRWU9tRXY2UEhHZ0ZLNkNqaUhkaTlEblNMQnIzQTQ2dUszTG5VeDFEUUtPaG1NbUpJa2tEZVdhQkUxWHB3RjNHTTRPeV9Tb3lYUW1JVlJzZTVkUUpwa1lBbmR2bWRQRXlvOVNLaUJlZC03RmJOZ1J0cGg5cjJDVkRGTHpYaEtNRkFhS0lMbjh1YjhRTVd6bld3dmfSAacBQVVfeXFMUFh1Tk8wSlpFbXFLVHBKMjU1UnBrLVRFQVBjYXRaaUtCSlNMdC1ORFR6SHVxZjNWcFRfdDJfeTd6RWktSmxSb09QTHF1VkowdVpBUjFqcGhBRzBCN3NkdzZYeFBDb3NDcDFkTWtfMzFsZEZOaXRJS1JFLXlJQmV2WmhXcjZsWjV1bXZJMkY2OVVuQnVIeG5ndFA0Wm9RS05CcE84N21LZUE?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRS1nOXRNbC1JM1BvbFJPeHlzeC0wLVdoZzBfWmVPZGFESVBtdkh3ZWtGWTFCMWZkdTNucV9PUFZSQmtMejYyM2d5VXcwWHBVSDRjSlFaZHBSOEdzMTM1UFdsbTlRRE81NHNXX2JsRWZjTGsxMnVPTnlMZmswc2xPT2NOYXltU0R3Q2xSQm5LeWc0OUw2ZkdfMk9LU1FpcE01ZFpVZ0IwTURXaDhfRHhsT2pnT2dXUXoxeUxWRWx4U3Ewa0ZUbWlhdjllRnF0UU05LU42Q3ZQMW4zUnRpSG52bnQtTQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna's 'State First Clean City' award a proud achievement for Bihar: CM Samrat Choudhary. A crime-related story. Covered by Inshorts and ANI News.",
+      "image": "images/patna-s-state-first-clean-city-award-a-proud-achievement-for.jpg",
       "image_kind": "photo"
     },
     {
@@ -127,17 +228,12 @@
           "outlet": "Moneycontrol.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0REVnFMaWhRSkFobG9TbTczWHY3U2NXelpOVFZRQmwwOXVKVlE4WS02c0d1Wnc4dGRPQ3A5cmZMOTZXVnZqRFNOTkNmUHpjSm1SMDk5aUJWek8yTzRKSTU4bXFPNTRZMlo2eVREekNiSUozR0otTzJKNkk4WEFpeGFvcUtnNEp5TTE5RHh4QnYzYktlb3pqcDRaeWdQcjhYb2V5M1ZYd0QxUWZDWjhhVnllZjlDNVJOOUQxT0FtbS1UeVhZMHphMDYwdHBFUHdTdXdXOFdKRFZ4TEJrUk5j0gHkAUFVX3lxTFBIeVJPTFV0LVVva2NjTXEwZHo2bW1WcUhXeWc1WFJrQlR5UFdRSTV6VndxU1M5WElMNzJnZF82bFUwY1RXTDJNZHcxM1VSX2ZCVzVVQ0VMY2tXVjZ2R0VQamQyMkJ0T0FudC1BVHhYVFc2dmtGdEhmYkV4ZTNEWTVWVl9LRlBWVy1MU3ZNS3kzcm84WW8wQm1qNHJjVkpCaEo5eThhV0pRQ2I3cTdLOTRuWnllUk5MNjdnMDZDWmFfRjhGUFZISzZKNjVtYlVkSllNVFY1ZURTNGRmaW1mbzJmbHJYcQ?oc=5"
-        },
-        {
-          "outlet": "The Observer Post",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTBTVE5ySEhCRXVsTktSVnAwSk5PMV9qQ21nS2hDOVR6MkZOSXBuWG4temtOTHJSdzdxdTFVRzNpVUFjbXJyWGhmRVNVN2pfbG11d2NhaE1jMFBaeDNMRFcxcC1DTWZjUVVTaFg0QXllbDAyb3B0aUVVZ0dLbG5uNHRDNGdhdUFNUGQzS0RYWEJYYmpMeDRNam5oRHdqVGFTcVUxem8tZlI1T3QwdGpTSTFKYlNxQQ?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar gang-rape survivor's ordeal far from over; thrown off rooftop of her house months after assault. A crime-related story. Covered by 8 outlets, including The Times of India and The Hindu.",
+      "brief": "Bihar gang-rape survivor's ordeal far from over; thrown off rooftop of her house months after assault. A crime-related story. Covered by 7 outlets, including The Times of India and The Hindu.",
       "image": "images/bihar-gang-rape-survivor-s-ordeal-far-from-over-thrown-off-r.jpg",
       "image_kind": "photo"
     },
@@ -378,48 +474,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bengaluru-advocate-murder-case-prime-accused-arrested-in-bih",
-      "headline": "Bengaluru advocate murder case: Prime accused arrested in Bihar - Vartha Bharati",
-      "summary": "",
-      "date": "2026-11-12",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX3VoX2lKQ2VJUFNRWjlJWnp4Z1FXZEwtdDNvdTJ6NDVuLVY3STVFbVQ3UThOYW9vR0JJRnJpanpTU3JlVENoa1JwajRheEtfaHJub1owckZVS1k1aUFGT1JhUTNCVUJJUEc3WlM2YklJNzFIRXFTa3FRLWk1VXdCSWVsY3dnbXFtM3dSRXR1dXZVS1VQWU9yb1hHSHhpc0hzelV6RnNlRkk0eUlYbHhaZnNjNXgxWGs0OVFGNWtlOUNua1hnampoeFpzaGpIZw?oc=5"
-        },
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3RERFZkLW5GeV82UVJkeW9GM1pDYnRSbHdPdDZCQXAzMlFmV0JHR25LYjV5X1YybjZ6MGVZZkRRMEhpTHowcDBPOG9sNjl5Qm5Pak1JUS10R2w4TEh3T2Vvb3pmYVBfVDhTUWY1Zmh2Zk1yal9YbmRLeGFLX2g1MDF6clRzN2VET3A0Q1hVSEs4UmpDWWp2SkRTNzZsd3Qt0gGjAUFVX3lxTE9kZmREOFR6dG5IcVRtYVNZSDdqZU9VZmVEWjV4NjBsNEM5UEhJdlZCdjRoXzJLSDYzOEtBb3RPb1Y5YVA1U2dKWU9hMllTalBPUW5na0NGRVlzV0daMTBZaUwwNWVqX3E5ZUVkbDB5QlMta0RrX1V6ZFhEdXhFUWdOYURIeE9ycFd5MzNveEdLdUVjVDV5OXVGem01dVUyYjA3Y3M?oc=5"
-        },
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaktsRW1pUnZzMk9sWWFWR2ZxUlZBemtyenkwX1B2bnkzRkVSY3d6Zi1aYkZ1dHo5SS1ReDAxWS1aWFRUWjA4UGJVR1VlUGZpMEFxcXFHR2Qyb3J0RnFHbG4zVHVEWEM4NzNMNGlpT0YySXJjelNteGc0QlpPUmJaUUhHMGFoUm02cGVDUGdhbGZaejh5d3FJbVZ6TXdWQdIBoAFBVV95cUxNYUxxY0E4eHhRR1RnVC1ndl9FcUpodjMwbDZGeUNuclQySlA1Z215SEY4M2lmaHY5SFhGRnNad0VmN0kxQmxBcl8weWM3R1BGX3hRQ3ZOZ2lua0hLWXhSQVBqYjA3SXRRZXgzOVQwaWRWQVpZSm5TZHV2WDZ4WGNzeG1yNE5TVFJ0YWw4M29tVmtDY0I4TVdYYXV1cWZJZnEw?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeTR0cFdXd1BRQjB4UEdNX0w1SW9zaDNxZDU3SXdVc0xCMDNkY3drbUw3eC1IaElSM0pjeUJ5ak9iaDBEeS01OVZKeXQ4ZldOcXIzMjI4blphY28wUjlab2VleFRhUWtvNm5DYmZkOVBvU2dQeXlrTnhsVHdnV3hkNW9Vc3d6MWVGSXVfU1E2djPSAZYBQVVfeXFMT094eFRVNi03Smg0MWlvVkhQOGFjZmcxMDI1T0Z3QlQ5TjdJNXN5VGRsUW53SDg3RG5LWDFhc096c3hHMzhpc3k0LThvbGpndWVrd2pjWXJUTGRSQVV6TDI2eVJnVkpYYl96THNMNTE5LVNXZXIwYjhWMlJFbVNSbXFWbDVpN1NZcEwzMkc1OUUxcDJ0V2N3?oc=5"
-        },
-        {
-          "outlet": "Vartha Bharati",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlB1enhHZkRZU3NLWUlFMk9uVVdYVUxxbm5XeWFBWjhVZ3pPWlZpZmVydGRCV0ZoaGtOVU52MzdkVFJOcW1nUWM2c1h4dktOWlhBWk9jM0VwY3FiczZwMENrVTJUeWNPT3VOX3lsNkM2cFEzbnlSeDNpY25MYWs2RFJycEE0TTJQaVhuZmlsZllTYmFkbVRZa2VWVC1XYnNCNERLVXRkLUFRbkVNeVhrTmVuQdIBuAFBVV95cUxNelVXbTBDUEJuSzFucmJTZXBDcEtoUVVGOFFaUURQWkRYdnkxVm41NEV1MENyRUo0Ym95QlRxY1M4RUlROVJDWmFQUXdxT19MZ2N3TXVxcEVadlYxUm10VGlqWTNBQmw1WXp3cm1OZ0VNNFJudjZobjA5LXFLNnIzMmplTTg5bTZGZzZUMHRBRXJvRjlPaDE0YTlDWmZPakxremdkN0dadFhVNWE0Yk5SLXB6YmtwNTZR?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bengaluru advocate murder case: Prime accused arrested in Bihar. A crime-related story. Covered by 3 outlets, including Rediff and ThePrint.",
-      "image": "images/bengaluru-advocate-murder-case-prime-accused-arrested-in-bih.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-s-big-fat-wedding-anant-singh-gifts-daughter-a-3-crore",
       "headline": "Bihar's Big Fat Wedding: Anant Singh Gifts Daughter a ₹3 Crore Defender, BMW & Horse Race - Business Today",
       "summary": "",
@@ -448,35 +502,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-to-host-convention-in-january-to-draw-up-roadmap-for-s",
-      "headline": "Bihar to host convention in January to draw up roadmap for state's development - The Hindu",
-      "summary": "",
-      "date": "2026-11-12",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkJrcmdsR3RTQ0F0X1lkc3pURlhXWmhscklMRXlRQ09RekdRT1FPdlpMam1UQVFEWnJfQnVuTEo4VmRNeUhCbnJOd2hOaEZlc3BqNjZSNFFNTGY4NTFUbGRxN2VucXZ2N1UyVXdGSTB5RUx1T0EzY083NjZqSGJZMVJyUUZZVWNvcDZrM0NHOExQMk8tRTV2Z2JFLTlsY1N0d3BXSkh0MS1wY3NqZk5DNW5pREFJeXF0MUVvcFZJYmJVVTZLeEh1UldySlYwZG1sbGhSVlpCSUFOd9IB4AFBVV95cUxPTld3dXBPRUNwYy1SRmhDS01pMHFHWWZWaGM3RU5ySmtPS0dZbDczTGxCejNwM3RHTUtNMklzQ0Ixa0dDN3hGWnhKVkIwc0xMQTdndjlUaFVkNHZ1clFZTTBSWHVBR202V0NuY0JSWHUyS1dlMnN1bXZINHl2SWNPRXZ4WVA2RWZGbGVua2Rib1VtaGx2elY0RGJ5Q2JfVHVRdjZ6NkpkOV9ZZUdLWThWbW9JTFhGNzFGNm5EQW9KM1l1U2VYM1piaGRXcWFZb3ZHMmg4Y2RYUjBwemJUaFNhMQ?oc=5"
-        },
-        {
-          "outlet": "Prop News Time",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlc5Q1gtWjc0ZUdhRlM1LXozOUNmMDNLUUJyZ0sxb0N2RzhTMVJGODhBa2lacnFfOFJMMElJcDJqLVN4NVkyd0gxcHBuSkFPUkYtdERyS3VUTXk3ZDNtWXh2UTVlOU5XYkxzZ2REWjlaczZjRzI0cDZ4S21PQk04QklmaVZFXzJOeGFBdUg1SW9yOUNDYjBqUUtxVm5uS3FZVUJoYmdvei1rejU3NHFpYndnNTN5Zw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar to host convention in January to draw up roadmap for state's development. A civic-infrastructure story. Covered by The Hindu and Prop News Time.",
-      "image": "images/bihar-to-host-convention-in-january-to-draw-up-roadmap-for-s.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "story",
-      "headline": "बिहार पटना के मोकामा में कुएं से दो बच्चों के शव बरामद, अन्य शवों की आशंका से तलाशी अभियान जारी - दैनिक भास्कर हिन्दी",
+      "id": "dainik-bhaskar-028df6",
+      "headline": "पटना- गेस्ट हाउस में युवक की संदिग्ध मौत: कमरे में मिला शव; गले में गमछा लिपटा हुआ था, बॉडी फर्श पर पड़ी थी - Dainik Bhaskar",
       "summary": "",
       "date": "2026-11-12",
       "topics": [
@@ -484,26 +511,21 @@
       ],
       "sources": [
         {
-          "outlet": "दैनिक भास्कर हिन्दी",
+          "outlet": "Amar Ujala",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQXzZDVlMxS2dfLVdqX3o4QVJfaWNjZXEzR3NWYV9zQXhRWWFjNWdSU0c4VmphTVgtMlZYYjNHeG0zLUxLT25BaE5VQ0JkMlRXRW83bUxrb3QxWl8ydF91N0lYbVhScGkycFN2MHVpYzFfQzFOdmJUb0l0OHg4R3JYejNHYzR6UUtEWFU0MFRKaXM2akpydXRnWUdjbGlaa25aVDNYbUI0ZG1LWmxWNk9oMGNZVU9HNmMzLTF4ZHZEUU5sRjZQdWNaaTR6QlFtSzMwQUNDdlFKRWZBVVc1eEd5T2t3ekhRdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa3VrQzh3c3Y1enNpa3lHLTc3MGZUYTJVRDhDUDlPbW5rcWYwUVVZM0ZQSUNvaTJ1bkttN2xhb1h0a1M0MnVUSU5KU2h1ZlpDSHJWSVZmUDlkN19IZ0c5Vk1JNXRsdHFQdWlVak1TdURtM2VkRjhIelRrTENFeEJCb29WNVJWdWpWbDRBZmdibzVycDFPNUVDSEctaWlZMGdHa1g0QjdEekVQc0hBSTIxVVNQa1JyelQ4YXFIRzFtclNPRzVNVG1ma2FGeGEyd1BmZkF3bDNBdVF0OXhNM01UaEt30gHnAUFVX3lxTE1QRnZGYUlsZDdfUHRoTmpTQlZGb3V2U0sxRXhsLUpwai04Z3NmeGhBbFROQ0lOd2xPcVdnYlFEZ3hORjNpelRMS3QwUzM3QkFhd1RrREs2NDdZb2tkRG1Wa0JWek5tLWM5UERWZHlpR3VwMm56a09yZWxiUDU2cGF3SXd4ZFlncmdmMEk0U05RWHkzcUdoVVlxbExnUGc3NUpIN0RfcEc1QjVmRXZmeFpUQmhySHdyQzBHeHlRVWQzeEc1UF9EQTJ4S2pqSW02cEZqZXA4M01nSTZScGtQTVk5N1gxRXp3cw?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTJTdXRDekhFR1hDRjFhTXE3Mkw5N2U1NEp1OVlkc0k4a1JCWThSZ2VpNkxfdEtiQ3F2dF95elM4UXRKaW1hWUZjN0ExaW5SVGpIaEo2UUd5ZDlpbHFnZzY0M3VtalY5QnNQS1pPQUc3cmlRM3dNQ2RCTlBvZWdZR0ZnanR6SkREZEI3alBrMzdMb2ZRMjVYbWNnWWhJS2Jwa1lTTG94dkNMODNwVWc?oc=5"
-        },
-        {
-          "outlet": "ThePrint Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVm9TUnduajhFaXZMMWREa2pDdUNfeGRNUWtPSENmN3Y1c0huOGRMdkM3WmhuYmdCQ0NIQzBrZlE5aHhENXowbS15b0NJYTdaS2g3SC1Yc1pMUVRjbmhQWEdkN0J3SXp0MGM5Q1ZmOWR4SlpBbHV3YkFReThtUHdIaW5qTEJEeWNyRDliNGI4U3c5dW82WjJuS0w4OGZmd05zS3Jyc0wzZy1KM0NuUzZQR1FrM1dnWnBCR011X1ZmVkPSAcYBQVVfeXFMUFRwTlpNc19ZVENLUWlYU0JYanlTM01hZ3FBMjlhY1VNUXVhNlRhSjl2RXlzeDRhOVpKVjl2cGl2Wm1SZktzejd3NmZBSWIzeV9nX2YyNVl3X2NScTNueVlTQnM2VXlDM0ZZeGJ4VWVQOUJicTg0UHVWRW41NDljZHBYTUsyb2ZNY2VwYU9qVFRvZDg4NW5nbHFZMXNGNWtjTGhxdzRUeHBZYWhtbkZYV2s1ZHlSeGQxMUJTTGxqYW1VaDlqZW53?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFRTODhFS1p4WWtkRVZXcm5kaEJKSHFkdjZhMzdiYVhNbzVzR0hFNWdXVXktUjllUzc4MlJRYjZ1UjJsdG5LOHZuUXotcDllZVJNMWpwZ09zSENjZ3kzMGJLSXl1cGZKZldIamwybjRGb0JuZWcyN3NjQndsTzZ1WFgwQlBrSFc2cmFIU18zSmU1SzhqbmhCVndfUFNVTGxsS2dWaUFpaEhfeGZmVWRDbXhwVkRXWmFFVUFEStIBwgFBVV95cUxNbU82S0RFOWZGRldmVF9XMVJjQ0NLMEN3SUw1LS0yMGxYLTdyd0k5R19jbGhOYWt5OWR6d01KbUJOOGd3NHF1bldRQlV2QTRBNzlmbFY2WkxjQmI4SUZxVkRCeHp5U09XYkEzd0NwbFRiWHlkNm9GOG1hMjZsN0xpa2xqMEhtNTkyYmwzRllETVl6ckc2eTR4ckUyZWMwV3JGZTZveWhzSkwwY1ctQ3d5RXQzM09YSTNTcFUwM2x0ei1Kdw?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "बिहार पटना के मोकामा में कुएं से दो बच्चों के शव बरामद, अन्य शवों की आशंका से तलाशी अभियान जारी - दैनिक भास्कर हिन्दी। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें दैनिक भास्कर हिन्दी और Prabhat Khabar शामिल हैं।",
-      "image": "images/story.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना- गेस्ट हाउस में युवक की संदिग्ध मौत: कमरे में मिला शव; गले में गमछा लिपटा हुआ था, बॉडी फर्श पर पड़ी थी। इसे Amar Ujala और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/dainik-bhaskar-028df6.jpg",
       "image_kind": "photo"
     },
     {
@@ -516,14 +538,14 @@
       ],
       "sources": [
         {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTmVndHVPNkVoeW1pSFh5dWFIaEN2MkpTWEVzUWg1SmVSdDFpLUlyZUdPOHZGQWN0N2VhMDBreFhMcG05NzQ4M1BibGJmQUdSUDMtS2N4U1hocG0yNFQ2OVZFM2tGd1ZodnI3a0hFRmlHSm1tODdaOG1jQUpaclRKWG4wbWJENnFhckIzM2o4S05Qb0MwT3RUY3M4T0hNdkJKNko5TGJPQk9JQmxTeUlNaENsZTRYZnBUbXFCTDRNejBkRXlvNkl2eEQ3MEI3RE5NVXh5YklfOFZoUkxEaDdsb3JoeEIzQQ?oc=5"
-        },
-        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUhuZnV6amJQUElzTVNjRTNuNWk1M1pRUzd4alVCUzVERHJRVkpZTVlIOVo4SzdoNWtkWmdyVEkyWWdfRVlaQlE3d0NIMHIwTlFNemhzb040OUlVRi16ZGpabFp6WklZdUpWRWtSVWhjRmJybC11R2pZWUdNMFJBTVNJSUV6TWlDcDh3VlBKaDFqYjcyZHVBSFFrTG5GV2lUZHBOREJqMUNuV0liaFFMNUJzZnlGYVAxLTlHUlZ3?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTmVndHVPNkVoeW1pSFh5dWFIaEN2MkpTWEVzUWg1SmVSdDFpLUlyZUdPOHZGQWN0N2VhMDBreFhMcG05NzQ4M1BibGJmQUdSUDMtS2N4U1hocG0yNFQ2OVZFM2tGd1ZodnI3a0hFRmlHSm1tODdaOG1jQUpaclRKWG4wbWJENnFhckIzM2o4S05Qb0MwT3RUY3M4T0hNdkJKNko5TGJPQk9JQmxTeUlNaENsZTRYZnBUbXFCTDRNejBkRXlvNkl2eEQ3MEI3RE5NVXh5YklfOFZoUkxEaDdsb3JoeEIzQQ?oc=5"
         },
         {
           "outlet": "ABP News",
@@ -534,7 +556,7 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "छठ पर यात्रियों को रेलवे का तोहफा, दिल्ली से पटना के लिए रवाना हुई पहली 'अमृत भारत 3.0' ट्रेन; क्या है खासियत? इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Amar Ujala और Jagran शामिल हैं।",
+      "brief": "छठ पर यात्रियों को रेलवे का तोहफा, दिल्ली से पटना के लिए रवाना हुई पहली 'अमृत भारत 3.0' ट्रेन; क्या है खासियत? इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और Amar Ujala शामिल हैं।",
       "image": "images/3-0-jagran.jpg",
       "image_kind": "photo"
     },
