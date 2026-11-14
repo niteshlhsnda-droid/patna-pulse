@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14 15:54 UTC",
-  "generated_at_ist": "14 Nov 2026, 09:24 PM IST",
+  "generated_at": "2026-11-14 16:55 UTC",
+  "generated_at_ist": "14 Nov 2026, 10:25 PM IST",
   "story_count": 45,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -34,6 +34,34 @@
       "genuineness_label": "Verified",
       "brief": "Patna Becomes India's Second City With Water Metro As Bihar CM Inaugurates Ganga Service At Rs 50 Fare. A civic-infrastructure story. Covered by 3 outlets, including NDTV and The Times of India.",
       "image": "images/patna-becomes-india-s-second-city-with-water-metro-as-bihar-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "1-09-lakh-mule-accounts-identified-across-bihar-patna-tops-l",
+      "headline": "1.09 lakh mule accounts identified across Bihar; Patna tops list | Hindustan Times - Hindustan Times",
+      "summary": "",
+      "date": "2026-11-14",
+      "topics": [
+        "crime",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFBqVE5TNkNDQi1nZnVHOE5Sd0pXNjFCdVFkeU1XNzBNcmJub0FmSHVxQ0pOaVlDdXRWeXFBdFhwOHM5TGlfZTduVldQeFVURWxZcG0tZktyYkNybzBaUzJEOEplOTBaUEw3UGZYYnRJb1k5MXJYOHphSVBjV3I3MXlVbHZUcjVfMnByTk8tUlNUbFR1SlgtU0c4OVlzZ1ptdzVnUndtc0JIZGJzc0tnaXFoS09BSkV3eDhzU29NWGtRcFdKaEQ1RkhXM1DSAdIBQVVfeXFMTWQycVZpSlpOUUl0ZHRURENFR3lxcUttV0tkUlBqMy1FTm5id05OY1RjYzhuRUctT1JoektSSmdqaGdBeUhyNUJmbFl0bHlyTnVrVzhDdmN4R2h5TFFkTllpOThwVVI0dGdzNHlvV3IxWjdFMG9WMjVvNkYyUHZ1UkFublpudkRJMXZyaG9ZblBiV3dwMXFuRVkxLUw3MEVmVjdsN3JFY0dmRldLRDB3Z29ZZDhheHlsVWFXcTZFYkFxdDd6bWxmcENCODI5S3lGSGtB?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0dqMFZid1RiZ2hLODNsQmcyZ1FVTXMtOEhQcm1CY3VuWEExZWptNmhMclN3RFBZamtkSjRHcldMRHJxSFRDVWRmcWl2X0lhZElJSzRkay1DU283QWhWVTFhTklUaldrSV9VSHBEN0FFWWE1OU9QOC01M0Vac2E1UmNtS1o1WHNzRFFZMUZIWjlSS0NDV2Q2UENOQjdzUXRVMFhuemZHUGpWLTRxdGk5bWNuSzN5S2NkTzJqdy1mVm95R3BGM1pWemk0N2F6dTTSAdYBQVVfeXFMUHl6ZUQzdzUyQzdXamtyTGNwcWhUSW8tMlFBcWRhX01XV2NXeUkzWEdOZW9JWURLQktVM3IxbXBIUHMtLXJTTVYtV0hQb0dGdXJwZndwbnBxa2RwaEg0Z1hDOWcwWGd6YXRURkRWNkJyMFJvSURVZ01JeFpPVlVqUVJNU3hXRXJUS0I3RmprdU0teU9vRlBzMFlZZWF1Y2NOM1RmT1FwLTBqYWhpMjA0QXcwaEk5YjhEbDBxa20zazFsalZGbktiTW9fblpLMHdMbXpkSG5JUQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "1.09 lakh mule accounts identified across Bihar; Patna tops list. A crime-related story. Covered by Hindustan Times and The Hindu.",
+      "image": "images/1-09-lakh-mule-accounts-identified-across-bihar-patna-tops-l.jpg",
       "image_kind": "photo"
     },
     {
@@ -89,34 +117,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "1-09-lakh-mule-accounts-identified-across-bihar-patna-tops-l",
-      "headline": "1.09 lakh mule accounts identified across Bihar; Patna tops list | Hindustan Times - Hindustan Times",
-      "summary": "",
-      "date": "2026-11-14",
-      "topics": [
-        "crime",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFBqVE5TNkNDQi1nZnVHOE5Sd0pXNjFCdVFkeU1XNzBNcmJub0FmSHVxQ0pOaVlDdXRWeXFBdFhwOHM5TGlfZTduVldQeFVURWxZcG0tZktyYkNybzBaUzJEOEplOTBaUEw3UGZYYnRJb1k5MXJYOHphSVBjV3I3MXlVbHZUcjVfMnByTk8tUlNUbFR1SlgtU0c4OVlzZ1ptdzVnUndtc0JIZGJzc0tnaXFoS09BSkV3eDhzU29NWGtRcFdKaEQ1RkhXM1DSAdIBQVVfeXFMTWQycVZpSlpOUUl0ZHRURENFR3lxcUttV0tkUlBqMy1FTm5id05OY1RjYzhuRUctT1JoektSSmdqaGdBeUhyNUJmbFl0bHlyTnVrVzhDdmN4R2h5TFFkTllpOThwVVI0dGdzNHlvV3IxWjdFMG9WMjVvNkYyUHZ1UkFublpudkRJMXZyaG9ZblBiV3dwMXFuRVkxLUw3MEVmVjdsN3JFY0dmRldLRDB3Z29ZZDhheHlsVWFXcTZFYkFxdDd6bWxmcENCODI5S3lGSGtB?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0dqMFZid1RiZ2hLODNsQmcyZ1FVTXMtOEhQcm1CY3VuWEExZWptNmhMclN3RFBZamtkSjRHcldMRHJxSFRDVWRmcWl2X0lhZElJSzRkay1DU283QWhWVTFhTklUaldrSV9VSHBEN0FFWWE1OU9QOC01M0Vac2E1UmNtS1o1WHNzRFFZMUZIWjlSS0NDV2Q2UENOQjdzUXRVMFhuemZHUGpWLTRxdGk5bWNuSzN5S2NkTzJqdy1mVm95R3BGM1pWemk0N2F6dTTSAdYBQVVfeXFMUHl6ZUQzdzUyQzdXamtyTGNwcWhUSW8tMlFBcWRhX01XV2NXeUkzWEdOZW9JWURLQktVM3IxbXBIUHMtLXJTTVYtV0hQb0dGdXJwZndwbnBxa2RwaEg0Z1hDOWcwWGd6YXRURkRWNkJyMFJvSURVZ01JeFpPVlVqUVJNU3hXRXJUS0I3RmprdU0teU9vRlBzMFlZZWF1Y2NOM1RmT1FwLTBqYWhpMjA0QXcwaEk5YjhEbDBxa20zazFsalZGbktiTW9fblpLMHdMbXpkSG5JUQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "1.09 lakh mule accounts identified across Bihar; Patna tops list. A crime-related story. Covered by Hindustan Times and The Hindu.",
-      "image": "images/1-09-lakh-mule-accounts-identified-across-bihar-patna-tops-l.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "akshara-singh-celebrates-chhath-puja-with-family-in-patna-pr",
       "headline": "Akshara Singh celebrates Chhath Puja with family in Patna, prepares Kharna prasad - ANI News",
       "summary": "",
@@ -154,6 +154,38 @@
       "image_kind": "photo"
     },
     {
+      "id": "vaibhav-sooryavanshi-score-today-in-bihar-vs-saurashtra-smat",
+      "headline": "Vaibhav Sooryavanshi score today in Bihar vs. Saurashtra SMAT 2026 match as he becomes youngest T20 captain - Sporting News",
+      "summary": "",
+      "date": "2026-11-14",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Telegraph India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnpVdUd3OTRUOS1XdW10M3c4YkZ6SzRBaUp3a2kyWm9TVXF3V3VidU9hdUZTeTlTTGRjanpsRkNHVHFaTENKSXVzNnltQ3R6R1FvUGNFcU01UmZMWXJxMFBpdEVVSWtNVmZIYnB1YmF5a3hRZnVzSU9iUkRJcjZjOUhLMFVmMVRkeHo4MFF3M1dPV2E2cnREMVpRaWZrUUdqaks4b1phVW03OHpwaUM5b1lvb2dwa1pQVFhFMFNJTDEyUzlQV0pBUnl6dlhrWHfSAdQBQVVfeXFMTVBRZWxWTV9wZ1hHeUF0emFLYTRzMWVDOHYxTjFvTXAySklVRDFCT1dmZUt5YjQ2TjJxRVY2OHR2TVBkMF9IUnRaSlVFVjlCTGIwTy0tMXFVakhGSXc2TFJWbi1uaXQ4MkhDYXJiZFc2Y2VrMUFHdHVpbU1IUWg1VHZhUVVsSVRpc3JpUmVJVzZQS25ISmNJVEoyNXVwOVA4Sl8yYzVHeEhBRnFuUnJTdUN2R0RJTEZib3F0NTVJWjNEcml3NWs1Q090a2FLOTRyRTN0U2k?oc=5"
+        },
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY25NelNqc0ZBbGRjRDhsYVo2dVIwR3pmeGZ2cUg1Z0VicWNFRW5PZS1mZjl3MnZnSHc1eE1zbFZMOGJac3VRei1SRWkzcmFsOUdjajZwZzFhTGxuV0Y0bndEVFUyb2FzWXozc0cyTnpnY0Z1Qi1mQjJNLTFHc0ZwT1dybUpidU1sQVJ5Z0NZenU4RG52Tm5OckM2bHhRODNlanV4SW81VnVzTmtEaERpYVpiSzFRRzY0R0NNd3p0WGF6c2UzNjhxc3BadVpCakY3a0lqZtIB2wFBVV95cUxOZDdZTjlGUlBnVm5tc2gzVUtUTXJ6NVh1TmJSaUlCTG5hZzRtNnBVYXV1N2VfZ1duaXdZOEFyWWRSbkY2S2w3T0lwakFIeDlwblMtak12cG0tUWg0TGFxQW1SV0FkVmJ0THh3eloyc25xZEFwOWdDTmMwN09UdzNTd0o1bzRNWGVVZW15NU9tbThuUkNvYVhvelMzeHNmelRIZk05YXV1dlRLbWhod2pHQVdmMlgyNmloVGRnTlUycF91bnUyR1VVRXFmLVozY2ZQeTduMzVZUEdVVEU?oc=5"
+        },
+        {
+          "outlet": "Sporting News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYUR1b0tBQXA5ekE4QnF4M0VtOVR3cUxuRTlEdDJHcGtjRFNWekFwUURUZkR6eDhLeEpWdkxRZmhkclBKb3FVNTYteFRvT0NxUXBGQkp2RWF3T09vS2ZEOEhpSk5mVF9rMzM0Z2lyTVMxeFk2WjlQQjVYcngyNVhJQTVJQjJLWEtMQXd1ZjdVenJEMlJLZWpfa1plOExCT2I2UDBjbFpIS2tKRUxDNGxib0VneHh0UHNFMkpOa1UyaDhTYUstVS1kN2lvVjlET21VUVhoajBNOEhQRUl6N2VwUkFjd3g?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Vaibhav Sooryavanshi score today in Bihar vs. Saurashtra SMAT 2026 match as he becomes youngest T20 captain. Covered by 3 outlets, including Telegraph India and The Indian Express.",
+      "image": "images/vaibhav-sooryavanshi-score-today-in-bihar-vs-saurashtra-smat.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "japanese-woman-celebrates-chhath-in-bihar-sings-folk-songs-t",
       "headline": "Japanese woman celebrates Chhath in Bihar, sings folk songs | To watch her sing folk songs | Inshorts - Inshorts",
       "summary": "",
@@ -163,20 +195,20 @@
       ],
       "sources": [
         {
-          "outlet": "Inshorts",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmI0azkwSk80LVBoXzRSWGJsdVlxNlF5VTFCWEZiQnVoaFJRQXNsOGFRTFdMNTdUeDRkd2lxaE5xN1JxbjY4TEFWaS1USVQwQzRqS2s4SFBZV0xnYU04anpsLWhTZmMwc1RiYjdxS2VUSG9vWlNXWnhRdWllWjBiR0dyeERtYU9pRkVsODdkbzJFajZSQlpGNnJ0WV9zNF9OYXpGX9IBqgFBVV95cUxOSkJ2S3ZZVnh1c2pKSF9LOTdIdFFpUVNGVnQxUE02MXNRdWx3b05TODRZWEFFX0NlRDl3SndpVzRNMFhjTzhkcU5rM3M1YzB6YkZPU1RGV3NhWlczdUxYcXhxdVlrYmlWRnR2MUhjaUM0OUNadDltd1NNamx3UEJNekpTSUhXLXlVQW1VaWREWFNQYlg1OUVicUNtRU1lZ01vM3h5dnBodnVlUQ?oc=5"
-        },
-        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUFBWTVOVWVCdUQyZVk0YkoyWWJYY1BXNF9ZWnJ6NXowUG9zQ2hPMHBOYmlJRnN4dmtpaUlKTjlXRFVsZmVvUm1ObWRMVUlBclFVb1RZbmIwQzdlcHpkMVJpbTUtUjdpeC1VMlRvUDd5VlFUQUVRRFdwWXdJeWEydTN4WjlXVXg0OWNOX0RXMVAwUTVWVkNGZzNTRm9pSjZKNzMwdmxjWURVeVlUY1HSAbYBQVVfeXFMUGpodWFCVzJiYlU4OWVTODEzNFhIRlFnRjQ1blRXanh1LThJQkVBQm5lYWp6M2o4WWdlcVYwMVdya3Uzc2RZTHlpRHNRRlBfcFlGTXhoclJkZExvblYzRkpVNVRLUTdDT1hQb2VJcjN0R3Q3TWZKel9RWGRMRV9WUU9mWndWQTFtRGE0WlBrWlVxbVlTT1YyOTVpSlEyenVjaWtqaTNqNHM5OWJteWF0MnAyLWFmbHc?oc=5"
+        },
+        {
+          "outlet": "Inshorts",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmI0azkwSk80LVBoXzRSWGJsdVlxNlF5VTFCWEZiQnVoaFJRQXNsOGFRTFdMNTdUeDRkd2lxaE5xN1JxbjY4TEFWaS1USVQwQzRqS2s4SFBZV0xnYU04anpsLWhTZmMwc1RiYjdxS2VUSG9vWlNXWnhRdWllWjBiR0dyeERtYU9pRkVsODdkbzJFajZSQlpGNnJ0WV9zNF9OYXpGX9IBqgFBVV95cUxOSkJ2S3ZZVnh1c2pKSF9LOTdIdFFpUVNGVnQxUE02MXNRdWx3b05TODRZWEFFX0NlRDl3SndpVzRNMFhjTzhkcU5rM3M1YzB6YkZPU1RGV3NhWlczdUxYcXhxdVlrYmlWRnR2MUhjaUM0OUNadDltd1NNamx3UEJNekpTSUhXLXlVQW1VaWREWFNQYlg1OUVicUNtRU1lZ01vM3h5dnBodnVlUQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Japanese woman celebrates Chhath in Bihar, sings folk songs | To watch her sing folk songs. Covered by Inshorts and NDTV.",
+      "brief": "Japanese woman celebrates Chhath in Bihar, sings folk songs | To watch her sing folk songs. Covered by NDTV and Inshorts.",
       "image": "images/japanese-woman-celebrates-chhath-in-bihar-sings-folk-songs-t.jpg",
       "image_kind": "photo"
     },
@@ -208,65 +240,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "vaibhav-sooryavanshi-score-today-in-bihar-vs-saurashtra-smat",
-      "headline": "Vaibhav Sooryavanshi score today in Bihar vs. Saurashtra SMAT 2026 match as he becomes youngest T20 captain - Sporting News",
-      "summary": "",
-      "date": "2026-11-14",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY25NelNqc0ZBbGRjRDhsYVo2dVIwR3pmeGZ2cUg1Z0VicWNFRW5PZS1mZjl3MnZnSHc1eE1zbFZMOGJac3VRei1SRWkzcmFsOUdjajZwZzFhTGxuV0Y0bndEVFUyb2FzWXozc0cyTnpnY0Z1Qi1mQjJNLTFHc0ZwT1dybUpidU1sQVJ5Z0NZenU4RG52Tm5OckM2bHhRODNlanV4SW81VnVzTmtEaERpYVpiSzFRRzY0R0NNd3p0WGF6c2UzNjhxc3BadVpCakY3a0lqZtIB2wFBVV95cUxOZDdZTjlGUlBnVm5tc2gzVUtUTXJ6NVh1TmJSaUlCTG5hZzRtNnBVYXV1N2VfZ1duaXdZOEFyWWRSbkY2S2w3T0lwakFIeDlwblMtak12cG0tUWg0TGFxQW1SV0FkVmJ0THh3eloyc25xZEFwOWdDTmMwN09UdzNTd0o1bzRNWGVVZW15NU9tbThuUkNvYVhvelMzeHNmelRIZk05YXV1dlRLbWhod2pHQVdmMlgyNmloVGRnTlUycF91bnUyR1VVRXFmLVozY2ZQeTduMzVZUEdVVEU?oc=5"
-        },
-        {
-          "outlet": "Telegraph India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnpVdUd3OTRUOS1XdW10M3c4YkZ6SzRBaUp3a2kyWm9TVXF3V3VidU9hdUZTeTlTTGRjanpsRkNHVHFaTENKSXVzNnltQ3R6R1FvUGNFcU01UmZMWXJxMFBpdEVVSWtNVmZIYnB1YmF5a3hRZnVzSU9iUkRJcjZjOUhLMFVmMVRkeHo4MFF3M1dPV2E2cnREMVpRaWZrUUdqaks4b1phVW03OHpwaUM5b1lvb2dwa1pQVFhFMFNJTDEyUzlQV0pBUnl6dlhrWHfSAdQBQVVfeXFMTVBRZWxWTV9wZ1hHeUF0emFLYTRzMWVDOHYxTjFvTXAySklVRDFCT1dmZUt5YjQ2TjJxRVY2OHR2TVBkMF9IUnRaSlVFVjlCTGIwTy0tMXFVakhGSXc2TFJWbi1uaXQ4MkhDYXJiZFc2Y2VrMUFHdHVpbU1IUWg1VHZhUVVsSVRpc3JpUmVJVzZQS25ISmNJVEoyNXVwOVA4Sl8yYzVHeEhBRnFuUnJTdUN2R0RJTEZib3F0NTVJWjNEcml3NWs1Q090a2FLOTRyRTN0U2k?oc=5"
-        },
-        {
-          "outlet": "Sporting News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYUR1b0tBQXA5ekE4QnF4M0VtOVR3cUxuRTlEdDJHcGtjRFNWekFwUURUZkR6eDhLeEpWdkxRZmhkclBKb3FVNTYteFRvT0NxUXBGQkp2RWF3T09vS2ZEOEhpSk5mVF9rMzM0Z2lyTVMxeFk2WjlQQjVYcngyNVhJQTVJQjJLWEtMQXd1ZjdVenJEMlJLZWpfa1plOExCT2I2UDBjbFpIS2tKRUxDNGxib0VneHh0UHNFMkpOa1UyaDhTYUstVS1kN2lvVjlET21VUVhoajBNOEhQRUl6N2VwUkFjd3g?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi score today in Bihar vs. Saurashtra SMAT 2026 match as he becomes youngest T20 captain. Covered by 3 outlets, including The Indian Express and Telegraph India.",
-      "image": "images/vaibhav-sooryavanshi-score-today-in-bihar-vs-saurashtra-smat.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "chhath-song-row-kishor-chirag-paswan-slam-raj-thackeray-over",
-      "headline": "Chhath song row: Kishor, Chirag Paswan slam Raj Thackeray over regionalism - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-14",
-      "topics": [
-        "entertainment"
-      ],
-      "sources": [
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWhGRGZzbF9DajJ3YWFBSklyNXo5ZnZ6VGVGa21zYmFubG13UzdRSTBrM3RTOGVOVlJxcXhZWjI3eDM1VnFfS0tnZkdsY3dqRkRLNmIyTFpGUGUwZTFRQTloUkpUYVdKMHVtdHlVM3U1NGlvanl3Ti1ibFdvV0wtNF9zV3B1TkR3X0xSRUdDNmMtcTZia3VGRVBIbi1ESmt2ZVhkOXM5TWhoRTVQU0kyR0xid0Zub0tZNTI00gHAAUFVX3lxTE1UMUdmQmF1OXlWU2I0cW1WT0s1c01RblcxUTFRcHZJVnRLX2tDUkI4Z3BHQnpiRng0UGRXVE5jdkdMd096eUZ4Nmxha1NtNjBmclZnQjQ2aFQ2WkpBZGJWdDlXbTdTaEl5UTJyQWowM2pZQjNmcUdFTWtUQkZGc0ZNOWNUQXF6eHNvSDM0MDNfQUhmTHNqZ2xGVldpMnJKYWxtaDNDX2hTWkFXbmZGUmpDbkJhdjFQYVAyN053MFh0Mw?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUFNRF9zcDM5UjFmX1h6QnNKUXhGZmJyYzJQQTdybEU4MjgxV1lWaTZFNE5JNi1mZFBKcjU1eU4xbDMzXzg5aWdZWUVvc0R5Q3Q5anVSdk9JOUpXSWhQRHVtM0RmenBzbmtJbGVEWWl5NmtrdWhLQjNZLXFlMEZIUGZzLVg4cVdRWi1URkIyRDRhTGZTRnNfbDE4NWZCVXB0NzZNR0Fkb2dyMkNyTzRmZWtCU0Vsb29XeHIyNXFEQTZleklSNVRiWmhn0gHXAUFVX3lxTE5EY1ZmYVp1TEJWWjFxN0U3dldQWDVjRGctQWNDRG5HUTZfSkZDQmM3WlFXdDV3bGlzZnRBOVRMM3NfZkRvZERkVlRCbFRMc0k5MDdwN2FNMEtqdmF2cnZ0R3B4ZDVLdG9zNWdxeU9fT21JRllYZWZzb0p0czU2aGhNMFM1amVvX19xdkdhYkx1UVF4TWVBeUJDMTZJMV9SWGhyWFRWcF9JTS1nN0ZuWUJGZUxsckZ4Z3pKeXpPT0R5Z3U0eTFkSzZzeE9ZS1d5cXNKTEgzMVZr?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Chhath song row: Kishor, Chirag Paswan slam Raj Thackeray over regionalism. Covered by ThePrint and The New Indian Express.",
-      "image": "images/chhath-song-row-kishor-chirag-paswan-slam-raj-thackeray-over.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "dainik-bhaskar",
       "headline": "भागलपुर- छठ महापर्व के बाद रेलवे चलाएगा स्पेशल ट्रेनें: हावड़ा से पटना, गया; मालदा से शकूरबस्ती तक चलेगी गा... - Dainik Bhaskar",
       "summary": "",
@@ -294,11 +267,6 @@
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVNMN1pKUU9YX2hscG5jZGl6TlJkaFlYUWlpby00LWdyWFppcF8ycEVpb3RXb0UtOWs3eXYwU2RZV1VlZzZzRFFkaFJOOWotQlJEaXFnRWZQbGtkRFhPSzRWY2I2RUlkc19rZV9HU01kZHR3SWZscTJ5bHFqWjlzNUdJX0NvVGtnMkhMb1BHbklJbUp0WEo0NnNwTVJRWUlfZFpUb01ZU09URnZKMHRIV2hmc2NXYU80UHlQcnlseEpMdVBzTHlrSEV30gHPAUFVX3lxTE9YVldHWkpoM1FuTnhZY29faWpQakpEd3RUZmV1c0ZlTWt1ZHE0RlVOdkVSMFZEMEJDRzd1QWpKR2pCSFgtYnU5V0t6empRM2o4UUpDcHBhVXliaWwwcDNTeG9CSHpTZmdZTTRWVk5ILUt0ZWdoeF9xRS1MX3prQnBlYlotbEZqX0lYU2doRUJuNlRvNzhNNTl0aDlFUTQ3WEdtbVRONURhcHpsTnVNclI3aUxNNTh1UzNnc0xYZzJOVElBcVdQM0lzaVhxSE5YVQ?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGNfR0s0UkNtNGoyU0FUU2I5YXpyQktSX0ZwRmZuYWhOMVktdVV4TTA1TEhwbFpiWXhSYlMxTmJHdHlpa0lVd2xYcHc1ZWZXd2U2NmdmTFVMa3dBeHdCSUkteEFLRkpzeFZ3Vzg5NExfeUdLQ2lwWEd4WXZ5aXZXUE5nRmg2bDlMX3poZ1A4cGVwUGtBT1RMMU1xTTdtLTFZTVY2TUN6MkJ2ZXo1bFgzeXpxTGVyUm1OZl9Z?oc=5"
         }
       ],
       "source_count": 2,
@@ -306,6 +274,33 @@
       "genuineness_label": "Corroborated",
       "brief": "भागलपुर- छठ महापर्व के बाद रेलवे चलाएगा स्पेशल ट्रेनें: हावड़ा से पटना, गया; मालदा से शकूरबस्ती तक चलेगी गा... इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "mouni-roy-chhath-puja-navbharat-live",
+      "headline": "Mouni Roy Chhath Puja: छठी मैया की भक्ति में डूबीं मौनी रॉय, पटना जाकर की पूजा, गोल्डन साड़ी में लगी खूबसूरत - Navbharat Live",
+      "summary": "",
+      "date": "2026-11-14",
+      "topics": [
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "Navbharat Live",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlV1d0ZaM2hRaEFtZ0JJdml2TXcxT0xlbEpscGxvQnh0aDdLa2drQTI1U25kX1ZPMXEyZXhMeGYzYU4zOEtIRWw2Sy1FOHJlZURqc2hlSkRyam0zU3FCQ2NaakgtZHcyanRyZ2xIUWZseHFVMFNDOEc5a2JlRzZJS3BhbnhsRDZLWjhXdVFYa2ozUXp0Y1RkNXdkQzNfbnB2bWw0T2pBYzBFRW1WQnfSAbsBQVVfeXFMUFBmbzc0WldjajYtaEp1V3FTOE1UdVdObTZ5THZLcHU3U2dQdXJrNWpGdTRUQUVmTlRNTmtXNjdLSk9kNGZqQjJlT2lpeW03RTFLSlJpcF9kUTRnUkx0QkFDX2pFNlFyTktWVk54Z1o3MEtXX0tybEhkOVlMRlVQYlpRVEtyNy1WRFl0UXJzcksybjJzWnBFMWtFTElhM05GVmVoN2NqbWh2MkZhT08wWFF3cFZrb0tuREV0UQ?oc=5"
+        },
+        {
+          "outlet": "ABP News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVAxbEE5MDRiV3dzdW5TVjBmcFhQSEtsMm1GS2RBLVFkVVJZeEJuSDVMQnNGaERwYVRSN0pXdWxSM1NuRHcta1JVUnZOZm92ZDZJMDNudUVjWXZRMTJfY3dFNlA0aTBjOTVRMUw1YVByd3NXX1ZIUmpfLWJBdlRVQkhDblV0V0FscUpfLUhoeFpFWm1YNXNqUHpmclpzVGF1dnZyemFMcTROaG5XNHUyb2N2OHNYenJFT0ZmaHM5czlLTGZFQmNHT05YYXlyT0k1R3NkalRhWdIB3AFBVV95cUxQd2FZMHJCbVkzQUZkbmszMWlSUzZUQmRNcmY3eG85Q3NJa0Nva1lub0NnNGF3aHRIa21kRDJXbFRKZkFaYXhnNUJ1Z3RVSllJRUtwY2JxVzBMYWN1dVNQT2ZZSkctWHgwQlBKeXlXeWdUV2o4ZWdfOFhVeXN5VUpXR1VCNEJ2czVxZE5BRjBnOVRxNWJwY3h0RGRiVE43ZHktY2pRUHZNMkEzSEI4dnpGaF96R1lYNmhXbEstNVVVQkZFMnd0QU1YTlVtNmlQaDR2dlVYTFF0d0ljWElZ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Mouni Roy Chhath Puja: छठी मैया की भक्ति में डूबीं मौनी रॉय, पटना जाकर की पूजा, गोल्डन साड़ी में लगी खूबसूरत। अर्थव्यवस्था से जुड़ी ख़बर। इसे Navbharat Live और ABP News ने रिपोर्ट किया है।",
+      "image": "images/mouni-roy-chhath-puja-navbharat-live.jpg",
       "image_kind": "photo"
     },
     {
@@ -399,7 +394,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar first municipal bond available on NSE online: Now you can invest in Patna Municipal Corporation bonds. A crime-related story. Covered by Livemint and Traders Union.",
       "image": "images/bihar-first-municipal-bond-available-on-nse-online-now-you-c.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihar-cm-launches-water-metro-service-on-ganga-river-in-patn",
