@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14 05:54 UTC",
-  "generated_at_ist": "14 Nov 2026, 11:24 AM IST",
-  "story_count": 53,
+  "generated_at": "2026-11-14 06:54 UTC",
+  "generated_at_ist": "14 Nov 2026, 12:24 PM IST",
+  "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -19,6 +19,11 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEdSaGhfYWV1UzctNjQ3WEM1ZjRrVU1helFoVFI4QVhKSTZEaWJTV1E3OWUxamxjQWFVWEV6OVJhekh4XzAxcGhPT3hmeS15cUlJazF4VzY4QU5Zc1ZSa3ROTlp6aU5wbXNGTzMzajNlWmlWcVhCdmV5alc4VjhYUUdnMmNNSzBDN1FvU20yMm05MVVYZE9xNUdLNjBMQVZCR2R3Z1FvT3NIckFTV2lVcU01WjZfYW9LR255ekRSQVTSAcYBQVVfeXFMT3BBb09xWnphQmc3QVNmbDhuaFVEWW5rNXFiXzI2Z3B2U1JqNWFFd3I5ZkFuSXVPLTI3Z0o4dmhSVUxwb1Z1RUZBM3ZMRThUR09zenF1dDhsWnY5OHEzd0lidUJHeGs3X0FfcUdKQVhidERFazBlcVFPMVFkSnZ2MW1FOEp5RDNZelpZUlV5M2dXLUpESkpDd1g3UVptUTJuYkw1empPdy1uU1JZSVlnYnNfcnJUcE9rNElNQXY2MkRHRTIxcm9R?oc=5"
         },
         {
+          "outlet": "NewsBytes",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYk9zNG1La3ZxUkg4TElIZ2FIdy1DOE9WVkgwVmw3cUYzRVg0clA4eWVwV21ETnBQdGpuWVhZQ0h2UUtudkpNXzBRcTVULVVSV0gwMkNTc1BGNVM0TFp4dHlUQjg3NURXeWN2Ml9Obk1VQTlvVnROWjdSNGtTekNtU2RURGdiSnkxVnk0ek5xck9rWHh5MVlXQVRzMi0?oc=5"
+        },
+        {
           "outlet": "India News Network",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRU5hTk5oZjgzXzY1WlFac1JmQTBMc2QxRHoxM1o0dEZYYnRZejlFSVh6dXgtY3J6dUl0ZWtxeGZLV2hhSzhqcGtKS3BUYVlTbjlRVVJaVGhpZmFPalZzM01FTVhjd3ZmSFZhVFZtUF82a3JMeHctVktFbEhPYmxDMkdENUFBM2RDTzIyUExwUkp6czM1cE5BYkw3NDc5STI1dzdpUVVJWk8wd2s5Q0E?oc=5"
@@ -29,15 +34,47 @@
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNVVCVXVaT2hlenhuR2dIeXJMXy1vUlRzS2tub0hOWmkxMnQ3M1gxdkN2VjhQN0x2d3YwOTFXRzV0ZG5vNURpWVF6eFRjZjZ4MTctVkUydGJSOEk4bmhXaXltZUJqcGNhMVdsQWlJUHdXbWJLeFUwRlRhOVg1V09hazg4TVN4WGJaVDlFWGlSMS1WNkF2d1RHUkM5bVowUU50QkdnQ3NxVkxRYXhxekFYQUpSRlZqNDBQTUp1Zk5UMDRQNVlBbnZiOWlsODZ0aHVpTWNoV3U4Vjl5VHJrZFByRU5mZFV2SFlkbi0taXdBMVZCWF9lSzA1andrTmE2UDI4d2hwaWdScjBXSkxlUkJN?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "\"My meeting with Samrat Choudhary doesn't mean he's suddenly earned a PhD!\": Prashant Kishor takes dig at Bihar CM after meeting. Covered by 3 outlets, including Asianet Newsable and India News Network.",
+      "brief": "\"My meeting with Samrat Choudhary doesn't mean he's suddenly earned a PhD!\": Prashant Kishor takes dig at Bihar CM after meeting. Covered by 4 outlets, including Asianet Newsable and NewsBytes.",
       "image": "images/my-meeting-with-samrat-choudhary-doesn-t-mean-he-s-suddenly-.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "dainik-bhaskar-aeb1ad",
+      "id": "sooryavanshi-becomes-youngest-captain-in-t20-history-leads-b",
+      "headline": "Sooryavanshi becomes youngest captain in T20 history, leads Bihar in SMAT opener - The Indian Express",
+      "summary": "",
+      "date": "2026-11-14",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY25NelNqc0ZBbGRjRDhsYVo2dVIwR3pmeGZ2cUg1Z0VicWNFRW5PZS1mZjl3MnZnSHc1eE1zbFZMOGJac3VRei1SRWkzcmFsOUdjajZwZzFhTGxuV0Y0bndEVFUyb2FzWXozc0cyTnpnY0Z1Qi1mQjJNLTFHc0ZwT1dybUpidU1sQVJ5Z0NZenU4RG52Tm5OckM2bHhRODNlanV4SW81VnVzTmtEaERpYVpiSzFRRzY0R0NNd3p0WGF6c2UzNjhxc3BadVpCakY3a0lqZtIB2wFBVV95cUxOZDdZTjlGUlBnVm5tc2gzVUtUTXJ6NVh1TmJSaUlCTG5hZzRtNnBVYXV1N2VfZ1duaXdZOEFyWWRSbkY2S2w3T0lwakFIeDlwblMtak12cG0tUWg0TGFxQW1SV0FkVmJ0THh3eloyc25xZEFwOWdDTmMwN09UdzNTd0o1bzRNWGVVZW15NU9tbThuUkNvYVhvelMzeHNmelRIZk05YXV1dlRLbWhod2pHQVdmMlgyNmloVGRnTlUycF91bnUyR1VVRXFmLVozY2ZQeTduMzVZUEdVVEU?oc=5"
+        },
+        {
+          "outlet": "Sportstar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVC0tT2pFdzh6NENhblNCRU9hWGRia0FPSWZCUHN4Y2I0aTZkTUZBZ0MwX0Q0VDJjQVZweG1DTVFKQWFrZzVUVXpwRE9BSHAtdXFrcDM4dExTd1VGT0RKRXlVeTVNQ1Frek5tV3VpU0FTck5jWU9GZ25tcDdTVXhEd2R6NElXVHg1V3Y4Z0c3UGx5MDhxYjZDR3BYcWVndEdSeWRBSTRUT0lrT3Rudmhmb0tIT1hobFhKaUtpeVNVUGlmMm9UX2tINlZGeWhHQl9idjk00gHaAUFVX3lxTE53MVNnS2RvYW1IQm5RWXkxdVdENVA3dGh0Q3JINTJXNk9GVThQOUU5SDRuaUxFWVYyMW5GNVF1S3RBTGc3dlJ6cnBhMjR6X29EbV9ZMmpnWHBqaUdlS0ZXTUYtWnBUbU5ZejR2eWl3dU5JUkh0YkVfejNYanIzWndoSkhILWNYNXRCeGtKZlpucjFPNE1ZM21tV01mM0hUWU94d3R4M0tpNGZJWEgtcWQwdzZKWmdhd1FDUHJEMVozOE5KaU8yVXlHa1pnWFppTmd6X0pzdUxaeWFR?oc=5"
+        },
+        {
+          "outlet": "Awaz The Voice",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktjaDlrQ1JHU3RzZExzS3JCOFIzSkNRanEzcFBlOUlWUUtFUUw2STVqbzNPMXR5MTJtT1VBTzRMTTNsdjhOUWVPN3E0ME9tT1hRYWVHT2JkZDBMRDk5ekgwUnZCa0M2TGRydW54RldfRUFyaVpuVGpxbHVGZlprMmZkR2gzYVhacjVSaHROLVVtQk9FX0tKdjRoLXRzeUFLWFZmSmhXWGpWc1RnTm1hS0Z3?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Sooryavanshi becomes youngest captain in T20 history, leads Bihar in SMAT opener. Covered by 3 outlets, including The Indian Express and Sportstar.",
+      "image": "images/sooryavanshi-becomes-youngest-captain-in-t20-history-leads-b.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "dainik-bhaskar",
       "headline": "भागलपुर- छठ महापर्व के बाद रेलवे चलाएगा स्पेशल ट्रेनें: हावड़ा से पटना, गया; मालदा से शकूरबस्ती तक चलेगी गा... - Dainik Bhaskar",
       "summary": "",
       "date": "2026-11-14",
@@ -70,60 +107,7 @@
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
       "brief": "भागलपुर- छठ महापर्व के बाद रेलवे चलाएगा स्पेशल ट्रेनें: हावड़ा से पटना, गया; मालदा से शकूरबस्ती तक चलेगी गा... इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/dainik-bhaskar-aeb1ad.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "pm-modi-to-inaugurate-nitish-setu-bridge-in-bihar-on-nov-21-",
-      "headline": "PM Modi to inaugurate Nitish Setu bridge in Bihar on Nov 21; Patna-Vaishali travel time to fall to 20 mins - CNBC TV18",
-      "summary": "",
-      "date": "2026-11-13",
-      "topics": [
-        "politics",
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "CNBC TV18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSnQyV29FbnpES3pTcnN0SFhQU0o3OFIyWVg0Uy03SjRIUHlqSXJqUkxyRmNwaDR2ZVJBYzh6clIwUjl6U09tdmoxMnNjNE5hWlZwQVBaYS1ObmJHbThGSk5WY3pCV3pUOW14OEdhLWhWaG9HcEJ5eWhtLTNGcjVHNmNKZ1NhN3hsV0ZmTnhaY2d3RWowMlpkQmx5MGVtZ2Y5ZjVVdTJpTmhLYVpvYzVsSjhKbVQtWk81Wi04THlObGQ2SnBZU1JybTVSNDVuQ0t3QXJGR3FjakF3M3dzU0Z0SEFDcUNLY05V0gHoAUFVX3lxTE5KdDJXb0VuekRLelNyc3RIWFBTSjc4UjJZWDRTLTdKNEhQeWpJcmpSTHJGY3BoNHZlUkFjOHpyUjBSOXpTT212ajEyc2M0TmFaVnBBUFphLU5uYkdtOEZKTlZjekJXelQ5bXg4R2EtaFZob0dwQnl5aG0tM0ZyNUc2Y0pnU2E3eGxXRmZOeFpjZ3dFajAyWmRCbHkwZW1nZjlmNVV1MmlOaEthWm9jNWxKOEptVC1aTzVaLThMeU5sZDZKcFlTUnJtNVI0NW5DS3dBckZHcWNqQXczd3NTRnRIQUNxQ0tjTlU?oc=5"
-        },
-        {
-          "outlet": "India TV News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORU9yVFE3T1FUY2hieGNscmtGcHlYbjlqWGwwbU1QSXV5S00zc1lBaEtNVjAtbXFxUmtEeG9XclhjTlRvTzhXNkRCSFRVaVJLVVdWOFlwcVZxWDNpbHJJWGlKcjgyNWYyWU5Ebnd4SWxjN3JzUEVmNkJKTktzUHB1RmxzN3VKOGxyVDVDTEczUjdmd1NkZlJwc0NJaGh3N1JhSllfZk1SeDZ2dTVKSjdleWl0ZDlhSWZiSnNSbndsa0JJNXlacmd2SXc4RDlHYmpqeTBMX2VaV25hMEpXajhQNzgyQdIB6AFBVV95cUxNcVZCdTVyMlRpXzN5dWJucDVHSzlzdjRCOFZrU3NsblVvQ2VkZVZpd2lCdU9PMUhLOUZVY1Vxd25vVTF3UWZNNV9UOWdjYWhMa0lENjlVTUpYMlBPQWU2eG40VVBzNW0xV21sVHZqTm96c20tUkpqNEJNTEJlSFN3NGZnbzBjdU9ORE51QlhjSExINWV3Y0ZyZjkteTNRV245cE5CNXlaNkZFMGZhSlphVU15SjhydG1tdU5oaW02Rk9LbngtWGlxeDhDWHlWX181U2FfaTE0Q2FRTi1BdmFDTGhjbDhUYUFS?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNjktUHdKNXNPTFY4RHdUY0l0Z21uT3N3SDJ2N3VPc3BNMnZGRGNvLTRxdFptdlZiZUdTakhBaUZhY2FPYnYxMDZhekNKemJMN3ZzbE1mdUJfWnd3bGljTEdlYW9zcTlBaUR6aW9hb3Y5X3dJR3htOGszanFOUkR6M2xEamtsNmhaYzQxaWo0ZmRhRjlUZjdtZnMtZ2wxRFZfT3dhcGJ2TVNuY0xiTU1TcDdNbmIxWmp5bDkyUEg3X3ZhMUxCWGxkYXl6M1lLcXJTWURsd1A0Z2F6aFI5b3U00gHkAUFVX3lxTFBRNXBMOENQVndWelVDYWFGR1NldWtYRE5NZUdZUTZnRzJGbWVxMWI2SnlwREMzN1htSWpXSWhpQmE2eHB2RVFkLW55NHB2MkdLUUZOak03VU5pR1J0Q2RfYmdqRlZpaU1fZWQzaEtoM0dVNmxfMEVISk8wLThRdUdyU3RqeFRiUTFHU2xMSnpZcTI0WklZWldqZGhHWnRpSEtPYkRzOFVpUE5HSDVhcTRRQXdfcmJxWkRjSXM0M0ZwLTNpLTdvYTI1MTFZRHdEYzljZUZZYXF6VEdNMHpoQlhXNlpVTg?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOeDkyUjVPY0QyUGZLb212dExkUXBIYWlMRVQ1QlhWN3cyS1hyczNQdHFlZ0ttaUpiMlhfdVRYemVOMkFTdG5TREotM29KdnVFRi14SFBBblNwYTlBc01nazlwUndwNm9TUHpKT1d1VldOLThDVk9Dd2hMYk94cEsxanZYRnhramktV2JUNmZiWHRXMkNXZzY0X2hUc09VVWZMMmwxOUpDc3FXMFFSc3FqWEppWVZFUGVqZE9rTG4ybmJ2M0wxa3ZNTk93UVozdlU4aC1fMG9DdlEwT1RhRmEzUnM3VTNmSjBZYUlwYjB2RE1kNlFmRDgxSW1pYjd5QTFZeHRRX2RRWnZKN0xC0gHCAUFVX3lxTE1FTDNEa3k4bWhwMkdWNjlpVHNTN3Jkc1FtcXVaQTc0ZndfSU8yeEw1ZXVzUjBLV0dFZ3M1MUZuOW1qcC1JcUc1ZmpqWW9VOEJQOERMdmZpaUVPZUNLS19SU1oyZFg3QnNCVWhvS1p6NjdZX2MtU09vMzMwQ0QzSEd6anZqM0JOZnlPWEplUjc5QXFPVWtlRkx6Mk1BZkh2b0ptT3ZDREJDQjRuaUE3ckRwWjZjdEJ0T05YR0VMekJlOEdn?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb2h4ME1wMWFOQml4OFpoSGNoRjNibXdIRjM2WW1fYVhnYmhVcndINFBBaDFPN0dZWEN5eUlOLW1LeThMTjBWdDhYVGFQZkw5cHk2bHVKNmp1dDRuOTdSUkQ3aWJwWlpGc1o4Qks3aHJVVFZVWEpsT1lacWE5RUVjNm9Db3R5MlAxMXo2SW5MMTZpYmZ1c1JaVV9QX2l1cHpMYjE3THNKeXJIaVd5TlM1TUlxOVlRRXZmRDNQclpkendQN1p5aHlldUtSY25lUmdiYVBjVV9UejBWUUoxMnlN0gHsAUFVX3lxTE8wQzJQclhuNlVhOUR4VVIycnhjdFpGX0V2bnM1TE5kS0U0NTFjajlYNmFVdnVoVG0zck93NDR4eE5rRTJMWllyN2dtT0EwS3Jka24zTkY2X1kzUjVncjZoYnV2cmNMdmNOTVVVZF9TXzlwdGVOcTFBS0V6TjJLbTBWRlF4ZWE2ZzZON3lFZTRZZ3ByMU11WXNSa3UxM0RWUEhjWWZTS19qRGhDWnFWSkVkaFFZQmRHRXdFcUNpZDlPaGtNZTNSSWFPNmp1Y19jcWF5WWJxbmxwa0VMLU9OWHNGRXhBUXNXOFR6YkNX?oc=5"
-        },
-        {
-          "outlet": "The Week",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ3J5Ty1qenV2bkpnVW8zT1FYV2VRYms2ZWw1QW1hMURlZTFGbDg1SUxMaU9YWFhlczE4MHM5dWRhMmRWeFVSS0hKMGdieHBodXQxejRKTmwtTFMwc3I1MkpaYXhvUnRreG9pYkduZXhxd0R4bzRGUUFnVjNfRWpwSUlTa0d2SHpyQVV0WnZtQTduazJaWXo2ejhJR1pfYW0zbTlXWDdkNGtZMEhHMXJaMi1CVzZpOXJ6eUk0VEJ4TzhRNW1EaldURjdwMmdJeGFnT3hRa2g2cUtwQdIB3wFBVV95cUxQdnNoV1NwajdYLVhDWmRFUXZqS2JZMDZWREtUN25IUDhQYUIxcG5BdGdyOGVXckwtVHFCTWo0VDgwd3NlSExSM0toYmlvNkxIS3cwbFlzLWp4MGMzSlFRY3I2U1p6SkNqczdSNXVpX3BRdDlFcnFmLXRzbkc4azF4Uk9xcnpqTm1KZzlORFFiNERXZDdTczVqaDdsMFFRaVhWWEJIeXFLTzF1M3pjcTFyNjJQS1J3MG5uUzM0NE55Nm1ZNnlvNnZqTjZFUHFPSVNSU2twQXA1WDVseUhTMUxV?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjFoS2NHNUcwd1VtQnZoa1dUcVJUdk82alJOZ3cwa21IQlhuLXZ1TS1tQzdVclBBSl9fZTlWaVpGeUNxY0JQTDFldlphN3lpbDVGclQ1bld6aFhrWnhfTFdJa3Z2MHFEa0JnTGp4UzNuZEhDdWhHOWU5U0ZYWDVkNlFXOThFaldYWW5JTnVrb3lhRmI4S1ZqaGplOE1Cb3Z0UkZPRWpEVzQ5RHVkMXlpcGZNbjdzQ03SAbwBQVVfeXFMT3hJQlJhOEpPbjJTcWVHTWpMLTVBMG00SDNKcEdjRkpiUl9jQmU2dWNSSUwxSUpLRTgtS1hORTd5Mngxa2NYTWNpaGFDUGJPTExhNmhBRjJzYV96cnJWWXRrRmtmdGRBbUZBSE8tcThsT2tqNlEzTUl3Y2VMemtka0NJRThoTXNmLVRna05UallRVHYyRzdBU1ZHN1MwdVdETzhvUERhdGNTMU03YzBUdG9mWXMwdjZoaUxYTzU?oc=5"
-        }
-      ],
-      "source_count": 7,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "PM Modi to inaugurate Nitish Setu bridge in Bihar on Nov 21; Patna-Vaishali travel time to fall to 20 mins - CNBC TV18. A politics-related story. Covered by 7 outlets, including CNBC TV18 and India TV News.",
-      "image": "images/pm-modi-to-inaugurate-nitish-setu-bridge-in-bihar-on-nov-21-.jpg",
+      "image": "images/dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -252,9 +236,9 @@
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFZaVFZPWnEyTkRyZEptVGp5c0hhNmdfa0hWWmpleTVjU0p5OTl1SVNwTllVNEh2RGNreUJOc0l1WDhJbWZSUUJhQUk1Yy11NG5jbHRyYnJtckI5dXo2ejh3UGp2eGRRWHNiSEtuREpiSVFhbW1Ec1p4ald2MVkwYmVNZEp1cDlWWkMtQ1hIX2lueDR2bGZQSVJJWFNRa25kNnUtQ1p3OVpIZW1HdEM1TDJjUDYzaE1QYmw4UE5aQ1VKb2hfRGpyQWpn0gHQAUFVX3lxTE04WEZiOV8tY0RHa040SDJkUHJfTG0zX29kNXlVWUxUa19jaFNwN3RNc2h0Vk54UTgyQVhnRkh3VFV5Q0NKcl9yRWVkZndHaHY5VjZvNEM3U2tQSUhJN012ZzRadWdzdVZzWXVlV1NCak5zQWRRMnJ3YlotbHhMVW45Nlg5VGFHd3RINk1MUjhWOW9jSGFGU1lxVkxaTW10Zk1NWUhRSE9fbHp5Y1VwN1Rtd09OQ3YtQUlDTXJaVWlXT3JCdXR0MkFKM0x5ejhFSlc?oc=5"
         },
         {
-          "outlet": "ThePrint",
+          "outlet": "India Today",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDYzZ3pVNUdDdU1pLThQcE1uaU1oZWxBUVQ1QmhkSWJzYnNCWS1OQVNOb3dselJQMkU0emZraWJ4NkxlNVVnMUVUN2lqdUVXUXVwUjlqeml0WDNRcVhFRG9sdmoweUIxaEMteWxQMmxfaTM4X2QxYlNTVGQzVWtjSS1SWXNteFVVU2Q0VjEtYjRrSDhWSmI2dzRRU1lZOU9VNGfSAacBQVVfeXFMTXBGT1ZZa2NKTXdiaFFWc1UtVjhBay1DdmliZ21Fd2hlTG9QQ1hNSnBJNUQwQ1U4akZqZE9YbWhWOW9ZbHR4N1lzeEV4aHpaYUhvVUFKb3M1bGJ3Y1FYRWZzc3d3cU01M2ZJcnUzRUpGS1JlLXNRZzBKYjhqTlNfMmRod0UxN1phOEc2RHlGMnYtaXhkYjBfWXBNUldGMWxYY3AteW0yR3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTVTam41OWZ0RnNNa3RjeElyS3RqN2J1bmRhMFVqVVpsWXZRclVSZlJPc0JfQVliZ3dPYnNDN3hvbDhFVHFNOVB2eVhxTHJjQzF1X0xSbTlHVWV0anMyMjVTX01tR1JhcnhyQXI0cG5uOHo5N01mTGhjWjhpQk9xend5VnV6azVONFhoMnpmeXd2MThQZHUyX2l4clIxRS03TGdZOWFNbHV5ay1WYzlfUGR30gG3AUFVX3lxTE5Ub2tYakhZTDNDOWdlVmZkMDNOYVo2bWs3WXI0dE4yaHNWS1Q3blNVeUpnUXZBNWZTbzV1THVSOVgwVGZnSi15MFZOeGpUWXc3TE9veHg4ZFNtSzUtUEZkVW5pVVFrNGkyUjBTbk9adUxVeDJta21sUXc5bGxCeG13NDBzNGM0SDJVcnRxNG4yQ2Q3dXVxNkRoYUtZWlVQU2t2ZlJvOXNBSVRob2twaGFXWXVFSGVrYw?oc=5"
         },
         {
           "outlet": "Republic World",
@@ -262,9 +246,9 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN3Z3T2wxTHlnQlhpMkhJYmFwRUZWRUx6WWt3bDB1YU05SktPZkJDNDdLMzdXY2FJc3NJUFdsTzBTWDFlNE85THBhdG5sZlQzclNYRlowQXoxODNDU1lGWWZUeWpOcWZkNFgzZUx4anloQjVNVUV6WEVMVEZydzd4U2dNbTRlaC05N3FyLXBKVHM2Q1BIaFJyRjR3bEF2X1BFOEdTUHYzXzNGaWhiQ25hT1pRczFiNUEyN2xFV2EtUTB1RFdOSTRXckZCYkZMQm1vY0RLYVZaUTRTelF6RlFUdUt1TkZEUGVx0gHuAUFVX3lxTE5iVXl5Ti1Ed3V1YURSMk0xR0FVYVFrMUlaejRNZWYteG9VcFB5MTdWX1FGOEFyTG5wZ0NVbU9meG01MklBRkcydUVPcmx0d0pGVGtueWpWRFJjLU1XaEl5aW9sZktGNFZUQV9sN3lKVzRNd0JkdVBnWkFnaTVWam45QUhKN2lOQkY2bG5sWnRkaFFaa2VwYVhUc3dCclRnY0k1T3F0dWtudjFwNkZLS2RQSTg4dXlRc1hDV0hCZVVZNU1HaFBYZkdUWS1vN2d2NS10bE81Ui1QR21BVXdaSHhwS3NkVVNweDdfWTc4U1E?oc=5"
         },
         {
-          "outlet": "India Today",
+          "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTVTam41OWZ0RnNNa3RjeElyS3RqN2J1bmRhMFVqVVpsWXZRclVSZlJPc0JfQVliZ3dPYnNDN3hvbDhFVHFNOVB2eVhxTHJjQzF1X0xSbTlHVWV0anMyMjVTX01tR1JhcnhyQXI0cG5uOHo5N01mTGhjWjhpQk9xend5VnV6azVONFhoMnpmeXd2MThQZHUyX2l4clIxRS03TGdZOWFNbHV5ay1WYzlfUGR30gG3AUFVX3lxTE5Ub2tYakhZTDNDOWdlVmZkMDNOYVo2bWs3WXI0dE4yaHNWS1Q3blNVeUpnUXZBNWZTbzV1THVSOVgwVGZnSi15MFZOeGpUWXc3TE9veHg4ZFNtSzUtUEZkVW5pVVFrNGkyUjBTbk9adUxVeDJta21sUXc5bGxCeG13NDBzNGM0SDJVcnRxNG4yQ2Q3dXVxNkRoYUtZWlVQU2t2ZlJvOXNBSVRob2twaGFXWXVFSGVrYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDYzZ3pVNUdDdU1pLThQcE1uaU1oZWxBUVQ1QmhkSWJzYnNCWS1OQVNOb3dselJQMkU0emZraWJ4NkxlNVVnMUVUN2lqdUVXUXVwUjlqeml0WDNRcVhFRG9sdmoweUIxaEMteWxQMmxfaTM4X2QxYlNTVGQzVWtjSS1SWXNteFVVU2Q0VjEtYjRrSDhWSmI2dzRRU1lZOU9VNGfSAacBQVVfeXFMTXBGT1ZZa2NKTXdiaFFWc1UtVjhBay1DdmliZ21Fd2hlTG9QQ1hNSnBJNUQwQ1U4akZqZE9YbWhWOW9ZbHR4N1lzeEV4aHpaYUhvVUFKb3M1bGJ3Y1FYRWZzc3d3cU01M2ZJcnUzRUpGS1JlLXNRZzBKYjhqTlNfMmRod0UxN1phOEc2RHlGMnYtaXhkYjBfWXBNUldGMWxYY3AteW0yR3c?oc=5"
         }
       ],
       "source_count": 5,
@@ -307,38 +291,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "centre-to-introduce-evening-courts-in-delhi-bihar-and-andhra",
-      "headline": "Centre to introduce evening courts in Delhi, Bihar and Andhra Pradesh on pilot basis to reduce case backlog - India Legal",
-      "summary": "",
-      "date": "2026-11-13",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "LawBeat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUF6dTBEV3VxTlc5MjV0Y3ljWHFIdndmUGtaNlJ4SEYyakUwS3hYaHlna3pBY0t4NnQtc0RONTJ5X1ZmbVc2TXZkcHlHOEktaXVOQ2F0U2h2QmxiR0drWlJXSTRYTTVIM3laUG50b2xSblVMVk5nVkRUT2dlMjVkTFpMbHFvYU9mLTZlMmdXMXo1RDZCcVRhMW9MUFpidG90NElWbFVmaG9kams5NlVFM0s0T1VXSGdxd3FHVEx2c3B0aTI0WHVV0gHMAUFVX3lxTE9BNFdkVTJmRHhyNXlKdlhadmtwaE0zWDAwSzFvX0M4Nm4wbkJuSGh6R2habEF0dG5pc1VaeFBZbC0xczdCZnVIcmxtb3ZhYTRUTUZ2ejhaUGs5cE5GZ3BzWUdTVjZSUGl1ZHFFb19VeTBuTFZDcEpoeGM4ZDZCM1JDRGRnXzE4MlBQNGlVX1BJTlJ6MGg0cmVPVEZXSjhDOVl1WlUxS3VIaFVTYzF4Znk0RWFSanhRbG1qTVVNRWJrMkVNTEhGdzBENVpmcA?oc=5"
-        },
-        {
-          "outlet": "India Legal",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQODdNY0hOVFNOSHh0NUFMOWZvN3pubE9XOUpMcnZYbWZsNmtKbk53UVZzT2hTZ3R2UDFhTEJDYVZLbDJqZmVGX29yWG0xdE5Bb0ZqdTNjbmlxOTdRdVAzd21vdllPamozTnl0VDlKT3VIbFBxVGhDRVFxT1RwZjFfY3otcm1ReUhLbUR0LTJXUm81ZTQyNEpxVG9uUEtVR3oza21HM1Q3NHhheVQ1ak9CeUFPd25ObWVPLXluVVJDVnpyNDFiMHZBd21EQWcwMV9YeTRDN0wxUm1pR1N4VENoQXlxSjNDVVZqRjBvMWI0U2pQbmJkOUp2S2JfV2EzbWs?oc=5"
-        },
-        {
-          "outlet": "Verdictum",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMko3WVdITWRZVmZVdXRBU1ZqVzBDOGFuZWdxWFRMd1B1YmFGV0hRaDlSYl85eFNYY1JfR3RBQXNKaWVxLUNUTDdQLTZXeGdDZWNQWDFiNTdNVlBLRFRDVWxzTTkzZENnOGdjdEpaVHk3TEM0NXhKSnIxa0ZsZDhIUWFSYV9NMzNlUXFlNEF0WVJkc3hvbV8zaUVpMEN1TVYzdkZWcdIBqgFBVV95cUxPYnpsNnJQS2RRc0VseTdpbzhzb2ExTE84VnFWQ0VzSGhzbjBMeHBvR3h6c2VzR25Ocl9UbC1EYk9oUEZZeUtrcVQ2VHpJNFZ1YnlGMTRnTXFoWUdtUTQtaGxocWlIdGRzRmNwaG5OY0xKU203WkVGQS1aSHdGaEUyOE1xYW5ITEw4blhJSERUS0RoRGZGX3NCcHN5dnRWakJYRm1STlhBQm83dw?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Centre to introduce evening courts in Delhi, Bihar and Andhra Pradesh on pilot basis to reduce case backlog. Covered by 3 outlets, including LawBeat and India Legal.",
-      "image": "images/centre-to-introduce-evening-courts-in-delhi-bihar-and-andhra.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "chhath-puja-77-special-buses-deployed-between-delhi-and-biha",
       "headline": "Chhath Puja: 77 Special Buses Deployed Between Delhi And Bihar With Subsidised Festive Fares - Swarajya",
       "summary": "",
@@ -363,7 +315,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Chhath Puja: 77 Special Buses Deployed Between Delhi And Bihar With Subsidised Festive Fares. Covered by Swarajya and ET Infra.",
       "image": "images/chhath-puja-77-special-buses-deployed-between-delhi-and-biha.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "bihar-woman-government-officer-sits-with-begging-bowl-outsid",
@@ -427,33 +379,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar DNB NEET PG 2026: Check General Medicine Round 1 Opening and Closing Rank. Covered by Jagran Josh and PW.",
       "image": "images/bihar-dnb-neet-pg-2026-check-general-medicine-round-1-openin.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "madhubani-collectorate-building-in-bihar-is-set-to-be-auctio",
-      "headline": "Madhubani collectorate building in Bihar is set to be auctioned on November 26 over Rs 4.17 crore dues - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-13",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPblZQdFhOVHQzZEZrUzM5eS02V3RodGItNFUyQjVOTkJxeWloWDVyTWxpWVVUS3pDT1gxV0lFUS1VWDc2Z3BES3pYWm85a1FKWUdGd2pyUlFMbFJyd2hmMEhUeXUtOXcyT0VGUVNDZHByRXBGbkpoaVd6bUVKb2Rjak5RSzRXQXRxZzBzUTFyaHcxZHR1T090VWk1MEM1UGl0dm9lNExzYjFwZ0NzeUhFZ1c0R0ZMZlItNldEMHlpT2N6SXhoRjN3d002X3h0N1NhRDIwWUp2SE00N1lFWGYxVl94ckZRZkNvNkYxMnFzTm7SAf4BQVVfeXFMTl9oWEduNXRWTEZHVzQtSkZKUWxwV3M2YmgzWHpxNkxkTWZyTTIxYVl4SnBVc3ZuOU43RDY2R2JFSVVRYlAtZjRUdzdVaTN1ZjFObGtlTGVObUNqWTRBT1hKZExza0FveW1yM0hJaE5LOXhTSFV3VmxFRzFDUS1VTTBMYnl3dF9jLWtoNTlaTndkdllqRF8wcnZ2ZnRiSGU0Z2F2Uk9tNE9WWHJ2OE5RN3lfSzFsSXl4TUM2a01CQ1I0ZmlkWGViZWQ4TG5FbkV2Y2ZzMmpFWXZBNzdZUHlQSkZvVHlDSTdzM2ZPakpWT05yUnUtQThBQlE5b3VIRWc?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGpKSmx1UktMclhMOFJEd0VSNDJ6TDBXa3E5d2FRNXoyMlgzaTZOMkxEYUs3XzRBeHhaXzhjVDNLdVNjWFJTVVZ6bGJiMjc0cWpXMk5kWGQ0NzR0Uk11bUZLV00yQktWTEtUc2VSaGZVYVV6X3FLMDZFZExQNk5keG1xQkJSZHE2ZThSNWFTVjhjYmZTcHJRclRCbzgxUUHSAaYBQVVfeXFMUGY1NXlhdWhZby1VLTNwVV9NU0Y1V0RVVkd6SXQ3WERaVWtSM0t5dy1jWElndGJTcl93Si15eWRyaVVqYmFobHFJVjlQbnZEcVFxaS05VFVMd0tKTURsWFhkUUg3NGxIbzBWbVhieEY4aENOZzVWQXVWUlZsM1dKVVE5S1hwY1VIU0NKNWdsV29oRm9lWlVvdkNDNEpGRGUtcEtvcDZmdw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Madhubani collectorate building in Bihar is set to be auctioned on November 26 over Rs 4.17 crore dues. An economy-related story. Covered by The New Indian Express and The Indian Express.",
-      "image": "images/madhubani-collectorate-building-in-bihar-is-set-to-be-auctio.jpg",
       "image_kind": "photo"
     },
     {
@@ -535,38 +460,6 @@
       "genuineness_label": "Corroborated",
       "brief": "छठ पर यात्रियों को रेलवे का तोहफा, दिल्ली से पटना के लिए रवाना हुई पहली 'अमृत भारत 3.0' ट्रेन; क्या है खासियत? इसे Jagran Josh और Jagran ने रिपोर्ट किया है।",
       "image": "images/3-0-jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "dainik-bhaskar",
-      "headline": "पटना में जमीन विवाद में दो पक्षों के बीच चाकूबाजी: एक युवक के पेट में लगा चाकू, दूसरे पक्ष के भी कई लोग घायल - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-11-13",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0xoTzlyUUNXM0dPaUEwR0ZCTkNrR205eS1mZ19NUmVzdnJhaWNfWk9FdjZHbEhkWXZEbEpOZHduX1Rrd3pzYWxERFNiRzZBRXVENkJIZnBRUXBkdnI5VWRkMC1QZlhFeXRKMi1NNlIyc3BkZXc1WVFvRG9xb2lqdmEtY0RXNGVsN2hCcVBsQU5yaVBfcjZJaVMwczczWWRILWZoUFdBNEJHOWN1?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT3FvbjZZTWc3cmhKbEthc1RFRWhmQlFzMHBrVlFIZ2FzNGR0b0tLRXhWU0s3QXBFREpXRHBQMHpaSlpKb0dQU1kzZU4yb1ZlZktORmdZamVCVW12S3N2V0dicDZzV2FadVlic3phZjRkdnU2MXp3WHRxajBRY2JQc282a0FnT002a2wyRUgzRXlibkZ5QXNVMTJPb3ozNmdHVzF4OS1nekRZN2ViQTBKaTd6bmlHa3l6bzQ4b2RlS282eE1xLXdIay13M3VMbW_SAdQBQVVfeXFMTlNIckh3enplWGZ3OHlYcEIxRDN2UnJEakZyU05EQ01LNmhuUHF4TFRpYVl1U0gwTDBwaGxPbjk2R3FGWnhVMUhvaml5U1VET2F2Qmt1X05hejdUTjc3aklycGt6UjVqMXBmMDBoU2t0bjFtVkhUWXpBaTU3cWNuZEY4a2JocmZtZDk1T3ZRdkI1b1lLb2JlYkVhRFV2YjBUOG5vdlF2M1hJVll3R3ZOcjY2SnhPRjlQUUFPVzNRTUdrZmRxeENYSE9fV0RCM3VrcDI5Zmw?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFc4WEZqdWxmWFN1T25nNHZ5V09oUmJyMHhzRVo5ZktFbmcyOXRrQmQyQW1VaDMxSmJLcmFNZ2NUaHNTNzNhMkcxQnBmeXNUUW9Va3F0SE8yUUhnTzJtOGlKM1F0Rlp5ejNLYUtObFVSM3VPR3RpcFZNS1lCM21Hb1pydXFQd2FnZ0hlMFZBNFpYWnFGTXhwTmp0T1pVU3VXamdzSzljbHpUdC03Rm8ycDVlZ1dmWFFVYV9ZSmd4SE3SAcYBQVVfeXFMTVUxTWpjVnA5SXlKMXQ3NGVxd3BXeC0xcGRuR0M3aTVaU0F4MWVySk5EaUtIcWJwbkU0Q0lGcFZ2MWxwN0g1YjdsWUhrbWxtcUl1SjdDVzd4Tl9LRkVpX3RQaHBiWjZ2SmQ2YTBfbFNnQzloUkNLcFBfWTZ4LWhlYndsWXBiOUhTSUlmNThxOWdFRDNSYnZzS3otZUsxVlFheTVXVlI1a2ZOaVRhTnZkWGpiekZrZk9VREZsREhGZlZ2V0FlVm93?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में जमीन विवाद में दो पक्षों के बीच चाकूबाजी: एक युवक के पेट में लगा चाकू, दूसरे पक्ष के भी कई लोग घायल। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
