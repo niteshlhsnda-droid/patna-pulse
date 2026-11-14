@@ -1,9 +1,64 @@
 {
-  "generated_at": "2026-11-14 10:54 UTC",
-  "generated_at_ist": "14 Nov 2026, 04:24 PM IST",
-  "story_count": 43,
+  "generated_at": "2026-11-14 11:54 UTC",
+  "generated_at_ist": "14 Nov 2026, 05:24 PM IST",
+  "story_count": 45,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "pm-modi-to-inaugurate-nitish-setu-bridge-in-bihar-on-nov-21-",
+      "headline": "PM Modi to inaugurate Nitish Setu bridge in Bihar on Nov 21; Patna-Vaishali travel time to fall to 20 mins - CNBC TV18",
+      "summary": "",
+      "date": "2026-11-14",
+      "topics": [
+        "politics",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "CNBC TV18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSnQyV29FbnpES3pTcnN0SFhQU0o3OFIyWVg0Uy03SjRIUHlqSXJqUkxyRmNwaDR2ZVJBYzh6clIwUjl6U09tdmoxMnNjNE5hWlZwQVBaYS1ObmJHbThGSk5WY3pCV3pUOW14OEdhLWhWaG9HcEJ5eWhtLTNGcjVHNmNKZ1NhN3hsV0ZmTnhaY2d3RWowMlpkQmx5MGVtZ2Y5ZjVVdTJpTmhLYVpvYzVsSjhKbVQtWk81Wi04THlObGQ2SnBZU1JybTVSNDVuQ0t3QXJGR3FjakF3M3dzU0Z0SEFDcUNLY05V0gHoAUFVX3lxTE5KdDJXb0VuekRLelNyc3RIWFBTSjc4UjJZWDRTLTdKNEhQeWpJcmpSTHJGY3BoNHZlUkFjOHpyUjBSOXpTT212ajEyc2M0TmFaVnBBUFphLU5uYkdtOEZKTlZjekJXelQ5bXg4R2EtaFZob0dwQnl5aG0tM0ZyNUc2Y0pnU2E3eGxXRmZOeFpjZ3dFajAyWmRCbHkwZW1nZjlmNVV1MmlOaEthWm9jNWxKOEptVC1aTzVaLThMeU5sZDZKcFlTUnJtNVI0NW5DS3dBckZHcWNqQXczd3NTRnRIQUNxQ0tjTlU?oc=5"
+        },
+        {
+          "outlet": "ET Infra",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmZYelFTQWs4NTFwSUtjUUR5VWx5ZkR4VjhITF9wNWNTbWt2NDBQVXhJbk14TkIxelpxS1hRaEdlS095Z3JYYzdyODNvMzBXQkppUWhxR3JqOWQ0dk1rT0o1ODljMkJ0WXRwUm4zb1hyemlITk5oTnZkcE9LLV9kTmQwV0F6NVUxYmJuRi10ZGlkcVU3T3lfVm5LY3dabWloZjgyVEtCN0lNbk56X2I2elVOY0FMeGpYcEc0RVBUVGh1U2hYcXB5OWNR0gHOAUFVX3lxTE51YzZ2RmkzZmlFUTBEcjRYRlB6Zkp6aF9LUmctdXE1ZTctbjVMTW0zS0ttbHZ3SHlkUm03dnQtRlYzUUFCZWJXTTYzWVhnakwyWVEwVnNxU2w3cXBlb0R3VEQxRXpKTi0zUHE1QTE1bzNPbGNpODVwQklSUm1Rb3JNbEhvaG0ydjVLZ2EtMTVEeF9xbDNoLUpTRVZhZTMzelU5SmZtYlZJSE5ScllvUE13QXp3WGFNM2xkbGs2cUdSUWo0MUxVZkllQng2MGFB?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "PM Modi to inaugurate Nitish Setu bridge in Bihar on Nov 21; Patna-Vaishali travel time to fall to 20 mins - CNBC TV18. A politics-related story. Covered by CNBC TV18 and ET Infra.",
+      "image": "images/pm-modi-to-inaugurate-nitish-setu-bridge-in-bihar-on-nov-21-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "prashant-kishor-challenges-bihar-cm-samrat-choudhary-s-crede",
+      "headline": "Prashant Kishor Challenges Bihar CM Samrat Choudhary's Credentials - India News Network",
+      "summary": "",
+      "date": "2026-11-14",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEdSaGhfYWV1UzctNjQ3WEM1ZjRrVU1helFoVFI4QVhKSTZEaWJTV1E3OWUxamxjQWFVWEV6OVJhekh4XzAxcGhPT3hmeS15cUlJazF4VzY4QU5Zc1ZSa3ROTlp6aU5wbXNGTzMzajNlWmlWcVhCdmV5alc4VjhYUUdnMmNNSzBDN1FvU20yMm05MVVYZE9xNUdLNjBMQVZCR2R3Z1FvT3NIckFTV2lVcU01WjZfYW9LR255ekRSQVTSAcYBQVVfeXFMT3BBb09xWnphQmc3QVNmbDhuaFVEWW5rNXFiXzI2Z3B2U1JqNWFFd3I5ZkFuSXVPLTI3Z0o4dmhSVUxwb1Z1RUZBM3ZMRThUR09zenF1dDhsWnY5OHEzd0lidUJHeGs3X0FfcUdKQVhidERFazBlcVFPMVFkSnZ2MW1FOEp5RDNZelpZUlV5M2dXLUpESkpDd1g3UVptUTJuYkw1empPdy1uU1JZSVlnYnNfcnJUcE9rNElNQXY2MkRHRTIxcm9R?oc=5"
+        },
+        {
+          "outlet": "India News Network",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRU5hTk5oZjgzXzY1WlFac1JmQTBMc2QxRHoxM1o0dEZYYnRZejlFSVh6dXgtY3J6dUl0ZWtxeGZLV2hhSzhqcGtKS3BUYVlTbjlRVVJaVGhpZmFPalZzM01FTVhjd3ZmSFZhVFZtUF82a3JMeHctVktFbEhPYmxDMkdENUFBM2RDTzIyUExwUkp6czM1cE5BYkw3NDc5STI1dzdpUVVJWk8wd2s5Q0E?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Prashant Kishor Challenges Bihar CM Samrat Choudhary's Credentials. Covered by Asianet Newsable and India News Network.",
+      "image": "images/prashant-kishor-challenges-bihar-cm-samrat-choudhary-s-crede.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "patna-becomes-india-s-second-city-with-water-metro-as-bihar-",
       "headline": "Patna Becomes India's Second City With Water Metro As Bihar CM Inaugurates Ganga Service At Rs 50 Fare - Swarajya",
@@ -37,58 +92,58 @@
       "image_kind": "photo"
     },
     {
-      "id": "prashant-kishor-challenges-bihar-cm-samrat-choudhary-s-crede",
-      "headline": "Prashant Kishor Challenges Bihar CM Samrat Choudhary's Credentials - India News Network",
+      "id": "japanese-woman-celebrates-chhath-in-bihar-sings-folk-songs-t",
+      "headline": "Japanese woman celebrates Chhath in Bihar, sings folk songs | To watch her sing folk songs | Inshorts - Inshorts",
       "summary": "",
       "date": "2026-11-14",
       "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEdSaGhfYWV1UzctNjQ3WEM1ZjRrVU1helFoVFI4QVhKSTZEaWJTV1E3OWUxamxjQWFVWEV6OVJhekh4XzAxcGhPT3hmeS15cUlJazF4VzY4QU5Zc1ZSa3ROTlp6aU5wbXNGTzMzajNlWmlWcVhCdmV5alc4VjhYUUdnMmNNSzBDN1FvU20yMm05MVVYZE9xNUdLNjBMQVZCR2R3Z1FvT3NIckFTV2lVcU01WjZfYW9LR255ekRSQVTSAcYBQVVfeXFMT3BBb09xWnphQmc3QVNmbDhuaFVEWW5rNXFiXzI2Z3B2U1JqNWFFd3I5ZkFuSXVPLTI3Z0o4dmhSVUxwb1Z1RUZBM3ZMRThUR09zenF1dDhsWnY5OHEzd0lidUJHeGs3X0FfcUdKQVhidERFazBlcVFPMVFkSnZ2MW1FOEp5RDNZelpZUlV5M2dXLUpESkpDd1g3UVptUTJuYkw1empPdy1uU1JZSVlnYnNfcnJUcE9rNElNQXY2MkRHRTIxcm9R?oc=5"
-        },
-        {
-          "outlet": "India News Network",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRU5hTk5oZjgzXzY1WlFac1JmQTBMc2QxRHoxM1o0dEZYYnRZejlFSVh6dXgtY3J6dUl0ZWtxeGZLV2hhSzhqcGtKS3BUYVlTbjlRVVJaVGhpZmFPalZzM01FTVhjd3ZmSFZhVFZtUF82a3JMeHctVktFbEhPYmxDMkdENUFBM2RDTzIyUExwUkp6czM1cE5BYkw3NDc5STI1dzdpUVVJWk8wd2s5Q0E?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Prashant Kishor Challenges Bihar CM Samrat Choudhary's Credentials. Covered by Asianet Newsable and India News Network.",
-      "image": "images/prashant-kishor-challenges-bihar-cm-samrat-choudhary-s-crede.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-large-number-of-devotees-gather-at-patna-s-digha-ghat-",
-      "headline": "Bihar: Large number of devotees gather at Patna's Digha Ghat for Chhath Puja Kharna rituals - Big News Network.com",
-      "summary": "",
-      "date": "2026-11-14",
-      "topics": [
-        "general"
+        "entertainment"
       ],
       "sources": [
         {
           "outlet": "NDTV",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTA5NldPVHJLSTJDLUVOTkNGelgxRlJCV3dOU3BkR1dCTEt3TmEwRHVqUFRWX3pDRzh5YlNQYlA3QXZDckhHblQwNHU2TS1mTE1OVzVhSnEyY1RUWjRodWFnZnFEaGVuS3paZ3l5VmplZGVIZ1djbDRtZzFPaldxWWxsT3JhVDBMZnlkNVhPZ1I1akZYSXlYRDhwQjFQQnhQRm9KYVh3NUxOQlczSlMxZmQ1NFhlUHJPdkFzbDUwOHE5SUhs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUFBWTVOVWVCdUQyZVk0YkoyWWJYY1BXNF9ZWnJ6NXowUG9zQ2hPMHBOYmlJRnN4dmtpaUlKTjlXRFVsZmVvUm1ObWRMVUlBclFVb1RZbmIwQzdlcHpkMVJpbTUtUjdpeC1VMlRvUDd5VlFUQUVRRFdwWXdJeWEydTN4WjlXVXg0OWNOX0RXMVAwUTVWVkNGZzNTRm9pSjZKNzMwdmxjWURVeVlUY1HSAbYBQVVfeXFMUGpodWFCVzJiYlU4OWVTODEzNFhIRlFnRjQ1blRXanh1LThJQkVBQm5lYWp6M2o4WWdlcVYwMVdya3Uzc2RZTHlpRHNRRlBfcFlGTXhoclJkZExvblYzRkpVNVRLUTdDT1hQb2VJcjN0R3Q3TWZKel9RWGRMRV9WUU9mWndWQTFtRGE0WlBrWlVxbVlTT1YyOTVpSlEyenVjaWtqaTNqNHM5OWJteWF0MnAyLWFmbHc?oc=5"
         },
         {
-          "outlet": "Big News Network.com",
+          "outlet": "Inshorts",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczQ0UWp0Y3dkU3VVNHk1VkMxZjIxZmw1Z3A1SHRWVHdxckhyVVBVT1NmRWgwSk5wNmdpMVRJcjN4amdXMDZzNFpxX0Y3VVJBNDd1bjVVS1J3X0NIQTgtRUFLVVI4RlRTWGlnMXIwRHhNV0RsYm5wQXc5WnQtYTVnN2Z1a3hlU1NOY2IzTmlOaWFMTTdsb0xVQVZHQzNjVEM1VkJKNHJ5WEh3WGRfM0x2d2dkazFFbU1aVEJFRXhrR2RpNG5DOUVNTDBQMkZRREU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmI0azkwSk80LVBoXzRSWGJsdVlxNlF5VTFCWEZiQnVoaFJRQXNsOGFRTFdMNTdUeDRkd2lxaE5xN1JxbjY4TEFWaS1USVQwQzRqS2s4SFBZV0xnYU04anpsLWhTZmMwc1RiYjdxS2VUSG9vWlNXWnhRdWllWjBiR0dyeERtYU9pRkVsODdkbzJFajZSQlpGNnJ0WV9zNF9OYXpGX9IBqgFBVV95cUxOSkJ2S3ZZVnh1c2pKSF9LOTdIdFFpUVNGVnQxUE02MXNRdWx3b05TODRZWEFFX0NlRDl3SndpVzRNMFhjTzhkcU5rM3M1YzB6YkZPU1RGV3NhWlczdUxYcXhxdVlrYmlWRnR2MUhjaUM0OUNadDltd1NNamx3UEJNekpTSUhXLXlVQW1VaWREWFNQYlg1OUVicUNtRU1lZ01vM3h5dnBodnVlUQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar: Large number of devotees gather at Patna's Digha Ghat for Chhath Puja Kharna rituals. Covered by NDTV and Big News Network.com.",
-      "image": "images/bihar-large-number-of-devotees-gather-at-patna-s-digha-ghat-.jpg",
-      "image_kind": "placeholder"
+      "brief": "Japanese woman celebrates Chhath in Bihar, sings folk songs | To watch her sing folk songs. Covered by NDTV and Inshorts.",
+      "image": "images/japanese-woman-celebrates-chhath-in-bihar-sings-folk-songs-t.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "chhath-festival-bihar-devotees-begin-36-hour-waterless-fast-",
+      "headline": "Chhath festival: Bihar devotees begin 36-hour waterless fast after observing Kharna ritual - DD News",
+      "summary": "",
+      "date": "2026-11-14",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hans India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUtDQ1pQbWpXYVlKRVBna2pDQmxlQzkxdHBuOEpkYTdYejdiR0JjcUtiNEdFZnNSaVUwYTVBUWRBTy1tNmNxeHk3ZnByVGJyN3dBdENtUFpQNnEtVmFOSWx3Y2tUdDJ3Z3F1TGVkbFJxbE5QVUN6cHFYSExOUXduQzhjMmlFNDhHSklMejlFREtwLXVtOENTUldzZm1qTFc3Q2JrSVRqWmFHalFLeTktdjFyWkY0Mk5QcVlQdHg0N3BQRzllc3fSAcsBQVVfeXFMUDlMdFI5Q2RtQWJncjhQbDV5TjJZSkhXeEdiX2JXWHBxbkdDMzhkMjRwNGpoSkx2TWJ6cHdDNjVETWk1OGpCcHpFMlRNa21FQVpCNTlWUUx2ZUpVWmJQN0NWUGR4UENZR3FucHM5NEtlSlBVUWxCR0NtWFI5ZGRqOXg4RkgxV3huci1FSHhCRXhKRWQzMzJzdndTWFZTT3FMVFhkY09GZVdoaHhldVUyWjUxYWhlLUNJeThrTFp2NVVJdzJRRklXRXlYOW8?oc=5"
+        },
+        {
+          "outlet": "DD News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTByTVllYjFYYlBtZmktMHdrTnJLWk8wZHItWjIwRm5ZdEdEaVB4YTU5NjBkbFdmYnVDektqTXZGQkx4N20xRjdLc1NMWE1TUzdHekw0RzBvQVdRZzhEbVViLUFWYlEtUk9qQXpXQnZRY0hUeV9kQlFXbHRZUkZ5SEc4QWlMZ1MxMUQ4R2NIRDJKdDlDNjVyVVVlV2tuM3ppYVliQ29mRnNXZ2tmQmRkVHNEQnFpZw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Chhath festival: Bihar devotees begin 36-hour waterless fast after observing Kharna ritual. A civic-infrastructure story. Covered by The Hans India and DD News.",
+      "image": "images/chhath-festival-bihar-devotees-begin-36-hour-waterless-fast-.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "vaibhav-sooryavanshi-score-today-in-bihar-vs-saurashtra-smat",
@@ -144,7 +199,17 @@
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjMxc2tQTFJzM3FrRDlQbVh2ZFRzM256LWxQa1BEd09COHA2REN6OTE0VGRaYVp6cElLcWZMZHRQTFNJNXY0SE85cDVJUTBlSzlzTDJtVmFpR3ZMRmdRaFlsdG45TFZDNmNpRFgxbi1BSUpLZnExWDlaRElsajdHYXVHYUktd092aFFTWFI3bF9rbzRhUTVMamF2aWxKRHVvZTh5cFdn?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQTBGNEpKN3c0NUNOVUxoZEFrNVZSSnpySTltVFZJcUhfRWtmOUNlMzYwSHlaaWMzOXpqbzRFTFNKcElDZ09oWTI2RDdyVDM4Y3ZNRjhyTlUwT21MRk81WjAzN0oyTGtueFN1ZFc4Q2ZMdy1tNFhIaUFyX0tZWFFEVjU4bXBlWjZqd2lqVkdEZ3BvRndEZm9KSnhBRlozLWFQbkk1WGxwS1FsdW1DclBsamFtTkdHTnlaaVJCS2ZvT1NYR3dKQk0weDBTUQ?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVNMN1pKUU9YX2hscG5jZGl6TlJkaFlYUWlpby00LWdyWFppcF8ycEVpb3RXb0UtOWs3eXYwU2RZV1VlZzZzRFFkaFJOOWotQlJEaXFnRWZQbGtkRFhPSzRWY2I2RUlkc19rZV9HU01kZHR3SWZscTJ5bHFqWjlzNUdJX0NvVGtnMkhMb1BHbklJbUp0WEo0NnNwTVJRWUlfZFpUb01ZU09URnZKMHRIV2hmc2NXYU80UHlQcnlseEpMdVBzTHlrSEV30gHPAUFVX3lxTE9YVldHWkpoM1FuTnhZY29faWpQakpEd3RUZmV1c0ZlTWt1ZHE0RlVOdkVSMFZEMEJDRzd1QWpKR2pCSFgtYnU5V0t6empRM2o4UUpDcHBhVXliaWwwcDNTeG9CSHpTZmdZTTRWVk5ILUt0ZWdoeF9xRS1MX3prQnBlYlotbEZqX0lYU2doRUJuNlRvNzhNNTl0aDlFUTQ3WEdtbVRONURhcHpsTnVNclI3aUxNNTh1UzNnc0xYZzJOVElBcVdQM0lzaVhxSE5YVQ?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -152,14 +217,9 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakctYW0zbENhbERBSk9kVWh1RVVZY0FWZU9pNWZlMVdMMHU5VnhxYUdEVXpQOEV1b3BIRHlHM1Rha0k2blAzLUI4WWNkRzEyYlc5dVZ0T2VFSWc3alNhNkttSEp1WmpwTXl2WjRVTkNXNXVYc08wWklTLWxhREF6NzBYejRSSVAySGtRZ1d2YWwyMFA5eEZldVNPYWhPWVk?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGNfR0s0UkNtNGoyU0FUU2I5YXpyQktSX0ZwRmZuYWhOMVktdVV4TTA1TEhwbFpiWXhSYlMxTmJHdHlpa0lVd2xYcHc1ZWZXd2U2NmdmTFVMa3dBeHdCSUkteEFLRkpzeFZ3Vzg5NExfeUdLQ2lwWEd4WXZ5aXZXUE5nRmg2bDlMX3poZ1A4cGVwUGtBT1RMMU1xTTdtLTFZTVY2TUN6MkJ2ZXo1bFgzeXpxTGVyUm1OZl9Z?oc=5"
-        },
-        {
           "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVNMN1pKUU9YX2hscG5jZGl6TlJkaFlYUWlpby00LWdyWFppcF8ycEVpb3RXb0UtOWs3eXYwU2RZV1VlZzZzRFFkaFJOOWotQlJEaXFnRWZQbGtkRFhPSzRWY2I2RUlkc19rZV9HU01kZHR3SWZscTJ5bHFqWjlzNUdJX0NvVGtnMkhMb1BHbklJbUp0WEo0NnNwTVJRWUlfZFpUb01ZU09URnZKMHRIV2hmc2NXYU80UHlQcnlseEpMdVBzTHlrSEV30gHPAUFVX3lxTE9YVldHWkpoM1FuTnhZY29faWpQakpEd3RUZmV1c0ZlTWt1ZHE0RlVOdkVSMFZEMEJDRzd1QWpKR2pCSFgtYnU5V0t6empRM2o4UUpDcHBhVXliaWwwcDNTeG9CSHpTZmdZTTRWVk5ILUt0ZWdoeF9xRS1MX3prQnBlYlotbEZqX0lYU2doRUJuNlRvNzhNNTl0aDlFUTQ3WEdtbVRONURhcHpsTnVNclI3aUxNNTh1UzNnc0xYZzJOVElBcVdQM0lzaVhxSE5YVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmVuZkNSUExnNUloazBMOTFtYTJINjBwcnVodTYzRHZOLUFvQ3NQd3RKR2NPdWRhNjAxUWRaZi1TUEw0WjFacEFFRDVrTDNJYWFnN0RKR3BwaFhHdDVpUGhJR2d5RDl6THlzc0JXQ2pUVUVSRl9yRVRWSVBBTGFwUnJBZnJjNWt4TklTRjE4bjNGdERfRTBqX3loQmVTVWJTd3YtSF9lS21UdjkwRS1mRGdtdWI1WHBnQzNLOExMaUVILXJFa2UxZUFFOHkwMUNueVB2aVUtSQ?oc=5"
         }
       ],
       "source_count": 2,
@@ -244,33 +304,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-woman-government-officer-sits-with-begging-bowl-outsid",
-      "headline": "Bihar woman government officer sits with begging bowl outside office over 8 months of unpaid salary - Moneycontrol.com",
-      "summary": "",
-      "date": "2026-11-13",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSXl6VW9OckpST2Q3RUZ5RjhTa2c4ZW5YaENtSTc3SGdJdjI4V3FrbjFkTXg2b1Fqc2Q4MXN6WTNuVk82RUFja1lNNFBpZzhaWHhPemNMS0l5Q0JhbDlEcmp4cXQ4SFkwbkhtQ29TRnEzRWk0NXQtQjRVVlNrWlFzT2l5MFUxOUlWNW80TS1ybzY1Y2JveExrRmxlWU1Hd2xneVBRdFFZY3dVSm9lWFR3VFM0OFFCVzdOSFZsa3lsQjFSLUF0ZGFvVDNlYWZzNHpOb2kxVTgyalZjMWtoR3JsM3VNUExLa29SLWfSAe8BQVVfeXFMT0p6eTE5ZzEwLVZuZGU3amQ4aXVjUTVmMDl1M1J0NDIyd2pOVzU4a3h6bkxEeWJ2dlZ2dlZxb2FLNFpOU0hGWkFNenJLX3hCcTFWWmgzRzlpNnBwN2FlUXlZNUdxZWtLV0pmNEEyX3FWY2V0QjRjdVNFMUdyNlF6SkhNVXpLQTlCTFZyaEVVOVpwUS1mVGFic18ta1JpcDVGNDhZRHk1Wjd3OUgwTUt2bVBubnljZkpXSmRuM2lYNGcxQmJodTBlS0p0cDFBNGFMV2VoVXdwcmdsTWFLanNXVlRoWGZQV05qc3BvR2dRSkE?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZ3NaTEU0aGg1aG5ZOTBVMlZ1R0RjN1FYaVpyZXQ5T1RZalpIdkpyVWliX0k3MEYxWDJGMkhjWlZxN0tlYkhGUVllRk9EMVM0TVdoeVhyNThuU3JqUEg1ZEZmWWs4RTc1UnpkVUF4UDRxX3h5eWxjMGdxZklLWlJvaE1oaXd1S0lZS2tQVlpYM2VHNXpDZy0zdnppQ29QVjE1MDVvR3VwbDZpb0pRTDF6VlA4R2x5OEtPa25iOXdkdF9pa3UtMUZjRGdXaXR3TVFPU1BGZFQ3QVh6NjE1MXd3Z1NROVdxUXoxLW5kZ0RVeGg2WjjSAfgBQVVfeXFMT2cwM2FINF9SazRVSlhEZmRBanlCV1VVODNXM2NsWVpNeVIxM1ExRS1DZFlTTXN4NXg3ZGlHd29COWEzWEdGN1Q0YkZRb1RhOVpXUGlqclJyZElab2Y5aXBNSFNYYTdxMl9XSVo1UnMzMlVlRHo5Qmk5XzRfdEFYX1JRdUpkMGVzVzFhcEdyTE10OE10X3Awd1FBblgtSnd2TElDcFdaWm03aVRtV05TSS1FWkpDVjBneDRtanprUjB1NjY5VldnOURYdDFud1Fwb3Fvb0U4NXlBN0FTM0hWQlpXZEFmNkVIeXdJVUUzRGlPdGlOdVlHdTU?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar woman government officer sits with begging bowl outside office over 8 months of unpaid salary. A politics-related story. Covered by Moneycontrol.com and The Times of India.",
-      "image": "images/bihar-woman-government-officer-sits-with-begging-bowl-outsid.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "3-0-jagran",
       "headline": "छठ पर यात्रियों को रेलवे का तोहफा, दिल्ली से पटना के लिए रवाना हुई पहली 'अमृत भारत 3.0' ट्रेन; क्या है खासियत? - Jagran",
       "summary": "",
@@ -285,15 +318,25 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDF6eGJpUkdobFhtaE1zdzc3RVM3Sm5QOTVWTVNacWJKVTJndXhhZE9KeWhaZTFzWXdhcndsRXhHYVc0TWszOFlPWTh3aTJ5X3BPV3ozRWlVV3NTS3hlcFFpMlVKN2xWYW9XQlBZX3hITGRoSHVxZ2NwTjFKbVVQMlAwOWZ4LWZ0dnQ5bkVSRDc1eXc2RVBkcG9BelVwZXR2ZWtkMm15ckNrWnROcW80aG4tQk12VmlpN3h1dGJhMGt4RzZyeHNvTVZtdVRwWURn0gHXAUFVX3lxTE8yYzY3cXhzVHJmT1VLRVpRLU1MUVA3dllZc0J2ZzJTdE9Wb05wSFp0eWNCQ09fMzI4elFLRHNaY1NLN3FaRW9lRy1mdFV5SFBqSnlVcUdvLUZPWjB5aVJjZWJhRWdQdTlMWXRHeFlwczl6dTR0NFBFZV84blV5NGNQNV9qSlprUHV3Qy1xSnRBOF9maTJyYXhKVmREU1NuLWRUN1JwaldITzFuemZyNnBKbkQ5U0xKX1JsR2JDM0txNUNyWDdobEdzSnJUYTZjTFc3RTI0MzhR?oc=5"
         },
         {
+          "outlet": "ABP News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkwzbnF3bjRtdUduWGoyNFRON3JKNU1rRUI0ejU2YmpVME52OEpFTm0yb1NieDA0ekpIY21jUWRaWDJEbDZhR0djV1o4S05Vek1fMDFabjEtV3JXdF83cTV2Q3pzYldWN0doNlpuWXB1V1VlcDlYUk1hcjY2dFpGTnFFT2JSamlvaGduQ2hzOWIzWjIzQWZnUHpYcmxxUjc2MHh0bm9xYjd2Mmhtc05uX3BCQXpPRHRZblMwN2t1ZFN5UdIBxwFBVV95cUxOVnRKZlNFc3Bwb2I3ZTVsMVFoUVpVcWduRGRQRkp5SWVIWGJZLUhCU3BtS0ZkX25qRlVDTlV4TVNRVjFEcEMtd3dJNHgzY19rVENsUWgwckI4RzZFLTVuRXgtcDFzYXNza2JWdTVaQjNmMWhkUEdpSzU5WDRCa1dJS2VMMzEyLUV3TjlFWlYzREJ0SnBlb2tIYlk4M1o4a0JHLUNzSnUtNlVsdUY3QWsxSWpOcEREWURzazJVM0FBX1RrbnRUekZr?oc=5"
+        },
+        {
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUhuZnV6amJQUElzTVNjRTNuNWk1M1pRUzd4alVCUzVERHJRVkpZTVlIOVo4SzdoNWtkWmdyVEkyWWdfRVlaQlE3d0NIMHIwTlFNemhzb040OUlVRi16ZGpabFp6WklZdUpWRWtSVWhjRmJybC11R2pZWUdNMFJBTVNJSUV6TWlDcDh3VlBKaDFqYjcyZHVBSFFrTG5GV2lUZHBOREJqMUNuV0liaFFMNUJzZnlGYVAxLTlHUlZ3?oc=5"
+        },
+        {
+          "outlet": "Sarkaritel.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1F3RXJWZ2lhZUp2OEFrWmZ0RkdNNEhCN05zd2llWEZhTzlwXzBMa21kOXNDZnVfRDVweDZ4MTludXpiX0xRVllHeldqUjhCSEZiX2R5cHNYX3UxTl91Nnh0ck5MekZpTnc2NUtRNzl6T0psQVlBTlMyM05kVkxuaTlvVmhkQXRa?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "छठ पर यात्रियों को रेलवे का तोहफा, दिल्ली से पटना के लिए रवाना हुई पहली 'अमृत भारत 3.0' ट्रेन; क्या है खासियत? इसे Jagran Josh और Jagran ने रिपोर्ट किया है।",
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "छठ पर यात्रियों को रेलवे का तोहफा, दिल्ली से पटना के लिए रवाना हुई पहली 'अमृत भारत 3.0' ट्रेन; क्या है खासियत? इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran Josh और ABP News शामिल हैं।",
       "image": "images/3-0-jagran.jpg",
       "image_kind": "photo"
     },
@@ -382,6 +425,33 @@
       "genuineness_label": "Verified",
       "brief": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market. A crime-related story. Covered by 7 outlets, including Livemint and BusinessLine.",
       "image": "images/patna-municipal-corporation-lists-rs-200-crore-municipal-bon.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-cm-launches-water-metro-service-on-ganga-river-in-patn",
+      "headline": "Bihar CM launches water metro service on Ganga river in Patna - Prop News Time",
+      "summary": "",
+      "date": "2026-11-12",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Prop News Time",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0U0M3I0WmJqcm9ra3hMRmtRdmZOc0toSm5jems1UUlYcl9tSU9hRlBkYUJVZUpqdVllYUxHYjMtSTBJWTduOFhzdGpzOHFCUl9ldGVDNDE2RzBuLWVtcW9jSlkyaWlna3FEZ3BPVkF4cU9MWTIzZ04tR2VqTUQ5dE9YbURoemt6UVJYcmhBZ1lIMEhkemRXZjVaeE03S254Mm04TC1oY014UTBIamRzVHJzYw?oc=5"
+        },
+        {
+          "outlet": "ET Infra",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOXZOYmpMejMzS1NpZjJFTWJDS0JEVktkTDRRUW51M3BUQko3TnIyWDZkdzlBMlVzMExSbGdqVVBsQTdIMFBOVXRod0Y0ZUw5X3ozWkk0MmJya2VwUUZvZXlaUlB3eVY0LWNEZnIzODhhbFRzMVlzR2wzcWd0RndzRGtKMDB5VG9uMTJjbEZzY2NvZTJlUEJraTBCUnNaRkEyblNTZkpVRUVXc0M0amF0WWVRZ1ZKOTBkRFY5MmNTbjMzM211MnI1RU9GQVJwU2ZPY3RzNktQZ9IB2wFBVV95cUxOZUIwR3djVVpHeUhZZkZHNDV0U3hqQ2M5UFc4TlJjSHF2WWkxLVNqVXZQb3g3dEpsMzAzSjlDNFRoRlIwZGY5elQ3am1xc3drZ2RuWVBYOGhOTG9MUWlYWmlIa0doSno0b0VlTU9XdUw5UWlPaDlhbFZpY1ZOSFh1QVVoOUZvM0xycjNFOUdhY1pXM3MwbFI5ZDJPUVViVUM1YUhxVkFGSWNiTGRvbHJ0YVg0VHNhSlFJcmJnajVTbG5JVGNsU1cweTRDOW5UWWlnT1FqVnFwby1RWFE?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar CM launches water metro service on Ganga river in Patna. A civic-infrastructure story. Covered by Prop News Time and ET Infra.",
+      "image": "images/bihar-cm-launches-water-metro-service-on-ganga-river-in-patn.jpg",
       "image_kind": "photo"
     },
     {
