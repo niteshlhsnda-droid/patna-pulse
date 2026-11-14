@@ -1,110 +1,9 @@
 {
-  "generated_at": "2026-11-14 13:54 UTC",
-  "generated_at_ist": "14 Nov 2026, 07:24 PM IST",
-  "story_count": 43,
+  "generated_at": "2026-11-14 14:55 UTC",
+  "generated_at_ist": "14 Nov 2026, 08:25 PM IST",
+  "story_count": 45,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
-    {
-      "id": "bihar-four-day-chhath-festival-begins-with-ritual-of-nahay-k",
-      "headline": "Bihar: four-day Chhath festival begins with ritual of Nahay-Khay - News On AIR",
-      "summary": "",
-      "date": "2026-11-14",
-      "topics": [
-        "crime",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVllMUG5DYWhIZU5UODRfM2RKdDRGbnJCM0U5QlFOLXUydzROc2N6Yms3VGY2R1NyOVA3VVNLSGE3Z0VNSy1ldHVkeURoalc4ZVFzRkw3S2dyeVctRFR5bnAzOEFxZUpPb2tWYWozdW9wajk1cnBXaEtrYWV0WXRVUkRNMWlqVHpacG5mZHYzRmpVeGdYSFl3M3hGZnA2WHYwMlFfaHRtMGpRYi1YdERnRHo4aFpfZHpKYW0yUkRR0gHEAUFVX3lxTE1RTHJIRExfRGJIZlJfcnJObVdZSGp4Q1hacEVSZEV2X1htQVRqdnJwOG9MeW13bnAzcy1KQ2NtbjJXckJZYmMxSWtfLVRSZHR5UEdnd2RFcmhJRUoyWWdhZjkwU2t4X1FaX2tWLU5abXlBaE9tZ1p3MEFkRUk3Ty1lSDlKaGpjeTZoV1R3MjV2OEtkeUJ5SV9yNF9lNTRPeGdxNmtCUXFNUU13Wk1OVXBzQ1QtZkxOaWI3cHZRakNDcDdqOHM?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdFJlY1BSYjFVd21hWWVMVklqQ21WbEk3SVFRMWc0YlQtcGJHTW5oVW1SZGJmUTRvU3pXVlAtRmt2LTVFN3NGLVpRY1ktRDRXVTV4aml4d2dJSjAzTG5KS3Z2d2ZjTXNSSjJ3Nk9xeV9fV3ZvcGxzNHd0NTlvbEpzeGlrWFk0UEFzYUdqQVlObTJiUXh3cVd1Rzh0MzRhOGdLRlkxMVZiMVJBeVBxY0hMNU1uMW84QU96YldN0gHAAUFVX3lxTE9oQXpqRXBjb3pVNmQzcTRPWXluTHhUNm04ZVY2bC1oOEVDQ3htS1c5Sktfd2tfRzJHc1hlVjVhTWtCMjNfa2RFbUZWeEpSeXZaLVA4cUxRQ0I2bmZpWlRiZFZzRnhhUHJjNkFSNXpraEVHZGNLNGVzVFpUVEFNbWFTampCNVNpVlV5MGJMZERxS2ZpWXQ2R0EweHR6ajU2RXdfZFpjNVpzcmIwX2tFSnNYUzhVb2hDT3NwSnJlV0xTXw?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjd5R0tWVGswdk9CdkdsT2tZZWVWeWh3U1gwOG5wb3BSaU9Lb2cyeUhsV3lzS0ZOT0NvaFdkQ1pzd0M1dTZEN2ZzUDBVV3ZDSWxVT3lHYzR4WXZKZXdsY1Y1QWdpd2NKMEpQd2doSWxJT0ViR2RlMnBYdmk4TFg3cEtmRXFEb09KSlR1YVpnaUVmQ3JjMVBfcHRzMTdSVmtCNmRBMUVGMFRUWEVn0gGyAUFVX3lxTFBGOHYzbmQxZnpXT0pUXzg3SlhZVjVneFprcEtPYUF0Rlk4azBVenBaQnNQYlhyakJSWEQwTkNjTEV2elhrTzNicV9QVGRwQVNEYWE0YmF5UnpNb0pLdEdYWFZGY285ZDZNa0k1UUw4NnJmS0NLSnNBSl9zODZpOXhLUV9zX1Qtb2xNbGY1SVpTUTVwRXlkZ1lCQkdiQW5pekFjWVFoVlVUbG1FU2VSemZTbEE?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcTdHcjhpR2RzYjNFWVBfV25abmFJdkUzMzVvNkVlZzZQTVBJQWlDNktySXlxN2prVTdzdXlDUTBfN2l0REhhbERrRTVJdHprTXM1VGtRMGxrdU00N1p2QVo2bWRUZHFNTkQwQS1SNm0tZ3hVYW1KS0QyU0VRenRLYW1vQXF6NUZCUjh1NUc0U25yNXRfSWltUWE2Z3U2MWFMdXB1dDVWT3l4NDFDN04zdFRZcGNPczNl0gG-AUFVX3lxTE5rRlFQZFdOUFBUNHQxOW5XWjdMeVAyaDhOVFVmNFo3T2tldlk3Ukk5TW9OLWxXYWtlYWFEVnNnZFhPemN5bUZoUjBjYjJMdDRiVW1wTklRZDFwcXFXT2xEdkRDa21DbnViMGp0Rk9ES3pSOFpzQzBDbnBNbDdkRHdFeWhQWEFPRC1QSTZ1Q2M4OWpmTHBqLWFRckxfRWNTRFBmdno5ZUo5RmFkbEpuMlFOWkhJYmw0R0RMc1BtMlE?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdVdlMnRYZ3haRGE3NTdmTXphc3NoTkRoOE5BSnJtcUhtcTdISmVzTmNFSzJodF9kcXhsQmNfT2ZPM09BbGVpOTlqc3NrTDJjZkdEVHlKTVRraEstY1ZybXlTUXNyRnZ1NmdnZHFsNTBoU2lpSXZKY09RR016UlNfblM0ZWxWX1J2LVpwcEFRbTVBWGJQd3pVNUhDTW9xR0FVbllDWXBOMWxKQnkwaE03bGFNR2JaaXPSAbwBQVVfeXFMTldKcy1QcHozRlIydXZWd3NxT2dyQWhISnFnVFRUOWlWMTVRQXdYMnUzUERIVWpMTVZWVEVJeUgzYXgxN3ZpeTZHbGlxdW13T3VzcUc2U01TOU8xalF5TVZyb2x5cXczSXlBc0EyZ0J5XzZzOTVtUWVyQlZsUE5aTm5QbDQxMFpibWVUN0pTQTdUU29xbGRtWlduNFBTeDExWVZsdWVGTWJoclR3MWV5VHdmUURiUERHbFU5UkI?oc=5"
-        },
-        {
-          "outlet": "News On AIR",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEZEMVZQenIzWGpVU3VFMGhkemF6eW1jWVhQdlJKY2l0RDZydW5vQ25pSEVSOFZyazJfSXgwNUFfd0UzOVlJbFpOazRHdW04bTNzTmcyMTVfSDVRTHBSYldra3JxbE1Rcm91ZFdfRGRGdURKQWdOR2pZYjRfLWEzVzN4bWlrN29BaVgxZi0wRjlWemNfemt6MHJfa0txNjNCaF8xMDVVOTlfOElsZWxCUk9mcEpVblRIOFE?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV1ZIZjBxV2gzX3NxeFd3UmtPeDJMM2dvSlAtYUJtUU50Zmtpekphc0xha2RLd1AwVzZLVGFYSnZrdW4tZXFVMzVUeS1HRXVpU19pUGJaLXFjeVhhbTFHNldXb2dtRldyeEtKcllUMTlaSUVBREQ1ZEpkSFlyQV82S19HNExqRG1fd0hfVjFCWlZxbkF4OENZUFBNU2ZiWExkV3NzaTBFLWhWNjdJOUFZT19Fa3dUWTZRMTVWX0dMdFZrakNlR0VTTdIBzgFBVV95cUxPNzB1NFRKcmhvNFM1V1RMNGZVbGRZQ1dLNzdhYnhoYW5MRm9VeXRMUnNTWFZuVEl5MU5zc254NEIwejZicG9zenZRT1F2SFFGdkJSZ0hiQ1JfdVNCRjgwdlJZbUpoZ3BUdjdfTjFMb3hlOTVOS2wzVEdWVDBkYnJRYlJiYTFscFdTbmIxbnBSbHpvMmtMYTRTN2M5b2ZrU095VGZOb1VsNnBIMVJlTWlNY3Z5eWdpenlxME5yYTFmVnl1MjYtQWlDRzZHOEhWQQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTRKcWRNd3p1MGFMa2pIZzdsd2tZY25YQVM5aGpWeVd0Q2xudUVwbjBFZEpPVDJpUUxVSHpuSjBlbXdfSHVjVHliZTJrMUc3bDlBU3ZBS2wtTXBlWEo0ZGpaMHlEYjJ6NnlfU1VtdS1mdUd3d0ZSdF9JZG9mQUFaTGFqdVVFN2dyV0pWRE1Fc2dRQlh2VUlWVFR1VmhzZ0hGTVdCZnNyeC16X0k5bDRjamNDRdIBuAFBVV95cUxQY2RJaEpwTU4tRVpRNmhLX2hGUGh5cU9VejZfZTJxd1BiRmZLV3BOV3NFWHBmcnNEMFBFVXlCOWNpNTJ2UkJ3M0lSYUlGdmdYdzRjWWFMblBVWURIWHpMWU5Rc3dUbDZPazBXMmNQY3BKVllqZTd2WlRzVmhZM2d5TW81X2hWM0tGcmJOcVRMTkIxSWhMS0MxNkZXb0c0WnRSSGt6eFgtUUs2SmtTSmFTSmxIeWhQMHJL?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcWpQd0ZxZGhZMmZiYUgwbHIySHZmamFBcmVzcGxUaGp2ZUlFeFpNdlZzaEVRTjdrMFBkdGxJRUhnaHZNREJpalJ6UEhlUkVpS0FSTnkxeWlRZlJHdURMNzlaT1lIaEhuSWpCTllUT1J6ejVlVDZrQ2VoVnE3dHVkdHpnN3BaREVHRmNjVUFUb1QxbWhDUXJ3T2Uwd20zaTZ2U1BIbGR6TmdVTnFqY01QUXpLT2FkUUFNQUFEa0hKdkVjTHRyYndZ0gHMAUFVX3lxTE1lQTllSHNzR2lnMEdya3UwOTVxdHF2eU9td3E5Y2pwVWhyRDlJZENJR0VTZXJRWWkta0RYZk4xQThHeUJEU1BxeHFpOVdJMVFJb2JWSzdjeGw1bmJKaHBiT1ctZHdYSmxRanRmamVrb3lVNFpBcXVoaTFESjE5X1ROUWlxanRiVjdJdGZKaTBPUG5ENVJYZWFmTno4QnpnTFJoaVZUbWMyMFQ4bG9acGtnTGhwbXZJMDJzSmxJWkIxaHZKeXpfdnBrWGUtRg?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3ZwT0plUTZoQm5NZjRCRVdQM1ZQVk54aVNlc2g0LUpRMEl6eHJWdDdUYnRPQzRMTElVOHBBN2ZlOWhkT1kwX2pXY0pBTmR0VG9MZ3BDSGdQQ1ctSmlLM2hwdU9sVm1leGdGZGpPb1BLY0wwWFBTemw3NFB1UWFtak8xR0FsRWRBWkROQmZIcmxERUt6eDNxdWREdWR3NGZCaUJRMmRiNlUwWjc0elVqOWlDZ0kwTmozdG4w0gHAAUFVX3lxTE5EQlY5cTZDX0hULWF5TU1BdkNzV1JkN2pjcFBfZFdDUFB5ZzAzVXBvOEJWUlg0b0cwRjZpYXFBZ2d6NjlLNlB0dWllZVN1enRDSU9GREdhU0x4TDRrTkpNU1R3OW93M1pNNEJJVE9fUGYzbkJiOHJuRWFHNmdxYXJ2Zi1LdEY4UXo0UDk3RG81N3l6Q3R1cXRLbXFoeHdrNmJkVFYzMXBQajBtY0ZPOEpDV2JrMFlBeEh3OFlDUU54dg?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOURHZkV5bjVKcTRNV1VFX3BPQXdfbGFCLXc4TWVOUEladkNuVWpLOFY0ampibGsyRE9hMksxdzUtZjZrYVJoaTF1cjg5a0k3S2xBdVJqUTEzbTE2NEdFTmxYbDNXMUhDb3JyUG85Q010YUxJREk2amw4MFJUakpqc2M2QkJHTnhkaUNOb252dzBXRzZxcENPWWV5dFZfVFkyZFlpZDAyLV9EZmNDZWxqX3ItSkJWTkJXcWJV0gHAAUFVX3lxTE9sV3FqRzJQNkZNY05CaHk3dlVzb2tlYVpBbHRsYXJ6ZFpRcEpyV29kQ05jc2ZDcVZ3dlFVZloxX2lDdW1HQ3ZGS0xDeG9OcElYUXp4bkF2ZDIwUEtCWWZRU3BWTXlwTWhvNmE1S01oaHhGUE01ZU5wZmRzY1J5UU9HYWxvNU5UYnBVU2JYZS1LU3hhcXRJczJvbFNqRTFyLVY4d01kLXgwcDdvd0J1LXVHZDB5c2FReTZIS3lRemRxOA?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar: four-day Chhath festival begins with ritual of Nahay-Khay. A crime-related story. Covered by 3 outlets, including The Hindu and The Times of India.",
-      "image": "images/bihar-four-day-chhath-festival-begins-with-ritual-of-nahay-k.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "1-09-lakh-mule-accounts-identified-across-bihar-patna-tops-l",
-      "headline": "1.09 lakh mule accounts identified across Bihar; Patna tops list | Hindustan Times - Hindustan Times",
-      "summary": "",
-      "date": "2026-11-14",
-      "topics": [
-        "crime",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "Hindustan Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFBqVE5TNkNDQi1nZnVHOE5Sd0pXNjFCdVFkeU1XNzBNcmJub0FmSHVxQ0pOaVlDdXRWeXFBdFhwOHM5TGlfZTduVldQeFVURWxZcG0tZktyYkNybzBaUzJEOEplOTBaUEw3UGZYYnRJb1k5MXJYOHphSVBjV3I3MXlVbHZUcjVfMnByTk8tUlNUbFR1SlgtU0c4OVlzZ1ptdzVnUndtc0JIZGJzc0tnaXFoS09BSkV3eDhzU29NWGtRcFdKaEQ1RkhXM1DSAdIBQVVfeXFMTWQycVZpSlpOUUl0ZHRURENFR3lxcUttV0tkUlBqMy1FTm5id05OY1RjYzhuRUctT1JoektSSmdqaGdBeUhyNUJmbFl0bHlyTnVrVzhDdmN4R2h5TFFkTllpOThwVVI0dGdzNHlvV3IxWjdFMG9WMjVvNkYyUHZ1UkFublpudkRJMXZyaG9ZblBiV3dwMXFuRVkxLUw3MEVmVjdsN3JFY0dmRldLRDB3Z29ZZDhheHlsVWFXcTZFYkFxdDd6bWxmcENCODI5S3lGSGtB?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0dqMFZid1RiZ2hLODNsQmcyZ1FVTXMtOEhQcm1CY3VuWEExZWptNmhMclN3RFBZamtkSjRHcldMRHJxSFRDVWRmcWl2X0lhZElJSzRkay1DU283QWhWVTFhTklUaldrSV9VSHBEN0FFWWE1OU9QOC01M0Vac2E1UmNtS1o1WHNzRFFZMUZIWjlSS0NDV2Q2UENOQjdzUXRVMFhuemZHUGpWLTRxdGk5bWNuSzN5S2NkTzJqdy1mVm95R3BGM1pWemk0N2F6dTTSAdYBQVVfeXFMUHl6ZUQzdzUyQzdXamtyTGNwcWhUSW8tMlFBcWRhX01XV2NXeUkzWEdOZW9JWURLQktVM3IxbXBIUHMtLXJTTVYtV0hQb0dGdXJwZndwbnBxa2RwaEg0Z1hDOWcwWGd6YXRURkRWNkJyMFJvSURVZ01JeFpPVlVqUVJNU3hXRXJUS0I3RmprdU0teU9vRlBzMFlZZWF1Y2NOM1RmT1FwLTBqYWhpMjA0QXcwaEk5YjhEbDBxa20zazFsalZGbktiTW9fblpLMHdMbXpkSG5JUQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "1.09 lakh mule accounts identified across Bihar; Patna tops list. A crime-related story. Covered by Hindustan Times and The Hindu.",
-      "image": "images/1-09-lakh-mule-accounts-identified-across-bihar-patna-tops-l.jpg",
-      "image_kind": "photo"
-    },
     {
       "id": "patna-becomes-india-s-second-city-with-water-metro-as-bihar-",
       "headline": "Patna Becomes India's Second City With Water Metro As Bihar CM Inaugurates Ganga Service At Rs 50 Fare - Swarajya",
@@ -149,6 +48,11 @@
         {
           "outlet": "The Times of India",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEx0alBNOTNCUlpULTZKdjFlZ252MU5FZTEtUEI4VHZhSjZVQUFYVzJyUDJWNjkzNmdHVlQ2alVyR0dKNng1T0ZBZmZOalJ1Y2M5SVRERkJtdDlhRlJlUFp0U3BxRzNpZlEtUm8wMGtablNhS0VLcV9sMTQwZGtOblcwWTNzQVRTT2VHa3cwQk5FSmVIdlBSTkZaUXAtS1FDRFlVVE1iTUpJUVVhSkNYRXdoZG3SAboBQVVfeXFMTXpPZ0t6Q3VVWVNrcXJ6ZzFDcllfSkdWcnBOVjFZTElib3hRTFJoWHQ3U1dBY3VTZlFxNWhJWHJUWjN2MUVfejhEOEhjb09UZE1KdEgtd21MX2Z2Q2NvWlFPczFreTlkUDdmV2JSMV9mZGZJWjM1WV9ST016akpvVGRPbTJCZ201OFFXemhtQ0JwNUNjdUJ6X2Z0TmFqNUc1eWxtY2ZXZEFzSElnQkh6NDkzUi0tM1BRVGxB?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmVrRHR3bFhka0MwVDJhZFFHYXU0WFhUMFloR1I3VUM1cWhndlNLeld0aTRSQ1dQd3NMenVoX2EwN1RqUXNDbFo3ZTh2VGhnMjh2bHVRMjlYaERrZzRZb3UwVXIzY0NCQ1MzNzB3SlBtZU8ySFRMeWhrSTBlRXBNZWJiamZwR1otZnlkRWVpYUw2X1FFOVhjQkM4SUpiemo0azZKVV9NNXlRdTZLWVRXN0VWclU3Wm8?oc=5"
         },
         {
@@ -182,6 +86,71 @@
       "genuineness_label": "Verified",
       "brief": "Bihar cop’s wife shot dead at home in Khagaria; domestic dispute suspected. A crime-related story. Covered by 3 outlets, including The Times of India and Daily Pioneer.",
       "image": "images/bihar-cop-s-wife-shot-dead-at-home-in-khagaria-domestic-disp.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "1-09-lakh-mule-accounts-identified-across-bihar-patna-tops-l",
+      "headline": "1.09 lakh mule accounts identified across Bihar; Patna tops list | Hindustan Times - Hindustan Times",
+      "summary": "",
+      "date": "2026-11-14",
+      "topics": [
+        "crime",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFBqVE5TNkNDQi1nZnVHOE5Sd0pXNjFCdVFkeU1XNzBNcmJub0FmSHVxQ0pOaVlDdXRWeXFBdFhwOHM5TGlfZTduVldQeFVURWxZcG0tZktyYkNybzBaUzJEOEplOTBaUEw3UGZYYnRJb1k5MXJYOHphSVBjV3I3MXlVbHZUcjVfMnByTk8tUlNUbFR1SlgtU0c4OVlzZ1ptdzVnUndtc0JIZGJzc0tnaXFoS09BSkV3eDhzU29NWGtRcFdKaEQ1RkhXM1DSAdIBQVVfeXFMTWQycVZpSlpOUUl0ZHRURENFR3lxcUttV0tkUlBqMy1FTm5id05OY1RjYzhuRUctT1JoektSSmdqaGdBeUhyNUJmbFl0bHlyTnVrVzhDdmN4R2h5TFFkTllpOThwVVI0dGdzNHlvV3IxWjdFMG9WMjVvNkYyUHZ1UkFublpudkRJMXZyaG9ZblBiV3dwMXFuRVkxLUw3MEVmVjdsN3JFY0dmRldLRDB3Z29ZZDhheHlsVWFXcTZFYkFxdDd6bWxmcENCODI5S3lGSGtB?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0dqMFZid1RiZ2hLODNsQmcyZ1FVTXMtOEhQcm1CY3VuWEExZWptNmhMclN3RFBZamtkSjRHcldMRHJxSFRDVWRmcWl2X0lhZElJSzRkay1DU283QWhWVTFhTklUaldrSV9VSHBEN0FFWWE1OU9QOC01M0Vac2E1UmNtS1o1WHNzRFFZMUZIWjlSS0NDV2Q2UENOQjdzUXRVMFhuemZHUGpWLTRxdGk5bWNuSzN5S2NkTzJqdy1mVm95R3BGM1pWemk0N2F6dTTSAdYBQVVfeXFMUHl6ZUQzdzUyQzdXamtyTGNwcWhUSW8tMlFBcWRhX01XV2NXeUkzWEdOZW9JWURLQktVM3IxbXBIUHMtLXJTTVYtV0hQb0dGdXJwZndwbnBxa2RwaEg0Z1hDOWcwWGd6YXRURkRWNkJyMFJvSURVZ01JeFpPVlVqUVJNU3hXRXJUS0I3RmprdU0teU9vRlBzMFlZZWF1Y2NOM1RmT1FwLTBqYWhpMjA0QXcwaEk5YjhEbDBxa20zazFsalZGbktiTW9fblpLMHdMbXpkSG5JUQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "1.09 lakh mule accounts identified across Bihar; Patna tops list. A crime-related story. Covered by Hindustan Times and The Hindu.",
+      "image": "images/1-09-lakh-mule-accounts-identified-across-bihar-patna-tops-l.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "akshara-singh-celebrates-chhath-puja-with-family-in-patna-pr",
+      "headline": "Akshara Singh celebrates Chhath Puja with family in Patna, prepares Kharna prasad - ANI News",
+      "summary": "",
+      "date": "2026-11-14",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN2VmTmF2Ym5LYmcwS1ZFUGhUckx2dGVGMmVBcDBTS0lEWkpMalJ4Z1R1bGxSdldSZV9KOVZ5OC01WkVaMkg5eTEyeEphaWE1RmRTcGhPcEFDeVNlXzBhc3pZYVhkVi1qUERHZ3dOb240eWpPcUJVYm5rbThUM0JTWm9zQVJRUTdBbkZkVmd6X1FZZFljNGxFTzh0VjAyd2dTOFZUdXp4cW1JbER4U29NWHBydXZmS3VLWlZaNHkzVnBTYXRETmxybDdB0gHPAUFVX3lxTE9MbnY3TlRxOHFvZ0kzMFFPMEgtQVNDZ1prTDdnZ3FWVVVITmRzaWxOcGhvVS1JQnFpRmdfRW5UaTkyR0ZMUWxNZng5djZfekpfNG5mbVhoXzFteEZ6NERBeVB2U2FLZ0dDUHRSdjVmQWsyR1pkcjhnVXM1am1TSGFPOWZCdEIxVzBIQUdPOHJ5eVNqaW5fc0E0X0VGdm1wSVhYZGdPeXZBZDY3U0h1aEp6dFZqc0VsdloxVFByS3BKUVZYOHc1RVk4TkhHMGNybw?oc=5"
+        },
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXY5WG9TeV9DdUZQVGd0VVBiTjZ0U0hHT3RHNlFzbDI1Y1pualVZTFJ4YVJkRmRBeTdsMGFvaWNIOTNNX1Bwa2dERkFGTE14VVRKYm9VSlNlWjN4V2VOOUdxWFVnMmdsWHhqNkVDTGMtZnpRRjQtbHltWjhKTlpUOVVFcEdGMG5nRjNWMV9vbFcwQXZjVm1YcnA2VGFjZUh3U0Y0R3hVUEI4bHJlTURGQlVmWXZ1bkxTQkhtdDl1MUrSAcYBQVVfeXFMTkExUUN4LVNzemo1LUlqM3MwUDRkbW1pX2pGYWN6a09oUzc5Z0diY2hVaHJJaVN5LVZ3dEVEMWZ4SEhydFhoMkw4OVdpUXRWVFU4Y1k0X2NINVBuMG1nYldibzg0VDdwUnZiZkd4QUFVVWVyNW9uU0FxcmU2Qkp0Q0pOTTlGV1NmZXduZjN1QUFZVEdON2JzaDZweWpxakF5cEFBVFBoZDhLc2lOVEZzcFp2QU5NT2FQRFo1dTNRdklCaUwwQWdn?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUEVlRnBZOU5JNGhpTWdlcUx5S1lCc1hNb0ljVjAwWDJEZHFnZUZFbG9QTzJHVXQyNlFHakZoUm1JSWQ5SkNac20teEtRcmtLUUw0T2FxOU1Pb3hlcUNWRlpLSU5TaEplcXpWdng5ODNqZUhWb3NFVlc2UnBNU1p6NmpJZ1laYlRBbVBINW9Zc0pLZGFaVzJ4SFk1X2xPbnBVRkZEQzFyakdoWVh4MlNMT18wZ3Vyek9KdERySC1EX05OYzI5REhZRFJwYnVfNkhOaUhuVVhzMTlLNllPSUFFVEo2bmZxdUZ4?oc=5"
+        },
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeG1kYkJ6RlNaM0h4UnhCNUk1cnlrREtoOFYyQVNIWkhyZkdDeEN4dEVRbnNJVlBmUGJUcFEtZmtxU0VTR1JUMnQ2VmRqVEdlY2hPYm1hU2RQZy1uaDdqelZ5VTF3MG9HVTdEbWUwekRoUzZvTExOY3Q4Sndic3BScm1IQzBJVFNNd1VuNTYxSFNNQTZ5eW9GVkFrd2NDTnl1V1B2YjJWRlhRZG1qVXVGMThnZ2JELVZHUmhkdXU2aS1HZjDSAcgBQVVfeXFMT25QRFB3aHdRU1hJSzAwZmpjV0xIdWVsaFJxVEpMV29qcGRZODQ0Wkt3RHdNV2VfSF9pU3daUjFfbXFjREpjelBDQUdXa2UwN2pUbWotUHRvOFpXTzZjSjdIOGdSMXhJdmtzb0pTX1lxd0Zhd2pUZWVxZmVIRnlGQlBMWlNfVUNZUUlnUFVzMXJGTzUwQ3hZeVQzY2hpZkstd0EtcFlVeFBxX0FRU1ZuV1NwS2lsWWJ0Y0puYmtlSlVpZmxFUlR5YTY?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Akshara Singh celebrates Chhath Puja with family in Patna, prepares Kharna prasad. A politics-related story. Covered by Asianet Newsable and ANI News.",
+      "image": "images/akshara-singh-celebrates-chhath-puja-with-family-in-patna-pr.jpg",
       "image_kind": "photo"
     },
     {
@@ -266,17 +235,12 @@
           "outlet": "Sporting News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYUR1b0tBQXA5ekE4QnF4M0VtOVR3cUxuRTlEdDJHcGtjRFNWekFwUURUZkR6eDhLeEpWdkxRZmhkclBKb3FVNTYteFRvT0NxUXBGQkp2RWF3T09vS2ZEOEhpSk5mVF9rMzM0Z2lyTVMxeFk2WjlQQjVYcngyNVhJQTVJQjJLWEtMQXd1ZjdVenJEMlJLZWpfa1plOExCT2I2UDBjbFpIS2tKRUxDNGxib0VneHh0UHNFMkpOa1UyaDhTYUstVS1kN2lvVjlET21VUVhoajBNOEhQRUl6N2VwUkFjd3g?oc=5"
-        },
-        {
-          "outlet": "Open Magazine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcldrRzVwVjhod2NDSlByMTJXYkNWd1N0Ym1RYjh5Vk0tZUNmaG5IUHN6bFFQbEFCMzUxV0dGb1NzZmRlNFpLeEt1R203NER2NHBkYVhPVV9UVmRBNlBYR2ZORUpBYm5hQTlJYTlfSXJPOF9QQU5QOHQ4SXdweURhdm5ITEVuUFdia3djUWFJYlNWdTdKQVJfcWpZR1BpdWQtcXJpeFBoMG9XdktvbHQyYlVpcElHMGNCUy02bHpRRQ?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi score today in Bihar vs. Saurashtra SMAT 2026 match as he becomes youngest T20 captain. Covered by 5 outlets, including Telegraph India and The Indian Express.",
+      "brief": "Vaibhav Sooryavanshi score today in Bihar vs. Saurashtra SMAT 2026 match as he becomes youngest T20 captain. Covered by 4 outlets, including Telegraph India and The Indian Express.",
       "image": "images/vaibhav-sooryavanshi-score-today-in-bihar-vs-saurashtra-smat.jpg",
       "image_kind": "photo"
     },
@@ -290,9 +254,9 @@
       ],
       "sources": [
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjMxc2tQTFJzM3FrRDlQbVh2ZFRzM256LWxQa1BEd09COHA2REN6OTE0VGRaYVp6cElLcWZMZHRQTFNJNXY0SE85cDVJUTBlSzlzTDJtVmFpR3ZMRmdRaFlsdG45TFZDNmNpRFgxbi1BSUpLZnExWDlaRElsajdHYXVHYUktd092aFFTWFI3bF9rbzRhUTVMamF2aWxKRHVvZTh5cFdn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVNMN1pKUU9YX2hscG5jZGl6TlJkaFlYUWlpby00LWdyWFppcF8ycEVpb3RXb0UtOWs3eXYwU2RZV1VlZzZzRFFkaFJOOWotQlJEaXFnRWZQbGtkRFhPSzRWY2I2RUlkc19rZV9HU01kZHR3SWZscTJ5bHFqWjlzNUdJX0NvVGtnMkhMb1BHbklJbUp0WEo0NnNwTVJRWUlfZFpUb01ZU09URnZKMHRIV2hmc2NXYU80UHlQcnlseEpMdVBzTHlrSEV30gHPAUFVX3lxTE9YVldHWkpoM1FuTnhZY29faWpQakpEd3RUZmV1c0ZlTWt1ZHE0RlVOdkVSMFZEMEJDRzd1QWpKR2pCSFgtYnU5V0t6empRM2o4UUpDcHBhVXliaWwwcDNTeG9CSHpTZmdZTTRWVk5ILUt0ZWdoeF9xRS1MX3prQnBlYlotbEZqX0lYU2doRUJuNlRvNzhNNTl0aDlFUTQ3WEdtbVRONURhcHpsTnVNclI3aUxNNTh1UzNnc0xYZzJOVElBcVdQM0lzaVhxSE5YVQ?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -310,16 +274,48 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGNfR0s0UkNtNGoyU0FUU2I5YXpyQktSX0ZwRmZuYWhOMVktdVV4TTA1TEhwbFpiWXhSYlMxTmJHdHlpa0lVd2xYcHc1ZWZXd2U2NmdmTFVMa3dBeHdCSUkteEFLRkpzeFZ3Vzg5NExfeUdLQ2lwWEd4WXZ5aXZXUE5nRmg2bDlMX3poZ1A4cGVwUGtBT1RMMU1xTTdtLTFZTVY2TUN6MkJ2ZXo1bFgzeXpxTGVyUm1OZl9Z?oc=5"
         },
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVNMN1pKUU9YX2hscG5jZGl6TlJkaFlYUWlpby00LWdyWFppcF8ycEVpb3RXb0UtOWs3eXYwU2RZV1VlZzZzRFFkaFJOOWotQlJEaXFnRWZQbGtkRFhPSzRWY2I2RUlkc19rZV9HU01kZHR3SWZscTJ5bHFqWjlzNUdJX0NvVGtnMkhMb1BHbklJbUp0WEo0NnNwTVJRWUlfZFpUb01ZU09URnZKMHRIV2hmc2NXYU80UHlQcnlseEpMdVBzTHlrSEV30gHPAUFVX3lxTE9YVldHWkpoM1FuTnhZY29faWpQakpEd3RUZmV1c0ZlTWt1ZHE0RlVOdkVSMFZEMEJDRzd1QWpKR2pCSFgtYnU5V0t6empRM2o4UUpDcHBhVXliaWwwcDNTeG9CSHpTZmdZTTRWVk5ILUt0ZWdoeF9xRS1MX3prQnBlYlotbEZqX0lYU2doRUJuNlRvNzhNNTl0aDlFUTQ3WEdtbVRONURhcHpsTnVNclI3aUxNNTh1UzNnc0xYZzJOVElBcVdQM0lzaVhxSE5YVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjMxc2tQTFJzM3FrRDlQbVh2ZFRzM256LWxQa1BEd09COHA2REN6OTE0VGRaYVp6cElLcWZMZHRQTFNJNXY0SE85cDVJUTBlSzlzTDJtVmFpR3ZMRmdRaFlsdG45TFZDNmNpRFgxbi1BSUpLZnExWDlaRElsajdHYXVHYUktd092aFFTWFI3bF9rbzRhUTVMamF2aWxKRHVvZTh5cFdn?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "भागलपुर- छठ महापर्व के बाद रेलवे चलाएगा स्पेशल ट्रेनें: हावड़ा से पटना, गया; मालदा से शकूरबस्ती तक चलेगी गा... इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "brief": "भागलपुर- छठ महापर्व के बाद रेलवे चलाएगा स्पेशल ट्रेनें: हावड़ा से पटना, गया; मालदा से शकूरबस्ती तक चलेगी गा... इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-four-day-chhath-festival-begins-with-ritual-of-nahay-k",
+      "headline": "Bihar: four-day Chhath festival begins with ritual of Nahay-Khay - News On AIR",
+      "summary": "",
+      "date": "2026-11-13",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVllMUG5DYWhIZU5UODRfM2RKdDRGbnJCM0U5QlFOLXUydzROc2N6Yms3VGY2R1NyOVA3VVNLSGE3Z0VNSy1ldHVkeURoalc4ZVFzRkw3S2dyeVctRFR5bnAzOEFxZUpPb2tWYWozdW9wajk1cnBXaEtrYWV0WXRVUkRNMWlqVHpacG5mZHYzRmpVeGdYSFl3M3hGZnA2WHYwMlFfaHRtMGpRYi1YdERnRHo4aFpfZHpKYW0yUkRR0gHEAUFVX3lxTE1RTHJIRExfRGJIZlJfcnJObVdZSGp4Q1hacEVSZEV2X1htQVRqdnJwOG9MeW13bnAzcy1KQ2NtbjJXckJZYmMxSWtfLVRSZHR5UEdnd2RFcmhJRUoyWWdhZjkwU2t4X1FaX2tWLU5abXlBaE9tZ1p3MEFkRUk3Ty1lSDlKaGpjeTZoV1R3MjV2OEtkeUJ5SV9yNF9lNTRPeGdxNmtCUXFNUU13Wk1OVXBzQ1QtZkxOaWI3cHZRakNDcDdqOHM?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdFJlY1BSYjFVd21hWWVMVklqQ21WbEk3SVFRMWc0YlQtcGJHTW5oVW1SZGJmUTRvU3pXVlAtRmt2LTVFN3NGLVpRY1ktRDRXVTV4aml4d2dJSjAzTG5KS3Z2d2ZjTXNSSjJ3Nk9xeV9fV3ZvcGxzNHd0NTlvbEpzeGlrWFk0UEFzYUdqQVlObTJiUXh3cVd1Rzh0MzRhOGdLRlkxMVZiMVJBeVBxY0hMNU1uMW84QU96YldN0gHAAUFVX3lxTE9oQXpqRXBjb3pVNmQzcTRPWXluTHhUNm04ZVY2bC1oOEVDQ3htS1c5Sktfd2tfRzJHc1hlVjVhTWtCMjNfa2RFbUZWeEpSeXZaLVA4cUxRQ0I2bmZpWlRiZFZzRnhhUHJjNkFSNXpraEVHZGNLNGVzVFpUVEFNbWFTampCNVNpVlV5MGJMZERxS2ZpWXQ2R0EweHR6ajU2RXdfZFpjNVpzcmIwX2tFSnNYUzhVb2hDT3NwSnJlV0xTXw?oc=5"
+        },
+        {
+          "outlet": "News On AIR",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEZEMVZQenIzWGpVU3VFMGhkemF6eW1jWVhQdlJKY2l0RDZydW5vQ25pSEVSOFZyazJfSXgwNUFfd0UzOVlJbFpOazRHdW04bTNzTmcyMTVfSDVRTHBSYldra3JxbE1Rcm91ZFdfRGRGdURKQWdOR2pZYjRfLWEzVzN4bWlrN29BaVgxZi0wRjlWemNfemt6MHJfa0txNjNCaF8xMDVVOTlfOElsZWxCUk9mcEpVblRIOFE?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar: four-day Chhath festival begins with ritual of Nahay-Khay. Covered by 3 outlets, including The Hindu and The Times of India.",
+      "image": "images/bihar-four-day-chhath-festival-begins-with-ritual-of-nahay-k.jpg",
       "image_kind": "photo"
     },
     {
@@ -333,9 +329,9 @@
       ],
       "sources": [
         {
-          "outlet": "NDTV",
+          "outlet": "Metro Rail News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGd3dk1NcGVIa0FVQjBGZlJNNDZWNExJckFoVlplZDc0b3R5NVYyajR1clhubEw5QkNwY3RpWF9UbXR5LTVCbklaNkF0V3dXdVAtbVpqMU5FRnRVcENLbDlIeE5Qb1UwM0Zlc3BtOVVHV21uTmRIZ0pEb1B2RDJYWDBCNGZOMFgyZWQzQVdUMGFwM0NHaFRQT3dzNDNHd1dzNERIdC1nM0dQYlBVZ1N6S0dxbmhBclXSAb8BQVVfeXFMT3BRelRBdGZZTkdsalhXcnlhMW56bUJvVzFNNjlYRi1xMlZUUHZ0SDFkc0VMMlVUQU5iYm9mUXo2NTZFd2tDOEVoU3g4QzFBVDUxVndDeVhJdTJ3SnNxbHIyd05VSmNtc0hCNW03bGFjZkg4N01rcG9yLVU2cTZqbjRnbGFxMW9IWnRCT1FSM3pHNm1hV2Y4VjdfMDVGVm1PVkhkMVRBSGZ3bUJHNkp2cER1ZzhUbUxYdGFsNG1tTkk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0xCRXZRZlhRaEhyX19BUUw2aTI3MkJHSGV0d05fT1lfOVM2VmZLT1I3SExUVEdmTGpPT25fVmZZelE1TmwyWmNOOFdmWmZ5UFJjX0RQSDMtcnBnVzBnaHU0b1JDSk5hWmlkMVZqU1FXREo0UGFPSVJpa05EWVJxdGdJVQ?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -343,15 +339,15 @@
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWWtZbXgxREU4QkhpWjBRQUxENzNoNnR1eXloMTM4QWRhVlBQZXY4SFNsd1FyOHpoUndTaEQ0alpiQ2JQUEQ2Q3VyU0hnNGU0WE5VOFQ1VXJXOGRGVWJjM0dNdUs5UmkwbkFHMFpSenNlOTRzUEF6bHE2elBfQ3NhV29QcGJyUjhUM05aalRubGdGekR4M2ZPakhqeWx1VjZ2QW10d0xtam5KRFhHS3UxY0ZTcVViQlpWdE02S0c1VWFSeVJlc3A5THFxOXQ3VlYyb3h4aGVsZjhURjR1b3UyZElZWFFjdHFmenVreEI3RFpRckYtOWk4MElSZnBfRWg0YXRwQjJn0gGLAkFVX3lxTE1mc1J2NDN6RnFVLXI3c3JQQTAtOTZvYkR6UGFZSWRKc25ObXgwdTk2cmNBX01tb3hPVHl0bWNtV0E2LV81SEh0bzB4eUJEX3RleUZycTdKWTNjTTNBT29UQnlGZzJHRTg3bHVKNy1oMUlYbGFEeDlhN1pTUEc1X2JWMFRpSVo3OThTSjU3VDh5QXBGR1hwTjUwVmNFSHllZTNfZU5va3hGRlhDcFFNckRjRzUtZWpDdERjMTgwVDVkZkFJaEpZQ0hRX3ZrMndwVjVueFJNZzhiZDdLWENBSDRBaV9Eb1VFbE1zNjI4NjMzX2dNWGNRaUpMcjBDdU1mWl9YZVhlQXhvS1JtVQ?oc=5"
         },
         {
-          "outlet": "Metro Rail News",
+          "outlet": "NDTV",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0xCRXZRZlhRaEhyX19BUUw2aTI3MkJHSGV0d05fT1lfOVM2VmZLT1I3SExUVEdmTGpPT25fVmZZelE1TmwyWmNOOFdmWmZ5UFJjX0RQSDMtcnBnVzBnaHU0b1JDSk5hWmlkMVZqU1FXREo0UGFPSVJpa05EWVJxdGdJVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGd3dk1NcGVIa0FVQjBGZlJNNDZWNExJckFoVlplZDc0b3R5NVYyajR1clhubEw5QkNwY3RpWF9UbXR5LTVCbklaNkF0V3dXdVAtbVpqMU5FRnRVcENLbDlIeE5Qb1UwM0Zlc3BtOVVHV21uTmRIZ0pEb1B2RDJYWDBCNGZOMFgyZWQzQVdUMGFwM0NHaFRQT3dzNDNHd1dzNERIdC1nM0dQYlBVZ1N6S0dxbmhBclXSAb8BQVVfeXFMT3BRelRBdGZZTkdsalhXcnlhMW56bUJvVzFNNjlYRi1xMlZUUHZ0SDFkc0VMMlVUQU5iYm9mUXo2NTZFd2tDOEVoU3g4QzFBVDUxVndDeVhJdTJ3SnNxbHIyd05VSmNtc0hCNW03bGFjZkg4N01rcG9yLVU2cTZqbjRnbGFxMW9IWnRCT1FSM3pHNm1hV2Y4VjdfMDVGVm1PVkhkMVRBSGZ3bUJHNkp2cER1ZzhUbUxYdGFsNG1tTkk?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Amrit Bharat Express 3.0: Indian Railways rolls out 1st AC version on Delhi-Patna route for Chhath rush. A crime-related story. Covered by 3 outlets, including NDTV and The Times of India.",
+      "brief": "Amrit Bharat Express 3.0: Indian Railways rolls out 1st AC version on Delhi-Patna route for Chhath rush. A crime-related story. Covered by 3 outlets, including Metro Rail News and The Times of India.",
       "image": "images/amrit-bharat-express-3-0-indian-railways-rolls-out-1st-ac-ve.jpg",
       "image_kind": "photo"
     },
@@ -385,27 +381,12 @@
           "outlet": "Traders Union",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkkxajc5QmRMRnZHaGtNTHd3QXBjUzBxeXNkUXFra3BoeGxaYWxfZzRqNWVQOXRhQk1TeGVmR2RUdjZXN21DZGtTbFFVZE1nRnhRdXNISTE1VGtRQXJMaldLZHBCaXdrb1RjMVM5VmNlVENmam9vMkdCTGRTN3FKaGprR3lsSFI1cFVXRw?oc=5"
-        },
-        {
-          "outlet": "MillenniumPost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDNsT0xGUmFxQmtvVlZjUXZIaUlrcElPWHBVRy1rY3otNlNFclZwQjVyZlhHSUVCZXl1a0YwVnF2V1p2UlhfbThsODdJWWtUNjV6NTZtamF1cm9EeUlTam1VR0ZnRXh5T09TNUJDSWpkdnFuWEUxeHhfa2FMcy1NT0c0RFFPcElUbVowVnkwaFlkd0hhSVc0TjRibFNTM0EzZC1Bc1J1MWLSAa4BQVVfeXFMUHNVcVk4LXAyc01NOUJ6aEJBUUMtQ0tqU0RrUldKMGpteVdwX1hJU0FCQmd3YzRoNjRZclNYbGNTSHdqM1loVVRBaTZvSlNJd3JYZk1DRUdYd1cxRGxsUmNoMF9kMDNTdkY0djJoQ1RBT01oVkxuSTJLN3phNjN5OHpyX1M5WUtZU0QzUlBScmtUTkhsNjNpNjV2WUo1eVl5RHdHZk1hU3lvVE0tdDln?oc=5"
-        },
-        {
-          "outlet": "KNN India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkhwc2pONnc0S3BPMnFIUmdtWkRhQng2N1ZrM3p2MkdTYWFYVnJlUzRJb0dlRnZkb014NW5CdURNWDZyQ3p0QlM0RWF0dllnVTJUTGc5RnBKdHpvbDNOVXRiYWFPMjFINGxxdlNqeGREU3c3c29wXzdUVXZNbFVKYTNqbHB0VEJFLVBXczNFUTlYS1JXMEdmbjFzQkFJQUstU3NGVFE5TWloM1MxLUN5bVJEVWp1MHdJaUFhWWNmMXQ?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNenROZ050N0pNNnRENU5BdVBVamczemYwX2hyWTJrVE1PQTViN1M4YzNUSmc0ZjJVeVMzSGNGeXhlWWstZnZXY3ZQdk11Rnc4NnFiQ3hzWVdrSWp2aUVpMks0Tjd6ZW1RcnBzb0JqV0dPa2dSeG9GSlRQZlJOR3NpdklOMy1nemNNUW9CZ2dfSDJRSFdXdzhHSWFIWWdQOUtWYk5CRzBZZ1I5QlQ3bHAwVm1XTEN3V2FnR3c0RGl0SkJLWHR5QkZYTFV1SmM5UUpXZG5tb2JIX0NydmtsMlIxY1FvWUdTUURhZWFtStIB8gFBVV95cUxNZnUzMFI3UzhHbWcycmRvcTFqblNwaW43eFdWOW9zbkg4OUR3VEJrcnRTMVdqUjNuRGoyWXJZZjg4UVdlSFZFdldRcFlHcGlpQmdWUmdCNnRzSWgtWGZlOEpIeVlhMkNqcTVtSmRIOERubWowVmRBT01yWm1LS2Q2U3BJcjhrb0pPVDVxSVZQLXFReXFvMF8yTXBLS3VHWERkaXllOW1NeUgyR2NYMHNjYmxtc3djd1JXNzBFZzdCXzBYVXdFd05ENVRjNTVDUGRPR0JLNXVnTy1yY0J1M1RGN2hWTEJWLUtoWjdTY0JyUWRndw?oc=5"
         }
       ],
-      "source_count": 7,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market. A crime-related story. Covered by 7 outlets, including BusinessLine and Livemint.",
+      "brief": "Patna Municipal Corporation lists Rs 200 crore municipal bonds on NSE, becomes first civic body in Bihar to tap bond market. A crime-related story. Covered by 4 outlets, including BusinessLine and Livemint.",
       "image": "images/patna-municipal-corporation-lists-rs-200-crore-municipal-bon.jpg",
       "image_kind": "photo"
     },
@@ -434,6 +415,35 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar CM launches water metro service on Ganga river in Patna. A civic-infrastructure story. Covered by Prop News Time and ET Infra.",
       "image": "images/bihar-cm-launches-water-metro-service-on-ganga-river-in-patn.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "why-patna-raising-rs-200-cr-through-bihar-s-first-municipal-",
+      "headline": "Why Patna raising Rs 200 cr through Bihar's first municipal bond is a watershed moment - India Today",
+      "summary": "",
+      "date": "2026-11-12",
+      "topics": [
+        "crime",
+        "civic",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "KNN India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkhwc2pONnc0S3BPMnFIUmdtWkRhQng2N1ZrM3p2MkdTYWFYVnJlUzRJb0dlRnZkb014NW5CdURNWDZyQ3p0QlM0RWF0dllnVTJUTGc5RnBKdHpvbDNOVXRiYWFPMjFINGxxdlNqeGREU3c3c29wXzdUVXZNbFVKYTNqbHB0VEJFLVBXczNFUTlYS1JXMEdmbjFzQkFJQUstU3NGVFE5TWloM1MxLUN5bVJEVWp1MHdJaUFhWWNmMXQ?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNenROZ050N0pNNnRENU5BdVBVamczemYwX2hyWTJrVE1PQTViN1M4YzNUSmc0ZjJVeVMzSGNGeXhlWWstZnZXY3ZQdk11Rnc4NnFiQ3hzWVdrSWp2aUVpMks0Tjd6ZW1RcnBzb0JqV0dPa2dSeG9GSlRQZlJOR3NpdklOMy1nemNNUW9CZ2dfSDJRSFdXdzhHSWFIWWdQOUtWYk5CRzBZZ1I5QlQ3bHAwVm1XTEN3V2FnR3c0RGl0SkJLWHR5QkZYTFV1SmM5UUpXZG5tb2JIX0NydmtsMlIxY1FvWUdTUURhZWFtStIB8gFBVV95cUxNZnUzMFI3UzhHbWcycmRvcTFqblNwaW43eFdWOW9zbkg4OUR3VEJrcnRTMVdqUjNuRGoyWXJZZjg4UVdlSFZFdldRcFlHcGlpQmdWUmdCNnRzSWgtWGZlOEpIeVlhMkNqcTVtSmRIOERubWowVmRBT01yWm1LS2Q2U3BJcjhrb0pPVDVxSVZQLXFReXFvMF8yTXBLS3VHWERkaXllOW1NeUgyR2NYMHNjYmxtc3djd1JXNzBFZzdCXzBYVXdFd05ENVRjNTVDUGRPR0JLNXVnTy1yY0J1M1RGN2hWTEJWLUtoWjdTY0JyUWRndw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Why Patna raising Rs 200 cr through Bihar's first municipal bond is a watershed moment. A crime-related story. Covered by KNN India and India Today.",
+      "image": "images/why-patna-raising-rs-200-cr-through-bihar-s-first-municipal-.jpg",
       "image_kind": "photo"
     },
     {
