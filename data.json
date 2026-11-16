@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16 04:54 UTC",
-  "generated_at_ist": "16 Nov 2026, 10:24 AM IST",
-  "story_count": 53,
+  "generated_at": "2026-11-16 05:54 UTC",
+  "generated_at_ist": "16 Nov 2026, 11:24 AM IST",
+  "story_count": 55,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -91,19 +91,103 @@
         {
           "outlet": "ThePrint",
           "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDRfTTEzWVk2UFZ1dVVILTdraHp2YzBTTDBjVXYzMi1WSUY2c0hZSXJQSzhkRTZRVDNSTjNSVm9EblE0U1hkOV8tU3oyRk9MSHFPdWNRcHUzV0NPX3BiSWhLX2NjcU00SVVIV0YwQkhXMEh0dkVzOVBGRHRHdzBBc2x2bkE2YnBmclh5RUZ1MHVhSFB5MWV30gGcAUFVX3lxTE05WXUtT1FUbzZtb0RhYWtRd1F5UmJWUXNQbkZpc1ZlOV92d0lRd2NPU2VVVEZKemRHVGRycFVSaEdmWWx2SVpWalNuNzJ2QVhRZlFuQ1dGU2dtSy1iYnBFYWhMQnRXNTM2Zno0R2J3cnU1Q1VUTF9wWmxnRFRfN2YxZVJway1QNUpnU1NfUm5Zdm1OMTdpMzNBOURQaA?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWxoeV9ZUzJiZGp5WV9uQk53SUFQdVJUbUI5bWhhY2Vral9PeFplVzlOcFY0ZnF2clF2UU4xSG4yUDRLTkRQUG0teklacXpBb19WZUZ6dmUwTWNxS0FseThkZkhHX1o2Vms4Z19zd0p2UHc5Nmk0T2V5dE9IU1pfS1ZyaUJERlZ5bzdoVmJYeE9WQS1UN3VSLTFQUngzMzVRaHfSAacBQVVfeXFMTnd6SHpLbU1EcVNsN184cDNIREE0M214N0RUUWk1ZDFvb2RwQTBTSVpQcl9ETWlOeGxnajBzMGNJR3NhdEQ1bDl6YXkxejUxQmJONkQwc2ZhUk9kWGVWLTJHZDVXcUNncTY5SFlPaEJQOUEzMFMxN3pnaG5tUjR1V1JjNHV6SURnOEdxYjRQUGFqX2dRWDFFRG9rRXpPMlFBMGQzTE82SUU?oc=5"
         },
         {
           "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaDlTZGxkNEx6eVRUV3dZZmU5TlFFYjUzdFNhcFRrM1FKOW9oUWYybnF2aTU4bEI4bnhBQ2VIY09UcU5ycFh5bzZkb05tajlsM3Q4WXk4UmVKRUhndFJBbHYtZTJfN3I0ZzBZOU5BSUZJdkNXYi1XNmlhOXZ6NGtNYmwtM2M4dEw0UUNNb1hhN2h5VkVHTHNCbC0tQ3g5VFBPaUJOd0h1TV81alhnM1NaWU1pUlMzdzktQjd0WGR4QkNiQXpabkIzSXlLa0I1cFRpdU1Rb2ozeFBsSHZRRENXbklCM28wU0ZJ?oc=5"
+        },
+        {
+          "outlet": "Kashmir Vision",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2hsY05JaGRHUmhkMHpfZWdCcjJ3WGtWZTRnTFN5bEsxSmo0bk9aM1JKZFd3YnNDYzdtRDZ1dGxuRC1wT2tmaHFOaVM3OUZCYUJKaHFMRFhsWVVqRG9hQnRrYWhKNGJFNUhqaHFpX3B0M2VlZS1uRGhoMWtnWWZxejNQb3hPM0NvWmRUUFpNUm55WXpjLXFTNnFMc2Y2Z2h4aVdjOQ?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "BJP chief Nabin, his wife offer prayers to rising Sun on final day of Chhath Puja in Patna. A politics-related story. Covered by 3 outlets, including The Hans India and ANI News.",
+      "brief": "BJP chief Nabin, his wife offer prayers to rising Sun on final day of Chhath Puja in Patna. A politics-related story. Covered by 4 outlets, including The Hans India and ANI News.",
       "image": "images/bjp-chief-nabin-his-wife-offer-prayers-to-rising-sun-on-fina.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "vaibhav-sooryavanshi-leaves-bihar-smat-2026-squad-after-beco",
+      "headline": "Vaibhav Sooryavanshi leaves Bihar SMAT 2026 squad after becoming world's youngest captain in a men's T20; here's why - Livemint",
+      "summary": "",
+      "date": "2026-11-16",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSDBMNXVfc1JHaHRuUkFTNmxUYjROWUVKemN2WUN4NXk1MWlLVjVVQWhhbmd1MGNnUHozNUZ6SE1kOHlyQnFZX3gtdGF0RmoxbVRnMWltbzNVcTl3eUxLZGtHNVJoUUlCNFRLdV9CYkdPNVhrR1lzbjhSeDVOa19pWUZ5RjMxeEVINFhTVzZ0NGJOdEhOai1JcUJlMHl5QWRZOVhRS2F0YmdxV0pzMXJXaGgtN19yRWRZQ19zbG0wQ1g2X3pncEZQbEdCaGdOQ3g1LTVsVXVGV09ZVUnSAeABQVVfeXFMT0hsZk9YZnVQMTRHV3h4YmFSNW4tWG5IdWdpQXlKY1d0Z3FkdVpzclpnWWVvb3A2V0swSnhrYmlUbHo4Um1EVjlVSlpyRlFlNjBBOXBjck9BdGN3SDBndHRqcjZEcGZNNTBBUUU3ZjhpRVIxQjZvQ3NULXAtaTgtZlNlOWk2YUw3eEZjQmZTM3lIQnVmUGFydUNvLTR6aE8xM3drcHFObDlROXpRWk51UzI4NGdjYVZfXzQ1WWctclhyWXhHNTNKNEZNZUZWRjJodWZrV0hqMGQ1OEtzTVNJbW0?oc=5"
+        },
+        {
+          "outlet": "Sporting News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYUR1b0tBQXA5ekE4QnF4M0VtOVR3cUxuRTlEdDJHcGtjRFNWekFwUURUZkR6eDhLeEpWdkxRZmhkclBKb3FVNTYteFRvT0NxUXBGQkp2RWF3T09vS2ZEOEhpSk5mVF9rMzM0Z2lyTVMxeFk2WjlQQjVYcngyNVhJQTVJQjJLWEtMQXd1ZjdVenJEMlJLZWpfa1plOExCT2I2UDBjbFpIS2tKRUxDNGxib0VneHh0UHNFMkpOa1UyaDhTYUstVS1kN2lvVjlET21VUVhoajBNOEhQRUl6N2VwUkFjd3g?oc=5"
+        },
+        {
+          "outlet": "Livemint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRlpUbjdFRzNLNzJBMzFhbWwxRWVuZTNRVE9yYTdwZUlhZWJYYkJBQTVHZFZFV3NhYnNsN1FIb09Ic2FHNko5RVB0Rkdxd1hCa0U3elVrdFl6Z2VYdy1pZjZQZFM5UnlmVkpHOWstdWg1WUU2eWF4VnFPMFpIRWlBTGk1dlpmaFlRa21lUkdRN0ZucW5EOHFMcVZxYXFjdnV0ZWdPMF9zZ29DNXhVdzdNTTZJVG9xVHVCV3ctcGZxaWdnaWZJSkFaVGFFd2JrODdORk80YzFoYmhVZ3JYaUZkZVA4X3g1bURlcXc3a3lXd0VuTy15WVlpdEIzUGxLeG5aUVlqdW5KRUrSAY4CQVVfeXFMT3dHd0RJdGh0d3gxWWgtNEdXREMtb08wZFJKMmpnaUdCNlY3YkFvaUVtNTNDRzJpeHprcHRKUkFXRU9ZLWdXMDBLUEhJSktRa055LVQtblNIY2E3M3JwaHVDWE1HZGJTSllHNGZYM2dnVkxTdVJ3ZTVIcVlSb2dUYTd1MWhrMWNacmdfRlhZTDlzWllXQWEzMmNhMWNIS1pCYWFtalpyQUlUR3VnU24zU09kNF9oOWZlZUhScjVBY0ZKR2plall5YU5LOWkxYXlYLXp2N3RqREpTelFOT09DSVFpRXFfUFNCdWRoclYxdmtHLWtwQ0RFZHROZFcxMVFORkJFSGRSamZYVndiSWxn?oc=5"
+        },
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY25NelNqc0ZBbGRjRDhsYVo2dVIwR3pmeGZ2cUg1Z0VicWNFRW5PZS1mZjl3MnZnSHc1eE1zbFZMOGJac3VRei1SRWkzcmFsOUdjajZwZzFhTGxuV0Y0bndEVFUyb2FzWXozc0cyTnpnY0Z1Qi1mQjJNLTFHc0ZwT1dybUpidU1sQVJ5Z0NZenU4RG52Tm5OckM2bHhRODNlanV4SW81VnVzTmtEaERpYVpiSzFRRzY0R0NNd3p0WGF6c2UzNjhxc3BadVpCakY3a0lqZtIB2wFBVV95cUxOZDdZTjlGUlBnVm5tc2gzVUtUTXJ6NVh1TmJSaUlCTG5hZzRtNnBVYXV1N2VfZ1duaXdZOEFyWWRSbkY2S2w3T0lwakFIeDlwblMtak12cG0tUWg0TGFxQW1SV0FkVmJ0THh3eloyc25xZEFwOWdDTmMwN09UdzNTd0o1bzRNWGVVZW15NU9tbThuUkNvYVhvelMzeHNmelRIZk05YXV1dlRLbWhod2pHQVdmMlgyNmloVGRnTlUycF91bnUyR1VVRXFmLVozY2ZQeTduMzVZUEdVVEU?oc=5"
+        },
+        {
+          "outlet": "Telegraph India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnpVdUd3OTRUOS1XdW10M3c4YkZ6SzRBaUp3a2kyWm9TVXF3V3VidU9hdUZTeTlTTGRjanpsRkNHVHFaTENKSXVzNnltQ3R6R1FvUGNFcU01UmZMWXJxMFBpdEVVSWtNVmZIYnB1YmF5a3hRZnVzSU9iUkRJcjZjOUhLMFVmMVRkeHo4MFF3M1dPV2E2cnREMVpRaWZrUUdqaks4b1phVW03OHpwaUM5b1lvb2dwa1pQVFhFMFNJTDEyUzlQV0pBUnl6dlhrWHfSAdQBQVVfeXFMTVBRZWxWTV9wZ1hHeUF0emFLYTRzMWVDOHYxTjFvTXAySklVRDFCT1dmZUt5YjQ2TjJxRVY2OHR2TVBkMF9IUnRaSlVFVjlCTGIwTy0tMXFVakhGSXc2TFJWbi1uaXQ4MkhDYXJiZFc2Y2VrMUFHdHVpbU1IUWg1VHZhUVVsSVRpc3JpUmVJVzZQS25ISmNJVEoyNXVwOVA4Sl8yYzVHeEhBRnFuUnJTdUN2R0RJTEZib3F0NTVJWjNEcml3NWs1Q090a2FLOTRyRTN0U2k?oc=5"
+        },
+        {
+          "outlet": "NewsCord",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEhobmM3YXJJaEJGRTdkOVV3WktKSmlKZFNmZGxGMUVWSkFaczFESVNMZlM0a2g2NkZMeTBUN0M0YUotYWh4Wk0xNVN4TmRzLWd4THNsamdnTXlSQzlzaTM5VGkwYlVJS3B3V3hqUk1kdkFNZFplR2JFSnFpTjZuWEd2czVlRmJZbndMdl9qR19QMUkweUM0WVZhMEZiZ2xsZHJSZ3hNUy1saWVCMXJHZ0Y3bjlnNFh5eWY4UnNJZXdYMW51QkJ2clJDRmVuNzZGZFlfb3lRSDdqa2VF?oc=5"
+        }
+      ],
+      "source_count": 6,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Vaibhav Sooryavanshi leaves Bihar SMAT 2026 squad after becoming world's youngest captain in a men's T20; here's why. A civic-infrastructure story. Covered by 6 outlets, including News18 and Sporting News.",
+      "image": "images/vaibhav-sooryavanshi-leaves-bihar-smat-2026-squad-after-beco.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "pm-modi-bjp-leaders-extend-birthday-wishes-to-bihar-cm-samra",
+      "headline": "PM Modi, BJP leaders extend birthday wishes to Bihar CM Samrat Choudhary - DD India",
+      "summary": "",
+      "date": "2026-11-16",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTm0tWlR5Qm1HV2FxS2dwdVpSSnJXTFdrS3dkbEZhUHZ6U3dKeWozXzJMaEZVQzU4SW1hZ2JacFZabXZQX3dwT0dqYU9US3EyMU45U3RWSHp2ZG54YUYyTnJsUTg2aXRhc0hrUk9Pb2FadXRsZGJEUW5LMlRCVXF6SWRCVGEyOUpTclVSamdrSEh1eVpjNHNCeHVrUFBaUVVxYklKYjFqejNIQlRqcFHSAbYBQVVfeXFMT2Nkb2JFSDd6M28xNXJVRDVjeEZORXRyR0xDXzhlaTJDN2sxWEtYQW8tRDl0d0hQOXJobkV1N2l0MzhyM0JZbzU1SGZVWDREV0d6NElycldZY1d1T0htd0diR2dmVzlvZlNrMXFLMnRrQWpIbHNTTmJmWGVWOHBqaGRCbTJWQkM1MU1jMUFZQ2taZkJaYXZFdG96WGc3Vkl5Z2h4TkFvVWhzYXdOcG5CYzMxYjVjUHc?oc=5"
+        },
+        {
+          "outlet": "DD India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObE5FUU4wV0pYbzdUTGRQSWd5Z3BPb3QyMXdidXlDd3l5V0ZoTktYNDQ0QU83WlIxeEhaaU1NUmYxbDB0ajZqY2JlVk1oVjBQYnViVjBreVFMcy1pLVAxRlkwT3VQM3ozQ1R0NHdzaW1QRDFNNFBoajdPZ0FtNk5HQjhXU0liRktsQ0YtTFlPOVJjVmpUUnplMW9rTFJ2allMdlVrMw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "PM Modi, BJP leaders extend birthday wishes to Bihar CM Samrat Choudhary. A politics-related story. Covered by NDTV and DD India.",
+      "image": "images/pm-modi-bjp-leaders-extend-birthday-wishes-to-bihar-cm-samra.jpg",
       "image_kind": "photo"
     },
     {
@@ -126,30 +210,30 @@
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNFZVVURCZFlTM0k1UG5SLTczMHU1SFpnY0dxdkhXZGxFM0Z3Z0FOZnJZeG9pRjRHaENXdDNQdVRsM09vMzg0THRscmhzWUU1VHVfaEFSV3dLRnpSTXpscG44cDF4ek8tdExvSDZNaEZNbE1GbVV3cFhTMGxpc2N3bnpPUnRuanc1OEpXc3V5WWhSbTV1MU9EMDJWeVJQLVI4bzRYRGdxbHdUTF9lWWZTNGpBRHNUeF84aE1iWUZacnliZV94WGRoOHlQeHl5clRLTE1zNWwySHHSAd4BQVVfeXFMTkR6em8xSEtWVlZiZ19uTEYySG9VbDFFX1dRaEpCSEdGc3hjajNwUG15OWthakJjU01yVjRxLWRGam1vOUZWTlFwbXhfU1dnMHR5NHhFXzlvZWtuWU90Qy00MXQ4YThfa1ZRZEp3VVJ5STRNUi01UGw4LU9GelE1M29KUFlxWWxkZDBrcHp5UXJENkF4b2F6LUo4RjNwenFGWU9PY0pnaFNoRGxRbkIyQWZJdTBYZVRHWHdYQ0x0Si1mVGk4ajQ4ZGlwWDRObzM5QVdsZHEzemhwZ2hJbkVn?oc=5"
         },
         {
-          "outlet": "Hindustan",
+          "outlet": "News18 Hindi",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTm92bUdGT3huRHdYX0JDQ200RnBrT3AtbS1qVi13NW9pOWx5aGE2THM0clNLUmRaZXlsNk9sVENmMjlKNXJmcld6bXlBd01NQU5ENjNKVHJVUEJ0YTlia29RT3RTb2pzSUlXdGkzMW8yb0RmaldQc2FBY3ZqWm0zRmwzQU81c0RwZ01ORWlhMkpWcFlhbVZIZWFOQTA4TjA5d2xsVGZlM3hvc0R6NEtmcVk5YUFybDFPN0HSAb8BQVVfeXFMTWptR3ZOQUNaQjhYNUczY0tkZnR3SjdCZmx6TS1lSk5iYUgxXzVXalRvNUNVX3ByRnpLUU5NSTVCdGlicW1Zbk85Q3E1Wjk1S0w1RmQ4SldFNXc2cDh0S2lDaWlCaDVNeXh0bmJDU21yX3ZaYzRUMVVRTGQ4RnZtNXNJVTBqVzE3aUxud2MtRGhYODRJaTZBUVh1RVJwcEMta0JNQXd3VTdRMUNzU1NLZVBOM3VBdFZYSWtIT3JBajA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHZzVVBNd3BqYmFnWlROSFdqVHZvaUFNRFo1TnJFcjA0Z3ZoRkhRa0hKZlppd01MakI3TmFsSDk3SDB4NEdtbElpT3BNR3U3X2U4WmZZNjNwVTVoWGIyRE5hYlBtQUFYVzQ2ODZwWm4tNzQzdGJZRzI4S01oWktKWXhsZElSaUpNbmtiZDF1cERQQnl3OUx6MXFYdGphazg4bkxCcHVuckVFZXdxNzV6dC1vWlJzQ2tkMXZDZUpacDlxWXPSAcgBQVVfeXFMTkxxV3MzejdKNllPZnFFVjk5UnZzcmpFUGZuNlNCaGFHLTdidnYyVnRjaWVrQ09kUGJiMVpNb1ZMclotT0NEZDdyS0NMaWNwUzE0eUhrS1NNUWpSaktOVW5SbFpKMjZkNUpIU0lSd2RmbjR2QTRicFZGLWtoMXQzSE14eEZjbTJ6QXctVjJiZ2VTOC1OYm5lcFY1NV95clZkc0lqSDhBTVlYZE1Oem9tVEo0Mld4Q1ZhVm1HUUFVVTJBRkNDMDFfNTQ?oc=5"
         },
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Jansatta",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDM5c25RWlAyLTlsd08yY1UtSUhDT1V1ci05QnhHYWZZTF9GVlcyWF9FVExEcGhBQlA4dGt0R1o4VXJ4elo4NXJRVVJZZ0lrTmpSTWNkVXlfTmVaVHRBbWZjRUtJTmdNRTJNRy1WLVlhTmJvbmNXRGpPMHlQaFRWMTNVdFlDanhWdmRBU2FtOFZDQ1VxWl8yNEhGOU9sdU40clBGOVZCeFJwZkZpd0dqM2xKNF91QmJLR2VqdHZFcUtvN1nSAcgBQVVfeXFMTUhDSVpxQmRVaTdoVXMtZERFZ0tST240dUMyVHFJdy1YdXRZOE5Xbm9jTTQtMnRPSlpMbU56eFljckc4TUpYTTMxb1hXU1BhQ0F4SUJjVE1Sb1p1QnFCVkd0T2xwV2xoYnQyTnhNTFI1OWtMZXhmN0FqbGRseHA1NDk0UFNDRjJNN2lpbFdPY2xKbl9EQUhOajIwMllnR2VIYmoxYXN5bHVFUEFNUUJ4M0RrTTRQdHQ2NXJaU2w3TTZsakxMMW5IcEs?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUh5N0NkdmpmT3ZTLVBEQllSM0x2Wm1KamZPYVloUzVWQXA0MEs2VzQxWmpEY1dSZG96ZUxMby1uYVpBZFhuWm94alM3U1VnalNiM2lPUmFicWpZLTdpUDAzNU4tNkVBejFEc2l5RXBtTGlVelBDNGpiRG9RWF83N0pkZllaeFpJZkNkSFlNSFQwc0FXTkRaOHNoNWs4SWMzTUh5ZklyTWdJaV9aR2otQzRR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPekRnSGRWS1pIV2VDRC05RHE0SWhteTBEVGFmR2FnRUdJOWlhRTVXWE9SSTRFdE5PbGhVNUE1aHA4YnE0V2w3Q0t0VnhHUk1uMFRHSV9Wd1ExUXhIWGxmTEFWQmllSDdBaGVkUEgtMDB0TmM3YUV5eDY3Y1FYdEQxTkZiOVhNamlyTkEzR1E2WWwtUHJ4VEpUOHBfUDdoZHpvMjJoRzlHTGhJMTdBSm5vRDlFbzhrbUlJMmdJZHFDUGpHSFI3SGVkSlZia3UtUG91ZC1RVXJnZDZYd9IB4AFBVV95cUxQb0RnNVpqclR4aU84NnBwS2FfUWZKU3FQaDFLVnpHdGJCT2E3UnZQTFNadEsydDJudEY5Q1VaQXc3WDRzOWJ2Wkg4M1dCNXYwMzUxbkZzOGo2V1IyV3F2VlBuNGp3bi1uWC1ONUhidlQ5M3ZVSlRrR01xMWNnR3hpS1NpZTMxMVBhV3RGZVVDTDdQamF1d1c3SHFaQ2h1d1Z3WWFPSU5rUVJXRV93eUd0ME8yRW10aDN2VXdRNWVmUkIzZ1hOdkFZRnY2UTBsY0dHdDl6NnA2S2RtNkktVzBQNw?oc=5"
         },
         {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWZEMjdwTjhIWE13dGFDcUd3RXNMUGRuaTcxUi02YUtDdHYzQ2RUaWRuREJtVHlTajhtZDNFRktWLXR2SmlxVDlIanVwZlRueFNCYlMxdlp5MzBPTl9LMXd2anVXYnRUMC1TMEFCWXdFaGZ4OXlaR2ppaGUtakZVWlRqMGxWRFI0eVdjSU54aGxkR3o2b3h2S0U0eGV3U2UzS25Cd19TWU56emtOUGpzT3lGN1EyT0lWdk1nQ2tnWGozOWPSAcgBQVVfeXFMUHJWa0FWblMtck5sV19XUGJKT0xTVXRQUWhJXy01UnFCVVg5ZkpOMWFhSk5VbTI1LXUwSVhOdDFkMUtkNnI1YV9iaUNnZzJUdE82QUN0OG04dmVQSkNrdzNSaHZjZ0NuZDlSZXRFMzJSWEs3TVNkM0lQakxPdzhfaXFqYjhvSE4xRjlYNlNPYzZOU3ZhY29jakFyX2l4Q0oyS21jMWVBdHRxaGVCU2JLWWpSX3NFTk5MNXhnZUF6ZXZJcjFWVzRwTXo?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDM5c25RWlAyLTlsd08yY1UtSUhDT1V1ci05QnhHYWZZTF9GVlcyWF9FVExEcGhBQlA4dGt0R1o4VXJ4elo4NXJRVVJZZ0lrTmpSTWNkVXlfTmVaVHRBbWZjRUtJTmdNRTJNRy1WLVlhTmJvbmNXRGpPMHlQaFRWMTNVdFlDanhWdmRBU2FtOFZDQ1VxWl8yNEhGOU9sdU40clBGOVZCeFJwZkZpd0dqM2xKNF91QmJLR2VqdHZFcUtvN1nSAcgBQVVfeXFMTUhDSVpxQmRVaTdoVXMtZERFZ0tST240dUMyVHFJdy1YdXRZOE5Xbm9jTTQtMnRPSlpMbU56eFljckc4TUpYTTMxb1hXU1BhQ0F4SUJjVE1Sb1p1QnFCVkd0T2xwV2xoYnQyTnhNTFI1OWtMZXhmN0FqbGRseHA1NDk0UFNDRjJNN2lpbFdPY2xKbl9EQUhOajIwMllnR2VIYmoxYXN5bHVFUEFNUUJ4M0RrTTRQdHQ2NXJaU2w3TTZsakxMMW5IcEs?oc=5"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना- मंत्री संजय टाइगर के आवास में लाखों की चोरी: 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले गए चोर; FSL... इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Navbharat Live और Hindustan शामिल हैं।",
+      "brief": "पटना- मंत्री संजय टाइगर के आवास में लाखों की चोरी: 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले गए चोर; FSL... इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें Navbharat Live और Hindustan शामिल हैं।",
       "image": "images/600-2-7-fsl-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -230,11 +314,6 @@
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTm81Sy1CNnpFNkFaSXFULTYxd2VsVWRaek5qNlhRa1l5MzU0SGJDVEN3bEowQWZhMGg2U0g4ZERJOW9FeEZBTFR6cnNXY05DQi1LVFUwcVVUM1pabTltcU1uTTlMbTJpbHdfZkxQNFo1LUVudTBzZklvRjdqaDczbTZNVGZ0c0F3MGhUQ3lMNkVkLVVmSndhNmhyaHQ0QUQyZ3ducEowODQwOTdOMGd1LWRUaTdqM2EtUEJ0bNIBwgFBVV95cUxNRUwzRGt5OG1ocDJHVjY5aVRzUzdyZHNRbXF1WkE3NGZ3X0lPMnhMNWV1c1IwS1dHRWdzNTFGbjltanAtSXFHNWZqallvVThCUDhETHZmaWlFT2VDS0tfUlNaMmRYN0JzQlVob0taejY3WV9jLVNPbzMzMENEM0hHemp2ajNCTmZ5T1hKZVI3OUFxT1VrZUZMejJNQWZIdm9KbU92Q0RCQ0I0bmlBN3JEcFo2Y3RCdE9OWEdFTHpCZThHZw?oc=5"
         },
         {
-          "outlet": "ET Infra",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmZYelFTQWs4NTFwSUtjUUR5VWx5ZkR4VjhITF9wNWNTbWt2NDBQVXhJbk14TkIxelpxS1hRaEdlS095Z3JYYzdyODNvMzBXQkppUWhxR3JqOWQ0dk1rT0o1ODljMkJ0WXRwUm4zb1hyemlITk5oTnZkcE9LLV9kTmQwV0F6NVUxYmJuRi10ZGlkcVU3T3lfVm5LY3dabWloZjgyVEtCN0lNbk56X2I2elVOY0FMeGpYcEc0RVBUVGh1U2hYcXB5OWNR0gHOAUFVX3lxTE51YzZ2RmkzZmlFUTBEcjRYRlB6Zkp6aF9LUmctdXE1ZTctbjVMTW0zS0ttbHZ3SHlkUm03dnQtRlYzUUFCZWJXTTYzWVhnakwyWVEwVnNxU2w3cXBlb0R3VEQxRXpKTi0zUHE1QTE1bzNPbGNpODVwQklSUm1Rb3JNbEhvaG0ydjVLZ2EtMTVEeF9xbDNoLUpTRVZhZTMzelU5SmZtYlZJSE5ScllvUE13QXp3WGFNM2xkbGs2cUdSUWo0MUxVZkllQng2MGFB?oc=5"
-        },
-        {
           "outlet": "Telegraph India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcTFkLV85MlJTeHJweDNWb3ZHRFJ3RFVrZDlPNU94SW1UbldRU1VrX2RqLXpGU3QweDA4a1JXUEs0Vm9GcEJrbm1mMWhkSklFQ2szWHVhZ0Zxc3BBYndJclExYUpNVkY2eHprMkdReUZ6ZjhVLVM3c284REI2N0trMWw2Mkljb0FfRmd4LXFWanJ4WWpFb3FEZzNGSFUzbzlNQ3ZMX2xDT2RSRkR2SHpFaFVMUldWYnRzSERzNmhScUNqbjdhazVWa0lhX2JLNUs5TUpoald5Z0FPZ9IB3wFBVV95cUxNblRwOGxGY284QjY2UDlSakNDSlB5YkVUbkM1UFctWi10OHNSVkU4MlN6V3oxWnJKRHZmOTZ5ekZLcC03Mm52YW8yeDh5Y3phcjZERWdZVFBUR0Y5Q2NEcmNfVFhDOVB0Yi1YdHNoTmVBQlh2czVKSFNaRnluNXlMbGFJdHVDVm9hZTRoV3JOTVp0ZGwyVXpqUWo3TEk3N041NFJ5bHk2Z1Y0UFJOU1d4aEpSMHFBT1ZXa051Ym9aSW5wN0JhT2pRNXRoYTdIY09lZ2lzbFlXa01PTWxoZHg0?oc=5"
@@ -250,10 +329,10 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSnQyV29FbnpES3pTcnN0SFhQU0o3OFIyWVg0Uy03SjRIUHlqSXJqUkxyRmNwaDR2ZVJBYzh6clIwUjl6U09tdmoxMnNjNE5hWlZwQVBaYS1ObmJHbThGSk5WY3pCV3pUOW14OEdhLWhWaG9HcEJ5eWhtLTNGcjVHNmNKZ1NhN3hsV0ZmTnhaY2d3RWowMlpkQmx5MGVtZ2Y5ZjVVdTJpTmhLYVpvYzVsSjhKbVQtWk81Wi04THlObGQ2SnBZU1JybTVSNDVuQ0t3QXJGR3FjakF3M3dzU0Z0SEFDcUNLY05V0gHoAUFVX3lxTE5KdDJXb0VuekRLelNyc3RIWFBTSjc4UjJZWDRTLTdKNEhQeWpJcmpSTHJGY3BoNHZlUkFjOHpyUjBSOXpTT212ajEyc2M0TmFaVnBBUFphLU5uYkdtOEZKTlZjekJXelQ5bXg4R2EtaFZob0dwQnl5aG0tM0ZyNUc2Y0pnU2E3eGxXRmZOeFpjZ3dFajAyWmRCbHkwZW1nZjlmNVV1MmlOaEthWm9jNWxKOEptVC1aTzVaLThMeU5sZDZKcFlTUnJtNVI0NW5DS3dBckZHcWNqQXczd3NTRnRIQUNxQ0tjTlU?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "PM Modi to inaugurate Nitish Setu bridge in Bihar on Nov 21; Patna-Vaishali travel time to fall to 20 mins - CNBC TV18. A politics-related story. Covered by 5 outlets, including The Times of India and ET Infra.",
+      "brief": "PM Modi to inaugurate Nitish Setu bridge in Bihar on Nov 21; Patna-Vaishali travel time to fall to 20 mins - CNBC TV18. A politics-related story. Covered by 4 outlets, including The Times of India and Telegraph India.",
       "image": "images/pm-modi-to-inaugurate-nitish-setu-bridge-in-bihar-on-nov-21-.jpg",
       "image_kind": "photo"
     },
@@ -280,6 +359,11 @@
           "outlet": "Amar Ujala",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMU1tWGNDZHNEZF9ZcDZBLWZJMU9kSVVkNnRQRVdyeF9TUFRsOTFkTURrYl9tSVBWWUVUUEhBVWlYcTU3TXlRS0kyQjREeFZmNkJUUkxjYjlhWlFncVU5NEpWRDEwaC12Q3RsdlJPUFI3NmY3SGg5S2FpYmh1YVU2S0VUN2NlUVZJWGtuem5qUnNFb0c2djNaMkJDTzJJM0FNZUs5UVZtSFQ3VzZRQ1MxQUUtaHhfek9lZmE1VUJRM0FySVNJd2lTbkNHaEFQYW9mdDZ2WEo2OVRtSTBsdVh6S3o1MnHSAeoBQVVfeXFMTVJKY2JqbUJTVWMyajh6SDE3aXRWVGNrN290YmZXUUpHSC1mR09rRnZpQzBBeHBCWjdENURVZkdKRGtMbHdUR1V2YUFNM3dmTVpYWDUtejdKRHhlbG1OWTdUV2NwNjdGZ045aE1SbzdyT3pPVW0tUXFVODc4M1M4cmFGckUxWUVQYmlESXFCYlQ4dVZmWlVEaWFyTHlhS2NvdHRrall4YzFXWVNBTGdSb3lEem15aGlFN3hUb2RLMDZXMWpTYk1XUnB3R0JMOG43SkpBeXRDUUw4WUROR2NES1VXcEI0bzIxUm53?oc=5"
+        },
+        {
+          "outlet": "India TV Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdFR0bE5rYXJCdHc0WWcyWFM2NlhkYldpcUZMekJ2UTFXVUI3LThEaDRCRDRaWDFOX1hJWEpYSnFtdVBqd05fRy1Nelp3eWJCWTI1RWs5ZTJsVWUwSmNwSlQtSk9pbFNHcDJ0YUVZZzNpTjRMN1dSMGpEbFdzVWJNVXR4cGhsZ09hRlpOeEFyYm0tV3p2Y2tyaU1RYlZzN1p5cmRtLVlVUmRUQUFtMWNFbl9ZejRzd2pRTVhIdDdsYldWMkRGdWpfRTZLSEYzc2lzWkRWaE1wQnlNWXp2UzJUUnFtTDBaU05CY1pnSGE3WFk2Nmh2TW1FN1VMOVp0RmhuWDFuTtIBigJBVV95cUxQS3RhelFBdHdSS1h2SnRWdGhsUVdJN29PYW50YmhrREFONWpwQUFlT0xHZ0F6U05FQXhtUzJZYWdfYzN5bFFkbm9DeTNuNExOTUpFTGdQaTNkUkZGN1ZjVmUzM2tpbTN1dFZmN25xdFl5S01reEwteUdTMDg2UmxkTHdMM2pTME5vOTJJdm9lcTlONFIyaUNScmdvY29ucVBuU0tROWxnaG43ZnFaLWM5R0xqQ2Vjc25sdW9aVG9LanBFX3RmaENBSlU3Y3FYOXF0NzMyUnU1RDZBaWZ5RUdmTF9wYWhHdjlyNUlZN2RJN2RNN0h3MVhJeXZ3VW1hZFFfLWh3dFFfeEtwdw?oc=5"
         }
       ],
       "source_count": 3,
@@ -314,38 +398,6 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना में छठ पर बड़ा हादसा, घाट की सफाई के दौरान चार लड़के पुनपुन नदी में डूबे, एक को ग्रामीणों ने निकाला - News18 Hindi। इसे News18 Hindi और Navjivan ने रिपोर्ट किया है।",
       "image": "images/news18-hindi.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bhaskarhindi-com",
-      "headline": "छठ महापर्व पटना में संध्या अर्घ्य की तैयारियां पूरी, घाटों पर साफ-सफाई और सजावट, बाजारों में रौनक | ?? ???????: ???? ??? ?????? ?????? ?? ????????? ????, ????? ?? ???-???? ?? ?????, ??????? ??? ???? - bhaskarhindi.com",
-      "summary": "",
-      "date": "2026-11-15",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "bhaskarhindi.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3ZXQjZ0SjlrWEpRbVV3ZjlFR3c2WmdLQXJxRk04OU5YMTFjQnBNSlRWVUlPQ181Y1NQaGRoRG4zR3dmSHVFR3NRQmVmZGFvZVhDSW1sV3I1Wlpsd1gyTE5qMGt5blV3NHpJZVFURmpCNjVOUHgzZk9EeWZRZ0h1VVBDU0Nkc2Vqc2hUREszYXBEQ0F4M1EwYnQ5ekg3S3paMU1NQld4UEZiT1NHLUhjOEpQOEpZbUdncjNBSGF0TENfTDhLQXhJZ3VZVVVwYVpvQ3UzOU9fTGw3elVFUm5MUExrMjA1c2xwSTJjNWx3?oc=5"
-        },
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdy1qTWY2S2dRQTlTUTZuaVJZZ2htdVBwZzlmMHRlVERkZHkzT1M0ZFh4S0hGR2pFV2UxWVh5UXFMM0F2QUhZSGdVbTI2Mnlmdk9QaFU3RFdISGJ1YklZN1pSVC1kZjZGcWFIajBQX1VXSzk2OGQ3X050NWUzUFYySWlxNUdvV0t5T3ZyNm1sdkNhbTNNT0Izdl9ja0h2VVBuV0tpS25fRVk1RTA3RUhCdjRRLTViSjBkQzBzX0VmR19KX0pQd3dST1V30gHPAUFVX3lxTE9EcEFpQUpsV1M1Ukd5MkFPUmI5MlR6NlNMS21DcWZNVWVIaFlfOXY4eVh4UG8tQzA1LUIxTUN4cWgwbGNFNmdNSW5GOXdHN3Y1QlJBbDVKVTVyOHNlRmZYeTUxN2pwdVBJcUUxVVVxMm1FYVpqeUhfd0NmLTVrWVhJNWdhVWxPS2FpaXgzNVhUeGVuSHlobVB4emE4eUhkaXBodHlDNER6d0JETGdFNDNZS0lXMkRPZElUcU41UnBVTHFXbUlaaXNyOUpiQXRvOA?oc=5"
-        },
-        {
-          "outlet": "DD News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR3ZrdnBxbTc5OXRhbm43UVN5Qno4bFdXU3NLRnpOWHd5ZXR4S3AwRUkzQmxaWjBnYWJGcV9fdGdnRUZ1N2p2Z0VrSEEtRFV6QzRiWUZvS1BBVWhLckhXQ2JSeEVDc25WemIteUY5ekhJTDYtRlRTU3dmOGZoRkpLb2JpWmphU252ZC1vdGtlXzhIRXludVh4ZHR6cEZDNnRQWWo3Q2g4eDRiY2NndF9kVXZ0VHlkN3FUODBuZ3dKY3ZZQnpTN1BHbWhWQ09CSVhMQkJHVUgtYWNBb29yQzQ4elJMMm1pVEZINDY2S0Y3M0l6QQ?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "छठ महापर्व पटना में संध्या अर्घ्य की तैयारियां पूरी, घाटों पर साफ-सफाई और सजावट, बाजारों में रौनक। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें bhaskarhindi.com और AajTak शामिल हैं।",
-      "image": "images/bhaskarhindi-com.jpg",
       "image_kind": "photo"
     },
     {
@@ -413,6 +465,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "dd-news",
+      "headline": "छठ महापर्व: पटना में संध्या अर्घ्य की तैयारियां पूरी, घाटों पर साफ-सफाई और सजावट, बाजारों में रौनक - DD News",
+      "summary": "",
+      "date": "2026-11-15",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdy1qTWY2S2dRQTlTUTZuaVJZZ2htdVBwZzlmMHRlVERkZHkzT1M0ZFh4S0hGR2pFV2UxWVh5UXFMM0F2QUhZSGdVbTI2Mnlmdk9QaFU3RFdISGJ1YklZN1pSVC1kZjZGcWFIajBQX1VXSzk2OGQ3X050NWUzUFYySWlxNUdvV0t5T3ZyNm1sdkNhbTNNT0Izdl9ja0h2VVBuV0tpS25fRVk1RTA3RUhCdjRRLTViSjBkQzBzX0VmR19KX0pQd3dST1V30gHPAUFVX3lxTE9EcEFpQUpsV1M1Ukd5MkFPUmI5MlR6NlNMS21DcWZNVWVIaFlfOXY4eVh4UG8tQzA1LUIxTUN4cWgwbGNFNmdNSW5GOXdHN3Y1QlJBbDVKVTVyOHNlRmZYeTUxN2pwdVBJcUUxVVVxMm1FYVpqeUhfd0NmLTVrWVhJNWdhVWxPS2FpaXgzNVhUeGVuSHlobVB4emE4eUhkaXBodHlDNER6d0JETGdFNDNZS0lXMkRPZElUcU41UnBVTHFXbUlaaXNyOUpiQXRvOA?oc=5"
+        },
+        {
+          "outlet": "DD News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR3ZrdnBxbTc5OXRhbm43UVN5Qno4bFdXU3NLRnpOWHd5ZXR4S3AwRUkzQmxaWjBnYWJGcV9fdGdnRUZ1N2p2Z0VrSEEtRFV6QzRiWUZvS1BBVWhLckhXQ2JSeEVDc25WemIteUY5ekhJTDYtRlRTU3dmOGZoRkpLb2JpWmphU252ZC1vdGtlXzhIRXludVh4ZHR6cEZDNnRQWWo3Q2g4eDRiY2NndF9kVXZ0VHlkN3FUODBuZ3dKY3ZZQnpTN1BHbWhWQ09CSVhMQkJHVUgtYWNBb29yQzQ4elJMMm1pVEZINDY2S0Y3M0l6QQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "छठ महापर्व: पटना में संध्या अर्घ्य की तैयारियां पूरी, घाटों पर साफ-सफाई और सजावट, बाजारों में रौनक। इसे AajTak और DD News ने रिपोर्ट किया है।",
+      "image": "images/dd-news.jpg",
+      "image_kind": "placeholder"
+    },
+    {
       "id": "52-54-jagran",
       "headline": "जेपी गंगा पथ से जुड़ेगा पटना साहिब रेलवे स्टेशन, ₹52.54 करोड़ का प्रोजेक्ट जल्द पूरा करने का आदेश - Jagran",
       "summary": "",
@@ -437,33 +516,6 @@
       "genuineness_label": "Corroborated",
       "brief": "जेपी गंगा पथ से जुड़ेगा पटना साहिब रेलवे स्टेशन, ₹52.54 करोड़ का प्रोजेक्ट जल्द पूरा करने का आदेश। इसे Prabhat Khabar और Jagran ने रिपोर्ट किया है।",
       "image": "images/52-54-jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-becomes-india-s-second-city-with-water-metro-as-bihar-",
-      "headline": "Patna Becomes India's Second City With Water Metro As Bihar CM Inaugurates Ganga Service At Rs 50 Fare - Swarajya",
-      "summary": "",
-      "date": "2026-11-14",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFJ3RlB0NFA2anBYeks2ZmtBZnV6WEd5NU54Y2xzQ0FKZE1tYUFPVUs1VWZjcmpsOEdrSVY4VG1tRGRKM0FSNU5RRUhiRWZqeGVzRXRobVVrREVnTkstV0Rvbmo4UjRwVDZjN04wdjJPVUNHU3JoclhWVTFuQk1KX1FKRVZ5U2xlZjF3aFJQeDc3c25TbjJtNkxWajRxWmkxYjE5MU9qRGswTGxHYXRkXzVfTXBiOHdwTWJyZDdneHM1X2_SAcsBQVVfeXFMT0x6WGI3Y2d0M09oczQ2aWJvSm0tU3VPMUZjWHFHREVKdThxMmJSQnZ2TUJsVmUwLUd1UGNTSkpud212d0Etb3I0T2hBYXNOVGdhQWFFbDROM1NjaU5IZXFDSUVwbUdoUU5zektyaG5PSG5aWmxRUHd0ZVRNTDNXZ2VfbnN4bnRhVUl1LXpTR3NZd1FDOHI4SUtrYUNaSkFzRFFSVnptb2x4VDlWQWxaWjI0S2Jpend1eWQwMEFNTTRGS0tXREdYczBaQnc?oc=5"
-        },
-        {
-          "outlet": "Swarajya",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTlVXQ1RFODYwTVk1YTVTQjlRRnhLZ0NpU1o1cXBMblFsc3pWQTdTaWRTUjlOYWpaQUU0LUp1bUs0R3VuVUUwV1dORTRZYWRyczJqZmhvaHlrZW1fQkloQ2FiRC00WDc4dTlxUFAzNU9MLVdPNHNBajRwZmJubGdQRmVaOUg0YlQ0SFd3WnZxTnltODlMcWJWRDdFa2VqYkdWS3VjRm9FZUJqWHdoNVNsRnJObnJvRXY5S1cyZUVaYW9pcTJtaEpMZjFzenRmREQzT3fSAeIBQVVfeXFMTldIaFJwbXdSbFFqN2x6MnpRYzNvLURuejBJUFVLYlZfcWNsOGlweWhfQktrYVBPM0RNeE40aEpfUi1MTFlDMF8xejVxMFQwVHVkVXBsZ25YVU5fdXRjdWgzUXhGb25lcE10UENmNjF4QlFnanA5VFRYaXJjZDZQVEZDMm5RWDEyOUYwcXBjdTZJTkprd1hIOURWeFhTeVEzcXI0Tk1QTDhDcEVmY29NSGhrOXdEQy1XbHNmeERBQW8wU09zb0FzRWt4Nk1Cbkhka3ZVWldjaXg0M1laeGhERm5OZw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna Becomes India's Second City With Water Metro As Bihar CM Inaugurates Ganga Service At Rs 50 Fare. A civic-infrastructure story. Covered by NDTV and Swarajya.",
-      "image": "images/patna-becomes-india-s-second-city-with-water-metro-as-bihar-.jpg",
       "image_kind": "photo"
     },
     {
@@ -494,40 +546,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "vaibhav-sooryavanshi-score-today-in-bihar-vs-saurashtra-smat",
-      "headline": "Vaibhav Sooryavanshi score today in Bihar vs. Saurashtra SMAT 2026 match as he becomes youngest T20 captain - Sporting News",
+      "id": "japanese-woman-celebrates-chhath-in-bihar-sings-folk-songs-t",
+      "headline": "Japanese woman celebrates Chhath in Bihar, sings folk songs | To watch her sing folk songs | Inshorts - Inshorts",
       "summary": "",
       "date": "2026-11-14",
       "topics": [
-        "general"
+        "entertainment"
       ],
       "sources": [
         {
-          "outlet": "Telegraph India",
+          "outlet": "NDTV",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnpVdUd3OTRUOS1XdW10M3c4YkZ6SzRBaUp3a2kyWm9TVXF3V3VidU9hdUZTeTlTTGRjanpsRkNHVHFaTENKSXVzNnltQ3R6R1FvUGNFcU01UmZMWXJxMFBpdEVVSWtNVmZIYnB1YmF5a3hRZnVzSU9iUkRJcjZjOUhLMFVmMVRkeHo4MFF3M1dPV2E2cnREMVpRaWZrUUdqaks4b1phVW03OHpwaUM5b1lvb2dwa1pQVFhFMFNJTDEyUzlQV0pBUnl6dlhrWHfSAdQBQVVfeXFMTVBRZWxWTV9wZ1hHeUF0emFLYTRzMWVDOHYxTjFvTXAySklVRDFCT1dmZUt5YjQ2TjJxRVY2OHR2TVBkMF9IUnRaSlVFVjlCTGIwTy0tMXFVakhGSXc2TFJWbi1uaXQ4MkhDYXJiZFc2Y2VrMUFHdHVpbU1IUWg1VHZhUVVsSVRpc3JpUmVJVzZQS25ISmNJVEoyNXVwOVA4Sl8yYzVHeEhBRnFuUnJTdUN2R0RJTEZib3F0NTVJWjNEcml3NWs1Q090a2FLOTRyRTN0U2k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUFBWTVOVWVCdUQyZVk0YkoyWWJYY1BXNF9ZWnJ6NXowUG9zQ2hPMHBOYmlJRnN4dmtpaUlKTjlXRFVsZmVvUm1ObWRMVUlBclFVb1RZbmIwQzdlcHpkMVJpbTUtUjdpeC1VMlRvUDd5VlFUQUVRRFdwWXdJeWEydTN4WjlXVXg0OWNOX0RXMVAwUTVWVkNGZzNTRm9pSjZKNzMwdmxjWURVeVlUY1HSAbYBQVVfeXFMUGpodWFCVzJiYlU4OWVTODEzNFhIRlFnRjQ1blRXanh1LThJQkVBQm5lYWp6M2o4WWdlcVYwMVdya3Uzc2RZTHlpRHNRRlBfcFlGTXhoclJkZExvblYzRkpVNVRLUTdDT1hQb2VJcjN0R3Q3TWZKel9RWGRMRV9WUU9mWndWQTFtRGE0WlBrWlVxbVlTT1YyOTVpSlEyenVjaWtqaTNqNHM5OWJteWF0MnAyLWFmbHc?oc=5"
         },
         {
-          "outlet": "NewsCord",
+          "outlet": "Inshorts",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEhobmM3YXJJaEJGRTdkOVV3WktKSmlKZFNmZGxGMUVWSkFaczFESVNMZlM0a2g2NkZMeTBUN0M0YUotYWh4Wk0xNVN4TmRzLWd4THNsamdnTXlSQzlzaTM5VGkwYlVJS3B3V3hqUk1kdkFNZFplR2JFSnFpTjZuWEd2czVlRmJZbndMdl9qR19QMUkweUM0WVZhMEZiZ2xsZHJSZ3hNUy1saWVCMXJHZ0Y3bjlnNFh5eWY4UnNJZXdYMW51QkJ2clJDRmVuNzZGZFlfb3lRSDdqa2VF?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY25NelNqc0ZBbGRjRDhsYVo2dVIwR3pmeGZ2cUg1Z0VicWNFRW5PZS1mZjl3MnZnSHc1eE1zbFZMOGJac3VRei1SRWkzcmFsOUdjajZwZzFhTGxuV0Y0bndEVFUyb2FzWXozc0cyTnpnY0Z1Qi1mQjJNLTFHc0ZwT1dybUpidU1sQVJ5Z0NZenU4RG52Tm5OckM2bHhRODNlanV4SW81VnVzTmtEaERpYVpiSzFRRzY0R0NNd3p0WGF6c2UzNjhxc3BadVpCakY3a0lqZtIB2wFBVV95cUxOZDdZTjlGUlBnVm5tc2gzVUtUTXJ6NVh1TmJSaUlCTG5hZzRtNnBVYXV1N2VfZ1duaXdZOEFyWWRSbkY2S2w3T0lwakFIeDlwblMtak12cG0tUWg0TGFxQW1SV0FkVmJ0THh3eloyc25xZEFwOWdDTmMwN09UdzNTd0o1bzRNWGVVZW15NU9tbThuUkNvYVhvelMzeHNmelRIZk05YXV1dlRLbWhod2pHQVdmMlgyNmloVGRnTlUycF91bnUyR1VVRXFmLVozY2ZQeTduMzVZUEdVVEU?oc=5"
-        },
-        {
-          "outlet": "Sporting News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYUR1b0tBQXA5ekE4QnF4M0VtOVR3cUxuRTlEdDJHcGtjRFNWekFwUURUZkR6eDhLeEpWdkxRZmhkclBKb3FVNTYteFRvT0NxUXBGQkp2RWF3T09vS2ZEOEhpSk5mVF9rMzM0Z2lyTVMxeFk2WjlQQjVYcngyNVhJQTVJQjJLWEtMQXd1ZjdVenJEMlJLZWpfa1plOExCT2I2UDBjbFpIS2tKRUxDNGxib0VneHh0UHNFMkpOa1UyaDhTYUstVS1kN2lvVjlET21VUVhoajBNOEhQRUl6N2VwUkFjd3g?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmI0azkwSk80LVBoXzRSWGJsdVlxNlF5VTFCWEZiQnVoaFJRQXNsOGFRTFdMNTdUeDRkd2lxaE5xN1JxbjY4TEFWaS1USVQwQzRqS2s4SFBZV0xnYU04anpsLWhTZmMwc1RiYjdxS2VUSG9vWlNXWnhRdWllWjBiR0dyeERtYU9pRkVsODdkbzJFajZSQlpGNnJ0WV9zNF9OYXpGX9IBqgFBVV95cUxOSkJ2S3ZZVnh1c2pKSF9LOTdIdFFpUVNGVnQxUE02MXNRdWx3b05TODRZWEFFX0NlRDl3SndpVzRNMFhjTzhkcU5rM3M1YzB6YkZPU1RGV3NhWlczdUxYcXhxdVlrYmlWRnR2MUhjaUM0OUNadDltd1NNamx3UEJNekpTSUhXLXlVQW1VaWREWFNQYlg1OUVicUNtRU1lZ01vM3h5dnBodnVlUQ?oc=5"
         }
       ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi score today in Bihar vs. Saurashtra SMAT 2026 match as he becomes youngest T20 captain. Covered by 4 outlets, including Telegraph India and NewsCord.",
-      "image": "images/vaibhav-sooryavanshi-score-today-in-bihar-vs-saurashtra-smat.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Japanese woman celebrates Chhath in Bihar, sings folk songs | To watch her sing folk songs. Covered by NDTV and Inshorts.",
+      "image": "images/japanese-woman-celebrates-chhath-in-bihar-sings-folk-songs-t.jpg",
       "image_kind": "photo"
     },
     {
@@ -565,6 +607,33 @@
       "genuineness_label": "Verified",
       "brief": "Chhath fervour grips state as 4-day festival begins with ‘nahay-khay’. Covered by 3 outlets, including The Times of India and The Hindu.",
       "image": "images/chhath-fervour-grips-state-as-4-day-festival-begins-with-nah.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "absconding-bihar-asi-accused-of-killing-man-found-dead-in-ma",
+      "headline": "Absconding Bihar ASI accused of killing man found dead in Madhubani - The New Indian Express",
+      "summary": "",
+      "date": "2026-11-13",
+      "topics": [
+        "crime"
+      ],
+      "sources": [
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeko4ZUVtREUtX19TbHJISHdkSXhhU0hTaUlldmp4b3JQNGZuajBnQVJ1cEhwTkdzQWVaOHZKUjlXNm5GSlo2YWdVcjlMUTVCR2E3OFF1NUFDdm1nT2VTX3NmLVAtWnJfbjgtcHVKMW1kN0kyLTNINjU3cUpPb2R5RFBiSnUyMHNRM0NITUI1ZDM3N3dzbXo5RVV0TFJ5ZVFiMV96UVBIOTdabnpQN0xIdzd2UmhGbHdWRjR4QWkzZ1NYU3PSAdABQVVfeXFMTlNfZHZjRHVGcGdGLWY2UWZZZHVOLWduLWxKWFNGVWdIeW54SUdhX1J4b25RNGFxN3ZLamxIN1NpdVNCX3ozVF8taC0xOXM2bGpVRXZCZGxQX2NIcUZkS1JtZlh3UVFtb0dudVhLWUdPMHlUeDI2MC1jUDY5Nnd3Mm1pZlV6dXV3eWVDbWlWZXduMG5OYXdFcndiZ3VNTG9VZ3BXSW55LVN5bGFEQW0tRGpDQ3BZajdMdTZXUmg2UDN0REpJTlp1SzNvYU0wbWNHaA?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFZaVFZPWnEyTkRyZEptVGp5c0hhNmdfa0hWWmpleTVjU0p5OTl1SVNwTllVNEh2RGNreUJOc0l1WDhJbWZSUUJhQUk1Yy11NG5jbHRyYnJtckI5dXo2ejh3UGp2eGRRWHNiSEtuREpiSVFhbW1Ec1p4ald2MVkwYmVNZEp1cDlWWkMtQ1hIX2lueDR2bGZQSVJJWFNRa25kNnUtQ1p3OVpIZW1HdEM1TDJjUDYzaE1QYmw4UE5aQ1VKb2hfRGpyQWpn0gHQAUFVX3lxTE04WEZiOV8tY0RHa040SDJkUHJfTG0zX29kNXlVWUxUa19jaFNwN3RNc2h0Vk54UTgyQVhnRkh3VFV5Q0NKcl9yRWVkZndHaHY5VjZvNEM3U2tQSUhJN012ZzRadWdzdVZzWXVlV1NCak5zQWRRMnJ3YlotbHhMVW45Nlg5VGFHd3RINk1MUjhWOW9jSGFGU1lxVkxaTW10Zk1NWUhRSE9fbHp5Y1VwN1Rtd09OQ3YtQUlDTXJaVWlXT3JCdXR0MkFKM0x5ejhFSlc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Absconding Bihar ASI accused of killing man found dead in Madhubani. A crime-related story. Covered by The New Indian Express and The Hindu.",
+      "image": "images/absconding-bihar-asi-accused-of-killing-man-found-dead-in-ma.jpg",
       "image_kind": "photo"
     },
     {
