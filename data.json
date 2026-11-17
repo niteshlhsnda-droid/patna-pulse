@@ -1,67 +1,45 @@
 {
-  "generated_at": "2026-11-17 14:36 UTC",
-  "generated_at_ist": "17 Nov 2026, 08:06 PM IST",
-  "story_count": 46,
+  "generated_at": "2026-11-17 15:54 UTC",
+  "generated_at_ist": "17 Nov 2026, 09:24 PM IST",
+  "story_count": 45,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "bihar-minister-s-house-burgled-in-patna-during-chhath-valuab",
-      "headline": "Bihar minister’s house burgled in Patna during Chhath, valuables worth lakhs stolen - The Times of India",
+      "id": "he-is-not-in-sound-state-of-mind-tejashwi-yadav-on-naming-of",
+      "headline": "‘He is not in sound state of mind’: Tejashwi Yadav on naming of Bihar bridge after ex-CM Nitish Kumar - The Times of India",
       "summary": "",
       "date": "2026-11-17",
       "topics": [
         "politics",
-        "economy"
+        "civic"
       ],
       "sources": [
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcnJ0RDlmLS1MR1FCaTE5aHNqTm1xaGtSX0U1cWlvVGU0ZHVleWFOamhhVlF5dDhEamI1VGNnNFBic2ZVYjllUUhta2lwQV9UenFCX0dKQUp3Qm5wRUpMa0k1c0FKYjRZM1VpRTFjdUVnVlp5UFl6dW9GM080Zm5MMjRRZHVOelExdmtxNWZCa1p1VDFadDBFQ1oyaXM3ZFVvTmFIUTdyOXRKb2tNeXJyZl9UWjhyWTZEY0xoNHpMeGd3dXhqaHhwZmJ1c0Z1d3N1ZDlJcWx5SUhmWHZGaEdXUm9R0gHnAUFVX3lxTE0zVEdvM2RVUTFqWHBCZGpUQ2pyeWVQOGRMNUduSVJ5bmROaHc1ZGtKZjV5dHdTRXJ0SjVtbHc3cTRiUlF6SzFleUFTaEpnVjZCVllhRDE1U3FTYV9GTWdsQi1HWmpmWnV6Rk1pdC1zV2cyUWdzWGpXT1JiS1lLcUFPaGUxREktVFBNcDJfRHdGcUg3c2c1bnRQZFhscTdNb25waTRsRlFIVEFEdlpTNDBQMldZU3N3djJFN2ZWeEU0RTF3c3YtNGpvazZsd3hPdndvUGZJcVR4RkRieGdaRG9UTkhMLTMxbw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlVZZDUteWQtd1FkSEdCdW1ndktDQTh4ODNOYUtnNUNka1J5NDhmX09DOUF5bWtyaGhWZVhTQ1lFWm1lVXZfbnhYYnhDY0ZvTU1pTk1SOFhyaWYteUZYTTZPSlo0eWVXOHlaSHhWV21SMnE2aXY4OW5kbTA0bnpRVlFfckFpWDNOX3JqTzlaRHRTOE8zczVMYXhNQS1qRDNzRnhqaWc5aHZwM0VaV3N2T0lUamZMSm_SAbwBQVVfeXFMTlVicFdGclhIMHRaT2hyYXNlLUVaelJqR2lWZUo4bzJNV0NvMzVDY3djdW1LTnVhYnhKb1UxOXc4WnByZHJRM0ZuWmpFeXFYN2s4RkZqM2p0Q2xUVjFYVlcweXYxYkFkemZPanlKYXJFd1k1SGtiQkh5THFrZDFHdEVPUUtuaXd0eXgtOUlGUWUzZGM0VjNuX0Z2VHh1SEkydmU2b3hLNndNLWNyZVpEenZTSy1DaFI2Zmx6NFE?oc=5"
         },
         {
-          "outlet": "NewsBytes",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGl2bUlwbE9hNWJtZm1UajlHU29RTEFqUXQtLUFiZnM5djFybzQ1aE5BVXF4SEtZODRQZ2FkZVRmcURoQmI3bklzV1QwZ1JMR0pxMWM0VlFTcnVuMDhDVW83UFZQVUduTzFlMXZqbzZoTWRTM3l4LWhqNGVTOG1fY2lwWGE3d2MzWFlpRm9NZ3YzUUl5YmFaMw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTm81Sy1CNnpFNkFaSXFULTYxd2VsVWRaek5qNlhRa1l5MzU0SGJDVEN3bEowQWZhMGg2U0g4ZERJOW9FeEZBTFR6cnNXY05DQi1LVFUwcVVUM1pabTltcU1uTTlMbTJpbHdfZkxQNFo1LUVudTBzZklvRjdqaDczbTZNVGZ0c0F3MGhUQ3lMNkVkLVVmSndhNmhyaHQ0QUQyZ3ducEowODQwOTdOMGd1LWRUaTdqM2EtUEJ0bNIBwgFBVV95cUxNRUwzRGt5OG1ocDJHVjY5aVRzUzdyZHNRbXF1WkE3NGZ3X0lPMnhMNWV1c1IwS1dHRWdzNTFGbjltanAtSXFHNWZqallvVThCUDhETHZmaWlFT2VDS0tfUlNaMmRYN0JzQlVob0taejY3WV9jLVNPbzMzMENEM0hHemp2ajNCTmZ5T1hKZVI3OUFxT1VrZUZMejJNQWZIdm9KbU92Q0RCQ0I0bmlBN3JEcFo2Y3RCdE9OWEdFTHpCZThHZw?oc=5"
         },
         {
-          "outlet": "Hindustan Times",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaURjZ2hhN2JPZ0RHc29GSkUyNktIZVVMM1FfUzdiaEFvdXdqblkzQ1BpYm1iOFRNaXpndlVwNWlucDhFX25PUldpUW5BM1ktRHNWTTBFOWcxZm5vc2Jzemk0S19hVU5QaHM2YWxmYUhDNldUNG1yaEZLdXZqWXA2MTN6UHMtTjRjS25NTlJUNnphQjRya2ZqSFBtQ0RyS3pwbHVNVVJWS01taVlYS2FoR291R2dYWlFmMEtPcEx0bnZLVVY4dVhwMGppWXkyQdIB0wFBVV95cUxPY1RPNGxRQlQ3U0xFOVlIcDMtUjd2Y3RJTkV2UHhWZVNtRWg5ak1zZGc4UXdWNi00SWpNYm9KUk5mczJ0V0gwY0MtV0t5bldUenBjMXhRaFV4T3MxWkQ3bEtpdGJZRlhWZGtud2JtNnNpVy04Z0NQRkRpMDcyQzZ0T2RYTDc4MGhmTmZjamxLRmlTQTdMSk8wSDViRF8zMzR5eFJkelR1NXl2Q2tOMmhXTVllbndfRXc5WUdHMkpqaEtGS0lmdU1JNW5jclItSnhsLVI4?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar minister’s house burgled in Patna during Chhath, valuables worth lakhs stolen. A politics-related story. Covered by 3 outlets, including The Times of India and NewsBytes.",
-      "image": "images/bihar-minister-s-house-burgled-in-patna-during-chhath-valuab.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-govt-asks-officials-to-remove-meat-stalls-from-patna-a",
-      "headline": "Bihar govt asks officials to remove meat stalls from Patna airport vicinity to prevent bird strikes | Hindustan Times - Hindustan Times",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWJDMkdxdEVRUHRNUV9kb05oLV80OVpTOHEwaktCQnRUdS0tbGFUZHpCb3pMSlpOUkY5WTJSSnNiVk1BY01ja0ZjWV9qLUswdTRlTFI3Z1FGQU8zelczUFZIeXFSZmp4UHJLNXl4LTBSSHdpUG1YTDZVNXEtckFaMWFQODJFeldOaXd3azFnMDVtT21HY1o4bmVfNm1ROWk0aXBMaW9vcVVfWHpXVEduZXdGNUtuVmx3TmFqLXN0YV9URXQ0RWt3dU1hbTc4Q1nSAdQBQVVfeXFMT2h1MnV5blpsRWJuMHpiXzJtSER1VFFfb0RTeXdScnhJTFpkZ21UcVY5MV9GUTBlc0x1Uzk4N2F0UHNvcFFYSmx6OFAxS25nVThOamVpaUdWZElaai1LTkh4czRXOWZJRVVYN0x4cGE0cmJRWGktLTI5dW53cTZKSC0zX0x1bWNEN1JkTFZXVGI5aV9kZnFnQWFzSXpYd3FHSGpJQzRoVDB0Z2RWSVJ3dGFfdzEyOE5aQzNpVlVDMWdzVllHQWt1NjlsZUJ1emh2Q2RGZXY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPTkFLRWhrOUtMMU5DWlU4clBfUFJuTE0wRHI5cG9KNGFiSFBZblZTYnhkb28yRW1EWHBqVUsyejhndEJURzA0Ymt0N1phckNmNE53UnBMSU9Ic3dOYWpkcGppRDB2NGlyeW5jRk1lbTVBNzVxbGliWVYzQUJYN3FoaTNnYmZfS2daMlNEa3B3Ym1RZnh3amhSZVRjUHZ6eG0yWmpUdUFMN3R2UWQxa2RKeVJZUE5qN0prM2ViZ3dPclZiZ0tIbXdBLWVxdnNxUkpaVGNqR1V3bDZfaWZOekJkNk45dEVaSUlwM05IcVlqUFVkTHpuYzZpUGhaclI1MXM5SUVrNndGVWNnbVA0Uk5IZk44SGswZmthN1dtWkplcTctLUZ6RU05eXhyQmsxcXhqUGNBaWppYl8zU2tzcm1waC1PWHVhSnlra2fSAf8BQVVfeXFMTS1NMzFydTVlSzJJeldpMHdqQ3lrVF9aSWJzUldaSkltRkxHTmoyXzB3QXJ1SlFzLVU2Z0VCM2lmV01SQVBkOUhrODRsZmQ0WlJURFJEQjZHdWVlVl9hYjZsSnFFNmZYSjd3VXhWdjI5dGRSYXJBOTRRZ3BlOE1EWHVNS1FGM3FkdmJhSVR2R0xQdU5xanAzei1nVE5yUXFBREVlalM0eVIzOE9GcVQ5V1Rzc2hyc2pzUGM4RmdqY21Ed2s0VElWVGptQy1QSGlud2dpMU1xNnIwSERpd1NWMjVjbmYyejJPM0ZMQjB6YmE0RG1XYVMyTW01MGpRVUcw?oc=5"
         },
         {
-          "outlet": "Hindustan Times",
+          "outlet": "India Today",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZUUzcFNrRWFBR284WHJkbnplRXluOVJwM19xWXFhaFBPQVEtMWJJNHQydXRYRzl0VDJNdFlLb19NQ0FxbklWaTV4STl4eHhia1NNT0dRRmNRbUh3cVlLNVd1b2R6bDYxeENYdF9oTkJHWnhWejdFaElMQ096UUR2LTVOd3FfbHlKRlpDRFFiN3czQlhibmVnb2dyY3lkZnZ5OTZqOGJZZ0g5aTdNNFdSZjZCaS1FMWxMam41WTd6c2xJTWNzM0J6X3dZdkdqSlY5bnpnYmpsQWtjTG5VVlVNYVZZMEtTelVxMXhGNTNad1JlSEt1aWdLQ3d6ZWtiZ9IBgwJBVV95cUxPWDRLVHoyTzY4VEZUdk9fcEs1Und0TVQ5N2Nqa29sdTlTMWZZalBvRTBkZ0JFa3pUSE9MbmFiRVJlcVZQTE8teDRrcW1PZnVyaEMyaW9Lc0VYQlh4a2N6bHFIUktfRmRpeHlwekIzaFRTZlFQZkc4NGhXOEhORDhBNVhhR2h3ZTJVQUo5cFNpVzUtY2xhUHlMaURORHNvV3FuaDBJTTRVU1MxSjZBQ05hczg4XzZXR29ZZ1FCWHZwQzFYSjFJZ0IxRFJaMEdYVGQyVWVtdXpRRjgzT2E1b3V3Q0Nqc3phclFIUGc4ZGVoS3VyTm45MUdIX1lkTkYtNFR4TVlj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNkZucG1CRUJ5clRQaUpIRHcwVzI3ZHZYM3hiaHk0NlNleS1EZFFoVWZELXNBNmUyWjljUHh6SGFZckRPM29CVWd2cXNBTFlFcUR1XzZfM2Z2clJHS2RvSU5Ya0Jsci1KRGltdHpWMjVUVkVpNFNFMHpEQ1J1a3ZUZS13dHYzNlU0dUpNTjZIZnpHWTJELTBHajZfWnBMV19mU3dDbWtGRHRQX0tvQm9QR203TDBrN0p4OUh5MDFqRnlDTUlvbEZTU2EyTDliRkkxUGxSZjdTS2pKSkpGbmRodmpKWWJwM21GVE8xSXpFZHR2WVBKVFozdGhvLWdiWFZ60gGGAkFVX3lxTE1ZQWFnQzBCUndWdXNJc1dWR2JVTE1aVDJINllpNGJCdFNrYjU1am5PVU52d0tTVWJGWTJaemNNdXpSNnlSRWZTejRJWUM3WlQ5SXM1a2cyZFNlWjRwRkY3R3ZGdWZMZUo0SC1DcnJMR1dFTkFmdG1TbzF6MlRkdFh3Wmw0VGlfNXh1SjNfWWphamEtZ1BsNjlJalJkX0NBcmxYZE5xd1NTNVRWTVYtcDQtcDdpVWxKQlU4aGVneEozdnhoYmxWUjZNYUQ0c2poUTVkYklZSGF0RE9EQ1VCcXhucmNITXdJcXlKbW53akE2bUFmOVdMM2toVFlDZnFVU2paSVBnNWc?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar govt asks officials to remove meat stalls from Patna airport vicinity to prevent bird strikes. A civic-infrastructure story. Covered by ThePrint and Hindustan Times.",
-      "image": "images/bihar-govt-asks-officials-to-remove-meat-stalls-from-patna-a.jpg",
+      "brief": "‘He is not in sound state of mind’: Tejashwi Yadav on naming of Bihar bridge after ex-CM Nitish Kumar. A politics-related story. Covered by The Times of India and India Today.",
+      "image": "images/he-is-not-in-sound-state-of-mind-tejashwi-yadav-on-naming-of.jpg",
       "image_kind": "photo"
     },
     {
@@ -129,14 +107,19 @@
       ],
       "sources": [
         {
+          "outlet": "Jagran Josh",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVN5dmFibk0yTGZYeDl5Q0pkX0lFMWNXaTkybmtLeGlWejFyVTh1Vk1lZGFYQlgxZXZWcW1GalVUSEVybDV3SWNSc28zMTZTYzAxakZXd1lFZ0ZkYVdIUmFlZXFEVXlDb3pnQ0NkQ0ZCWDRUSGVBSUJnUllUXzA0RV8wREpXelB6dGNBZnZyZmlSNVRsQ3drSHIyMjNSZ25nM3ExeENYTnJfQmZXWEhlREZDOEQxQzQ3SldqdXlpMEltdmhUSmZNTTF6N1AyNzFpUDZDX0I5ZmxEQm5pWjhwNEtHVU9DLU5L0gHvAUFVX3lxTFBFQmJuWEtLZmlGdG9fbnlMWWRDdTJmc3pOV0QzaF8wMjBqZno1bHh0b3hLZnJkaXI2ZDVES3JzbDBjU2xvUjkta01XNEIxRkVkTnBjcndKd054Uk16ZFVndmNtUFliRHFTampLcFZ5bVluWGp4cVVkcmM5ZlhrQ3FUQ21HdldYSE5BX1lVb1dEOWpnTjFDWXdENWFxeTVUaGpOSnBBWXM5SlJDNWJqT2ppd1dzNE9ON05fcWMyMzBUZ2NJVlhRZUVBdUJYOEFnVm9pNlBtM0RkbjI4akwwbUJ1TTJWMDFZSER1MmR0cXFn?oc=5"
+        },
+        {
           "outlet": "Adda247",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlS280aEl4S3F0X2xuaUhjMmtzcWtHVFVHY0Znc1ZqQXM5YVRUQ2xqd2c5Z1gtUG1RNjFDczdOTHphb3N6QlM1Y0NIWEhHUEM1c1RIVGhVV2ZCWWw5TlhseXY4LUtvU0x4RzFSbFdKcXJwdWo2QnI4VG82d2d1dw?oc=5"
         },
         {
-          "outlet": "Jagran Josh",
+          "outlet": "India Today",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVN5dmFibk0yTGZYeDl5Q0pkX0lFMWNXaTkybmtLeGlWejFyVTh1Vk1lZGFYQlgxZXZWcW1GalVUSEVybDV3SWNSc28zMTZTYzAxakZXd1lFZ0ZkYVdIUmFlZXFEVXlDb3pnQ0NkQ0ZCWDRUSGVBSUJnUllUXzA0RV8wREpXelB6dGNBZnZyZmlSNVRsQ3drSHIyMjNSZ25nM3ExeENYTnJfQmZXWEhlREZDOEQxQzQ3SldqdXlpMEltdmhUSmZNTTF6N1AyNzFpUDZDX0I5ZmxEQm5pWjhwNEtHVU9DLU5L0gHvAUFVX3lxTFBFQmJuWEtLZmlGdG9fbnlMWWRDdTJmc3pOV0QzaF8wMjBqZno1bHh0b3hLZnJkaXI2ZDVES3JzbDBjU2xvUjkta01XNEIxRkVkTnBjcndKd054Uk16ZFVndmNtUFliRHFTampLcFZ5bVluWGp4cVVkcmM5ZlhrQ3FUQ21HdldYSE5BX1lVb1dEOWpnTjFDWXdENWFxeTVUaGpOSnBBWXM5SlJDNWJqT2ppd1dzNE9ON05fcWMyMzBUZ2NJVlhRZUVBdUJYOEFnVm9pNlBtM0RkbjI4akwwbUJ1TTJWMDFZSER1MmR0cXFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd2Z6ZXNYSVdiX3hzNnZoSndWQzBiQzFQYVNIQi02Z3RGaGxZMm14aEpsTjNPRHRPWm13X1k2bVhiaURCR0x6QTFMVkpWMm51Q25xQ2JKb3d2cGNrTklOMTFmdEIwNDR1Ykp1TVE2dTBaUFY3R21wangzT2NscHgxLXRFV0lyOWQ4RXpGN3AzaURNclpmZlZIRUhHaVJWTGxqNWU1OXUxZlRFU0pzTUpqSEd3Rm1obG9wUGxiYm5NYmJuelRaSF9UYUZPZ3Q5bFN1cE1yY1RmLXM0V1NFR2pFS2xZcnRFUTJH?oc=5"
         },
         {
           "outlet": "PW",
@@ -154,10 +137,10 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40WjBkdG8tWHR1bEw1QzRFVDREVWtzemVFaExFeE5adnhRNDZKZXp1Sy1pc2M4WVpXdmh5THQ2Z2Z1c1RWSDVEc3lDNVU1bE1WTDd3NEdDbmJsQUdXTDR6ZU1FQ0gwdmdJbDlyUA?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक। शिक्षा से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Adda247 और Jagran Josh शामिल हैं।",
+      "brief": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक। शिक्षा से जुड़ी ख़बर। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran Josh और Adda247 शामिल हैं।",
       "image": "images/bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j.jpg",
       "image_kind": "photo"
     },
@@ -189,31 +172,31 @@
       "image_kind": "photo"
     },
     {
-      "id": "iit-5-dainik-bhaskar",
-      "headline": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी - Dainik Bhaskar",
+      "id": "chhath-puja-school-holiday-today-november-16-delhi-bihar-jha",
+      "headline": "Chhath Puja school holiday today, November 16: Delhi, Bihar, Jharkhand schools to remain closed; Check state-wise list - Education Times",
       "summary": "",
       "date": "2026-11-17",
       "topics": [
-        "general"
+        "education"
       ],
       "sources": [
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGlkUWRwNl9wMk9YSnZOUUNmT19sSUg3M19kSldHVUVDaEdzQUxZUEk0dmJiU3Y5Q2FBWk1XZXRMUWwyM0dQTE1iZk9QYW9JZVZUcC02bGIwMHRkMGprVWpGMGtfU3FMT3VFcmRkTzJReVc3b0t1WFBSRjBYc0libGd2RWRWUHZnaFg0UGJIS0lrUDZxdFFwaTRKVTh0cXZsN0YydUZVeDloVFZvVUpQd1o1ZXh5WVluYnpPdGJETUZJX3RJRVc0WmdERFNBcFBBRmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdHBXbmpMM3hKYnRnZ2tVTzJkV1hTbm5QR3BHSjFlWVU0d3JBRXRPZ01HNXVCS1R2OXBOdDlLMW9SaUgyVmpUa0pRZExkM3B0TUszVmg3cDE2NW5xU1FIbWlvQWxMSFRfVF9qNFBjeW1iUE5uSmx1cnRKUVBOWWJQdUdoU0FoLTR2dVpmeU5STHc0amM3OEwyeTdVcWxhTnhXVGFHV2ZPNnQ4RHIwR3hBeDlGczlteTlxNW1VbnZ0aEdJVXdpQTRqRFRGVS0tcmw1UjF1RWxiREVaeGh0bDZjUmRwVVEyNkVtYUVyb2lOR1liQzdZaGNyLXpvZTZWNWhOZjluckFGRdIBjAJBVV95cUxOQ0tSc3lkSkFlS3FGaWlPeDY2MExqNmVRNVVNY2k0MzIxcm5fcmItcTNibnlEQUZBNHRQVzhYYmF3Q1cxZk5Hd3gzYkRhWHVuZFhRZHFRckQ0MC1WdFJMQ1BkWWxlY1dYVUItSURfc3h2OHRTbWVaeXBmS0lGOVNRQnlnVTRqWVIzcUdzdFdnMlB6a2JtNU9ITUMydDVNdTFTTTdHUjVGU0U2c1lrQUZ5YW1DcXZjQVRhYk9VUlVZbUZmb1VTUnNaTFZDMEt2N0c3blk3VmdIbmlNdkRuZ2hJaHA5ek1ieElWMmZ4OER1eGJhN2FGN1ZOdGhGbGhLVEJudDJjLTd6eU5fazV0?oc=5"
         },
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Education Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNjJDYkdOMjFwZnNIUkxtZHJ2MllWaGZWeW9HSmlNVU84Z0pnQ1FHcFY5Uzhvd3hOTkU0dDJadm5wWUE1YUpkbnB0OXVveTJDQklKMWtiQm1Ya3BhZ2NwNWlodWE0ZHNCYlR3MzlXNG4zV3hfVENiYkFVVWJlSm50eWREa2ZHUERMTWNPTWNqV2o5ZG92cklhZUh5aUxIRGhFVG8wZUZZWTJWRUNRQ3FySVNIMjZIZ3c1ZmptU2wxdGNaNkdWQy00bG91NUtWUmxOcVHSAdcBQVVfeXFMTW5rWG1IeWhLRlJCNDBrd3lLUjhselVjOVQ4RGhRWEJqbndMclU5ZjhwMUlQczhEV0pVal9VRHhMODkyeDNuT2JOTG9PaUFhdEZtZ3pSMlJYQUlZaGQtVWFWZWVsbGxKeFYxN0RxRUJIV0NQYXpQQThYTmZqT1pudkRtZmEzSzdOSHI0cmMwZTNDRjRmUXdsZE5HNUtEN21saFJ6X251Q2JMV3d6am9sa05rV1FaWk1RMmFCNl9mci1UajBrRUJxM3I3Z00zN2pleEg5VjZLc1U?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObDNGQ3Q1c3AzdGlNa1Mtc2tvNFRFTDJMa3JzeUhJWlhESS1GYzBkSVBoN095ZFg0dzNBWnRTc0diamZvMW1LNzB4c2JySkoxbVZCV28ya0Vzb3FsazctMHl0ajFWa1VBT21lby1sRzRxVW8yUDdoUWthcWZYWVdqcHBINFNBSF9tSXRrS0NEcWp5WVBhYTI1WS1qVWhMeXhRSEdDa0psWkxfSmoyQUNJcFN0czBrSHUtVTJBQ1F3MkFMdVhwZk05bjM0RnlFYUM3c3F0b3FZYWdsSGR6R1A1cjZweHd4V1J2c0JGN0tqNTlFNXViZnN2TFFaWlVKdw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/iit-5-dainik-bhaskar.jpg",
-      "image_kind": "placeholder"
+      "brief": "Chhath Puja school holiday today, November 16: Delhi, Bihar, Jharkhand schools to remain closed; Check state-wise list. An education-related story. Covered by The Times of India and Education Times.",
+      "image": "images/chhath-puja-school-holiday-today-november-16-delhi-bihar-jha.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "5-1-4-41-prabhat-khabar",
@@ -243,6 +226,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "iit-5-dainik-bhaskar",
+      "headline": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGlkUWRwNl9wMk9YSnZOUUNmT19sSUg3M19kSldHVUVDaEdzQUxZUEk0dmJiU3Y5Q2FBWk1XZXRMUWwyM0dQTE1iZk9QYW9JZVZUcC02bGIwMHRkMGprVWpGMGtfU3FMT3VFcmRkTzJReVc3b0t1WFBSRjBYc0libGd2RWRWUHZnaFg0UGJIS0lrUDZxdFFwaTRKVTh0cXZsN0YydUZVeDloVFZvVUpQd1o1ZXh5WVluYnpPdGJETUZJX3RJRVc0WmdERFNBcFBBRmc?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNjJDYkdOMjFwZnNIUkxtZHJ2MllWaGZWeW9HSmlNVU84Z0pnQ1FHcFY5Uzhvd3hOTkU0dDJadm5wWUE1YUpkbnB0OXVveTJDQklKMWtiQm1Ya3BhZ2NwNWlodWE0ZHNCYlR3MzlXNG4zV3hfVENiYkFVVWJlSm50eWREa2ZHUERMTWNPTWNqV2o5ZG92cklhZUh5aUxIRGhFVG8wZUZZWTJWRUNRQ3FySVNIMjZIZ3c1ZmptU2wxdGNaNkdWQy00bG91NUtWUmxOcVHSAdcBQVVfeXFMTW5rWG1IeWhLRlJCNDBrd3lLUjhselVjOVQ4RGhRWEJqbndMclU5ZjhwMUlQczhEV0pVal9VRHhMODkyeDNuT2JOTG9PaUFhdEZtZ3pSMlJYQUlZaGQtVWFWZWVsbGxKeFYxN0RxRUJIV0NQYXpQQThYTmZqT1pudkRtZmEzSzdOSHI0cmMwZTNDRjRmUXdsZE5HNUtEN21saFJ6X251Q2JMV3d6am9sa05rV1FaWk1RMmFCNl9mci1UajBrRUJxM3I3Z00zN2pleEg5VjZLc1U?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/iit-5-dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "chhath-puja-day-3-devotees-offer-sandhya-arghya-to-setting-s",
       "headline": "Chhath Puja Day 3: Devotees offer Sandhya Arghya to setting sun, actress Akshara Singh joins celebration - ANI News",
       "summary": "",
@@ -262,11 +272,6 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2YzNGs4OEExX1FvLWF0WjU3bTVYenNiRi1fMVdTU0tWUkcyTWZZb2pQQm5vOURnRDR5WjdSNW1KLUVSQmxkMWFTTDh1dXpoaWRvbVVuQjB5NjZ5dEM3RmttVkE2dXdiMVROX0g1VlZFSWNXbnhnQVJ6R0VQendKNUI1UTN2aGtzMVNHMHJob2xsZHFNSUwzbUh2cFNzNktiY3VqbTZaNXpVUWxUdERWdVhJTFpWenlHRllZejZ3RWlLWW1yNTYtUTV5SkdvOGlTUHFjNzlR?oc=5"
         },
         {
-          "outlet": "tennews.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRzc3aTAzVDFxbXF6b0QxcGVKZmY2U0QzeF9fX09UaWMtNUVSSnJ0djZaeUVuZjI0dS1La1ZSNHR3eDJ5dVRzZ1FpLXN0TVNYVjFuZWNOMU9PeG1QR0x0WG9NMHFsXzdUUmpMNzkwcVhvRWs1U0x0UnNvU0w4cTc4UDM4QmlGVGd1Q0QwUTV0WkszdDl5?oc=5"
-        },
-        {
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSTJKVWgzRjZJeVBtbzlpTGhXek8teDYzOEptQzJnQzRGVDM1OTZjUTJuN29QZDN6Ml9OWXVrWjNYczI1VUNTeTRkbnl1VmdUY0JrdUlPclJzQTFxTGNzMEhuRmlyZzZ0c1lwZkRBN3Yya2JmdGVsS2JvQWhjcUdpQkluOXlUX2tMUlVQWnNjQzJQa1RKWnVreU1zMXIzTjVqSDhYVlAya3hzOEZ3RFhnYlFjd2M4LWJQMDJ1Z25Lb0ZaLUdBS1g5S3hIeVVmT3ZIUzVYWTRpNEpYdEtv?oc=5"
@@ -282,19 +287,24 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWxoeV9ZUzJiZGp5WV9uQk53SUFQdVJUbUI5bWhhY2Vral9PeFplVzlOcFY0ZnF2clF2UU4xSG4yUDRLTkRQUG0teklacXpBb19WZUZ6dmUwTWNxS0FseThkZkhHX1o2Vms4Z19zd0p2UHc5Nmk0T2V5dE9IU1pfS1ZyaUJERlZ5bzdoVmJYeE9WQS1UN3VSLTFQUngzMzVRaHfSAacBQVVfeXFMTnd6SHpLbU1EcVNsN184cDNIREE0M214N0RUUWk1ZDFvb2RwQTBTSVpQcl9ETWlOeGxnajBzMGNJR3NhdEQ1bDl6YXkxejUxQmJONkQwc2ZhUk9kWGVWLTJHZDVXcUNncTY5SFlPaEJQOUEzMFMxN3pnaG5tUjR1V1JjNHV6SURnOEdxYjRQUGFqX2dRWDFFRG9rRXpPMlFBMGQzTE82SUU?oc=5"
         },
         {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
-        },
-        {
           "outlet": "MorungExpress",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG9Scm54UWJ6ZnhkWHo2ekpsRlNNSjRUNG9xWFJqTnlpd2VDVWJFa1hwSlRiaVVzU2duQzkzTDBROGMwTERkUGlaQUsyeFJSVDVsZGdEQzdJMFRVOVlfWHhlbGUzb0M3QUFxbWNma2ZxT0tsdjRJclc4X0dQVG5xNG5BZ0V6elU3YnRNSTM4bkNFdGJvRUdkaXRxZjNfOWdidlE?oc=5"
         },
         {
+          "outlet": "MillenniumPost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2V5ZlBrZFc3RUdQM245UTh2UjB1TlNJMlI1cWJfWVptZ05Qb1ZEYjktb0wwRkYzSnI2Qy1XWExfUnpuV2pZY2g3TFQtMmJnUTVIX1ZDd3RHTTNsYVo1Y3EyU0JSc1VabGxEMTUxdXI5QnlsT3BlQll3YkhuWHFTbVJxZWloV19ka1g1Y1FBVHA5cG1BeU51ZGVhV2t3T2U3WS1Z0gGoAUFVX3lxTE9FWTFjTi1sVmVYU0lLOVJkR19aNGQzR0FJZ08wY0VUWmxlTjFWN2ZuN1J4VlViVkZOWkpGWUE1dWxDWjRwZFlZNTZiNm5takp1RnFQdWVSaUJJWjFPeW5yb3VMVGM4VElPZHpsM3ZzSllVbUJKMDFYTXJ6MzNaVm80bk94ZWhWODFKT2g3bV9wYXdSVDMyMC1SdG5OTmlVZmN0cWZhMDFkTg?oc=5"
+        },
+        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnkyN05vTXlSQ3VUcWlJeXhZS25jTHEyZEFsWko0Yld1SUFuSE9yRmY2a0FnYkFRUmx6WnJ4RDNUSWh6NUhwOThJUkN1QkdFQW9lY1ktSlJzelZJQjdxSnF4cWxPel9sT1lZNkxaa1JobUlfQ3lNNTNpMHF6NV9GbWo2aUplMjhSdlVCRVRtQUVieTEwd1RHM0NPVFJsV3VlZGI0eVg4MlpHMi1rSmRQWUt1eDBESy0wRV8wRzlReXU?oc=5"
+        },
+        {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
         },
         {
           "outlet": "ANI News",
@@ -307,61 +317,6 @@
       "genuineness_label": "Verified",
       "brief": "Chhath Puja Day 3: Devotees offer Sandhya Arghya to setting sun, actress Akshara Singh joins celebration. An economy-related story. Covered by 8 outlets, including ANI News and The Hindu.",
       "image": "images/chhath-puja-day-3-devotees-offer-sandhya-arghya-to-setting-s.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-sikandar-khan-dies-after-alleged-beating-at-rafiganj-h",
-      "headline": "Bihar: Sikandar Khan dies after alleged beating at Rafiganj hospital while donating blood - Muslim Mirror",
-      "summary": "",
-      "date": "2026-11-16",
-      "topics": [
-        "crime",
-        "health"
-      ],
-      "sources": [
-        {
-          "outlet": "Vartha Bharati",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3BManFKdjZ0NlJGS2hSMWZPMFVYSjhJMmZGSnN4MVJLU2xyS0NjUFhOM2dkLVFLTkdzRFZIbTEza1otc3lBU2JTdTcydTZrRkZsRTZFLVNpWUh5MWhqdzJSREhIeV8tbGxJcWVwZmlUdVZmOVlQaWF1Q0VGTW8zX2xZYi1sQ09YanctZzJZRWh3WFJNcE5CeF9hOWFlZktsb1p3Z2hoak1xbGE5TXh6Z2l3ekl6RGR0OUIxZkVHVnVXNGhfVXZVMXk5UdIB0AFBVV95cUxPR0p2Zk54eURvUldvQi1RekVIMXk1VHhaTXFFLURpRHJLc2NjVU4zZ2JobmpqUHNkVGhrS3RlOW9TeGRoaERIWlU1TTJIT1dRcFFzTTVkc1llaDNYc3JYV2RGTlRFVEJEZTZBTVhIdFNHTmdsR1hNX1lJaUZpYWZualkyTjhueW96aDhlM0dKQnFBMklxR3lnc0xtNkdyM1RaRnA1aFhtamNVVHdpam5PZDVfNEdMSy0wWEs3R3hFNDhDenZJRlZGZ01vYzExLUJw?oc=5"
-        },
-        {
-          "outlet": "Muslim Mirror",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFpud3dXM1ZQaGJMUE1kRlJ6MlZ6TUNnTkM4c3Q5STZLdGR0Z1FNMkxkUUpnVHdYQ1V3T1ZBZFNqVjVZeVEwc2VQMDZTc2pqZEVjeVo5UjNPdFVDQVVidGh5MldVMWViVjV1V1VxT2phemNQTGtUWDJoWWhTTUhuME1ieTRBRGVHOHVXM3plMndLTXY4NlNOMHVfYkVmMGs3ejlZMHVvMlFRMVNkSkJFOUVpc0w?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar: Sikandar Khan dies after alleged beating at Rafiganj hospital while donating blood. A crime-related story. Covered by Vartha Bharati and Muslim Mirror.",
-      "image": "images/bihar-sikandar-khan-dies-after-alleged-beating-at-rafiganj-h.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "why-vaibhav-sooryavanshi-missed-bihar-s-second-smat-match-af",
-      "headline": "Why Vaibhav Sooryavanshi missed Bihar's second SMAT match after historic captaincy debut - The Times of India",
-      "summary": "",
-      "date": "2026-11-16",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUlhheEJlQUFMMGFyQ3B0SF8xS3ByZU5VWnI2TkFSRGtGU2R4TE10dHptTllGckdWVThLeFhWd0pIMWVuUXphZF9XanZYNjBJUS1TS09kdFRycTBfZDNMWTZIb3NhZ0lxLTFvSUl4RXZURFBHbE1FN291Y1QtYndPZVg3dmJySm9OQlc3bDc5ajJCZm1HbWlPMkl6UlBob2N2bDh5eUlDMkNvck1lb2FkMDItTEJFYVNCMmtJZFhLRE04akE5ZG1kcU9lOHpuZUVhajFPQ05pLTNuR1lqQ3BFbGc3Nk1wdjhsOWRjWjRPTU5CUlo1cmRHYnpoOXFNUdIBgwJBVV95cUxNem9IWWVVYkhfb2dfQzBVUE8zWVlyTVY0ZUJ4NnR4WEFGRDZhLWZvR2lvT2xpQ1ctMjd6U1N3bkFLSWJMWTEyRUtvcTNkMWZxM3lxTk1xNWRKNUV3MzJ5bFRrREZzcTUta0VKYzdibDZLWXJrYmJybll0Y1ItVHlTbjlaZGVBTGNLZ2Fud0dLZWhqbmVfa0ZqV05SR3ZJYWV5dl9lb2ZGV0Z4VkM3ZDB0d19yNURwQTBKYUxWbXZQazVjOUs2OXBXUHMyN3o0dlZmZVloTDV4QlNRejhhQW5hbUF0ZGdqLWZaNmRMVnNuQmtCVkhPY2tmN2dqWkUydVVsVUl3?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzZ2ODVtVUNDM3Y2ZFdSNUV4T05VcWNRWnhwTTk5Q2Q5LWdTUXpxbTZQSTVWWXI1NW5lc0d6ZHJYWU5ZNF9iRUw3aUg0Z1U1WVdXcHRlR0pXclAxTGlkMVdZNzBid3daRWZjTkpHNmVmMTF0R2FxeEVwbE1teGlneWVMWElTY1V6VzNkeDEyUkxuY3JOMVFlYll6MzMxa2tKcm5DdVlKZ1BiQm1UM1h1ZGNGdzhjVGRoRUpkTG9qclhuYnd4dGZKOFdKTWU0WUhF0gHWAUFVX3lxTE5EQW5peDY0YjFuc2VLcVZlMVFJZVVrYk1LWk9tWFdiaThlTzlUdldOZWtiX3ZHa0FpNVVxRDNPUWpHN0NjY2NqRmxlT3JDOGVKRk1FNDgtWGJuOWZ3TmJXUXVPTHl5Rlh5R3NJa3N4eTkzZVQ5d3JTMV91VndLX2dEVEdfYU1tWTRUaTRuaWJGMk9aWEZPS3duT3ZEQkF2WDlzMVp4MFBnYUV6cWdpaXc4aTF3cHBudWhsUXZGSDBYYlFNT1RiSHZZazZpTjhJV0tIVlpVR3c?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Why Vaibhav Sooryavanshi missed Bihar's second SMAT match after historic captaincy debut. Covered by The Times of India and India Today.",
-      "image": "images/why-vaibhav-sooryavanshi-missed-bihar-s-second-smat-match-af.jpg",
       "image_kind": "photo"
     },
     {
@@ -389,6 +344,33 @@
       "genuineness_label": "Corroborated",
       "brief": "PM Modi, BJP leaders extend birthday wishes to Bihar CM Samrat Choudhary. A politics-related story. Covered by NDTV and DD India.",
       "image": "images/pm-modi-bjp-leaders-extend-birthday-wishes-to-bihar-cm-samra.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "why-vaibhav-sooryavanshi-missed-bihar-s-second-smat-match-af",
+      "headline": "Why Vaibhav Sooryavanshi missed Bihar's second SMAT match after historic captaincy debut - The Times of India",
+      "summary": "",
+      "date": "2026-11-16",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUlhheEJlQUFMMGFyQ3B0SF8xS3ByZU5VWnI2TkFSRGtGU2R4TE10dHptTllGckdWVThLeFhWd0pIMWVuUXphZF9XanZYNjBJUS1TS09kdFRycTBfZDNMWTZIb3NhZ0lxLTFvSUl4RXZURFBHbE1FN291Y1QtYndPZVg3dmJySm9OQlc3bDc5ajJCZm1HbWlPMkl6UlBob2N2bDh5eUlDMkNvck1lb2FkMDItTEJFYVNCMmtJZFhLRE04akE5ZG1kcU9lOHpuZUVhajFPQ05pLTNuR1lqQ3BFbGc3Nk1wdjhsOWRjWjRPTU5CUlo1cmRHYnpoOXFNUdIBgwJBVV95cUxNem9IWWVVYkhfb2dfQzBVUE8zWVlyTVY0ZUJ4NnR4WEFGRDZhLWZvR2lvT2xpQ1ctMjd6U1N3bkFLSWJMWTEyRUtvcTNkMWZxM3lxTk1xNWRKNUV3MzJ5bFRrREZzcTUta0VKYzdibDZLWXJrYmJybll0Y1ItVHlTbjlaZGVBTGNLZ2Fud0dLZWhqbmVfa0ZqV05SR3ZJYWV5dl9lb2ZGV0Z4VkM3ZDB0d19yNURwQTBKYUxWbXZQazVjOUs2OXBXUHMyN3o0dlZmZVloTDV4QlNRejhhQW5hbUF0ZGdqLWZaNmRMVnNuQmtCVkhPY2tmN2dqWkUydVVsVUl3?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzZ2ODVtVUNDM3Y2ZFdSNUV4T05VcWNRWnhwTTk5Q2Q5LWdTUXpxbTZQSTVWWXI1NW5lc0d6ZHJYWU5ZNF9iRUw3aUg0Z1U1WVdXcHRlR0pXclAxTGlkMVdZNzBid3daRWZjTkpHNmVmMTF0R2FxeEVwbE1teGlneWVMWElTY1V6VzNkeDEyUkxuY3JOMVFlYll6MzMxa2tKcm5DdVlKZ1BiQm1UM1h1ZGNGdzhjVGRoRUpkTG9qclhuYnd4dGZKOFdKTWU0WUhF0gHWAUFVX3lxTE5EQW5peDY0YjFuc2VLcVZlMVFJZVVrYk1LWk9tWFdiaThlTzlUdldOZWtiX3ZHa0FpNVVxRDNPUWpHN0NjY2NqRmxlT3JDOGVKRk1FNDgtWGJuOWZ3TmJXUXVPTHl5Rlh5R3NJa3N4eTkzZVQ5d3JTMV91VndLX2dEVEdfYU1tWTRUaTRuaWJGMk9aWEZPS3duT3ZEQkF2WDlzMVp4MFBnYUV6cWdpaXc4aTF3cHBudWhsUXZGSDBYYlFNT1RiSHZZazZpTjhJV0tIVlpVR3c?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Why Vaibhav Sooryavanshi missed Bihar's second SMAT match after historic captaincy debut. Covered by The Times of India and India Today.",
+      "image": "images/why-vaibhav-sooryavanshi-missed-bihar-s-second-smat-match-af.jpg",
       "image_kind": "photo"
     },
     {
@@ -436,17 +418,12 @@
           "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZVIyckhNTzRubWljS3RpWFZSWWQ3ZTZ1MTVady1uVTJaeHFJMnNleXdwRUpDSVE2MUlrNjVxSjJBaXZhUGx5SkYzUXMzYjdNcy02S2hBMzdWbWRyNWY4VndtWU1lZV9hZmtGaldlcFY5a0s1VGloZU8wcFpiSVpMSzBTVkNmMC11RGFpbmpIU0JDa2dJOWNILTNBeGtVSEVEWU0xQTktc3pWVnlqVTI1VHA5aEw5Yzh6THpFb09aM3k3dGs0Q0J0X21UNndfU0R3Y3VCcF9ZTnp3RUxKZmk2bUg3ZUZDeWdzMVd1d1h3?oc=5"
-        },
-        {
-          "outlet": "Sandesh",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOam5ZSjUwcFVOOUNjMmltY0xjQ3FKT2JzVi10YVpUYXNDeW5kaGVFdDZFTDliZVJFVF9WN1NuamZjTl93R0xqcnVvSXVMbFNWS1hZR3dOalJjNEpsQ3J3TWNVdnZ4UWgzUnp5YzdEdm5HZk42ZXVHM3dZTHRTLXhUN1gzT015dHl0dk0zUjI0RXNRUWE3aWVpcDcxcXQ1a0pFUmhMQjF5aGkxUQ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Video | Chhath 2026. Covered by 3 outlets, including NDTV and ANI News.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Video | Chhath 2026. Covered by NDTV and ANI News.",
       "image": "images/video-chhath-2026-chhath-mahaparv-sea-of-devotees-flocks-to-.jpg",
       "image_kind": "photo"
     },
