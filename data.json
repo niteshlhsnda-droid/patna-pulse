@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17 12:54 UTC",
-  "generated_at_ist": "17 Nov 2026, 06:24 PM IST",
+  "generated_at": "2026-11-17 13:55 UTC",
+  "generated_at_ist": "17 Nov 2026, 07:25 PM IST",
   "story_count": 45,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -38,8 +38,35 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-shocker-woman-takes-loan-to-get-husband-killed-after-h",
-      "headline": "Bihar Shocker! Woman Takes Loan To Get Husband Killed After He Finds Out Her Affair - Asianet Newsable",
+      "id": "bihar-govt-asks-officials-to-remove-meat-stalls-from-patna-a",
+      "headline": "Bihar govt asks officials to remove meat stalls from Patna airport vicinity to prevent bird strikes | Hindustan Times - Hindustan Times",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWJDMkdxdEVRUHRNUV9kb05oLV80OVpTOHEwaktCQnRUdS0tbGFUZHpCb3pMSlpOUkY5WTJSSnNiVk1BY01ja0ZjWV9qLUswdTRlTFI3Z1FGQU8zelczUFZIeXFSZmp4UHJLNXl4LTBSSHdpUG1YTDZVNXEtckFaMWFQODJFeldOaXd3azFnMDVtT21HY1o4bmVfNm1ROWk0aXBMaW9vcVVfWHpXVEduZXdGNUtuVmx3TmFqLXN0YV9URXQ0RWt3dU1hbTc4Q1nSAdQBQVVfeXFMT2h1MnV5blpsRWJuMHpiXzJtSER1VFFfb0RTeXdScnhJTFpkZ21UcVY5MV9GUTBlc0x1Uzk4N2F0UHNvcFFYSmx6OFAxS25nVThOamVpaUdWZElaai1LTkh4czRXOWZJRVVYN0x4cGE0cmJRWGktLTI5dW53cTZKSC0zX0x1bWNEN1JkTFZXVGI5aV9kZnFnQWFzSXpYd3FHSGpJQzRoVDB0Z2RWSVJ3dGFfdzEyOE5aQzNpVlVDMWdzVllHQWt1NjlsZUJ1emh2Q2RGZXY?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZUUzcFNrRWFBR284WHJkbnplRXluOVJwM19xWXFhaFBPQVEtMWJJNHQydXRYRzl0VDJNdFlLb19NQ0FxbklWaTV4STl4eHhia1NNT0dRRmNRbUh3cVlLNVd1b2R6bDYxeENYdF9oTkJHWnhWejdFaElMQ096UUR2LTVOd3FfbHlKRlpDRFFiN3czQlhibmVnb2dyY3lkZnZ5OTZqOGJZZ0g5aTdNNFdSZjZCaS1FMWxMam41WTd6c2xJTWNzM0J6X3dZdkdqSlY5bnpnYmpsQWtjTG5VVlVNYVZZMEtTelVxMXhGNTNad1JlSEt1aWdLQ3d6ZWtiZ9IBgwJBVV95cUxPWDRLVHoyTzY4VEZUdk9fcEs1Und0TVQ5N2Nqa29sdTlTMWZZalBvRTBkZ0JFa3pUSE9MbmFiRVJlcVZQTE8teDRrcW1PZnVyaEMyaW9Lc0VYQlh4a2N6bHFIUktfRmRpeHlwekIzaFRTZlFQZkc4NGhXOEhORDhBNVhhR2h3ZTJVQUo5cFNpVzUtY2xhUHlMaURORHNvV3FuaDBJTTRVU1MxSjZBQ05hczg4XzZXR29ZZ1FCWHZwQzFYSjFJZ0IxRFJaMEdYVGQyVWVtdXpRRjgzT2E1b3V3Q0Nqc3phclFIUGc4ZGVoS3VyTm45MUdIX1lkTkYtNFR4TVlj?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar govt asks officials to remove meat stalls from Patna airport vicinity to prevent bird strikes. A civic-infrastructure story. Covered by ThePrint and Hindustan Times.",
+      "image": "images/bihar-govt-asks-officials-to-remove-meat-stalls-from-patna-a.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "supreme-court-moots-scrutiny-of-high-court-judgments-to-iden",
+      "headline": "Supreme Court moots scrutiny of High Court judgments to identify objectionable remarks about women - Bar and Bench",
       "summary": "",
       "date": "2026-11-17",
       "topics": [
@@ -47,26 +74,21 @@
       ],
       "sources": [
         {
-          "outlet": "NDTV",
+          "outlet": "LawBeat",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUxETzNNZDZnbjA2dmRuQjR0UzJ3eVZXRXVDTndpUHNnWWxLclktMVlLZEo1TVNTWFczMVFQTEtHdkNadkNreEtrWjJMRG45QWFHQS1TUFN1ZmZHelFERUtXMTVWZXRlcEhuRmlrOHh5NU9ORnZWcndGTDlQMFozV1gzOTBDSS14cWpxVWhIMzR6MksxTm1qd1RDZkpKUdIBpgFBVV95cUxOWlQwdmNTUVA2QlR3TWdoeTM1WHV3c0xIekw4ZjBNRHp2NUNGM3BERVgxbHRuY1lvQnJtX1p2eV9FRGxVSGxhWTdOYnMyaUlzb2VzeEJtMTY0cEF2RmhOVExqanpYRmlPNW9fc0FadV9hMlU1R3Fnd3VNRGFGY3J1LVRSNTFvMUUxX1B0Vy1tS0U0VEEwbzJidW1XaTdZVTFBLUhBelFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU21fUWE1cDFENzdMdUZiLUtITDUtTVJkdGZwMWtfWjJyc1ZlaEtpZUpqZ0NJM0k1TEF2UEN5M19JVTVJU0RXYnRaM1dXcUZka2ZxTVE4M0JXbTd2UlhfQUc5aFE0STRoWUs5TFdMLUtkZGJLREtqUXgwTjI3QkVNNEVNY0tYMUs5Y2ZTcWJ3QXctOEFueHgxRE1UX29VYmZwMFZJZ0F1VnM1bUc0NHdabzZGZHI5N3hoSnpyVnNXYzVfdHg4aEhSdHdR0gHPAUFVX3lxTE5CdnMtWlUtRzVUcmphX0Y3NWFxY0RxNnkwY0FfemJ5Xy1sOTJtRWN4NWlmOHRSdXZmY3FTdDg4RzdneXV1WGRZNERTeS1vT0VKM2dJN3dIaDUwMnZQa01CU3dOTDJXYlpuR3VMSkltTHM5VDdmLUt1NTQ2Y3F5aDBxd0hBc2dfOEpVN1RWX2JkdDB6aUdZa21rU1lmZUl2Vlpxd2ViSXJpcXphLWtrWV9YTktYYmZfejFVNEFSal9WQTFuMnRWS0c3dUhPR1BGdw?oc=5"
         },
         {
-          "outlet": "Asianet Newsable",
+          "outlet": "Bar and Bench",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWgtNnpETEk1bFREMUNmXzdDckhYNjd6UWhuYV8xNThxVzMtcXpmd2pzcnlhTXNiQ3U0THJLeVpfSTBnYkM3eTZOLUlwVzBnenlyNWVwZGN0ei1WbXE2QXQ4d05SYUpKX2VQUUF0dl9RMEllS0UzY0dXUGI5OFhYZWx5cnlOR1doNFFvbEN1UjhncnE3U1Y5Nm4yWmVRS095d3FWckExLXpwVlBSX2hjdl83a0pRWXp6S1VXYkFMaFotVUlzaDFOekJVaFdGSnc5TjQ5dXAxNW0yUC1vdWVkM3NoS2JWQ1kzdFJMLWRLY9IB9AFBVV95cUxQWDBXNHpHLWdmMFpXMllkWmlGdnkwU1lfN3ZGZDhKbDd2LUJmMHptbTNPS1VHbXUwTVgxUXNRMWNzakUxWnlOODVjRDEta2ppVnZpbE5NZUF5YTc0NEZRTFFEMUZUZHlsMzR2eGpqZDQ3T0ducnVvY2tZdDN2Q3VScUIxOHl4N3dmanJ6cG05NVVzWGg4QmVjcy1GYjRoYXFmc1YwMGx4ZWhtMlZGRG45eDNPUG1oTE5xZHVWMjJ6bzcwZFJiNlQ5X1VQZ1NSRkVNYmRQZ3NYc0R0MTl2UHRadld4dmFCZGg4d015Tkh5VjFENHRl?oc=5"
-        },
-        {
-          "outlet": "Cobrapost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQndseUxNYk1RbFdnSm1FbkxLUGI2NEx0NEVHamxlMHFJcHNfbkUwaUZza2Z3b0lTLTlHM2ZXQzFjN3V4M0xKM1BOQ0lwRW9Ea3pvTWRrdDZrZ2tFMndqWFZka0MwcnBjb2E0WlVyaFg1WjdERVdPNjA0SHJPRkUybUtZVy1Rbl92VFhDcg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEJudHpLNXVncmVkdTloMFpSc3FhZE1Ed3pfbkQ4YjNYaUZaa2tDUDMzdU1XLU9aa2ZzM1hqdTkyM1FWSHZwX0ZwazJNSEp6VVRocUNyRkcxNFZ1TDJpNjM5WFFpaVNCVnNPSWRkbThIYlFZelNCTlNnclVjVDNFWlZmZVR4aDY0QXJtUDQ3Q3pnQ0lEQ1VFeHlSRjJYQWRkQ3poWWt1bGdqb1RWQk54eXlxRVZXSldfVm45SkZ0dVBnc2ktMVZGOXlYVFVVLXc0MGJDa1MxaGlzd9IB5wFBVV95cUxQVm9DSDd4UmprUUZ0R21pYkZnUThSUDFybkFPQWpBSkFLOVRjdlp1QUdUbHpUT0k5UjVOVmVOWXR6aGVaeUhRc3dGV3RoODlUMllwcXJNd0l2cno4LXBFdW8zYnhBRE5YR0ZmdGhVa0lpRjNqSXU2anU1ZWxKZlJndmRmV1J1a1pOSzJpejRqVEw2V3d3QXhtVkVoQU9SME1rdl9HRzZONlZDOTlXLW1SV2pzUmlXSnVPRTRtOFl4OGFLZjRlcjVGMjgyT3AwTlNuSkllMGJoeGpnMy1hTGxUQnpRTDhGNHc?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar Shocker! Woman Takes Loan To Get Husband Killed After He Finds Out Her Affair. Covered by 3 outlets, including NDTV and Asianet Newsable.",
-      "image": "images/bihar-shocker-woman-takes-loan-to-get-husband-killed-after-h.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Supreme Court moots scrutiny of High Court judgments to identify objectionable remarks about women. Covered by LawBeat and Bar and Bench.",
+      "image": "images/supreme-court-moots-scrutiny-of-high-court-judgments-to-iden.jpg",
       "image_kind": "photo"
     },
     {
@@ -98,33 +120,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "chhath-puja-school-holiday-today-november-16-delhi-bihar-jha",
-      "headline": "Chhath Puja school holiday today, November 16: Delhi, Bihar, Jharkhand schools to remain closed; Check state-wise list - Education Times",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdHBXbmpMM3hKYnRnZ2tVTzJkV1hTbm5QR3BHSjFlWVU0d3JBRXRPZ01HNXVCS1R2OXBOdDlLMW9SaUgyVmpUa0pRZExkM3B0TUszVmg3cDE2NW5xU1FIbWlvQWxMSFRfVF9qNFBjeW1iUE5uSmx1cnRKUVBOWWJQdUdoU0FoLTR2dVpmeU5STHc0amM3OEwyeTdVcWxhTnhXVGFHV2ZPNnQ4RHIwR3hBeDlGczlteTlxNW1VbnZ0aEdJVXdpQTRqRFRGVS0tcmw1UjF1RWxiREVaeGh0bDZjUmRwVVEyNkVtYUVyb2lOR1liQzdZaGNyLXpvZTZWNWhOZjluckFGRdIBjAJBVV95cUxOQ0tSc3lkSkFlS3FGaWlPeDY2MExqNmVRNVVNY2k0MzIxcm5fcmItcTNibnlEQUZBNHRQVzhYYmF3Q1cxZk5Hd3gzYkRhWHVuZFhRZHFRckQ0MC1WdFJMQ1BkWWxlY1dYVUItSURfc3h2OHRTbWVaeXBmS0lGOVNRQnlnVTRqWVIzcUdzdFdnMlB6a2JtNU9ITUMydDVNdTFTTTdHUjVGU0U2c1lrQUZ5YW1DcXZjQVRhYk9VUlVZbUZmb1VTUnNaTFZDMEt2N0c3blk3VmdIbmlNdkRuZ2hJaHA5ek1ieElWMmZ4OER1eGJhN2FGN1ZOdGhGbGhLVEJudDJjLTd6eU5fazV0?oc=5"
-        },
-        {
-          "outlet": "Education Times",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObDNGQ3Q1c3AzdGlNa1Mtc2tvNFRFTDJMa3JzeUhJWlhESS1GYzBkSVBoN095ZFg0dzNBWnRTc0diamZvMW1LNzB4c2JySkoxbVZCV28ya0Vzb3FsazctMHl0ajFWa1VBT21lby1sRzRxVW8yUDdoUWthcWZYWVdqcHBINFNBSF9tSXRrS0NEcWp5WVBhYTI1WS1qVWhMeXhRSEdDa0psWkxfSmoyQUNJcFN0czBrSHUtVTJBQ1F3MkFMdVhwZk05bjM0RnlFYUM3c3F0b3FZYWdsSGR6R1A1cjZweHd4V1J2c0JGN0tqNTlFNXViZnN2TFFaWlVKdw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Chhath Puja school holiday today, November 16: Delhi, Bihar, Jharkhand schools to remain closed; Check state-wise list. An education-related story. Covered by The Times of India and Education Times.",
-      "image": "images/chhath-puja-school-holiday-today-november-16-delhi-bihar-jha.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j",
       "headline": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक - Jagran Josh",
       "summary": "",
@@ -133,6 +128,11 @@
         "education"
       ],
       "sources": [
+        {
+          "outlet": "Adda247",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlS280aEl4S3F0X2xuaUhjMmtzcWtHVFVHY0Znc1ZqQXM5YVRUQ2xqd2c5Z1gtUG1RNjFDczdOTHphb3N6QlM1Y0NIWEhHUEM1c1RIVGhVV2ZCWWw5TlhseXY4LUtvU0x4RzFSbFdKcXJwdWo2QnI4VG82d2d1dw?oc=5"
+        },
         {
           "outlet": "Jagran Josh",
           "type": "news",
@@ -154,12 +154,39 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40WjBkdG8tWHR1bEw1QzRFVDREVWtzemVFaExFeE5adnhRNDZKZXp1Sy1pc2M4WVpXdmh5THQ2Z2Z1c1RWSDVEc3lDNVU1bE1WTDd3NEdDbmJsQUdXTDR6ZU1FQ0gwdmdJbDlyUA?oc=5"
         }
       ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक। शिक्षा से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Adda247 और Jagran Josh शामिल हैं।",
+      "image": "images/bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-woman-lover-get-husband-killed-after-affair-exposed-co",
+      "headline": "Bihar Woman, Lover Get Husband Killed After Affair Exposed - Cobrapost",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUxETzNNZDZnbjA2dmRuQjR0UzJ3eVZXRXVDTndpUHNnWWxLclktMVlLZEo1TVNTWFczMVFQTEtHdkNadkNreEtrWjJMRG45QWFHQS1TUFN1ZmZHelFERUtXMTVWZXRlcEhuRmlrOHh5NU9ORnZWcndGTDlQMFozV1gzOTBDSS14cWpxVWhIMzR6MksxTm1qd1RDZkpKUdIBpgFBVV95cUxOWlQwdmNTUVA2QlR3TWdoeTM1WHV3c0xIekw4ZjBNRHp2NUNGM3BERVgxbHRuY1lvQnJtX1p2eV9FRGxVSGxhWTdOYnMyaUlzb2VzeEJtMTY0cEF2RmhOVExqanpYRmlPNW9fc0FadV9hMlU1R3Fnd3VNRGFGY3J1LVRSNTFvMUUxX1B0Vy1tS0U0VEEwbzJidW1XaTdZVTFBLUhBelFn?oc=5"
+        },
+        {
+          "outlet": "Cobrapost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQndseUxNYk1RbFdnSm1FbkxLUGI2NEx0NEVHamxlMHFJcHNfbkUwaUZza2Z3b0lTLTlHM2ZXQzFjN3V4M0xKM1BOQ0lwRW9Ea3pvTWRrdDZrZ2tFMndqWFZka0MwcnBjb2E0WlVyaFg1WjdERVdPNjA0SHJPRkUybUtZVy1Rbl92VFhDcg?oc=5"
+        }
+      ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक। शिक्षा से जुड़ी ख़बर। इसे Jagran Josh और PW ने रिपोर्ट किया है।",
-      "image": "images/bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j.jpg",
-      "image_kind": "photo"
+      "brief": "Bihar Woman, Lover Get Husband Killed After Affair Exposed. Covered by NDTV and Cobrapost.",
+      "image": "images/bihar-woman-lover-get-husband-killed-after-affair-exposed-co.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "chhath-puja-day-3-devotees-offer-sandhya-arghya-to-setting-s",
@@ -167,35 +194,9 @@
       "summary": "",
       "date": "2026-11-16",
       "topics": [
-        "politics",
         "economy"
       ],
       "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNWVVNlFickFudjlCVUZ3ZFZQZ3loT3RhWmktZTV6Tm1aQzJfbDRaWVBpVVpWaHlUUWNXTk0tdjFFbkVXemJKbm44b2N2dHB6R09PWHpXTzMzTTNOb0FVellsYnVOOUgyWHpDY1lValJGanFyN2Z6TS0wRTVOZDdzeUdOdHZLenpKbkU2QWpRNGR6eXFOX1RyTnRYRVBISnpLRkZyOVh3OXRyOXE5YlhkVVRpTFdFVGNfNjNlOXNaMTJqUWtpQlpXd1FQai1tUQ?oc=5"
-        },
-        {
-          "outlet": "Open Magazine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclBuZGlKODQ0MDk1N0F2U1pyY2xQdE1lT2syUnRRNXZIa0lPOXhTbUN4d1BKYlNLS1FITnRJakpIRmkwN2FDcXV1QUhtTjNUYnZveDdvVXdnUEZ6YmlrVjdyazMwQ2VTeVItQzFSeFBfSDF0eGNlUU9MWGtydE1oSE5sbXBqT19GVGxLUHN6dkNkWjlsRHRXSlFROUhvREZUUV9US2dCNEk4dnc4aGp6M1B3Rnp6MFlzVHdV?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU2lYYm9Sc0w2RnZWRGxGeDhRX0F5eUdLNGpWcUxiWnBtM3dNTThzaG1JdWs0U1VFOW56NUNjMUxZSXBXdzdyb043MkQ2b2pzSTNNdFhZSEh1eG9aOXFTc1JNTTR6V1lTS0E1LTdhNTFqN0pCZi01Vy1Yc09TNC0xOWZOUlplSnFya1NnZW1vM3lYWS1JdVAwbThiQUx4WGFiNlppcnRYa1VqTVlXd3VSYWRFSzFLRVdodnNmTjFtR0FpbVVONEQ1N1pR?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaDlTZGxkNEx6eVRUV3dZZmU5TlFFYjUzdFNhcFRrM1FKOW9oUWYybnF2aTU4bEI4bnhBQ2VIY09UcU5ycFh5bzZkb05tajlsM3Q4WXk4UmVKRUhndFJBbHYtZTJfN3I0ZzBZOU5BSUZJdkNXYi1XNmlhOXZ6NGtNYmwtM2M4dEw0UUNNb1hhN2h5VkVHTHNCbC0tQ3g5VFBPaUJOd0h1TV81alhnM1NaWU1pUlMzdzktQjd0WGR4QkNiQXpabkIzSXlLa0I1cFRpdU1Rb2ozeFBsSHZRRENXbklCM28wU0ZJ?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVlVueUw0NlFUMUxuZm5YTU9RcmdqYU9YSDhSZUl0R0FRbENoR1ZPQXdwT09aN2o0a2dPdFA2VV9HUVZpYU1WSWd2SnBFV3BnWlphNFRRYlhoVVRMWGt2TEwyY2JVaTQxdWxfWFZmRnB2VHNuZXhqTGZZSUg4Q3o2VVZOLXVqamFxRFFfT3NJSE9tc2tINmdVUmRrS2NYS2V0RTZqcFd6ZUdieWQ0?oc=5"
-        },
         {
           "outlet": "ANI News",
           "type": "news",
@@ -212,14 +213,14 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSTJKVWgzRjZJeVBtbzlpTGhXek8teDYzOEptQzJnQzRGVDM1OTZjUTJuN29QZDN6Ml9OWXVrWjNYczI1VUNTeTRkbnl1VmdUY0JrdUlPclJzQTFxTGNzMEhuRmlyZzZ0c1lwZkRBN3Yya2JmdGVsS2JvQWhjcUdpQkluOXlUX2tMUlVQWnNjQzJQa1RKWnVreU1zMXIzTjVqSDhYVlAya3hzOEZ3RFhnYlFjd2M4LWJQMDJ1Z25Lb0ZaLUdBS1g5S3hIeVVmT3ZIUzVYWTRpNEpYdEtv?oc=5"
         },
         {
-          "outlet": "ThePrint",
+          "outlet": "ANI News",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWxoeV9ZUzJiZGp5WV9uQk53SUFQdVJUbUI5bWhhY2Vral9PeFplVzlOcFY0ZnF2clF2UU4xSG4yUDRLTkRQUG0teklacXpBb19WZUZ6dmUwTWNxS0FseThkZkhHX1o2Vms4Z19zd0p2UHc5Nmk0T2V5dE9IU1pfS1ZyaUJERlZ5bzdoVmJYeE9WQS1UN3VSLTFQUngzMzVRaHfSAacBQVVfeXFMTnd6SHpLbU1EcVNsN184cDNIREE0M214N0RUUWk1ZDFvb2RwQTBTSVpQcl9ETWlOeGxnajBzMGNJR3NhdEQ1bDl6YXkxejUxQmJONkQwc2ZhUk9kWGVWLTJHZDVXcUNncTY5SFlPaEJQOUEzMFMxN3pnaG5tUjR1V1JjNHV6SURnOEdxYjRQUGFqX2dRWDFFRG9rRXpPMlFBMGQzTE82SUU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaDlTZGxkNEx6eVRUV3dZZmU5TlFFYjUzdFNhcFRrM1FKOW9oUWYybnF2aTU4bEI4bnhBQ2VIY09UcU5ycFh5bzZkb05tajlsM3Q4WXk4UmVKRUhndFJBbHYtZTJfN3I0ZzBZOU5BSUZJdkNXYi1XNmlhOXZ6NGtNYmwtM2M4dEw0UUNNb1hhN2h5VkVHTHNCbC0tQ3g5VFBPaUJOd0h1TV81alhnM1NaWU1pUlMzdzktQjd0WGR4QkNiQXpabkIzSXlLa0I1cFRpdU1Rb2ozeFBsSHZRRENXbklCM28wU0ZJ?oc=5"
         },
         {
           "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDRfTTEzWVk2UFZ1dVVILTdraHp2YzBTTDBjVXYzMi1WSUY2c0hZSXJQSzhkRTZRVDNSTjNSVm9EblE0U1hkOV8tU3oyRk9MSHFPdWNRcHUzV0NPX3BiSWhLX2NjcU00SVVIV0YwQkhXMEh0dkVzOVBGRHRHdzBBc2x2bkE2YnBmclh5RUZ1MHVhSFB5MWV30gGcAUFVX3lxTE05WXUtT1FUbzZtb0RhYWtRd1F5UmJWUXNQbkZpc1ZlOV92d0lRd2NPU2VVVEZKemRHVGRycFVSaEdmWWx2SVpWalNuNzJ2QVhRZlFuQ1dGU2dtSy1iYnBFYWhMQnRXNTM2Zno0R2J3cnU1Q1VUTF9wWmxnRFRfN2YxZVJway1QNUpnU1NfUm5Zdm1OMTdpMzNBOURQaA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWxoeV9ZUzJiZGp5WV9uQk53SUFQdVJUbUI5bWhhY2Vral9PeFplVzlOcFY0ZnF2clF2UU4xSG4yUDRLTkRQUG0teklacXpBb19WZUZ6dmUwTWNxS0FseThkZkhHX1o2Vms4Z19zd0p2UHc5Nmk0T2V5dE9IU1pfS1ZyaUJERlZ5bzdoVmJYeE9WQS1UN3VSLTFQUngzMzVRaHfSAacBQVVfeXFMTnd6SHpLbU1EcVNsN184cDNIREE0M214N0RUUWk1ZDFvb2RwQTBTSVpQcl9ETWlOeGxnajBzMGNJR3NhdEQ1bDl6YXkxejUxQmJONkQwc2ZhUk9kWGVWLTJHZDVXcUNncTY5SFlPaEJQOUEzMFMxN3pnaG5tUjR1V1JjNHV6SURnOEdxYjRQUGFqX2dRWDFFRG9rRXpPMlFBMGQzTE82SUU?oc=5"
         },
         {
           "outlet": "MorungExpress",
@@ -240,17 +241,12 @@
           "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV3N0ZFdHWm1vMWNDS2xESUdrT29vcUZmai01Ykg3NW5HcWFQbF9TNDNzOWJrUjA4bVZRTHlxU1FrODlrY1RZSUZibUp4UDh0SEJ3azg4bkM1QXhqWFJXYnp0YUw0VlgtbEpaLU1MWmZzUTFpZENQcC1YblBwU2M2TDg0MEI4NXdjZFo3WDFaLUJMQzRiYVctVW5sWWZUU1VlWjhCeVRodjhGcF9tbnYxUkN2bWZLQmwwXzdxTVRfY1lXQUxjY1BRWmk2NU1UdWU4VGt3eS1tTmg4bERRNTlJX3ZjdU54UTlBbU81NUxDbXo3cmdNQ0JpZE5R?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnkyN05vTXlSQ3VUcWlJeXhZS25jTHEyZEFsWko0Yld1SUFuSE9yRmY2a0FnYkFRUmx6WnJ4RDNUSWh6NUhwOThJUkN1QkdFQW9lY1ktSlJzelZJQjdxSnF4cWxPel9sT1lZNkxaa1JobUlfQ3lNNTNpMHF6NV9GbWo2aUplMjhSdlVCRVRtQUVieTEwd1RHM0NPVFJsV3VlZGI0eVg4MlpHMi1rSmRQWUt1eDBESy0wRV8wRzlReXU?oc=5"
         }
       ],
-      "source_count": 9,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Chhath Puja Day 3: Devotees offer Sandhya Arghya to setting sun, actress Akshara Singh joins celebration. A politics-related story. Covered by 9 outlets, including NDTV and Open Magazine.",
+      "brief": "Chhath Puja Day 3: Devotees offer Sandhya Arghya to setting sun, actress Akshara Singh joins celebration. An economy-related story. Covered by 7 outlets, including ANI News and The Hindu.",
       "image": "images/chhath-puja-day-3-devotees-offer-sandhya-arghya-to-setting-s.jpg",
       "image_kind": "photo"
     },
@@ -388,39 +384,6 @@
       "genuineness_label": "Corroborated",
       "brief": "छठ की खुशियों के बीच पटना में बड़ा हादसा, गंगा में डूबे 4 युवक… तीन की तलाश जारी। इसे AajTak और ABP News ने रिपोर्ट किया है।",
       "image": "images/4-aajtak.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "india-s-first-amrit-bharat-express-with-ac-coaches-rolls-out",
-      "headline": "India’s first Amrit Bharat Express with AC coaches rolls out on Delhi-Patna route to ease Chhath Puja rush - The Indian Express",
-      "summary": "",
-      "date": "2026-11-14",
-      "topics": [
-        "crime",
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGd3dk1NcGVIa0FVQjBGZlJNNDZWNExJckFoVlplZDc0b3R5NVYyajR1clhubEw5QkNwY3RpWF9UbXR5LTVCbklaNkF0V3dXdVAtbVpqMU5FRnRVcENLbDlIeE5Qb1UwM0Zlc3BtOVVHV21uTmRIZ0pEb1B2RDJYWDBCNGZOMFgyZWQzQVdUMGFwM0NHaFRQT3dzNDNHd1dzNERIdC1nM0dQYlBVZ1N6S0dxbmhBclXSAb8BQVVfeXFMT3BRelRBdGZZTkdsalhXcnlhMW56bUJvVzFNNjlYRi1xMlZUUHZ0SDFkc0VMMlVUQU5iYm9mUXo2NTZFd2tDOEVoU3g4QzFBVDUxVndDeVhJdTJ3SnNxbHIyd05VSmNtc0hCNW03bGFjZkg4N01rcG9yLVU2cTZqbjRnbGFxMW9IWnRCT1FSM3pHNm1hV2Y4VjdfMDVGVm1PVkhkMVRBSGZ3bUJHNkp2cER1ZzhUbUxYdGFsNG1tTkk?oc=5"
-        },
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMndtdHBHRFE1LWxDTmZPY3E2YjBKQ2MwcVVRMkY5MFhGZG5ETTRiUlM5dlF2NjVnaC1FMDE0T2M1b2hKeUZBOEtROFVmVEdfR3g0Yjk5VFVzTFBpV2E3RW5TeHRiMThudWRRRjRRR3NtOHNVUE1jZEJucVREOGc4QlV2V1Q0OGVPVFR1OE8xcFBTdDZZRzNVcGlHbmZrWEUySVQzSWZISnVtc2R1Rk0wTHg0SEdxMGhNUGpIWnJ30gHEAUFVX3lxTE9QWWh4V1VaNVBKMjlGczhONzRNR2pZdXd4TDRiTkVxRXRrMFlQaWNWR3llcDFMdnVkMXZrX2ZOVVRNV0htcWt6eFVuSUNrWktkbHpnZnVYNW1UZWNVcEVYMUNOZEI3T3hFZkdDc0dkNnB2S2VGSVpxVG91dlY1b0wzUFFoYmpiNURXQlg0YkhQNFRuU3h0Y21zUmh4SGxYNXZDQXEwS3ZJaHBEV1dlcTQtUFVzSWw4QVQ4M2ltcFdxM2wtcjk?oc=5"
-        },
-        {
-          "outlet": "Metro Rail News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0xCRXZRZlhRaEhyX19BUUw2aTI3MkJHSGV0d05fT1lfOVM2VmZLT1I3SExUVEdmTGpPT25fVmZZelE1TmwyWmNOOFdmWmZ5UFJjX0RQSDMtcnBnVzBnaHU0b1JDSk5hWmlkMVZqU1FXREo0UGFPSVJpa05EWVJxdGdJVQ?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "India’s first Amrit Bharat Express with AC coaches rolls out on Delhi-Patna route to ease Chhath Puja rush. A crime-related story. Covered by 3 outlets, including NDTV and The Indian Express.",
-      "image": "images/india-s-first-amrit-bharat-express-with-ac-coaches-rolls-out.jpg",
       "image_kind": "photo"
     },
     {
