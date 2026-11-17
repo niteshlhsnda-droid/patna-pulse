@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17 15:54 UTC",
-  "generated_at_ist": "17 Nov 2026, 09:24 PM IST",
+  "generated_at": "2026-11-17 16:37 UTC",
+  "generated_at_ist": "17 Nov 2026, 10:07 PM IST",
   "story_count": 45,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -199,33 +199,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "5-1-4-41-prabhat-khabar",
-      "headline": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0N6VUVMVDJsYndrU0Jjb1ItbmRBUDRsQU5LNDhzNTVVOUlFYVc5Vm5sYmRmY3pncWFzbWY4M3hwYVl5aGgtdHQzN1I1a1lIQzhqRllDTnozaE0tRW5wekVfMVN6SHRfRG56SExQR0Vsb25hMWljWmhWaTZJa1FraW5FZG1xVTFHY1c3aEN2d2dCdjhXeDd6dkliX0FMQlRjdFk5cW9YNzJvbDhjY1JVWVYzVUhYV2o0YWpEMFFocDRpUmpmemVsVHlCbw?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0xVWHJwUXNJRHltN2dmeDhCWVZGblI2TnNFRGtXeVRSLWxpNDlCQUlZTVgtRGVGdlgyVWFQSWYxb2k3cXdrWnpwOTl2d2doR0NPaTJzQ3IwSDRBV0R1a25rX3hSR0t3WnR1bklaUTZWODBLcmk4dC03OWdoUndRSzMxNlNiUHJJOHo0VGhKRnowcXJNZGFZU0RiUGdyRGFxNTgwbWRxd2N1RkxaZHFlRUhPa1VPYWxndndxN2QwX3QwUlBQM2hjTEdn?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/5-1-4-41-prabhat-khabar.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "iit-5-dainik-bhaskar",
       "headline": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी - Dainik Bhaskar",
       "summary": "",
@@ -250,6 +223,33 @@
       "genuineness_label": "Corroborated",
       "brief": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/iit-5-dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "5-1-4-41-prabhat-khabar",
+      "headline": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0xVWHJwUXNJRHltN2dmeDhCWVZGblI2TnNFRGtXeVRSLWxpNDlCQUlZTVgtRGVGdlgyVWFQSWYxb2k3cXdrWnpwOTl2d2doR0NPaTJzQ3IwSDRBV0R1a25rX3hSR0t3WnR1bklaUTZWODBLcmk4dC03OWdoUndRSzMxNlNiUHJJOHo0VGhKRnowcXJNZGFZU0RiUGdyRGFxNTgwbWRxd2N1RkxaZHFlRUhPa1VPYWxndndxN2QwX3QwUlBQM2hjTEdn?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0N6VUVMVDJsYndrU0Jjb1ItbmRBUDRsQU5LNDhzNTVVOUlFYVc5Vm5sYmRmY3pncWFzbWY4M3hwYVl5aGgtdHQzN1I1a1lIQzhqRllDTnozaE0tRW5wekVfMVN6SHRfRG56SExQR0Vsb25hMWljWmhWaTZJa1FraW5FZG1xVTFHY1c3aEN2d2dCdjhXeDd6dkliX0FMQlRjdFk5cW9YNzJvbDhjY1JVWVYzVUhYV2o0YWpEMFFocDRpUmpmemVsVHlCbw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में। इसे Prabhat Khabar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/5-1-4-41-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -287,14 +287,14 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWxoeV9ZUzJiZGp5WV9uQk53SUFQdVJUbUI5bWhhY2Vral9PeFplVzlOcFY0ZnF2clF2UU4xSG4yUDRLTkRQUG0teklacXpBb19WZUZ6dmUwTWNxS0FseThkZkhHX1o2Vms4Z19zd0p2UHc5Nmk0T2V5dE9IU1pfS1ZyaUJERlZ5bzdoVmJYeE9WQS1UN3VSLTFQUngzMzVRaHfSAacBQVVfeXFMTnd6SHpLbU1EcVNsN184cDNIREE0M214N0RUUWk1ZDFvb2RwQTBTSVpQcl9ETWlOeGxnajBzMGNJR3NhdEQ1bDl6YXkxejUxQmJONkQwc2ZhUk9kWGVWLTJHZDVXcUNncTY5SFlPaEJQOUEzMFMxN3pnaG5tUjR1V1JjNHV6SURnOEdxYjRQUGFqX2dRWDFFRG9rRXpPMlFBMGQzTE82SUU?oc=5"
         },
         {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
+        },
+        {
           "outlet": "MorungExpress",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG9Scm54UWJ6ZnhkWHo2ekpsRlNNSjRUNG9xWFJqTnlpd2VDVWJFa1hwSlRiaVVzU2duQzkzTDBROGMwTERkUGlaQUsyeFJSVDVsZGdEQzdJMFRVOVlfWHhlbGUzb0M3QUFxbWNma2ZxT0tsdjRJclc4X0dQVG5xNG5BZ0V6elU3YnRNSTM4bkNFdGJvRUdkaXRxZjNfOWdidlE?oc=5"
-        },
-        {
-          "outlet": "MillenniumPost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2V5ZlBrZFc3RUdQM245UTh2UjB1TlNJMlI1cWJfWVptZ05Qb1ZEYjktb0wwRkYzSnI2Qy1XWExfUnpuV2pZY2g3TFQtMmJnUTVIX1ZDd3RHTTNsYVo1Y3EyU0JSc1VabGxEMTUxdXI5QnlsT3BlQll3YkhuWHFTbVJxZWloV19ka1g1Y1FBVHA5cG1BeU51ZGVhV2t3T2U3WS1Z0gGoAUFVX3lxTE9FWTFjTi1sVmVYU0lLOVJkR19aNGQzR0FJZ08wY0VUWmxlTjFWN2ZuN1J4VlViVkZOWkpGWUE1dWxDWjRwZFlZNTZiNm5takp1RnFQdWVSaUJJWjFPeW5yb3VMVGM4VElPZHpsM3ZzSllVbUJKMDFYTXJ6MzNaVm80bk94ZWhWODFKT2g3bV9wYXdSVDMyMC1SdG5OTmlVZmN0cWZhMDFkTg?oc=5"
         },
         {
           "outlet": "NDTV",
@@ -302,20 +302,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnkyN05vTXlSQ3VUcWlJeXhZS25jTHEyZEFsWko0Yld1SUFuSE9yRmY2a0FnYkFRUmx6WnJ4RDNUSWh6NUhwOThJUkN1QkdFQW9lY1ktSlJzelZJQjdxSnF4cWxPel9sT1lZNkxaa1JobUlfQ3lNNTNpMHF6NV9GbWo2aUplMjhSdlVCRVRtQUVieTEwd1RHM0NPVFJsV3VlZGI0eVg4MlpHMi1rSmRQWUt1eDBESy0wRV8wRzlReXU?oc=5"
         },
         {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
-        },
-        {
           "outlet": "ANI News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV3N0ZFdHWm1vMWNDS2xESUdrT29vcUZmai01Ykg3NW5HcWFQbF9TNDNzOWJrUjA4bVZRTHlxU1FrODlrY1RZSUZibUp4UDh0SEJ3azg4bkM1QXhqWFJXYnp0YUw0VlgtbEpaLU1MWmZzUTFpZENQcC1YblBwU2M2TDg0MEI4NXdjZFo3WDFaLUJMQzRiYVctVW5sWWZUU1VlWjhCeVRodjhGcF9tbnYxUkN2bWZLQmwwXzdxTVRfY1lXQUxjY1BRWmk2NU1UdWU4VGt3eS1tTmg4bERRNTlJX3ZjdU54UTlBbU81NUxDbXo3cmdNQ0JpZE5R?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Chhath Puja Day 3: Devotees offer Sandhya Arghya to setting sun, actress Akshara Singh joins celebration. An economy-related story. Covered by 8 outlets, including ANI News and The Hindu.",
+      "brief": "Chhath Puja Day 3: Devotees offer Sandhya Arghya to setting sun, actress Akshara Singh joins celebration. An economy-related story. Covered by 7 outlets, including ANI News and The Hindu.",
       "image": "images/chhath-puja-day-3-devotees-offer-sandhya-arghya-to-setting-s.jpg",
       "image_kind": "photo"
     },
