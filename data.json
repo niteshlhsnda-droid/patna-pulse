@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17 18:54 UTC",
-  "generated_at_ist": "18 Nov 2026, 12:24 AM IST",
-  "story_count": 46,
+  "generated_at": "2026-11-17 19:35 UTC",
+  "generated_at_ist": "18 Nov 2026, 01:05 AM IST",
+  "story_count": 47,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -30,7 +30,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Thieves steal valuables worth Rs 90 lakh from Bihar minister Sanjay Tiger's Patna residence. A politics-related story. Covered by The New Indian Express and The Indian Express.",
       "image": "images/thieves-steal-valuables-worth-rs-90-lakh-from-bihar-minister.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "he-is-not-in-sound-state-of-mind-tejashwi-yadav-on-naming-of",
@@ -233,6 +233,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "600-2-7-aajtak",
+      "headline": "पटना में उच्च शिक्षा मंत्री संजय टाइगर के घर बड़ी चोरी, 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले उड़े चोर - AajTak",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEp1M0NUbmF5RDk5YkMtZnlXSElHTFJiTkhJeHRzYm1jSHhiLWJRcDNFSk42RG9PV1dEczBPQ241aTdsdl9LY3NhaUEyb0ZCZUlyRmNjREVMV2NRQzRNR2pCbU1IZndxM1Q3eUQxY1JmMlVCT2lTN0ZVcE91NXZ0N2ZXRGt3Y01pa01oNjBLeDVwVzFvdkVSTTNUdnh3cWUtall1UmVwRmNqR2tlRWsxTHhSR045UURNVVJCanJpeU1wZHN5VkhSMFJiOUNpV0llWVHSAdcBQVVfeXFMTXI1bFVCbmJJRWFfaUhpRnU1ZWQ3UEc3QU5NNWZKMHhFM1BXTGNXV0JtN3Z6akoxc2ZZOUk4clZ6cF9jS2RlTXlUM2NSc3pEZ3YyazFrLXd6N3hMU2N0bHpOeEUyVDByRXlwdkhrX2xNZUtoa0dLQW1FaGlHcDM4eHVnYkk0c2R0OGwwdnVMT3lTWEJXTDNsRkRtODN3Q01FRHF6REc5eGZUNkRpenU0UVVhS2dpaklmNmhTT2tpZjE4T0hwNW1OYldZWjNLM3hyUW8yUUhFOUE?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc19tNDFFbFE5ZmQybnZIZTM0OERhbHdYcHlNMFFxQWk4UGhfOVVNWHM0WkotTDd6d1RwVGpvZVk2WVM2ZHJBRTNhZ3VMSV9GekRWckNXRmZWaC11U0pRZFpDeF92dy1NVXVVSjYyMGhOZjFtS284VUF1UEg1cXNQamJHZGlVT19CU3J0dTZPRk01LVJ3ODZfaWk1dl9JeTcwWVpSZ3l1OEJnbW9hY0lHaVRiUUdwamhYNWNaM0dwbGp5TVk?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में उच्च शिक्षा मंत्री संजय टाइगर के घर बड़ी चोरी, 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले उड़े चोर। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/600-2-7-aajtak.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "iit-5-dainik-bhaskar",
       "headline": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी - Dainik Bhaskar",
       "summary": "",
@@ -242,20 +269,20 @@
       ],
       "sources": [
         {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGlkUWRwNl9wMk9YSnZOUUNmT19sSUg3M19kSldHVUVDaEdzQUxZUEk0dmJiU3Y5Q2FBWk1XZXRMUWwyM0dQTE1iZk9QYW9JZVZUcC02bGIwMHRkMGprVWpGMGtfU3FMT3VFcmRkTzJReVc3b0t1WFBSRjBYc0libGd2RWRWUHZnaFg0UGJIS0lrUDZxdFFwaTRKVTh0cXZsN0YydUZVeDloVFZvVUpQd1o1ZXh5WVluYnpPdGJETUZJX3RJRVc0WmdERFNBcFBBRmc?oc=5"
-        },
-        {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNjJDYkdOMjFwZnNIUkxtZHJ2MllWaGZWeW9HSmlNVU84Z0pnQ1FHcFY5Uzhvd3hOTkU0dDJadm5wWUE1YUpkbnB0OXVveTJDQklKMWtiQm1Ya3BhZ2NwNWlodWE0ZHNCYlR3MzlXNG4zV3hfVENiYkFVVWJlSm50eWREa2ZHUERMTWNPTWNqV2o5ZG92cklhZUh5aUxIRGhFVG8wZUZZWTJWRUNRQ3FySVNIMjZIZ3c1ZmptU2wxdGNaNkdWQy00bG91NUtWUmxOcVHSAdcBQVVfeXFMTW5rWG1IeWhLRlJCNDBrd3lLUjhselVjOVQ4RGhRWEJqbndMclU5ZjhwMUlQczhEV0pVal9VRHhMODkyeDNuT2JOTG9PaUFhdEZtZ3pSMlJYQUlZaGQtVWFWZWVsbGxKeFYxN0RxRUJIV0NQYXpQQThYTmZqT1pudkRtZmEzSzdOSHI0cmMwZTNDRjRmUXdsZE5HNUtEN21saFJ6X251Q2JMV3d6am9sa05rV1FaWk1RMmFCNl9mci1UajBrRUJxM3I3Z00zN2pleEg5VjZLc1U?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGlkUWRwNl9wMk9YSnZOUUNmT19sSUg3M19kSldHVUVDaEdzQUxZUEk0dmJiU3Y5Q2FBWk1XZXRMUWwyM0dQTE1iZk9QYW9JZVZUcC02bGIwMHRkMGprVWpGMGtfU3FMT3VFcmRkTzJReVc3b0t1WFBSRjBYc0libGd2RWRWUHZnaFg0UGJIS0lrUDZxdFFwaTRKVTh0cXZsN0YydUZVeDloVFZvVUpQd1o1ZXh5WVluYnpPdGJETUZJX3RJRVc0WmdERFNBcFBBRmc?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "brief": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी। इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/iit-5-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
@@ -1211,11 +1238,6 @@
           "outlet": "YouTube",
           "type": "youtube",
           "url": "https://www.youtube.com/shorts/ZYBfKJXil1A"
-        },
-        {
-          "outlet": "The 420.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wbVhveDJWUU52cTdEVnRoa2NxUjIxWU9rOWFyY1BYT1VacllzS1lKMElfc2h4elFKeFlWZ0ZWbWNtZlJPN3Rfd1Y1QjhvM1FUNHBBR05PZ1VvMlJpMmx4SEtMZGhMT2JTTTFyYg?oc=5"
         },
         {
           "outlet": "The 420.in",
