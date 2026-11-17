@@ -1,62 +1,36 @@
 {
-  "generated_at": "2026-11-17 17:36 UTC",
-  "generated_at_ist": "17 Nov 2026, 11:06 PM IST",
-  "story_count": 45,
+  "generated_at": "2026-11-17 18:54 UTC",
+  "generated_at_ist": "18 Nov 2026, 12:24 AM IST",
+  "story_count": 46,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "bihar-govt-asks-officials-to-remove-meat-stalls-from-patna-a",
-      "headline": "Bihar govt asks officials to remove meat stalls from Patna airport vicinity to prevent bird strikes | Hindustan Times - Hindustan Times",
+      "id": "thieves-steal-valuables-worth-rs-90-lakh-from-bihar-minister",
+      "headline": "Thieves steal valuables worth Rs 90 lakh from Bihar minister Sanjay Tiger's Patna residence - The New Indian Express",
       "summary": "",
       "date": "2026-11-17",
       "topics": [
-        "civic"
+        "politics",
+        "economy"
       ],
       "sources": [
         {
-          "outlet": "Hindustan Times",
+          "outlet": "The New Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZUUzcFNrRWFBR284WHJkbnplRXluOVJwM19xWXFhaFBPQVEtMWJJNHQydXRYRzl0VDJNdFlLb19NQ0FxbklWaTV4STl4eHhia1NNT0dRRmNRbUh3cVlLNVd1b2R6bDYxeENYdF9oTkJHWnhWejdFaElMQ096UUR2LTVOd3FfbHlKRlpDRFFiN3czQlhibmVnb2dyY3lkZnZ5OTZqOGJZZ0g5aTdNNFdSZjZCaS1FMWxMam41WTd6c2xJTWNzM0J6X3dZdkdqSlY5bnpnYmpsQWtjTG5VVlVNYVZZMEtTelVxMXhGNTNad1JlSEt1aWdLQ3d6ZWtiZ9IBgwJBVV95cUxPWDRLVHoyTzY4VEZUdk9fcEs1Und0TVQ5N2Nqa29sdTlTMWZZalBvRTBkZ0JFa3pUSE9MbmFiRVJlcVZQTE8teDRrcW1PZnVyaEMyaW9Lc0VYQlh4a2N6bHFIUktfRmRpeHlwekIzaFRTZlFQZkc4NGhXOEhORDhBNVhhR2h3ZTJVQUo5cFNpVzUtY2xhUHlMaURORHNvV3FuaDBJTTRVU1MxSjZBQ05hczg4XzZXR29ZZ1FCWHZwQzFYSjFJZ0IxRFJaMEdYVGQyVWVtdXpRRjgzT2E1b3V3Q0Nqc3phclFIUGc4ZGVoS3VyTm45MUdIX1lkTkYtNFR4TVlj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1VfN0JPZjBPYlE2X0o1RWhqa2FMWEpZTzk2U3FMdHJkMTdlNmFvRFdQYWJNeHpEamJfQnhwZTRKZ09lR3FRd3JjQnlZZXVnd1B3SFNCU0xkWlI1TW5VRGlGZ2V6elpHRTYtX3M0QUhFVnVCazNFQ1VNeDZqSk1hRnlPU0JVU1JRSS1Vb2Njd0hITlh4bHJjS2ZLbDhvNklodG5pdVdKaFpNWlpVWHNtZENIWFJkUWdId0h2QXcxT1RZRUhwQ3kwWld2WkVVankxOTFqWWNXUVhMaWF1QnUtcy1n0gHvAUFVX3lxTE9yaVc1VVEtQlFMZkcwQUFJN044dkM2Y1FLV052UEpMdUtuVGI2b0l6X1FoelZmeEM2Qm9sbUs4ZWNNQllRa3d0R2laempVaVNEUlJUekdRWHpLWjdRQW8xQV9IdDFUYTZHNlcxUjdXcy1JdUFCYTIwRXlxVC1sTFVQUl90cnAtTlVMVzlxck5LMXhUWjMxLWczVDdRN3duUEUtN3VRRzVUTThiNXF4N2hhNGJ6c0JHeGl3S2N2bTltcUJGS2lNUFhDVElqYUJTWElLaGhJb2h3X0xncC1MbkZyWU9ZbnhaR2FHOGhoRjZJ?oc=5"
         },
         {
-          "outlet": "ThePrint",
+          "outlet": "The Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWJDMkdxdEVRUHRNUV9kb05oLV80OVpTOHEwaktCQnRUdS0tbGFUZHpCb3pMSlpOUkY5WTJSSnNiVk1BY01ja0ZjWV9qLUswdTRlTFI3Z1FGQU8zelczUFZIeXFSZmp4UHJLNXl4LTBSSHdpUG1YTDZVNXEtckFaMWFQODJFeldOaXd3azFnMDVtT21HY1o4bmVfNm1ROWk0aXBMaW9vcVVfWHpXVEduZXdGNUtuVmx3TmFqLXN0YV9URXQ0RWt3dU1hbTc4Q1nSAdQBQVVfeXFMT2h1MnV5blpsRWJuMHpiXzJtSER1VFFfb0RTeXdScnhJTFpkZ21UcVY5MV9GUTBlc0x1Uzk4N2F0UHNvcFFYSmx6OFAxS25nVThOamVpaUdWZElaai1LTkh4czRXOWZJRVVYN0x4cGE0cmJRWGktLTI5dW53cTZKSC0zX0x1bWNEN1JkTFZXVGI5aV9kZnFnQWFzSXpYd3FHSGpJQzRoVDB0Z2RWSVJ3dGFfdzEyOE5aQzNpVlVDMWdzVllHQWt1NjlsZUJ1emh2Q2RGZXY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVmJyQ2dFZnhKMF9Vb0Izc3BIQ2dLY0RoT1R5UFNJbE5BdG1LU3ItemxBUkN0QnRlbUpMTzEtYXhfM1M5SmNUWXVCc2JwdEloejB2aXZoLTZxVmhuRFhVanlGWnBKTGxLM19Tdi1VZkdjZTRMZDlqaGkxazU4dVItdlgwYXJpb2dvcEtLeG1wek1nX0VJQjVGTV9BMlZuek44cTRuMlZodWR2cFdhYXphYWVGV2FnY29iS2fSAcABQVVfeXFMT25yTnBMWDFNZzdKXzAwcHZsdGJMdzJldW5panN2MG5MaWtGVmYySmg2MzJOZ3dKdUxOUmhPWTU5enkyWTZ2VEs0LURvb1VHdnpsVF9WR0twVkhtZ3QwUUlqRy1OLVdfZHhLcUFqWHRfZTh1ZklMU3FQSGtDWHgwOG1LRUZUdEVIZC1GekNIR3ZCaEV0LV96NlA1R0pudHhhVFBPWEVUcmd0X1RJazM5dDdHbDRPdThfVExQSVlEaHpD?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar govt asks officials to remove meat stalls from Patna airport vicinity to prevent bird strikes. A civic-infrastructure story. Covered by Hindustan Times and ThePrint.",
-      "image": "images/bihar-govt-asks-officials-to-remove-meat-stalls-from-patna-a.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "supreme-court-moots-scrutiny-of-high-court-judgments-to-iden",
-      "headline": "Supreme Court moots scrutiny of High Court judgments to identify objectionable remarks about women - Bar and Bench",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "LawBeat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU21fUWE1cDFENzdMdUZiLUtITDUtTVJkdGZwMWtfWjJyc1ZlaEtpZUpqZ0NJM0k1TEF2UEN5M19JVTVJU0RXYnRaM1dXcUZka2ZxTVE4M0JXbTd2UlhfQUc5aFE0STRoWUs5TFdMLUtkZGJLREtqUXgwTjI3QkVNNEVNY0tYMUs5Y2ZTcWJ3QXctOEFueHgxRE1UX29VYmZwMFZJZ0F1VnM1bUc0NHdabzZGZHI5N3hoSnpyVnNXYzVfdHg4aEhSdHdR0gHPAUFVX3lxTE5CdnMtWlUtRzVUcmphX0Y3NWFxY0RxNnkwY0FfemJ5Xy1sOTJtRWN4NWlmOHRSdXZmY3FTdDg4RzdneXV1WGRZNERTeS1vT0VKM2dJN3dIaDUwMnZQa01CU3dOTDJXYlpuR3VMSkltTHM5VDdmLUt1NTQ2Y3F5aDBxd0hBc2dfOEpVN1RWX2JkdDB6aUdZa21rU1lmZUl2Vlpxd2ViSXJpcXphLWtrWV9YTktYYmZfejFVNEFSal9WQTFuMnRWS0c3dUhPR1BGdw?oc=5"
-        },
-        {
-          "outlet": "Bar and Bench",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEJudHpLNXVncmVkdTloMFpSc3FhZE1Ed3pfbkQ4YjNYaUZaa2tDUDMzdU1XLU9aa2ZzM1hqdTkyM1FWSHZwX0ZwazJNSEp6VVRocUNyRkcxNFZ1TDJpNjM5WFFpaVNCVnNPSWRkbThIYlFZelNCTlNnclVjVDNFWlZmZVR4aDY0QXJtUDQ3Q3pnQ0lEQ1VFeHlSRjJYQWRkQ3poWWt1bGdqb1RWQk54eXlxRVZXSldfVm45SkZ0dVBnc2ktMVZGOXlYVFVVLXc0MGJDa1MxaGlzd9IB5wFBVV95cUxQVm9DSDd4UmprUUZ0R21pYkZnUThSUDFybkFPQWpBSkFLOVRjdlp1QUdUbHpUT0k5UjVOVmVOWXR6aGVaeUhRc3dGV3RoODlUMllwcXJNd0l2cno4LXBFdW8zYnhBRE5YR0ZmdGhVa0lpRjNqSXU2anU1ZWxKZlJndmRmV1J1a1pOSzJpejRqVEw2V3d3QXhtVkVoQU9SME1rdl9HRzZONlZDOTlXLW1SV2pzUmlXSnVPRTRtOFl4OGFLZjRlcjVGMjgyT3AwTlNuSkllMGJoeGpnMy1hTGxUQnpRTDhGNHc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Supreme Court moots scrutiny of High Court judgments to identify objectionable remarks about women. Covered by LawBeat and Bar and Bench.",
-      "image": "images/supreme-court-moots-scrutiny-of-high-court-judgments-to-iden.jpg",
-      "image_kind": "photo"
+      "brief": "Thieves steal valuables worth Rs 90 lakh from Bihar minister Sanjay Tiger's Patna residence. A politics-related story. Covered by The New Indian Express and The Indian Express.",
+      "image": "images/thieves-steal-valuables-worth-rs-90-lakh-from-bihar-minister.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "he-is-not-in-sound-state-of-mind-tejashwi-yadav-on-naming-of",
@@ -72,6 +46,11 @@
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlVZZDUteWQtd1FkSEdCdW1ndktDQTh4ODNOYUtnNUNka1J5NDhmX09DOUF5bWtyaGhWZVhTQ1lFWm1lVXZfbnhYYnhDY0ZvTU1pTk1SOFhyaWYteUZYTTZPSlo0eWVXOHlaSHhWV21SMnE2aXY4OW5kbTA0bnpRVlFfckFpWDNOX3JqTzlaRHRTOE8zczVMYXhNQS1qRDNzRnhqaWc5aHZwM0VaV3N2T0lUamZMSm_SAbwBQVVfeXFMTlVicFdGclhIMHRaT2hyYXNlLUVaelJqR2lWZUo4bzJNV0NvMzVDY3djdW1LTnVhYnhKb1UxOXc4WnByZHJRM0ZuWmpFeXFYN2s4RkZqM2p0Q2xUVjFYVlcweXYxYkFkemZPanlKYXJFd1k1SGtiQkh5THFrZDFHdEVPUUtuaXd0eXgtOUlGUWUzZGM0VjNuX0Z2VHh1SEkydmU2b3hLNndNLWNyZVpEenZTSy1DaFI2Zmx6NFE?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa1ZLaGxJMVdNN2J5blo2MFNXVnYyMEowZ25qdW9QbTM0Zld5d0tWek04NGdnQ3MxaFI0TkFtWS1jWGdIMGE5VjBPWThXdXV3X2FUdXFjTk9pUkZOV0pGd2QwV0NNYms0bWRYOHhtOXZudmJSQ2xFLXc0eURiU0p6UmF0WWFmeV9jYk5tOWcxVnhOaUFyc1YzWmMxdHNManJveU1wc0E0RWZUSXgyQjltOXF4UUs3ZzNJMnFUeld4VGF5Nzl0Skd2MEh3MlNpTVZu0gHWAUFVX3lxTFBJZUZZZGZkeDY0US1Hdjk0WnA5VFFHaHFZSWlSYU9nUWpwaHBIT1hzRzRmd0RSVWx2eDVLYmZOUTk4RDlqMHZHZ3lpMkNRRWJnRW1oVWRwa3A2UUFramg3d0l3WHE2VWdZeF9feEdXX1JybHNhWE4xamtIcjBpQVY0eWJyLU93NTdXTHdVd2ttRWU0SDNhTnlyVUh5THB3M3hla3h3emI4VFdsajJIbE9xYkJEWV9pQ20tdl9JSWprS0RoaFo1TkxLQ3EwSHV3TmRLdjRLSHc?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -125,6 +104,61 @@
       "image_kind": "photo"
     },
     {
+      "id": "indian-railways-ramps-up-arrangements-to-manage-post-festiva",
+      "headline": "Indian Railways Ramps Up Arrangements to Manage Post-Festival Return Rush From Bihar; Railway Minister Continuously Monitoring Operations - kashmirdespatch.com",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "politics",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcnJkUVhSaEZ0TThxVXVTdkcwdThTS1pfWW5BRWh1VTlWajRiUkg1THhrelZuQ1pVV1lxWXJYdEQtYjYxVlJPTVNDZ0c0aHdGX0tXSkxlQ2RiZnpLX1JwU3lZRWFwcFp6ME1TVXpuNFY0b25MZmdJZTMtTWM0amZ2U3VaWlEyaWpEOGRUQXZfTV80SmFraWpxUnh1QjMyeERjM2hBQlpTVFBqN3VaVVBzbkVGdlBLLV9sY2pBeUNhLVNlUDlMc3NYXzJjc0NxVzTSAdQBQVVfeXFMTzR2VTdnVUt6RDRITjZ3SXdMQmhNVExWNVNJa3pQT0xSWFJSMkYwQlNUajJpaV9KRzhnTzJ0VVlvNjM1dG1GckJfOU9oM1YxQ29XTGpzQ1IyOVdjNzlRV1o4Q3QxbkR3SEhsS1RaSlFaYXFUejZObkEzZTByQ2dWZDFSQkZOWjdIb05Zc01uUlh6dnk3NXVHOG9LckVYRzl2TV9rSVAzY3E2WTZiUTdLbTFqSGdPbDI0bThOR3B3OWpUNHQ3MDFiaW9MWmZnd0k4Q05WVy0?oc=5"
+        },
+        {
+          "outlet": "kashmirdespatch.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN0RqdnZ0cjZsazhXVXVoR0RfZUU5bmlLMDdsY2NlVlI4SFJUYlg4V3llazMtQUVYZkdHRkRVZmZ6MG9CdDdCdG93N1ViSGpvMVZZSGJQS2QxUUUzN1ZEWDZuVjNyTFJtZTFFek5PVWpMZVhFNEZJYXh5bHQ4QU5BUlNVeHFLbXlUSV9pMjRFT0w0RDFRVmxrVHN0c3dOOWNQdjdkYzFzM0FlSEhmbVlhVVNvYjdEeGxfVnVxdWppbVNQYnRUU3lLSDNyWU5MY1NRNWFtWWt1ZGJXclpSZWtwdF9GeFBXY3JuS3RnUVMxR2l6Zmd5cDNjSQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Indian Railways Ramps Up Arrangements to Manage Post-Festival Return Rush From Bihar; Railway Minister Continuously Monitoring Operations - kashmirdespatch.com. Covered by Moneycontrol.com and kashmirdespatch.com.",
+      "image": "images/indian-railways-ramps-up-arrangements-to-manage-post-festiva.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-woman-lover-get-husband-killed-after-affair-exposed-co",
+      "headline": "Bihar Woman, Lover Get Husband Killed After Affair Exposed - Cobrapost",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUxETzNNZDZnbjA2dmRuQjR0UzJ3eVZXRXVDTndpUHNnWWxLclktMVlLZEo1TVNTWFczMVFQTEtHdkNadkNreEtrWjJMRG45QWFHQS1TUFN1ZmZHelFERUtXMTVWZXRlcEhuRmlrOHh5NU9ORnZWcndGTDlQMFozV1gzOTBDSS14cWpxVWhIMzR6MksxTm1qd1RDZkpKUdIBpgFBVV95cUxOWlQwdmNTUVA2QlR3TWdoeTM1WHV3c0xIekw4ZjBNRHp2NUNGM3BERVgxbHRuY1lvQnJtX1p2eV9FRGxVSGxhWTdOYnMyaUlzb2VzeEJtMTY0cEF2RmhOVExqanpYRmlPNW9fc0FadV9hMlU1R3Fnd3VNRGFGY3J1LVRSNTFvMUUxX1B0Vy1tS0U0VEEwbzJidW1XaTdZVTFBLUhBelFn?oc=5"
+        },
+        {
+          "outlet": "Cobrapost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQndseUxNYk1RbFdnSm1FbkxLUGI2NEx0NEVHamxlMHFJcHNfbkUwaUZza2Z3b0lTLTlHM2ZXQzFjN3V4M0xKM1BOQ0lwRW9Ea3pvTWRrdDZrZ2tFMndqWFZka0MwcnBjb2E0WlVyaFg1WjdERVdPNjA0SHJPRkUybUtZVy1Rbl92VFhDcg?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar Woman, Lover Get Husband Killed After Affair Exposed. Covered by NDTV and Cobrapost.",
+      "image": "images/bihar-woman-lover-get-husband-killed-after-affair-exposed-co.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j",
       "headline": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक - Jagran Josh",
       "summary": "",
@@ -172,57 +206,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-woman-lover-get-husband-killed-after-affair-exposed-co",
-      "headline": "Bihar Woman, Lover Get Husband Killed After Affair Exposed - Cobrapost",
+      "id": "chhath-puja-school-holiday-today-november-16-delhi-bihar-jha",
+      "headline": "Chhath Puja school holiday today, November 16: Delhi, Bihar, Jharkhand schools to remain closed; Check state-wise list - Education Times",
       "summary": "",
       "date": "2026-11-17",
       "topics": [
-        "general"
+        "education"
       ],
       "sources": [
         {
-          "outlet": "NDTV",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUxETzNNZDZnbjA2dmRuQjR0UzJ3eVZXRXVDTndpUHNnWWxLclktMVlLZEo1TVNTWFczMVFQTEtHdkNadkNreEtrWjJMRG45QWFHQS1TUFN1ZmZHelFERUtXMTVWZXRlcEhuRmlrOHh5NU9ORnZWcndGTDlQMFozV1gzOTBDSS14cWpxVWhIMzR6MksxTm1qd1RDZkpKUdIBpgFBVV95cUxOWlQwdmNTUVA2QlR3TWdoeTM1WHV3c0xIekw4ZjBNRHp2NUNGM3BERVgxbHRuY1lvQnJtX1p2eV9FRGxVSGxhWTdOYnMyaUlzb2VzeEJtMTY0cEF2RmhOVExqanpYRmlPNW9fc0FadV9hMlU1R3Fnd3VNRGFGY3J1LVRSNTFvMUUxX1B0Vy1tS0U0VEEwbzJidW1XaTdZVTFBLUhBelFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdHBXbmpMM3hKYnRnZ2tVTzJkV1hTbm5QR3BHSjFlWVU0d3JBRXRPZ01HNXVCS1R2OXBOdDlLMW9SaUgyVmpUa0pRZExkM3B0TUszVmg3cDE2NW5xU1FIbWlvQWxMSFRfVF9qNFBjeW1iUE5uSmx1cnRKUVBOWWJQdUdoU0FoLTR2dVpmeU5STHc0amM3OEwyeTdVcWxhTnhXVGFHV2ZPNnQ4RHIwR3hBeDlGczlteTlxNW1VbnZ0aEdJVXdpQTRqRFRGVS0tcmw1UjF1RWxiREVaeGh0bDZjUmRwVVEyNkVtYUVyb2lOR1liQzdZaGNyLXpvZTZWNWhOZjluckFGRdIBjAJBVV95cUxOQ0tSc3lkSkFlS3FGaWlPeDY2MExqNmVRNVVNY2k0MzIxcm5fcmItcTNibnlEQUZBNHRQVzhYYmF3Q1cxZk5Hd3gzYkRhWHVuZFhRZHFRckQ0MC1WdFJMQ1BkWWxlY1dYVUItSURfc3h2OHRTbWVaeXBmS0lGOVNRQnlnVTRqWVIzcUdzdFdnMlB6a2JtNU9ITUMydDVNdTFTTTdHUjVGU0U2c1lrQUZ5YW1DcXZjQVRhYk9VUlVZbUZmb1VTUnNaTFZDMEt2N0c3blk3VmdIbmlNdkRuZ2hJaHA5ek1ieElWMmZ4OER1eGJhN2FGN1ZOdGhGbGhLVEJudDJjLTd6eU5fazV0?oc=5"
         },
         {
-          "outlet": "Cobrapost",
+          "outlet": "Education Times",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQndseUxNYk1RbFdnSm1FbkxLUGI2NEx0NEVHamxlMHFJcHNfbkUwaUZza2Z3b0lTLTlHM2ZXQzFjN3V4M0xKM1BOQ0lwRW9Ea3pvTWRrdDZrZ2tFMndqWFZka0MwcnBjb2E0WlVyaFg1WjdERVdPNjA0SHJPRkUybUtZVy1Rbl92VFhDcg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObDNGQ3Q1c3AzdGlNa1Mtc2tvNFRFTDJMa3JzeUhJWlhESS1GYzBkSVBoN095ZFg0dzNBWnRTc0diamZvMW1LNzB4c2JySkoxbVZCV28ya0Vzb3FsazctMHl0ajFWa1VBT21lby1sRzRxVW8yUDdoUWthcWZYWVdqcHBINFNBSF9tSXRrS0NEcWp5WVBhYTI1WS1qVWhMeXhRSEdDa0psWkxfSmoyQUNJcFN0czBrSHUtVTJBQ1F3MkFMdVhwZk05bjM0RnlFYUM3c3F0b3FZYWdsSGR6R1A1cjZweHd4V1J2c0JGN0tqNTlFNXViZnN2TFFaWlVKdw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar Woman, Lover Get Husband Killed After Affair Exposed. Covered by NDTV and Cobrapost.",
-      "image": "images/bihar-woman-lover-get-husband-killed-after-affair-exposed-co.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "5-1-4-41-prabhat-khabar",
-      "headline": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0N6VUVMVDJsYndrU0Jjb1ItbmRBUDRsQU5LNDhzNTVVOUlFYVc5Vm5sYmRmY3pncWFzbWY4M3hwYVl5aGgtdHQzN1I1a1lIQzhqRllDTnozaE0tRW5wekVfMVN6SHRfRG56SExQR0Vsb25hMWljWmhWaTZJa1FraW5FZG1xVTFHY1c3aEN2d2dCdjhXeDd6dkliX0FMQlRjdFk5cW9YNzJvbDhjY1JVWVYzVUhYV2o0YWpEMFFocDRpUmpmemVsVHlCbw?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0xVWHJwUXNJRHltN2dmeDhCWVZGblI2TnNFRGtXeVRSLWxpNDlCQUlZTVgtRGVGdlgyVWFQSWYxb2k3cXdrWnpwOTl2d2doR0NPaTJzQ3IwSDRBV0R1a25rX3hSR0t3WnR1bklaUTZWODBLcmk4dC03OWdoUndRSzMxNlNiUHJJOHo0VGhKRnowcXJNZGFZU0RiUGdyRGFxNTgwbWRxd2N1RkxaZHFlRUhPa1VPYWxndndxN2QwX3QwUlBQM2hjTEdn?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/5-1-4-41-prabhat-khabar.jpg",
+      "brief": "Chhath Puja school holiday today, November 16: Delhi, Bihar, Jharkhand schools to remain closed; Check state-wise list. An education-related story. Covered by The Times of India and Education Times.",
+      "image": "images/chhath-puja-school-holiday-today-november-16-delhi-bihar-jha.jpg",
       "image_kind": "photo"
     },
     {
@@ -250,6 +257,33 @@
       "genuineness_label": "Corroborated",
       "brief": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/iit-5-dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "5-1-4-41-prabhat-khabar",
+      "headline": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0xVWHJwUXNJRHltN2dmeDhCWVZGblI2TnNFRGtXeVRSLWxpNDlCQUlZTVgtRGVGdlgyVWFQSWYxb2k3cXdrWnpwOTl2d2doR0NPaTJzQ3IwSDRBV0R1a25rX3hSR0t3WnR1bklaUTZWODBLcmk4dC03OWdoUndRSzMxNlNiUHJJOHo0VGhKRnowcXJNZGFZU0RiUGdyRGFxNTgwbWRxd2N1RkxaZHFlRUhPa1VPYWxndndxN2QwX3QwUlBQM2hjTEdn?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0N6VUVMVDJsYndrU0Jjb1ItbmRBUDRsQU5LNDhzNTVVOUlFYVc5Vm5sYmRmY3pncWFzbWY4M3hwYVl5aGgtdHQzN1I1a1lIQzhqRllDTnozaE0tRW5wekVfMVN6SHRfRG56SExQR0Vsb25hMWljWmhWaTZJa1FraW5FZG1xVTFHY1c3aEN2d2dCdjhXeDd6dkliX0FMQlRjdFk5cW9YNzJvbDhjY1JVWVYzVUhYV2o0YWpEMFFocDRpUmpmemVsVHlCbw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में। इसे Prabhat Khabar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/5-1-4-41-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -295,14 +329,19 @@
           "outlet": "MorungExpress",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG9Scm54UWJ6ZnhkWHo2ekpsRlNNSjRUNG9xWFJqTnlpd2VDVWJFa1hwSlRiaVVzU2duQzkzTDBROGMwTERkUGlaQUsyeFJSVDVsZGdEQzdJMFRVOVlfWHhlbGUzb0M3QUFxbWNma2ZxT0tsdjRJclc4X0dQVG5xNG5BZ0V6elU3YnRNSTM4bkNFdGJvRUdkaXRxZjNfOWdidlE?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnkyN05vTXlSQ3VUcWlJeXhZS25jTHEyZEFsWko0Yld1SUFuSE9yRmY2a0FnYkFRUmx6WnJ4RDNUSWh6NUhwOThJUkN1QkdFQW9lY1ktSlJzelZJQjdxSnF4cWxPel9sT1lZNkxaa1JobUlfQ3lNNTNpMHF6NV9GbWo2aUplMjhSdlVCRVRtQUVieTEwd1RHM0NPVFJsV3VlZGI0eVg4MlpHMi1rSmRQWUt1eDBESy0wRV8wRzlReXU?oc=5"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar CM Samrat Chaudhary offers morning arghya to rising Sun on final day of Chhath Puja. An economy-related story. Covered by 6 outlets, including ANI News and The Hindu.",
+      "brief": "Bihar CM Samrat Chaudhary offers morning arghya to rising Sun on final day of Chhath Puja. An economy-related story. Covered by 7 outlets, including ANI News and The Hindu.",
       "image": "images/bihar-cm-samrat-chaudhary-offers-morning-arghya-to-rising-su.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "pm-modi-bjp-leaders-extend-birthday-wishes-to-bihar-cm-samra",
@@ -395,20 +434,20 @@
       ],
       "sources": [
         {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZVIyckhNTzRubWljS3RpWFZSWWQ3ZTZ1MTVady1uVTJaeHFJMnNleXdwRUpDSVE2MUlrNjVxSjJBaXZhUGx5SkYzUXMzYjdNcy02S2hBMzdWbWRyNWY4VndtWU1lZV9hZmtGaldlcFY5a0s1VGloZU8wcFpiSVpMSzBTVkNmMC11RGFpbmpIU0JDa2dJOWNILTNBeGtVSEVEWU0xQTktc3pWVnlqVTI1VHA5aEw5Yzh6THpFb09aM3k3dGs0Q0J0X21UNndfU0R3Y3VCcF9ZTnp3RUxKZmk2bUg3ZUZDeWdzMVd1d1h3?oc=5"
-        },
-        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTA5NldPVHJLSTJDLUVOTkNGelgxRlJCV3dOU3BkR1dCTEt3TmEwRHVqUFRWX3pDRzh5YlNQYlA3QXZDckhHblQwNHU2TS1mTE1OVzVhSnEyY1RUWjRodWFnZnFEaGVuS3paZ3l5VmplZGVIZ1djbDRtZzFPaldxWWxsT3JhVDBMZnlkNVhPZ1I1akZYSXlYRDhwQjFQQnhQRm9KYVh3NUxOQlczSlMxZmQ1NFhlUHJPdkFzbDUwOHE5SUhs?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZVIyckhNTzRubWljS3RpWFZSWWQ3ZTZ1MTVady1uVTJaeHFJMnNleXdwRUpDSVE2MUlrNjVxSjJBaXZhUGx5SkYzUXMzYjdNcy02S2hBMzdWbWRyNWY4VndtWU1lZV9hZmtGaldlcFY5a0s1VGloZU8wcFpiSVpMSzBTVkNmMC11RGFpbmpIU0JDa2dJOWNILTNBeGtVSEVEWU0xQTktc3pWVnlqVTI1VHA5aEw5Yzh6THpFb09aM3k3dGs0Q0J0X21UNndfU0R3Y3VCcF9ZTnp3RUxKZmk2bUg3ZUZDeWdzMVd1d1h3?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Video | Chhath 2026. Covered by ANI News and NDTV.",
+      "brief": "Video | Chhath 2026. Covered by NDTV and ANI News.",
       "image": "images/video-chhath-2026-chhath-mahaparv-sea-of-devotees-flocks-to-.jpg",
       "image_kind": "photo"
     },
