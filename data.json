@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17 13:55 UTC",
-  "generated_at_ist": "17 Nov 2026, 07:25 PM IST",
-  "story_count": 45,
+  "generated_at": "2026-11-17 14:36 UTC",
+  "generated_at_ist": "17 Nov 2026, 08:06 PM IST",
+  "story_count": 46,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -62,7 +62,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar govt asks officials to remove meat stalls from Patna airport vicinity to prevent bird strikes. A civic-infrastructure story. Covered by ThePrint and Hindustan Times.",
       "image": "images/bihar-govt-asks-officials-to-remove-meat-stalls-from-patna-a.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "supreme-court-moots-scrutiny-of-high-court-judgments-to-iden",
@@ -186,7 +186,61 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar Woman, Lover Get Husband Killed After Affair Exposed. Covered by NDTV and Cobrapost.",
       "image": "images/bihar-woman-lover-get-husband-killed-after-affair-exposed-co.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "iit-5-dainik-bhaskar",
+      "headline": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGlkUWRwNl9wMk9YSnZOUUNmT19sSUg3M19kSldHVUVDaEdzQUxZUEk0dmJiU3Y5Q2FBWk1XZXRMUWwyM0dQTE1iZk9QYW9JZVZUcC02bGIwMHRkMGprVWpGMGtfU3FMT3VFcmRkTzJReVc3b0t1WFBSRjBYc0libGd2RWRWUHZnaFg0UGJIS0lrUDZxdFFwaTRKVTh0cXZsN0YydUZVeDloVFZvVUpQd1o1ZXh5WVluYnpPdGJETUZJX3RJRVc0WmdERFNBcFBBRmc?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNjJDYkdOMjFwZnNIUkxtZHJ2MllWaGZWeW9HSmlNVU84Z0pnQ1FHcFY5Uzhvd3hOTkU0dDJadm5wWUE1YUpkbnB0OXVveTJDQklKMWtiQm1Ya3BhZ2NwNWlodWE0ZHNCYlR3MzlXNG4zV3hfVENiYkFVVWJlSm50eWREa2ZHUERMTWNPTWNqV2o5ZG92cklhZUh5aUxIRGhFVG8wZUZZWTJWRUNRQ3FySVNIMjZIZ3c1ZmptU2wxdGNaNkdWQy00bG91NUtWUmxOcVHSAdcBQVVfeXFMTW5rWG1IeWhLRlJCNDBrd3lLUjhselVjOVQ4RGhRWEJqbndMclU5ZjhwMUlQczhEV0pVal9VRHhMODkyeDNuT2JOTG9PaUFhdEZtZ3pSMlJYQUlZaGQtVWFWZWVsbGxKeFYxN0RxRUJIV0NQYXpQQThYTmZqT1pudkRtZmEzSzdOSHI0cmMwZTNDRjRmUXdsZE5HNUtEN21saFJ6X251Q2JMV3d6am9sa05rV1FaWk1RMmFCNl9mci1UajBrRUJxM3I3Z00zN2pleEg5VjZLc1U?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/iit-5-dainik-bhaskar.jpg",
       "image_kind": "placeholder"
+    },
+    {
+      "id": "5-1-4-41-prabhat-khabar",
+      "headline": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0N6VUVMVDJsYndrU0Jjb1ItbmRBUDRsQU5LNDhzNTVVOUlFYVc5Vm5sYmRmY3pncWFzbWY4M3hwYVl5aGgtdHQzN1I1a1lIQzhqRllDTnozaE0tRW5wekVfMVN6SHRfRG56SExQR0Vsb25hMWljWmhWaTZJa1FraW5FZG1xVTFHY1c3aEN2d2dCdjhXeDd6dkliX0FMQlRjdFk5cW9YNzJvbDhjY1JVWVYzVUhYV2o0YWpEMFFocDRpUmpmemVsVHlCbw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0xVWHJwUXNJRHltN2dmeDhCWVZGblI2TnNFRGtXeVRSLWxpNDlCQUlZTVgtRGVGdlgyVWFQSWYxb2k3cXdrWnpwOTl2d2doR0NPaTJzQ3IwSDRBV0R1a25rX3hSR0t3WnR1bklaUTZWODBLcmk4dC03OWdoUndRSzMxNlNiUHJJOHo0VGhKRnowcXJNZGFZU0RiUGdyRGFxNTgwbWRxd2N1RkxaZHFlRUhPa1VPYWxndndxN2QwX3QwUlBQM2hjTEdn?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/5-1-4-41-prabhat-khabar.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "chhath-puja-day-3-devotees-offer-sandhya-arghya-to-setting-s",
@@ -208,6 +262,11 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2YzNGs4OEExX1FvLWF0WjU3bTVYenNiRi1fMVdTU0tWUkcyTWZZb2pQQm5vOURnRDR5WjdSNW1KLUVSQmxkMWFTTDh1dXpoaWRvbVVuQjB5NjZ5dEM3RmttVkE2dXdiMVROX0g1VlZFSWNXbnhnQVJ6R0VQendKNUI1UTN2aGtzMVNHMHJob2xsZHFNSUwzbUh2cFNzNktiY3VqbTZaNXpVUWxUdERWdVhJTFpWenlHRllZejZ3RWlLWW1yNTYtUTV5SkdvOGlTUHFjNzlR?oc=5"
         },
         {
+          "outlet": "tennews.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRzc3aTAzVDFxbXF6b0QxcGVKZmY2U0QzeF9fX09UaWMtNUVSSnJ0djZaeUVuZjI0dS1La1ZSNHR3eDJ5dVRzZ1FpLXN0TVNYVjFuZWNOMU9PeG1QR0x0WG9NMHFsXzdUUmpMNzkwcVhvRWs1U0x0UnNvU0w4cTc4UDM4QmlGVGd1Q0QwUTV0WkszdDl5?oc=5"
+        },
+        {
           "outlet": "Rediff",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSTJKVWgzRjZJeVBtbzlpTGhXek8teDYzOEptQzJnQzRGVDM1OTZjUTJuN29QZDN6Ml9OWXVrWjNYczI1VUNTeTRkbnl1VmdUY0JrdUlPclJzQTFxTGNzMEhuRmlyZzZ0c1lwZkRBN3Yya2JmdGVsS2JvQWhjcUdpQkluOXlUX2tMUlVQWnNjQzJQa1RKWnVreU1zMXIzTjVqSDhYVlAya3hzOEZ3RFhnYlFjd2M4LWJQMDJ1Z25Lb0ZaLUdBS1g5S3hIeVVmT3ZIUzVYWTRpNEpYdEtv?oc=5"
@@ -223,19 +282,19 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWxoeV9ZUzJiZGp5WV9uQk53SUFQdVJUbUI5bWhhY2Vral9PeFplVzlOcFY0ZnF2clF2UU4xSG4yUDRLTkRQUG0teklacXpBb19WZUZ6dmUwTWNxS0FseThkZkhHX1o2Vms4Z19zd0p2UHc5Nmk0T2V5dE9IU1pfS1ZyaUJERlZ5bzdoVmJYeE9WQS1UN3VSLTFQUngzMzVRaHfSAacBQVVfeXFMTnd6SHpLbU1EcVNsN184cDNIREE0M214N0RUUWk1ZDFvb2RwQTBTSVpQcl9ETWlOeGxnajBzMGNJR3NhdEQ1bDl6YXkxejUxQmJONkQwc2ZhUk9kWGVWLTJHZDVXcUNncTY5SFlPaEJQOUEzMFMxN3pnaG5tUjR1V1JjNHV6SURnOEdxYjRQUGFqX2dRWDFFRG9rRXpPMlFBMGQzTE82SUU?oc=5"
         },
         {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
+        },
+        {
           "outlet": "MorungExpress",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG9Scm54UWJ6ZnhkWHo2ekpsRlNNSjRUNG9xWFJqTnlpd2VDVWJFa1hwSlRiaVVzU2duQzkzTDBROGMwTERkUGlaQUsyeFJSVDVsZGdEQzdJMFRVOVlfWHhlbGUzb0M3QUFxbWNma2ZxT0tsdjRJclc4X0dQVG5xNG5BZ0V6elU3YnRNSTM4bkNFdGJvRUdkaXRxZjNfOWdidlE?oc=5"
         },
         {
-          "outlet": "MillenniumPost",
+          "outlet": "NDTV",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2V5ZlBrZFc3RUdQM245UTh2UjB1TlNJMlI1cWJfWVptZ05Qb1ZEYjktb0wwRkYzSnI2Qy1XWExfUnpuV2pZY2g3TFQtMmJnUTVIX1ZDd3RHTTNsYVo1Y3EyU0JSc1VabGxEMTUxdXI5QnlsT3BlQll3YkhuWHFTbVJxZWloV19ka1g1Y1FBVHA5cG1BeU51ZGVhV2t3T2U3WS1Z0gGoAUFVX3lxTE9FWTFjTi1sVmVYU0lLOVJkR19aNGQzR0FJZ08wY0VUWmxlTjFWN2ZuN1J4VlViVkZOWkpGWUE1dWxDWjRwZFlZNTZiNm5takp1RnFQdWVSaUJJWjFPeW5yb3VMVGM4VElPZHpsM3ZzSllVbUJKMDFYTXJ6MzNaVm80bk94ZWhWODFKT2g3bV9wYXdSVDMyMC1SdG5OTmlVZmN0cWZhMDFkTg?oc=5"
-        },
-        {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnkyN05vTXlSQ3VUcWlJeXhZS25jTHEyZEFsWko0Yld1SUFuSE9yRmY2a0FnYkFRUmx6WnJ4RDNUSWh6NUhwOThJUkN1QkdFQW9lY1ktSlJzelZJQjdxSnF4cWxPel9sT1lZNkxaa1JobUlfQ3lNNTNpMHF6NV9GbWo2aUplMjhSdlVCRVRtQUVieTEwd1RHM0NPVFJsV3VlZGI0eVg4MlpHMi1rSmRQWUt1eDBESy0wRV8wRzlReXU?oc=5"
         },
         {
           "outlet": "ANI News",
@@ -243,10 +302,10 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV3N0ZFdHWm1vMWNDS2xESUdrT29vcUZmai01Ykg3NW5HcWFQbF9TNDNzOWJrUjA4bVZRTHlxU1FrODlrY1RZSUZibUp4UDh0SEJ3azg4bkM1QXhqWFJXYnp0YUw0VlgtbEpaLU1MWmZzUTFpZENQcC1YblBwU2M2TDg0MEI4NXdjZFo3WDFaLUJMQzRiYVctVW5sWWZUU1VlWjhCeVRodjhGcF9tbnYxUkN2bWZLQmwwXzdxTVRfY1lXQUxjY1BRWmk2NU1UdWU4VGt3eS1tTmg4bERRNTlJX3ZjdU54UTlBbU81NUxDbXo3cmdNQ0JpZE5R?oc=5"
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Chhath Puja Day 3: Devotees offer Sandhya Arghya to setting sun, actress Akshara Singh joins celebration. An economy-related story. Covered by 7 outlets, including ANI News and The Hindu.",
+      "brief": "Chhath Puja Day 3: Devotees offer Sandhya Arghya to setting sun, actress Akshara Singh joins celebration. An economy-related story. Covered by 8 outlets, including ANI News and The Hindu.",
       "image": "images/chhath-puja-day-3-devotees-offer-sandhya-arghya-to-setting-s.jpg",
       "image_kind": "photo"
     },
@@ -357,33 +416,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar: Four-year-old girl dies after alleged assault by mother over Chhath Puja prasad. A crime-related story. Covered by NDTV and Daily Pioneer.",
       "image": "images/bihar-four-year-old-girl-dies-after-alleged-assault-by-mothe.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "4-aajtak",
-      "headline": "छठ की खुशियों के बीच पटना में बड़ा हादसा, गंगा में डूबे 4 युवक… तीन की तलाश जारी - AajTak",
-      "summary": "",
-      "date": "2026-11-15",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1V6X0ZucGNIUXJKMGF2MXlMUnZjSnlib0JsVm5odjQ0Z1YwU0M5RzNfcFFuWDN5WDlPc1k5STRpODRHNWpBM1VJRThSZ1AtZVdpbm1GNXpyQm9OQXdUUmpEdUN4M0l4cEVJNFp2bXB3a3pRLXNpNHI5LUtWUlg5SW1pY08xajREUzJPa2NOb2NLY3hHNWZaSXRMOFBUbW10RmVXa0R0cXFKR0d3LVoxdFdYT3YwYjJYNDZ1OTF6UdIBxAFBVV95cUxNNnNhY0xWVzNxX1N0VWR0ckVEX0I5MUlFcm81dzBPeGFQTDVVaDJmQUxpLXN2ZXQ0Nl9CN3pIMHdJMDRyXzBBaDRGWTV3cWQ2OXJXOFUxaDJPQ2ZVMEdfYzhSYXNNSjBXOVdEU0NoUS1Obnc1T2x0bl9LZkZwSFJkVEJvWmZhYmVXdmlUZUprVVRCOGdVTFE0Vnk5MVNqX1NXSEV5dXBQXzZMVVAwcEt3VFl2SWdKTUp0UERNUXVrU29mZHlm?oc=5"
-        },
-        {
-          "outlet": "ABP News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQWllLWUxT3AtNE1aTllfbUtOOEJJOTVLR2ZIcVVOSmd0cVA5dVdnTVUzQ1k4OHpVS2RfRTRWYXhzMXBPcnlPVmVyVkVsOTF5Y21DNGdZN2xIM0FZQmpxN2pya3EyekVoLUViWHYzX19ubEUtMEc3VktNS1BYX0RoMEFmdzJmN0VSaFdGN3NJaTdtQjlzNjc0TldSYy1pTlNaOF95cDBuaEFqT3VyTjBnTkpKSVh0WDJ0N0ZENlhRa3hENEhVMVQ3bV9McE84Rm83Nm1GbTFjWFMyZ2F1WlJv0gHkAUFVX3lxTE5tNndWcmxTSjFVT3hEbmFhZGViQTFyUnpWSzdKQTNTb1BtLUF5dDhWOFFIN2w0RGt0Sm15MUdiODVZeVV6dUFDMjJHNVdQbTJSN2JSVzlHYjRHSlpYTWlodzJVRWhDMGhiemRCS1FsUlJxZTlja3VkUWdiTW80V0cyVDRiUDlXV2dVd3NfTDJHWUxheDZQYS1mVkVzT1Vtdzdhb3hUQW9uQ1J2MHVMbFdyMjhZVThfbEFZVEsxR05zNmtTZ2RuM3NHOW9sbkVPbXIwTENrZUtnbDhCS2puLUxSX3F6Mg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "छठ की खुशियों के बीच पटना में बड़ा हादसा, गंगा में डूबे 4 युवक… तीन की तलाश जारी। इसे AajTak और ABP News ने रिपोर्ट किया है।",
-      "image": "images/4-aajtak.jpg",
       "image_kind": "photo"
     },
     {
