@@ -1,36 +1,9 @@
 {
-  "generated_at": "2026-11-18 19:37 UTC",
-  "generated_at_ist": "19 Nov 2026, 01:07 AM IST",
-  "story_count": 54,
+  "generated_at": "2026-11-18 20:54 UTC",
+  "generated_at_ist": "19 Nov 2026, 02:24 AM IST",
+  "story_count": 55,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
-    {
-      "id": "patna-govt-schools-to-offer-evening-classes-in-five-subjects",
-      "headline": "Patna govt schools to offer evening classes in five subjects - ET Education",
-      "summary": "",
-      "date": "2026-11-18",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Education",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXE3Vi1wcUFySlVXTzJNY1hXck1kVXNLRS05OVJsZ1NscnBVS3RFNnVlWmZmVG5OeUc1TXk4ZG8zcmtFSFA2aVRLb3l0WXRsN2x1Y2pyYWJENi1qM0dFTjZiMTNGamVycDlJLUl5Njk1MnVwWXlWajZ1UURvbVlpbGkyMHliQVlMWHdRM2RzUVg0SXVtTHZ6R3VFZFJ0eWxYYUJ5ak9ZYTFCWVc0WmI2a1VSTHFabTNyQ0xRMkJYUkRFWEpuZVB1ZEc3dWhtdHNtUmc4aNIB2gFBVV95cUxNb3VaV2Nibi1TdEtLTTJNMnpPM0tQWTh3MC1FdHI0R045ZkRmVFFSVXJzM0l5TDluaWN3ZW1ldHVBM1Vhb1Zld2ljeFVXd2Rzb2xMMC1YZ3VXenY2VllzeTNuQTZuZDNJZzh4ZjZlLTFUZEhZbE16UzdpU1B5TjRzbVBZdkdCV1NLTEo0N2JpU1BTSllsdkQwRmI4T1NJVjZ0RjROVDI0YjlmVEZNWFp0NlBlUjR0Y3QzY0ZCcGJuMDd3TEJlVTVXdF81X2pOZmRoZ1JpbUZvdVJfUQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVVCaHBsZnVWaHpVaERFWjBnbmxFYzJOdG93dzBIRzBQUlNfc3MtTkE4eDZmU0gzX0wyd18xVklLMUhoWUxzSFdTTHVFU04yc2RwUHNBeGRCSnVISnpCa21CZElxVnYyUzdRalh3SzRzdjk1bFJtTkMzQUxJQVRqcW0zeTVtcE8zYXh2QUhCVWRHdlg0b29KMk1sWkFIUTNQYmlXVHVOaUt5bk55ZjVrRXNpc1Jfenk3dU9hYXJLcmNmQk3SAcgBQVVfeXFMUFYya0kyQ3FhbWxZY1NqY2VKS2dTcmgzempEM05rcW8wUThNUTZWV0RJMWpIWVRpTW5yMGh4d3kzZk0tbUpVUjZodklfSmlYYjN2bE8yNkpyckNUd0xOZVdDMWJiMVprbjJmOWNjeHFkdE92eDZkRkRyWUczMzZpdVhZSGxfT3l0anh5cEljdkRyT3dmZHVJM0d5WjNOMWlVc3p2V1cyLV9YdFZuT2pCanh0dmRNYkdSUGlLMG1xdUdLUllma1BYOWc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna govt schools to offer evening classes in five subjects. An education-related story. Covered by ET Education and The Times of India.",
-      "image": "images/patna-govt-schools-to-offer-evening-classes-in-five-subjects.jpg",
-      "image_kind": "photo"
-    },
     {
       "id": "delhi-to-patna-in-just-5-hours-not-12-bullet-train-will-make",
       "headline": "Delhi To Patna In Just 5 Hours, Not 12. Bullet Train Will Make It Possible - NDTV",
@@ -56,7 +29,7 @@
       "genuineness_label": "Corroborated",
       "brief": "Delhi To Patna In Just 5 Hours, Not 12. Bullet Train Will Make It Possible. A civic-infrastructure story. Covered by NDTV and MillenniumPost.",
       "image": "images/delhi-to-patna-in-just-5-hours-not-12-bullet-train-will-make.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "rjd-seeks-bihar-minister-ashok-choudhary-s-disqualification-",
@@ -70,12 +43,12 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlg0V3JDOTdJU3lYYTE0NkZZNnY2eWVsMHhKVmNzR0hBTDhfajFUNnh0cDZXMW5QM3ZsaDk3a0hCSkZBTXQ5ajJ0cnlIWV9fQ1FVWl82ZzBxSk8xRXlJVjMxRFhTVzJHOEp1U1VGaEQ5c0ZNNnpQanRBZmU3Q1hxUW5lWWIyQ0Y4VC1hN3Y0SmNQLWduTWFodlVBR3VoblYwY3gtbXh6OHl6M2o5eG1jelZ1SXFESEXSAbwBQVVfeXFMTUZMVWlCX0JzamdMNm5VcVFfS18wOVpqVEZNa0V1dF9vd0h4SVJtRVZsaDF6RF9CU1BuWnhCNlBkb2t6Rm5UaHRTc1otaGtMVjcxRk5rVEp6MmNmUHNWaXZhdy1XQjF4UmIzYk9WbllkemVPb0JPeS04TGVvMnprSGhoYmNPMFA1b1Q2c2ROb01Kc0kwYXExc1B6S0lxbFRKZEo4eXBZdGdhMmVqREY2QVBlYkx6ZjRRNkNLY2M?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2tSNU9iS0VpVjlfajlrUHdWelphelVHV2dMTzVJZ0pnS3JiUURwX2p1bmlRcW5EeVBQYWtlMU44SW93bDliU3I1SndTTWVIdUtKUUR0RXZXREZMUl9lLVVsOHdpRVJobE9PSFM4RkpOR2tXa2dUWmszdFdybERJQl90WThPZ1Nfa1FQaUJOUG1VUkR4Vy1rSkpMeXNPTGtTdDdOWEtfSUNObHhwdXJTUkhIZXNoX2xqU2MzZDRhYjZTNTjSAcgBQVVfeXFMT2ExM0ZwelM4elVncmJoS3JTSUN0WEY2WnhaUkVwNU1zcEd0UHNZdFNsTXoxczlQMC1VS2VFbmtxY1YweldoNVRzUU9DUzNNRWlhVVoxeERNVUFvNjhmZVFXNS1QVTBkRHVJcWpJSjlTZjE1SXNCUGZXSHdVVzlhS05uVkstUlpOa1lYTl9kSjUxOXdLa2ZleHRtVGxXdC01aUtUNUJKRXg1eFl0ckg2ckdSa29CV3h2NmlVUzgzVjRRbXNNN0Vzc0E?oc=5"
         },
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2tSNU9iS0VpVjlfajlrUHdWelphelVHV2dMTzVJZ0pnS3JiUURwX2p1bmlRcW5EeVBQYWtlMU44SW93bDliU3I1SndTTWVIdUtKUUR0RXZXREZMUl9lLVVsOHdpRVJobE9PSFM4RkpOR2tXa2dUWmszdFdybERJQl90WThPZ1Nfa1FQaUJOUG1VUkR4Vy1rSkpMeXNPTGtTdDdOWEtfSUNObHhwdXJTUkhIZXNoX2xqU2MzZDRhYjZTNTjSAcgBQVVfeXFMT2ExM0ZwelM4elVncmJoS3JTSUN0WEY2WnhaUkVwNU1zcEd0UHNZdFNsTXoxczlQMC1VS2VFbmtxY1YweldoNVRzUU9DUzNNRWlhVVoxeERNVUFvNjhmZVFXNS1QVTBkRHVJcWpJSjlTZjE1SXNCUGZXSHdVVzlhS05uVkstUlpOa1lYTl9kSjUxOXdLa2ZleHRtVGxXdC01aUtUNUJKRXg1eFl0ckg2ckdSa29CV3h2NmlVUzgzVjRRbXNNN0Vzc0E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlg0V3JDOTdJU3lYYTE0NkZZNnY2eWVsMHhKVmNzR0hBTDhfajFUNnh0cDZXMW5QM3ZsaDk3a0hCSkZBTXQ5ajJ0cnlIWV9fQ1FVWl82ZzBxSk8xRXlJVjMxRFhTVzJHOEp1U1VGaEQ5c0ZNNnpQanRBZmU3Q1hxUW5lWWIyQ0Y4VC1hN3Y0SmNQLWduTWFodlVBR3VoblYwY3gtbXh6OHl6M2o5eG1jelZ1SXFESEXSAbwBQVVfeXFMTUZMVWlCX0JzamdMNm5VcVFfS18wOVpqVEZNa0V1dF9vd0h4SVJtRVZsaDF6RF9CU1BuWnhCNlBkb2t6Rm5UaHRTc1otaGtMVjcxRk5rVEp6MmNmUHNWaXZhdy1XQjF4UmIzYk9WbllkemVPb0JPeS04TGVvMnprSGhoYmNPMFA1b1Q2c2ROb01Kc0kwYXExc1B6S0lxbFRKZEo4eXBZdGdhMmVqREY2QVBlYkx6ZjRRNkNLY2M?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -98,6 +71,11 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXByRDV2TjdDYmI0VWxrU09KcEJOdWlwWnZaYUQzR3EtZl82Mll1TzIxTHVqMzllb2pzTnk0YWpiSUc3anR3TWYwUC1hMTB4NHJZeklNQnZ4a1lzQzAxZmNMZ204YnNoSkx0M0ZabkZFZzUwWWlPWnRJWFVremIwRFphbEtCVnpNUHNfV0VjR0VGWjcwU2NObUhNaXdubXg1SUgzaEllYS0waWY1N1FjM0FSTy1JS1BIS281OXpacy1ucVRYbG5UaC03dXpIcWlSOWfSAdcBQVVfeXFMT3ZSdERFbXJaYzJjZXBscEhWZEc2OFZCdzFnb1FYcnN6Zmhmb2U4clVUX3hVYm9UVjhMOWV4V2ppWjJTalhvWC1OSkp6SFRGalpXX1BnTzg5eVdHWmhJcE1RaERiZXp3V3hOT3cwMkpyMFFsbW1nZlJMNGFxd1lOMVZucHRzQl9icmJzZU5kN3VzdXV2NjNlY3dDeTRhVGt1NWRpVEV2MEFkVVh6aUdtV0Jwdjl6Ti1wQnFNanhmMUJjT203dmU5Z1gwaWtmRWVlZmtZWWFDVk0?oc=5"
         },
         {
+          "outlet": "The Statesman",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT3F2X3R5WWY2R1p0X2o0aUpMMk15bGk0QzFydGxmb2hIV1RSYXhxZ1N3WDJjR2ZFN0RFZ0JfSzZwTG8xS1BuNFNLaUFpMl9yMEs0X05LNy1VX2ZhcGU3aGtOck1UdWxzMERvS1pqNndZUkhMMzRjZzVhLXBZTm1VZllVTUo2QXBzTWx1RFMwR0Jib3VIWWgtelVQZDBrMk9ndTdFVkM4OUVyZ1BMemJlSUxjSm8zQl9uQlduMzNreEs3ajM3bm1NbEhHbVo3NmdGbV9VQkM5WGlHOGRLRlHSAeMBQVVfeXFMTTBMQ2U1WjZQYXRVOUdNWmFkZjZ1ZnVqZ3hmam1yUWRPZ2VvOWdoUU5sS0daR0J4QnRJV3RMNzZqTjlsV0lUc0ZQbWpUTXUzZno2NGEzNFJhZUU1dXVPV1VtT0Y1OEwteGRDLV9KRVhfNmdJZjFLUk9aOTNaMGU5SHc0TTRrYWREUmhfRzdGQkt2bEZBNmh4WEloSXlPWThCYl9DUjNYR25XQ01EY0U1bGpYWC1ZVkdwTGpJelRZS2hCM2FiaG5zNUFtY3NJSVhvYnhpNzRCUGJVd2hPalR2QU9YcEE?oc=5"
+        },
+        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUm1EOEJtRWEyR05CeUZRc1dfM1ZJR2FPY3hLaW9QLWVCa0VmeWRDVjM2NHJZS3hCX3dKUWxnaFVMakVCQWNlZVlObU5wM0k4R09DbUJjMkszaUl1NWRzMmFiSXlmTnBvV2pYNXhodVpndXNaWDRSRF84cGNoVkFYVkZRM1g0WE8ydTh1X1lfTUxEdHBfcFJFRU9mbjhIR1ZLeEdlMWhXYWxRekN3YWFLcGhlZ194M1Fk0gG-AUFVX3lxTE5VWDhQWjFXRDV2V0NSNHRsQmpCSkpBZWQ5Y2tfQjYzREJiS0hrbEpTY21hMllBazF5b2M5cWoweHFvNDgtTG10Yk1UQlNieEQ5aHhJV1ZhdGs2SE1XTGVPZk5ocXA4bXQ5N2tuQ3hNdEJ4X3NjWnBSSkN1VmVWTnVoTUs5SzJXVk9ocjRueXRLck8zNFBvY1NTejRCOUJGR081dEtHWXNVR1NiVjhTWlpONElRMWI0TEdrU3pMZGc?oc=5"
@@ -106,11 +84,6 @@
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbDdlMjY1c2tXbkVVTDByYVh1Y0hVTkpXZDBNdThocDZHa3hONFJCTFRLTy1CMlFGMVpYandOSEN4VkNIVUZUUEUxdzVHNWJVVnB1cDhYLVR5dlhKY1NNT2Vyd1pTUHFyRkpKaU83SERjM1FpMlV3bjhiVF9tSW1PZG16bXdwVkNLM2V1aFBNMkptMUZNcGROVjFMS2duQS1vc3oyajZJNjZMMVZvcUE4czJkSW9fblhmY1VfVmpOdUtLazVRRDVGWkNHbzZvTGRYeGRTUDVpY1JPSXZrbGp5WFZFUERWVDZ4ZHgxYXBJSdIB9AFBVV95cUxOTmpxM1BDUERjY0x2a21RUG11TTFrOF9DZVpGLWx3VFpnMG1nQ0E1ZjBSeG1VbUkyVHhWOHJiUW1qTzV3dlZBR3ppQW1fTUJQWnZ0Y3VNUlE1WGg3S2tPd1NuRDZ2aXczUFRMSUVBWllJMENLSUFnWXpfVTRPNWNiY0pZQk9uNlpJQjl3N2x1STZ3TVBWdzFuY055dVppM2M1NGI2MVduSHk2d0wxLUp6bmJWay1TcWR3b2R2cWxTV2h0dDRDTktSLWl1cFh2YXB3WGsxejlQMHVNYXhOYXhWOThoOUtyaXNNcTlhNVBadW82R2RE?oc=5"
-        },
-        {
-          "outlet": "The Statesman",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT3F2X3R5WWY2R1p0X2o0aUpMMk15bGk0QzFydGxmb2hIV1RSYXhxZ1N3WDJjR2ZFN0RFZ0JfSzZwTG8xS1BuNFNLaUFpMl9yMEs0X05LNy1VX2ZhcGU3aGtOck1UdWxzMERvS1pqNndZUkhMMzRjZzVhLXBZTm1VZllVTUo2QXBzTWx1RFMwR0Jib3VIWWgtelVQZDBrMk9ndTdFVkM4OUVyZ1BMemJlSUxjSm8zQl9uQlduMzNreEs3ajM3bm1NbEhHbVo3NmdGbV9VQkM5WGlHOGRLRlHSAeMBQVVfeXFMTTBMQ2U1WjZQYXRVOUdNWmFkZjZ1ZnVqZ3hmam1yUWRPZ2VvOWdoUU5sS0daR0J4QnRJV3RMNzZqTjlsV0lUc0ZQbWpUTXUzZno2NGEzNFJhZUU1dXVPV1VtT0Y1OEwteGRDLV9KRVhfNmdJZjFLUk9aOTNaMGU5SHc0TTRrYWREUmhfRzdGQkt2bEZBNmh4WEloSXlPWThCYl9DUjNYR25XQ01EY0U1bGpYWC1ZVkdwTGpJelRZS2hCM2FiaG5zNUFtY3NJSVhvYnhpNzRCUGJVd2hPalR2QU9YcEE?oc=5"
         },
         {
           "outlet": "The Hindu",
@@ -136,8 +109,40 @@
       "image_kind": "photo"
     },
     {
-      "id": "nitish-setu-bihar-s-six-lane-ganga-bridge-sparks-credit-war-",
-      "headline": "Nitish Setu: Bihar's six-lane Ganga bridge sparks credit war ahead of launch by PM - India Today",
+      "id": "bihar-cabinet-approves-66-58-crore-for-dpr-preparation-for-b",
+      "headline": "Bihar Cabinet approves ₹66.58 crore for DPR preparation for Buxar-Bhagalpur six-lane greenfield expressway - The Hindu",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTlgxNGpKX1N0a0NmNW1pZ3FMWnd4THg4R0l4T2NZSEdSR3BVOGdCUU1xWlB6UE9ITzlWeDRDeEU5WmJfZ0lnOFI1Z3lsOTNFMnZlcXE0ZjBKczE3cHJRcHlRUXZ0TmYtMXJlRF9nbXQ4d29qM3dNS0R0cmdOTkFQQlRoUjRmZk16OXlxdkRkZW8tM3BqRzRUSVk0MWw1SjRNMTYtaGpDckw0dHROSmdtd1BXNkRkc0JBYzc1dC1CMXNqU2JOSzFjUy16eFpHa3FpNjlIWHFUejh0ZTJQNkxmbEVoSdIB6AFBVV95cUxObmtKcU9wLVJKZkl1MEljWUhySmtOOEUwMU13VDQxU0JGLWZuQUZ5MGNjMEx1NkY2Q1JVZ3VCaEtUbDhRYmtub1RNaUpNek4yZWpya21iQ2RqR0M3ZUJDLVZmQVFuUlVkZVpyalZRNFVldEIwdEtadHoxRGR3OTVSY3d3STZHeW5VUkNYclducEQ2dEx1Q0dpUzhJeFNYTHB4Si1NRzZFQ213ZmJSQ3lESlFKSWk3LW85RGU2SmVIekpwY2dpQ090VXVyemFkN1BGMVFUa2JVQ3lvdF9QOUE2V1R2YnRJRHhU?oc=5"
+        },
+        {
+          "outlet": "Cityairnews",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMXliRFZObnkzY2V6bXpTZ1RBRDZGUTlqTUNITmM2SUpVRmloNXZheEp0UF9nclpNdE9CZWlSTkU1UE1sNU1ablJFT2h3WS1GYUxNYTFLRUpULVEtQmJjT2paODFzT2lkYUpibkY2aXYwTEU4Y3BZNXFPU29uSTZMbnAzZloyYm5nOThWVVVkSjlFWVowakd0dWFjZDlWc2dOS3c3UVBrTTJ4Z2Z0dWVQcll3a3piZGg3RXlOa1R4M3JFbzA4NE9IRWN1SQ?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYllDRk1MRjhLR2RwVkFZYzZHcUhfaDB1bmpNWUE4LWdZQTF5R01wT3F2UExFRHJmbWZCaXhrM2dGZkZVXzlkVU96YVV0N1hmZEg2a1dhU0xWYThlSTV4QTFtSE1lRzd6T2N0Z1ZIdkNrR1Q2aGs4WjB0Z05OT29iN0RTZW5laDQ3aml3Q0dBczdrNUJLNllDMnlzOS1BMVlpeFFhZUoyU04zZDRhVFJpaGpqWUJiMkZsTlhsTnAxSGh6eFR1UzZhLXVPSlpUWnEzR3NmbGVLMkNLUHNPdVJ5bC1IX2J6ZWhTNm9LYTM2U1cyZUFQcUthU296bk5nZ9IBhAJBVV95cUxNY0ZySHJEczJSdExWbUNQZW1Tenc5ZE9lRjQ4eE9UVmUtUTNGZ2I1NS1OMXdjdUxXTWZqRVZ1SWo2cDRrbmxEQktrYmZsU2VRSmt2RGc3ejNtaVBxR0YwYmhhT1NmSW1MZzJaS0xldFhHWUxoNzV6aFZaeTM1NTdCS1BlaWlOX0s4ei1MbWdoN2s3ZHhwekR1d0xicHNWako5eWgzY1d0NDgyeFF1RS1MaFozYnZkb1hBNnZBcTZpU2ZkRkdxSVJGTW5tZ3hVaV9Nc25SU2pZelE0aFFpd19XSnhvWEljQ2g5a3pyRWVuYmROeHZyNUgyTzhTanZ4NFZzRC03NA?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar Cabinet approves ₹66.58 crore for DPR preparation for Buxar-Bhagalpur six-lane greenfield expressway. An economy-related story. Covered by 3 outlets, including The Times of India and Cityairnews.",
+      "image": "images/bihar-cabinet-approves-66-58-crore-for-dpr-preparation-for-b.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "pm-modi-to-inaugurate-nitish-setu-in-bihar-on-nov-21-says-sa",
+      "headline": "PM Modi to inaugurate 'Nitish Setu' in Bihar on Nov 21, says Samrat Choudhary - The Economic Times",
       "summary": "",
       "date": "2026-11-18",
       "topics": [
@@ -169,13 +174,45 @@
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNkZucG1CRUJ5clRQaUpIRHcwVzI3ZHZYM3hiaHk0NlNleS1EZFFoVWZELXNBNmUyWjljUHh6SGFZckRPM29CVWd2cXNBTFlFcUR1XzZfM2Z2clJHS2RvSU5Ya0Jsci1KRGltdHpWMjVUVkVpNFNFMHpEQ1J1a3ZUZS13dHYzNlU0dUpNTjZIZnpHWTJELTBHajZfWnBMV19mU3dDbWtGRHRQX0tvQm9QR203TDBrN0p4OUh5MDFqRnlDTUlvbEZTU2EyTDliRkkxUGxSZjdTS2pKSkpGbmRodmpKWWJwM21GVE8xSXpFZHR2WVBKVFozdGhvLWdiWFZ60gGGAkFVX3lxTE1ZQWFnQzBCUndWdXNJc1dWR2JVTE1aVDJINllpNGJCdFNrYjU1am5PVU52d0tTVWJGWTJaemNNdXpSNnlSRWZTejRJWUM3WlQ5SXM1a2cyZFNlWjRwRkY3R3ZGdWZMZUo0SC1DcnJMR1dFTkFmdG1TbzF6MlRkdFh3Wmw0VGlfNXh1SjNfWWphamEtZ1BsNjlJalJkX0NBcmxYZE5xd1NTNVRWTVYtcDQtcDdpVWxKQlU4aGVneEozdnhoYmxWUjZNYUQ0c2poUTVkYklZSGF0RE9EQ1VCcXhucmNITXdJcXlKbW53akE2bUFmOVdMM2toVFlDZnFVU2paSVBnNWc?oc=5"
+        },
+        {
+          "outlet": "The Economic Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeGRGcGlaQnlTQld4MTR4aWYtcEM2Z1FWa0N1YnIybXdadW02R2o3QjEzN1ZDZWJWb1hCYkJvdk1odlNSdGdVZzNCcUVjM0R4SUhqRWp3RFBXY2V1b0IzTTFNOU1Kc0hOenhITVY1M044ZlZxNkRScXFlYjdsQ2lyNnM2MmJhbG9DcDdQbjVONWVLMFlwb25MZ281QlFOMnpST0VwSm1rbDY4WW8yTWVoakZNWjB0dmR4cEF0MHRZVGpzVWk4MTRUVUR4QWhFdkFWMGFV0gHYAUFVX3lxTE5BTEdiRU00b0RlNzhkVFczb1BGNXpGV3ptUldwR2VqQ2dZb0pNQW5nYVRsYnoySEJYeVBXaEphX2M2U3lfQkN0STkySi1KRV81cm52a0xMRnRxMXJuU0ljdEplS2puMUxTV2hqQjctcWlWVUl0d2kzUG5tc055REdEV0E5TmJrR2pZZTNoUGtfZVNINGtqaXIxNTJYTk5kRmxUVlZWUDk4ZENFdkdFdDBFaXdVc1YyWmNaUnNTZUluYXlNNndBbUhFMXk5N01nd1VnWnZmVDZaRQ?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "PM Modi to inaugurate 'Nitish Setu' in Bihar on Nov 21, says Samrat Choudhary. A politics-related story. Covered by 3 outlets, including The Times of India and India Today.",
+      "image": "images/pm-modi-to-inaugurate-nitish-setu-in-bihar-on-nov-21-says-sa.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-govt-schools-to-offer-evening-classes-in-five-subjects",
+      "headline": "Patna govt schools to offer evening classes in five subjects - ET Education",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "ET Education",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXE3Vi1wcUFySlVXTzJNY1hXck1kVXNLRS05OVJsZ1NscnBVS3RFNnVlWmZmVG5OeUc1TXk4ZG8zcmtFSFA2aVRLb3l0WXRsN2x1Y2pyYWJENi1qM0dFTjZiMTNGamVycDlJLUl5Njk1MnVwWXlWajZ1UURvbVlpbGkyMHliQVlMWHdRM2RzUVg0SXVtTHZ6R3VFZFJ0eWxYYUJ5ak9ZYTFCWVc0WmI2a1VSTHFabTNyQ0xRMkJYUkRFWEpuZVB1ZEc3dWhtdHNtUmc4aNIB2gFBVV95cUxNb3VaV2Nibi1TdEtLTTJNMnpPM0tQWTh3MC1FdHI0R045ZkRmVFFSVXJzM0l5TDluaWN3ZW1ldHVBM1Vhb1Zld2ljeFVXd2Rzb2xMMC1YZ3VXenY2VllzeTNuQTZuZDNJZzh4ZjZlLTFUZEhZbE16UzdpU1B5TjRzbVBZdkdCV1NLTEo0N2JpU1BTSllsdkQwRmI4T1NJVjZ0RjROVDI0YjlmVEZNWFp0NlBlUjR0Y3QzY0ZCcGJuMDd3TEJlVTVXdF81X2pOZmRoZ1JpbUZvdVJfUQ?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVVCaHBsZnVWaHpVaERFWjBnbmxFYzJOdG93dzBIRzBQUlNfc3MtTkE4eDZmU0gzX0wyd18xVklLMUhoWUxzSFdTTHVFU04yc2RwUHNBeGRCSnVISnpCa21CZElxVnYyUzdRalh3SzRzdjk1bFJtTkMzQUxJQVRqcW0zeTVtcE8zYXh2QUhCVWRHdlg0b29KMk1sWkFIUTNQYmlXVHVOaUt5bk55ZjVrRXNpc1Jfenk3dU9hYXJLcmNmQk3SAcgBQVVfeXFMUFYya0kyQ3FhbWxZY1NqY2VKS2dTcmgzempEM05rcW8wUThNUTZWV0RJMWpIWVRpTW5yMGh4d3kzZk0tbUpVUjZodklfSmlYYjN2bE8yNkpyckNUd0xOZVdDMWJiMVprbjJmOWNjeHFkdE92eDZkRkRyWUczMzZpdVhZSGxfT3l0anh5cEljdkRyT3dmZHVJM0d5WjNOMWlVc3p2V1cyLV9YdFZuT2pCanh0dmRNYkdSUGlLMG1xdUdLUllma1BYOWc?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Nitish Setu: Bihar's six-lane Ganga bridge sparks credit war ahead of launch by PM. A politics-related story. Covered by The Times of India and India Today.",
-      "image": "images/nitish-setu-bihar-s-six-lane-ganga-bridge-sparks-credit-war-.jpg",
+      "brief": "Patna govt schools to offer evening classes in five subjects. An education-related story. Covered by ET Education and The Times of India.",
+      "image": "images/patna-govt-schools-to-offer-evening-classes-in-five-subjects.jpg",
       "image_kind": "photo"
     },
     {
@@ -234,8 +271,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "vaibhav-sooryavanshi-less-bihar-stun-delhi-in-smat-2026-matc",
-      "headline": "Vaibhav Sooryavanshi-Less Bihar Stun Delhi In SMAT 2026 Match Despite Yash Dhull's 125 - News18",
+      "id": "smat-yash-dhull-s-brilliant-125-goes-in-vain-as-bihar-shock-",
+      "headline": "SMAT: Yash Dhull's brilliant 125 goes in vain as Bihar shock Delhi - Rediff",
       "summary": "",
       "date": "2026-11-18",
       "topics": [
@@ -253,11 +290,6 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWtISFkyUFB0dzZMREJBTkFoc3RpenhJUEZkVkcxQnM4dUJxQ2l0QmFkdG43RjlfUTA1OGJrd180MVJPYlhlM1VkampQNzY4OXF0YlJPdTRGeHVESDNKcHllVVF6dEo0alF6VDBzSEwwUDZhMWdNQ1JrY2gzdU1vR3hNajVZM1VSOGFPbGFKUW1oUEJuYTRNdHVqQlhpQXNNRU5pdjB6UGhzMVp6a20yTWozcC15d9IBuAFBVV95cUxNZDIwT0p1Rk9KUXRFV09BZkxBa0xmVFdnUlJIakJXbEsyc0JidXkwLXF6aHdUdEtVUUhkaW92aXoza0NmbEMyUVdCcFNqSnVGdjJDRkNBUk8zRF9UMmVyZ05BMkl2MzVNU0JuMUF0elJWekFzSWZfcTRYVGRmWW1ZcktJeG5yY0c4RkQwa1pNLUdEYUxldnI2N0hUZDVSejdYdnlvbGY2YjQ3Z3dCN3Bnd3h4Q2FyMURT?oc=5"
         },
         {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeVoxaVJLQXhpbnhNLWNtcWh1b1dEZmFkMUFIZkR6VkJWVzU2V2tGOFEzRU0zYjBJTk9nUDB6cnNENVZ0RW05U29RSXlOSmtlQ1pQYVNObjl4LVM1YzhIZlVjb3hmU1pHVnpmTkZUZHBqS3BRX01uOWRnZGJnRXFYQzhEVzl0b0s0eXJlZUtLN2twdGhySXVDYk11cEtoVzUtNWNUUHRZZjFySXFfdm52QmV6dHViYkUyc2ZTcUo1RmI2ZVdtR1dPUVFDY19sN2FreTVhQnQ2U0tsX0Jid3o0cFE1d9IB6AFBVV95cUxPTWJoZDNRU3pfU0Q1VFI3WnBKVDVka0hpUmpsdXN5bkxndFE3TGE1WFZnYnAtS2VGMkhwQy1VcXd2UDVqWWdfcGp0OUp2Ry1oX3hodTgwSjVrVTU3YUFDRVBQb0o2aXlJbHdUdnFJa3ZGc2tsTmRmZS1rTHhkWVFMXzJ6Z0R2VW9CVjJJZXJ0ZHNpYnBETWFSd1ZGTjNsNnpyRzluTWxrVGluU3djNGEwc2Jvb2JRMmlLLTNReXZRWi14NkFBZmZpQ1ZFMC1PSURCTGgwbENoTUtJcU0xd3c2bV9lM0lxanNm?oc=5"
-        },
-        {
           "outlet": "Newsband",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkl5Wk5RYlIyNU0wTXhQWHZSMVFlZTJtZFhLZlBocmNSeEZlQlRLUDJMZ2xEQk5LTHBRdVVNcE83Rzd2aURxRzlkTFU5MnpTbjVkN21sa0lnWEtIR1Q2WlBYN2xfVHdldlRnQlFYY3BmeFdlajh0Rk4zRm11bHhQRGt5RU81YlNFc3gyUkpR?oc=5"
@@ -266,18 +298,13 @@
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVA0OFpuYTFwOUpaZGMtT1k0OEQ0dVZ6UlFyMXRaTm0tS1gwZDBCSUl6RTItdXJuWUNxekdwa1ZyY2U1MVYxMWIzOFlBMzJjdnNoZG9RZVA3SFdOdHN5WXRVQThNYjktdmpEMnlnNFk5Q0ZvMkhyc3U5RTdpNFowU21KWmhXNEktN0l2bXJrbVNhWENSd1pWTNIBngFBVV95cUxNcXdHVWtvSV9zaUJKUXM0dWcyZDZZZThrY0J3WVNvbm9Pa3ZUWS1GbDNQQmt4RDFtTjZaOGxqT19CSnRtRjgtZm5Vb252VGtTclBzZG13OVlHb0lFZTJtVnRXZV80MXdMQjJyN05HVUdxWU1ld2hMa0xzQkxwYWpWVkpscS15TkFCUE9JR250UVpMa2RhU2lqaVVUV2tOZw?oc=5"
-        },
-        {
-          "outlet": "Sportstar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOE9uUzg1SzltdnpXSnBiY2VjalVRZ3k2ZjhnSFZqVF9BcmJJbTVvUjRKS09HQlhKWmRPZkJ1aWZWWkh3b1lHYWJteW1XSExOUFh2eG1MZVhpNHJGUDNMVlZDMjA3dHhwM2J1a3lqZ3pacTVfdXF5T3lSTldHMHRXWmlNOF9VQnUydm1WajlaWXpXel9HVGo0WnVZTVhkTWllajJxTy10T3JrLTZzUDR2d0pmWGzSAbsBQVVfeXFMTzFPbWdMUDlveEdiV0pUSG12WjJDMDQyRzJpMFBkZFpUdFU4NTFJZzJ0bzZDTWVXc2VESGhSTjJXSmVDLUk5NzNrV3BXOVJta0ZfcmhvTkxXbl83S0FHWFY5MnlMVndLOW1VelFhTWFSZzdZNVBTZzEtWldYMTBndHRiWEFzYTdWelZHbktVOWFHWmpWZlA1MzNFZTFVNE5NUXR5azg0SU9Vby1nOGxRdEJQYW5Gb1ZrQ2M4cw?oc=5"
         }
       ],
-      "source_count": 6,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Vaibhav Sooryavanshi-Less Bihar Stun Delhi In SMAT 2026 Match Despite Yash Dhull's 125 - News18. Covered by 6 outlets, including Cricbuzz and Rediff.",
-      "image": "images/vaibhav-sooryavanshi-less-bihar-stun-delhi-in-smat-2026-matc.jpg",
+      "brief": "SMAT: Yash Dhull's brilliant 125 goes in vain as Bihar shock Delhi. Covered by 4 outlets, including Cricbuzz and Rediff.",
+      "image": "images/smat-yash-dhull-s-brilliant-125-goes-in-vain-as-bihar-shock-.jpg",
       "image_kind": "photo"
     },
     {
@@ -301,14 +328,14 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGpwZXB5d1ZuYy1XX2RHN0pyVFo3SW5wbXNFXzlKb0RPU2VDWG5RM1k1UzVHUV9uUEhibllMM0pGQlVOYUtqOEVvbHk1dTBxTmN5OEJibi1uMWdpLU1uSlRpWFFLd2txYVJMRkY2dDQyWTRLOUl3NWI4QVlzMnBWcEZReEczRGtGOWF0ZVhHOV9rcGhHc0wtR0VXdUk5dlhVRm9sYzZZTS1OZEN4WW03ZC1NRXljNm5uSWfSAccBQVVfeXFMTzJZcGJBSlJLcUttdjdBMXd3U2JDSGlYeGFRS1hCdE1qdFhSVXlCZ2RJazd5WnY2T2xCaTRUOUo0WGYwMm5JblFkdFhRNHgydTU5YmFtYXh4SE9hRlJWaWE4VTZTWkJqcWJRemowaUxJOElFS1RkcUViX3hWLThJOV8tbHFXNFRNc0QzU01XUEtNR3NMYkM5UHBrejlkZmlaVzc4OFRxcEM2N1UzbGJtMG1NaGtyUW9KTm5Ga1l5RHk3eGdlV1lLOA?oc=5"
         },
         {
-          "outlet": "The Week",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPam5UQlhrVHhlTDYwM3pKdlhtOWtJeTVQVU9pQVhSZ1EtLTh5blJPaVR3ZHJYeWJodGtPR1R6cEktQldkRGVXMVQyUlpJLTFubW5jUFE3NG4zNkhPU25DMHREVEctOG43Zk9BTS1XdlI3VWlkUmE4djEwVWZMdUdsSEp0R0E3aVZCdzRsMGF6NnhOcGk4dmJEcHl0MmMwQmZhOW9STXBtQXpaT2p0QmJILUdkdFFHaEtVRDZCdFJ3ZzZhOFlqcnI1OFlJbzd5VHRZejh1S0V6T0czWUZnRm4tMmJR0gHnAUFVX3lxTFA1Y3I2bHFwOHlmZ0FIMUpuZW5JMjhKbkdYT3lLeU9fbnR5U1FfVWtaNWtmcHI2Q1lLU1ZWVFZrbS1GNDVLS2ZOcWlLSjV5V0VCWkh5VDE4bGR0SzVnUmpMNFF1ODFUS2hFT0o0T2kxUURoemx3Uy1sd3FXRVI3VjFmbDJwZDc3TzRCc3VReFd0emRGY0x1RVV4NUdVTEhtcWVLaWpPa1RlaGR2STlReWMwS0FsVGtnS1JyTGxhTUVlSWQ5V0JVSllINThvTjY3T1I5WTdYTFZQaDREbW9NaFhPdWh6MkRhVQ?oc=5"
-        },
-        {
           "outlet": "Inshorts",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3g5c3piWmt3Wl8yS0k1NC05ODc5a0JWcHB1dzFOcGFxMTd0dG9LeC1LVE1EWXVWSGVxcjhkcWhaOUdhcnlLVE9IYzR5RTB2aE9mQ2ctRnpxS2M3eG1MZHNqcEx2TW0xOUE3R2JTYUdOQVVIZFp1YWtrb3V6WXpwQmRBOTlBc3dUS29xNkFkUWEwUXNNZUlnZGw1OGlMN0prVXdveFVSNGw3VENhWmRWZko2d242a1k2dHfSAb8BQVVfeXFMT2l0MUxQM0xPRUdHUWpYUG9MRXR0UnhJX3pidzVGa21ESmhaRTVEWVJOR1pRcE10VUtTc1NsMVh3WDlMbXR5NW1iYnFtU1JLT2ZORUs3bWxwV0RlUy11YnZwNUN4ZzBIN0dOdlFWU205bE1HT3dxdDNNaGMwckN5ejg3aHA1aWZxTjdVa2M0WmtYSFlpam1SUmY3Vi1SQjh5WXJPOEREX1JMNWhibEtCakpMb0I5OGJLbGZlUTJqaVE?oc=5"
+        },
+        {
+          "outlet": "The Week",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPam5UQlhrVHhlTDYwM3pKdlhtOWtJeTVQVU9pQVhSZ1EtLTh5blJPaVR3ZHJYeWJodGtPR1R6cEktQldkRGVXMVQyUlpJLTFubW5jUFE3NG4zNkhPU25DMHREVEctOG43Zk9BTS1XdlI3VWlkUmE4djEwVWZMdUdsSEp0R0E3aVZCdzRsMGF6NnhOcGk4dmJEcHl0MmMwQmZhOW9STXBtQXpaT2p0QmJILUdkdFFHaEtVRDZCdFJ3ZzZhOFlqcnI1OFlJbzd5VHRZejh1S0V6T0czWUZnRm4tMmJR0gHnAUFVX3lxTFA1Y3I2bHFwOHlmZ0FIMUpuZW5JMjhKbkdYT3lLeU9fbnR5U1FfVWtaNWtmcHI2Q1lLU1ZWVFZrbS1GNDVLS2ZOcWlLSjV5V0VCWkh5VDE4bGR0SzVnUmpMNFF1ODFUS2hFT0o0T2kxUURoemx3Uy1sd3FXRVI3VjFmbDJwZDc3TzRCc3VReFd0emRGY0x1RVV4NUdVTEhtcWVLaWpPa1RlaGR2STlReWMwS0FsVGtnS1JyTGxhTUVlSWQ5V0JVSllINThvTjY3T1I5WTdYTFZQaDREbW9NaFhPdWh6MkRhVQ?oc=5"
         }
       ],
       "source_count": 4,
@@ -347,6 +374,34 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-cm-inspects-nitish-setu-bridge-ahead-of-prime-minister",
+      "headline": "Bihar CM inspects 'Nitish Setu' bridge ahead of Prime Minister Narendra Modi's November visit - ANI News",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "politics",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDV1djBhbjJHQV9URGV2SDFQVTVlZVZGMXRWLTlhNS1LUDBxelVzNTJ0aC04dHItUEZyNGROTTI5VllQQkFsdnZ2Z2lwOHh5TW9pTkZuTTctTGJfUzNTeHNNbmpwTi1DRktrVXRZZjU4TU1HbnZlMUxOZGZab3FJUWt0Vk5mRHd4M2VLM2hrTzJLMV9CdVJ4bFhvRFRlYTR3NWNqd3ZjUHFqTTZMMTB2blBYV195ZFRBRV9qTGpEODZ4eTBhMFHSAcsBQVVfeXFMUGxHdEZDdmFXcW1ZVGZSWlhIaGxTdmo1dmk4aTlkcFd2YXpJT3lyWGhKdHR0UEIzN0tjLXRfak4wVWtHVHBhbmJsMUE5VE1yLWg0RGk0WEFMc1gtMlQ3RnZndTVleERoZFludG13ZHowajhveUl2cHE2SXZpbExMX01ZdU0zMFh0WFJmTG9aM0ltaWJMZWVuaWRCSFJOUGpWY20tbGhoQWg0U0k4dW5Nbm1DUThTeU9RaE5jQkY1RmFhZWU3MXhsclJydFk?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQelUwbmliQ2E4ZHpDYnFwSElxbmxjNWJEOVF1UHVNc3JUanBjQUUtQnZjNjZFUDFleDVzSWFVbF84VkVRdUZKbTJmUm1JSWtjTkt2bkgxOGZiRmN1MkVkVlBjTXgtU3RpRS1LSjE0TlZOZDJjaHA4aXg3WmJQUXQ4SGxPaW01RnFJQmJHRFhXN3B6dnJ3STk0TGVmSFFKWHlJc1AzUGVaR3JqNUd2aTdKQXdnYVNMSlJMa3VlcktjVWNPSUUxMVFaS0Z0bHAxVDMtcVQxLWVrQ2hJM2FDOE1OdURHVHJ5YnNhVVRzYWVB?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar CM inspects 'Nitish Setu' bridge ahead of Prime Minister Narendra Modi's November visit. A politics-related story. Covered by Asianet Newsable and ANI News.",
+      "image": "images/bihar-cm-inspects-nitish-setu-bridge-ahead-of-prime-minister.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "thar-for-horse-race-winner-at-bihar-mla-anant-singh-s-daught",
       "headline": "Thar For Horse Race Winner At Bihar MLA Anant Singh's Daughter's Wedding - Cobrapost",
       "summary": "",
@@ -371,33 +426,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Thar For Horse Race Winner At Bihar MLA Anant Singh's Daughter's Wedding. A politics-related story. Covered by NDTV and Cobrapost.",
       "image": "images/thar-for-horse-race-winner-at-bihar-mla-anant-singh-s-daught.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "journalists-manhandled-at-bihar-congress-office-after-kanhai",
-      "headline": "Journalists manhandled at Bihar Congress office after Kanhaiya Kumar skips press meet - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-18",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSGE2UFo5c2ttTXRENXJ4cmxzU19HYkxRWkJzcVpkN2FmaGpoUkhTX0FsdnNWenp1Skc5cWhLVWdtWFduZk1Ha0gxR2pWdndvWDNoODFOYWJkeTkwRlNGVEJGd0NZWnM5b0pfMU4wbEdGR0dqSUZ4d2FQWDZLS012Y1BYdFBVTG1CT1BOYnVBTEY3RDU0dnIxNk9WNFJzb0FVRmctYmFJTVQwOVY4b2NsRjBNQ09RZWx0VDU4bW1Lc3VlZlktT1BZdFlHWHEwc2YtalJuWjd5eklaOE3SAegBQVVfeXFMTWVwQ1B4QmZHRFBIVTQ3RFh6el8tbDIxSlhkZlRueElwUlI0ZFdSN045dUhmdDhwNTNraVpydVJzV1ljSjlqTzhScnNYZkZ3b3NtOERJWC14U3BxQXdxZVFOZ1c4R2R4MlRBRU02b1djdlJ4SUJsN0NxNTFZX01lQ1NFaThoSk9DaXZKdFJ0T19hVDh3NXdiUFlIZGY5azRWdHJFYlBvbUpPVnc3OUpHaHA2R2VIeGtfVWxQTE9Ga1VpT2N4VE1wdnBUTE1UMm1nelktQW40UW5oTmZReF9HeXZjSElOb0w5TA?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1lmMXBRb2JMZjk2SU0wZ2NaSElnT19jcldQQktDSnNfdmNtWjkyRHVGM2Flemg3ZWlYU0tSRndxVlA3M0t1OVdUaTU1dkNnT0JSQnEyaHJ4ZTlPY01meUY5Tkhpd09VQ1NLX2tsU3ZramxhaktnRkI3R2d6cXh1M0pPMjRQdUpvLWVkUWVVbEJuY05fcW9FdVpuM0RMUGZmZ1daaFdSZmM4MFYydEZQUmpkbDd3RDB3WnJtdW1kSHHSAcYBQVVfeXFMTlkxems4VUVHWlozV0JZVkV3bFhyejNhYmlnOTZNN08yZW04STRrT21MdExMOU01N3NKN0JNcUxmd0kwNDVIdDVZMnpjdGVFWE5UQUlRa0ltVXY3OHNuLXd3RmlfbTg1eVRRTW9YOHBLMUJiT2NOZkxOSlN1WkJKczFwZVZidVV6dzNRVTdfSEpQX2RZNVI4MmZkWkJoczBYU19sZ2FuZXdEQXU3cU1Xd190SUVLUTROX21XanctelN4Z1dDdzd3?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Journalists manhandled at Bihar Congress office after Kanhaiya Kumar skips press meet. A politics-related story. Covered by The New Indian Express and ThePrint.",
-      "image": "images/journalists-manhandled-at-bihar-congress-office-after-kanhai.jpg",
       "image_kind": "photo"
     },
     {
@@ -429,6 +457,65 @@
       "image_kind": "photo"
     },
     {
+      "id": "journalists-manhandled-at-bihar-congress-office-after-kanhai",
+      "headline": "Journalists manhandled at Bihar Congress office after Kanhaiya Kumar skips press meet - The New Indian Express",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1lmMXBRb2JMZjk2SU0wZ2NaSElnT19jcldQQktDSnNfdmNtWjkyRHVGM2Flemg3ZWlYU0tSRndxVlA3M0t1OVdUaTU1dkNnT0JSQnEyaHJ4ZTlPY01meUY5Tkhpd09VQ1NLX2tsU3ZramxhaktnRkI3R2d6cXh1M0pPMjRQdUpvLWVkUWVVbEJuY05fcW9FdVpuM0RMUGZmZ1daaFdSZmM4MFYydEZQUmpkbDd3RDB3WnJtdW1kSHHSAcYBQVVfeXFMTlkxems4VUVHWlozV0JZVkV3bFhyejNhYmlnOTZNN08yZW04STRrT21MdExMOU01N3NKN0JNcUxmd0kwNDVIdDVZMnpjdGVFWE5UQUlRa0ltVXY3OHNuLXd3RmlfbTg1eVRRTW9YOHBLMUJiT2NOZkxOSlN1WkJKczFwZVZidVV6dzNRVTdfSEpQX2RZNVI4MmZkWkJoczBYU19sZ2FuZXdEQXU3cU1Xd190SUVLUTROX21XanctelN4Z1dDdzd3?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSGE2UFo5c2ttTXRENXJ4cmxzU19HYkxRWkJzcVpkN2FmaGpoUkhTX0FsdnNWenp1Skc5cWhLVWdtWFduZk1Ha0gxR2pWdndvWDNoODFOYWJkeTkwRlNGVEJGd0NZWnM5b0pfMU4wbEdGR0dqSUZ4d2FQWDZLS012Y1BYdFBVTG1CT1BOYnVBTEY3RDU0dnIxNk9WNFJzb0FVRmctYmFJTVQwOVY4b2NsRjBNQ09RZWx0VDU4bW1Lc3VlZlktT1BZdFlHWHEwc2YtalJuWjd5eklaOE3SAegBQVVfeXFMTWVwQ1B4QmZHRFBIVTQ3RFh6el8tbDIxSlhkZlRueElwUlI0ZFdSN045dUhmdDhwNTNraVpydVJzV1ljSjlqTzhScnNYZkZ3b3NtOERJWC14U3BxQXdxZVFOZ1c4R2R4MlRBRU02b1djdlJ4SUJsN0NxNTFZX01lQ1NFaThoSk9DaXZKdFJ0T19hVDh3NXdiUFlIZGY5azRWdHJFYlBvbUpPVnc3OUpHaHA2R2VIeGtfVWxQTE9Ga1VpT2N4VE1wdnBUTE1UMm1nelktQW40UW5oTmZReF9HeXZjSElOb0w5TA?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Journalists manhandled at Bihar Congress office after Kanhaiya Kumar skips press meet. A politics-related story. Covered by ThePrint and The New Indian Express.",
+      "image": "images/journalists-manhandled-at-bihar-congress-office-after-kanhai.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-librarian-slet-admit-card-2026-out-at-sletregistration",
+      "headline": "Bihar Librarian SLET Admit Card 2026 Out at sletregistration.cbrt.co.in, पुस्तकालय अध्यक्ष पात्रता हॉल टिकट डाउनलोड करें - Adda247",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "PW",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDlMUGNPelpQWnh1SVAxSTdIZ2VhNGJDc3h6RFdNTEExTS1JbkRGX2N2YThDTFoyWnhwak1TWG15ZG13dmZQUFlHd0kxSFBQNWdNclFtMVBJRDYzT2RrbTBfaG90cmY1NldPY1hOUF92Y3h2UmE2UVYtRDMwMS1yd00zNA?oc=5"
+        },
+        {
+          "outlet": "Jagran Josh",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVN5dmFibk0yTGZYeDl5Q0pkX0lFMWNXaTkybmtLeGlWejFyVTh1Vk1lZGFYQlgxZXZWcW1GalVUSEVybDV3SWNSc28zMTZTYzAxakZXd1lFZ0ZkYVdIUmFlZXFEVXlDb3pnQ0NkQ0ZCWDRUSGVBSUJnUllUXzA0RV8wREpXelB6dGNBZnZyZmlSNVRsQ3drSHIyMjNSZ25nM3ExeENYTnJfQmZXWEhlREZDOEQxQzQ3SldqdXlpMEltdmhUSmZNTTF6N1AyNzFpUDZDX0I5ZmxEQm5pWjhwNEtHVU9DLU5L0gHvAUFVX3lxTFBFQmJuWEtLZmlGdG9fbnlMWWRDdTJmc3pOV0QzaF8wMjBqZno1bHh0b3hLZnJkaXI2ZDVES3JzbDBjU2xvUjkta01XNEIxRkVkTnBjcndKd054Uk16ZFVndmNtUFliRHFTampLcFZ5bVluWGp4cVVkcmM5ZlhrQ3FUQ21HdldYSE5BX1lVb1dEOWpnTjFDWXdENWFxeTVUaGpOSnBBWXM5SlJDNWJqT2ppd1dzNE9ON05fcWMyMzBUZ2NJVlhRZUVBdUJYOEFnVm9pNlBtM0RkbjI4akwwbUJ1TTJWMDFZSER1MmR0cXFn?oc=5"
+        },
+        {
+          "outlet": "Adda247",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlS280aEl4S3F0X2xuaUhjMmtzcWtHVFVHY0Znc1ZqQXM5YVRUQ2xqd2c5Z1gtUG1RNjFDczdOTHphb3N6QlM1Y0NIWEhHUEM1c1RIVGhVV2ZCWWw5TlhseXY4LUtvU0x4RzFSbFdKcXJwdWo2QnI4VG82d2d1dw?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar Librarian SLET Admit Card 2026 Out at sletregistration.cbrt.co.in, पुस्तकालय अध्यक्ष पात्रता हॉल टिकट डाउनलोड करें - Adda247। शिक्षा से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें PW और Jagran Josh शामिल हैं।",
+      "image": "images/bihar-librarian-slet-admit-card-2026-out-at-sletregistration.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "three-killed-one-injured-in-tractor-autorickshaw-collision-i",
       "headline": "Three killed, one injured in tractor-autorickshaw collision in Bihar’s Katihar - ThePrint",
       "summary": "",
@@ -438,76 +525,21 @@
       ],
       "sources": [
         {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnNzemc2UDVOTjduR0ZFSllfVkREOHBUSldIQnJra0xfUE5MaTJzUVhidThlTkk4ZXBCYkI0VWxwR1Z3VVYxWHpGd0g2cFF6Uy0wTGpsbmg5LXBrbGpBWExtcFZhcUJyNXk4OVp4V3lxaS15SzBxTjk1Q0FFa1JWWkFmSE85dmNpMnAwQUtyUXg1WnRYMTBJTDYzREpkZWlmYWxsZ0k3b3ZBNlF4QzNOSdIBtgFBVV95cUxQQmlteVd1QVMtVTBxQWxrdHl2dXQzMXYzbXRZaEhzQXRuaGtQWUtvblBoRDBXY2tGQ2ZOMHpUak83OU9BeXdVV1BQMmU0cFkzUzhWQnlpbUdmRzJ1ajBDdmREMlQzRW9uVElzd3NtNm53WnRUMjUyUkpOSldrQVRMOWVJUUlGMmMxa19QR2ItY3NQdF9Od2JNTGxTdjB4VXRQQUJ0di05Y0FEQzJ2X1NhQ3hhX3pLdw?oc=5"
-        },
-        {
           "outlet": "The Avenue Mail",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXNWakdaZHZUYXlJaWFleVhhVGxtWV9uaF8zLUFGd3RKVUM0SHoyZzE5cGppMmEzdFRvV3YzRlRJTmhETE1XX3Q0M0VQaTZ1aWF5S2dPT2tZQUFSMlVvS0ViZnNFbWpEZ1hWSlA0WVpMNlNZc2tWTXd2bnlxd08yZmV1bm5qcnc?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnNzemc2UDVOTjduR0ZFSllfVkREOHBUSldIQnJra0xfUE5MaTJzUVhidThlTkk4ZXBCYkI0VWxwR1Z3VVYxWHpGd0g2cFF6Uy0wTGpsbmg5LXBrbGpBWExtcFZhcUJyNXk4OVp4V3lxaS15SzBxTjk1Q0FFa1JWWkFmSE85dmNpMnAwQUtyUXg1WnRYMTBJTDYzREpkZWlmYWxsZ0k3b3ZBNlF4QzNOSdIBtgFBVV95cUxQQmlteVd1QVMtVTBxQWxrdHl2dXQzMXYzbXRZaEhzQXRuaGtQWUtvblBoRDBXY2tGQ2ZOMHpUak83OU9BeXdVV1BQMmU0cFkzUzhWQnlpbUdmRzJ1ajBDdmREMlQzRW9uVElzd3NtNm53WnRUMjUyUkpOSldrQVRMOWVJUUlGMmMxa19QR2ItY3NQdF9Od2JNTGxTdjB4VXRQQUJ0di05Y0FEQzJ2X1NhQ3hhX3pLdw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Three killed, one injured in tractor-autorickshaw collision in Bihar’s Katihar. Covered by ThePrint and The Avenue Mail.",
+      "brief": "Three killed, one injured in tractor-autorickshaw collision in Bihar’s Katihar. Covered by The Avenue Mail and ThePrint.",
       "image": "images/three-killed-one-injured-in-tractor-autorickshaw-collision-i.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "adani-energy-to-develop-power-transmission-network-for-bihar",
-      "headline": "Adani Energy to develop power transmission network for Bihar's Pirpainti plant - ET EnergyWorld",
-      "summary": "",
-      "date": "2026-11-18",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "BusinessLine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZWd2eWptZHIwOHRFZlNkb1FqaTVlMlRueGp0VDlxcWlPNF9qVFVmd192R3Z6c0R1cmUtZDJmdy14QWlUY3VXVlNvVWFaMy1OWFBQV2h0TTU2c2hVV0RGbVEzUzRtREV2TTFxNnFhczJpY2RGYU1qZ3J1cURNN2o3NUU1UWpZWnhXX0dYRWdpX2Zxc3VJZVJCVjFLdVFiVGVXZ3ZOeFdTelpqcERvdV9HdEc5czNKcXpTYzY1ZVVpLUFGZF80SEZUOUExTkFYbTZHdmRoZ2hBOWdyNHJ20gHjAUFVX3lxTE15aE5CWHVfS3FnU2Y2eEJ4TzlENUI3MW1uOThWS2gzUzdDYmxjMllZSEd0X0hnbmpVWG9NZXY3S1M5NERGRmliZFRMd250TWE5ak5RdDgtVi1odXNXNjRPc2JkRVFXanlqZlowWjByemdmQVFXTm9hcXl2a05mYjBvenRNV3lHYlgwNWp2Vko1RkFYZm9MRDFRa3FiZmcyYmYzVVlwcGJnUjg4OWtlLUdtbTQxU05CQUdudEppaFlyRHdYaFA3ZUlCOWJ3djlrOTIwSzl3U0FsYTllamFsNGd0cGIw?oc=5"
-        },
-        {
-          "outlet": "ET EnergyWorld",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVU1Jemd2M2VxMVRSbDd0U3V6bThYUEdzTl96ZGd0RWoxakFNeW9zcGNnOXZzYVR4ZUxrU3BUaGVJUmxIbDdUNG5UeHBlUlV6ZzdjRl9pSUJreGd6cFhOOFExVDZxUzY2ejl4UEZieUZYbDFjS1JwTDlmX3BRUDhVVGVLT0Itc3J4Q3p1XzNCWWp2M0k5dFNxMXg2UERjV01fcjR1VGJOOXZBVDhjTi1HOXNUTHBJbmQ3cmdyVUJJbW96RlZzMktJOVQ1TUZoX29KY3FDZ1RJU1RkUdIB3wFBVV95cUxNLXREcDVVcWRQNVNVRHFuUHAyVTg3WWpBRy1FenlWaFBCak8xR29QanNRSWlrYTk4R1huZGlLNHBnd3B5U2tuZTdMbVdReExFVzBlbEIzMzdzUkFHMFdBOFBGZWU5dm56Smg5WmU2RkxEN3NoZ2xJek9leTFZcTNOWDIwZm9zWUJNOWtVLXkwVVRlWWx1US0teUphbzEyc1kyUmJ6bTAwaldWdEhpNzg3RHVWYzJUeUk0aE5NSjFmYm90b3p0NjhKd0p5b0NrdDA0bHlMMG9zZW43OTYyQjBR?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Adani Energy to develop power transmission network for Bihar's Pirpainti plant. Covered by BusinessLine and ET EnergyWorld.",
-      "image": "images/adani-energy-to-develop-power-transmission-network-for-bihar.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "bihar-cm-inspects-nitish-setu-bridge-ahead-of-prime-minister",
-      "headline": "Bihar CM inspects 'Nitish Setu' bridge ahead of Prime Minister Narendra Modi's November visit - ANI News",
-      "summary": "",
-      "date": "2026-11-18",
-      "topics": [
-        "politics",
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDV1djBhbjJHQV9URGV2SDFQVTVlZVZGMXRWLTlhNS1LUDBxelVzNTJ0aC04dHItUEZyNGROTTI5VllQQkFsdnZ2Z2lwOHh5TW9pTkZuTTctTGJfUzNTeHNNbmpwTi1DRktrVXRZZjU4TU1HbnZlMUxOZGZab3FJUWt0Vk5mRHd4M2VLM2hrTzJLMV9CdVJ4bFhvRFRlYTR3NWNqd3ZjUHFqTTZMMTB2blBYV195ZFRBRV9qTGpEODZ4eTBhMFHSAcsBQVVfeXFMUGxHdEZDdmFXcW1ZVGZSWlhIaGxTdmo1dmk4aTlkcFd2YXpJT3lyWGhKdHR0UEIzN0tjLXRfak4wVWtHVHBhbmJsMUE5VE1yLWg0RGk0WEFMc1gtMlQ3RnZndTVleERoZFludG13ZHowajhveUl2cHE2SXZpbExMX01ZdU0zMFh0WFJmTG9aM0ltaWJMZWVuaWRCSFJOUGpWY20tbGhoQWg0U0k4dW5Nbm1DUThTeU9RaE5jQkY1RmFhZWU3MXhsclJydFk?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQelUwbmliQ2E4ZHpDYnFwSElxbmxjNWJEOVF1UHVNc3JUanBjQUUtQnZjNjZFUDFleDVzSWFVbF84VkVRdUZKbTJmUm1JSWtjTkt2bkgxOGZiRmN1MkVkVlBjTXgtU3RpRS1LSjE0TlZOZDJjaHA4aXg3WmJQUXQ4SGxPaW01RnFJQmJHRFhXN3B6dnJ3STk0TGVmSFFKWHlJc1AzUGVaR3JqNUd2aTdKQXdnYVNMSlJMa3VlcktjVWNPSUUxMVFaS0Z0bHAxVDMtcVQxLWVrQ2hJM2FDOE1OdURHVHJ5YnNhVVRzYWVB?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar CM inspects 'Nitish Setu' bridge ahead of Prime Minister Narendra Modi's November visit. A politics-related story. Covered by Asianet Newsable and ANI News.",
-      "image": "images/bihar-cm-inspects-nitish-setu-bridge-ahead-of-prime-minister.jpg",
       "image_kind": "photo"
     },
     {
@@ -703,15 +735,20 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRzc3aTAzVDFxbXF6b0QxcGVKZmY2U0QzeF9fX09UaWMtNUVSSnJ0djZaeUVuZjI0dS1La1ZSNHR3eDJ5dVRzZ1FpLXN0TVNYVjFuZWNOMU9PeG1QR0x0WG9NMHFsXzdUUmpMNzkwcVhvRWs1U0x0UnNvU0w4cTc4UDM4QmlGVGd1Q0QwUTV0WkszdDl5?oc=5"
         },
         {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSTJKVWgzRjZJeVBtbzlpTGhXek8teDYzOEptQzJnQzRGVDM1OTZjUTJuN29QZDN6Ml9OWXVrWjNYczI1VUNTeTRkbnl1VmdUY0JrdUlPclJzQTFxTGNzMEhuRmlyZzZ0c1lwZkRBN3Yya2JmdGVsS2JvQWhjcUdpQkluOXlUX2tMUlVQWnNjQzJQa1RKWnVreU1zMXIzTjVqSDhYVlAya3hzOEZ3RFhnYlFjd2M4LWJQMDJ1Z25Lb0ZaLUdBS1g5S3hIeVVmT3ZIUzVYWTRpNEpYdEtv?oc=5"
+        },
+        {
           "outlet": "Daily Excelsior",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Thousands of devotees offer ‘Arghya’ to rising sun on final day of Chhath in Patna. An economy-related story. Covered by 3 outlets, including The Hindu and tennews.in.",
+      "brief": "Thousands of devotees offer ‘Arghya’ to rising sun on final day of Chhath in Patna. An economy-related story. Covered by 4 outlets, including The Hindu and tennews.in.",
       "image": "images/thousands-of-devotees-offer-arghya-to-rising-sun-on-final-da.jpg",
       "image_kind": "photo"
     },
