@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18 01:54 UTC",
-  "generated_at_ist": "18 Nov 2026, 07:24 AM IST",
+  "generated_at": "2026-11-18 02:55 UTC",
+  "generated_at_ist": "18 Nov 2026, 08:25 AM IST",
   "story_count": 48,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -30,6 +30,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Nitish Setu naming sparks political row in Bihar ahead of PM Modi’s November 21 inauguration. A politics-related story. Covered by The New Indian Express and The Indian Express.",
       "image": "images/nitish-setu-naming-sparks-political-row-in-bihar-ahead-of-pm.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "navbharat-times",
+      "headline": "पटना एयरपोर्ट के पास लेजर लाइट या खुले में मांस-मछली दिखी तो खैर नहीं, जान लीजिए बड़े ऑर्डर के बारे में - Navbharat Times",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGsxOVM4dnExVmNNckgyYjBFcFlTZnhnSXZzS3U0SzhfbnhnMWk0NDh4SUl0WjY5Sm9yM2g5RnlPcTdQUmU0d3NvX0w3OU9kRUVscTREQ19HNWNpQThxcndpcFlTYmJPUGg3eGFLRUFCY0xzVktDSTlFaVNSdnFWNGF6TEgxUzZEOFQtbGNxZ0JlS1o3Y255RnZhOG9wMkRzRG84Rk4yUWo3U1JZYnNVX1JR?oc=5"
+        },
+        {
+          "outlet": "Navbharat Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQWFWT1VvODR3aXhWUk1MRTgzYkVycGs1d1BmWERGMEM1VlYwMG13ZTFET2psa3ctbFc0YVh5VXNyenExQkFORHhNQ084OEpvNTVLaHNUSkhuU3RWNkJvUkY1ak9pMDdMWk9tSkhacEFKR2dJcmFrSHRwTk9QQi1oQm5RUjhySmZLZ29lVy1ieEppZGUzNC13cm0tME13Y1RjRDB3Umhxb3dJc0VQUmZqbWVzOWxvLW9MMjZqcWo5VEtFQ1k1YmptX1dlU3FCeEs0aExvQmhMUklkeVE3YVBuUdIB5gFBVV95cUxPVDhla2RQZVJKa0NJZUxLd2NkYW16b2NfTC1GcnBMOHNNRFZ2emtJejhrcWdNa0JIOWlFVHhwUnoyX2RLQUVfMmx2MDh3aXFkR3ZaamExdG5PMmJ6WVdzelo1RFFrQ1Y1NktoWEJnblprNTZDZ3AzcHVtbVAwMWs3aGM4UFZRNHRtQzJJR2k4aGN5VVd2Q1diOWNMY0NUSmtQbnpVQW96N0lCUjBKdklqRkFKR1ZRZmVRSWkxeG5JcmNmZzdrMUZDbkJsYk5JUnZnSUJudVI1ZTVPY3NUMnBQRDNaOXFMQQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना एयरपोर्ट के पास लेजर लाइट या खुले में मांस-मछली दिखी तो खैर नहीं, जान लीजिए बड़े ऑर्डर के बारे में। इसे Jagran और Navbharat Times ने रिपोर्ट किया है।",
+      "image": "images/navbharat-times.jpg",
       "image_kind": "photo"
     },
     {
@@ -282,60 +309,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "600-2-7-aajtak",
-      "headline": "पटना में उच्च शिक्षा मंत्री संजय टाइगर के घर बड़ी चोरी, 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले उड़े चोर - AajTak",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEp1M0NUbmF5RDk5YkMtZnlXSElHTFJiTkhJeHRzYm1jSHhiLWJRcDNFSk42RG9PV1dEczBPQ241aTdsdl9LY3NhaUEyb0ZCZUlyRmNjREVMV2NRQzRNR2pCbU1IZndxM1Q3eUQxY1JmMlVCT2lTN0ZVcE91NXZ0N2ZXRGt3Y01pa01oNjBLeDVwVzFvdkVSTTNUdnh3cWUtall1UmVwRmNqR2tlRWsxTHhSR045UURNVVJCanJpeU1wZHN5VkhSMFJiOUNpV0llWVHSAdcBQVVfeXFMTXI1bFVCbmJJRWFfaUhpRnU1ZWQ3UEc3QU5NNWZKMHhFM1BXTGNXV0JtN3Z6akoxc2ZZOUk4clZ6cF9jS2RlTXlUM2NSc3pEZ3YyazFrLXd6N3hMU2N0bHpOeEUyVDByRXlwdkhrX2xNZUtoa0dLQW1FaGlHcDM4eHVnYkk0c2R0OGwwdnVMT3lTWEJXTDNsRkRtODN3Q01FRHF6REc5eGZUNkRpenU0UVVhS2dpaklmNmhTT2tpZjE4T0hwNW1OYldZWjNLM3hyUW8yUUhFOUE?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc19tNDFFbFE5ZmQybnZIZTM0OERhbHdYcHlNMFFxQWk4UGhfOVVNWHM0WkotTDd6d1RwVGpvZVk2WVM2ZHJBRTNhZ3VMSV9GekRWckNXRmZWaC11U0pRZFpDeF92dy1NVXVVSjYyMGhOZjFtS284VUF1UEg1cXNQamJHZGlVT19CU3J0dTZPRk01LVJ3ODZfaWk1dl9JeTcwWVpSZ3l1OEJnbW9hY0lHaVRiUUdwamhYNWNaM0dwbGp5TVk?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में उच्च शिक्षा मंत्री संजय टाइगर के घर बड़ी चोरी, 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले उड़े चोर। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/600-2-7-aajtak.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "iit-5-dainik-bhaskar",
-      "headline": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी - Dainik Bhaskar",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGlkUWRwNl9wMk9YSnZOUUNmT19sSUg3M19kSldHVUVDaEdzQUxZUEk0dmJiU3Y5Q2FBWk1XZXRMUWwyM0dQTE1iZk9QYW9JZVZUcC02bGIwMHRkMGprVWpGMGtfU3FMT3VFcmRkTzJReVc3b0t1WFBSRjBYc0libGd2RWRWUHZnaFg0UGJIS0lrUDZxdFFwaTRKVTh0cXZsN0YydUZVeDloVFZvVUpQd1o1ZXh5WVluYnpPdGJETUZJX3RJRVc0WmdERFNBcFBBRmc?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNjJDYkdOMjFwZnNIUkxtZHJ2MllWaGZWeW9HSmlNVU84Z0pnQ1FHcFY5Uzhvd3hOTkU0dDJadm5wWUE1YUpkbnB0OXVveTJDQklKMWtiQm1Ya3BhZ2NwNWlodWE0ZHNCYlR3MzlXNG4zV3hfVENiYkFVVWJlSm50eWREa2ZHUERMTWNPTWNqV2o5ZG92cklhZUh5aUxIRGhFVG8wZUZZWTJWRUNRQ3FySVNIMjZIZ3c1ZmptU2wxdGNaNkdWQy00bG91NUtWUmxOcVHSAdcBQVVfeXFMTW5rWG1IeWhLRlJCNDBrd3lLUjhselVjOVQ4RGhRWEJqbndMclU5ZjhwMUlQczhEV0pVal9VRHhMODkyeDNuT2JOTG9PaUFhdEZtZ3pSMlJYQUlZaGQtVWFWZWVsbGxKeFYxN0RxRUJIV0NQYXpQQThYTmZqT1pudkRtZmEzSzdOSHI0cmMwZTNDRjRmUXdsZE5HNUtEN21saFJ6X251Q2JMV3d6am9sa05rV1FaWk1RMmFCNl9mci1UajBrRUJxM3I3Z00zN2pleEg5VjZLc1U?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "IIT पटना में भारत-श्रीलंका कार्यशाला शुरू: 5 दिन तक भू-स्थानिक तकनीक से शहरी विकास, पर्यावरण पर चर्चा होगी। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/iit-5-dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "prabhat-khabar",
       "headline": "पटना के मसौढ़ी में छठ के बाद तारेगना स्टेशन पर यात्रियों की भारी भीड़, भभुआ-पटना इंटरसिटी में चढ़ने से वंचित रहे सैकड़ों लोग - Prabhat Khabar",
       "summary": "",
@@ -380,6 +353,33 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना के मसौढ़ी में छठ के बाद तारेगना स्टेशन पर यात्रियों की भारी भीड़, भभुआ-पटना इंटरसिटी में चढ़ने से वंचित रहे सैकड़ों लोग। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "600-2-7-aajtak",
+      "headline": "पटना में उच्च शिक्षा मंत्री संजय टाइगर के घर बड़ी चोरी, 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले उड़े चोर - AajTak",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEp1M0NUbmF5RDk5YkMtZnlXSElHTFJiTkhJeHRzYm1jSHhiLWJRcDNFSk42RG9PV1dEczBPQ241aTdsdl9LY3NhaUEyb0ZCZUlyRmNjREVMV2NRQzRNR2pCbU1IZndxM1Q3eUQxY1JmMlVCT2lTN0ZVcE91NXZ0N2ZXRGt3Y01pa01oNjBLeDVwVzFvdkVSTTNUdnh3cWUtall1UmVwRmNqR2tlRWsxTHhSR045UURNVVJCanJpeU1wZHN5VkhSMFJiOUNpV0llWVHSAdcBQVVfeXFMTXI1bFVCbmJJRWFfaUhpRnU1ZWQ3UEc3QU5NNWZKMHhFM1BXTGNXV0JtN3Z6akoxc2ZZOUk4clZ6cF9jS2RlTXlUM2NSc3pEZ3YyazFrLXd6N3hMU2N0bHpOeEUyVDByRXlwdkhrX2xNZUtoa0dLQW1FaGlHcDM4eHVnYkk0c2R0OGwwdnVMT3lTWEJXTDNsRkRtODN3Q01FRHF6REc5eGZUNkRpenU0UVVhS2dpaklmNmhTT2tpZjE4T0hwNW1OYldZWjNLM3hyUW8yUUhFOUE?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc19tNDFFbFE5ZmQybnZIZTM0OERhbHdYcHlNMFFxQWk4UGhfOVVNWHM0WkotTDd6d1RwVGpvZVk2WVM2ZHJBRTNhZ3VMSV9GekRWckNXRmZWaC11U0pRZFpDeF92dy1NVXVVSjYyMGhOZjFtS284VUF1UEg1cXNQamJHZGlVT19CU3J0dTZPRk01LVJ3ODZfaWk1dl9JeTcwWVpSZ3l1OEJnbW9hY0lHaVRiUUdwamhYNWNaM0dwbGp5TVk?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में उच्च शिक्षा मंत्री संजय टाइगर के घर बड़ी चोरी, 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले उड़े चोर। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/600-2-7-aajtak.jpg",
       "image_kind": "photo"
     },
     {
@@ -449,14 +449,14 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2V5ZlBrZFc3RUdQM245UTh2UjB1TlNJMlI1cWJfWVptZ05Qb1ZEYjktb0wwRkYzSnI2Qy1XWExfUnpuV2pZY2g3TFQtMmJnUTVIX1ZDd3RHTTNsYVo1Y3EyU0JSc1VabGxEMTUxdXI5QnlsT3BlQll3YkhuWHFTbVJxZWloV19ka1g1Y1FBVHA5cG1BeU51ZGVhV2t3T2U3WS1Z0gGoAUFVX3lxTE9FWTFjTi1sVmVYU0lLOVJkR19aNGQzR0FJZ08wY0VUWmxlTjFWN2ZuN1J4VlViVkZOWkpGWUE1dWxDWjRwZFlZNTZiNm5takp1RnFQdWVSaUJJWjFPeW5yb3VMVGM4VElPZHpsM3ZzSllVbUJKMDFYTXJ6MzNaVm80bk94ZWhWODFKT2g3bV9wYXdSVDMyMC1SdG5OTmlVZmN0cWZhMDFkTg?oc=5"
         },
         {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
-        },
-        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnkyN05vTXlSQ3VUcWlJeXhZS25jTHEyZEFsWko0Yld1SUFuSE9yRmY2a0FnYkFRUmx6WnJ4RDNUSWh6NUhwOThJUkN1QkdFQW9lY1ktSlJzelZJQjdxSnF4cWxPel9sT1lZNkxaa1JobUlfQ3lNNTNpMHF6NV9GbWo2aUplMjhSdlVCRVRtQUVieTEwd1RHM0NPVFJsV3VlZGI0eVg4MlpHMi1rSmRQWUt1eDBESy0wRV8wRzlReXU?oc=5"
+        },
+        {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
         }
       ],
       "source_count": 8,
