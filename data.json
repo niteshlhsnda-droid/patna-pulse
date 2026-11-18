@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18 02:55 UTC",
-  "generated_at_ist": "18 Nov 2026, 08:25 AM IST",
+  "generated_at": "2026-11-18 03:55 UTC",
+  "generated_at_ist": "18 Nov 2026, 09:25 AM IST",
   "story_count": 48,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -57,6 +57,38 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना एयरपोर्ट के पास लेजर लाइट या खुले में मांस-मछली दिखी तो खैर नहीं, जान लीजिए बड़े ऑर्डर के बारे में। इसे Jagran और Navbharat Times ने रिपोर्ट किया है।",
       "image": "images/navbharat-times.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "4-4-prabhat-khabar",
+      "headline": "पटना में छठ के बीच 4 दिन में 4 करोड़ की चोरी, गहने-रुपये लेकर भागे चोर, मंत्री से रिटायर्ड शिक्षक तक के घर खंगाले - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "AajTak",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEp1M0NUbmF5RDk5YkMtZnlXSElHTFJiTkhJeHRzYm1jSHhiLWJRcDNFSk42RG9PV1dEczBPQ241aTdsdl9LY3NhaUEyb0ZCZUlyRmNjREVMV2NRQzRNR2pCbU1IZndxM1Q3eUQxY1JmMlVCT2lTN0ZVcE91NXZ0N2ZXRGt3Y01pa01oNjBLeDVwVzFvdkVSTTNUdnh3cWUtall1UmVwRmNqR2tlRWsxTHhSR045UURNVVJCanJpeU1wZHN5VkhSMFJiOUNpV0llWVHSAdcBQVVfeXFMTXI1bFVCbmJJRWFfaUhpRnU1ZWQ3UEc3QU5NNWZKMHhFM1BXTGNXV0JtN3Z6akoxc2ZZOUk4clZ6cF9jS2RlTXlUM2NSc3pEZ3YyazFrLXd6N3hMU2N0bHpOeEUyVDByRXlwdkhrX2xNZUtoa0dLQW1FaGlHcDM4eHVnYkk0c2R0OGwwdnVMT3lTWEJXTDNsRkRtODN3Q01FRHF6REc5eGZUNkRpenU0UVVhS2dpaklmNmhTT2tpZjE4T0hwNW1OYldZWjNLM3hyUW8yUUhFOUE?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc19tNDFFbFE5ZmQybnZIZTM0OERhbHdYcHlNMFFxQWk4UGhfOVVNWHM0WkotTDd6d1RwVGpvZVk2WVM2ZHJBRTNhZ3VMSV9GekRWckNXRmZWaC11U0pRZFpDeF92dy1NVXVVSjYyMGhOZjFtS284VUF1UEg1cXNQamJHZGlVT19CU3J0dTZPRk01LVJ3ODZfaWk1dl9JeTcwWVpSZ3l1OEJnbW9hY0lHaVRiUUdwamhYNWNaM0dwbGp5TVk?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUpTVFUtbkFiRXhKb1NNQ3pSd1ZSY0V3ejRVWnFMMjZWM1o1TUhQeDJmME52NFotWFJlVGF0d3pEeWZJOVFSVmpaeUtXSjFnYWNwVk95Vi1IUnNib05VNXQyVkgxVlNvTGh2ZmxKZlFIdTNBWDZhdTFIVXFVT0ljRnZtYTlzV012eDlBZDY0bTJER0ozaE9FMmVsbHRkZ3phWm9lRkpaanU2OVRpalo2RlBoZlpWR3dobG85d1pIRG9KN0ZFSnV0ZDdGa3JMUGtORkRjUGNDajQ?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना में छठ के बीच 4 दिन में 4 करोड़ की चोरी, गहने-रुपये लेकर भागे चोर, मंत्री से रिटायर्ड शिक्षक तक के घर खंगाले। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/4-4-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
     {
@@ -217,14 +249,14 @@
       ],
       "sources": [
         {
-          "outlet": "Adda247",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlS280aEl4S3F0X2xuaUhjMmtzcWtHVFVHY0Znc1ZqQXM5YVRUQ2xqd2c5Z1gtUG1RNjFDczdOTHphb3N6QlM1Y0NIWEhHUEM1c1RIVGhVV2ZCWWw5TlhseXY4LUtvU0x4RzFSbFdKcXJwdWo2QnI4VG82d2d1dw?oc=5"
-        },
-        {
           "outlet": "Jagran Josh",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVN5dmFibk0yTGZYeDl5Q0pkX0lFMWNXaTkybmtLeGlWejFyVTh1Vk1lZGFYQlgxZXZWcW1GalVUSEVybDV3SWNSc28zMTZTYzAxakZXd1lFZ0ZkYVdIUmFlZXFEVXlDb3pnQ0NkQ0ZCWDRUSGVBSUJnUllUXzA0RV8wREpXelB6dGNBZnZyZmlSNVRsQ3drSHIyMjNSZ25nM3ExeENYTnJfQmZXWEhlREZDOEQxQzQ3SldqdXlpMEltdmhUSmZNTTF6N1AyNzFpUDZDX0I5ZmxEQm5pWjhwNEtHVU9DLU5L0gHvAUFVX3lxTFBFQmJuWEtLZmlGdG9fbnlMWWRDdTJmc3pOV0QzaF8wMjBqZno1bHh0b3hLZnJkaXI2ZDVES3JzbDBjU2xvUjkta01XNEIxRkVkTnBjcndKd054Uk16ZFVndmNtUFliRHFTampLcFZ5bVluWGp4cVVkcmM5ZlhrQ3FUQ21HdldYSE5BX1lVb1dEOWpnTjFDWXdENWFxeTVUaGpOSnBBWXM5SlJDNWJqT2ppd1dzNE9ON05fcWMyMzBUZ2NJVlhRZUVBdUJYOEFnVm9pNlBtM0RkbjI4akwwbUJ1TTJWMDFZSER1MmR0cXFn?oc=5"
+        },
+        {
+          "outlet": "Adda247",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlS280aEl4S3F0X2xuaUhjMmtzcWtHVFVHY0Znc1ZqQXM5YVRUQ2xqd2c5Z1gtUG1RNjFDczdOTHphb3N6QlM1Y0NIWEhHUEM1c1RIVGhVV2ZCWWw5TlhseXY4LUtvU0x4RzFSbFdKcXJwdWo2QnI4VG82d2d1dw?oc=5"
         },
         {
           "outlet": "India Today",
@@ -250,8 +282,36 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक। शिक्षा से जुड़ी ख़बर। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Adda247 और Jagran Josh शामिल हैं।",
+      "brief": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक। शिक्षा से जुड़ी ख़बर। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran Josh और Adda247 शामिल हैं।",
       "image": "images/bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "unregistered-hospital-owner-aides-beat-man-to-death-in-bihar",
+      "headline": "Unregistered hospital owner, aides beat man to death in Bihar for protesting poor care; 2 held | Hindustan Times - Hindustan Times",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "politics",
+        "health"
+      ],
+      "sources": [
+        {
+          "outlet": "Daily Pioneer",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbE9uekRNeGlDMjFwYmQzaWVMM1VmXzE2WmtzUS1IZUNsdXMtOWx1Y0VUcWpTSk83TE1wSVQ3VzJuX0RoLVNuZzl4aEE3RWpGRzFNUW1uWjBjM1FLR1lkY185Wng2aG5qQzlYX2REdmFSemUyOC1NTVhkV19BZnktSWRLcGdVY2UtWHQzMVEzTzBtM3d2MERIZnEwR2NLeTdIemfSAa8BQVVfeXFMT2QtQXFrOVh5X1p3WHpDcEtfYmk2YnBpSVRtOVpVSmNSUm5mdzJONzJwRDlodTJzaFJZQWhGWUpRaVFIU2V5cEduSU9fMmdUSzAzR1dMLXEyZ1didHBPYjlRSWxWNTZNQTg5TUx4c0FsQmk5ZVpmYjYyR0RzMzdSZWtaeDU4VDhfMlBDLXhjTzd4RC05QTF0b201TUxnelBZMG1DMUNzUFBWT2tSQnVJSQ?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSGlWZDlyQjA2Y3NVZlB1ckpTRjQyQm8tZEJ0TzhwLUhUS3JJaEJDZElwbnBKaDZ6Y0NKZ3BHNUNYNUNvMXZVNUFGbFFTZjJmSkplQ05ac2xsOTB4d3c1TXhjaGhxNzVtNEUwdS1ZUG8tWW5Eb3hfYTNQOGpKLUNsUW9tcWtlOVB2WE90RnpJUkl6N2hUS2NXRklheWRXUkNpSC12V2JNRjBIVF9BN3NYZFE1TzJIRWhHeHpzMXRhRER2NUI2cy1JdmJjbER0UDh2Z29nX0JlN1NSd2R5NnZ5REJrRVk2SlQtNE5zVGR5b9IB9AFBVV95cUxPdmVCYTBvRTU1MThQZFd6YzB6a3FFc2pNNEZoSUk0a2FwSmFKVF9NX1BiSGM1VVEtU3E1X1dVMmtHaUI3LW11RDdiNngwZkRMTERLbDNDNTl6YTl6Y0lEa1NPbTFlZ3lWUzR3SU9aeGtaMmx4M0x6d2ZYZ2VpVlhJWWQ3NkIwRkNlaEsxNjJtaTZqZnBqcE9rNEV4aVlVYWxBcWhMa0N1OVhPREVtTDYxOTVpUnkyalk2bjVBNjVIMkUxRmxpZk9WZVdOV0dreERZNDYwbjFqTTRyTkJRT084akwwd0JkMHp5OXJpR0VOTFdjSi1h?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Unregistered hospital owner, aides beat man to death in Bihar for protesting poor care; 2 held. A politics-related story. Covered by Daily Pioneer and Hindustan Times.",
+      "image": "images/unregistered-hospital-owner-aides-beat-man-to-death-in-bihar.jpg",
       "image_kind": "photo"
     },
     {
@@ -356,33 +416,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "600-2-7-aajtak",
-      "headline": "पटना में उच्च शिक्षा मंत्री संजय टाइगर के घर बड़ी चोरी, 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले उड़े चोर - AajTak",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEp1M0NUbmF5RDk5YkMtZnlXSElHTFJiTkhJeHRzYm1jSHhiLWJRcDNFSk42RG9PV1dEczBPQ241aTdsdl9LY3NhaUEyb0ZCZUlyRmNjREVMV2NRQzRNR2pCbU1IZndxM1Q3eUQxY1JmMlVCT2lTN0ZVcE91NXZ0N2ZXRGt3Y01pa01oNjBLeDVwVzFvdkVSTTNUdnh3cWUtall1UmVwRmNqR2tlRWsxTHhSR045UURNVVJCanJpeU1wZHN5VkhSMFJiOUNpV0llWVHSAdcBQVVfeXFMTXI1bFVCbmJJRWFfaUhpRnU1ZWQ3UEc3QU5NNWZKMHhFM1BXTGNXV0JtN3Z6akoxc2ZZOUk4clZ6cF9jS2RlTXlUM2NSc3pEZ3YyazFrLXd6N3hMU2N0bHpOeEUyVDByRXlwdkhrX2xNZUtoa0dLQW1FaGlHcDM4eHVnYkk0c2R0OGwwdnVMT3lTWEJXTDNsRkRtODN3Q01FRHF6REc5eGZUNkRpenU0UVVhS2dpaklmNmhTT2tpZjE4T0hwNW1OYldZWjNLM3hyUW8yUUhFOUE?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc19tNDFFbFE5ZmQybnZIZTM0OERhbHdYcHlNMFFxQWk4UGhfOVVNWHM0WkotTDd6d1RwVGpvZVk2WVM2ZHJBRTNhZ3VMSV9GekRWckNXRmZWaC11U0pRZFpDeF92dy1NVXVVSjYyMGhOZjFtS284VUF1UEg1cXNQamJHZGlVT19CU3J0dTZPRk01LVJ3ODZfaWk1dl9JeTcwWVpSZ3l1OEJnbW9hY0lHaVRiUUdwamhYNWNaM0dwbGp5TVk?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में उच्च शिक्षा मंत्री संजय टाइगर के घर बड़ी चोरी, 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले उड़े चोर। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/600-2-7-aajtak.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "5-1-4-41-prabhat-khabar",
       "headline": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में - Prabhat Khabar",
       "summary": "",
@@ -452,17 +485,12 @@
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnkyN05vTXlSQ3VUcWlJeXhZS25jTHEyZEFsWko0Yld1SUFuSE9yRmY2a0FnYkFRUmx6WnJ4RDNUSWh6NUhwOThJUkN1QkdFQW9lY1ktSlJzelZJQjdxSnF4cWxPel9sT1lZNkxaa1JobUlfQ3lNNTNpMHF6NV9GbWo2aUplMjhSdlVCRVRtQUVieTEwd1RHM0NPVFJsV3VlZGI0eVg4MlpHMi1rSmRQWUt1eDBESy0wRV8wRzlReXU?oc=5"
-        },
-        {
-          "outlet": "Daily Excelsior",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
         }
       ],
-      "source_count": 8,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar CM Samrat Chaudhary offers morning arghya to rising Sun on final day of Chhath Puja. An economy-related story. Covered by 8 outlets, including The Hindu and Rediff.",
+      "brief": "Bihar CM Samrat Chaudhary offers morning arghya to rising Sun on final day of Chhath Puja. An economy-related story. Covered by 7 outlets, including The Hindu and Rediff.",
       "image": "images/bihar-cm-samrat-chaudhary-offers-morning-arghya-to-rising-su.jpg",
       "image_kind": "photo"
     },
@@ -491,33 +519,6 @@
       "genuineness_label": "Corroborated",
       "brief": "PM Modi, BJP leaders extend birthday wishes to Bihar CM Samrat Choudhary. A politics-related story. Covered by NDTV and DD News.",
       "image": "images/pm-modi-bjp-leaders-extend-birthday-wishes-to-bihar-cm-samra.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-four-year-old-girl-dies-after-alleged-assault-by-mothe",
-      "headline": "Bihar: Four-year-old girl dies after alleged assault by mother over Chhath Puja prasad - Daily Pioneer",
-      "summary": "",
-      "date": "2026-11-16",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0MtTm1pYjlZMXBXcE5XZVZMakROZVBac1FlaWR0OExuRTMxTUt5dnJMY2hReG5tZGFKSDZKWHVSanhrQUNNeGlFb21IbXl5V05EX1o2ZjVwME5HWWd6OGdxQU83ZXp6MGJUMldSYWN4RmpzRHpiZTJYdmx4ekUyQ19lT0RBbWpqcExNcGxhT1NHb2xFTXR1QTM3Vkk5Ty1KRlNLNmUyX24wSEROTVQ4RHIwX1dtRXdBUVY00gHDAUFVX3lxTE5HaHpieWtUSGVsRFJxMGYwRUlDQkoxWVluZ2VXaGpac250Rmt4bE9ET3p1VkthRjlvZk01N1RhRmhYMlJLRFRfeEVlSU40UWVRVE95SERFYUI0ZG5VUWNpbzRxTmFNbHJKVWhoTWE3T1F2aWlERmM1M21RQnJuWHRXTFczTUFUOGpqZXJTeWM3Y2diQmFJM19JNXphckRZcjNhUVBSSVZzQ0ZmOE1Pb2NycG8xOVJqQmRBX0VrVXAwcTZOOA?oc=5"
-        },
-        {
-          "outlet": "Daily Pioneer",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdzRuY0RsTDVBblIzZGpUZUNaQlpFS1VDOHkzZ3B4RzU3RV9GcVZTcTNnUDFPTDVaaFJXZFZFbWhEZlNIUDIxdnIxRWcwd2g5eUotTXhvN1BwNnNVY2Zsa1RLQVIyekVVRjlpVU1oTkgtZXUtQWJGRmFSVG91NXp6VEYxVHZwQmJoMHM3Q2ljNNIBnAFBVV95cUxQckhSWENYY0RSbnhRN3p3WGo3M0Z4a2hyaVF1X2szLWxfZ0pDWEtGeF84bUR6VmN1VnpJYlNNblBfbGthMTdja09LTzdjUENwMlFHYkFLSEp3aVQ5d3FKY0d1MkpqTVMyVlJUZVVGYmRDaWU2T2pSeXdOd2lCbnp4b2NXRzZLakVDWGhMYmlCV1RmYUs5elgxS0g5Tnk?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar: Four-year-old girl dies after alleged assault by mother over Chhath Puja prasad. A crime-related story. Covered by NDTV and Daily Pioneer.",
-      "image": "images/bihar-four-year-old-girl-dies-after-alleged-assault-by-mothe.jpg",
       "image_kind": "photo"
     },
     {
