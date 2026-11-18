@@ -1,9 +1,36 @@
 {
-  "generated_at": "2026-11-18 12:55 UTC",
-  "generated_at_ist": "18 Nov 2026, 06:25 PM IST",
-  "story_count": 54,
+  "generated_at": "2026-11-18 13:54 UTC",
+  "generated_at_ist": "18 Nov 2026, 07:24 PM IST",
+  "story_count": 56,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "patna-govt-schools-to-offer-evening-classes-in-five-subjects",
+      "headline": "Patna govt schools to offer evening classes in five subjects - ET Education",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "ET Education",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXE3Vi1wcUFySlVXTzJNY1hXck1kVXNLRS05OVJsZ1NscnBVS3RFNnVlWmZmVG5OeUc1TXk4ZG8zcmtFSFA2aVRLb3l0WXRsN2x1Y2pyYWJENi1qM0dFTjZiMTNGamVycDlJLUl5Njk1MnVwWXlWajZ1UURvbVlpbGkyMHliQVlMWHdRM2RzUVg0SXVtTHZ6R3VFZFJ0eWxYYUJ5ak9ZYTFCWVc0WmI2a1VSTHFabTNyQ0xRMkJYUkRFWEpuZVB1ZEc3dWhtdHNtUmc4aNIB2gFBVV95cUxNb3VaV2Nibi1TdEtLTTJNMnpPM0tQWTh3MC1FdHI0R045ZkRmVFFSVXJzM0l5TDluaWN3ZW1ldHVBM1Vhb1Zld2ljeFVXd2Rzb2xMMC1YZ3VXenY2VllzeTNuQTZuZDNJZzh4ZjZlLTFUZEhZbE16UzdpU1B5TjRzbVBZdkdCV1NLTEo0N2JpU1BTSllsdkQwRmI4T1NJVjZ0RjROVDI0YjlmVEZNWFp0NlBlUjR0Y3QzY0ZCcGJuMDd3TEJlVTVXdF81X2pOZmRoZ1JpbUZvdVJfUQ?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVVCaHBsZnVWaHpVaERFWjBnbmxFYzJOdG93dzBIRzBQUlNfc3MtTkE4eDZmU0gzX0wyd18xVklLMUhoWUxzSFdTTHVFU04yc2RwUHNBeGRCSnVISnpCa21CZElxVnYyUzdRalh3SzRzdjk1bFJtTkMzQUxJQVRqcW0zeTVtcE8zYXh2QUhCVWRHdlg0b29KMk1sWkFIUTNQYmlXVHVOaUt5bk55ZjVrRXNpc1Jfenk3dU9hYXJLcmNmQk3SAcgBQVVfeXFMUFYya0kyQ3FhbWxZY1NqY2VKS2dTcmgzempEM05rcW8wUThNUTZWV0RJMWpIWVRpTW5yMGh4d3kzZk0tbUpVUjZodklfSmlYYjN2bE8yNkpyckNUd0xOZVdDMWJiMVprbjJmOWNjeHFkdE92eDZkRkRyWUczMzZpdVhZSGxfT3l0anh5cEljdkRyT3dmZHVJM0d5WjNOMWlVc3p2V1cyLV9YdFZuT2pCanh0dmRNYkdSUGlLMG1xdUdLUllma1BYOWc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna govt schools to offer evening classes in five subjects. An education-related story. Covered by ET Education and The Times of India.",
+      "image": "images/patna-govt-schools-to-offer-evening-classes-in-five-subjects.jpg",
+      "image_kind": "photo"
+    },
     {
       "id": "why-not-call-it-lalu-bridge-pm-modi-to-inaugurate-bihar-s-ni",
       "headline": "'Why Not Call It Lalu Bridge': PM Modi To Inaugurate Bihar's 'Nitish Setu' Amid Naming Row - News18",
@@ -48,33 +75,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "patna-govt-schools-to-offer-evening-classes-in-five-subjects",
-      "headline": "Patna govt schools to offer evening classes in five subjects - ET Education",
-      "summary": "",
-      "date": "2026-11-18",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Education",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXE3Vi1wcUFySlVXTzJNY1hXck1kVXNLRS05OVJsZ1NscnBVS3RFNnVlWmZmVG5OeUc1TXk4ZG8zcmtFSFA2aVRLb3l0WXRsN2x1Y2pyYWJENi1qM0dFTjZiMTNGamVycDlJLUl5Njk1MnVwWXlWajZ1UURvbVlpbGkyMHliQVlMWHdRM2RzUVg0SXVtTHZ6R3VFZFJ0eWxYYUJ5ak9ZYTFCWVc0WmI2a1VSTHFabTNyQ0xRMkJYUkRFWEpuZVB1ZEc3dWhtdHNtUmc4aNIB2gFBVV95cUxNb3VaV2Nibi1TdEtLTTJNMnpPM0tQWTh3MC1FdHI0R045ZkRmVFFSVXJzM0l5TDluaWN3ZW1ldHVBM1Vhb1Zld2ljeFVXd2Rzb2xMMC1YZ3VXenY2VllzeTNuQTZuZDNJZzh4ZjZlLTFUZEhZbE16UzdpU1B5TjRzbVBZdkdCV1NLTEo0N2JpU1BTSllsdkQwRmI4T1NJVjZ0RjROVDI0YjlmVEZNWFp0NlBlUjR0Y3QzY0ZCcGJuMDd3TEJlVTVXdF81X2pOZmRoZ1JpbUZvdVJfUQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVVCaHBsZnVWaHpVaERFWjBnbmxFYzJOdG93dzBIRzBQUlNfc3MtTkE4eDZmU0gzX0wyd18xVklLMUhoWUxzSFdTTHVFU04yc2RwUHNBeGRCSnVISnpCa21CZElxVnYyUzdRalh3SzRzdjk1bFJtTkMzQUxJQVRqcW0zeTVtcE8zYXh2QUhCVWRHdlg0b29KMk1sWkFIUTNQYmlXVHVOaUt5bk55ZjVrRXNpc1Jfenk3dU9hYXJLcmNmQk3SAcgBQVVfeXFMUFYya0kyQ3FhbWxZY1NqY2VKS2dTcmgzempEM05rcW8wUThNUTZWV0RJMWpIWVRpTW5yMGh4d3kzZk0tbUpVUjZodklfSmlYYjN2bE8yNkpyckNUd0xOZVdDMWJiMVprbjJmOWNjeHFkdE92eDZkRkRyWUczMzZpdVhZSGxfT3l0anh5cEljdkRyT3dmZHVJM0d5WjNOMWlVc3p2V1cyLV9YdFZuT2pCanh0dmRNYkdSUGlLMG1xdUdLUllma1BYOWc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna govt schools to offer evening classes in five subjects. An education-related story. Covered by ET Education and The Times of India.",
-      "image": "images/patna-govt-schools-to-offer-evening-classes-in-five-subjects.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-woman-dies-family-alleges-murder-lights-her-pyre-in-fr",
       "headline": "Bihar woman dies, family alleges murder, lights her pyre in front of in-laws' house - India Today",
       "summary": "",
@@ -99,7 +99,54 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar woman dies, family alleges murder, lights her pyre in front of in-laws' house. A crime-related story. Covered by The Times of India and India Today.",
       "image": "images/bihar-woman-dies-family-alleges-murder-lights-her-pyre-in-fr.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-minister-ashok-choudhary-faces-disqualification-threat",
+      "headline": "Bihar Minister Ashok Choudhary faces disqualification threat due to his assistant professor post - The New Indian Express",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONHRVVDZjODd3enZNbWhEMU1ianFJcjVla3Ftb1BkT3l5TXhqQjJjRTZQMXlTTElOTnU1Wk9JZWxfYnFCMGUtaWxuU19QNWNUdTVIdXZMb1FMWDRSTWRSaFRENUVHZnNqWWsyd0xjWVc3OERSZFpnS2ZFWEhOaDF2VE5WNV9jNWpXUTRIbGViaDJ6NVROZVRpd3p5blNhaTFmbUthWHN3VXVLbTlBbGZld2pweEp4UkxiQ0dET3hNMWd0SFhDR0c5Z05GbHFIaDhzUE1HVkl0dmN2T0gwQVB1Y9IB7gFBVV95cUxQM0ZLQzR1NkxqTGUzM3hCbGlWbFdlUVVUbm5BbGtCZkNOV1h6UW5vbURGV2thbDFETXdQTV9DdUpnWmotSktDQmhTTXdRQmlKSTZLUDJ2dFo5Zks3a0hjZFFLcWZtUWJvLW9pOWM0Sko3dEgtdkp2UGYtX2ZUMGtGWS1tOFhFbGwzb0d1QjNpbTJmSWk2SENZdHhlZ2I5anFfOHJHckV2Y2tjYzgwVWVnV29YNnk1ZndOTGpLcHR5b1NSMVNCVHh0ZWRPTzRCUlhKNjNUY2xGZEw4c0RKcjBPUnhKMzA3MFY4d1I2OFdR?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVpMa2M3cG1CZTV5N2pWU2dTRmg5cGlFUklRWGlKLWtkWHJUTEVrRExCRldMRXVtVkRtYV9hZGZXNXdBVXp6Q2lVX2kwd24zdDdpNmhsX1kyV3pUbHJVb2VEYl9zV3pFSW5GZUV3bzh1T3FpZHBOVVNxOFI3Nkw5ZEJtRHQ0RDVFZ0RQV3VSM2V5N3V1MjVZV2NZWEM1VXp6cUNLbjJPcUo2YWVTaW0wQUt6QV9UcG1zTmxwdHpXWnNYc0hrNEdlN3Z0QVVyZUxVbEHSAd8BQVVfeXFMT0Z0bWlBWktSVXdhbHRGNzBqY3ZVS2F1STczMmp5ZkduS3JSZjlrNXZFQXdrdnFVSmlITk9xQ1ZvNWpVYTJ2ZlhrSkVzNGFDZjlMTGFwX1NLWVg4MUtmdGg1THV5X3A5bTNYeWM3ekh0d1BQRFR5RmdfZV8xeGNwS3BPeFo3Nk9tdm1zWDNyLUlRcy1qcmcxeFBiSkhvR1lOMW1jUmYxbWZqUWEwS0NfR21xUFF4dHNxdWllTzUxR2VMUkIxa3EzVDRWWjA4OGd1UW5RbWpKZU9jcFN5NXdLWQ?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0dXMjZFTi1EaDQ3N2hRdlJlcXE3VkRZbE5FTUN3VWx3RW42RmF4WURsSmUyMDFrOTJxa2laeDNzaHl2dDc3NVpyTHZSc1Z5NEF1bVZfQzhoVk4wRnVLeVdSZ3YzVHhQWmV4dFNXLXZNOFZGYWRHYnNyV2pGZWc1WTJSOHdLeVB0Znc2SEg0azhJN0dnRVhFZmxCNDZram42S1N6UkhkMkdBbnJRVkMwZklkc3Brd3BvZ0lXclhiTdIBxAFBVV95cUxQTWk2Mm1JajN5bnBGS2h6ZUdWT3hwbnd1dnUzdmpuTDJqakIwMHpFWlBDXzdMZlBWMHdLRVNjWXpZaG01TlpLaWNMbW53dFczblNEcFBaYmJaakdaNWIyOE1XZzhkVExMUkd3TmtpV2tzbmNEZ18wMW84bzVkY2NROUtKMk15czF0UjN3bldFRU5kVFdab3ZxVWZsTEtOR2c4Q0FOR2hDMHpqc2h5SkxiQTI5MGlRZWxwVFI1Z0dHMDEtLWdi?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUm1EOEJtRWEyR05CeUZRc1dfM1ZJR2FPY3hLaW9QLWVCa0VmeWRDVjM2NHJZS3hCX3dKUWxnaFVMakVCQWNlZVlObU5wM0k4R09DbUJjMkszaUl1NWRzMmFiSXlmTnBvV2pYNXhodVpndXNaWDRSRF84cGNoVkFYVkZRM1g0WE8ydTh1X1lfTUxEdHBfcFJFRU9mbjhIR1ZLeEdlMWhXYWxRekN3YWFLcGhlZ194M1Fk0gG-AUFVX3lxTE5VWDhQWjFXRDV2V0NSNHRsQmpCSkpBZWQ5Y2tfQjYzREJiS0hrbEpTY21hMllBazF5b2M5cWoweHFvNDgtTG10Yk1UQlNieEQ5aHhJV1ZhdGs2SE1XTGVPZk5ocXA4bXQ5N2tuQ3hNdEJ4X3NjWnBSSkN1VmVWTnVoTUs5SzJXVk9ocjRueXRLck8zNFBvY1NTejRCOUJGR081dEtHWXNVR1NiVjhTWlpONElRMWI0TEdrU3pMZGc?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXByRDV2TjdDYmI0VWxrU09KcEJOdWlwWnZaYUQzR3EtZl82Mll1TzIxTHVqMzllb2pzTnk0YWpiSUc3anR3TWYwUC1hMTB4NHJZeklNQnZ4a1lzQzAxZmNMZ204YnNoSkx0M0ZabkZFZzUwWWlPWnRJWFVremIwRFphbEtCVnpNUHNfV0VjR0VGWjcwU2NObUhNaXdubXg1SUgzaEllYS0waWY1N1FjM0FSTy1JS1BIS281OXpacy1ucVRYbG5UaC03dXpIcWlSOWfSAdcBQVVfeXFMT3ZSdERFbXJaYzJjZXBscEhWZEc2OFZCdzFnb1FYcnN6Zmhmb2U4clVUX3hVYm9UVjhMOWV4V2ppWjJTalhvWC1OSkp6SFRGalpXX1BnTzg5eVdHWmhJcE1RaERiZXp3V3hOT3cwMkpyMFFsbW1nZlJMNGFxd1lOMVZucHRzQl9icmJzZU5kN3VzdXV2NjNlY3dDeTRhVGt1NWRpVEV2MEFkVVh6aUdtV0Jwdjl6Ti1wQnFNanhmMUJjT203dmU5Z1gwaWtmRWVlZmtZWWFDVk0?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd2tJWUsyYjlKUG12cXNocU1lbUtlTmlscXNMTGJJUHFDaUs2bEhiWW9vdkRWemtxa0ZFSHJBU2lqVkZHa2F2SW1wMHdrZkstLXk0T0oxYWJvSlMySjJpNm81bE9yMUpUSzRrLWVaWnBRNUZxN045RmttYzRoTXBNd3hnakVza2hJSS10ekhraG1xTjA1VTZTRllVRU9GWF9Cb2pPVlNRcjg1Sl82YVMwc0NTZ0YxRlJRcW1yTW92LWdBQUpCeUFkX0JXSzVydXUtOThZRGlhVVJYVUZMTE9yZdIB5wFBVV95cUxOcm9iemhud1hoUVY3Ty1DODNRNGdOWU1ZeHlOZlFyNWxCT181ek1kVnRfaVY0U3gtQU56Wk84WHFZMHk2aVFHZERoclBNamJmSGhSLVpPUzJka2h5VnlmU1FURDJST1Fjck5EYzdBd1dLblcwYS12UG5hb29nd2pMTkl0NzQ4NjhyRV9MNjl4RWthd1NUU29aWnRfbHJSRjdoeVQ3UGg5SFRaRURvbWNvb0gyUE9SVk5lSVNsYkVlRDBqZGFoTGxiRDg4WGk1UG4tWVhsSjJrdVk4YWVQUzR5M2dnLVhzRVU?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar Minister Ashok Choudhary faces disqualification threat due to his assistant professor post. A politics-related story. Covered by 4 outlets, including The New Indian Express and ThePrint.",
+      "image": "images/bihar-minister-ashok-choudhary-faces-disqualification-threat.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "smat-yash-dhull-s-brilliant-125-goes-in-vain-as-bihar-shock-",
@@ -121,11 +168,6 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWtISFkyUFB0dzZMREJBTkFoc3RpenhJUEZkVkcxQnM4dUJxQ2l0QmFkdG43RjlfUTA1OGJrd180MVJPYlhlM1VkampQNzY4OXF0YlJPdTRGeHVESDNKcHllVVF6dEo0alF6VDBzSEwwUDZhMWdNQ1JrY2gzdU1vR3hNajVZM1VSOGFPbGFKUW1oUEJuYTRNdHVqQlhpQXNNRU5pdjB6UGhzMVp6a20yTWozcC15d9IBuAFBVV95cUxNZDIwT0p1Rk9KUXRFV09BZkxBa0xmVFdnUlJIakJXbEsyc0JidXkwLXF6aHdUdEtVUUhkaW92aXoza0NmbEMyUVdCcFNqSnVGdjJDRkNBUk8zRF9UMmVyZ05BMkl2MzVNU0JuMUF0elJWekFzSWZfcTRYVGRmWW1ZcktJeG5yY0c4RkQwa1pNLUdEYUxldnI2N0hUZDVSejdYdnlvbGY2YjQ3Z3dCN3Bnd3h4Q2FyMURT?oc=5"
         },
         {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVA0OFpuYTFwOUpaZGMtT1k0OEQ0dVZ6UlFyMXRaTm0tS1gwZDBCSUl6RTItdXJuWUNxekdwa1ZyY2U1MVYxMWIzOFlBMzJjdnNoZG9RZVA3SFdOdHN5WXRVQThNYjktdmpEMnlnNFk5Q0ZvMkhyc3U5RTdpNFowU21KWmhXNEktN0l2bXJrbVNhWENSd1pWTNIBngFBVV95cUxNcXdHVWtvSV9zaUJKUXM0dWcyZDZZZThrY0J3WVNvbm9Pa3ZUWS1GbDNQQmt4RDFtTjZaOGxqT19CSnRtRjgtZm5Vb252VGtTclBzZG13OVlHb0lFZTJtVnRXZV80MXdMQjJyN05HVUdxWU1ld2hMa0xzQkxwYWpWVkpscS15TkFCUE9JR250UVpMa2RhU2lqaVVUV2tOZw?oc=5"
-        },
-        {
           "outlet": "Cricbuzz",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzA2MDJwSEJLb29GZkdQYkdQZmYzVVZoNjVrNDJ3RG8zQ1JpWkNqM0N1Y3ZFUzlTZHRUVVB2OEdnOVdWUXpLUjMxNnFpVXZ2c3JlU0JIMFpYRHFPOUkwOHhyNXJwRTFsN0xTU0FhdUFWYzh0UnJ6QjZTbUVYVWpNSEJpQVlTenh3VXRiaTg3WjJpeHktWnM5eGxqNTRRSjc4?oc=5"
@@ -134,6 +176,11 @@
           "outlet": "Newsband",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkl5Wk5RYlIyNU0wTXhQWHZSMVFlZTJtZFhLZlBocmNSeEZlQlRLUDJMZ2xEQk5LTHBRdVVNcE83Rzd2aURxRzlkTFU5MnpTbjVkN21sa0lnWEtIR1Q2WlBYN2xfVHdldlRnQlFYY3BmeFdlajh0Rk4zRm11bHhQRGt5RU81YlNFc3gyUkpR?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVA0OFpuYTFwOUpaZGMtT1k0OEQ0dVZ6UlFyMXRaTm0tS1gwZDBCSUl6RTItdXJuWUNxekdwa1ZyY2U1MVYxMWIzOFlBMzJjdnNoZG9RZVA3SFdOdHN5WXRVQThNYjktdmpEMnlnNFk5Q0ZvMkhyc3U5RTdpNFowU21KWmhXNEktN0l2bXJrbVNhWENSd1pWTNIBngFBVV95cUxNcXdHVWtvSV9zaUJKUXM0dWcyZDZZZThrY0J3WVNvbm9Pa3ZUWS1GbDNQQmt4RDFtTjZaOGxqT19CSnRtRjgtZm5Vb252VGtTclBzZG13OVlHb0lFZTJtVnRXZV80MXdMQjJyN05HVUdxWU1ld2hMa0xzQkxwYWpWVkpscS15TkFCUE9JR250UVpMa2RhU2lqaVVUV2tOZw?oc=5"
         }
       ],
       "source_count": 4,
@@ -144,35 +191,31 @@
       "image_kind": "photo"
     },
     {
-      "id": "rjd-seeks-bihar-minister-ashok-choudhary-s-disqualification-",
-      "headline": "RJD seeks Bihar minister Ashok Choudhary’s disqualification as MLC over ‘office of profit’ - ThePrint",
+      "id": "8-armed-robbers-loot-jewellery-worth-40-cr-in-bihar-say-we-w",
+      "headline": "8 armed robbers loot jewellery worth ₹40 cr in Bihar, say 'We will be back' | Police are currently investigating the matter | Inshorts - Inshorts",
       "summary": "",
       "date": "2026-11-18",
       "topics": [
-        "politics"
+        "crime",
+        "economy"
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
+          "outlet": "NDTV",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd2tJWUsyYjlKUG12cXNocU1lbUtlTmlscXNMTGJJUHFDaUs2bEhiWW9vdkRWemtxa0ZFSHJBU2lqVkZHa2F2SW1wMHdrZkstLXk0T0oxYWJvSlMySjJpNm81bE9yMUpUSzRrLWVaWnBRNUZxN045RmttYzRoTXBNd3hnakVza2hJSS10ekhraG1xTjA1VTZTRllVRU9GWF9Cb2pPVlNRcjg1Sl82YVMwc0NTZ0YxRlJRcW1yTW92LWdBQUpCeUFkX0JXSzVydXUtOThZRGlhVVJYVUZMTE9yZdIB5wFBVV95cUxOcm9iemhud1hoUVY3Ty1DODNRNGdOWU1ZeHlOZlFyNWxCT181ek1kVnRfaVY0U3gtQU56Wk84WHFZMHk2aVFHZERoclBNamJmSGhSLVpPUzJka2h5VnlmU1FURDJST1Fjck5EYzdBd1dLblcwYS12UG5hb29nd2pMTkl0NzQ4NjhyRV9MNjl4RWthd1NUU29aWnRfbHJSRjdoeVQ3UGg5SFRaRURvbWNvb0gyUE9SVk5lSVNsYkVlRDBqZGFoTGxiRDg4WGk1UG4tWVhsSjJrdVk4YWVQUzR5M2dnLVhzRVU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWm9WUHVwYTVPUW1Iam1wRG1wR2pOdFVtaENuZVpDeFNnTy1oOGxwMnNjNVg4MlBNaVh3cjlKSk4yYWVnRkFFMldkVnJHRkhVSkp4ei1JVE1xaEhrdUw2NHJDMjdnSGFoREVIRjMtSkdDY3lTcmZmSGRGa2ktMk1qdXVZRWZYeWRxZVpQTDJtQ1FtMFgyTm9wTFg1VXAwWEpBdDJmQlBYQnFHNzhaMXhPaA?oc=5"
         },
         {
-          "outlet": "ThePrint",
+          "outlet": "Inshorts",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0dXMjZFTi1EaDQ3N2hRdlJlcXE3VkRZbE5FTUN3VWx3RW42RmF4WURsSmUyMDFrOTJxa2laeDNzaHl2dDc3NVpyTHZSc1Z5NEF1bVZfQzhoVk4wRnVLeVdSZ3YzVHhQWmV4dFNXLXZNOFZGYWRHYnNyV2pGZWc1WTJSOHdLeVB0Znc2SEg0azhJN0dnRVhFZmxCNDZram42S1N6UkhkMkdBbnJRVkMwZklkc3Brd3BvZ0lXclhiTdIBxAFBVV95cUxQTWk2Mm1JajN5bnBGS2h6ZUdWT3hwbnd1dnUzdmpuTDJqakIwMHpFWlBDXzdMZlBWMHdLRVNjWXpZaG01TlpLaWNMbW53dFczblNEcFBaYmJaakdaNWIyOE1XZzhkVExMUkd3TmtpV2tzbmNEZ18wMW84bzVkY2NROUtKMk15czF0UjN3bldFRU5kVFdab3ZxVWZsTEtOR2c4Q0FOR2hDMHpqc2h5SkxiQTI5MGlRZWxwVFI1Z0dHMDEtLWdi?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUm1EOEJtRWEyR05CeUZRc1dfM1ZJR2FPY3hLaW9QLWVCa0VmeWRDVjM2NHJZS3hCX3dKUWxnaFVMakVCQWNlZVlObU5wM0k4R09DbUJjMkszaUl1NWRzMmFiSXlmTnBvV2pYNXhodVpndXNaWDRSRF84cGNoVkFYVkZRM1g0WE8ydTh1X1lfTUxEdHBfcFJFRU9mbjhIR1ZLeEdlMWhXYWxRekN3YWFLcGhlZ194M1Fk0gG-AUFVX3lxTE5VWDhQWjFXRDV2V0NSNHRsQmpCSkpBZWQ5Y2tfQjYzREJiS0hrbEpTY21hMllBazF5b2M5cWoweHFvNDgtTG10Yk1UQlNieEQ5aHhJV1ZhdGs2SE1XTGVPZk5ocXA4bXQ5N2tuQ3hNdEJ4X3NjWnBSSkN1VmVWTnVoTUs5SzJXVk9ocjRueXRLck8zNFBvY1NTejRCOUJGR081dEtHWXNVR1NiVjhTWlpONElRMWI0TEdrU3pMZGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3g5c3piWmt3Wl8yS0k1NC05ODc5a0JWcHB1dzFOcGFxMTd0dG9LeC1LVE1EWXVWSGVxcjhkcWhaOUdhcnlLVE9IYzR5RTB2aE9mQ2ctRnpxS2M3eG1MZHNqcEx2TW0xOUE3R2JTYUdOQVVIZFp1YWtrb3V6WXpwQmRBOTlBc3dUS29xNkFkUWEwUXNNZUlnZGw1OGlMN0prVXdveFVSNGw3VENhWmRWZko2d242a1k2dHfSAb8BQVVfeXFMT2l0MUxQM0xPRUdHUWpYUG9MRXR0UnhJX3pidzVGa21ESmhaRTVEWVJOR1pRcE10VUtTc1NsMVh3WDlMbXR5NW1iYnFtU1JLT2ZORUs3bWxwV0RlUy11YnZwNUN4ZzBIN0dOdlFWU205bE1HT3dxdDNNaGMwckN5ejg3aHA1aWZxTjdVa2M0WmtYSFlpam1SUmY3Vi1SQjh5WXJPOEREX1JMNWhibEtCakpMb0I5OGJLbGZlUTJqaVE?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "RJD seeks Bihar minister Ashok Choudhary’s disqualification as MLC over ‘office of profit’. A politics-related story. Covered by The Hindu and ThePrint.",
-      "image": "images/rjd-seeks-bihar-minister-ashok-choudhary-s-disqualification-.jpg",
+      "brief": "8 armed robbers loot jewellery worth ₹40 cr in Bihar, say 'We will be back' | Police are currently investigating the matter. A crime-related story. Covered by NDTV and Inshorts.",
+      "image": "images/8-armed-robbers-loot-jewellery-worth-40-cr-in-bihar-say-we-w.jpg",
       "image_kind": "photo"
     },
     {
@@ -258,8 +301,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j",
-      "headline": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक - Jagran Josh",
+      "id": "bihar-librarian-slet-admit-card-2026-out-at-sletregistration",
+      "headline": "Bihar Librarian SLET Admit Card 2026 Out at sletregistration.cbrt.co.in, पुस्तकालय अध्यक्ष पात्रता हॉल टिकट डाउनलोड करें - Adda247",
       "summary": "",
       "date": "2026-11-18",
       "topics": [
@@ -277,16 +320,6 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVN5dmFibk0yTGZYeDl5Q0pkX0lFMWNXaTkybmtLeGlWejFyVTh1Vk1lZGFYQlgxZXZWcW1GalVUSEVybDV3SWNSc28zMTZTYzAxakZXd1lFZ0ZkYVdIUmFlZXFEVXlDb3pnQ0NkQ0ZCWDRUSGVBSUJnUllUXzA0RV8wREpXelB6dGNBZnZyZmlSNVRsQ3drSHIyMjNSZ25nM3ExeENYTnJfQmZXWEhlREZDOEQxQzQ3SldqdXlpMEltdmhUSmZNTTF6N1AyNzFpUDZDX0I5ZmxEQm5pWjhwNEtHVU9DLU5L0gHvAUFVX3lxTFBFQmJuWEtLZmlGdG9fbnlMWWRDdTJmc3pOV0QzaF8wMjBqZno1bHh0b3hLZnJkaXI2ZDVES3JzbDBjU2xvUjkta01XNEIxRkVkTnBjcndKd054Uk16ZFVndmNtUFliRHFTampLcFZ5bVluWGp4cVVkcmM5ZlhrQ3FUQ21HdldYSE5BX1lVb1dEOWpnTjFDWXdENWFxeTVUaGpOSnBBWXM5SlJDNWJqT2ppd1dzNE9ON05fcWMyMzBUZ2NJVlhRZUVBdUJYOEFnVm9pNlBtM0RkbjI4akwwbUJ1TTJWMDFZSER1MmR0cXFn?oc=5"
         },
         {
-          "outlet": "Jagran Josh",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOUMtdWFlZjN0RmZZVG9BcS1UT2NGazZCSHU3SDFjQXdNWEJ1aGMyVjJsWUNqejhDRW1mODBlMDg5Z0ZGZEhydjhRSXdOOWxhRHRtOUdTSUpFSmQxRFZaV2llRmVWZlhFVWxtWGtnSUpUR2tyb3A3RVlvd2IzcHdTRkxkczliVmtZSm5reWlkNWlsbjYxX2ZpQ2xxM18zOElzX3I0TUhYUHg3YVd0elVrZzNPZ1FJUXQyVFBadE5TOWJvOXRYZ3lqblBRai12YlVBT2hSeU56aXVNQUhMNDdPU1JxYXXSAesBQVVfeXFMTnZxX0s4SllqR0xTUmR4MmoyZGtoVXprVUlXX1BVZVRGZFNWSFVYWXRoUHp1Z0V5enlzZzhwMG5IWlh0aVJvYVpsQXU4a3gyQ1VaRUZQYlVGLVZHWGhnRms4a2ZwbXcyc0lNNW51cDA0Tm9feUt6NjB2c3o4ekljTHhJUFZTZ2xXeEEta3E4Y055UDhMaUlVcUYxQ2JOQlhtbncxZjJjZTNoOTVzSGVfSGh6UU9XXzdaT0RBc0dFZnYyYXEzTVpId0wxaDJPeUd6Q0VGeUxiR3FJZjB4SjJvYjRMdDBRWXFpTG52RQ?oc=5"
-        },
-        {
-          "outlet": "PW",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40WjBkdG8tWHR1bEw1QzRFVDREVWtzemVFaExFeE5adnhRNDZKZXp1Sy1pc2M4WVpXdmh5THQ2Z2Z1c1RWSDVEc3lDNVU1bE1WTDd3NEdDbmJsQUdXTDR6ZU1FQ0gwdmdJbDlyUA?oc=5"
-        },
-        {
           "outlet": "Adda247",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlS280aEl4S3F0X2xuaUhjMmtzcWtHVFVHY0Znc1ZqQXM5YVRUQ2xqd2c5Z1gtUG1RNjFDczdOTHphb3N6QlM1Y0NIWEhHUEM1c1RIVGhVV2ZCWWw5TlhseXY4LUtvU0x4RzFSbFdKcXJwdWo2QnI4VG82d2d1dw?oc=5"
@@ -295,8 +328,8 @@
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक। शिक्षा से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें PW और Jagran Josh शामिल हैं।",
-      "image": "images/bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j.jpg",
+      "brief": "Bihar Librarian SLET Admit Card 2026 Out at sletregistration.cbrt.co.in, पुस्तकालय अध्यक्ष पात्रता हॉल टिकट डाउनलोड करें - Adda247। शिक्षा से जुड़ी ख़बर। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें PW और Jagran Josh शामिल हैं।",
+      "image": "images/bihar-librarian-slet-admit-card-2026-out-at-sletregistration.jpg",
       "image_kind": "photo"
     },
     {
@@ -432,9 +465,14 @@
       ],
       "sources": [
         {
-          "outlet": "Jansatta",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSUQ0RXQyNWdQeXRxQkhFanU4SVVWd3dfTzdnblZNb0dHZU42QUtPaFdobTN6MjhadDczY3d4VHBLNGE2YVhLQzRreUQtRTBZLTI0Y1FhUnJMZE5iOXVUaElsb1p0dWh6ZWppdm5jWWhoMXFUelM3TmtscWJPYTZhajBzVmNaUktOUTZ2Y1BqcUtrLUEtUU1VMk5FWXpqV2pHM25MaUNPbFhHcTdBYVdoY092bDVhdjM3WG5KdmFpMjdMdnRSWWxhSzZuTGtINlZrMjNDMNIB2wFBVV95cUxPaFdER3VXa25NWXBlRXV4MjZqV2M0MU13YjB4bnY3cTNsbXltZHZWaEJmbTU4NHBudWJqM1BjZm9Ia2Nfa0NpOWU3UzllYy1yQ0ttbWVnYi1JaHNSRVczVnhMY3Q1cVExR2tZcHgySzlwT2xpYUxYQUFrVXBGbEJVc1hWajF2WlEyNVY5bjNXWGtQVWI2UklTSEt4cFVSVmI2M19DM2VHRjJtc0ZEZ19uR0xPbVFIcndFal9zb0gzZHhyd1E2M1Jod3pkNEc0b1RrV2NMbUJxdjN1cEk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnRoOEFpWkVlMWdhNUQ0ejdVZTBMdnVqbVlqSlA1QzQ5Y3BhYVJCc3hPbjR6OFBJa2NkdDhIcmJydEpDZ3dzZDBNOVJDMnFzbmc0R1YxaV9Qa2dlTTh6eUFqU1Npb1hqRUJsMTJObFM4TjZScUpXTXJJTHczanJDVVQySzNXNmlPQlhTQ3Z1ek1rYUVMV1hGWG9ENzhFSTZ5WTZwYXhiZ9IBrAFBVV95cUxNOThtR2YyTlVKWkNUdjh3NF9xNERlcHhzME1zNlVxNndfSmluMWdUMHJCdGhfOThsNEwxa1pSNVRwakZraXpPLUwxbFd3QmxUYWNWU2NISzg5Z29ZamxaeVBaa1Z3RkFEVERkUHZzald5MEJnOGl4c094NF9VVmFjNGhMNC1UaHJZbEpzMWRlRkpsYnA2OXhpNDRRb0cxOHBlam0wdV8yZFl3OEl2?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc19tNDFFbFE5ZmQybnZIZTM0OERhbHdYcHlNMFFxQWk4UGhfOVVNWHM0WkotTDd6d1RwVGpvZVk2WVM2ZHJBRTNhZ3VMSV9GekRWckNXRmZWaC11U0pRZFpDeF92dy1NVXVVSjYyMGhOZjFtS284VUF1UEg1cXNQamJHZGlVT19CU3J0dTZPRk01LVJ3ODZfaWk1dl9JeTcwWVpSZ3l1OEJnbW9hY0lHaVRiUUdwamhYNWNaM0dwbGp5TVk?oc=5"
         },
         {
           "outlet": "AajTak",
@@ -444,18 +482,18 @@
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc19tNDFFbFE5ZmQybnZIZTM0OERhbHdYcHlNMFFxQWk4UGhfOVVNWHM0WkotTDd6d1RwVGpvZVk2WVM2ZHJBRTNhZ3VMSV9GekRWckNXRmZWaC11U0pRZFpDeF92dy1NVXVVSjYyMGhOZjFtS284VUF1UEg1cXNQamJHZGlVT19CU3J0dTZPRk01LVJ3ODZfaWk1dl9JeTcwWVpSZ3l1OEJnbW9hY0lHaVRiUUdwamhYNWNaM0dwbGp5TVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUpTVFUtbkFiRXhKb1NNQ3pSd1ZSY0V3ejRVWnFMMjZWM1o1TUhQeDJmME52NFotWFJlVGF0d3pEeWZJOVFSVmpaeUtXSjFnYWNwVk95Vi1IUnNib05VNXQyVkgxVlNvTGh2ZmxKZlFIdTNBWDZhdTFIVXFVT0ljRnZtYTlzV012eDlBZDY0bTJER0ozaE9FMmVsbHRkZ3phWm9lRkpaanU2OVRpalo2RlBoZlpWR3dobG85d1pIRG9KN0ZFSnV0ZDdGa3JMUGtORkRjUGNDajQ?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Jansatta",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUpTVFUtbkFiRXhKb1NNQ3pSd1ZSY0V3ejRVWnFMMjZWM1o1TUhQeDJmME52NFotWFJlVGF0d3pEeWZJOVFSVmpaeUtXSjFnYWNwVk95Vi1IUnNib05VNXQyVkgxVlNvTGh2ZmxKZlFIdTNBWDZhdTFIVXFVT0ljRnZtYTlzV012eDlBZDY0bTJER0ozaE9FMmVsbHRkZ3phWm9lRkpaanU2OVRpalo2RlBoZlpWR3dobG85d1pIRG9KN0ZFSnV0ZDdGa3JMUGtORkRjUGNDajQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSUQ0RXQyNWdQeXRxQkhFanU4SVVWd3dfTzdnblZNb0dHZU42QUtPaFdobTN6MjhadDczY3d4VHBLNGE2YVhLQzRreUQtRTBZLTI0Y1FhUnJMZE5iOXVUaElsb1p0dWh6ZWppdm5jWWhoMXFUelM3TmtscWJPYTZhajBzVmNaUktOUTZ2Y1BqcUtrLUEtUU1VMk5FWXpqV2pHM25MaUNPbFhHcTdBYVdoY092bDVhdjM3WG5KdmFpMjdMdnRSWWxhSzZuTGtINlZrMjNDMNIB2wFBVV95cUxPaFdER3VXa25NWXBlRXV4MjZqV2M0MU13YjB4bnY3cTNsbXltZHZWaEJmbTU4NHBudWJqM1BjZm9Ia2Nfa0NpOWU3UzllYy1yQ0ttbWVnYi1JaHNSRVczVnhMY3Q1cVExR2tZcHgySzlwT2xpYUxYQUFrVXBGbEJVc1hWajF2WlEyNVY5bjNXWGtQVWI2UklTSEt4cFVSVmI2M19DM2VHRjJtc0ZEZ19uR0xPbVFIcndFal9zb0gzZHhyd1E2M1Jod3pkNEc0b1RrV2NMbUJxdjN1cEk?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "पटना में छठ के बीच 4 दिन में 4 करोड़ की चोरी, गहने-रुपये लेकर भागे चोर, मंत्री से रिटायर्ड शिक्षक तक के घर खंगाले। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jansatta और AajTak शामिल हैं।",
+      "brief": "पटना में छठ के बीच 4 दिन में 4 करोड़ की चोरी, गहने-रुपये लेकर भागे चोर, मंत्री से रिटायर्ड शिक्षक तक के घर खंगाले। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और AajTak शामिल हैं।",
       "image": "images/4-4-prabhat-khabar.jpg",
       "image_kind": "photo"
     },
@@ -514,8 +552,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "bihar-govt-asks-officials-to-remove-meat-stalls-from-patna-a",
-      "headline": "Bihar govt asks officials to remove meat stalls from Patna airport vicinity to prevent bird strikes | Hindustan Times - Hindustan Times",
+      "id": "indian-railways-intensifies-crowd-control-and-special-train-",
+      "headline": "Indian Railways intensifies crowd control and special train services to manage post-festival rush from Bihar - Deccan Herald",
       "summary": "",
       "date": "2026-11-17",
       "topics": [
@@ -523,22 +561,27 @@
       ],
       "sources": [
         {
-          "outlet": "The Week",
+          "outlet": "Deccan Herald",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX1lRRHhnaUhBYWJ4dzJMSEZ2blNEYVhwd010WmZuZDVDeHV2MWhHZWwxRDViSVdXNVZCdkNhWlpRQjZFc2xKRDl1WWdYTng4VFFqQ1VsUXFFd0VSbm43UlRwZzRZTVZqX3VkMmtXSUFOaGdEek5DM0xBSFYwSEl5RU9NcnpOZWxadWdpeHpQV1o1ZUxsNENLMS1EcFowZDkzY3NncWxCZlJuZnRzSXl4b2lqdTVHMFdtWFpsa25zVTl2Q0RmamhlMkRVSk14ckJvWmg5WXNwcXpOcUxaYXQ1WnktLUpQaENCZm1iSk4xcEgzZ9IB9wFBVV95cUxOR3lpcjVTb2ZJdGRtNHNoWmZvT0JCSTFkSWUyaFlyc2ZpeWVnMnZDdXVLbmNmZXJoQTZRaUhqS1VJbUdrbndfdW5DbFRlOEl1S3NCT1RhMWxIWUdiM1RMYjZIdXRmNzJfR1JoZWlVVFVvblI1dUYtc0ZMcHEzQ0ZkdW96RVBtZ0V3bWR3d04wZkE2NHFjX01JX0gzTFUxeXFXcHdPRk1kbDJ5eWUtVVJMRFg1SW5BTkFWQ19ZUjJhaTJ5ekhUNDJhSUtlRmM4cmZHQnBKT1dzOU5KRS1hclhSMUtfMEowMEI0R0RQSnhIemd0VGJ6dkhj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQckFqekxqbmtMOW1qRXZZQXBUem5nckY4T09PSC1LRktaa3hGbkJ1ZTJac19zZzJpa2RNcHcyV0JMX19RR1FwWUZ5amZlVG1vX0dkTXRlakZRZkhkaExlUnQyWDBIMHdDU1hPLWhRY01heFV2cHo5SExUal92TXk3VmlNRUdmdmk3UnJ2Umg5aVRnQkFQUmxYczRJRjk5UC00VEVmS056VGhKaUc2aEw4SmJGOUdjR21TZ1pxQ2VKOUhtMXBaY2dfUWYwdkMwbXBzZW5EeVYta1k0OUZYdWlHMmNua29Pdw?oc=5"
         },
         {
-          "outlet": "Hindustan Times",
+          "outlet": "Asianet Newsable",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZUUzcFNrRWFBR284WHJkbnplRXluOVJwM19xWXFhaFBPQVEtMWJJNHQydXRYRzl0VDJNdFlLb19NQ0FxbklWaTV4STl4eHhia1NNT0dRRmNRbUh3cVlLNVd1b2R6bDYxeENYdF9oTkJHWnhWejdFaElMQ096UUR2LTVOd3FfbHlKRlpDRFFiN3czQlhibmVnb2dyY3lkZnZ5OTZqOGJZZ0g5aTdNNFdSZjZCaS1FMWxMam41WTd6c2xJTWNzM0J6X3dZdkdqSlY5bnpnYmpsQWtjTG5VVlVNYVZZMEtTelVxMXhGNTNad1JlSEt1aWdLQ3d6ZWtiZ9IBgwJBVV95cUxPWDRLVHoyTzY4VEZUdk9fcEs1Und0TVQ5N2Nqa29sdTlTMWZZalBvRTBkZ0JFa3pUSE9MbmFiRVJlcVZQTE8teDRrcW1PZnVyaEMyaW9Lc0VYQlh4a2N6bHFIUktfRmRpeHlwekIzaFRTZlFQZkc4NGhXOEhORDhBNVhhR2h3ZTJVQUo5cFNpVzUtY2xhUHlMaURORHNvV3FuaDBJTTRVU1MxSjZBQ05hczg4XzZXR29ZZ1FCWHZwQzFYSjFJZ0IxRFJaMEdYVGQyVWVtdXpRRjgzT2E1b3V3Q0Nqc3phclFIUGc4ZGVoS3VyTm45MUdIX1lkTkYtNFR4TVlj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVdHWTBZY3RnMjh2WU5MaHJ1cFR0QWd3ZkhibkVHajhWejh1cXFfY0FYOTRVck9IaUV0ZmhBOUlLYXYyTUZERFRsbkNLbHFHUDU4WmhvTTkxV3pfQnRtZ1BLV2JkcjAwUUg1VkhkcUJhWXZNcHNZU203S2tqa3RPUTdDb2NWUGxfYnh6MmZnbFVIZEk1SGVaSXhfZmFfemh1UENMU3BYakpfV004ZXJ0WEJfZVBNNXktRklUWjYtMzZMMFZIZ0I5WNIBzgFBVV95cUxQTm5BZG5xa3QxSVlHcEtUUEFNUjNzdHpscTB3Qk5aNDgzcWw5ZHA1QTQzUWJINGY3YTZOQWhVQWRwVGt0R3djTkQ1TzhQOW9iWlNzOWdORFBCSmR1VEh2SE5yRmNkdEYtc3ZzZU51dE1lSU4yU3c5VDZLT1h4U3BNcUxkeXl3QkZQUVQtV2VaQzA5S2lvVlJmU3Z6Z0dNbWRKVkZlUWd3M2NGb1ZsSGpsbHBuRmhrclVyc2p4bEI2ekJNLXhpOF9UUXFraGljZw?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcnJkUVhSaEZ0TThxVXVTdkcwdThTS1pfWW5BRWh1VTlWajRiUkg1THhrelZuQ1pVV1lxWXJYdEQtYjYxVlJPTVNDZ0c0aHdGX0tXSkxlQ2RiZnpLX1JwU3lZRWFwcFp6ME1TVXpuNFY0b25MZmdJZTMtTWM0amZ2U3VaWlEyaWpEOGRUQXZfTV80SmFraWpxUnh1QjMyeERjM2hBQlpTVFBqN3VaVVBzbkVGdlBLLV9sY2pBeUNhLVNlUDlMc3NYXzJjc0NxVzTSAdQBQVVfeXFMTzR2VTdnVUt6RDRITjZ3SXdMQmhNVExWNVNJa3pQT0xSWFJSMkYwQlNUajJpaV9KRzhnTzJ0VVlvNjM1dG1GckJfOU9oM1YxQ29XTGpzQ1IyOVdjNzlRV1o4Q3QxbkR3SEhsS1RaSlFaYXFUejZObkEzZTByQ2dWZDFSQkZOWjdIb05Zc01uUlh6dnk3NXVHOG9LckVYRzl2TV9rSVAzY3E2WTZiUTdLbTFqSGdPbDI0bThOR3B3OWpUNHQ3MDFiaW9MWmZnd0k4Q05WVy0?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar govt asks officials to remove meat stalls from Patna airport vicinity to prevent bird strikes. A civic-infrastructure story. Covered by The Week and Hindustan Times.",
-      "image": "images/bihar-govt-asks-officials-to-remove-meat-stalls-from-patna-a.jpg",
-      "image_kind": "photo"
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Indian Railways intensifies crowd control and special train services to manage post-festival rush from Bihar. A civic-infrastructure story. Covered by 3 outlets, including Deccan Herald and Asianet Newsable.",
+      "image": "images/indian-railways-intensifies-crowd-control-and-special-train-.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "5-1-4-41-prabhat-khabar",
@@ -641,21 +684,48 @@
       ],
       "sources": [
         {
-          "outlet": "DD News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEx1ZHBLWkVoTUlXbEpoNHdOTEJoU3lvQmhUWklXdlp0TGExX3ZaejJseFNmdWk3ZWFEa2lkeHc2M2hQVmdoSHdsZXUtYk1kOU4wYU1MSHlJbVhLdl9MMEdYSmtFRm9PNmhhR3RBM0ZNYVJDTkxyWUU5aUVRak9ZVFJwSW56NkxhZ1g5dHZsMzFwbjl1RGR5UnRONUktUQ?oc=5"
-        },
-        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTm0tWlR5Qm1HV2FxS2dwdVpSSnJXTFdrS3dkbEZhUHZ6U3dKeWozXzJMaEZVQzU4SW1hZ2JacFZabXZQX3dwT0dqYU9US3EyMU45U3RWSHp2ZG54YUYyTnJsUTg2aXRhc0hrUk9Pb2FadXRsZGJEUW5LMlRCVXF6SWRCVGEyOUpTclVSamdrSEh1eVpjNHNCeHVrUFBaUVVxYklKYjFqejNIQlRqcFHSAbYBQVVfeXFMT2Nkb2JFSDd6M28xNXJVRDVjeEZORXRyR0xDXzhlaTJDN2sxWEtYQW8tRDl0d0hQOXJobkV1N2l0MzhyM0JZbzU1SGZVWDREV0d6NElycldZY1d1T0htd0diR2dmVzlvZlNrMXFLMnRrQWpIbHNTTmJmWGVWOHBqaGRCbTJWQkM1MU1jMUFZQ2taZkJaYXZFdG96WGc3Vkl5Z2h4TkFvVWhzYXdOcG5CYzMxYjVjUHc?oc=5"
+        },
+        {
+          "outlet": "DD News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEx1ZHBLWkVoTUlXbEpoNHdOTEJoU3lvQmhUWklXdlp0TGExX3ZaejJseFNmdWk3ZWFEa2lkeHc2M2hQVmdoSHdsZXUtYk1kOU4wYU1MSHlJbVhLdl9MMEdYSmtFRm9PNmhhR3RBM0ZNYVJDTkxyWUU5aUVRak9ZVFJwSW56NkxhZ1g5dHZsMzFwbjl1RGR5UnRONUktUQ?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "PM Modi, BJP leaders extend birthday wishes to Bihar CM Samrat Choudhary. A politics-related story. Covered by DD News and NDTV.",
+      "brief": "PM Modi, BJP leaders extend birthday wishes to Bihar CM Samrat Choudhary. A politics-related story. Covered by NDTV and DD News.",
       "image": "images/pm-modi-bjp-leaders-extend-birthday-wishes-to-bihar-cm-samra.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "chhath-puja-2026-today-when-is-sandhya-arghya-check-city-wis",
+      "headline": "Chhath Puja 2026 Today: When is sandhya arghya? Check city-wise sunset timings for Delhi, Patna, Bengaluru... - Moneycontrol.com",
+      "summary": "",
+      "date": "2026-11-15",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb0VETTFSVFNJTjBQcFJJZGNqT1Vyb2R1NnltNmxBTldpZ1hLNFNPa0psQ0FSQ2EwYWxlbk00WlZKbE1RZmxiTUswXzZPMlhtczdFLTZZQkh4M1Y0eEJSNVktTlFTdHlBRTRLOWtKN09QaFpUQlN6Tlo1R2JGSno3R0JVQ0RwWjZ0cmxfd1pFZ2N4bHdhTjZpdkEtM2JRRjAzSkxQZ2pmdkFqTkV2dFpoX201b2RmQmljZElHcjRLVmdOTVFpNWJBRnZyRko4QUNJelFiYS01UmJXUmRsRGk1djVtNlFvWW8zVHhhb2JjR3Y1c0ZxSXg1TUN2d9IBgAJBVV95cUxNWmlmNTZBcnRBQnBVbjNNOVJFdXItanV5VkZ4Wkh2bjBUM1p0RlBkTHNEWVBUaktPS0VlQWt6ekdUaFlPMmhnR1U1c2VQTk5jLUJNRnBFY1lTTUpwRk8zOVdBQTZFeTRKM09QTnpBU0VjekkydldyblRXN3M0MzA0Z3pVLTlwbEJ0d2dzQk1BVmtjRHh0ekxlV3BsbnMyZklNM1U5cEZHMjZvd0FBZmpGX1dlVm9DM1dUTVdHZVpmMkd4Q0hkTTQ4V3lsV1RiLXJlc1pPYnRyajhLeHBJSlVaNHRRSDktemRDVHBKVDlRelZ2MVdWQlNXcjhfRl9ORDRl?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU1M0dm8zR244QmUyNndaV193VmplUU5OR1hTeGxXRE12cXE3Zl9QWGhXNE1wUnhPQTdNYnZZQkFNc3hha3Vvakw1a29WbEFOdWZNdmVxX090U1QzOVdLY3loS1pKR2lSWERBNURfY2VzTDVmZ0FtUHR2d0RBeF9SLWJJSHpBdkpLN0JCUkVheDVUQzlNX2ktYXBQYWdyYnNkdWxyelZEc1FTS2dDOXRCYm5XcTNnM0xlMXJJNzNHMFpGWjkzeEJwejIwZjBPQlhzZVRTX2tzQnhUUjF3MzZ1WEo0X0VfVlRrRV9GNDltQUJMRzIzQVFFbE11aDZwN1RFMFZvN1VpambSAY4CQVVfeXFMT2JNOTNZaDhhQWt5aGZIOXNHVS0xZEdnTVktM3lsd1JZS3RuMWM4Z3hjT1JGTmVUUkE3S3dqcmt2WU1sRnNKNmNvR2M0dlluT19wQ1EtZzEtR1JRZC03YWhlbHJzWXpqUHZVemU2R3hGVF9Sei1LYUxOTzVqbWJtSDEwQkV1TDgxYVd4bmdpU1ZCYlBwNEJUVEE5N2o4VGNNOG9ISjkwcElrT1dDM1Rva0V6cDZZandaRHJ6SWw0azh4Nm1FUG12NGNJdW1BRi1SNlV4eWVEZ0EtblNaT3VRa2w2eE1TYVAwMVhMZlJmS0gtRWRQdTA2V0dyMnVCR3NCTUtEbFRTRGZyNjFuNVZR?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Chhath Puja 2026 Today: When is sandhya arghya? Check city-wise sunset timings for Delhi, Patna, Bengaluru... Covered by The Times of India and Moneycontrol.com.",
+      "image": "images/chhath-puja-2026-today-when-is-sandhya-arghya-check-city-wis.jpg",
       "image_kind": "photo"
     },
     {
