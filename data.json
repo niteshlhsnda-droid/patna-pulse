@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-11-17 23:36 UTC",
-  "generated_at_ist": "18 Nov 2026, 05:06 AM IST",
-  "story_count": 51,
+  "generated_at": "2026-11-18 00:35 UTC",
+  "generated_at_ist": "18 Nov 2026, 06:05 AM IST",
+  "story_count": 50,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
+    {
+      "id": "nitish-setu-naming-sparks-political-row-in-bihar-ahead-of-pm",
+      "headline": "Nitish Setu naming sparks political row in Bihar ahead of PM Modi’s November 21 inauguration - The New Indian Express",
+      "summary": "",
+      "date": "2026-11-18",
+      "topics": [
+        "politics",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQekVfcjNzc2syTjZLcmFCZmJSb0NoNjY2dDZrR1JQRXlXdmNoT2lZSlJLWUVpSlJ4QnhsSXF2VUhFUUZEeDlZSEtyMG1NbmViNGxIUDhRdjktZnlyd1lEMHhWLWgweUNGZzV4Tzk3WmVTdzFPTW5lLUdEdC1XOUJXZXppaE9LSENRd3QwVkVBN1JoWFVUTnNkaHEzSjlHVXYyZnZSY1UwRFd4Qno3dDE4bzZEM0NGMUZKMlhCdXF6cng5VmRtVGIxMkF6QTlwWktSX18xVUNyRk9PbUdkd21Gc18ya9IB8AFBVV95cUxQSlI5b0xTdl9NcktleTB1NzZpNElvSDViVWs5YVdFV2xiWmR1MlFKckpSU293VFpNcXg3TjZJUFZ2WXJoR0hkWlN1aEk2MjB2RV9uczdzdFlodEFNcXlWdjBianIzbU9DcTVuRjd3RHNKUzJQMjJ6NGtiSTFhYXA3eVd4d0ZJUmdZVFJ6aTZxU3l3a3d4bEl3Tm1xT2xOUDhmZ3pfTWtvUWQ4V25ZcE1pQzBGOUpweVVVNnpFVGN0V0hJSERZMWVEVnR2UU5JSWJBanFBbEhjYUNCWkxPaGFDNTlvZjRVSGdPazRHSU9uTW8?oc=5"
+        },
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYjRqQVNQR2lCSG53YkVLSjV3N19lMnR2cWltMmpTZ2tmWG9CVTZ0XzY0QnlhSXBrQlNXU1lfWFl1ZEQyR3hkYjFuQzg3TWFMWXVVZ3JpM2drUUxSdkNXTE5ldnZoVVNSRmw0dTlkb1BRNzdFUFB5bEZNQzdUc24wTHVZRVhlOHhvTzhLSGt1RUpweDY3a1ljTjJvQlBQZlhhTVJuWVVDVFhtMzhqSHZQMlpmQTYwUUtw0gG_AUFVX3lxTE5WNEluZGJlSjBGaDRKSmQzdmZ4VzVRRmJkNzRIRmlPVi03X3dWclhxWkRMUXVNV3ZHZW1RQ2VTRG9JRS1iNWhuTldja2FkMEUxczZkWmhQRkpOS3dwMkx4N3dSMU1POExwVHVtcThZMThubl9DQUM4X1lvNXZaQ0dqQWhoTUpTQWR5ZzI2VW9hRXVPaWY1UkExWGgxWjltWDVKVVZ4UGJKR3UyVGctaUFJODJPOWk2RzhmOXNKZXl3?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Nitish Setu naming sparks political row in Bihar ahead of PM Modi’s November 21 inauguration. A politics-related story. Covered by The New Indian Express and The Indian Express.",
+      "image": "images/nitish-setu-naming-sparks-political-row-in-bihar-ahead-of-pm.jpg",
+      "image_kind": "placeholder"
+    },
     {
       "id": "thieves-steal-valuables-worth-rs-90-lakh-from-bihar-minister",
       "headline": "Thieves steal valuables worth Rs 90 lakh from Bihar minister Sanjay Tiger's Patna residence - The New Indian Express",
@@ -60,13 +88,12 @@
       "image_kind": "photo"
     },
     {
-      "id": "sydney-turns-home-away-from-home-for-bihar-people-celebratin",
-      "headline": "Sydney turns home away from home for Bihar people celebrating Chhath - The Times of India",
+      "id": "bihar-woman-beats-4-year-old-daughter-to-death-for-touching-",
+      "headline": "Bihar woman beats 4-year-old daughter to death for touching Chhath prasad - India Today",
       "summary": "",
       "date": "2026-11-17",
       "topics": [
-        "crime",
-        "civic"
+        "crime"
       ],
       "sources": [
         {
@@ -108,24 +135,14 @@
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2tnajR4aU5aTjF1b3lsalBxWjJ0eHF4OTRPTFkxUnZvT1MwajFXN2J6VnJUMkVqS0ZuXzRYUlo0YThXX25OY2ktclBXejRCbTBsMmVwZ0ZrQ3VscF9EUGtxMFlicmVRdVE2QUl6T0MyLTRLOUxjcTJONjdFSjRPcl96RldSTzZ0MFFaTTdFa0Q5NHB3OFp0dDY4RHpvQlJubHVjdTdYcFVvSk5jU3k2OHo0SWxKMVZfMnp3b3JnWlR2M2d4MXlpRm9WZWwxSHk50gHWAUFVX3lxTE16aXREZUhPaGVqZmJvXzRhT3dYTnBuZEJlWnVIZldGSjZJeVVMazhjaW9uRVItZmNxRVM0OGtodFVYZnB0M3ltQW1EalBrUFEwd2JpOFdld0lqbVlUN250Y0NqVXZiY3lQUVc3TnZkV2Z2dGJtZmlhMDhBRDAxeUloVmw4c1VuT3N2aDg0MndMRnh0UEUwTWNueXl5TXFYYzRKNEh1ZmR1S2t5VW90c0tUdExnRnNDbXdEVkNCTkpGYUZrZDR5eHU4Ri1pUWNwYk9HaVQyRFE?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVZGZE50S2dfam1mT1BQX0pJY3NycGRzek5pLVZ1RERHVUNuQXloYnlDSzhmc1Q1djZDUDEwZ1RzbjdmZzU0a2szbkg1eEt3ajR5QmkzZFdYTG5jOW5mLTJOdkxQbTVQZkZWNUVBOGswcTA0VXUyMXZTYjA2V2F1MlhjSzBLZGVxUWhrWnlYTXgwN3NjTFJ5dDhycUFNdU83blF0N255Z3pwT19nRFhzMWpacHJoLV9SRGNSbFV1N1FOQdIBxwFBVV95cUxNb2puazc1c0NIMmtpaXdCYi1lcEgwdmZfTVJYeW5aMC03YXVyR01NcEJsblVJVV9MeWhfOVEyUGU1V1l1ZFFuZXV5TF94MEttWEdQMmVSRF9XQkRveEFhVXppVTY4M2pnejhvSVZpdUNjWDlhQThCaS1LZm1ydTVnUlRmYUlYY204cU9uNGllOEo5UUtqd1h4YUNIcE1TWkp2XzJoa09WM0FFUnpibEpHbGJsRUhvQnBtaVVJVzVJTnhVRXNrMzlj?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkZLd1l2eW1ackNoUEo1dE5IV2dSOVpGQzZvd3BNZ0l3alh1ZWNQOU9tZ0ZPcHN2QmdFaElTZHAwaUF3NXBGMHBMcWNZOC11bXFHZWwyMDQ0OEJvMGIzbmtVNl9nOEpkc1QxTGRzYmJWclNjWHpDYk5kNjk0c1JfODc2Q2tZeVRWNVI2eGEzcjF4dThBNkdHVG5TSXhFelphWDYzYTB0OElzdWd6cVFjXzRzNkxaZ2xER2tOTUh1dWlFNG5jUlUzdFlaT2pkcVktbzcxWWc0SUvSAd4BQVVfeXFMUHFoU1A0NzhXSGMzRXp4cWxWWGMxMVFGc0s3YVVfdC1pbExmVlk4Q0xQUVM4UmgwWFltVEhCQlZiTHRUeW5CZVE3SURMb1k0NkFhY3UwcXBPVlR6NkZxVDk5eVlsZjJmUlBtRWVjdkgxbHlMY2dTSEdqQ0syeGRMZ05iM1pObG5jZnRET1RMdktsMVNuMmtxenZmMWxGaks1TXR0b0IwMHZvSUdVaEp0OTloY3AwaTB6ZkEwbzhYZUdEemtGVlJWU1d3X19EQmstbU9PLXdDWXF1V20yeV9n?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Sydney turns home away from home for Bihar people celebrating Chhath. A crime-related story. Covered by The Times of India and India Today.",
-      "image": "images/sydney-turns-home-away-from-home-for-bihar-people-celebratin.jpg",
-      "image_kind": "photo"
+      "brief": "Bihar woman beats 4-year-old daughter to death for touching Chhath prasad. A crime-related story. Covered by The Times of India and India Today.",
+      "image": "images/bihar-woman-beats-4-year-old-daughter-to-death-for-touching-.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "nitish-setu-bihar-s-six-lane-ganga-bridge-sparks-credit-war-",
@@ -166,6 +183,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "supreme-court-moots-scrutiny-of-high-court-judgments-to-iden",
+      "headline": "Supreme Court moots scrutiny of High Court judgments to identify objectionable remarks about women - Bar and Bench",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "LawBeat",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU21fUWE1cDFENzdMdUZiLUtITDUtTVJkdGZwMWtfWjJyc1ZlaEtpZUpqZ0NJM0k1TEF2UEN5M19JVTVJU0RXYnRaM1dXcUZka2ZxTVE4M0JXbTd2UlhfQUc5aFE0STRoWUs5TFdMLUtkZGJLREtqUXgwTjI3QkVNNEVNY0tYMUs5Y2ZTcWJ3QXctOEFueHgxRE1UX29VYmZwMFZJZ0F1VnM1bUc0NHdabzZGZHI5N3hoSnpyVnNXYzVfdHg4aEhSdHdR0gHPAUFVX3lxTE5CdnMtWlUtRzVUcmphX0Y3NWFxY0RxNnkwY0FfemJ5Xy1sOTJtRWN4NWlmOHRSdXZmY3FTdDg4RzdneXV1WGRZNERTeS1vT0VKM2dJN3dIaDUwMnZQa01CU3dOTDJXYlpuR3VMSkltTHM5VDdmLUt1NTQ2Y3F5aDBxd0hBc2dfOEpVN1RWX2JkdDB6aUdZa21rU1lmZUl2Vlpxd2ViSXJpcXphLWtrWV9YTktYYmZfejFVNEFSal9WQTFuMnRWS0c3dUhPR1BGdw?oc=5"
+        },
+        {
+          "outlet": "Bar and Bench",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEJudHpLNXVncmVkdTloMFpSc3FhZE1Ed3pfbkQ4YjNYaUZaa2tDUDMzdU1XLU9aa2ZzM1hqdTkyM1FWSHZwX0ZwazJNSEp6VVRocUNyRkcxNFZ1TDJpNjM5WFFpaVNCVnNPSWRkbThIYlFZelNCTlNnclVjVDNFWlZmZVR4aDY0QXJtUDQ3Q3pnQ0lEQ1VFeHlSRjJYQWRkQ3poWWt1bGdqb1RWQk54eXlxRVZXSldfVm45SkZ0dVBnc2ktMVZGOXlYVFVVLXc0MGJDa1MxaGlzd9IB5wFBVV95cUxQVm9DSDd4UmprUUZ0R21pYkZnUThSUDFybkFPQWpBSkFLOVRjdlp1QUdUbHpUT0k5UjVOVmVOWXR6aGVaeUhRc3dGV3RoODlUMllwcXJNd0l2cno4LXBFdW8zYnhBRE5YR0ZmdGhVa0lpRjNqSXU2anU1ZWxKZlJndmRmV1J1a1pOSzJpejRqVEw2V3d3QXhtVkVoQU9SME1rdl9HRzZONlZDOTlXLW1SV2pzUmlXSnVPRTRtOFl4OGFLZjRlcjVGMjgyT3AwTlNuSkllMGJoeGpnMy1hTGxUQnpRTDhGNHc?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Supreme Court moots scrutiny of High Court judgments to identify objectionable remarks about women. Covered by LawBeat and Bar and Bench.",
+      "image": "images/supreme-court-moots-scrutiny-of-high-court-judgments-to-iden.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "indian-railways-ramps-up-arrangements-to-manage-post-festiva",
       "headline": "Indian Railways Ramps Up Arrangements to Manage Post-Festival Return Rush From Bihar; Railway Minister Continuously Monitoring Operations - Kashmir Despatch",
       "summary": "",
@@ -194,6 +238,33 @@
       "image_kind": "photo"
     },
     {
+      "id": "bihar-woman-lover-get-husband-killed-after-affair-exposed-co",
+      "headline": "Bihar Woman, Lover Get Husband Killed After Affair Exposed - Cobrapost",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUxETzNNZDZnbjA2dmRuQjR0UzJ3eVZXRXVDTndpUHNnWWxLclktMVlLZEo1TVNTWFczMVFQTEtHdkNadkNreEtrWjJMRG45QWFHQS1TUFN1ZmZHelFERUtXMTVWZXRlcEhuRmlrOHh5NU9ORnZWcndGTDlQMFozV1gzOTBDSS14cWpxVWhIMzR6MksxTm1qd1RDZkpKUdIBpgFBVV95cUxOWlQwdmNTUVA2QlR3TWdoeTM1WHV3c0xIekw4ZjBNRHp2NUNGM3BERVgxbHRuY1lvQnJtX1p2eV9FRGxVSGxhWTdOYnMyaUlzb2VzeEJtMTY0cEF2RmhOVExqanpYRmlPNW9fc0FadV9hMlU1R3Fnd3VNRGFGY3J1LVRSNTFvMUUxX1B0Vy1tS0U0VEEwbzJidW1XaTdZVTFBLUhBelFn?oc=5"
+        },
+        {
+          "outlet": "Cobrapost",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQndseUxNYk1RbFdnSm1FbkxLUGI2NEx0NEVHamxlMHFJcHNfbkUwaUZza2Z3b0lTLTlHM2ZXQzFjN3V4M0xKM1BOQ0lwRW9Ea3pvTWRrdDZrZ2tFMndqWFZka0MwcnBjb2E0WlVyaFg1WjdERVdPNjA0SHJPRkUybUtZVy1Rbl92VFhDcg?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar Woman, Lover Get Husband Killed After Affair Exposed. Covered by NDTV and Cobrapost.",
+      "image": "images/bihar-woman-lover-get-husband-killed-after-affair-exposed-co.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j",
       "headline": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक - Jagran Josh",
       "summary": "",
@@ -203,14 +274,14 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran Josh",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVN5dmFibk0yTGZYeDl5Q0pkX0lFMWNXaTkybmtLeGlWejFyVTh1Vk1lZGFYQlgxZXZWcW1GalVUSEVybDV3SWNSc28zMTZTYzAxakZXd1lFZ0ZkYVdIUmFlZXFEVXlDb3pnQ0NkQ0ZCWDRUSGVBSUJnUllUXzA0RV8wREpXelB6dGNBZnZyZmlSNVRsQ3drSHIyMjNSZ25nM3ExeENYTnJfQmZXWEhlREZDOEQxQzQ3SldqdXlpMEltdmhUSmZNTTF6N1AyNzFpUDZDX0I5ZmxEQm5pWjhwNEtHVU9DLU5L0gHvAUFVX3lxTFBFQmJuWEtLZmlGdG9fbnlMWWRDdTJmc3pOV0QzaF8wMjBqZno1bHh0b3hLZnJkaXI2ZDVES3JzbDBjU2xvUjkta01XNEIxRkVkTnBjcndKd054Uk16ZFVndmNtUFliRHFTampLcFZ5bVluWGp4cVVkcmM5ZlhrQ3FUQ21HdldYSE5BX1lVb1dEOWpnTjFDWXdENWFxeTVUaGpOSnBBWXM5SlJDNWJqT2ppd1dzNE9ON05fcWMyMzBUZ2NJVlhRZUVBdUJYOEFnVm9pNlBtM0RkbjI4akwwbUJ1TTJWMDFZSER1MmR0cXFn?oc=5"
-        },
-        {
           "outlet": "Adda247",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlS280aEl4S3F0X2xuaUhjMmtzcWtHVFVHY0Znc1ZqQXM5YVRUQ2xqd2c5Z1gtUG1RNjFDczdOTHphb3N6QlM1Y0NIWEhHUEM1c1RIVGhVV2ZCWWw5TlhseXY4LUtvU0x4RzFSbFdKcXJwdWo2QnI4VG82d2d1dw?oc=5"
+        },
+        {
+          "outlet": "Jagran Josh",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVN5dmFibk0yTGZYeDl5Q0pkX0lFMWNXaTkybmtLeGlWejFyVTh1Vk1lZGFYQlgxZXZWcW1GalVUSEVybDV3SWNSc28zMTZTYzAxakZXd1lFZ0ZkYVdIUmFlZXFEVXlDb3pnQ0NkQ0ZCWDRUSGVBSUJnUllUXzA0RV8wREpXelB6dGNBZnZyZmlSNVRsQ3drSHIyMjNSZ25nM3ExeENYTnJfQmZXWEhlREZDOEQxQzQ3SldqdXlpMEltdmhUSmZNTTF6N1AyNzFpUDZDX0I5ZmxEQm5pWjhwNEtHVU9DLU5L0gHvAUFVX3lxTFBFQmJuWEtLZmlGdG9fbnlMWWRDdTJmc3pOV0QzaF8wMjBqZno1bHh0b3hLZnJkaXI2ZDVES3JzbDBjU2xvUjkta01XNEIxRkVkTnBjcndKd054Uk16ZFVndmNtUFliRHFTampLcFZ5bVluWGp4cVVkcmM5ZlhrQ3FUQ21HdldYSE5BX1lVb1dEOWpnTjFDWXdENWFxeTVUaGpOSnBBWXM5SlJDNWJqT2ppd1dzNE9ON05fcWMyMzBUZ2NJVlhRZUVBdUJYOEFnVm9pNlBtM0RkbjI4akwwbUJ1TTJWMDFZSER1MmR0cXFn?oc=5"
         },
         {
           "outlet": "India Today",
@@ -236,35 +307,8 @@
       "source_count": 4,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक। शिक्षा से जुड़ी ख़बर। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran Josh और Adda247 शामिल हैं।",
+      "brief": "Bihar SLET Admit Card 2026 OUT: बिहार लाइब्रेरियन एडमिट कार्ड sletregistration.cbrt.co.in पर जारी, यहां देखें डायरेक्ट लिंक। शिक्षा से जुड़ी ख़बर। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Adda247 और Jagran Josh शामिल हैं।",
       "image": "images/bihar-slet-admit-card-2026-out-sletregistration-cbrt-co-in-j.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-woman-lover-get-husband-killed-after-affair-exposed-co",
-      "headline": "Bihar Woman, Lover Get Husband Killed After Affair Exposed - Cobrapost",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUxETzNNZDZnbjA2dmRuQjR0UzJ3eVZXRXVDTndpUHNnWWxLclktMVlLZEo1TVNTWFczMVFQTEtHdkNadkNreEtrWjJMRG45QWFHQS1TUFN1ZmZHelFERUtXMTVWZXRlcEhuRmlrOHh5NU9ORnZWcndGTDlQMFozV1gzOTBDSS14cWpxVWhIMzR6MksxTm1qd1RDZkpKUdIBpgFBVV95cUxOWlQwdmNTUVA2QlR3TWdoeTM1WHV3c0xIekw4ZjBNRHp2NUNGM3BERVgxbHRuY1lvQnJtX1p2eV9FRGxVSGxhWTdOYnMyaUlzb2VzeEJtMTY0cEF2RmhOVExqanpYRmlPNW9fc0FadV9hMlU1R3Fnd3VNRGFGY3J1LVRSNTFvMUUxX1B0Vy1tS0U0VEEwbzJidW1XaTdZVTFBLUhBelFn?oc=5"
-        },
-        {
-          "outlet": "Cobrapost",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQndseUxNYk1RbFdnSm1FbkxLUGI2NEx0NEVHamxlMHFJcHNfbkUwaUZza2Z3b0lTLTlHM2ZXQzFjN3V4M0xKM1BOQ0lwRW9Ea3pvTWRrdDZrZ2tFMndqWFZka0MwcnBjb2E0WlVyaFg1WjdERVdPNjA0SHJPRkUybUtZVy1Rbl92VFhDcg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Bihar Woman, Lover Get Husband Killed After Affair Exposed. Covered by NDTV and Cobrapost.",
-      "image": "images/bihar-woman-lover-get-husband-killed-after-affair-exposed-co.jpg",
       "image_kind": "photo"
     },
     {
@@ -323,75 +367,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "prabhat-khabar",
-      "headline": "पटना के मसौढ़ी में छठ के बाद तारेगना स्टेशन पर यात्रियों की भारी भीड़, भभुआ-पटना इंटरसिटी में चढ़ने से वंचित रहे सैकड़ों लोग - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWXlUWTV4ZVZxSXBGUkNvUWl5OU5BSlpvNkFKbkwyamszaTZzZzF5bGxwcFVUTW9hVkVKRzkzVi0zRlNPRG9EWkhUZG13eHNYalhmRTY5ejZXRWN3Nl9VbXRmZXplZWJHVmdUTFBWOTNLankzcHFMWldhcFFuUW5iRWtCTm03eTFSNV9xRHd3cko1dGRvanRIZnlOQ3FyZ1hBRU5lRE5GcGZFc3ktTGM4b2xEU3RqQ2ZOcTJid0RiN0tGWE1mNGJtZld4d1pTR1lMcTZEYtIB2gFBVV95cUxPUnM4VHFUZ09WN19ITl9DWDM5SXdVb2tnUjZ1ZjlHNHphdXhCdU5xX1d3amJqRE5rZUktdXJmb1JDRFFmZDBCVDBCYTVlN3QwcmdGdHM5VlZQdzUxSjRrZGlIbkVYeHJGUXRXYkFIa21pYlBvdllmanFYTm9lYy1CUzhkU193UHJlSFE0c2IyeGpJSlhXV016QWdUTi1fQWRHSVphZzdLa2VoM0tPZDkwcmtPcXEzTkpEMEpJV3dzUkJVMEFfOXdBRWFxQVRfcm5MeFhQbHBBVVhTQQ?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLU8xMkg4ZkVvRTZoRF9IZ3o4dEhRLTZ2Q2JfV214aThHMnNENTB3alpmcEZRUGd0bjBoMTFLWWZhY0tJRjk3akZ1b25FWnpYQUNCc3JvQlVzTTFXWk1kcS1ydDdJSk5DdDU5TjQyTFo2cEc5bXZ4dWpidDF0clFtNndrRjlVYll1Ul9PUTd5TDhwbXFjbWE4bU84R0kwS0g1YVE?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUG9iM2FKUGRsUHM3UHI1Y2JXZkp3blV6ejBkTzc0U1IxZVZtd253S3dsRUU2cnZyZ3JWNnJfcGlSTGlGNm5TSXd6WjlQN3ltQ0ZteEI5QnY0LWVQX0ZoMmhyR2NVanN6YVBJanlELTF1b3BQSG9mbEV5TWFiSGk1dGFzS05ZZkhLalJKNC1wdEtkRlhSSkU3Zi0xb29abDZtel9QdkZ1aVN6dw?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3JydmxrbFFfZmRTamRfcGVQVFFTUVMtUG1FdGxqR3BSMlFSYXhXZm92X0ZBUnpTZ3RnLXdxeHJoOFdxV0MzeElnTng3MWtxaVhNYXJiMG9KVjFXWnlNRWs0dHN4dkkxLWR0aE9DRVVPdXdRR19MbXVWX0JKdUo4ZzFDZzRrb0ItSG4wUl85SHhERkJHWWM2VUR4dENYejVuZFBpazVZSGVEVkpUcTB0UElEa3E2QQ?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUV1RUVCVXpPMlBsT25yZENMMXBCbnM2c3c0bEN2YUcxSjB4Szh0U2hRb3RIa0RQTVJybEF4bk1weGxuU0dyYjFmczNhYXFNVmJfWi1HR0RORTQ5RWlHMndtOVdlYmNvSzRvV3czRG5EMWhoYWtPSnk0dTkzZVRQa0JEcndtVnF6NTFoSFJsV2gzbFZWV2RuYzFrTHB3SjRKOWRxRHdXZjEyamhlYnRsTU1Zb1c4YUxMWDJCSVZvSk1PTEdmbVNhV2RWYUJEQQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना के मसौढ़ी में छठ के बाद तारेगना स्टेशन पर यात्रियों की भारी भीड़, भभुआ-पटना इंटरसिटी में चढ़ने से वंचित रहे सैकड़ों लोग। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/prabhat-khabar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "5-1-4-41-prabhat-khabar",
-      "headline": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में - Prabhat Khabar",
-      "summary": "",
-      "date": "2026-11-17",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0N6VUVMVDJsYndrU0Jjb1ItbmRBUDRsQU5LNDhzNTVVOUlFYVc5Vm5sYmRmY3pncWFzbWY4M3hwYVl5aGgtdHQzN1I1a1lIQzhqRllDTnozaE0tRW5wekVfMVN6SHRfRG56SExQR0Vsb25hMWljWmhWaTZJa1FraW5FZG1xVTFHY1c3aEN2d2dCdjhXeDd6dkliX0FMQlRjdFk5cW9YNzJvbDhjY1JVWVYzVUhYV2o0YWpEMFFocDRpUmpmemVsVHlCbw?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0xVWHJwUXNJRHltN2dmeDhCWVZGblI2TnNFRGtXeVRSLWxpNDlCQUlZTVgtRGVGdlgyVWFQSWYxb2k3cXdrWnpwOTl2d2doR0NPaTJzQ3IwSDRBV0R1a25rX3hSR0t3WnR1bklaUTZWODBLcmk4dC03OWdoUndRSzMxNlNiUHJJOHo0VGhKRnowcXJNZGFZU0RiUGdyRGFxNTgwbWRxd2N1RkxaZHFlRUhPa1VPYWxndndxN2QwX3QwUlBQM2hjTEdn?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/5-1-4-41-prabhat-khabar.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "600-2-7-aajtak",
       "headline": "पटना में उच्च शिक्षा मंत्री संजय टाइगर के घर बड़ी चोरी, 600 ग्राम सोना, 2 किलो चांदी और 7 लाख कैश ले उड़े चोर - AajTak",
       "summary": "",
@@ -446,8 +421,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "3-dainik-bhaskar",
-      "headline": "पटना में राजा बाजार ओवरब्रिज पर टकराईं 3 गाड़ियां: डिवाइडर से टकराने के बाद फॉर्च्यूनर ने ऑटो-कार में मारी ... - Dainik Bhaskar",
+      "id": "prabhat-khabar",
+      "headline": "पटना के मसौढ़ी में छठ के बाद तारेगना स्टेशन पर यात्रियों की भारी भीड़, भभुआ-पटना इंटरसिटी में चढ़ने से वंचित रहे सैकड़ों लोग - Prabhat Khabar",
       "summary": "",
       "date": "2026-11-17",
       "topics": [
@@ -455,22 +430,69 @@
       ],
       "sources": [
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "AajTak",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVkwcWQtU3I5ZEI5cTFNV1R1UkRFRHE4dmxtQXQ0VTE5ZnRXTENWa0VFYnZLdHMyeDJZUGJ6UDR0LU9lUFNTbU84WEtnWURrTDVyYk8wbnBmT2JQWTZackVqby1hTWx6bDd0N2M0RndYcDlsOWR4WXNiSUd0WUNtRHItaXN0MHZ0aXRpenc3cTI4NWZXOFo2Tmp3SnN3cGkxdkJpbzUzN1BubUhjODJDdkdMa2kyYlNSZEQzYWRndjhjN0xRRXBV0gHMAUFVX3lxTE4tSnpJcGZlZ2NrU01NSDAtd2w3cmJEeXVjN0lIQS1zZ1daMll6MXItLWd3Z1VpR2gtb0hXMENoVVVsNWU5bGNOenpfYVZRbzZBUElNMEx6Z1E4Y2xuS0hYdWRVMGVfQTZHTmZIRWdjVmRtY2JaYjRHVDRzZlNVNmZpdmJzc1U3Z2JvdjItcTFrR0paVXB1M0hRejg3OExQaTV6NTc3Z2xqM2pIbjI4YmU0bmZGallXaFVFd2lvWHFLc0lmbWlOUWc3dnJ6SQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWXlUWTV4ZVZxSXBGUkNvUWl5OU5BSlpvNkFKbkwyamszaTZzZzF5bGxwcFVUTW9hVkVKRzkzVi0zRlNPRG9EWkhUZG13eHNYalhmRTY5ejZXRWN3Nl9VbXRmZXplZWJHVmdUTFBWOTNLankzcHFMWldhcFFuUW5iRWtCTm03eTFSNV9xRHd3cko1dGRvanRIZnlOQ3FyZ1hBRU5lRE5GcGZFc3ktTGM4b2xEU3RqQ2ZOcTJid0RiN0tGWE1mNGJtZld4d1pTR1lMcTZEYtIB2gFBVV95cUxPUnM4VHFUZ09WN19ITl9DWDM5SXdVb2tnUjZ1ZjlHNHphdXhCdU5xX1d3amJqRE5rZUktdXJmb1JDRFFmZDBCVDBCYTVlN3QwcmdGdHM5VlZQdzUxSjRrZGlIbkVYeHJGUXRXYkFIa21pYlBvdllmanFYTm9lYy1CUzhkU193UHJlSFE0c2IyeGpJSlhXV016QWdUTi1fQWRHSVphZzdLa2VoM0tPZDkwcmtPcXEzTkpEMEpJV3dzUkJVMEFfOXdBRWFxQVRfcm5MeFhQbHBBVVhTQQ?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbl8wRGExLW9PdUs4V3F0MXZXTFRpMEVFTmdnYkQwQ2NUcXRXQnctMmp4ekFRcWZmRV9YUnM3UGdERDlKVTQ2MWdSSGg5MjNjS05OM3l5b1k2aTlrQ1diUXI1M3NIUzRnMkkzRFZKQWNodVI5S3hJc250Vjk5V2k5a3Z2M2FIUDFqb1k4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLU8xMkg4ZkVvRTZoRF9IZ3o4dEhRLTZ2Q2JfV214aThHMnNENTB3alpmcEZRUGd0bjBoMTFLWWZhY0tJRjk3akZ1b25FWnpYQUNCc3JvQlVzTTFXWk1kcS1ydDdJSk5DdDU5TjQyTFo2cEc5bXZ4dWpidDF0clFtNndrRjlVYll1Ul9PUTd5TDhwbXFjbWE4bU84R0kwS0g1YVE?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUG9iM2FKUGRsUHM3UHI1Y2JXZkp3blV6ejBkTzc0U1IxZVZtd253S3dsRUU2cnZyZ3JWNnJfcGlSTGlGNm5TSXd6WjlQN3ltQ0ZteEI5QnY0LWVQX0ZoMmhyR2NVanN6YVBJanlELTF1b3BQSG9mbEV5TWFiSGk1dGFzS05ZZkhLalJKNC1wdEtkRlhSSkU3Zi0xb29abDZtel9QdkZ1aVN6dw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3JydmxrbFFfZmRTamRfcGVQVFFTUVMtUG1FdGxqR3BSMlFSYXhXZm92X0ZBUnpTZ3RnLXdxeHJoOFdxV0MzeElnTng3MWtxaVhNYXJiMG9KVjFXWnlNRWs0dHN4dkkxLWR0aE9DRVVPdXdRR19MbXVWX0JKdUo4ZzFDZzRrb0ItSG4wUl85SHhERkJHWWM2VUR4dENYejVuZFBpazVZSGVEVkpUcTB0UElEa3E2QQ?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlVwX2NCbHNqWU81LUpia2dFMHhzWTR3Ujd4b3lHZjV2aF9HaERXS3YwSkpZWVJkM0VrdElVUmtCZ2tvTC1jOGRyeUtjSWRTd0xMWGZmNVlvN2hhMHZ5VWFWN0xlQmU5ZDFjV2Y0eWJGWVVTa2RsTU55SmF4Z1FkOUFOVjhOTk5IWHk5bXpnS2Jpemp0d1RkaklKaw?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUFrMExQaDVRLVlINUowMHRWREdCejBxMDhTNnd1Z1duUEk1QnMzdjNaeWsxTV9pZHZ0NmY5RXNMUlFMdm1BSHFKaDVVLXAtS1Z1a2d1UU4zOEs1NlV3UmNvS055VFNxRUQwVHhVZC1ZWTl4cUR2UVY3M09BMHlQRHQzREhfYW1FSWNWMlF5TXp2bmtVVUtGTy1NT1NJTWZPR1dpd1M0QlotZ3RD?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना में राजा बाजार ओवरब्रिज पर टकराईं 3 गाड़ियां: डिवाइडर से टकराने के बाद फॉर्च्यूनर ने ऑटो-कार में मारी ... इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
-      "image": "images/3-dainik-bhaskar.jpg",
-      "image_kind": "placeholder"
+      "brief": "पटना के मसौढ़ी में छठ के बाद तारेगना स्टेशन पर यात्रियों की भारी भीड़, भभुआ-पटना इंटरसिटी में चढ़ने से वंचित रहे सैकड़ों लोग। इसे AajTak और Prabhat Khabar ने रिपोर्ट किया है।",
+      "image": "images/prabhat-khabar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "5-1-4-41-prabhat-khabar",
+      "headline": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में - Prabhat Khabar",
+      "summary": "",
+      "date": "2026-11-17",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0xVWHJwUXNJRHltN2dmeDhCWVZGblI2TnNFRGtXeVRSLWxpNDlCQUlZTVgtRGVGdlgyVWFQSWYxb2k3cXdrWnpwOTl2d2doR0NPaTJzQ3IwSDRBV0R1a25rX3hSR0t3WnR1bklaUTZWODBLcmk4dC03OWdoUndRSzMxNlNiUHJJOHo0VGhKRnowcXJNZGFZU0RiUGdyRGFxNTgwbWRxd2N1RkxaZHFlRUhPa1VPYWxndndxN2QwX3QwUlBQM2hjTEdn?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0N6VUVMVDJsYndrU0Jjb1ItbmRBUDRsQU5LNDhzNTVVOUlFYVc5Vm5sYmRmY3pncWFzbWY4M3hwYVl5aGgtdHQzN1I1a1lIQzhqRllDTnozaE0tRW5wekVfMVN6SHRfRG56SExQR0Vsb25hMWljWmhWaTZJa1FraW5FZG1xVTFHY1c3aEN2d2dCdjhXeDd6dkliX0FMQlRjdFk5cW9YNzJvbDhjY1JVWVYzVUhYV2o0YWpEMFFocDRpUmpmemVsVHlCbw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बुलेट ट्रेन का रूट फाइनल, कटिहार समेत 5 जिलों में स्टेशन, पटना से वाराणसी सिर्फ 1 घंटा और दिल्ली 4 घंटे 41 मिनट में। इसे Prabhat Khabar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/5-1-4-41-prabhat-khabar.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "bihar-cm-samrat-chaudhary-offers-morning-arghya-to-rising-su",
@@ -502,11 +524,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWxoeV9ZUzJiZGp5WV9uQk53SUFQdVJUbUI5bWhhY2Vral9PeFplVzlOcFY0ZnF2clF2UU4xSG4yUDRLTkRQUG0teklacXpBb19WZUZ6dmUwTWNxS0FseThkZkhHX1o2Vms4Z19zd0p2UHc5Nmk0T2V5dE9IU1pfS1ZyaUJERlZ5bzdoVmJYeE9WQS1UN3VSLTFQUngzMzVRaHfSAacBQVVfeXFMTnd6SHpLbU1EcVNsN184cDNIREE0M214N0RUUWk1ZDFvb2RwQTBTSVpQcl9ETWlOeGxnajBzMGNJR3NhdEQ1bDl6YXkxejUxQmJONkQwc2ZhUk9kWGVWLTJHZDVXcUNncTY5SFlPaEJQOUEzMFMxN3pnaG5tUjR1V1JjNHV6SURnOEdxYjRQUGFqX2dRWDFFRG9rRXpPMlFBMGQzTE82SUU?oc=5"
         },
         {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDRfTTEzWVk2UFZ1dVVILTdraHp2YzBTTDBjVXYzMi1WSUY2c0hZSXJQSzhkRTZRVDNSTjNSVm9EblE0U1hkOV8tU3oyRk9MSHFPdWNRcHUzV0NPX3BiSWhLX2NjcU00SVVIV0YwQkhXMEh0dkVzOVBGRHRHdzBBc2x2bkE2YnBmclh5RUZ1MHVhSFB5MWV30gGcAUFVX3lxTE05WXUtT1FUbzZtb0RhYWtRd1F5UmJWUXNQbkZpc1ZlOV92d0lRd2NPU2VVVEZKemRHVGRycFVSaEdmWWx2SVpWalNuNzJ2QVhRZlFuQ1dGU2dtSy1iYnBFYWhMQnRXNTM2Zno0R2J3cnU1Q1VUTF9wWmxnRFRfN2YxZVJway1QNUpnU1NfUm5Zdm1OMTdpMzNBOURQaA?oc=5"
-        },
-        {
           "outlet": "Cityairnews",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGZfWm1YRGY1MGJkSE1uVzBtNHFjbHpKdEN0NmNyRk9IbEhfak5iLWNJYjV6WmpYaGN4Q3dpcVZ0ZUVBWVJWSVFyWV91WktZWTJ1cUloekdXRWJtS0hrUmhwZnI0T1ktZzM0eGNnWURPaTJCWjFiNzZ6NzhxRi1TQmFXOEJDRHEyRklGR2hpSm1SVmozVWNNUFk0VmlEdzVzdk92elAtM1dIUQ?oc=5"
@@ -517,15 +534,20 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2V5ZlBrZFc3RUdQM245UTh2UjB1TlNJMlI1cWJfWVptZ05Qb1ZEYjktb0wwRkYzSnI2Qy1XWExfUnpuV2pZY2g3TFQtMmJnUTVIX1ZDd3RHTTNsYVo1Y3EyU0JSc1VabGxEMTUxdXI5QnlsT3BlQll3YkhuWHFTbVJxZWloV19ka1g1Y1FBVHA5cG1BeU51ZGVhV2t3T2U3WS1Z0gGoAUFVX3lxTE9FWTFjTi1sVmVYU0lLOVJkR19aNGQzR0FJZ08wY0VUWmxlTjFWN2ZuN1J4VlViVkZOWkpGWUE1dWxDWjRwZFlZNTZiNm5takp1RnFQdWVSaUJJWjFPeW5yb3VMVGM4VElPZHpsM3ZzSllVbUJKMDFYTXJ6MzNaVm80bk94ZWhWODFKT2g3bV9wYXdSVDMyMC1SdG5OTmlVZmN0cWZhMDFkTg?oc=5"
         },
         {
+          "outlet": "Daily Excelsior",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXFlczJtaWxvalpodWVGaXR3blpKckhYZjVoVFlQVWZVSDVrMXZVd0YycnY4bE5JRXh6cDlJVFoxbE1uRWszcllfZFQtb3poUTRxQ3VSSVFzZXdZSjN6TDdxTktqZEptOXNFUlotTVNxeEluXzVKQ1FMTDFLZGhpU0tOb05QcnlaTWQwOGRvUmZmMXPSAZcBQVVfeXFMTzFpSkY0TlVZMFpsYzJiOUpMU045dnJwaUZjUEs2c1FYWEFGMDVBa1JtTUFOMG1naks5SWVSN3k0RFNNRU92eGJfOXppLXVKTzNkTmExeUNpOFFtX3NCdTNuUmdEU0FBYXltSWlOOHE0YkdGQXF4MUNCblVKalVvb2xhcS1QLTlsSGhhQXFCSENGQXJzOHZscw?oc=5"
+        },
+        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnkyN05vTXlSQ3VUcWlJeXhZS25jTHEyZEFsWko0Yld1SUFuSE9yRmY2a0FnYkFRUmx6WnJ4RDNUSWh6NUhwOThJUkN1QkdFQW9lY1ktSlJzelZJQjdxSnF4cWxPel9sT1lZNkxaa1JobUlfQ3lNNTNpMHF6NV9GbWo2aUplMjhSdlVCRVRtQUVieTEwd1RHM0NPVFJsV3VlZGI0eVg4MlpHMi1rSmRQWUt1eDBESy0wRV8wRzlReXU?oc=5"
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Bihar CM Samrat Chaudhary offers morning arghya to rising Sun on final day of Chhath Puja. An economy-related story. Covered by 7 outlets, including The Hindu and Rediff.",
+      "brief": "Bihar CM Samrat Chaudhary offers morning arghya to rising Sun on final day of Chhath Puja. An economy-related story. Covered by 8 outlets, including The Hindu and Rediff.",
       "image": "images/bihar-cm-samrat-chaudhary-offers-morning-arghya-to-rising-su.jpg",
       "image_kind": "photo"
     },
@@ -586,60 +608,6 @@
       "genuineness_label": "Verified",
       "brief": "4-year-old dies in Bihar after mother beats her over Chhath prasad | Tap to know more. A crime-related story. Covered by 3 outlets, including NDTV and Daily Pioneer.",
       "image": "images/4-year-old-dies-in-bihar-after-mother-beats-her-over-chhath-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "4-aajtak",
-      "headline": "छठ की खुशियों के बीच पटना में बड़ा हादसा, गंगा में डूबे 4 युवक… तीन की तलाश जारी - AajTak",
-      "summary": "",
-      "date": "2026-11-15",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "AajTak",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1V6X0ZucGNIUXJKMGF2MXlMUnZjSnlib0JsVm5odjQ0Z1YwU0M5RzNfcFFuWDN5WDlPc1k5STRpODRHNWpBM1VJRThSZ1AtZVdpbm1GNXpyQm9OQXdUUmpEdUN4M0l4cEVJNFp2bXB3a3pRLXNpNHI5LUtWUlg5SW1pY08xajREUzJPa2NOb2NLY3hHNWZaSXRMOFBUbW10RmVXa0R0cXFKR0d3LVoxdFdYT3YwYjJYNDZ1OTF6UdIBxAFBVV95cUxNNnNhY0xWVzNxX1N0VWR0ckVEX0I5MUlFcm81dzBPeGFQTDVVaDJmQUxpLXN2ZXQ0Nl9CN3pIMHdJMDRyXzBBaDRGWTV3cWQ2OXJXOFUxaDJPQ2ZVMEdfYzhSYXNNSjBXOVdEU0NoUS1Obnc1T2x0bl9LZkZwSFJkVEJvWmZhYmVXdmlUZUprVVRCOGdVTFE0Vnk5MVNqX1NXSEV5dXBQXzZMVVAwcEt3VFl2SWdKTUp0UERNUXVrU29mZHlm?oc=5"
-        },
-        {
-          "outlet": "ABP News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQWllLWUxT3AtNE1aTllfbUtOOEJJOTVLR2ZIcVVOSmd0cVA5dVdnTVUzQ1k4OHpVS2RfRTRWYXhzMXBPcnlPVmVyVkVsOTF5Y21DNGdZN2xIM0FZQmpxN2pya3EyekVoLUViWHYzX19ubEUtMEc3VktNS1BYX0RoMEFmdzJmN0VSaFdGN3NJaTdtQjlzNjc0TldSYy1pTlNaOF95cDBuaEFqT3VyTjBnTkpKSVh0WDJ0N0ZENlhRa3hENEhVMVQ3bV9McE84Rm83Nm1GbTFjWFMyZ2F1WlJv0gHkAUFVX3lxTE5tNndWcmxTSjFVT3hEbmFhZGViQTFyUnpWSzdKQTNTb1BtLUF5dDhWOFFIN2w0RGt0Sm15MUdiODVZeVV6dUFDMjJHNVdQbTJSN2JSVzlHYjRHSlpYTWlodzJVRWhDMGhiemRCS1FsUlJxZTlja3VkUWdiTW80V0cyVDRiUDlXV2dVd3NfTDJHWUxheDZQYS1mVkVzT1Vtdzdhb3hUQW9uQ1J2MHVMbFdyMjhZVThfbEFZVEsxR05zNmtTZ2RuM3NHOW9sbkVPbXIwTENrZUtnbDhCS2puLUxSX3F6Mg?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "छठ की खुशियों के बीच पटना में बड़ा हादसा, गंगा में डूबे 4 युवक… तीन की तलाश जारी। इसे AajTak और ABP News ने रिपोर्ट किया है।",
-      "image": "images/4-aajtak.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "video-chhath-2026-chhath-mahaparv-sea-of-devotees-flocks-to-",
-      "headline": "Video | Chhath 2026 | Chhath Mahaparv: Sea Of Devotees Flocks To Patna's Digha Ghat For Sacred Rituals - NDTV",
-      "summary": "",
-      "date": "2026-11-14",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTA5NldPVHJLSTJDLUVOTkNGelgxRlJCV3dOU3BkR1dCTEt3TmEwRHVqUFRWX3pDRzh5YlNQYlA3QXZDckhHblQwNHU2TS1mTE1OVzVhSnEyY1RUWjRodWFnZnFEaGVuS3paZ3l5VmplZGVIZ1djbDRtZzFPaldxWWxsT3JhVDBMZnlkNVhPZ1I1akZYSXlYRDhwQjFQQnhQRm9KYVh3NUxOQlczSlMxZmQ1NFhlUHJPdkFzbDUwOHE5SUhs?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZVIyckhNTzRubWljS3RpWFZSWWQ3ZTZ1MTVady1uVTJaeHFJMnNleXdwRUpDSVE2MUlrNjVxSjJBaXZhUGx5SkYzUXMzYjdNcy02S2hBMzdWbWRyNWY4VndtWU1lZV9hZmtGaldlcFY5a0s1VGloZU8wcFpiSVpMSzBTVkNmMC11RGFpbmpIU0JDa2dJOWNILTNBeGtVSEVEWU0xQTktc3pWVnlqVTI1VHA5aEw5Yzh6THpFb09aM3k3dGs0Q0J0X21UNndfU0R3Y3VCcF9ZTnp3RUxKZmk2bUg3ZUZDeWdzMVd1d1h3?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Video | Chhath 2026. Covered by NDTV and ANI News.",
-      "image": "images/video-chhath-2026-chhath-mahaparv-sea-of-devotees-flocks-to-.jpg",
       "image_kind": "photo"
     },
     {
