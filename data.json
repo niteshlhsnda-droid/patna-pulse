@@ -1,12 +1,44 @@
 {
-  "generated_at": "2026-11-20 13:54 UTC",
-  "generated_at_ist": "20 Nov 2026, 07:24 PM IST",
+  "generated_at": "2026-11-20 14:54 UTC",
+  "generated_at_ist": "20 Nov 2026, 08:24 PM IST",
   "story_count": 42,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "pm-to-visit-bengal-bihar-up-to-attend-platinum-jubilee-of-ii",
-      "headline": "PM to visit Bengal, Bihar, UP; to attend platinum jubilee of IIT Kharagpur, inaugurate ‘Nitish Setu’ - ThePrint",
+      "id": "icici-lombard-to-host-grievance-resolution-camp-in-patna-bfs",
+      "headline": "ICICI Lombard to host Grievance Resolution Camp in Patna - bfsi.economictimes.indiatimes.com",
+      "summary": "",
+      "date": "2026-11-20",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "TheWire.in",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXRYQmhrbWI4aS1sRHA0RDhrZjBZcXhyZWEwSFVwd0lfaS0yV3FHbzdfMndnTDNvYVNCRTBKSy1GV0QwM3EtZ3lseXZ2Y0p3WEpPVWpZRWhFczcxR3RsXzdON0ppQTV0Tjd6SXhXcGRzS1B3cGtHa0FVV2syeXA3QVhDWmJndWxBamFJVkloTXdrRjZwSmdmQ3Jxd9IBoAFBVV95cUxOczRKOEpaOFhLZU5PSWtfNTVBbDVLYnBhYUQtdEU2cDdoLVBNbXlYMDI4TUhNQmRDeWVoOFlBZDdudDBRTW8xTmJuSTdITWxnQjJOdVM4bUM1M3pzaTR1dEJmNWRpdG0xb0RIYU5VSkktQVA5NXZjeVc4TGxKVFJJOGRRQkV3WkNGWVRPWGtNa2gwQVZaTkdQMElJLVRNU0F3?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMllJdzNjTzN1OFVsMXRleEdUX0NPbWx1NmhKUmxERTJkQmRYWDY4R3FMZmpuUHdFVVk3RWVBcDBTMWJYQ0F6Wi1SOC0za19NQkZoWjRMSjZ5VmFtRXJkSFdNZ3FVNFJfZDNqSkwyUlBDX2doaUdmRElzTUxnVGVlYkdyQ3l4OC1ZTkU1d3dJaHhFaUVwM3k5cmhoeEczRk9PQ0FRXzRuQdIBrAFBVV95cUxQcU80UjBaTDRJeXBwdURGeFJzdHNmODdGSXRoMlpVbEdDbFZoYnd0eVBxMXVyeUNYSS0xTG1YVWFyaTRyV1FJQ0doNXV0U0FTTXlWU2doa2JjVlBaOWZvWktfeUJaT3g0eDlSMkptRHREZEJZWldrWmx3MW1TNXlLLUtJYjR4YllpSzRuZ3RyZW52VXIwaWJma1VOcE5EQXVPdWJLQkZpOGNRUDZo?oc=5"
+        },
+        {
+          "outlet": "bfsi.economictimes.indiatimes.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnBfSENnTUNaZWRLeU1scmZwR0ZxVlQ5LUxfcTdnLU95WGNXbnlHMDJ0RzQwMWd4MWxOYllfbXh5d0pyNDZUYzVMZ1N2VGlEd0kyLTc0RnBGbTc0Y1hmV0RhY04ybFBuRm4yNmRZS19yRy0xRmIzTnFqWW8tSU5xNWYxVG5DMkhJTWZXa0lPQlEtZGtuMnBIREJJblBFbkZxcllBajJLUVljUXAwQmVfcHM2Mjd0eEUwbXdwZnFR0gG-AUFVX3lxTE8ycF9IQ2dNQ1plZEt5TWxyZnBHRnFWVDktTF9xN2ctT3lYY1dueUcwMnRHNDAxZ3gxbE5iWV9teHl3SnI0NlRjNUxnU3ZUaUR3STItNzRGcEZtNzRjWGZXRGFjTjJsUG5GbjI2ZFlLX3JHLTFGYjNOcWpZby1JTnE1ZjFUbkMySElNZldrSU9CUS1ka24ycEhEQkluUEVuRnFyWUFqMktRWWNRcDBCZV9wczYyN3R4RTBtd3BmcVE?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "ICICI Lombard to host Grievance Resolution Camp in Patna - bfsi.economictimes.indiatimes.com. Covered by 3 outlets, including TheWire.in and ThePrint.",
+      "image": "images/icici-lombard-to-host-grievance-resolution-camp-in-patna-bfs.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "pm-modi-to-inaugurate-lay-foundation-stones-for-103-projects",
+      "headline": "PM Modi to inaugurate, lay foundation stones for 103 projects worth Rs 60,000 crore in Bihar on November 21 - The New Indian Express",
       "summary": "",
       "date": "2026-11-20",
       "topics": [
@@ -16,19 +48,9 @@
       ],
       "sources": [
         {
-          "outlet": "India Today",
+          "outlet": "The New Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZzg1Sk9icDlPNnNEZGhXVzRZSVFDTzZGWTF6YTMwWmFJR3YwZFV0OWdZRDl4N0ZmbUFuZXI1VUhkeE5Raml6T2xCVWRXc29RaVVXNEpjNDNjZzR0U1Q1V19scEdCQ0E5dmdTRzJLY1pSLVA4QTZMOXRpeEU2OXdEZXpyNldjSWRiMlQ5VkxLUEJ5MDBhb3B4X0o3NFJHcU1MN3BJQ0h3aUFEZzhybG9Saks3dFRmV1NxcDM5TXVpMGdZLTZZOUk2S0d4ajZTNzV6NFVWOEtTaGRHVFJSRFYtQnMtVGRKOXRN0gHuAUFVX3lxTE0yeVFjTWVyYkJleDFhQlBHZW9RcWxsTkFvOU5kUmxBTzhzLWV0WWEyZk5nb1d6LXkzY0F5RVVqMVJ2dzQ3bjJWSVJOSWFienZYYWdFX3JTSFRUdFZibEJDSlY0eDBFdzVNOUdhNUpVd1lmWUt5YmRLcHh2TFJRamE4X1lzVHF6VW1CMHFLd2lLMVE5X2g4aE4tVjltUl9QWDc2aEZoa1BsWFIwVjVFYjNnS2lXejZXLWxHMjhHT0EzYzZXd3lOUGdjR1dDUFJTNEp6ZjJIYzRZUGgwRm5yeDBkVHlHOTc5Z0V0RXAzR3c?oc=5"
-        },
-        {
-          "outlet": "Rediff",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaFBIUllEUENsdW1vNERDeWUtV29kQy1JMW1LLW4zamxyTlptUjV5UThiS0h4SVpoSDQxeE1ic3N4SDVidjR5T0RjakJQSEdoT0RmTnNCU244bUtDOUl0cEZIaF9JeUM4ZlpPNnVxOWxFN3FUYWw2MVJ2RlhZbjBrbDBkSll0N1RBYklOOG1QQlpMb0JGU2pONlliUGZTV0JWaFNwLWxfblBxYWxGUnlFaGw1eFpkVS1PNzFlX08tWEgwaFFyTmQ4cGE5MEswYVkyMGJqS2lYbE1OUWs5VHZF?oc=5"
-        },
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdmxoeFdfNXItbXBfamY5akdwbms5SW56a05EWWx2cUh1b1lGVnNrU3N4NU1lQ3ZTbUVtNjZ4NGw5bnVRWC1nd3h3bEZHUWxaek5tSE9iT3FuYjYyT3BqckNzRWJZSEkxODdxVjVQckV4M3g1MHdRVVl6YnhMQ0pTUzd6eG03ZkhmbmZuSmlJd0xUUGE5azdwbGVYUWpqT3hWZmZPNmtMVXZlMHdhTHZOdXFMNE5HR0xMNWdHU1F4MGxESXJOekxLeUJYaHphaGNlV0ptU3VKLTJ5Zw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWEhTSENrbjhoSF9BMFpfRWctcDFpVHpjUFYzUnpXa3FZRURZai04cGdUUkFfSTFFZnBsWkZoMWY5YjkxRnM4eWtmbHR5U2hqOWlZU1pfelVNc0hOSDdjdHlKUl9Jcl9iLXlHR280bnlzYnFtV0R4WHlLRHFDVU9aM3NhZTdlX0dxb1pnZ3JaOXBaNUZ1ZnRMNDMyQ3RxUXAxc0drTTAzaFlGVnVWX3dkSno1Sl9GcXh0Q1V4eEl0X0NKSzBjaU5rWVBYTzVydUFFZncxYS1Kd9IB5AFBVV95cUxQMWEwX1prU0h1YmE4RGtvY3p6WEZ3T2FMNEVaVVFWUWtHYkdsM0hwS1pZVlYyb1RPVG1kNHVING12X0J4ZFo2WlQyNDJ4Ql9GS1cyRHl3Qk5mWmhJV3drYW4tbDJPZ2c0NzJLTTQ4NVprLThxb1hjMWthNV9ud1RLczE5R3lheVBVMjUwTkh0b0FySXROeDVIQkZCZVdFYVdSd1loNFB0YjI0bzYycUhON1hXLWJCZDUtWGRuVzhvT3ZndVhtN1J4eDFmeDRkc2pxeXMwXzk4VE1ybjI1T0d3by1vRTM?oc=5"
         },
         {
           "outlet": "Rediff",
@@ -36,9 +58,29 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOGtLUVBUeTdyaXhyajRBR1pwTDlEdmhKY3NZZmFMdmFaUmJKYVQ0VkdCZTRIcXV6dVJwVEZId2hwXzVDck1sdEFFZzIwUlIxbHc0QU93c3MtYkd4T2ZWMnhaWDVMSmNyam84bFhEenNjakhJcjJSQmlwdnJnTmRzTDVSR0hfQk4zSy16RWZDbDdYSEFoMHZDaUtCR3Q5NVNLSndyWTJOQlpWZ0M5N0VwN0tmeXFkSUIweWM0N3JmRS11eWhhMWZUbkpwQ0E?oc=5"
         },
         {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdnNpTnZmell1NFFQUHFmX1FzU0ZxcFVOS25jdzlwcVFUZFk5WE15ZW8yd05ycHBKT3ZCbUNWLWdfR3BBS3VqTHM1QjVnZGpTeVJTZmR2blZJZEtLcVRGSTdhOTZtNXExR1AyWHUwRTZQbVVWV3dqbHd6NzczN05pZHIwTFpKdnhsUnVxRmRnYjlIX1pXT0xqUzFwZU1qTmtfd3l0bm9vLVJzOG04a3lRNS1QaWNieGpXMllXdzBaUdIBzAFBVV95cUxPSFp6d0ZNZUhTMlNRWG9ZYVloaHRnSmZ5c2J0YU9Ib3VhX05wbEIwcVYyUmtaR0lteGl6dS1OMWk5bE1GQ252UzZTbjU2TGI2TThzeFRMSG13MS1nU19aNTE0Uzl5UVNscmRidmhTZkI5UG5ON3lYR28xZDVaWjFqRmhBczRHTlJZNlRPM0xuSmNJbjhCb0YzZzJ5Mmc0UFhlTnpDc093Q21PUk9RY3ozcXFIa29IaFBGOVdXNjduZWstLUZ1MzZmVzdrNDM?oc=5"
+        },
+        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlUyX2N3cHdGcTRpU0xtcjAyQjc1dmc1OFdaOXJfVjZTMWxyNEQzVEw5dWpIai1EWFRzZFhVaVpSSnAtU0xNR3dNbkEybU9QMDVicTczd2xaSy1pYjl5cjgteUNLWXZuZFM2VFR4Y0RNYjd5djAzUy1WanprSzYxTGZQQms1b2V0Zm9SSVhOcVhVQnU2eWtkVzJVMNIBoAFBVV95cUxQZ1pyT1lINUlCRnpQd0EyUTJXQXhkNXNMSWVRQnB1aVNKYm1SbWJiS2djMU04OHdwc2VoNXhkLVY0S0pnZjZ0R2d5cWd4aXZfbXNyU3VJOEIxTEh6XzR5MXhldDhjc3FRaFdrVnJzX1hjem95MGdEY3ZQbURPM0syT2NQdEhQMC1VRk1MX0FxUjBMOTNIRldvdkR2Y2tNeF9a?oc=5"
+        },
+        {
+          "outlet": "Rediff",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaFBIUllEUENsdW1vNERDeWUtV29kQy1JMW1LLW4zamxyTlptUjV5UThiS0h4SVpoSDQxeE1ic3N4SDVidjR5T0RjakJQSEdoT0RmTnNCU244bUtDOUl0cEZIaF9JeUM4ZlpPNnVxOWxFN3FUYWw2MVJ2RlhZbjBrbDBkSll0N1RBYklOOG1QQlpMb0JGU2pONlliUGZTV0JWaFNwLWxfblBxYWxGUnlFaGw1eFpkVS1PNzFlX08tWEgwaFFyTmQ4cGE5MEswYVkyMGJqS2lYbE1OUWs5VHZF?oc=5"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa1lYbjNwaFQybjQwWjhOMkx6R0FBb0lYemJXbHVORWJhaERDeXFxRzZHNW94eEM4WE1tVmwxdk5FWVRSRlRWMVJWSWNYMmVLaWFBNHhFeklNNk1qWlpKU3NqYmdKOXZESTB2T05SUzNheUF0RmVPYnB6UjBzRWl3YW45WVRObER2WEp2ZkR3UUVEaEh2d2E0Z3pTNFNsNXY5a3c4eGh5UnVMam82V3FMNE1BelJ1OGJnNTgtYWNCM2wzdWFPZEhabzBGT2trVTUwbHlDV1JHX1RzNlpKbnZfVExoZkdtVnNKeFNKbdIB-gFBVV95cUxOS0xYVDhwd3VmamRaSlRuZjRiNDBYNTA2c3NHbkRjWGhONXRyQzllNTRwNmMxbDgxMVl0ZUN4cFVaem1EX21aaEhiLTdNWnpjMHViVjFya0JzVnJFX3hvQ3dHVXdGQ2ZIQzJtRUVBbm1pMFU0YzYtaWxzZV8tNG9CQS0xazROeTBJZ2JXdkdkVklGbEhSSGFtUEVxd0liazRUYS1FamxTbnE4V1NTR2VRTEJyTnRuRHp6RDVvbm1ndTdZRE1xUnQ2ckI4M2hBRlBXSHlISVRsR2pBbnNvM1hoY2FGc3IyY1VkSDZZU3habWx1amszZlM1elF3?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZzg1Sk9icDlPNnNEZGhXVzRZSVFDTzZGWTF6YTMwWmFJR3YwZFV0OWdZRDl4N0ZmbUFuZXI1VUhkeE5Raml6T2xCVWRXc29RaVVXNEpjNDNjZzR0U1Q1V19scEdCQ0E5dmdTRzJLY1pSLVA4QTZMOXRpeEU2OXdEZXpyNldjSWRiMlQ5VkxLUEJ5MDBhb3B4X0o3NFJHcU1MN3BJQ0h3aUFEZzhybG9Saks3dFRmV1NxcDM5TXVpMGdZLTZZOUk2S0d4ajZTNzV6NFVWOEtTaGRHVFJSRFYtQnMtVGRKOXRN0gHuAUFVX3lxTE0yeVFjTWVyYkJleDFhQlBHZW9RcWxsTkFvOU5kUmxBTzhzLWV0WWEyZk5nb1d6LXkzY0F5RVVqMVJ2dzQ3bjJWSVJOSWFienZYYWdFX3JTSFRUdFZibEJDSlY0eDBFdzVNOUdhNUpVd1lmWUt5YmRLcHh2TFJRamE4X1lzVHF6VW1CMHFLd2lLMVE5X2g4aE4tVjltUl9QWDc2aEZoa1BsWFIwVjVFYjNnS2lXejZXLWxHMjhHT0EzYzZXd3lOUGdjR1dDUFJTNEp6ZjJIYzRZUGgwRm5yeDBkVHlHOTc5Z0V0RXAzR3c?oc=5"
         },
         {
           "outlet": "Inshorts",
@@ -51,36 +93,29 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaThqd2tmajh2STM4ZFBzZnBlclVZOFk2VnJxY2tvZm1XdlBaOU1QanJLVkJYWXVUS1VQUk02aXlkWEYwdkNQT1g0TWtFVnlhWEdyakVoSXBHNXpCVFhUVWpDYXZaOXNpSHBMOFQ1eDlGOVUtMmNha29uaU01eE56bkJoN3ItMGZOTVNmOWFtMnR3NnJUWDl1QnNEYlQwVjdodFY5Y1lYc2NaN09WdjZLTm1qWEFVZGtlTmtjdFhjTGFvYUdZVnfSAcsBQVVfeXFMT2Vlb3BRcUFPNGdHUlFEd2U2dU9Za0FKdlEzN0d4N2N0bkktSG5YSTdRTFgyR1EyM1NISXdHYldqWFZHV1g2aEloRXJLLV96RWZQakRycHd2cUdlZGxYRTNYbndneURrRTcwTjdqNDVBVW02cDBXb2JlS1hWRmhKNTYxNUFYTGhOVW5FV1lJS2xPY2U3RkF2TjVrSXJ3bmlGTFR0b2t3eUJuMHRxdkVwOTgwX0VkVDEzTGpvVGM0YmNhazlzRkFFcDZ6UDg?oc=5"
         },
         {
-          "outlet": "NewsBytes",
+          "outlet": "The Pioneer",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVA1N19veEpoVGFEUUV2QVlKR2hla1JqaFMxc3RMYmVlb1BlQ3lqaE51dy1jTkRiV2lKTXFIVERfNWNsWkk4dlhQRHJ1NFZ2aWQ1RHN3aHdtYXpWZHdyY3N5OElHWE9VQWg4VlphUDZsNmZsWTdobUFvVE1yTlF2ajNOSG5MTkxWNV9xVGFHOHJJN0R6cVg2WHotZjRnem5fTEJBUXI3UFhSZkxP?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTAtSElnV3ZJTkpMTGJEUUVrOG5KbGRHVkpKaXRRUE5oR0xqUm1EdWVpZEJ5bnl4R2ExalA1MkFJOGJrMUU0ak00REJkVENWWF9oMHFGMTM5V1prd1RIV1RsQjdKTWRnR1FLRWt5Yl9QZnBWcEY2RVVZbVlMUVhsZmNMR29DSVc5ckJhWXRoTWHSAZ4BQVVfeXFMT2FTd1h3VmRxcjl5YlR5S0JvQ1h1aU9RWndUbjZuRkJidEUyck84dS1zVC13SjNtd3FXODNpb1VYc1Z4Nld6TExSV0pBTHlWMDJZeFFmcXZwdlQwc3doTkxvaWxLaGE4cXk0YUN0c0pLdjEyZVJCcS1yMzVVNzM3MVZwVlU1dVllQl9GXzdXT3RBYldLX2dGVFFwa0lKNHc?oc=5"
+        },
+        {
+          "outlet": "DD India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2YtT1d0VW9sSUhIMFJOdVI1YVVuYTBTLXZiYXFWZGplY3EwdnZic3A1SUpVeWpuNzRVek1Mb2RzWk42S19VdUxPd05za2loX3k5S0x4ZUs2VVBpUndWVTdvR0xnU3k1LXlCdk4xd1NjQ21FUWNVLVZhbFQwVkVqNUlNQ0I0NlRWSU9RZUd5YmxMM3hZRmNBRzhtZnROUEltNzZDSjBxZ3RFaXJqVjFQcl9wczI?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdmxoeFdfNXItbXBfamY5akdwbms5SW56a05EWWx2cUh1b1lGVnNrU3N4NU1lQ3ZTbUVtNjZ4NGw5bnVRWC1nd3h3bEZHUWxaek5tSE9iT3FuYjYyT3BqckNzRWJZSEkxODdxVjVQckV4M3g1MHdRVVl6YnhMQ0pTUzd6eG03ZkhmbmZuSmlJd0xUUGE5azdwbGVYUWpqT3hWZmZPNmtMVXZlMHdhTHZOdXFMNE5HR0xMNWdHU1F4MGxESXJOekxLeUJYaHphaGNlV0ptU3VKLTJ5Zw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd19GVlVhelRiUWthZ2syMlMzVVVlaFlrZmJ3eUd0cC1HdEtwNUFsTnU0VGdLSWZIQmZ5X1FuZmxKd09PZlBFNERjRnFxYkdGWTA2X0dzeVZNRlVxNm8xaGI4ZGFacGRMV2xIa0paSGpnQ0lPSlR2RF9pODlxMDhtanFlRzY3QUdWN2lmVHh1QlY5UGs0d3lYQzJ2cVl3Mk82QzB4b0NVMWtzTzNuRWhfUU5UVm5TOTBDMWZMNExNeXhGY051dlc4Z0gzTzItS2ZtX2lYNnNmb1hzbHFF0gHiAUFVX3lxTE93QlpPQ19iOEZEclFVbVdrdGotUmZOQno2MG1lTGdJVl91YTh5VlhqX0g5NmR2TVNBcmVnaW5SNGttd1p0eFhYRUVZdEk3RnE1cF9lYWlkX0lVanpMcW9jTGV4Z0h1bmVQRGFtNWtiMkF4Yk1VVmZBVkRSVGdQeGQ1cHNFYlI4U0lNd25yV1hQajZkWEpzalJaNGdVOHM4WnRjN2gwcUFNcWNqQXZOVlNSck1PeUlLUVFTclVwRTFhcmhuZzZNWjh4cVkyd1VvQkZWQjBqOEdsS0hjT0dHMHpVSlE?oc=5"
         },
         {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbXRQNkprLTdfazNOYTM1V2tVb1VsbWpkWHRqU0gyM3dwUDVhaktYZDFmUjN5MFNPN0FwZWwxWWJqMUhhU2hqSERSMk5MenZpT3ZYUmphT2FRSHRmOFRtNWYyby1KR2J6Q2MybFloemxrME40bDdhRFg5a1AyWTlqa3dGZnNOZmd0SmIwVXJFdlN2NDU3MWhxMUNrYkxpQjIwTkZiRnU2bG8yYklwbk9UMnItZERLR1YyY2tRN29FUWp0NTRUTHdDedIBzgFBVV95cUxPT3hQWW5tQmhqZkpCR0Zod0lXblBsTG5ka0VRYzlIN3FNU0xUYUtJQzFaaEhmTUg3WEI4NVlWM1pFYUZOSDhqU2NwazlWaE1GLVY2X0pjRzBWTzNFSEppanVUXzlrUnFQWGRfT1RKeVRyYUw0MzBCbDgxZFAwQlc4dUJGN1VkNHpmTXZEcE5vSzV0VXZOZGJmWXlFMHJUeDZ6Z3Z0SjhJQUI4bTg1WGcyblVybHBIaFZYa2JoMUxRdkhQNko0V2dtQW94U0xTQQ?oc=5"
-        }
-      ],
-      "source_count": 7,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "PM to visit Bengal, Bihar, UP; to attend platinum jubilee of IIT Kharagpur, inaugurate ‘Nitish Setu’. A politics-related story. Covered by 7 outlets, including India Today and Rediff.",
-      "image": "images/pm-to-visit-bengal-bihar-up-to-attend-platinum-jubilee-of-ii.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "pm-modi-to-inaugurate-lay-foundation-stones-for-103-projects",
-      "headline": "PM Modi to inaugurate, lay foundation stones for 103 projects worth Rs 60,000 crore in Bihar on November 21 - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-20",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd19GVlVhelRiUWthZ2syMlMzVVVlaFlrZmJ3eUd0cC1HdEtwNUFsTnU0VGdLSWZIQmZ5X1FuZmxKd09PZlBFNERjRnFxYkdGWTA2X0dzeVZNRlVxNm8xaGI4ZGFacGRMV2xIa0paSGpnQ0lPSlR2RF9pODlxMDhtanFlRzY3QUdWN2lmVHh1QlY5UGs0d3lYQzJ2cVl3Mk82QzB4b0NVMWtzTzNuRWhfUU5UVm5TOTBDMWZMNExNeXhGY051dlc4Z0gzTzItS2ZtX2lYNnNmb1hzbHFF0gHiAUFVX3lxTE93QlpPQ19iOEZEclFVbVdrdGotUmZOQno2MG1lTGdJVl91YTh5VlhqX0g5NmR2TVNBcmVnaW5SNGttd1p0eFhYRUVZdEk3RnE1cF9lYWlkX0lVanpMcW9jTGV4Z0h1bmVQRGFtNWtiMkF4Yk1VVmZBVkRSVGdQeGQ1cHNFYlI4U0lNd25yV1hQajZkWEpzalJaNGdVOHM4WnRjN2gwcUFNcWNqQXZOVlNSck1PeUlLUVFTclVwRTFhcmhuZzZNWjh4cVkyd1VvQkZWQjBqOEdsS0hjT0dHMHpVSlE?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -88,29 +123,14 @@
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDdQbFhXTEE3dWRuSkMxU3pfcTBaQTlmN0FEY25yQmg1aUpUcUljUVZIX3VQRkxHWUVGdk1iRm1yZFZIakR4MnFZSEhXZURCOEtvbFd1WldBN0tRZDJ0b1JfTDJfdy1kd3FIaldmdlFya0htc2J3SHhRM21BZ0Z6bG81Z2tNb0dYMVBBb0VaUzdsZmlmS2RBUk1QaG9Sa0g4eEdmZ3lOYXhqbmc4ai00cERhNWxPUWhXMjdtWk43cVpqUV9LRzY5VzgxOVc4MlZDNG10ajByZ9IB3AFBVV95cUxQTkk5NEh4ZGtHOHAycXVhanBWeDNqV3lPMFVvV1J4em9ES3hRc3JERDl6U3NtNXJocUgyY1pfSnZyVTcxTURTSWZ5ckFOMmJteXp6Yk1mOUtFQzdPRHRXSlNLTW9uQmxLVWpDc0pHWGNXVW05ZnlheXVLV21qQ3VmNVdzbjhEV0V0WE12Qjlha19mNjhjdy1JU2ZmVFg1b0pmUWdZLVhXQkk5ZVJhZFBCTlJqcm1QckJkeWVISlRRNWxvQ2h4RjduOEpsT24tV1FLbndid2xLVk9ZclAy?oc=5"
         },
         {
-          "outlet": "The Week",
+          "outlet": "The Pioneer",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFNSdk5LbkxTR3VXTHZMUXlSYjVhNGZoQ09odUpHT1JsRkxUeWdBU3BPeXpRdjNHZmVVR28xZXFvWENZNDBpcnU4aU9OU1c5RUV0QkxieXZ3dk5EQ2YyaGlwblhZR1FST0dneUFUVThaRFdnXzlWeVZfcG9GaFRDNk5tWG5sc09hVGpPRGEzWGd1eXo4WnU5dFRhMll4VzhPcnhWQm5HNDc5b1FlMTBmaVJ4TTVOQjlNcGtpa285elBBVy1ONTFZ0gHMAUFVX3lxTE1IRGwwbU9kT0dLVGVyMkVlVVdOLU80cVBDTjRxMmVubWlhV0QybXBfTWJhUUJfNmd4V25HRGhKQ282bzM5b1F4aDVoZktfeU4taWFYN2dIczBmMHhuT1I4cFBhZVRCUTE1Y0NXajdneWYzMWNGUi1Id09EVkRuT2tSeDQ5Snc5X2hJV09tLXhwdURYWFgtVUlOZHlDSEp0dlVfcHg2NnBfZjBlLVRQS0l4ZVI0Nm5xblpZYi1YSDRDelpIbHJjeGNvYTlGMA?oc=5"
-        },
-        {
-          "outlet": "BW Businessworld",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1V1TURYSFF5dklPN0I4b0FIbnJoZUVFRXVDQ3Ezal9VMzM5RTc2TEdZSTRPSnNjcHRtVUhhX0VSWEUxSjdtV055bS1tNFBDMFl1akNVT2xRVzJfa1Y4cm11ZU03RzRjYnQ2T1htWl9vN0QzcHlJcFU5VWV1NzZhSlk1Z08yQzl4NUZpekxnZzhwdEtxdWFxOUFGNE02dEQwX2Q3WkVTbjVlYWVETnRzXw?oc=5"
-        },
-        {
-          "outlet": "DD News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pobC1rLVptdXhSMFIwTEk4QXFRUmxJNWt0ZTM5TU5BLWRnWEFnTmZZbldwYmlzZEpJdXdVdkJrOVJvNW55Z1kzU0VEYlI0WWFZSTdtOUFiOUkzUFliSTZoNGZZejlwWTd0cHVYZGtSSlFCNURUb0hFbEpxVk1fdXROSl9oaUd0YkZxd0pGSUdEa1JReUVGcnE1VnZVTlJ4NExCd2tyZF9WdERBU0E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVmxKdU9hcVl2ZEFTOUVYQnBlX3RyY3NtTjFNc0wxbjdlSHRIUzFaZEFsRWUtM2RuZUNUYUllYlFqeFVGTU9LMDhBQ2RwVl8wLXhHSDhfSmRRLURaWmc4VlRhZnZJdXotcWFxQnFtUXFiUDBhSjBIOUd3TEFURlhGVjNsVkxtY0pHeXpSaG5QSkM3R3NnRnhTUHVnMlRkRlF1NEl3c1NiVFpkejBpajduR0NTSEnSAcIBQVVfeXFMTnpRVFFLUUhaemdLRnFvTzQ5djdxZ0hZOWZlSEhUS1B0OHBGNlU5LVQ4TGVTX3dINVFmWVczNkdIUmxSb1p4akd4MnA1TmJoaDJwamNGbHREWUJsRFE3MnhCR2ZXSndvdUFXODFaVDFrMl9kLUJoWUFsWWxpLXhSUUtsUHdhUHBTNjhkYXJmRTZYNmdFbG82QXFzUmtlbWUyNms3YlZjUDdnQ1hPM3ppSmR3MjBOa0JBcTV4Qnd2TkVpOUE?oc=5"
         },
         {
           "outlet": "TradingView",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSThJc00zMnJBUng4MXdzUFprVm5ic01vcXgyZVFSbFIzMi1oNDdsZzFYVGJONVJoQlZaX1l5aHlxbXZGa1VydnA1Rm16dC1tSnZTcVB3WVNlT1UtZDd6elhSTXdkU0pQLWtwNElqV1p6ejRBbThVSHE0b0JGQ3NWeXQ5Q0JMT3U3cGUwWmlFb1RzTnRuNGVacVc4VGxrd2swV295bjhjVDNZNkx2cXF6VTh1MzFGZzU5TXB3RXRaYWNvZw?oc=5"
-        },
-        {
-          "outlet": "The Pioneer",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVmxKdU9hcVl2ZEFTOUVYQnBlX3RyY3NtTjFNc0wxbjdlSHRIUzFaZEFsRWUtM2RuZUNUYUllYlFqeFVGTU9LMDhBQ2RwVl8wLXhHSDhfSmRRLURaWmc4VlRhZnZJdXotcWFxQnFtUXFiUDBhSjBIOUd3TEFURlhGVjNsVkxtY0pHeXpSaG5QSkM3R3NnRnhTUHVnMlRkRlF1NEl3c1NiVFpkejBpajduR0NTSEnSAcIBQVVfeXFMTnpRVFFLUUhaemdLRnFvTzQ5djdxZ0hZOWZlSEhUS1B0OHBGNlU5LVQ4TGVTX3dINVFmWVczNkdIUmxSb1p4akd4MnA1TmJoaDJwamNGbHREWUJsRFE3MnhCR2ZXSndvdUFXODFaVDFrMl9kLUJoWUFsWWxpLXhSUUtsUHdhUHBTNjhkYXJmRTZYNmdFbG82QXFzUmtlbWUyNms3YlZjUDdnQ1hPM3ppSmR3MjBOa0JBcTV4Qnd2TkVpOUE?oc=5"
         },
         {
           "outlet": "Sarkaritel.com",
@@ -123,31 +143,58 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPal9YYUlOVDM2TmVEb2ZsWEFENk8ybElfSzBvUVlPbFRucTNIMEF6Z1pxUGFHXzRqX0ZTUkZfRFdWUjVnbFphdEdueDd3bHBETmN5WmNmLTRZUS14MkgxQW1POW1kZk1NRWo2cVhSRzZ0bjBpMGVLajFsUmtGdWpjbFVvV2FIVHcxVmVBVVVTSldmRWpjaS1MWVNjS09HZVNuNzdJOE9xZ1NQek1mOEFLNXVWNjByc2doN251amEyWGFaQdIBzwFBVV95cUxNMWdoMGs0R0Z2WWVwOWZfRGJxWEFHa3ZMdEdtVDRvaDFWVUI2MWx3VXl4WnVVcHRrb2tsajYycHRiVXFGUDNEc2U0YTViODUybjhwN0lIbEJfVVNRTHRzZC1CQ2x5TlctU2s0NE5jZXF6V2JLdFROY19BR1F5d2g3MGZJUnAwYzRQVldncWtDLWxnNHpOUVBUSlZFU2kxc21Uem9yWFl5c1ItcHo0TkRZQ0QwS1I2NHJ5WjROTk15VHVhOFJRdlJtQ3BUT2lRTTg?oc=5"
         },
         {
-          "outlet": "The Economic Times",
+          "outlet": "BW Businessworld",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYUlTeGp3MUYyRzNXM1E2LTV2Zkg4ZVlpZmlyWDVLUS0yOTl5d2o3WDdkZnlrNGJCN0d1emEwZXdxTGhmdXRtOTlFQ1E3ejZtVnAzaTh0bTkzWkh4YUhEdEkwVjNSVzdQVVVBZFpsWFZSbG5MaW9LN0xuZWo0eFZSVV8zOFRucUFLVzZCQ00wSjg1QTdKN1dpbTN3N0pOMDBVSXhkNFJfWVcyYzFhc0YxNTRvaWRHdlliUzFqa3VnMU80Zl9mNjRXZlZaa3B4elAyYjBmdG5sc1ZQOWhNZU0yNnd6a3lOVWY1bFhzYk9PbGxWdGs1S0FNelNJdThrTkp0U19kRk1iQmhSbXBYM0xv0gGUAkFVX3lxTFB3T19SZTZFaGV5VmZiVUwzcUlDSDhYaF9mbXlLbFJDUlZoMEgyVUhlaDJERWY4ZkFXVWwtQWtZakVoMnFnMS1peEZpLU5xZjhNSi0wVVBkZ1JMRmlENFM4YlpMeGRYMkJONWNqdUl1X3FteGtlWFVRZDRsVjVUY2lDajhjWmtXT3FKa0VXV3V0TkZqRXFsZ3c4ZC1rSDloc3ZUY1VUSGgtT0lGbW45X3JodkxyMTJscmxaa0RhVHZVOE9Bdm1oUi03OXNlNmFaNERmUU8tUjVyMThSSFhaNGwzM1NFbE5aekdyQ1dPa0JfVjdBb2YyRFVCR05aajhWS1hGY1BlZ1BSSXNLemhCNlNwal9xUg?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa1lYbjNwaFQybjQwWjhOMkx6R0FBb0lYemJXbHVORWJhaERDeXFxRzZHNW94eEM4WE1tVmwxdk5FWVRSRlRWMVJWSWNYMmVLaWFBNHhFeklNNk1qWlpKU3NqYmdKOXZESTB2T05SUzNheUF0RmVPYnB6UjBzRWl3YW45WVRObER2WEp2ZkR3UUVEaEh2d2E0Z3pTNFNsNXY5a3c4eGh5UnVMam82V3FMNE1BelJ1OGJnNTgtYWNCM2wzdWFPZEhabzBGT2trVTUwbHlDV1JHX1RzNlpKbnZfVExoZkdtVnNKeFNKbdIB-gFBVV95cUxOS0xYVDhwd3VmamRaSlRuZjRiNDBYNTA2c3NHbkRjWGhONXRyQzllNTRwNmMxbDgxMVl0ZUN4cFVaem1EX21aaEhiLTdNWnpjMHViVjFya0JzVnJFX3hvQ3dHVXdGQ2ZIQzJtRUVBbm1pMFU0YzYtaWxzZV8tNG9CQS0xazROeTBJZ2JXdkdkVklGbEhSSGFtUEVxd0liazRUYS1FamxTbnE4V1NTR2VRTEJyTnRuRHp6RDVvbm1ndTdZRE1xUnQ2ckI4M2hBRlBXSHlISVRsR2pBbnNvM1hoY2FGc3IyY1VkSDZZU3habWx1amszZlM1elF3?oc=5"
-        },
-        {
-          "outlet": "The Pioneer",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTAtSElnV3ZJTkpMTGJEUUVrOG5KbGRHVkpKaXRRUE5oR0xqUm1EdWVpZEJ5bnl4R2ExalA1MkFJOGJrMUU0ak00REJkVENWWF9oMHFGMTM5V1prd1RIV1RsQjdKTWRnR1FLRWt5Yl9QZnBWcEY2RVVZbVlMUVhsZmNMR29DSVc5ckJhWXRoTWHSAZ4BQVVfeXFMT2FTd1h3VmRxcjl5YlR5S0JvQ1h1aU9RWndUbjZuRkJidEUyck84dS1zVC13SjNtd3FXODNpb1VYc1Z4Nld6TExSV0pBTHlWMDJZeFFmcXZwdlQwc3doTkxvaWxLaGE4cXk0YUN0c0pLdjEyZVJCcS1yMzVVNzM3MVZwVlU1dVllQl9GXzdXT3RBYldLX2dGVFFwa0lKNHc?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdnNpTnZmell1NFFQUHFmX1FzU0ZxcFVOS25jdzlwcVFUZFk5WE15ZW8yd05ycHBKT3ZCbUNWLWdfR3BBS3VqTHM1QjVnZGpTeVJTZmR2blZJZEtLcVRGSTdhOTZtNXExR1AyWHUwRTZQbVVWV3dqbHd6NzczN05pZHIwTFpKdnhsUnVxRmRnYjlIX1pXT0xqUzFwZU1qTmtfd3l0bm9vLVJzOG04a3lRNS1QaWNieGpXMllXdzBaUdIBzAFBVV95cUxPSFp6d0ZNZUhTMlNRWG9ZYVloaHRnSmZ5c2J0YU9Ib3VhX05wbEIwcVYyUmtaR0lteGl6dS1OMWk5bE1GQ252UzZTbjU2TGI2TThzeFRMSG13MS1nU19aNTE0Uzl5UVNscmRidmhTZkI5UG5ON3lYR28xZDVaWjFqRmhBczRHTlJZNlRPM0xuSmNJbjhCb0YzZzJ5Mmc0UFhlTnpDc093Q21PUk9RY3ozcXFIa29IaFBGOVdXNjduZWstLUZ1MzZmVzdrNDM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1V1TURYSFF5dklPN0I4b0FIbnJoZUVFRXVDQ3Ezal9VMzM5RTc2TEdZSTRPSnNjcHRtVUhhX0VSWEUxSjdtV055bS1tNFBDMFl1akNVT2xRVzJfa1Y4cm11ZU03RzRjYnQ2T1htWl9vN0QzcHlJcFU5VWV1NzZhSlk1Z08yQzl4NUZpekxnZzhwdEtxdWFxOUFGNE02dEQwX2Q3WkVTbjVlYWVETnRzXw?oc=5"
         }
       ],
-      "source_count": 10,
+      "source_count": 14,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "PM Modi to inaugurate, lay foundation stones for 103 projects worth Rs 60,000 crore in Bihar on November 21. An economy-related story. Covered by 10 outlets, including The Times of India and The Week.",
+      "brief": "PM Modi to inaugurate, lay foundation stones for 103 projects worth Rs 60,000 crore in Bihar on November 21. A politics-related story. Covered by 14 outlets, including The New Indian Express and Rediff.",
       "image": "images/pm-modi-to-inaugurate-lay-foundation-stones-for-103-projects.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "prime-minister-modi-to-visit-west-bengal-bihar-and-up-on-21-",
+      "headline": "Prime Minister Modi to Visit West Bengal Bihar and UP on 21 November - Asianet Newsable",
+      "summary": "",
+      "date": "2026-11-20",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "PM India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVJ6YmJocGN4anJiN21jRVhVcnA1aUw2eVA3MExPYzJ6UzV5TWlRRnhBa0IzeUk4SUpOVDUwS3pGcWFUaS1PWU5zbXZnZTJRc0pMOXZmNTQ3ejA4Zlp1amFGLWhqWlBoRTBmRkNLbjFfSFlfMTRMOXV4UUVHbFctNU96YlMyQ2ZUMlZvYXFtUVYzNUFKV0U0?oc=5"
+        },
+        {
+          "outlet": "DD India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZjNZbzNlLTZuc1YtZFdMNUFhTWZ4Ykd0ZHM5WWxWNHZfV3FMaDVFUU9LWGwwYi1ZeDdnZm9sM1FWYVVjTmdXRTc0RTJMSTZoNG5hd1NZRUtIcGRsMGFNWkhuY0oxUUtBRDdOY2c3cGpJbVFPUl9BYzhHZ3JYYlZyTG5GSE9JYm44V0hjWHBLMGVWVlZmcEFHNTNadjcxd2M?oc=5"
+        },
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmxVdDVBMExHZll6QXUzMVVqQ1FjVE1jMUZKay0tdVJ3Rzl4RFZsbEh0NVpvLVZicV9YUGstdlY2MXkxeXlMODQ1TFBvVkZIaDkxTUw3bG9oR2VSS1JRaTRpRXFqN2tMVnpFQ2REMmNmZXR0d01aWFp3UVhqSUlZVEY2dGJRYW1TSUFEdlFQem1BUnVPM0k4VjQxa1p4RHFvUjdJczBWc3lQRWkzZ1ZFRVdVcG1iS2JXRnZCdGh5eTUzeXhMc3fSAcsBQVVfeXFMUF9JaDlBVTZZWFJ1VEoxTjFZeHNfWFlMREpjeWJySUFST1Y0YmdmNVRFMThtQ2xBVzBCSnFVTW10S014NEU1MFQ1cTNzM0xfNTN1Vm54ZzdsVUJLSVd2YkVlNzUxdEZwa0NfcEUyRkVVel9wU3R6MmtVMTUxcUdKLUNZcFU0aWR2NmZ3WjNEYjhoTnFxZXFCTExXckI5RnVqdTdmZnMxNDJhaXBFT0dkem9ucUZtN25GeHhrV3dhV0ZwdVJVc1NEdTlCN00?oc=5"
+        },
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVl6TXoxN2h4WWFoQWg2MjR3ZmV5bzRwRW9QYW9ibExBbF9rWlM5S1pJdUNSdmVsMUtnUWlaOFNFcTI1UDVyNlNFWGk1MUtDNXVXVC04a1JtQ2dFUXFJcUZDR3NaSFMzRnowYm8wemF2SE9PckxEdUVRR0xVRDhXSHI4TVVJdXY2c0lBWldHbzg4dndVNzlWbGZ2bVFaVUttQ3RFUWN6RkpKMXIxU0wydURjejVEQ3dyanhnNXJ6aWJxQdIBxwFBVV95cUxQVjhxdnVVdlR6SDNCS1dRdFNtbWpjSFZpcWFEVm1lWjIxbC1uRmpoRW8zeFdXZFdnbUMwS2I2QjVCNngyR2hQdGRBMXJSNEFpaDFUQWRmR3ZjMUd0Y2dMcUZYLW9NdHdsbzFVSTNDb2ZrTHlBYzdWZExPX0I1QXFkN3ZlMzBRcjk0ZUNCWDBQdHpfRE5udVVVaU11OVpwRmRDa1lHVC1lX1RuTmdLRG54U0lxMDlNd1B5WWRzeldsbFFYR0ZMTERF?oc=5"
+        },
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVBJMGM5WVRuZkdzVzktdWpveTg2cl9tTWd4MHNJaXRNUlZsZk5qaTVXSmowck9wVVFqQWxITS0ySWhRSTI2X19HR05RWkt0YXM4TU1DOTY5STROLW5vZDFlOVdnSzRvbkNPRy1VWlFGNkpVeXpNT3FlRHRtWmpVYmUweWp6N2tsWUc5VFJ6cFlQT3RNTjd6TDZ4eXg3NmVRTVl0SXF0RHpLSExwdktIbUNKcE1xczFEcUFHeDZYVXhTWnRhMFHSAcsBQVVfeXFMUE1fMlhWaU5UR0dsblJleXVidDFVaW40bk9ERFBMeVJ5VG5IbWF6UTRzQk9aZUxaRGpwcVlPc0t0MTdYQl8xdjdiZl91SC1Wem5QTnBMZVJiRUdiTDBsNnBzS0hXUGNEOU9qSU5BdWd1WEZSZWtlNVQ5cVp3NVpQdS16eHltYTRUYXlhQ19URXFVUHNOS0RHSGxudDl4Uk9VQXVoWFkyQVhDZG1wWEQtc0xPQUVUeTZqUm1ybnZwV2g3Z1BWRDhvek01X0E?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Prime Minister Modi to Visit West Bengal Bihar and UP on 21 November. A politics-related story. Covered by 3 outlets, including PM India and DD India.",
+      "image": "images/prime-minister-modi-to-visit-west-bengal-bihar-and-up-on-21-.jpg",
       "image_kind": "photo"
     },
     {
@@ -183,40 +230,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "prime-minister-modi-to-visit-west-bengal-bihar-and-up-on-21-",
-      "headline": "Prime Minister Modi to Visit West Bengal Bihar and UP on 21 November - Asianet Newsable",
+      "id": "bihar-receives-rs-2-25-lakh-crore-investment-proposals-annou",
+      "headline": "Bihar receives Rs 2.25 lakh crore investment proposals, announces 30-day clearance mechanism - The New Indian Express",
       "summary": "",
       "date": "2026-11-20",
       "topics": [
-        "politics"
+        "economy"
       ],
       "sources": [
         {
-          "outlet": "PM India",
+          "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVJ6YmJocGN4anJiN21jRVhVcnA1aUw2eVA3MExPYzJ6UzV5TWlRRnhBa0IzeUk4SUpOVDUwS3pGcWFUaS1PWU5zbXZnZTJRc0pMOXZmNTQ3ejA4Zlp1amFGLWhqWlBoRTBmRkNLbjFfSFlfMTRMOXV4UUVHbFctNU96YlMyQ2ZUMlZvYXFtUVYzNUFKV0U0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQazAzWE9qbFhIZFBKWGN4MXpvY2lsSkZRb1h0amFscV9yZWQzWHdxam5ieGhJMGNKUUlLS1NkV3pkN0VpR0ZHdUpXZ1BxUXZFeC14bWU3Wl8zSUYyRkpGZGxvSlV3X3p3Z3hxbzY3VjU3aE1BdjY1dmlkN2hyNzZrSG1hNHE1QlhsSWRPTTluTElyZlFscUhDZzBCSUdhVG1mT0FQU2RKOG0xTC00UGpwRTM5YWJNUzdyeGtCT1BiMkg4VEnSAcgBQVVfeXFMUEw3ZUVpNG8wM1ZBdGJLTG1rRml2NmI3aWZBNzdDTWt2c2VNNTgzTHNzNVVMR2o4NTczQ2x3MG5KRTZidFVsclFyVkJmdTVfWmdvNTNEcFFwaEhWdU1CeTAxZjVfMk1CWU1TblFOQmJrdXltczcyMVFXc0s4WWRZRldsTlh2SUR3LXVNR0dqQ2lvOUZhN0pFeUFPQXNCT0pjVXBUR2dDWEpWbUp2S3ZmdGdwR3h1cU42ZlFDZVEtN0x2U3RuZFdOb00?oc=5"
         },
         {
-          "outlet": "DD India",
+          "outlet": "The New Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZjNZbzNlLTZuc1YtZFdMNUFhTWZ4Ykd0ZHM5WWxWNHZfV3FMaDVFUU9LWGwwYi1ZeDdnZm9sM1FWYVVjTmdXRTc0RTJMSTZoNG5hd1NZRUtIcGRsMGFNWkhuY0oxUUtBRDdOY2c3cGpJbVFPUl9BYzhHZ3JYYlZyTG5GSE9JYm44V0hjWHBLMGVWVlZmcEFHNTNadjcxd2M?oc=5"
-        },
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmxVdDVBMExHZll6QXUzMVVqQ1FjVE1jMUZKay0tdVJ3Rzl4RFZsbEh0NVpvLVZicV9YUGstdlY2MXkxeXlMODQ1TFBvVkZIaDkxTUw3bG9oR2VSS1JRaTRpRXFqN2tMVnpFQ2REMmNmZXR0d01aWFp3UVhqSUlZVEY2dGJRYW1TSUFEdlFQem1BUnVPM0k4VjQxa1p4RHFvUjdJczBWc3lQRWkzZ1ZFRVdVcG1iS2JXRnZCdGh5eTUzeXhMc3fSAcsBQVVfeXFMUF9JaDlBVTZZWFJ1VEoxTjFZeHNfWFlMREpjeWJySUFST1Y0YmdmNVRFMThtQ2xBVzBCSnFVTW10S014NEU1MFQ1cTNzM0xfNTN1Vm54ZzdsVUJLSVd2YkVlNzUxdEZwa0NfcEUyRkVVel9wU3R6MmtVMTUxcUdKLUNZcFU0aWR2NmZ3WjNEYjhoTnFxZXFCTExXckI5RnVqdTdmZnMxNDJhaXBFT0dkem9ucUZtN25GeHhrV3dhV0ZwdVJVc1NEdTlCN00?oc=5"
-        },
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVl6TXoxN2h4WWFoQWg2MjR3ZmV5bzRwRW9QYW9ibExBbF9rWlM5S1pJdUNSdmVsMUtnUWlaOFNFcTI1UDVyNlNFWGk1MUtDNXVXVC04a1JtQ2dFUXFJcUZDR3NaSFMzRnowYm8wemF2SE9PckxEdUVRR0xVRDhXSHI4TVVJdXY2c0lBWldHbzg4dndVNzlWbGZ2bVFaVUttQ3RFUWN6RkpKMXIxU0wydURjejVEQ3dyanhnNXJ6aWJxQdIBxwFBVV95cUxQVjhxdnVVdlR6SDNCS1dRdFNtbWpjSFZpcWFEVm1lWjIxbC1uRmpoRW8zeFdXZFdnbUMwS2I2QjVCNngyR2hQdGRBMXJSNEFpaDFUQWRmR3ZjMUd0Y2dMcUZYLW9NdHdsbzFVSTNDb2ZrTHlBYzdWZExPX0I1QXFkN3ZlMzBRcjk0ZUNCWDBQdHpfRE5udVVVaU11OVpwRmRDa1lHVC1lX1RuTmdLRG54U0lxMDlNd1B5WWRzeldsbFFYR0ZMTERF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQURxZzBoMW5aUWhsSHg2VGxsQmZSRWdJZzhWWXZTeDNnSnNPdjQ3cjl1MFJhS3QzMDNGNjZvSk5zRl93UDg1aGxtYTl4SzZ2ZWlxbklkVzczcEdCQmEzNTJMYTllbDJxTjltRFgtMHd4UjFWRU9vUDRvUEt3SEpEbEg0YjdId1dPRVQ4Mm9FSC11NkE2d0ZVaEl2OWFLNkxBNzFMRTRFVjYzX2ZrdkhReVRUR2JWeWgzOFk3d1ZhejhEclJkbkxtdDk5LTVCTXpRT3hFMkJrUmxhT0hGMlZhZDJn0gHvAUFVX3lxTFBqOU0zdmZtV0Y3T0ZnTnBZMXVqLW5WVy1FRHg1cHNmdWVYS1RDcG5PVFBmR01aXzZtbXBZUHRrSzNvWnozemNpRDdfa3RzVDFTVEdNc09DbENMbjJRY3JZS19Nd0RkMDJONUpOVHJyM1VJQ005clpSQnNLUWJmNDR1X3BKa1V2X08yeTJya0x1MEcwdXFacWE2elRtZG9lLTE4NHdxWkRQUjhpd0NUSXphaGN6SmFUbURjNmx5NEJXMmhpeUswSU4yaGRFRXZkY2QzLU9CZUNiTThGUXF4MFJKZnlkVmxRZ1Y2WFpKRTFv?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Prime Minister Modi to Visit West Bengal Bihar and UP on 21 November. A politics-related story. Covered by 3 outlets, including PM India and DD India.",
-      "image": "images/prime-minister-modi-to-visit-west-bengal-bihar-and-up-on-21-.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Bihar receives Rs 2.25 lakh crore investment proposals, announces 30-day clearance mechanism. An economy-related story. Covered by ThePrint and The New Indian Express.",
+      "image": "images/bihar-receives-rs-2-25-lakh-crore-investment-proposals-annou.jpg",
       "image_kind": "photo"
     },
     {
@@ -247,6 +284,38 @@
       "image_kind": "photo"
     },
     {
+      "id": "news18-hindi",
+      "headline": "बिहार में तूफान अकवान का असर शुरू, आज पटना-गया समेत कई जिलों में बारिश, कल भागलपुर-कटिहार में भारी वर्षा का... - News18 Hindi",
+      "summary": "",
+      "date": "2026-11-20",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSGJQdnB6WFdTTzlaQWdILVRLa1lqaUJxTnYwYmlHQ21aYl81VmhYWHFrTFRubGpaVGFhZEtTdWN0ZGdsLWpsdzhBWmdSejVZRXkwMHg2eFJialpWMnhXWlN4bnVkdHRRaFVnMDlkcXZ1VU5CRGpxdXpldkFhVGJmMjYxUnA1MVN1U2szT0JMRGRtalAybUNmUC1mRFRKdm9JSndSRnV6N09famh1anFwNzBqM1htTnY1VnpGX0RFc0htdHAxNHU2UU5NV3ZQNU9aTnpXbmxtQVBYajFsTkMwb0o1R1VYSFFxNGxwZVlXTFRMYmhPb3ZwSkgtS3AwclhjVWlZSHFEZWFoUC00TFhCeXhqVGNuel8tZm5Z0gGgAkFVX3lxTE9JWldpdVd4YjhBWkdYNE1lYkRNT1R5d1NSQjR2TjlwVWV4eUtoZXl1eHMxS0FlOWZZdDJuSW5kTW9DMDRORVYzek9RZ3RFUWNWdmptVEFxbDktaEJ2SUhYN0ZzSlpraW1adGtBT0s3VDAwQk1DSmNmWTZCLWJReFVod25UeUlBV1NPQ3RFd3VSOVdQQXNMU2liMnJ1YUt6TGsxMk9ieWU1dlJuYW9KYnM2Y0pYVVF6Y0kwNXVQaTVScnZmWkxSank5cXpJMy1kMG1pRkNDcE5vY2ZPeEZtam4ycHc0emdCQWI2TEJpQjlabUhONDM4dXFIb01IZXdNTmdUNzBIUkZGQUVhUXJZaHlLb0c4ZkxxZ0czSmUyRjdZdA?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFYxNExGUEhSU1hNYVVBUVRaY3JiVnZnOV9VVzA2VGtMczFRMmltQWppeXhDb05oSDdCcjVFbWN2Q0RuNEk4Q0dGTVpHVWhIc2tTNG1sN21kYlVxSlBCd2hHb05Gem9YZWJ3d0Q3Vng2STlLLUpQRUkwZnFiN1p0WDE0MzBkdjk3eXhTbnJrYnAtUjB4TWlqbG1CMm9PSnJGWkg0enU0ekh4YTBoNnZzUE8xYmlSQzJMaGc4?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXFIai16c0JLUUxxcmZhRWlKUDBGRXpIWkpHQlpKQ19QZ0kwOHNWeHdPLVFxTzVteWFLRGNfNVg2S1BoTVhIOWNwamhQT2pJanRuT0VBNF9sNjg5YzZ0N3BTVnhEekpOSzdKcGZvNjlneElEMjZQaWhrVVRPOEVGZzByTUF2MGNWeDdmT3VYcVBucFVva0FaeHVuMDBDUXRNbnd0NEhhYjdXZUtQWHl1MncwVEVIV1A2dkRzeGxFZ3FJV1RvSW9xaDFESGx6eTY5?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बिहार में तूफान अकवान का असर शुरू, आज पटना-गया समेत कई जिलों में बारिश, कल भागलपुर-कटिहार में भारी वर्षा का... - News18 Hindi। इसे News18 Hindi और Jagran ने रिपोर्ट किया है।",
+      "image": "images/news18-hindi.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "pm-514-tap-to-know-more-inshorts-inshorts",
       "headline": "पटना में कचरे से बनेगी बिजली, PM मोदी ₹514 करोड़ के प्लांट का करेंगे शिलान्यास | Tap to know more | Inshorts - Inshorts",
       "summary": "",
@@ -256,63 +325,26 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWtWSG9nTGNRR0F6X3lNcHhqaDNSd2Q5VlVrLV9tWFd5VnRBMmJHLU1ibVFHMERTMTBHYUhFMDI0Q1owSnk4LUVvOFJnZTZDZDQ4V3NjYk91LVhEMkd1NzVhRjJNbDB1OEluVElRM2Y0U3FQUHhJWG5fbzZzM0pmdmo4QVFPWjUxOVpSbll5TXVLUGJhSk5Ya1JreDVKcVpqZUdUV2xTRnlpX2k1eW1LTw?oc=5"
-        },
-        {
           "outlet": "Inshorts",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNUGlSV3NxUXNDM1NOX2pUNkFabnJscWNEenJ2SWVmb3RkOHc5STJrWl8tcWRYTThWWlBqN0JXMmc3eGhtT0ZwOUFNZDB0NFVLczhWa0d6Z0YyeHE5UXcyNjhlVlBsOHpHQmdZVnpCNDBiVndkOHhvcWNOcHBYUEJLNFBwRFd5Vmh2RWx3dEJocjJndGk1TmNMUjdGWWtpSHM4c2ptcVhIWWhvTldSdG1WTWhKOGJSUVk5aUY2WEFod0dUVDMxQnlXQ1AzNWltZl91NFA1a2o4MWN6NHl2OWROaG1RR1NOLS1YVDVkckhPZHVDZnJTZVFBQ0l5ZDN5NzJhZGdldTU0R1BZZEVfb0VYc0t0TE1ZNDNfUlBrNThhb1RyUTBiaC1Cb1NsN1VHNkV5azJZMThzUVNtdHluNWZBNVJBYWUtU01RM3NKbi03Q0t1TnQ4VWItaFYzTk9ZekI1dW9ST1lpekR4WFQ2bUp4dlFydThUck5Mamx2LWgzWVNxTExEdzZxUDVtVlhmbDdDa0tDNHAzM25DR3JHbVlrdFJ0dXdkZ0E1RmM3ZVJLTTVfcEFCazVpckRBTkttWkhxWkdHUmhB0gHLA0FVX3lxTE8zVmdlQmJFQnVCMlJyMzFkTU5ZNjI4ZHpuTnZRMS1tQnRNRjlueEJfWEd3SG43R25DbnpzRmowRTJqNnQxTmg0bkRUZzUwT1JWXzctTTFLWkM4N0dycnlIVVlKbzZFYUZHWU1rcUZ2R2NrMG15WDJuSjhHTEdqUHJIYW4xZUktTEZRNmltOU9ONjdMNEN1WWF3YTFKMmxDZUtFWjlfQkpuWXJtSGswWWZ3b0t0eGkwWExSYThnM1dYaThlYnh1TVh1d0phZFhQZGhRQVRRbHlZbU9MTER3bmRNUU1WMUZxS3FEZGJPRThYMUtJLUYyanFmbEEwd182NWZ5bHhjMHgzOGN4SDlIWGRxb0VNcHRYYXRxNXZmY1EtZmFWU1JST0FEMGxpNjZ0SWxjd05IQ1c0eE5Kb0FQOFJWbkoyWGd4V1NIQS01LXNEdTlYSWZ3bms3LTVqSHNKbEF1cXRnYXB4WFhneGZSQnQ0SWVRN2Ezdl82NmNwLWNWR2xWT1ZMTWNIeF9jRzdldVBaZmwxR0hQQ010TGNaZ2MwR3NwUFpyTHlhVzAtaHBzak9hS3B2bTlnMS1BU3VJTW1TSEplXzVha3hXdw?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWtWSG9nTGNRR0F6X3lNcHhqaDNSd2Q5VlVrLV9tWFd5VnRBMmJHLU1ibVFHMERTMTBHYUhFMDI0Q1owSnk4LUVvOFJnZTZDZDQ4V3NjYk91LVhEMkd1NzVhRjJNbDB1OEluVElRM2Y0U3FQUHhJWG5fbzZzM0pmdmo4QVFPWjUxOVpSbll5TXVLUGJhSk5Ya1JreDVKcVpqZUdUV2xTRnlpX2k1eW1LTw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "पटना में कचरे से बनेगी बिजली, PM मोदी ₹514 करोड़ के प्लांट का करेंगे शिलान्यास | Tap to know more। इसे Jagran और Inshorts ने रिपोर्ट किया है।",
+      "brief": "पटना में कचरे से बनेगी बिजली, PM मोदी ₹514 करोड़ के प्लांट का करेंगे शिलान्यास | Tap to know more। इसे Inshorts और Jagran ने रिपोर्ट किया है।",
       "image": "images/pm-514-tap-to-know-more-inshorts-inshorts.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "6-killed-1-injured-as-scorpio-plunges-into-canal-in-bihar-s-",
-      "headline": "6 killed, 1 injured as Scorpio plunges into canal in Bihar’s Araria - The Times of India",
-      "summary": "",
-      "date": "2026-11-19",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVhWMnZrclBzNVVzam1Bbl9BdXR6ZGxjd28taV9nTElUNWcwU210MU5Gd2VadDNuaUNfaDZLdmNQZHRnc0RDSnN6eENUU2ZBTWxhUXlVNHZoMWJzWExTbTNOTHYzOVZWWnRLQ2w0LWRHUFJLbnRUOGw5Uk1wZnRtaUkyeDRFTHo5eGpJRHU0dHhhdGNZX1UtdlBYRjZKT044Q3ExWXZnRXJvXzlhWGM3YtIBtgFBVV95cUxOdmgtQ0xnY2xwdDBjQXZTNmIzSDZNa29lMElhU2JMak12ZTMzVmtPLXlUODRuWVJmT0EzSUNNSHdBVGlVd0EwT05kMTg4cU9DUjV3b19UNnZvTHJOMkZTQXB3dV9pbHh4N0VHX1RScHUwSW1LVUp3ellzdW5FSEkyZ2sxZGVIZjV6eWJSZUhmVFNqb09hVjdrMGZCbzZRanVRcktIYzBqWjdRcTVzUUE3OE9TMVlzZw?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc09VSktBVW85SkY1OWxPRS1BM00wMmtwcjMxN3lQWTRGWFRoZXRJbXBQNHptZTl2ak1rLWc0dzdtaVJGUEtXRDlId05wTlRpa0FTWHFqZ3dKNzZfM3JwcnRsUDJKZ0FoLWJqQkh1akZqT1dxZzdzTUh4NUx0NGJ6T0xvbF81OFBsQWprSlV6QUZJSGNISTB6STFiRjk1N2hhSHkxUV9razRoRmRtbmZZQWx2aS1GNTDSAbwBQVVfeXFMTlNvOGxDU1RFUFpqSmQzR1JvajVpZ0Y3Y3h2ZWI4bllnby0zakI2aFVpM1Y4clVxbzRGbWpwTlFDcHdqOHNEdTQ5bk1GUDZJTHA5dWxtVDZsUHU3QUVBV1ZIMVE1OGpLVFNhR3F5bHhzNWYzMkdiZXQtOGdxTFFOeGFiYUN1RmV0Rko5b0ZMcHNDQjQ3NWplS2tXNW4zWUYtUmRjUXR2MVN0UHFXb3VDU2JlUDRCdkxBT0JrMi0?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUHIzQktJajlSZ21EVGdBRWpvTVRtYldNU0pVbUkzc2NlVWlhV0Z0UjlYdERpUmFUVnJiNm1HR1lOOGVvdGdqM1Q0NjZGYlJDb2Jqd09laXhLMC1udk94T3JfNlJBR0FHcWp5X3czLUxYaFpldVg3dHhCdGY2Tlk3cEtTSzJBR3Y3cUFOTzFxZVNvWEJHMlQxcllMbGpWS0d5YjhPY2k3Q2tvNXJydEVpLVlydzJnNEFFWG13YUs4OUMwbkNRSl9Pa3ppZFlWWHdoUmFDc9IB2gFBVV95cUxQdDMtOUxRdDNpWXFrWF9wUmR4NTl5ZkRhdm5ZOWVPOWRXQmNYMWhEV3dWM3hKREVmY1pGdDBjVHAyUWxlNGgtWDF4OXVueVhFaS1IUVNWcUNiQUZmdmVzb29vNkN4VlFKUFJTSFpzQ29pMkNQRVNmT193dC1QUmdub2pGdXQ5Q0NIVnIzZGJ4emhkRm1PX3o1cjNjV2lTSmo1Y0stMDJFcWc4MG9NRUczaU1qZmxvQ3p0V3JBRXZMd1paM0lxRVVpNkFvSnIzYU1hVUQ3Q3FnNnFldw?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeTdwT19vSlZPS1hkV1VPa3lkTXJ0QU9RM25ST2E2bENOQW5mbk9YR2FXTFNqMnJGTmhRalAwU3N3SVd3VHJFR2wydVE4V0V0M2NFRVhWZlpxdHNQZndvZmJBa0oxWllyckZQTm1wbGF6TWJHNWw1ekVYU0VYMDJWVDUwOXcwNUdLQ0RYLWZoSzhvNWgtTnJraWNjMXpFVWo4RnU3TmVIRVRUV3RkNXNmZ3lURENfT3fSAb4BQVVfeXFMTnZfa0FHM2JQSDJmQU8wS2pzVWZMVWpjZWhXbUQ4NUtmbzVNQlhOZG1jWFY4bEdDeWx6eHlKM3BmZTZaVWNqeFlfcEtqTVpGdk94cWROMmxGLXI0Ry1MRTF5MS1OOEJjR3plbnoxbXNYN1Q0eEJUTGd3c21PeG43dmdzenY4MHZ4OHZPOWJ0c2hVamVaLXdEbWwxQlVxZGV2MVUycFhVSWxjVVAtWlBoU3lrQnBLUlpiRzlHYk93dw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "6 killed, 1 injured as Scorpio plunges into canal in Bihar’s Araria. Covered by The Times of India and The Hindu.",
-      "image": "images/6-killed-1-injured-as-scorpio-plunges-into-canal-in-bihar-s-.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "union-minister-scindia-meets-bihar-cm-discusses-telecom-sect",
-      "headline": "Union Minister Scindia Meets Bihar CM, Discusses Telecom Sector Development - Deccan Chronicle",
+      "headline": "Union Minister Scindia meets Bihar CM, discusses telecom sector development - Daily Excelsior",
       "summary": "",
       "date": "2026-11-19",
       "topics": [
@@ -325,49 +357,16 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVd6elBrdE5ISkQxNHFqRWtsUjk5NUxiYXYtSFFwbS1NNzBKZ19TdDRhV2I3Rzc1QUlyYThReEFHemRmOUxFeXRuVXdNbU5OOXE2NkZGVVJJVWg0X1FMNGRocnJkZ1dqQV9XSVU3bEJEaVZXV3YtUWk4blp0enpfSGhhLUVsLWd6N0lfUEZaejR2Qk95UEJaV1pMNnR4d2JfXzJwYkE2ell2cGNaY2fSAbMBQVVfeXFMTTFBUzlIV3RNaURtQ2ZUYXZOMVUwelc2cU1xRkhjWE92c3NHYlFvSnZvUlJ2dE9xUVkyWlh0Qzd5OFRNNlZQUTg5ZkNOMDExZXl3NVlLUktuUGdQXzU3NV84eVo5MnNDSHhqWUUzVGtUN2NabVNzMi1hOGltZGZRc3RsSDYyNVg0WWNyX2d4RVVBS0lLSkZHelhwQlpzTnBuNFA5eVpVYTYyNll4QWpqUnBwWWc?oc=5"
         },
         {
-          "outlet": "Deccan Chronicle",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ21RNzBKdEdtaWNxaHY1ZzVzWjNFNzdESFd2V1JmdUhvWXBla2I3NUZSSUZDSDdha3BRbDgwREpsWkJYb1FJaUl6MnBPaU9OQnYza1V0VVhwMEV4WTg2SUo5MUY1WXJUY3l1NUNGUl9OZ1pWYnRpUGlieGNxTHphUlR4MHN2OHpYSjNNc2FqUDh3WE1SdWR4TzBMbUVLaDdseWVXUTNmYmVkM2FzT2haWWdDNEFPQWtuN0VLQXZR0gHDAUFVX3lxTE1Sb3o1SUIwQ2R4c2x0UHY4NzRvU1BSOWUyZGZFRFNDWTBETGVFcHpoNnY2Qmo1aEZoeFdwekd2VDRVcnJPX3YxcW1FckNSaTVibFNscjdTZFlISUhRaXNqd3dkcms5OTBLd2c4WHhBT3U4YlhkOG9sc3QwT19BQV8tRnJVbzFQdklIcHVXeXdLXzE3QkZ4cjFfSHdMMGZhR2tscU5yckpoZHo1WlNGRlFZeHZEakFCMXlPSE9XZ3R3QTBNRQ?oc=5"
-        },
-        {
           "outlet": "Daily Excelsior",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2F5WFBVSHFXSTNQXzlxaC1OZUlOR3lfNmpXMGdxcmQ2eDVSWkZ4NWg0NWZKdkdkZnc0eEJhMGZ4d0VPcWlmTWlTdUJXbU5hMm5fVDJuRXd6TmVPLTU0M0xvUU92TVVUb0FRX3EtaFFpQ2lfX3ZNS3NUcE16aS1SQ25UWC1pQWVwRllMOXNaOUxSRjVUNFZhZ1dXRWFxeEFhWE9NbmNHbndPZ9IBrgFBVV95cUxOMHY0Y2xtNjBqTUtBaWdoc0NxTkZNOU9SMG51UFRTZ0VuekZhakdVVTBwbUZMQ1RlTVROU3dRa3laaGR4MWsyb29SYU9yajJocFhhNnZKRElMOTRvT1BpX3YwU3JvTG5kYzIwdWxXS3VsQlEwSU9OZ1VRWlNpdktQSUozR0lNR0VPcUltN2p2NFFiUFZYMGlrb0ZTT2tNQVpmUWQ3WDQ3V2tzd1pBVGc?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Union Minister Scindia Meets Bihar CM, Discusses Telecom Sector Development. A politics-related story. Covered by 3 outlets, including ThePrint and Deccan Chronicle.",
-      "image": "images/union-minister-scindia-meets-bihar-cm-discusses-telecom-sect.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-police-book-45-people-including-bhojpuri-singers-for-p",
-      "headline": "Bihar Police book 45 people, including Bhojpuri singers, for promoting caste supremacy and violence in songs - Deccan Herald",
-      "summary": "",
-      "date": "2026-11-19",
-      "topics": [
-        "crime",
-        "entertainment"
-      ],
-      "sources": [
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd3M1N2E1MDlOc1dhakY2ejU1a2ZtNGU1WVdkdFU5ajhKUFQzRWxpcm5UdE9uRHBRWVZBY2c0VG9iWWlBeld6MW9WT1ZNWHVCVThwRzB5UjA2a2dXSHNDdi1Wc3RrTkpuaDJ5OGFlZDBUU0R1NEY5QUNDWmRmY3V2VHQ5aXZUNkR4eVFhSUdNTUYwa1YtS05qbUxRdVJzVDR5WDh2cGVZaG1iSExaZEdoaWkteWNVX2tqWnBPNXJhYm9pVmdoeDFZQ2UyeTlNVWhyLVF4S05jcVB6VVFvcnpBVS1vZnlhbmw2OXdj0gH4AUFVX3lxTE90cmRGSmU0UXRuLXRoMWtsYXZZckpyNXVaX3pHNWp0WXNnMnM3WHdQbDdUY0pIVHJEY3lyZzFzSGNyTXlKN05VUlZNOWdPRm9fdFpkOERuZDROTm1ub0hrRGEzWWFmUWUxSmw4akJDSlBHd3ZkeHJueVJ5ZGt6ZDZIWWpRT0ZSMmZLT1UxbS1EeDdLMXA1Ym1DQjV3bUZ6TVVya3luSFM0bmJwcWMyeDdJNjk3ZmJXMG1zLWpWSXpXa2pQbjhfelBhQ0FraDg0NWtKVW1sdjNlQXZvdk9VOWJJamlJMmo0M0hBR29PUU5YQTZobzViUklJ?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWENKejhjajF6TzFPVGNmT2VZQnBwazNYSVFtTDJIRXpVb1cwRGpzMlMtM2RKQ2Zqa0tmLWVJWk9xaDdYbmFoR0ZwcFRJQjQxSVJsbzFRcEgzdTNVeTZHLXoxMUtIQTRJLXNqaW1xS2FrbTZHZmFLdUMxM0ltdHktNXdWWllyZDhUc0l0Zm9IMlZHR080N2NwS2VvbEZzd010Wm1aVDhMUXJaVFJMcGJ1MmlaaC01YnlLM2QwS0ljaUzSAcYBQVVfeXFMTUxGVUdDRVpyMkMxbEZuWnNINEFiY055ZXNGeUxVTGhZR0dxZkVVQkU2ak44eWtwdTlvOEtfMkxIYXRmeUMwVWkzRFFya19xOTRDc2psa29YUXhxT00xekdQN3ktQ0Z3eHE2UmQxMDN0REF5MWJPTzZVdmw4VGg3ZUVSdnI0cm1WS2JvV0c3UGlnVkp0LUtwLVNNZF9OY2kwbW9IUEg1dHhxdmN5a3k1cE1STExqRFhaTkJiaWJsenBDMURwQ2J3?oc=5"
-        }
-      ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Bihar Police book 45 people, including Bhojpuri singers, for promoting caste supremacy and violence in songs. A crime-related story. Covered by Deccan Herald and ThePrint.",
-      "image": "images/bihar-police-book-45-people-including-bhojpuri-singers-for-p.jpg",
+      "brief": "Union Minister Scindia meets Bihar CM, discusses telecom sector development. A politics-related story. Covered by ThePrint and Daily Excelsior.",
+      "image": "images/union-minister-scindia-meets-bihar-cm-discusses-telecom-sect.jpg",
       "image_kind": "photo"
     },
     {
