@@ -1,54 +1,39 @@
 {
-  "generated_at": "2026-11-20 03:35 UTC",
-  "generated_at_ist": "20 Nov 2026, 09:05 AM IST",
-  "story_count": 44,
+  "generated_at": "2026-11-20 04:54 UTC",
+  "generated_at_ist": "20 Nov 2026, 10:24 AM IST",
+  "story_count": 45,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "13-21-patna-news-dainik-bhaskar",
-      "headline": "'अकवान' का असर-गया में हल्की बारिश, बेगूसराय-नालंदा में बादल छाए: पटना समेत 13 जिलों में बारिश की संभावना; 21 को भागलपुर-कटिहार में हैवी रेन का अलर्ट - Patna News - Dainik Bhaskar",
+      "id": "tejashwi-seeks-immediate-disqualification-of-bihar-minister-",
+      "headline": "Tejashwi seeks 'immediate disqualification' of Bihar minister alleging office of profit violation - Press Trust of India",
       "summary": "",
-      "date": "2026-11-20",
+      "date": "2026-11-19",
       "topics": [
-        "general"
+        "politics"
       ],
       "sources": [
         {
-          "outlet": "Jagran",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXFIai16c0JLUUxxcmZhRWlKUDBGRXpIWkpHQlpKQ19QZ0kwOHNWeHdPLVFxTzVteWFLRGNfNVg2S1BoTVhIOWNwamhQT2pJanRuT0VBNF9sNjg5YzZ0N3BTVnhEekpOSzdKcGZvNjlneElEMjZQaWhrVVRPOEVGZzByTUF2MGNWeDdmT3VYcVBucFVva0FaeHVuMDBDUXRNbnd0NEhhYjdXZUtQWHl1MncwVEVIV1A2dkRzeGxFZ3FJV1RvSW9xaDFESGx6eTY5?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlg0V3JDOTdJU3lYYTE0NkZZNnY2eWVsMHhKVmNzR0hBTDhfajFUNnh0cDZXMW5QM3ZsaDk3a0hCSkZBTXQ5ajJ0cnlIWV9fQ1FVWl82ZzBxSk8xRXlJVjMxRFhTVzJHOEp1U1VGaEQ5c0ZNNnpQanRBZmU3Q1hxUW5lWWIyQ0Y4VC1hN3Y0SmNQLWduTWFodlVBR3VoblYwY3gtbXh6OHl6M2o5eG1jelZ1SXFESEXSAbwBQVVfeXFMTUZMVWlCX0JzamdMNm5VcVFfS18wOVpqVEZNa0V1dF9vd0h4SVJtRVZsaDF6RF9CU1BuWnhCNlBkb2t6Rm5UaHRTc1otaGtMVjcxRk5rVEp6MmNmUHNWaXZhdy1XQjF4UmIzYk9WbllkemVPb0JPeS04TGVvMnprSGhoYmNPMFA1b1Q2c2ROb01Kc0kwYXExc1B6S0lxbFRKZEo4eXBZdGdhMmVqREY2QVBlYkx6ZjRRNkNLY2M?oc=5"
         },
         {
-          "outlet": "Jagran",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFYxNExGUEhSU1hNYVVBUVRaY3JiVnZnOV9VVzA2VGtMczFRMmltQWppeXhDb05oSDdCcjVFbWN2Q0RuNEk4Q0dGTVpHVWhIc2tTNG1sN21kYlVxSlBCd2hHb05Gem9YZWJ3d0Q3Vng2STlLLUpQRUkwZnFiN1p0WDE0MzBkdjk3eXhTbnJrYnAtUjB4TWlqbG1CMm9PSnJGWkg0enU0ekh4YTBoNnZzUE8xYmlSQzJMaGc4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzlzV0RCcmE1a0R3Q3BJZ3Y2RzFRQVJNSG9qRkR4MGhhc1NQMXZkNE1RekdXRzdlMkRGNklhLXc4NEZOYUt3LVlSdVF2VjNMUHFnOGNvNHd5ZG0wN3ZIazRfUXJyMTNQNmd2NHR0VFdFVmpZdkF0SFV4bXdHaG5UVW1FZ0t5bmViaFRnQ0lsOUpWcm1DakYxTDlpdkZ4NWdGZ0ZtWFpIXzdMeVRtZDI1a1NMaFVBSTdybEx2N19fTDMyMVFwanVRetIBzgFBVV95cUxOSi1WamUzZHpnMUZXdTcxWmo3cDVnS2dHQkFSTXcxbjluWHRwNFFoZjhZVWNReTZXYURmaFA4Qm9rb1pKME1oNWRhR2tsOXJCQWw1bm8yanpaNE83VEhKQmVFc3B1NGZpVDlQRmtEM1dMRmZrTkNIdURRVjN4TUVvNkYxci1kcGhLNkpfQVRJU21DeS1YaDBTWDB6YXRmaHdTc3JXTk4waHJ4cVFzQ3FicnFqVDBsYVl1OXlET1hGOTJEMTJWMXBUVTlSOXVBZw?oc=5"
         },
         {
-          "outlet": "News18 Hindi",
+          "outlet": "Press Trust of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNOXRBYUJfMHotX1hlaXNKck5tZm5zbzhWQUs2aHNubDd0QXFoWmtva1M4c0lKYTVTUGV4WW5BdjF0dlNqMDVsYjc3S252VFRUQWRsVVF5cnpYb1d5bG1MSXhmdHBoeEo5X3ZYUjUyZ3ItMllHcmdWcjNhUXd1T1BEanEtSWVHUGM4SkdtRE5VT0RJLVdneGY3ZlZkaEQxcjZQWFRJTkpDTDV6cWNSMzFsOWtmTklhVV92eEhKOTFhdGMyVU4wV05za295Z003Yy1xNVVJenp5Sjc2M3pPZG9iNERLdEY5T2txNl9Zc212VkRoa3k2Q2V4VXo1UUFKX0lRZUQ4cHBuTTVpcDh5Rk9rN3AwNXA3SEZPV3MtRVIwTF96SGFoN05Sb1VjNNIBsAJBVV95cUxPLWdmM253cTFJbXN1OE56SFU5QnFGTDdfSndmckNFS2VQTzVHRmo0MHFDczJhQU1QNF9oMkVBR0ZOcUdZYV9rY1hWSzhJTV9ZeFY2WVc4TExHWWdtT1p5UkRQS25acHNPeUx3UDgzUGRUdExvcWxLN1Z4RGl1ckwzak4wLXFrb0dRVFNlY0NZcVdOTVJadDk4dV9zNFBzZGtTbG9mTkVJeEtmX3FuTFZ6dFZlbW91XzJJYnJqMlZiWHBMaUJrbkJnNGtUYXdjZS1aajRVUmFQbDF5ODVQMEd4WXgyWUo3bXVQbm9TN2dWWUNlRjJabE1WT2NqMjdybUhQXzhXeFpwYlR0YmI2T0I0dDZxdFpLeEZzVFVReTVBam9fYWVGOTVySjg0M1FGQ18y?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzdVVVZTSnJJZ0UzOFZ5c1lxdFVHOWJUVms1TENTOXRFMmtrNEd0YWg4SVA2MHQ2Qk1HVjhYM0t4XzF4N1RiWXJrRFpLNEFER2U2dDFnbXhfTjQ3LWtmdFRmWFRaZE1ncXowSlB2OVBsZ2hMUG1tanp3Wm9oa21nUTVTMGhla29WMGxuNVZYLUk5dFFxbmVWbjBfNjNMSWJ6SjhtU1NoR2lWX1hDdFJIcXVYQdIBuAFBVV95cUxPbXR1MUZNcVZyZFRtZEFBMzFrOTJpQVZUUWotUU5qQWlYWTZMYjRSTV95VEQ1dS1COGFPMmtOY0xKVGd3WElrMU5CQzR1TDhCNkZrYWVkRm5sQ2Vid1hjQmpEbWlNR2xfNmI2U1AxMVVzblVZMWpJUjVKUkQ4MV9pTTlSdXo4Rnd2SGxvcG90RXpqYkJZU3V6N0o4Tmt5UkVCOXh1RThCUTNFZHZMTUN4ODE0SkZyZHBz?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc01wZXR5QUMzdE80REFhMkhJajlrZ1ZoMUZsNkNkNllGRTRGVDVIQm9QcGVoT1lyTENVOG16a0tIVkdfYy1TcHp1SW5ELXJDelk3OFpzUEZ4QXhYX3pzZ1F4SmN4a2ZvUjRkX09nRGVrb20yeDNWTE16MGxPV3pCaHhoNXlIcHBpTGoxVXVKWks0dEdCUXVZMnZMdEVzTlFlcHRUbzdsSTNqNGs2YTlZVWN5cUdfTm9NaHVUaWlsRVZwWlU?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXFTZGZoSkZhMmR6LUg1T0ZLZUg3dmxtcVhTRk9LazlNeGxCYmQwLXlBV3EzckxqU2VzTFBtY1oxbDhINUZiamNOWEpIdGlTbTVVeDdYNlg3bGhKWVlGOXhKWGstdlNRbXNRMHl6RHZSS1VnaHJlbmE2SzhRTGYtVVNvd2NIRUJ4Uy1xem10S3FyTE1RZXJuUWhxdDlUbklGT3hGSU1Eek5fTmlSZ3hxQ2dRdVNDZ01ZQkxlMXZMU21uWWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE9YX0hwSkp4TFRuVXZCVm1KajVlNjNsMFMzeDNFRE9iV0E2RUlJSldrVUhkdEVqSEh6LUlZbGhDd3ROd0xBelF1emJMWFFxSjliaFp6UmdDOTM2OUJYTnktVHZxN1ljZXNUZnN0Q1FXcV9jay1USk5xNHpPVDlxUEZUajlqYjBWY0dzR24zTHVzLWIydENIWFpNTzhFeG9JYXJFSUtlU0NTeGNsaVlTVXFqU1FuMUt5TVdMZXJzMWlzSE9fOUJia3ZlY19QVDhCS0RFdW91UDBzdw?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "'अकवान' का असर-गया में हल्की बारिश, बेगूसराय-नालंदा में बादल छाए: पटना समेत 13 जिलों में बारिश की संभावना; 21 को भागलपुर-कटिहार में हैवी रेन का अलर्ट - Patna News। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और News18 Hindi शामिल हैं।",
-      "image": "images/13-21-patna-news-dainik-bhaskar.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Tejashwi seeks 'immediate disqualification' of Bihar minister alleging office of profit violation. A politics-related story. Covered by The Times of India and Press Trust of India.",
+      "image": "images/tejashwi-seeks-immediate-disqualification-of-bihar-minister-.jpg",
       "image_kind": "photo"
     },
     {
@@ -89,17 +74,12 @@
           "outlet": "India TV News",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmdaZ2VITkNfVGlrdmp5ei1KMjFqV2ctbkxFZ3QtS2wtNjF6aGFMa1g2d09Qc0NpX01Kd0hwbWUzUHRIUW1NbjJtY29SWHlSRzFsaFA4TThtUmtuaWd3TEFtblkxaDgwazRfY05kRHhvZS1xNWJOOHlGd1pkblM2NzNZWlFIaWc2SXh2R0xMSG1JN2h0OC1lb2dLYktiQnViZDBsdHJEUFRSUm5DOVhrWDgyMW01ZlhYR0E00gHAAUFVX3lxTFBPcFdIeDlRTXVXSDZYR1FyVW1SQnc2T3B5YktxUnp1eFB5YXJHVjJ6OHptTkIwMGw3ZFVEeHRzaThIY195Vm5YNEZrV2tqVDQ2enVSVFRFM014cTZPeHl5Rjd2MEJmR24yRVlTYi14dURZbUhwYXhXVmp6VHpjVHg3R1hENUJBQl9mRHMxZDRyTlBTZGtTY0k5QTQ1Y1doaDY5cmVNUnRDamFxa1IyUUdPWktYSTJVRVRHekZHQTNubA?oc=5"
-        },
-        {
-          "outlet": "Asianet Newsable",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckp0djRWUk5CU0VzMFZwcm9BOFJPY2taUlZSLXVJSkozN1kxX2ZxOFNVZDRQRFZGXzBkRkJYMU5DSGVkbUtzaFdiU09PYXg1Y2lRQ2dDMjJXcFVqU3JxYS1qRlZfLXhwa3gyM2theTNUSEk0SXcxcmQxWl80NHg4dkNBWUxCZnZCZ0VYMk95OHNmQ29veUNxRjVOU3BkYWFVY09mMVVqSWpfdHNqNkJLcWZnYmYxclZyMVgtUUpqUXFYUEHSAcgBQVVfeXFMTjJfbnptTnhmZmROREx3bkVNM0dmaU1nb3VScFNCQjJUbU51QU51NmNvOUpINzI3elQ5OGswUnowXzJJYldXeVRJOVJiSkNtbzlHMnNSN1FsWlpISVE4NVhmQ2lkS2U1Ym5WUEdRTkhja0V3VE85QktFczlCNGxfWHJrOEFwLW5qWWtyOXlzRVdvYmQ0R0hIRUVDdzBYSS1COFdpTmd3M2RHSzg3MG9FS1NxenFDRDZqWE8zUGo4NGVTNm5hNWNxbS0?oc=5"
         }
       ],
-      "source_count": 6,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "6 killed, 1 injured as Scorpio plunges into canal in Bihar’s Araria. Covered by 6 outlets, including The Times of India and The Hindu.",
+      "brief": "6 killed, 1 injured as Scorpio plunges into canal in Bihar’s Araria. Covered by 5 outlets, including The Times of India and The Hindu.",
       "image": "images/6-killed-1-injured-as-scorpio-plunges-into-canal-in-bihar-s-.jpg",
       "image_kind": "photo"
     },
@@ -356,6 +336,38 @@
       "image_kind": "photo"
     },
     {
+      "id": "13-news18-hindi",
+      "headline": "बिहार में बदलेगा मौसम, चक्रवाती तूफान अकवान लाएगा बारिश, पटना-गया समेत 13 जिलों में झमाझम, बढ़ेगी ठंड - News18 Hindi",
+      "summary": "",
+      "date": "2026-11-19",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFYxNExGUEhSU1hNYVVBUVRaY3JiVnZnOV9VVzA2VGtMczFRMmltQWppeXhDb05oSDdCcjVFbWN2Q0RuNEk4Q0dGTVpHVWhIc2tTNG1sN21kYlVxSlBCd2hHb05Gem9YZWJ3d0Q3Vng2STlLLUpQRUkwZnFiN1p0WDE0MzBkdjk3eXhTbnJrYnAtUjB4TWlqbG1CMm9PSnJGWkg0enU0ekh4YTBoNnZzUE8xYmlSQzJMaGc4?oc=5"
+        },
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXFIai16c0JLUUxxcmZhRWlKUDBGRXpIWkpHQlpKQ19QZ0kwOHNWeHdPLVFxTzVteWFLRGNfNVg2S1BoTVhIOWNwamhQT2pJanRuT0VBNF9sNjg5YzZ0N3BTVnhEekpOSzdKcGZvNjlneElEMjZQaWhrVVRPOEVGZzByTUF2MGNWeDdmT3VYcVBucFVva0FaeHVuMDBDUXRNbnd0NEhhYjdXZUtQWHl1MncwVEVIV1A2dkRzeGxFZ3FJV1RvSW9xaDFESGx6eTY5?oc=5"
+        },
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNOXRBYUJfMHotX1hlaXNKck5tZm5zbzhWQUs2aHNubDd0QXFoWmtva1M4c0lKYTVTUGV4WW5BdjF0dlNqMDVsYjc3S252VFRUQWRsVVF5cnpYb1d5bG1MSXhmdHBoeEo5X3ZYUjUyZ3ItMllHcmdWcjNhUXd1T1BEanEtSWVHUGM4SkdtRE5VT0RJLVdneGY3ZlZkaEQxcjZQWFRJTkpDTDV6cWNSMzFsOWtmTklhVV92eEhKOTFhdGMyVU4wV05za295Z003Yy1xNVVJenp5Sjc2M3pPZG9iNERLdEY5T2txNl9Zc212VkRoa3k2Q2V4VXo1UUFKX0lRZUQ4cHBuTTVpcDh5Rk9rN3AwNXA3SEZPV3MtRVIwTF96SGFoN05Sb1VjNNIBsAJBVV95cUxPLWdmM253cTFJbXN1OE56SFU5QnFGTDdfSndmckNFS2VQTzVHRmo0MHFDczJhQU1QNF9oMkVBR0ZOcUdZYV9rY1hWSzhJTV9ZeFY2WVc4TExHWWdtT1p5UkRQS25acHNPeUx3UDgzUGRUdExvcWxLN1Z4RGl1ckwzak4wLXFrb0dRVFNlY0NZcVdOTVJadDk4dV9zNFBzZGtTbG9mTkVJeEtmX3FuTFZ6dFZlbW91XzJJYnJqMlZiWHBMaUJrbkJnNGtUYXdjZS1aajRVUmFQbDF5ODVQMEd4WXgyWUo3bXVQbm9TN2dWWUNlRjJabE1WT2NqMjdybUhQXzhXeFpwYlR0YmI2T0I0dDZxdFpLeEZzVFVReTVBam9fYWVGOTVySjg0M1FGQ18y?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "बिहार में बदलेगा मौसम, चक्रवाती तूफान अकवान लाएगा बारिश, पटना-गया समेत 13 जिलों में झमाझम, बढ़ेगी ठंड - News18 Hindi। इसे Jagran और News18 Hindi ने रिपोर्ट किया है।",
+      "image": "images/13-news18-hindi.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "amar-ujala",
       "headline": "बिहार: पटना में युवक की गोली मारकर हत्या; कान और पेट में सटाकर गोली मारी, पीट-सिर पर चोट के निशान - Amar Ujala",
       "summary": "",
@@ -365,9 +377,9 @@
       ],
       "sources": [
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Amar Ujala",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdmTEdEanpRV0ltc0tiZFZQVUpOeVJZeko4eE1wTExKRmw0WC1IRDR5czcwZmZZUVJOUVl6cFpyd1VZeFl4RjV2cXRvUWdaUXlLbkh3cFJORTZUbkpleUdEbUVQUDRyX1N2Ym9IS25yMFBTRXFGbWFBd0xkYXdzUWJaYkNJWGt3UjBtVUlBQlZQazFyTnlBdm13YkJmR0XSAaQBQVVfeXFMT1Z5SkpYQlpYeXBFVlh5dW5Eb1VIbkZsMVRtcG9OT21ZRFlzakZPN0oxR2xYU2tXNFNtVEc2WGJTYkpkSGFlSVdJYlFoSjBaSnJETDNGRjBueFVIcnU0YWxsWFdlRmFZeWlTRDZLWU5RSHhhTjhMMXJGWEg0U01NRFJSZkd3UlZIcE5qSHlOSjBxTWdVS0pIMVhidzkyQlg3dWJ1NjU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWlFJZUNBTG9vWGRVdUZMX19oRHV4NWw3YkVCZ3RiUWpLUkZSQzdoR0hzckVyVDdaWmQyXzJ2Q3JEM2xEalI4UFFrNXRVZE9aRUYzbk1ZbjhQNGtkOTd3Y3ZOaXlxN09SREdueGszR2pZQlRzNFJVWU05ZmNYanBNc05FZkN4dWVjRm1rMFJlVXptRGhVWVNNRTRPVnF0bFQwTzJRRTk5WHdvQWxMRXBF0gG0AUFVX3lxTE5IdF9ILVZ0TWxXdDFQNHhZQjVwS1dNYnRkWGRORlJvR1MxMVJIUDZGN3BSZVR1ZDVsZ3NiX0ZkR3N2WUdNVXl0dGFjOU9FalVzLVY4amNLWUp2V1dwQWY3WXJHSlpoZjY0djlLUEpfWjM2dEhhWnU2LU1iVnh4cWItcU5BaXBoU04wM3JWTUkwYUZrUHM4dHRVV1NwUGV6aTNuUlFrUEhpekJvU2F3VmdxUTNCSw?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -380,14 +392,14 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFlmT3N0azZRYmNkX2JicHQzeXRaa09ueFlpREdWMm1waTJGdjdhOVFFQmlPRFdqSFZsZ3JoUG15M2w3dEFNdXItNWFOcGY5S1QtSHhMS194ZGx2YmZQX1ZEMVVrd21YMjh2a2JGUXpMWkpXbmh1S0lxbFRucFp1SWJMSzg1YWNTWTJOZzFZR1puOGFIM3BBOEtIYmJpdWZ1Zm1QNnFHYlN1M0Q2blg1UC04ZTHSAboBQVVfeXFMTlE1MGc4cGNHU1VsR0lYSG1uQVFydDhaRTB6aDN4Nkd2QmliejVfbjdUVEdUeDh0QktfS2o2amZKUmFGazQ0SVpPVTg2RnBfWjI2X3VqbnRkSnktNVp1OG81UnluNW5vNzZQM3dZN19XWGtUb1NtQjlTVU9wNEkwR0NCYkdCejdVLVpaX1VFV1Z5amg0OUJWV3dKRkRQYTR5dGNmY253SkdvRHlNQ2pKWkFVVTAwTUtyb2x3?oc=5"
         },
         {
-          "outlet": "Amar Ujala",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWlFJZUNBTG9vWGRVdUZMX19oRHV4NWw3YkVCZ3RiUWpLUkZSQzdoR0hzckVyVDdaWmQyXzJ2Q3JEM2xEalI4UFFrNXRVZE9aRUYzbk1ZbjhQNGtkOTd3Y3ZOaXlxN09SREdueGszR2pZQlRzNFJVWU05ZmNYanBNc05FZkN4dWVjRm1rMFJlVXptRGhVWVNNRTRPVnF0bFQwTzJRRTk5WHdvQWxMRXBF0gG0AUFVX3lxTE5IdF9ILVZ0TWxXdDFQNHhZQjVwS1dNYnRkWGRORlJvR1MxMVJIUDZGN3BSZVR1ZDVsZ3NiX0ZkR3N2WUdNVXl0dGFjOU9FalVzLVY4amNLWUp2V1dwQWY3WXJHSlpoZjY0djlLUEpfWjM2dEhhWnU2LU1iVnh4cWItcU5BaXBoU04wM3JWTUkwYUZrUHM4dHRVV1NwUGV6aTNuUlFrUEhpekJvU2F3VmdxUTNCSw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1VNY21LbHlfRzhnT3RVOElHZFlnZmh4cXJMbFh1Y2MyUEhGRGFoU2x4ZG9QYjUyUXMwbHFYRnpaOHBqTlRiVXVKSHhCSlVBcUhzUUhRcTRFd3J4cmN4a1ZOdVpibWNTSGlYZlpfUWxpM2Z4UFhIV2RnR3paU0RxUWhjTUVseUNhdzY3cFhiMU1KNzVjcVpPVE96XzJMMGJCS09hVUdrdWVqVWc0WjFobHBRY3hiLWdF0gG-AUFVX3lxTE9fVkRrbjJkSF9nUHo4djlqQ01tMG16VkI2eTk2dnNhZVQzLWt5MGY1Nzd0YTg0M0ttcF8yTU8tZU1rdWFWM0g4bmQzZlF2VW0zUnR0Qjl2SU5FQ0MzblNJT0Z0UmVOMjg2ZWk3ZHdSdHZRdlZVaklBQ3BrcXNRMS1XenN6VGVQUnNOY3BlYm9ldGljNHlYcEJUYUFrSnA3QWRkMXg5alRYei1VcDVvS1AwVEhTb0ZnM2tMWDU4Ymc?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1VNY21LbHlfRzhnT3RVOElHZFlnZmh4cXJMbFh1Y2MyUEhGRGFoU2x4ZG9QYjUyUXMwbHFYRnpaOHBqTlRiVXVKSHhCSlVBcUhzUUhRcTRFd3J4cmN4a1ZOdVpibWNTSGlYZlpfUWxpM2Z4UFhIV2RnR3paU0RxUWhjTUVseUNhdzY3cFhiMU1KNzVjcVpPVE96XzJMMGJCS09hVUdrdWVqVWc0WjFobHBRY3hiLWdF0gG-AUFVX3lxTE9fVkRrbjJkSF9nUHo4djlqQ01tMG16VkI2eTk2dnNhZVQzLWt5MGY1Nzd0YTg0M0ttcF8yTU8tZU1rdWFWM0g4bmQzZlF2VW0zUnR0Qjl2SU5FQ0MzblNJT0Z0UmVOMjg2ZWk3ZHdSdHZRdlZVaklBQ3BrcXNRMS1XenN6VGVQUnNOY3BlYm9ldGljNHlYcEJUYUFrSnA3QWRkMXg5alRYei1VcDVvS1AwVEhTb0ZnM2tMWDU4Ymc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdmTEdEanpRV0ltc0tiZFZQVUpOeVJZeko4eE1wTExKRmw0WC1IRDR5czcwZmZZUVJOUVl6cFpyd1VZeFl4RjV2cXRvUWdaUXlLbkh3cFJORTZUbkpleUdEbUVQUDRyX1N2Ym9IS25yMFBTRXFGbWFBd0xkYXdzUWJaYkNJWGt3UjBtVUlBQlZQazFyTnlBdm13YkJmR0XSAaQBQVVfeXFMT1Z5SkpYQlpYeXBFVlh5dW5Eb1VIbkZsMVRtcG9OT21ZRFlzakZPN0oxR2xYU2tXNFNtVEc2WGJTYkpkSGFlSVdJYlFoSjBaSnJETDNGRjBueFVIcnU0YWxsWFdlRmFZeWlTRDZLWU5RSHhhTjhMMXJGWEg0U01NRFJSZkd3UlZIcE5qSHlOSjBxTWdVS0pIMVhidzkyQlg3dWJ1NjU?oc=5"
         },
         {
           "outlet": "Prabhat Khabar",
@@ -398,7 +410,7 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "बिहार: पटना में युवक की गोली मारकर हत्या; कान और पेट में सटाकर गोली मारी, पीट-सिर पर चोट के निशान। इसे Prabhat Khabar और Amar Ujala ने रिपोर्ट किया है।",
+      "brief": "बिहार: पटना में युवक की गोली मारकर हत्या; कान और पेट में सटाकर गोली मारी, पीट-सिर पर चोट के निशान। इसे Amar Ujala और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/amar-ujala.jpg",
       "image_kind": "photo"
     },
@@ -445,14 +457,14 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlVZZDUteWQtd1FkSEdCdW1ndktDQTh4ODNOYUtnNUNka1J5NDhmX09DOUF5bWtyaGhWZVhTQ1lFWm1lVXZfbnhYYnhDY0ZvTU1pTk1SOFhyaWYteUZYTTZPSlo0eWVXOHlaSHhWV21SMnE2aXY4OW5kbTA0bnpRVlFfckFpWDNOX3JqTzlaRHRTOE8zczVMYXhNQS1qRDNzRnhqaWc5aHZwM0VaV3N2T0lUamZMSm_SAbwBQVVfeXFMTlVicFdGclhIMHRaT2hyYXNlLUVaelJqR2lWZUo4bzJNV0NvMzVDY3djdW1LTnVhYnhKb1UxOXc4WnByZHJRM0ZuWmpFeXFYN2s4RkZqM2p0Q2xUVjFYVlcweXYxYkFkemZPanlKYXJFd1k1SGtiQkh5THFrZDFHdEVPUUtuaXd0eXgtOUlGUWUzZGM0VjNuX0Z2VHh1SEkydmU2b3hLNndNLWNyZVpEenZTSy1DaFI2Zmx6NFE?oc=5"
         },
         {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa1ZLaGxJMVdNN2J5blo2MFNXVnYyMEowZ25qdW9QbTM0Zld5d0tWek04NGdnQ3MxaFI0TkFtWS1jWGdIMGE5VjBPWThXdXV3X2FUdXFjTk9pUkZOV0pGd2QwV0NNYms0bWRYOHhtOXZudmJSQ2xFLXc0eURiU0p6UmF0WWFmeV9jYk5tOWcxVnhOaUFyc1YzWmMxdHNManJveU1wc0E0RWZUSXgyQjltOXF4UUs3ZzNJMnFUeld4VGF5Nzl0Skd2MEh3MlNpTVZu0gHWAUFVX3lxTFBJZUZZZGZkeDY0US1Hdjk0WnA5VFFHaHFZSWlSYU9nUWpwaHBIT1hzRzRmd0RSVWx2eDVLYmZOUTk4RDlqMHZHZ3lpMkNRRWJnRW1oVWRwa3A2UUFramg3d0l3WHE2VWdZeF9feEdXX1JybHNhWE4xamtIcjBpQVY0eWJyLU93NTdXTHdVd2ttRWU0SDNhTnlyVUh5THB3M3hla3h3emI4VFdsajJIbE9xYkJEWV9pQ20tdl9JSWprS0RoaFo1TkxLQ3EwSHV3TmRLdjRLSHc?oc=5"
-        },
-        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNkZucG1CRUJ5clRQaUpIRHcwVzI3ZHZYM3hiaHk0NlNleS1EZFFoVWZELXNBNmUyWjljUHh6SGFZckRPM29CVWd2cXNBTFlFcUR1XzZfM2Z2clJHS2RvSU5Ya0Jsci1KRGltdHpWMjVUVkVpNFNFMHpEQ1J1a3ZUZS13dHYzNlU0dUpNTjZIZnpHWTJELTBHajZfWnBMV19mU3dDbWtGRHRQX0tvQm9QR203TDBrN0p4OUh5MDFqRnlDTUlvbEZTU2EyTDliRkkxUGxSZjdTS2pKSkpGbmRodmpKWWJwM21GVE8xSXpFZHR2WVBKVFozdGhvLWdiWFZ60gGGAkFVX3lxTE1ZQWFnQzBCUndWdXNJc1dWR2JVTE1aVDJINllpNGJCdFNrYjU1am5PVU52d0tTVWJGWTJaemNNdXpSNnlSRWZTejRJWUM3WlQ5SXM1a2cyZFNlWjRwRkY3R3ZGdWZMZUo0SC1DcnJMR1dFTkFmdG1TbzF6MlRkdFh3Wmw0VGlfNXh1SjNfWWphamEtZ1BsNjlJalJkX0NBcmxYZE5xd1NTNVRWTVYtcDQtcDdpVWxKQlU4aGVneEozdnhoYmxWUjZNYUQ0c2poUTVkYklZSGF0RE9EQ1VCcXhucmNITXdJcXlKbW53akE2bUFmOVdMM2toVFlDZnFVU2paSVBnNWc?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa1ZLaGxJMVdNN2J5blo2MFNXVnYyMEowZ25qdW9QbTM0Zld5d0tWek04NGdnQ3MxaFI0TkFtWS1jWGdIMGE5VjBPWThXdXV3X2FUdXFjTk9pUkZOV0pGd2QwV0NNYms0bWRYOHhtOXZudmJSQ2xFLXc0eURiU0p6UmF0WWFmeV9jYk5tOWcxVnhOaUFyc1YzWmMxdHNManJveU1wc0E0RWZUSXgyQjltOXF4UUs3ZzNJMnFUeld4VGF5Nzl0Skd2MEh3MlNpTVZu0gHWAUFVX3lxTFBJZUZZZGZkeDY0US1Hdjk0WnA5VFFHaHFZSWlSYU9nUWpwaHBIT1hzRzRmd0RSVWx2eDVLYmZOUTk4RDlqMHZHZ3lpMkNRRWJnRW1oVWRwa3A2UUFramg3d0l3WHE2VWdZeF9feEdXX1JybHNhWE4xamtIcjBpQVY0eWJyLU93NTdXTHdVd2ttRWU0SDNhTnlyVUh5THB3M3hla3h3emI4VFdsajJIbE9xYkJEWV9pQ20tdl9JSWprS0RoaFo1TkxLQ3EwSHV3TmRLdjRLSHc?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -485,17 +497,12 @@
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGpwZXB5d1ZuYy1XX2RHN0pyVFo3SW5wbXNFXzlKb0RPU2VDWG5RM1k1UzVHUV9uUEhibllMM0pGQlVOYUtqOEVvbHk1dTBxTmN5OEJibi1uMWdpLU1uSlRpWFFLd2txYVJMRkY2dDQyWTRLOUl3NWI4QVlzMnBWcEZReEczRGtGOWF0ZVhHOV9rcGhHc0wtR0VXdUk5dlhVRm9sYzZZTS1OZEN4WW03ZC1NRXljNm5uSWfSAccBQVVfeXFMTzJZcGJBSlJLcUttdjdBMXd3U2JDSGlYeGFRS1hCdE1qdFhSVXlCZ2RJazd5WnY2T2xCaTRUOUo0WGYwMm5JblFkdFhRNHgydTU5YmFtYXh4SE9hRlJWaWE4VTZTWkJqcWJRemowaUxJOElFS1RkcUViX3hWLThJOV8tbHFXNFRNc0QzU01XUEtNR3NMYkM5UHBrejlkZmlaVzc4OFRxcEM2N1UzbGJtMG1NaGtyUW9KTm5Ga1l5RHk3eGdlV1lLOA?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWm9WUHVwYTVPUW1Iam1wRG1wR2pOdFVtaENuZVpDeFNnTy1oOGxwMnNjNVg4MlBNaVh3cjlKSk4yYWVnRkFFMldkVnJHRkhVSkp4ei1JVE1xaEhrdUw2NHJDMjdnSGFoREVIRjMtSkdDY3lTcmZmSGRGa2ktMk1qdXVZRWZYeWRxZVpQTDJtQ1FtMFgyTm9wTFg1VXAwWEpBdDJmQlBYQnFHNzhaMXhPaNIBuAFBVV95cUxNUDJGQjdzUnNzU3M5V2tZNXloWjY1VjNHQzU5VHQyd2ladmxFMHFuVG1KX2JqSkNNYzRxZmxlU1NSR0Y3VUVENkNib0pPZFFZS200RW45ekpMUzFyblJ3MTR4SGJ4RGdHZFlZekcxdEVKbGhyMUJDNVFURFRhOUpxemoyVE1ueVE1UDZpZHlwX3kzbHdPVVpsTk5sRTladVZ1bERRS2lnZkpRRVA5S3hYVUlCTUFXMnkx?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Armed robbers loot jewellery worth more than ₹30 crore at gunpoint in Bihar’s Bettiah. An economy-related story. Covered by 3 outlets, including The Hindu and The New Indian Express.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Armed robbers loot jewellery worth more than ₹30 crore at gunpoint in Bihar’s Bettiah. An economy-related story. Covered by The Hindu and The New Indian Express.",
       "image": "images/armed-robbers-loot-jewellery-worth-more-than-30-crore-at-gun.jpg",
       "image_kind": "photo"
     },
