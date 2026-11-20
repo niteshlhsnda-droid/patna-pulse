@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-11-20 01:55 UTC",
-  "generated_at_ist": "20 Nov 2026, 07:25 AM IST",
+  "generated_at": "2026-11-20 02:54 UTC",
+  "generated_at_ist": "20 Nov 2026, 08:24 AM IST",
   "story_count": 46,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
-      "id": "13-21-dainik-bhaskar",
-      "headline": "बिहार में दिख सकता है 'अकवान तूफान' का असर: आज पटना समेत 13 जिलों में बारिश की संभावना, 21 को भागलपुर-कटिहा... - Dainik Bhaskar",
+      "id": "13-21-patna-news-dainik-bhaskar",
+      "headline": "'अकवान' का असर-गया में हल्की बारिश, बेगूसराय-नालंदा में बादल छाए: पटना समेत 13 जिलों में बारिश की संभावना; 21 को भागलपुर-कटिहार में हैवी रेन का अलर्ट - Patna News - Dainik Bhaskar",
       "summary": "",
       "date": "2026-11-20",
       "topics": [
         "general"
       ],
       "sources": [
+        {
+          "outlet": "Jagran",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXFIai16c0JLUUxxcmZhRWlKUDBGRXpIWkpHQlpKQ19QZ0kwOHNWeHdPLVFxTzVteWFLRGNfNVg2S1BoTVhIOWNwamhQT2pJanRuT0VBNF9sNjg5YzZ0N3BTVnhEekpOSzdKcGZvNjlneElEMjZQaWhrVVRPOEVGZzByTUF2MGNWeDdmT3VYcVBucFVva0FaeHVuMDBDUXRNbnd0NEhhYjdXZUtQWHl1MncwVEVIV1A2dkRzeGxFZ3FJV1RvSW9xaDFESGx6eTY5?oc=5"
+        },
         {
           "outlet": "Jagran",
           "type": "news",
@@ -29,26 +34,53 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzdVVVZTSnJJZ0UzOFZ5c1lxdFVHOWJUVms1TENTOXRFMmtrNEd0YWg4SVA2MHQ2Qk1HVjhYM0t4XzF4N1RiWXJrRFpLNEFER2U2dDFnbXhfTjQ3LWtmdFRmWFRaZE1ncXowSlB2OVBsZ2hMUG1tanp3Wm9oa21nUTVTMGhla29WMGxuNVZYLUk5dFFxbmVWbjBfNjNMSWJ6SjhtU1NoR2lWX1hDdFJIcXVYQdIBuAFBVV95cUxPbXR1MUZNcVZyZFRtZEFBMzFrOTJpQVZUUWotUU5qQWlYWTZMYjRSTV95VEQ1dS1COGFPMmtOY0xKVGd3WElrMU5CQzR1TDhCNkZrYWVkRm5sQ2Vid1hjQmpEbWlNR2xfNmI2U1AxMVVzblVZMWpJUjVKUkQ4MV9pTTlSdXo4Rnd2SGxvcG90RXpqYkJZU3V6N0o4Tmt5UkVCOXh1RThCUTNFZHZMTUN4ODE0SkZyZHBz?oc=5"
         },
         {
-          "outlet": "Jagran",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXFIai16c0JLUUxxcmZhRWlKUDBGRXpIWkpHQlpKQ19QZ0kwOHNWeHdPLVFxTzVteWFLRGNfNVg2S1BoTVhIOWNwamhQT2pJanRuT0VBNF9sNjg5YzZ0N3BTVnhEekpOSzdKcGZvNjlneElEMjZQaWhrVVRPOEVGZzByTUF2MGNWeDdmT3VYcVBucFVva0FaeHVuMDBDUXRNbnd0NEhhYjdXZUtQWHl1MncwVEVIV1A2dkRzeGxFZ3FJV1RvSW9xaDFESGx6eTY5?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc01wZXR5QUMzdE80REFhMkhJajlrZ1ZoMUZsNkNkNllGRTRGVDVIQm9QcGVoT1lyTENVOG16a0tIVkdfYy1TcHp1SW5ELXJDelk3OFpzUEZ4QXhYX3pzZ1F4SmN4a2ZvUjRkX09nRGVrb20yeDNWTE16MGxPV3pCaHhoNXlIcHBpTGoxVXVKWks0dEdCUXVZMnZMdEVzTlFlcHRUbzdsSTNqNGs2YTlZVWN5cUdfTm9NaHVUaWlsRVZwWlU?oc=5"
         },
         {
           "outlet": "Dainik Bhaskar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXFTZGZoSkZhMmR6LUg1T0ZLZUg3dmxtcVhTRk9LazlNeGxCYmQwLXlBV3EzckxqU2VzTFBtY1oxbDhINUZiamNOWEpIdGlTbTVVeDdYNlg3bGhKWVlGOXhKWGstdlNRbXNRMHl6RHZSS1VnaHJlbmE2SzhRTGYtVVNvd2NIRUJ4Uy1xem10S3FyTE1RZXJuUWhxdDlUbklGT3hGSU1Eek5fTmlSZ3hxQ2dRdVNDZ01ZQkxlMXZMU21uWWc?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc01wZXR5QUMzdE80REFhMkhJajlrZ1ZoMUZsNkNkNllGRTRGVDVIQm9QcGVoT1lyTENVOG16a0tIVkdfYy1TcHp1SW5ELXJDelk3OFpzUEZ4QXhYX3pzZ1F4SmN4a2ZvUjRkX09nRGVrb20yeDNWTE16MGxPV3pCaHhoNXlIcHBpTGoxVXVKWks0dEdCUXVZMnZMdEVzTlFlcHRUbzdsSTNqNGs2YTlZVWN5cUdfTm9NaHVUaWlsRVZwWlU?oc=5"
         }
       ],
       "source_count": 3,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार में दिख सकता है 'अकवान तूफान' का असर: आज पटना समेत 13 जिलों में बारिश की संभावना, 21 को भागलपुर-कटिहा... इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और News18 Hindi शामिल हैं।",
-      "image": "images/13-21-dainik-bhaskar.jpg",
+      "brief": "'अकवान' का असर-गया में हल्की बारिश, बेगूसराय-नालंदा में बादल छाए: पटना समेत 13 जिलों में बारिश की संभावना; 21 को भागलपुर-कटिहार में हैवी रेन का अलर्ट - Patna News। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें Jagran और News18 Hindi शामिल हैं।",
+      "image": "images/13-21-patna-news-dainik-bhaskar.jpg",
+      "image_kind": "placeholder"
+    },
+    {
+      "id": "tejashwi-seeks-immediate-disqualification-of-bihar-minister-",
+      "headline": "Tejashwi seeks 'immediate disqualification' of Bihar minister alleging office of profit violation - Press Trust of India",
+      "summary": "",
+      "date": "2026-11-19",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlg0V3JDOTdJU3lYYTE0NkZZNnY2eWVsMHhKVmNzR0hBTDhfajFUNnh0cDZXMW5QM3ZsaDk3a0hCSkZBTXQ5ajJ0cnlIWV9fQ1FVWl82ZzBxSk8xRXlJVjMxRFhTVzJHOEp1U1VGaEQ5c0ZNNnpQanRBZmU3Q1hxUW5lWWIyQ0Y4VC1hN3Y0SmNQLWduTWFodlVBR3VoblYwY3gtbXh6OHl6M2o5eG1jelZ1SXFESEXSAbwBQVVfeXFMTUZMVWlCX0JzamdMNm5VcVFfS18wOVpqVEZNa0V1dF9vd0h4SVJtRVZsaDF6RF9CU1BuWnhCNlBkb2t6Rm5UaHRTc1otaGtMVjcxRk5rVEp6MmNmUHNWaXZhdy1XQjF4UmIzYk9WbllkemVPb0JPeS04TGVvMnprSGhoYmNPMFA1b1Q2c2ROb01Kc0kwYXExc1B6S0lxbFRKZEo4eXBZdGdhMmVqREY2QVBlYkx6ZjRRNkNLY2M?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzlzV0RCcmE1a0R3Q3BJZ3Y2RzFRQVJNSG9qRkR4MGhhc1NQMXZkNE1RekdXRzdlMkRGNklhLXc4NEZOYUt3LVlSdVF2VjNMUHFnOGNvNHd5ZG0wN3ZIazRfUXJyMTNQNmd2NHR0VFdFVmpZdkF0SFV4bXdHaG5UVW1FZ0t5bmViaFRnQ0lsOUpWcm1DakYxTDlpdkZ4NWdGZ0ZtWFpIXzdMeVRtZDI1a1NMaFVBSTdybEx2N19fTDMyMVFwanVRetIBzgFBVV95cUxOSi1WamUzZHpnMUZXdTcxWmo3cDVnS2dHQkFSTXcxbjluWHRwNFFoZjhZVWNReTZXYURmaFA4Qm9rb1pKME1oNWRhR2tsOXJCQWw1bm8yanpaNE83VEhKQmVFc3B1NGZpVDlQRmtEM1dMRmZrTkNIdURRVjN4TUVvNkYxci1kcGhLNkpfQVRJU21DeS1YaDBTWDB6YXRmaHdTc3JXTk4waHJ4cVFzQ3FicnFqVDBsYVl1OXlET1hGOTJEMTJWMXBUVTlSOXVBZw?oc=5"
+        },
+        {
+          "outlet": "Press Trust of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE9YX0hwSkp4TFRuVXZCVm1KajVlNjNsMFMzeDNFRE9iV0E2RUlJSldrVUhkdEVqSEh6LUlZbGhDd3ROd0xBelF1emJMWFFxSjliaFp6UmdDOTM2OUJYTnktVHZxN1ljZXNUZnN0Q1FXcV9jay1USk5xNHpPVDlxUEZUajlqYjBWY0dzR24zTHVzLWIydENIWFpNTzhFeG9JYXJFSUtlU0NTeGNsaVlTVXFqU1FuMUt5TVdMZXJzMWlzSE9fOUJia3ZlY19QVDhCS0RFdW91UDBzdw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Tejashwi seeks 'immediate disqualification' of Bihar minister alleging office of profit violation. A politics-related story. Covered by The Times of India and Press Trust of India.",
+      "image": "images/tejashwi-seeks-immediate-disqualification-of-bihar-minister-.jpg",
       "image_kind": "photo"
     },
     {
@@ -94,17 +126,12 @@
           "outlet": "Asianet Newsable",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckp0djRWUk5CU0VzMFZwcm9BOFJPY2taUlZSLXVJSkozN1kxX2ZxOFNVZDRQRFZGXzBkRkJYMU5DSGVkbUtzaFdiU09PYXg1Y2lRQ2dDMjJXcFVqU3JxYS1qRlZfLXhwa3gyM2theTNUSEk0SXcxcmQxWl80NHg4dkNBWUxCZnZCZ0VYMk95OHNmQ29veUNxRjVOU3BkYWFVY09mMVVqSWpfdHNqNkJLcWZnYmYxclZyMVgtUUpqUXFYUEHSAcgBQVVfeXFMTjJfbnptTnhmZmROREx3bkVNM0dmaU1nb3VScFNCQjJUbU51QU51NmNvOUpINzI3elQ5OGswUnowXzJJYldXeVRJOVJiSkNtbzlHMnNSN1FsWlpISVE4NVhmQ2lkS2U1Ym5WUEdRTkhja0V3VE85QktFczlCNGxfWHJrOEFwLW5qWWtyOXlzRVdvYmQ0R0hIRUVDdzBYSS1COFdpTmd3M2RHSzg3MG9FS1NxenFDRDZqWE8zUGo4NGVTNm5hNWNxbS0?oc=5"
-        },
-        {
-          "outlet": "DT Next",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFRiNGkybjN3SjBXOUk1T2VCTmplZWI2ZjE2THliLVNNUlI5eVlfS2tVRlBBM3V4ZGpsUGFMRk1hbWRHUTFzd3JxZjdwdGVaV1Zwal9KQlBQT2IzZnhzU2FtY3FXNEM2NTY1d2hmU1Awd1RGS2lMQnR4VWFtMjVNbkRLcERkVXB0REhzTXlHUnA3ZzhfVUHSAaMBQVVfeXFMTWw4OHJZcEpTMElYeGNkbmtBTzlmUWxnaXdDcjJaTmZyR1R5WmRlMElISzFqa1NmWmhHcVNYUW5sejdsc0FlNGNNWHBuRHBxY21vSTVOMmg2NlY0RXIwVlNXbGZBY0x2aWNpa3F1YmVNREpWQjJVcGFCV21JY2RZdU5ZQ0pjYkJfUFE1eFZOSUJ4dEowZmx6ajNPYzhQS1NORXJSaw?oc=5"
         }
       ],
-      "source_count": 7,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "6 killed, 1 injured as Scorpio plunges into canal in Bihar’s Araria. Covered by 7 outlets, including The Times of India and The Hindu.",
+      "brief": "6 killed, 1 injured as Scorpio plunges into canal in Bihar’s Araria. Covered by 6 outlets, including The Times of India and The Hindu.",
       "image": "images/6-killed-1-injured-as-scorpio-plunges-into-canal-in-bihar-s-.jpg",
       "image_kind": "photo"
     },
@@ -131,6 +158,11 @@
           "outlet": "The Week",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFNSdk5LbkxTR3VXTHZMUXlSYjVhNGZoQ09odUpHT1JsRkxUeWdBU3BPeXpRdjNHZmVVR28xZXFvWENZNDBpcnU4aU9OU1c5RUV0QkxieXZ3dk5EQ2YyaGlwblhZR1FST0dneUFUVThaRFdnXzlWeVZfcG9GaFRDNk5tWG5sc09hVGpPRGEzWGd1eXo4WnU5dFRhMll4VzhPcnhWQm5HNDc5b1FlMTBmaVJ4TTVOQjlNcGtpa285elBBVy1ONTFZ0gHMAUFVX3lxTE1IRGwwbU9kT0dLVGVyMkVlVVdOLU80cVBDTjRxMmVubWlhV0QybXBfTWJhUUJfNmd4V25HRGhKQ282bzM5b1F4aDVoZktfeU4taWFYN2dIczBmMHhuT1I4cFBhZVRCUTE1Y0NXajdneWYzMWNGUi1Id09EVkRuT2tSeDQ5Snc5X2hJV09tLXhwdURYWFgtVUlOZHlDSEp0dlVfcHg2NnBfZjBlLVRQS0l4ZVI0Nm5xblpZYi1YSDRDelpIbHJjeGNvYTlGMA?oc=5"
+        },
+        {
+          "outlet": "Asianet Newsable",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamlDTHYxN3J3eEQ5V002NklsWFB2TWtZM09RV2N2Qlk2WHFTc1p0RVdEVm5POTNaV1JvcUJWTDBIRURlTVg0M3pIZ1hxakFfdzBEN2t3em01NklCaGZxT2o2blk3MlhOTm9fYTJWNFlzb3lUanUyNkhTOWRhTHlWbHU5akFSQ1RscVMwNmNZMWItRE53VG1WMEIyZDV0LWp0MS0tc25SQVAtU3hCNms1UDlOUVItVGlhR3JkS19odll5aTFaRGNfOGJsZWzSAdIBQVVfeXFMUHFfNE5WR3RmOGp2NGRpaXVRX1lyTHBDbzNSTi0wMjhiRWk0ejNtRTBydWhNYnI3UjdZMjBMdmw5SUs2OC15ODE4MWVCb0VtVTlheVVsZFpuVnFZcHRxd1ZOdWhvcTFjaDkwbUVsMGRTc3dvY0pyb05EQzJJc01qeFF0bUk1OWFEbmw3NHBqTEJTSXJWNTVjTkdXZDZRNHVFX3JxYjk2Vy1RemQwNXZ3anZOVjBZenRHdnZYbnJSYUI2UGdFQ05VczdTTUlwalRLQThR?oc=5"
         },
         {
           "outlet": "Dalal Street Investment Journal",
@@ -208,10 +240,10 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZWd2eWptZHIwOHRFZlNkb1FqaTVlMlRueGp0VDlxcWlPNF9qVFVmd192R3Z6c0R1cmUtZDJmdy14QWlUY3VXVlNvVWFaMy1OWFBQV2h0TTU2c2hVV0RGbVEzUzRtREV2TTFxNnFhczJpY2RGYU1qZ3J1cURNN2o3NUU1UWpZWnhXX0dYRWdpX2Zxc3VJZVJCVjFLdVFiVGVXZ3ZOeFdTelpqcERvdV9HdEc5czNKcXpTYzY1ZVVpLUFGZF80SEZUOUExTkFYbTZHdmRoZ2hBOWdyNHJ20gHjAUFVX3lxTE15aE5CWHVfS3FnU2Y2eEJ4TzlENUI3MW1uOThWS2gzUzdDYmxjMllZSEd0X0hnbmpVWG9NZXY3S1M5NERGRmliZFRMd250TWE5ak5RdDgtVi1odXNXNjRPc2JkRVFXanlqZlowWjByemdmQVFXTm9hcXl2a05mYjBvenRNV3lHYlgwNWp2Vko1RkFYZm9MRDFRa3FiZmcyYmYzVVlwcGJnUjg4OWtlLUdtbTQxU05CQUdudEppaFlyRHdYaFA3ZUlCOWJ3djlrOTIwSzl3U0FsYTllamFsNGd0cGIw?oc=5"
         }
       ],
-      "source_count": 15,
+      "source_count": 16,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Adani Energy Solutions Wins Rs 500 Crore Bihar Transmission Project to Evacuate Power from Upcoming 2,400 MW Plant. An economy-related story. Covered by 15 outlets, including The Times of India and The Week.",
+      "brief": "Adani Energy Solutions Wins Rs 500 Crore Bihar Transmission Project to Evacuate Power from Upcoming 2,400 MW Plant. An economy-related story. Covered by 16 outlets, including The Times of India and The Week.",
       "image": "images/adani-energy-solutions-wins-rs-500-crore-bihar-transmission-.jpg",
       "image_kind": "photo"
     },
@@ -459,33 +491,6 @@
       "genuineness_label": "Corroborated",
       "brief": "5996 करोड़ लागत, 164KM दूरी, 3 घंटे का सफर... पटना टू बेतिया के लिए बनेगा सुपर हाईवे - News18 Hindi। इसे Prabhat Khabar और News18 Hindi ने रिपोर्ट किया है।",
       "image": "images/5996-164km-3-news18-hindi.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-govt-schools-to-offer-evening-classes-in-five-subjects",
-      "headline": "Patna govt schools to offer evening classes in five subjects - ET Education",
-      "summary": "",
-      "date": "2026-11-18",
-      "topics": [
-        "education"
-      ],
-      "sources": [
-        {
-          "outlet": "ET Education",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXE3Vi1wcUFySlVXTzJNY1hXck1kVXNLRS05OVJsZ1NscnBVS3RFNnVlWmZmVG5OeUc1TXk4ZG8zcmtFSFA2aVRLb3l0WXRsN2x1Y2pyYWJENi1qM0dFTjZiMTNGamVycDlJLUl5Njk1MnVwWXlWajZ1UURvbVlpbGkyMHliQVlMWHdRM2RzUVg0SXVtTHZ6R3VFZFJ0eWxYYUJ5ak9ZYTFCWVc0WmI2a1VSTHFabTNyQ0xRMkJYUkRFWEpuZVB1ZEc3dWhtdHNtUmc4aNIB2gFBVV95cUxNb3VaV2Nibi1TdEtLTTJNMnpPM0tQWTh3MC1FdHI0R045ZkRmVFFSVXJzM0l5TDluaWN3ZW1ldHVBM1Vhb1Zld2ljeFVXd2Rzb2xMMC1YZ3VXenY2VllzeTNuQTZuZDNJZzh4ZjZlLTFUZEhZbE16UzdpU1B5TjRzbVBZdkdCV1NLTEo0N2JpU1BTSllsdkQwRmI4T1NJVjZ0RjROVDI0YjlmVEZNWFp0NlBlUjR0Y3QzY0ZCcGJuMDd3TEJlVTVXdF81X2pOZmRoZ1JpbUZvdVJfUQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVVCaHBsZnVWaHpVaERFWjBnbmxFYzJOdG93dzBIRzBQUlNfc3MtTkE4eDZmU0gzX0wyd18xVklLMUhoWUxzSFdTTHVFU04yc2RwUHNBeGRCSnVISnpCa21CZElxVnYyUzdRalh3SzRzdjk1bFJtTkMzQUxJQVRqcW0zeTVtcE8zYXh2QUhCVWRHdlg0b29KMk1sWkFIUTNQYmlXVHVOaUt5bk55ZjVrRXNpc1Jfenk3dU9hYXJLcmNmQk3SAcgBQVVfeXFMUFYya0kyQ3FhbWxZY1NqY2VKS2dTcmgzempEM05rcW8wUThNUTZWV0RJMWpIWVRpTW5yMGh4d3kzZk0tbUpVUjZodklfSmlYYjN2bE8yNkpyckNUd0xOZVdDMWJiMVprbjJmOWNjeHFkdE92eDZkRkRyWUczMzZpdVhZSGxfT3l0anh5cEljdkRyT3dmZHVJM0d5WjNOMWlVc3p2V1cyLV9YdFZuT2pCanh0dmRNYkdSUGlLMG1xdUdLUllma1BYOWc?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna govt schools to offer evening classes in five subjects. An education-related story. Covered by ET Education and The Times of India.",
-      "image": "images/patna-govt-schools-to-offer-evening-classes-in-five-subjects.jpg",
       "image_kind": "photo"
     },
     {
