@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23 22:54 UTC",
-  "generated_at_ist": "24 Nov 2026, 04:24 AM IST",
-  "story_count": 54,
+  "generated_at": "2026-11-23 23:54 UTC",
+  "generated_at_ist": "24 Nov 2026, 05:24 AM IST",
+  "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -62,162 +62,53 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWNqeWZuZ2JucmNubWRwTlE1T0JKOEJJSEk4RFROR3M0WWgxTmh5cmRoSnFrTGRXTGhWVFA2V3RYelRPRThrU05PdTdvZEVaTWhTcFg3R0Rza3RnYWpjMC1KaFRqUE9nVHhYV203WU9hUnVjWDhFY3NQRHJ6ak00dHdxQUjSAYoBQVVfeXFMUGZ5OFJfSUJrMWRlTXFtV01tb3V4NUFLQW5oSDlIeXRFdDVwRndrMTNnRlhsQ0R3Mk43U0NGTTE2bUw2UUZNTjlQYVEtQTlhaktRVjd3QTE3RUU2eF9tUUFUT2RsSy04NWNSVGZlN3F6ek5EQWhGVE1xWXBDbFhjeXptU25YSkJNTjRB?oc=5"
         },
         {
+          "outlet": "Awaz The Voice",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzdIREVPZ2stUnJURm56RWo0ZVl5OHJVNnJuQjlxaDEzamtNYmp5MVM4Uk52UWJxRXYzVzRwQm9OOThscGRPN1RTYlNfWTJGWU1fRDFELXZzM1ZVc0RjZHRsbmtocTRMWXl1cnppbF94bTJFNVplaDNnSERMSVB6UjNueERFX3pFMDdtN29kWjBUQWNkS29tVg?oc=5"
+        },
+        {
           "outlet": "The Hindu",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMjZLN1hnZ1dCYU5xemZOQkdMcG1RbWZ4bVh3Y1E1X0MwcS1ZQURrMWVQMTBZMnd5ZkQwNmZob1FTZmJjR254b2s2WGV3eEZUMHB0aFgyd2JIVGlxVXdRbUNrVjgtRk1OZzFKa1gwMjNHNzZ1OFdxcVppR3liTGl2SkFJVXNKMVBKS3dXaTJsZHUtR0VsTmpicXFoQUJ0cVFaUWZqaHJQOS1Rc1BSSDduOVU2SWhCbDFZcXdkbtIBwwFBVV95cUxNSjgxNnNyb2dOQ3puVEdhV3p0aFJyM1o5ZmhDNndidzFrYm90V0dfQVVNbTNheGJodE40cFRyMHJqdGstMk9JRUpwczZrTExWTndaNU1ZRURhQUh2TE5ZXy1lTGtZU1BhOVpQV2tTNVdmR24yLVFQTlNlallmbTRGTmlidEprRnJMWGRWOXFyR1NqRk1Oeloyd2ROZ1N5UHpLNEMxaXo2NnUwNXhLNHJsOHVManBJOVZNa2toQzVOY3Q3UTg?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Eight newly elected members of Bihar Legislative Council take oath. Covered by ThePrint and The Hindu.",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Eight newly elected members of Bihar Legislative Council take oath. Covered by 3 outlets, including ThePrint and Awaz The Voice.",
       "image": "images/eight-newly-elected-members-of-bihar-legislative-council-tak.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "pm-modi-inaugurates-nitish-setu-in-bihar-flags-off-100-pm-eb",
-      "headline": "PM Modi inaugurates Nitish Setu in Bihar, flags off 100 PM-eBuses as part of Rs 34,470-crore project... - Moneycontrol.com",
+      "id": "pm-modi-inaugurates-ai-centre-at-iit-patna-lays-foundation-f",
+      "headline": "PM Modi inaugurates AI centre at IIT-Patna, lays foundation for Rs 400-crore research park - ET Education",
       "summary": "",
       "date": "2026-11-23",
       "topics": [
-        "politics",
-        "civic",
         "economy"
       ],
       "sources": [
         {
-          "outlet": "India Today",
+          "outlet": "BW Education",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ3FMN21WNXVJWUtTaGZpYWNucTE4Z2dDT29GWHhjNHU2OW41OFFUSVJEM2pwRk9ROWtjaEl0dlJ3Q3FadHpaYlpaX0N2S1BSUmpMeUF0ajdWMGFhZkU5d09yQXh2QkxwTW5Ocl9VN21raGI3QUhUTTFsV3ROYmVqdFdwZmx4d0t3RmJ4YWYxcl9hZVVOdTVsT0NrOGtvNUlUQWNvbzFnTlNPQWx1azJPUjY3RE8zTDZSVFpkdDVZUzFjRk5keGNPVGJydnjSAdIBQVVfeXFMT0o1ek5XU0pqemhDR0pLeGtPTzB1UlViZVBpLUR0QjFoZFE3aTBGdVFKNm5hbkxpWnRWZFJFUzFXRllXMUlvazZTdEhtbkF5VlRBWkZWN2FscHFtbllEQXdJSVBDdmRfQW9lbjJWanFKQXpDbWFnNDRYVU8yNHBuZGdUVWRndy1pWVhnQWNxRWk1Mjk1cXg3aFRZZzZJeF9RWF8zSGg5eUUxdkVudnlRWjU1ZnMwQ3BwV01OUl8zV2tydDJyNWhPRE9RanZYV3dYUEFR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV21fLWNHWmE1OXJlOTJmSjMtdXBKUU5pdy0wWldXcEhTZk1wVWtrN0tHczYyeUNWYVFPYmRFNm5oeTRJWTdVQk5ldmJDT05JeU1JR2VMRVFQQ0wyU0lwemlMTU5hUF9PNTlmdVFuOU5iQlFtb05DV0YwSGdYMlFscFZfdEZwMHEteHlzdnNZNlNfaVFlNVhJNXRkRmcwNW0x?oc=5"
         },
         {
-          "outlet": "Bureaucrats India",
+          "outlet": "ET Education",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUlmWVhHYUNuMjJWU2xjeEI5TmREOUoxZVptemlpWUowWndGNUlhcUpMVTl4cmFDVUw1YTFHcHpkeFZYV3BvWXdLN3F5dXdHYVNKbDFibWRydXlJM2hlZmhVcWZaVkcyV1FVd0xLclJrNDNESXNOOVY1a0d2OUdxQTdQdERBc1BDT1pCd2N5bGktX3hfcmY5aFJMZ0Y3QU1Va3BUZ190YnA0N3p4aXZ0U0luM25QUQ?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUlJa1JVMnBRUVQwdjdCczRGbDkyLTgxcHhFaUJoZG5hMVd5eWgtbnRBRXNjU0JLM2wwSUc3aEJDMmhsS3F3eW9fWVZTVk5UM2hIWDIzZXhzT0F4OG9IRE00ZmJXN2JXZVltZlVQSTYwZUU5bVhCRU9BS2RVUEREWWVMWW1qNWdQNU4yTWxNUVpDbmR4M25McHZOeDFNblNmN3BjYWlidkRJQ2_SAbABQVVfeXFMTUdQSVZBUENISjRfZnJsUEgwVkpkZXVRWG9rbzFBZ3JvUTNqVjdJU1NDWDVEYWI0SWE4ckk5YXRBZlJzd2NRLWtMRmY2MkFGTnVYWHk4elpWYzA4WnVKeXpIWUFsTFVRQTRYOTdfTXVkVFNjZnkwOVhqdFMxMC1VcFVPSHRGOVdURHRFalhERFdyRmRPZnk0bHBCcHJrbk9OVjZDWENjdER2eGtTanhrekI?oc=5"
-        },
-        {
-          "outlet": "DD News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGZXT1FNQjZsZkFuNmFsdzUyLW1UR0szaW9JMVBhNWhOWHE2aG1pQVZxckMtVEVkVlp2eWFzc21OcnkwTUw5ZDBLV0pUbnJnWS1idkRVWTU3TGZmTXpqRmlpekVIMEtzbTNvLUxUTjREcDlsaVNPUXBWeDFPQmNuQ1NzSEhZRmF2ejFaRWpieXBONTR4ZjdtZ21YNk9FU1J5MHBBZDVMV2s?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDBMYTFPdk1ncklSYzEwMEJlaXNrMzhqNjJGTndfYjB0WE1peWFaNHpkakszemd1RkRiUzZsT1RLNTZYcW1QN09IUjVROVltdXgxbXdhYWZ6YVRxV2Vjd0JRNE5vTXhNdFptNEZGWVl1b0dILW1NQXFMMFBWREhaSGEwenhjVnBNQUwxa05yb05vRXhNb1NUQ3NJczYyNGl5c0lHODVydWNWeU80WnBaUzRZM3dLOFlNbHhRRzlZX2JVMWFzTzZXNHFkZmxybWtF0gHXAUFVX3lxTE8ySzlqeDhBUkphTUFoMEtkcThBdUlWNHQzTi1HcWwwdTRHYWRWY2k3LWlIY3U5TE85NXlTUlVrcExOblFiOS1hN0NEZmRVOHhBOEJHWUZKQi1YUXo0dVVPNS1VVlRJSU10Zi1yM1pvZVo0YkViNHpNTlkyZDIwLUdUSkRHY2FzY29YUEc3Z1JXU2dVdjF6WkNGdEVwLVNZY19aQWRkcmFsZ01NdUtOVkZFRFBHa2lSY3N5ejVsMGZSWHRXcGNiWl9BZEh1OXUwUHFfeTBrajhJ?oc=5"
-        },
-        {
-          "outlet": "News On AIR",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckllbHJZRkd1a0xPVENFT0dwYkJ5UWJsMkhrcWhxZHBJYWp6SWs1UVBqTXNxWjZVQmtzbnhRWjQ1RThpRGxiMXBUZklkSlhVVmRXd2k4d0FfMW5NM2kyeVdQYjdldTRJVDF6ZGlXR1dWUVB0OU5tNHRuVWFoV25VQU9VLTVXdHJZTUxfMUJPcFpmZ1hjZW5zZ1otNUt1SHZhdlNUZXBTRQ?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVp5MHlCMmVYcDR1QlQxdmNhQ1ZkM21BSm43YXNfTkJLeFNYSjJxRXBfWjhsbXgzTDI2SGtfd1RoblJnNUNSUTRfcGFic3h2bjRueU5GS25FOU5kUl9obUxDSUhJOS1HWnZCMnBudnFlRFV1bEdERXRFMWtZX2E4WHZwSTZ4M1VsOHJmZmxnaDRySXU3V05NQmxJaUF6OTV4Ym5UQ1pGTjJfRjk1eGhjcdIBuAFBVV95cUxPOHN1clhmSE5TSjVhUkNxalZBRXRHTTJNalc3enlyUEJON1JRUnhFQktGeDVkZVJhMlJfaUZPc0UwRXVnWW42MFpzaTBQbzdLQUVGT3BFRnIwUm1fMXBFcFdwdEpHWk5MUU1xVDlMdnl5NXBnVzRhWU1ZNWt3MVZJQkZmZWJlZ1FMQjFtUXU4N19HTFNEaFlZM3hNeGhRUGR5Y2s3NnpvQ1VLOUQza0tEUEF1d1hzM1BY?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xMUHBFeTBsX2pfcnA0OXZsSVM5RVVSMExxQjlHOVR0bzFDQkJUM2o2MUtuY2F6bXdFSHEzMzQ1WUc2NjZFT3FwNU5UTlZXdGNtbGpiWGpZV19uWkl3REtfX2hOOUZkRUtBRlpkc3podzc3T21SVktacGhEQjd5MHBLUHlESUlRNk9nZEEzMHRxcFF4ZUJDbmR3WE9JQ0J0VmhTSlJEcnQyVy1aV1JsbG91SVFtM0dYX2VnOWY3M2fSAcgBQVVfeXFMTzlQNHk3WGZUZ2xpMzdrd0NMVGRFMXZVZVhrblNPdjlINlhEQVZvanZvTXhjWkh4SmxUSE1mdTN0amJSY3N4OUhEQXZqNXh6eVV3ME9Ma1NZUHhEYjBRUTVCSXlZY2t3UWhjQi1EQ2NGUnlEUkd4dU51UjR6Y1ZnR0pfNEVsT3hDekwtQzlPa25XUnNSdlNuak1hTjJjbVVtR042dHdGVm1zZ0JsYWxvdDBXbVJ4NUNBOUtxNGJiTVJZRHpDS3FfV0U?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYmFQc3VRandtSnh0dFZkczJGTnRTNlgxbXZBUG9uX2ZHNkFsaUpzUDJUQlZxdzBxbE5PbUhHWGlrTlYzRGxqeWZMbVBUSzk2Q2pXUkoyWGxHOWxDOHhoR3M0SG9mR1JBYUVYanhqUVVRaTJrbDFjZFUyMk5NTmNNeTd2TXo4S1hHbzNIcG10ZDVOMXhISWFkMkdrNWJ5ei1qLUtXNXh1aFpFdTBkX2YzYUVyYmpqWXhVR0pwR3J5UF95d1dqNG9Cdy1lOUtWNzVoMHNTZkZDOENraFN3aVY2clRFTzdHT0xlS2lz0gHwAUFVX3lxTE83MEZpSTh0YnYtaFk1RmpRMHhzX1ZHOUNPZnllNXpLUTB2QzJ6YUg3SFhoZGRiSzZsVHVVTktzMjZ2ZXo3LTYyVVVTWnpJajE0aTN4UUlEVkdrTC1qREl1S09OOWVJU2l6dWxHLWlqZHBHeEdoR1J4MU0wLUZ5amh4MG9RbVJBSS1jMDVmeVF6LVRkTnZ2RUpER0M5ZDU0QnFxQ1RGTV94STJUQ2FEbkRfZU5VZHdYbFotajBjSGwybHRNemg4aHo0Wm50VHNGUFgtNmZLSnF1Zzhnc1NEZ1FDWG5oMWhtZnY5R1hNVzVNMQ?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTExNMXBPb2FwN3VVT3hjTlE1b3JrSmpKX3plY2ItX0IyUHF4RTAzWkwxNGhuTjcwOG9UdE8xNW5ma2o1bVQweU5rTEpuY3BzcW96N2xTM3FsWUcxMGJydGtKdWJRM1ZzS09mT3ZWdFlzVC16XzZBUV9kdDNyX0w2cl9UZ2pGYXFNcHZPdTlZRmRlSkVINUVmM3dWRzlNV0pVTmt6d29xdXVxMkxxdUxGcU1SUWFNWW1nTnB5NzVoMndBbWxLVExwS1hR0gHXAUFVX3lxTE5LeXZlRHJMM3FLRUJnRmFZT1FpUmJmYThHRmYxU19odkhUcGdqNGVXQk1vcWI5aHNLVUZoTmR2Tk80Tkx0NGdQLVI1RlFaNXJDeTFaNTYtZldrSTkwZThqRUc1VThoeWtZN3FqU1FoN3M3LUZuRjVRTFRha1pSYUo2NlRKZ0lhc2ZFdTlhcTZuYnpaNXF3dmgtSGhaaGU0eXVtaFFPTXdNN2RHR09XSTNVM1Z4enhuQWpQeVkxNTJZY2ZpbjNhSlY5NnRBTlZNR1NwY2JKUzFJ?oc=5"
-        },
-        {
-          "outlet": "Rediff.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2J3ZU9Ecm1SSDYxbmRfNENfTTJZU181bUJ6THJkYVBYQk5qXzkwNkJyVFdFRHBVeTlPVVJlVm9nVXRSZ29qbUo2Y3huWHBrdXlkUmJhOThjWEZFdU40SFhycVVWbkc3QWFOZ052TFVfQkRSeGJtM2xGNEVLaW40czZMeEpLN2pjelExV3g2YVN6eEdrdGV0OEUzUGQzNmVlclFv0gGmAUFVX3lxTE80WWpTNzBudm1KQ1pPOE5NT3JFZkZZX2Z5TXZLeEZKSk41VFRfY0lLSEJxdkRXWlIzbkNHRDlVNXkwY20ta3Vzam9wa1pVbTc5NW1nVGF2Nzc2OVlKMm5mangyY1RfOWxkSGhEdi1RdWVvbEl2eDFJdUFXUHRyX0ljeWljVDB2Q2NsTHZMaGhSZXo5aVZZV2FWc0xIY0VxVS15UXFEUGc?oc=5"
-        },
-        {
-          "outlet": "Rediff.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUkRIOGhmbzc4QXpXQUFCT2lyYmNtZHF1Y0tXcjdjdWRCQ0VBTjJTXzdSS3VBTHZPejA1UURtbDE2T2UtRWNtOGtYSzFnNWIzSTkwcTFfREx3bEtXQTBNbXRrUWZQSVdQbTk3bXZsYjlIMjh6UjBXaVRXM1o3Y3l2ZUdpRjJtS2RtRndjM05YNlZhMERFNFZla2c0dnl2dGpSZ1hvQ0xRS3J6eTVZZk92SnkzMFFPSFRZQ09RYWFSY1ZBQnZqRTU3Q0pQdW5iOFB5bC1KLS1TRUk?oc=5"
-        },
-        {
-          "outlet": "DD News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pobC1rLVptdXhSMFIwTEk4QXFRUmxJNWt0ZTM5TU5BLWRnWEFnTmZZbldwYmlzZEpJdXdVdkJrOVJvNW55Z1kzU0VEYlI0WWFZSTdtOUFiOUkzUFliSTZoNGZZejlwWTd0cHVYZGtSSlFCNURUb0hFbEpxVk1fdXROSl9oaUd0YkZxd0pGSUdEa1JReUVGcnE1VnZVTlJ4NExCd2tyZF9WdERBU0E?oc=5"
-        },
-        {
-          "outlet": "DD News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlFiaVRNQ05waHlUNUVPV2pETzJoRmYzYjBvUVVRVmFlaHNTUW1kN1dPRk43aWhfaFFZZkc5aHQzTVAxdmVUQnc1VmFXTVNRZ2EyTURjYk9oaENHblVJWnFpYWVCLV9qNGpnd2FMTTFXRXFoUGp2RTdrTW5pYTg5R3RDWlItNE45VFpqZjlnREFQc2M1?oc=5"
-        },
-        {
-          "outlet": "Open Magazine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlE3UVQwVUFKektfZ2hPdlBBUGwxekpWY2lBekw2MWg2TlFzdnNiWjVwcFV1cDFGcVFQWUV2OGdHcmtRRFBsQnI4NjI5SXh2eUN5YmtWNmRONzU2WElQUTJIZFdCRUdhcXlqZjBPME1EcE5uNjMwVUl5cFJMdnlpQ2w2dGxyWEdnWTZLN3l3aGl5Zw?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWEhTSENrbjhoSF9BMFpfRWctcDFpVHpjUFYzUnpXa3FZRURZai04cGdUUkFfSTFFZnBsWkZoMWY5YjkxRnM4eWtmbHR5U2hqOWlZU1pfelVNc0hOSDdjdHlKUl9Jcl9iLXlHR280bnlzYnFtV0R4WHlLRHFDVU9aM3NhZTdlX0dxb1pnZ3JaOXBaNUZ1ZnRMNDMyQ3RxUXAxc0drTTAzaFlGVnVWX3dkSno1Sl9GcXh0Q1V4eEl0X0NKSzBjaU5rWVBYTzVydUFFZncxYS1Kd9IB5AFBVV95cUxQMWEwX1prU0h1YmE4RGtvY3p6WEZ3T2FMNEVaVVFWUWtHYkdsM0hwS1pZVlYyb1RPVG1kNHVING12X0J4ZFo2WlQyNDJ4Ql9GS1cyRHl3Qk5mWmhJV3drYW4tbDJPZ2c0NzJLTTQ4NVprLThxb1hjMWthNV9ud1RLczE5R3lheVBVMjUwTkh0b0FySXROeDVIQkZCZVdFYVdSd1loNFB0YjI0bzYycUhON1hXLWJCZDUtWGRuVzhvT3ZndVhtN1J4eDFmeDRkc2pxeXMwXzk4VE1ybjI1T0d3by1vRTM?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMnBfWTBGUWgxOHlKSEVaVElNc2RyUlJaNmdNRndGcW94LXJwTFVXSng5RXJzYlVHVjBJYmZFVkJ1aUZVU2I5ZXlpanFhTUFUWmU1LVBtSmlCc1dsLUlCQzNQQ3BqdkhjSmU4bVJwY1F2bmdkcmFBaVRYOExCNG1xeUN2R3EtZzlIZHFZa2Rub0hvcENkQl9BeEJxNnFtcko0UFVrYUJkQ2hmQXVjVEl3M005b1l2WFBwY2tWcDlBYTloNzR2VEVDWWRaNm1OOTliTWQ3VEhTNNIB3AFBVV95cUxQcDREOUY5MVFNV0toR0FVSE5ScllFbW5kSDJBa2FEeDlIMFZaYmlFZXJVcm1CYzFZWnJxdXdfa0RuTXd2QkNTUkZlY1A2X1AzeW1yRGxoUkNpMnJHU2Y3aDdoaXpqV3ZwWF9tUW9DbjhZWEpGX1VDVEdkd3Nob2hHUTQ3ZU1KWkl0SnJyUFIyQnBSSDk4WkJNZTBYSDQyUXpXa3I0dl9Lbnd4dXAtenZvb1RDTFhkTjItT2h1dkxFdUdzWGtvOFpaQk56TDAyS2ZtdTdQRU5RQ2ZHbkxR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQd1JJaGRSMDdUNkwwUmhZRjAySWctSjl4R05zaWlDR3E0aDRDWWdMRWN0MjRBMzBkbjVMXzV5MXlIXzRBbnNZTnRpU01FbEVZbGYydk5JMjd0aTNrdV80cnhac0xSYnJaQTRKX3QxQVVORVVnWmd0dmpLQmtJcm1MQlhxZ1UxRWlldmxidzRFV2kyclVhdmxYRDBsd3FIR0huRE9iWmFrVG96UXNIbTc4Wi1DQmVoQW1ROG9EVTBpLXppelZ5LVR3Y3l2SHRIRGZSOWEtaWctZlVzQTRGQ2JOUTdza3ZFamxJaU9peVBYN2F0UjhpZkpIUThhOTR4Qk95RlE?oc=5"
         }
       ],
-      "source_count": 11,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "PM Modi inaugurates Nitish Setu in Bihar, flags off 100 PM-eBuses as part of Rs 34,470-crore project... A politics-related story. Covered by 11 outlets, including India Today and Bureaucrats India.",
-      "image": "images/pm-modi-inaugurates-nitish-setu-in-bihar-flags-off-100-pm-eb.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "PM Modi inaugurates AI centre at IIT-Patna, lays foundation for Rs 400-crore research park. An economy-related story. Covered by BW Education and ET Education.",
+      "image": "images/pm-modi-inaugurates-ai-centre-at-iit-patna-lays-foundation-f.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "ctrls-datacenters-to-invest-over-usd-1-billion-in-150-mw-dat",
-      "headline": "CtrlS Datacenters to invest over USD 1 billion in 150 MW data centre in Patna, Bihar - Prop News Time",
-      "summary": "",
-      "date": "2026-11-23",
-      "topics": [
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "Prop News Time",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbXl2emV4TVhxUTRUbklZZy10WXRnNWU5OVRHQlpadUdSTDN3dkEyRFZNaDVxQ0lFbk1PdGF5Z1JOVi1PZGhvVVJ5aS1EMkloVzJ5dUlyLUZRakVmYy1tTk4xY24wTENGZTFfcHYxS1JvNG1LWVZyS1dWMmNJdVc5aV80U092V2VhcFowdHAtLTZYUXVJTktTSDY5UGZDbVliUk1nbWdxdkN2X3RPMTNTdWg4ZkU2dXZFMVI5VmJOZW1jWmdoOHNKYkYyYV9uRGIy?oc=5"
-        },
-        {
-          "outlet": "ET Telecom",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWERlZURhdktKWjVqdmtqcWtQR010dFJhV01ITV9aOVdMcEt6bTFpckc3bDUxcERGdElhSVR0ZkZlMnhmdWJIeGwwTEtHTzUtWTExLWtWRHR6RGFrczUzckRVNC1PSTQ4MTRsVzlnVk5rZGp0X0htYkZLTHY3cVYwZ0hOUThNZVZURDVOQmV6Umx4WEhvcGhqOWh5RzRJeUFUTFBQeUdsMWNJVEwtRHBNVXdOTUs4WDZSbk9fa2ZhZjNKQlVIakFESVRn0gHPAUFVX3lxTE1MdUxUQlZleTN5STF5d05FOWJMSXc3dkpsRW5mTzk1WU91akN0VXRfNDVGbnBTNjByTmszS0lRUy1EcTlva0JnS0Y1OUphaW1ud2RkYlBnTWVqS2Qyd0E1MXNtaVlpenFCRmNzc3RXVXYtaXYtMlJTbGlCel95SjVsRzJpc3dYQk9zRndxOGw1TFctbXlGYllWR08wVi1BZ05qcVdVdVdhN0xSVWJwQXBOMzdBdzZiMnk2cnA5TVlkQjZFa1h6cUxoakx0OHZ5aw?oc=5"
-        },
-        {
-          "outlet": "Data Centre Magazine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclJSd2UwUjR6blh2b2VVT0szcVJEcGpLa1RhaVo0MmRhSHprRWh6M2swWGdIUnN0NWQ2UExFWS0zS3hHSHMtQ0o1R0FOWExMTVRBdHcxa1p3SU9jRFJYcVhPMnhReDhBTXRGOTIzWnE4QU92M0E5VExPd1dCcUVvT1FsWHBZSm1UWGt4RENaOVQ?oc=5"
-        },
-        {
-          "outlet": "Construction Week India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkRWazZZMFN6UzNObFZRenpZWnpMZ0xzT0h3Um9tWDc4Y3g0UW1pdWJ6NkxlMU9hcVhJZmVaXzN1MnlTTlF5VFQxamZkMzc5ZFdwZm1ETWR1QWtINGJycUdQcjhDQWM5MlJ6VlJxaHQtdHZrd1daV3R0OUxCSU15T2FfWFRHMlYwUmpiMWtOaWxRNFMyeUE3SVRPeklqNk1QYmVndUV3?oc=5"
-        }
-      ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "CtrlS Datacenters to invest over USD 1 billion in 150 MW data centre in Patna, Bihar. An economy-related story. Covered by 4 outlets, including Prop News Time and ET Telecom.",
-      "image": "images/ctrls-datacenters-to-invest-over-usd-1-billion-in-150-mw-dat.jpg",
-      "image_kind": "placeholder"
-    },
-    {
-      "id": "stop-acting-like-baahubali-says-supreme-court-to-bihar-judic",
-      "headline": "‘Stop acting like Baahubali,’ says Supreme Court to Bihar judicial officer for FIR against Superintendent of Police - The Hindu",
+      "id": "don-t-act-like-bahubali-or-robin-hood-supreme-court-rebukes-",
+      "headline": "'Don't Act Like 'Bahubali' or 'Robin Hood'': Supreme Court Rebukes Bihar Judge Over Conviction Of Police Officer - Republic World",
       "summary": "",
       "date": "2026-11-23",
       "topics": [
@@ -238,11 +129,6 @@
           "outlet": "Rediff.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYU8ydU42UzQ1QjNXeVRjMzNOaEFOeW9wRTNmVFdlZ0FKbFBhbGVIaUo3Z1J1YjBRdXZrUVdRclROQ3B1ckdyaXVnOVNHSUpNc1c0RWdMY05ZLUNzZldMUHdBMG9qRVR2cDBYblJuZUVTMXN5dGlyanJ4Zzc4R1Z3SjFTYXVuLThMeVF1djFGVjFuUG50bjc2YlNMOWrSAZ8BQVVfeXFMUEhiUkJsTjBBN2k0MGR4Vk5SeVJwNFVEOHdhMklIXzl6ZkpHZWxqUFZHa2tCNUcxUTBrRWl1U0JGa090RkRvRzFzdlE5NGRkaDdRdUdvaElWSGJWdFJUc21CWWJ6aHkwVi04clhoTGh5cEdoZjlsWHhVMHZOVWNLbTZ2RkR1Q01oeTY4UkZnTUJKMklfblZ6Tmt4SzNBRlJN?oc=5"
-        },
-        {
-          "outlet": "National Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYU1Oa1VuZ3JhWEN3TWxqbzk4MG1VTldUdlZTOUhKN0w2cVpJLUdvU2JBU3I5bVhBcUl6TnczTFRrdWpodkg3SlhfVTA5aVJpWGIzTFAzYW5kTnd2OUVWbFF5MkhnQnVya0xfVEhJT0NBTkRQQkxXQUZSWXJkN3NNelAzX0dWUV9xZ3pmbGNRdVo5bVBXZ3IxdXFJa2lkRm9fVzdmVXRfQ3RzdDE1LUZHZFFTbzBaM3BlTUtHVGItXzIxMVNCRGfSAdMBQVVfeXFMUGJqTXk0bEVwRUw4VFZYd0hRRUV2c3RZQzk4Nzd0UzVoRXQxS3pPYndlUlZoRDdfd2VmZHN1eXg2emhmRjgtYzVoTDdpREo1ejkyRG10U00wSUxKbHNqalZUT2QzZENTNS1rLVVUck5pWlNzS280dk45UVpfRWtVUXpyNUhCeDk2S0lObzgtVV84Mlg1UEphYkxxZGlOX2ZLU011RnM0QzBiWjNmS1hCWWJaTnViN2tlWWc5TS1rTGVXb3VXck1pQkpHN1A3V1Vkcm02NA?oc=5"
         },
         {
           "outlet": "Deccan Chronicle",
@@ -270,9 +156,34 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2lGc2VHaDZqUlRQc0NIZWVCRTdfc1dxSVItcVBQWWI3Q0NKOF9BQVRHSHg2ajhaRkdwUFZEOW9XNWpQbUtZMFY3ejdILTg0N3kxMjlQUDhFNzd3aW9hXzdoTjdyZXFocXlyVkMwTU9LTlFVV1BoWkNTaGlfX05jN193R0dDME56MHV0ZzhSZ1hDNGoxV2x2V3RldF81Vnd0Sk5uZXFWaWFJMDJZZF9FMF9jcEhwU3FCQ1lPbGZaVEpLWXB2cmlBZlpuUTNqTWPSAdQBQVVfeXFMUDdEdkVqT0tjZWJ3Smt5SEdubTZIY3BvMENPd09lcHZ6OXZYV1c2TDJWTmhSZVA1N0FibG53VXppSjM1bzNjd0MyWlJkUTJtLWFiajZUQkhDMUVLMXNaTmM2cU1Fbko2ajZfTmZienNEX205VVpXb0Q3QXZaTng5ZFRQOTFEQ01wSTZWZ1BpUTVnVElES3IyS3BjNVZRREdTU0tIdFdRbXh3dDdtYlJyckc2d0wySFJaSlhmY2VUNjdXLVZyTm5OY0VMeGV6b2VaN1dWdy0?oc=5"
         },
         {
+          "outlet": "The Pioneer",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGdFQmVIZVNNZzBidzMyQXBjWFV1QjR2OWltTDNEbXFqVVNZSEQzZ0ZvZFRqLVdYbU0xWEtvX2dUaXJLblJ5OEprbDVGNE1kd25xSEZaWUh4aV8zOWtHRkgtUWlLc1NZR1daNVRLOHhVMjN2Q0lKVFpaRldpcjFvejRwV1VNRnU2NTNIOWR4a2ZjWkhQX0xTM3hVazRvckxKTzJOYkpoSlNNWUXSAbgBQVVfeXFMTUUzaWUtbXk5QV9rSVlZSW1xMVNiTG5vbnVaclJDSExRdGdBX1RRWWhMam5jeTFmcUszakZqbWxjdkZoOVFYdnZXY1RoY2M2TmI2UnFXbE5VTUNvZkhJVXRLVC1VWGxOYW9KeS1lY1R3UWZDcm9USnczako2QmFTQlhsQ1BzWm10eGFST1kxWUQ3QTd6SEhJQTkxdC1rSkpSX1F6eDJ5Q0Z1RmJ4Q25iVVlhZWxNMy1zYw?oc=5"
+        },
+        {
           "outlet": "MillenniumPost",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2ZNdERNc2NJd2owSHlEa29ZWUFXN0ptT1o0akpqVXAxejluRzZadGlTXzlWMHRybmF0bzk3Wm5Ca2FOR2lTdllkQW1xN05UekpXbm10RHhycWo1LV9aZkNfc0lKbXNPS2Z6WnhPcUhwblJ2VnI3WlVvdnB1Q3R2aktsU2dzMEhIX0hfUTFlREtpaFVCLWQyYU1EeVdfenV1XzJESVRRYjZpcl81ZS1jT0MxNktXTmRHOGtvSE5SLWRWdlHSAcgBQVVfeXFMT3pjSlNDZ3dsMzFIWmE2VVJHYWk3dVhCRHd6Z3lsSmVzNTZxcU5UV05Gc3pQMG1FUlBlUDQ1VThRVUxQYzdRNDRGa1BCQ0Itcm10WTJoTkN3eFlURnRDUm9jb3YwUUpKTUdmYlJ3WHpjSFRncDVVdjg3UkRSZnZId195V1BiWXhKN2pVWFRQZHZxZkpwc1ZlVDVxYXdrdUZuOUI1UHkzM2J5dkNzSENDZ3NsQ003MHFnTUROekdPOFhBZUhYWnc5S1Y?oc=5"
+        },
+        {
+          "outlet": "LawStreet Journal",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeURuS3pYTWtOVzhyYkJQb296MHBqV2pNWjRmRjZGeVI2OHRsVFVjNHpQaHQ3N2dpamU3LXREcnJ3bG92OU82blNHcDdxbmZ5RzNRWFk5b1RmRWlUMmZ0YlUtTWlEUEg3UGtDZHgwX1dxT0FZT1FPT3lva2c5bVhDVE43UkpuS1l4dVBjWDV2d0JDZXZBeXFJOWJXRmZvR0gzc2tnRU9B?oc=5"
+        },
+        {
+          "outlet": "Howl.Link",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBrU3RPRTYyUUo2RlZBd05UMl9PTkZHd3dZbGpwV19jYnFmdWRVUnpPdzU4alF0QlRMcW5V?oc=5"
+        },
+        {
+          "outlet": "Court Book",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFA3YkN1RkE3azZ4SFRPbEpBWnAwTTZwYTllRTF0Um1PaHZxVTdNcUJ0R1VjbHNPaThSbThsWndpQ0pfVnJRQ1N4VnQ4TDR4V0VTVnhBOWt4cnJyUkVhNkpYeE53eTItajYyeDgtZDJmWHViMlRPOHlEdjRySjJNak5tQldOTHhQd3Rvb0hfY3FLVE8xNzVHeXRDeWJyZEFNQ05PeFdNRS03YUM5TGxoQWF0Y01LWkROblg3ekdrUmJKbkFT?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzliVDg0Z3pBa1h6X1BncXBqUHZEa3Vjai15QWxKV1BjWk9ZcUx5XzFpWDU4NWdqSy1TYUFMU1ZsYmV4TDFFem1hUTk4VzhvNG4zQ0htS0RwTE5ZTTJWa0pjbW12aVZiUUo1MFdJU0JfdWsyVlRidnRQSERPSkkxbnA3N0dpZEkyODhyLUtVaHN1VURZR284S3VSbjRlelpwN1Z0dWJYSTJhMXNZajhKUGxmcXZJYXJpOXZsb2tnWThlYnhyRjUtS9IB0AFBVV95cUxNRmRoYXpYRnozc3J1VDdSYVAxRjRsRWZCSUdyTmdtQUswdVRFWDlYZlUtWXhZVDJTZ1FOaUZPWmNxOWlfQTFhenhuZUctVHNYQXFQUXRvRmdacnB0eFRQLWRkT2hNSWhRMkF2anNBelNyOXFPUjUyMnJ3R0NOX0t4TXBNZlBMQzN2NmVQcEdUYmp6OGVJT2VUZHhVTHB2a3VXV0w0MTJDOVZhSkdqSjBIOUhrRDNhTEJPdmdrM1lFZldtVzRxYy1JTWRZdlU4OHph?oc=5"
         },
         {
           "outlet": "Live Law",
@@ -285,16 +196,36 @@
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnNyMkdkRWE0V1dGaVJsajl4VWVIU1ZjeFNwekZWNGRqNV9VeFpXR1JTb3pSb1hDb2JMYTlIZjZQcmJEUlZ5SHcwcndBNFVtcFItWTdSSGRYa2lEelNXclRXbS12b3ZIS0hmS01ycWR1QXh0TFpSaXFZVmZ0TVQzOHFOaURURmc1WHZZTnduMTktWTB6WjZRLUZSWXhsSGxFYkt4LURURWxIY3R0OUlsbEdmenRiaTdNN3pHYtIBygFBVV95cUxORjl2ZkJQTkI2REdSbmNWbGFfbEU2bmdMNF9KaGZvZ1JGbUt2N20wb18tMW9wVlVsRUo3a1U2N1gyM3E3T3lfbHVtWkJWcU9sNzZ3T1o0V2ZJdWI1UHJxcjRUQmtSTVpxWTBJVUlCOUlUc25MSUlaYWgxTlBxWnpLbVVrNVNYNFNEdFoxY1FPOWJlMnZLUmFJSUVwUWRXMnMwenFYdThsR1dzSmVxQl9CRWtYOFR1eEowQVhsQmRiTFowYzRmNjU0T0N3?oc=5"
         },
         {
-          "outlet": "NDTV",
+          "outlet": "National Herald",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzliVDg0Z3pBa1h6X1BncXBqUHZEa3Vjai15QWxKV1BjWk9ZcUx5XzFpWDU4NWdqSy1TYUFMU1ZsYmV4TDFFem1hUTk4VzhvNG4zQ0htS0RwTE5ZTTJWa0pjbW12aVZiUUo1MFdJU0JfdWsyVlRidnRQSERPSkkxbnA3N0dpZEkyODhyLUtVaHN1VURZR284S3VSbjRlelpwN1Z0dWJYSTJhMXNZajhKUGxmcXZJYXJpOXZsb2tnWThlYnhyRjUtS9IB0AFBVV95cUxNRmRoYXpYRnozc3J1VDdSYVAxRjRsRWZCSUdyTmdtQUswdVRFWDlYZlUtWXhZVDJTZ1FOaUZPWmNxOWlfQTFhenhuZUctVHNYQXFQUXRvRmdacnB0eFRQLWRkT2hNSWhRMkF2anNBelNyOXFPUjUyMnJ3R0NOX0t4TXBNZlBMQzN2NmVQcEdUYmp6OGVJT2VUZHhVTHB2a3VXV0w0MTJDOVZhSkdqSjBIOUhrRDNhTEJPdmdrM1lFZldtVzRxYy1JTWRZdlU4OHph?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYU1Oa1VuZ3JhWEN3TWxqbzk4MG1VTldUdlZTOUhKN0w2cVpJLUdvU2JBU3I5bVhBcUl6TnczTFRrdWpodkg3SlhfVTA5aVJpWGIzTFAzYW5kTnd2OUVWbFF5MkhnQnVya0xfVEhJT0NBTkRQQkxXQUZSWXJkN3NNelAzX0dWUV9xZ3pmbGNRdVo5bVBXZ3IxdXFJa2lkRm9fVzdmVXRfQ3RzdDE1LUZHZFFTbzBaM3BlTUtHVGItXzIxMVNCRGfSAdMBQVVfeXFMUGJqTXk0bEVwRUw4VFZYd0hRRUV2c3RZQzk4Nzd0UzVoRXQxS3pPYndlUlZoRDdfd2VmZHN1eXg2emhmRjgtYzVoTDdpREo1ejkyRG10U00wSUxKbHNqalZUT2QzZENTNS1rLVVUck5pWlNzS280dk45UVpfRWtVUXpyNUhCeDk2S0lObzgtVV84Mlg1UEphYkxxZGlOX2ZLU011RnM0QzBiWjNmS1hCWWJaTnViN2tlWWc5TS1rTGVXb3VXck1pQkpHN1A3V1Vkcm02NA?oc=5"
+        },
+        {
+          "outlet": "Telegraph India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObUFlVzQyOWRVRnRJdE5BNUFxcmpnbmRYcjE2OGN2eFBQLVBQQXJpdlBKUTk5Q3RTa3E0Mm1GM2RncGUxdHRmeUV2cDFxOWtlbk1MaFVyWkZBSW5SQ1lQRHpGTDlmcGVuMzAycmtmLXJ5OXdNbDMwWVpmVk42MkxGaGRsRjAxSkJiZWxhN0pWRmpDNWtVaXpIVjUxTzdLTWVJ0gGmAUFVX3lxTE9QdWFvMXhicHNhak12OTRMbzVMRmhLVHFfY1BRTnlXRTU3Z0JBS1JWSWltWC1yWFFvMGprRnZuZ1E4LUE3blBxaXI0STg5UmFCLXFSSkZZa2NNVU43OGEyWTR3OTkxTlYyamV6djJtNWRsZ3M3MXlnSjlVNW4tdzFkVGlMY1lEYzd3MGJPT01sbU00NlFRQmljVmRqa1BFejlnc2RjR1E?oc=5"
+        },
+        {
+          "outlet": "Republic World",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV3RKZGhscFhxZzdaMDBtQnJWSFMtc0ZMOF9yZnR1bjZvU2t3SWtiVmc1S3dTMUxENlozSnN0V3NrYXpzaWVza000blBVelFrOWJXMHVZUm5LVUg3WTMwXzFpWWduV3VCQTFRejgzRnBGNG1Gd0xnNUFPYnBROVgySE96c2lPLXQwYlZIRGQ2d0dGVll1dVhTekVIQmV6TTVRay1ZVnZLLXdDVkQ1dktuWVJmRTJZNGp6TWJaeFk4c2FfR1FkWWpWT1J1THJtNzdUajg1OFZRODJpbjZyRDdiYlkxcW5sQVB5LXBzMWtNeHTSAfYBQVVfeXFMUDJjczZnZ2xDX05OLW5Sc1JCbUJGRU1ldEpJcFFxUHZRS1oxaG5JRzZMRkZ5T2FnY2xmRGkyQmM1M0FfM3VMTTNEWXZ4b3doTmJqT0xRTEJEUGs4OVphNm80SHNoRTJmcHZmcDRvSGNIV0JYMG9NR0dJYWkwODl3SDBueHhVNW05RWZibjQ3aV9JVFAzTDJKVzdIRHljeXg2NW1BQTNvU3hRSEZ2NDJYU2J6eWQtVzc0U2hIQmxvcy0zUUhtdThNNHhJYUp4OVpGb1R3aU9MZUxWUEVBYkJ4LXUzSlctOEVfbE8wLVZaVVlXRERGcUVB?oc=5"
+        },
+        {
+          "outlet": "WION",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFpITFZfVkRWQ3hrUGwyR3FEajBmaEp6d1AxVjRRdnRsU0F3NVZNMnJDWlBtRXJUZHpIeEdtSm5VSTVjYk1kZkc2OEZvaFNLR3BqTDNsQTdxMnFPMWEzQkUxZDZ3dFVYUzBFTGhncU9adkFaR2JVei1oUFNjMTBxdVgzel9JcHpGRGVnejF1Z000cXdMXzR1ZGtHVm54STh1NURiamprSEU4SDdJdFNzY0pwYXA4bG9tWjVvdG5HR21jMTkwaW5JVEZka9IB0AFBVV95cUxPWnItd01iZnhQb2syeDJlaHB3Tkd6NmpEYktQal9aWXZFRnRFSnI2eUZHOVNGMDM1V0p0SThnRnZaa1NjMHZZdlBpZXpvUUFvbi1TMUZyeGVudzFVV3hFVzRHVklFelF3UmtiWUJsU1A5RGYzT25ESVNtb1gxOEpwTmRJM25EZEE1MGZwUFZmN3lEYTlnYnFPMGhybXFZeEw1anpvV3JjbHZYdkltMVJGWkd4aTRZaDlGaGtEUi11eWh3TzdMaC1uWGp2dlBud2Nw?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXFMMUxOaEdxSFRUYTYtMVpMTFBkUUJxTkQwaWtTNGptTzNCM2RLUVBCQUxtVFFrcnBjeWNiZF9TUm5SdURZOW16cHp2UGdiNUhVY2MzZEsxYjhxdW8zSFlRd29wcDc1UmhZLXdVXzJpa3YzbDlUVzdXNjJsVFBZZzNlMHVLdmZielJhTHZJcmtRaElybGptQlQ1QlpqZzZad2RVajNmcFVBbHlZT04zaUhoOXdleGFJU2NVUFQxdXExZkNwZkp1UEt1b04yTWNyU3hXdks2b9IB3AFBVV95cUxQM2JmZG91aTNHd2NiWUtMR1BydlFkUnp1U3Q4NmhlSDhxVUpRUW9VaENtLUV2ekdJME9NSjVwbl84MHlLWGkyUENqYi1PMWM4dVprZnVjeWVWR19LRGxKd25jQWJFaEw0U0xYM0poRGdjbUdZQ3huMVFDQ0VZYUJHOEVPSFRfQ0gzSHZIc1RyZTZPdFgyeUpRMFZnRWI5cnB6Tk5KQWlHY1RiN2xiSGhJN3JHUzRIS2tEdGdkMFhZYlBQTEFnR1A2Njh2THo5MGlKLXM5NnJfaGx2TUN2?oc=5"
         }
       ],
-      "source_count": 13,
+      "source_count": 21,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "‘Stop acting like Baahubali,’ says Supreme Court to Bihar judicial officer for FIR against Superintendent of Police. A crime-related story. Covered by 13 outlets, including The Hindu and The Times of India.",
-      "image": "images/stop-acting-like-baahubali-says-supreme-court-to-bihar-judic.jpg",
+      "brief": "'Don't Act Like 'Bahubali' or 'Robin Hood'': Supreme Court Rebukes Bihar Judge Over Conviction Of Police Officer. A crime-related story. Covered by 21 outlets, including The Hindu and The Times of India.",
+      "image": "images/don-t-act-like-bahubali-or-robin-hood-supreme-court-rebukes-.jpg",
       "image_kind": "photo"
     },
     {
@@ -323,7 +254,7 @@
       "genuineness_label": "Corroborated",
       "brief": "5 million gulab jamuns, horse race & SUV prize: Inside Bihar MLA's daughter's lavish wedding. A politics-related story. Covered by NDTV and Gulf News.",
       "image": "images/5-million-gulab-jamuns-horse-race-suv-prize-inside-bihar-mla.jpg",
-      "image_kind": "placeholder"
+      "image_kind": "photo"
     },
     {
       "id": "who-s-that-one-man-not-invited-to-the-big-fat-bihar-wedding-",
@@ -407,8 +338,40 @@
       "image_kind": "photo"
     },
     {
-      "id": "men-ogle-at-women-without-veil-bihar-aimim-chief-sparks-row-",
-      "headline": "'Men ogle at women without veil': Bihar AIMIM chief sparks row over criticising free mingling of sexes - Deccan Herald",
+      "id": "ihcl-signs-a-seleqtions-hotel-in-bodhgaya-bihar-the-indian-h",
+      "headline": "IHCL SIGNS A SELEQTIONS HOTEL IN BODHGAYA, BIHAR - The Indian Hotels Company Limited (IHCL)",
+      "summary": "",
+      "date": "2026-11-23",
+      "topics": [
+        "health"
+      ],
+      "sources": [
+        {
+          "outlet": "Hospitality Net",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaklSQTdITDhjN3Z0NnB6N1J1dmZHTmtyQVpLZEh4eGxyQklQblR1TjQ0Ym9uUEdtbUFSR3RXTFZyZksyTUd2TEQyS3NoUzdTTFB2Wi1IMy1WLVJfSFF1T0hmVnZFcFBwYnZnZmNRN0NlM0YwTFMyOVlJM2ppZEliVUdoeUFmbFhzQ3B5ZUtHUjdPNzZ4NUVaaENWSk85UGx2Wmc?oc=5"
+        },
+        {
+          "outlet": "Rediff MoneyWiz",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1F2ZFpRUFROWlhqWm84QnJvVml6amxnMWktb1BSN3huc0dtVG9qNWtkanJyenNUT2RIRWJXaDZEcU9jMndPdV9TRUc2MUM0UzdVUGRaYmtsNEstXzlxY0ZzQ2NPSkZXbTZaazJPUE5iNWloTGN6NHpYdVJGVmVtWXhnUTVJQnc0NUlpbGVvSDJYeGIya0t1SzNyZFZ3aFVJT2ZCLVZwY9IBrAFBVV95cUxPV3AtUEs5Wk55M1BoVnU5ZFZTRlFPSXRWcEstUTAya2R3Y3N0MlhkNktzREJlMzlPZ2duSEZCWkZTTVlRWFRmUndjWXJ2c2xyNTV6Wkt2X2NYQWU4RFVlVS1yWnRoUFg3eTBFUXhMVUxJdzRqT21PamlhdlFDa3pDQWZLR1k2MXRobWdHMm9iUFViaTR6bG1neVZ1T1Z6cXJsdVdYTFczUEw0U3RP?oc=5"
+        },
+        {
+          "outlet": "The Indian Hotels Company Limited (IHCL)",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUt1QVlaVDJtVW9icTlGNFFWVXZxLTVZZnJYaTVZRVAzdGNMOXBnYW1UZ3ZJbTFGUngtSHpyR1I1OWFxdDVzY0ZPWHlxcTJadVFic3FyRGlwNUstdjZNUHlYekM3VVVpRDBocmg5QkkzOU1QLUlrRUxxN0FHdlhIRGNFQW1ibkFsM0hv?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "IHCL SIGNS A SELEQTIONS HOTEL IN BODHGAYA, BIHAR - The Indian Hotels Company Limited (IHCL). A health-related story. Covered by 3 outlets, including Hospitality Net and Rediff MoneyWiz.",
+      "image": "images/ihcl-signs-a-seleqtions-hotel-in-bodhgaya-bihar-the-indian-h.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "adani-energy-solutions-acquires-100-stake-in-vikramshila-pow",
+      "headline": "Adani Energy Solutions Acquires 100% Stake in Vikramshila Power Transmission for Bihar Project - Kotak Neo",
       "summary": "",
       "date": "2026-11-23",
       "topics": [
@@ -416,21 +379,26 @@
       ],
       "sources": [
         {
-          "outlet": "Deccan Herald",
+          "outlet": "Kotak Neo",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMkhEQ2NleEMzeTNPMVVWMGd5aXo5TXRRYmpKcl9VQklYLVVVcnVwRUxGTFJlS19UR3lraDliemppNlBWWnJScHh1eUtXYm9fbl9LMG1pUmNTeVNQTXdDYnFTUXpSbUloTGthZmMwd29ucm9QaG1QUVJKdERBRHBaWU52ODA3NzFWWDZxR2pFSWt2SHB0MFJfdXpfcHE5aEdTNERibWhCam11Vk02Sjlud3BHcTdmZjZSLWZwQXhHQzhJMWtOOEJiTE84LTk3N2J5QnZPVHhYWFpXZ9IB5wFBVV95cUxQeVBqTGJrMGIyN0lkbjdxRDdXdkVHZjRyQV84UE1scnNiWGdtYXRPSVBUd25kOXA2U0pxcUFDeS1WOTJ3OW05LTdOVXE3ZmNabzFYTkJIOGFyWW9CVkd4N09TeWRQcGVkWkpuT2h0STI5czhlbEJ2cEdMUGc0Y3BwMVA5c21TTUpnUTN4SHVDdHJqNkliSVc2LTAwTks5STVwTFlsc2cwYXl4UWxITWhTSkhIWnZNOHBHb1lwTWl2UHJXX1IxVUZKZkxISEhqaVFmZmdmUlV6a2xaLU91NmRBSFBMM1pfUVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQejFyOGNfcGhjMGNaODhXdy1MdjgwaEF6R0Rnak53Q3laSFBGUzlId2JjRExxcjdpOU9TZGFUbE5WbmxmLTVubWVnMEp3UExxWVl1UlIyNWFGWWV0ajNDV1BiUTQ4dmtsb2E3dWVfbFJKSFBFRldTUm1YY0dHOURyblBCQTFhX2M4ZzhMMDlWc1pGZnZMX293N3Z5WTJtVFlXb2dTbGxOQVRkOENKdnR4VVVlTnlHMGtSV1NINTNfVlEtRFd6Tl9hRHBLOGF3eXc?oc=5"
         },
         {
-          "outlet": "ThePrint",
+          "outlet": "Construction World",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNTlqXzdfQmlyQzRPU3JPT2k4c0FCYUl2U2p3UmdYWEZXa3JPbThraW1FSjJockpRcUZ2RTZtQzNQckY0ZnM5OHhMb00zREs5dmppMFRFa0NmaVpyR0JPS081NjZWSTBDTjZSb1M0SjY2d0pKY3hmT3duN2N3MUFpNExPdXAyRVZGdGdOejRRN3hCZUplUHJRZVp6YWhWODhvcVZsLTVreHBlM0g2b1NEOUxJa3ZlX0hNQlNCWWx2SdIBxAFBVV95cUxNd1dJQll0UjZreG9TUDdsTUlXRmRXVlYxbTRZRFBCd3ZWODRiRDVfcGUxUDBmMDNIbGE3WkdfMlRUaXFIMHdId21uSzRPNXQ3djZ0S1Z1YTQ4TzBrWmRUYVJKLV9uVnZJeExQTzZKM2RUbmJPdjE2a01fWURzN3hXRktQdkpBTVZrQXgyaDcyOFladDNhTEtxMFZ5TnRZSENnM2pBN2NaY0Y5OWFXMVl4UnIzVUpNTENEYmpORTBRN0gxSjFv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2Q4WjlxMC0tLVV0cDlGemd4RUVuT3FzMmdWQjQ4aFVYcVppNVNqczBsM0JUTVRyRzZGT2xuM25iaEV0T2g2M1VQa2xjc0RTYW1LVVJMUmdxUlRtT1kxa3ZwbG1XSkVycnZoT0R5UWFUcklaWFYyZ3kxNTg5ZGV5VWk5NkhfZTNlRWg1LW5PNzYzX0dUM1dSb1JkaWdiajE5NlRDSUp2WXJWUEktNzNBYWFmMUxtVDhYZS13QmdfMXRDNXV6RVZ2TWpzbkFBWS12MHF4UnJTRXo?oc=5"
+        },
+        {
+          "outlet": "PSU Watch",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDFOT2NnRFkyby03R2NOY3pzY1RkWHoyUXVDZzcwRlFETVNEVnc3M3ZqRDRDSEdXS2wxdlRQUUwtZlh1Z1czNGdWZkw2Ni1uM0Y1N2E0b1BoaTM4YkRCUmpxR2lHR1gtMGlEbV9NUjRzSmNWU3RqT0NfUUtWWEQ4TkhUUGkwSFgxMXNWbmRBREE0SmxxTGNJZ3k5ejJESzUzX05sb3BEeF9jbmx10gG6AUFVX3lxTE03ZVNhTmJpaDdxM1lxVG81MDRabWluenR4elVRM252N1NrWXVTX2ZhclEzQkNESllUZDVtNl9TbFJ3TWRMU1otYUEteHB4M1RFZVc0RUJIS1gwVXJxbnVKVjNsdW00cXpvOUdTVjdEX0otemhlbXBGOElTVV82YndLQ2VqbkZtTzE1enFJejBxMlBkbHNLc1JySkVvNzliNTVSYy1TQ1BoRjAzVWRySWhGbHp0ZVhkakJTUQ?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "'Men ogle at women without veil': Bihar AIMIM chief sparks row over criticising free mingling of sexes. Covered by Deccan Herald and ThePrint.",
-      "image": "images/men-ogle-at-women-without-veil-bihar-aimim-chief-sparks-row-.jpg",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Adani Energy Solutions Acquires 100% Stake in Vikramshila Power Transmission for Bihar Project. Covered by 3 outlets, including Kotak Neo and Construction World.",
+      "image": "images/adani-energy-solutions-acquires-100-stake-in-vikramshila-pow.jpg",
       "image_kind": "photo"
     },
     {
@@ -634,80 +602,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "four-arrested-for-tearing-banners-of-pm-modi-s-event-in-biha",
-      "headline": "Four arrested for tearing banners of PM Modi's event in Bihar - Deccan Herald",
-      "summary": "",
-      "date": "2026-11-22",
-      "topics": [
-        "crime"
-      ],
-      "sources": [
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRS05LV80RWxBbklNZDBxR1oxQXVDUDdYYlktVGtGVHhzT2MyY3JQeFMzRzNRUnVEQnkxbHdIdDRCaDFSRVRldk9jQmU2WDU4VVNPR21LeHlmZGZhblZtc0pzV1c4MFQwODUxUlZUSmVNYWhXQll5amJCc2Vad09JdFBiTVc5dGpOb3hDamhnZVN3OEZGcEZ2UjZQby1raTNXcm9QTHZzRG9peEc1QmfSAbsBQVVfeXFMTjI0U1lzRWFNQkp2U2gwcEZwbjBLQjBBdGlPNlVCOG01XzkwbTJSbHUtSk84R1lQelNpM3plOXZPYnlJZ0FMOEVUeFVrTElMRlRaODItY1VwTlpaNGhOR3RXa2g5ZUJ4Nl9Sc05KUXRLTHprVENMRlJIVkxhQWtOdlhlS1ZYVU1ta09nWXU3aERaZERkdlM2cDVvNFFFZXNZZHN3QVgyR29UU3kyMW9oVEFaQk9oN1M5Y0FzNA?oc=5"
-        },
-        {
-          "outlet": "Rediff.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwY09sUkJoZFZhcGxNSXdhel9lU3M4YWxzZ1YyT19fR0UzLVlSSXRVUnNERHNabkdzUWVhR3V4a0djNU1SSi12OVN2SlV0Z2R2Z0xUTDhaeTRsQlh0ZXhIb2V2ck5zbHd2cEdscFY3UnFsdW1a?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTV9oRGpKNjJrNVJVZXV2YUtXSklIcEowV25qZEFmbGRQaUl6RUNTUW1SRF9INzFTRzdtVzVBb3Z6YUU5bGtuS2RreHlrUTBQSjEtVGJNejlQUm5tRVZQYzVJTWNkWktDbGk1dW9FMVRHc0ExdFlpZzEtcFdfaURLcl94Mlk0clNSQ3YxYUxTVmpoTTVI0gGaAUFVX3lxTE5VakZmZUJFZHplWXlTY3hsNDYwUGZmRmxsWTFQTUxQR1FnUlFmUWpWRVBvbTlpd2hQN0RFb0dnWGxFSUZ0T1ZuOGZVUS1FNE5EbVJQcUR1bGVhMkFUaTZYXzdJLXQ0XzNlTUZ4VkY4WGY3d2MxZVdiT1NWSE1hWGV1WmdkMTRRTWNpWG9KbWRrZ3loeVZ0eXdwWVE?oc=5"
-        },
-        {
-          "outlet": "Rediff.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc2drd3RVaUJIaTRHX1VTZVdqdXlCX0VGLVI1WUF0b1plNUFudDRWV1RSRjY3TVVUeGdQUk05WjB2UDdJZ0xKeTJmYWVTalhkQ1laR1YzbDB0eEE0bjFMLThYUTQzamVKZlg1b0gtNVlXQzlYUUgwMnhTTHY2NF9iXzVnTHZxNjJMTzVnYS1iRHR5bndpbU9QNTBOXzlsWDF1dk4zLTJhVUdyWjRqTlZOOWpNdmt3ZEdteWJLQUg0UC1IZFVkenZOOHQyYVJYeXhQUWtob0xn?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Four arrested for tearing banners of PM Modi's event in Bihar. A crime-related story. Covered by 3 outlets, including Deccan Herald and Rediff.com.",
-      "image": "images/four-arrested-for-tearing-banners-of-pm-modi-s-event-in-biha.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "smat-sachin-sathvik-set-up-tamil-nadu-s-win-vs-bihar-the-new",
-      "headline": "SMAT: Sachin, Sathvik set up Tamil Nadu's win vs Bihar - The New Indian Express",
-      "summary": "",
-      "date": "2026-11-22",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "BCCI",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWdvZnI1NE9HOXBubDVJZWo4WS1KRE9yWWZWTWdPd0dndE9HMWZEY1RHRTdEbWs1Tm5zNHlVa0hDd18yV2dHVjR6d3FGRmloUFRDVTl5Y2NRcGlkV2JaR0hLUVhlQjE0RXRZN2JtRTZ2VUxRZlJzYW1laXk0UkRiUGNuTQ?oc=5"
-        },
-        {
-          "outlet": "BCCI",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFJfODJ3TUVhWlBmeXkwTlA5dXgyaWNZZFJWcThVN2RwSkEwZ0toNVl0aUpQQjkwV2xaZUFSME5WeUVzRTlHVGhFcWJDT3BBZXhMQkQteXphRVpkd2h3LWxXVEJpUFlfYUVKVXpvLTFfNlBfWktSb2RKWHZPeUFwSXpYNGMxZV9RM2laS3RkMHdBTU9lbkU3VXkwOGNoU0w5RXc?oc=5"
-        },
-        {
-          "outlet": "BCCI",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV3cyTGVOU2pXVlB1dnFXZEhRWXZtT2lMZGJLMWlNeEVfdDBrRF9ITDFvVEZJTms5Z3dfd1VrNVYwMjVHRExETkFnUnV6M3QxV1dSX0NOTnhlTzlzeUJzQlNWcTNlakR1cnp5RlkwZXFwMUVhVVZfLWFjem1iTjhwOHY5b0dVSlR6SEE?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVI0ZmxEakUzYTV1NEZ0b0xnWG1hWkVCU09RSE5DVnhEd1pvM28zZVYwVkVad0szbnhHQ0FCT1BxdVlOdVVGdzR5M2VnSE1TWGMzNlhoY2owZVdCSzhzNlFrSlEzYTJNYm93Z0o2U0JWXzJMYUFCSDdWcUJMbFdjSHRGNmhQWENmWGtUTTR5VW8zdlhzTjVVNi0xZ2JtUWdjcTg4NlBZY3RuZ0Y5dnVj0gG8AUFVX3lxTE9XYXZyMm9Tak1QaDFfdzZuT0lDWWw2NGs4d3BKcTJtTnB5TzExVlk2NTY3cU4wR1FCeENuSTZSa2VnRHlYcWl4bjNLWHNaeGtTbzc0dEdfQUticUtxNkMxaVZqcGFnRDNsWGFaMHpRWGE2ZWNGVXFHY3hjUU9fc0ZZTV9UaWU0ck5QYmZISjEyLTJIX2hIZDdUbzE4UUllZk9HYkRIY0hpNnB1aGVaYWR1MjBJTFBqWWVJUktS?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "SMAT: Sachin, Sathvik set up Tamil Nadu's win vs Bihar. Covered by BCCI and The New Indian Express.",
-      "image": "images/smat-sachin-sathvik-set-up-tamil-nadu-s-win-vs-bihar-the-new.jpg",
-      "image_kind": "placeholder"
-    },
-    {
       "id": "4-jagran",
       "headline": "पटना में बरात से लौट रही स्कॉर्पियो को हाइवा ने मारी टक्कर, 4 की मौत; शादी की खुशियां मातम में बदलीं - Jagran",
       "summary": "",
@@ -732,6 +626,65 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना में बरात से लौट रही स्कॉर्पियो को हाइवा ने मारी टक्कर, 4 की मौत; शादी की खुशियां मातम में बदलीं। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
       "image": "images/4-jagran.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "nitish-setu-inaugurated-pm-modi-opens-rs-4-280-crore-ganga-b",
+      "headline": "‘Nitish Setu Inaugurated’: PM Modi Opens Rs 4,280-Crore Ganga Bridge Connecting Patna and Vaishali in Bihar - Republic World",
+      "summary": "",
+      "date": "2026-11-21",
+      "topics": [
+        "politics",
+        "civic",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "Republic World",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM3p4Q3JkY2pEdDVCS1pZUGpjcmlDSW1TckZQc21yVmw3THJCaUZGaUxmbUFCaHppVDd3eXVHc1JuZURyR3R4LTZJbHBxWTNXd1NxQWQwNDNjM2VXWnNTZXpyWXJjZVZHNy1hZVdHa1lhUGRTazQyeG92MVZ0dFBmS2w0VS1aalVCRnhqN1JqbEw0MW9uN1pQMllpZGF3WHJyNWRGOXNWdUdnaEttVVpEQ3FnTkpoZWR2dnVHSldfRWp3NTB2TVZnRk04NjRGNXhubXo0bHFRSGVUYXU3RndNS1JIT185cVhmMGlsR29n0gHzAUFVX3lxTFBzay1iRUkzQjB3TnlOOTM3dm5XbUxiMmV0elNVR1lEN2Z5MHV3eHJGQ2hPT0hnd2ZNNDMxQTRQa0s5MlAwTHMzZjIxME4wWDVEbTNoa3E0NjRXaEFiSUdBUUZEeTYwdjlNTTJaMUFfVkNVZlFDc0MwVFVNWWEyWHhlTlJyMVhPWGYxekMyN1RLZVRzYlg3N2s4Rm15cnpkUkJXdzdNVnAwV2dvMlQwbWZBdGhDOVZ4TG90Tk9aR1dNN04xYTRIZTZMTFFPQ0wxcWdjZzh6ZXlkSWpGcERGUmVON1owZmlEQlZWSmhybWlCbzluZw?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ3FMN21WNXVJWUtTaGZpYWNucTE4Z2dDT29GWHhjNHU2OW41OFFUSVJEM2pwRk9ROWtjaEl0dlJ3Q3FadHpaYlpaX0N2S1BSUmpMeUF0ajdWMGFhZkU5d09yQXh2QkxwTW5Ocl9VN21raGI3QUhUTTFsV3ROYmVqdFdwZmx4d0t3RmJ4YWYxcl9hZVVOdTVsT0NrOGtvNUlUQWNvbzFnTlNPQWx1azJPUjY3RE8zTDZSVFpkdDVZUzFjRk5keGNPVGJydnjSAdIBQVVfeXFMT0o1ek5XU0pqemhDR0pLeGtPTzB1UlViZVBpLUR0QjFoZFE3aTBGdVFKNm5hbkxpWnRWZFJFUzFXRllXMUlvazZTdEhtbkF5VlRBWkZWN2FscHFtbllEQXdJSVBDdmRfQW9lbjJWanFKQXpDbWFnNDRYVU8yNHBuZGdUVWRndy1pWVhnQWNxRWk1Mjk1cXg3aFRZZzZJeF9RWF8zSGg5eUUxdkVudnlRWjU1ZnMwQ3BwV01OUl8zV2tydDJyNWhPRE9RanZYV3dYUEFR?oc=5"
+        },
+        {
+          "outlet": "Bureaucrats India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUlmWVhHYUNuMjJWU2xjeEI5TmREOUoxZVptemlpWUowWndGNUlhcUpMVTl4cmFDVUw1YTFHcHpkeFZYV3BvWXdLN3F5dXdHYVNKbDFibWRydXlJM2hlZmhVcWZaVkcyV1FVd0xLclJrNDNESXNOOVY1a0d2OUdxQTdQdERBc1BDT1pCd2N5bGktX3hfcmY5aFJMZ0Y3QU1Va3BUZ190YnA0N3p4aXZ0U0luM25QUQ?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUlJa1JVMnBRUVQwdjdCczRGbDkyLTgxcHhFaUJoZG5hMVd5eWgtbnRBRXNjU0JLM2wwSUc3aEJDMmhsS3F3eW9fWVZTVk5UM2hIWDIzZXhzT0F4OG9IRE00ZmJXN2JXZVltZlVQSTYwZUU5bVhCRU9BS2RVUEREWWVMWW1qNWdQNU4yTWxNUVpDbmR4M25McHZOeDFNblNmN3BjYWlidkRJQ2_SAbABQVVfeXFMTUdQSVZBUENISjRfZnJsUEgwVkpkZXVRWG9rbzFBZ3JvUTNqVjdJU1NDWDVEYWI0SWE4ckk5YXRBZlJzd2NRLWtMRmY2MkFGTnVYWHk4elpWYzA4WnVKeXpIWUFsTFVRQTRYOTdfTXVkVFNjZnkwOVhqdFMxMC1VcFVPSHRGOVdURHRFalhERFdyRmRPZnk0bHBCcHJrbk9OVjZDWENjdER2eGtTanhrekI?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDBMYTFPdk1ncklSYzEwMEJlaXNrMzhqNjJGTndfYjB0WE1peWFaNHpkakszemd1RkRiUzZsT1RLNTZYcW1QN09IUjVROVltdXgxbXdhYWZ6YVRxV2Vjd0JRNE5vTXhNdFptNEZGWVl1b0dILW1NQXFMMFBWREhaSGEwenhjVnBNQUwxa05yb05vRXhNb1NUQ3NJczYyNGl5c0lHODVydWNWeU80WnBaUzRZM3dLOFlNbHhRRzlZX2JVMWFzTzZXNHFkZmxybWtF0gHXAUFVX3lxTE8ySzlqeDhBUkphTUFoMEtkcThBdUlWNHQzTi1HcWwwdTRHYWRWY2k3LWlIY3U5TE85NXlTUlVrcExOblFiOS1hN0NEZmRVOHhBOEJHWUZKQi1YUXo0dVVPNS1VVlRJSU10Zi1yM1pvZVo0YkViNHpNTlkyZDIwLUdUSkRHY2FzY29YUEc3Z1JXU2dVdjF6WkNGdEVwLVNZY19aQWRkcmFsZ01NdUtOVkZFRFBHa2lSY3N5ejVsMGZSWHRXcGNiWl9BZEh1OXUwUHFfeTBrajhJ?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVp5MHlCMmVYcDR1QlQxdmNhQ1ZkM21BSm43YXNfTkJLeFNYSjJxRXBfWjhsbXgzTDI2SGtfd1RoblJnNUNSUTRfcGFic3h2bjRueU5GS25FOU5kUl9obUxDSUhJOS1HWnZCMnBudnFlRFV1bEdERXRFMWtZX2E4WHZwSTZ4M1VsOHJmZmxnaDRySXU3V05NQmxJaUF6OTV4Ym5UQ1pGTjJfRjk1eGhjcdIBuAFBVV95cUxPOHN1clhmSE5TSjVhUkNxalZBRXRHTTJNalc3enlyUEJON1JRUnhFQktGeDVkZVJhMlJfaUZPc0UwRXVnWW42MFpzaTBQbzdLQUVGT3BFRnIwUm1fMXBFcFdwdEpHWk5MUU1xVDlMdnl5NXBnVzRhWU1ZNWt3MVZJQkZmZWJlZ1FMQjFtUXU4N19HTFNEaFlZM3hNeGhRUGR5Y2s3NnpvQ1VLOUQza0tEUEF1d1hzM1BY?oc=5"
+        },
+        {
+          "outlet": "DD News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGZXT1FNQjZsZkFuNmFsdzUyLW1UR0szaW9JMVBhNWhOWHE2aG1pQVZxckMtVEVkVlp2eWFzc21OcnkwTUw5ZDBLV0pUbnJnWS1idkRVWTU3TGZmTXpqRmlpekVIMEtzbTNvLUxUTjREcDlsaVNPUXBWeDFPQmNuQ1NzSEhZRmF2ejFaRWpieXBONTR4ZjdtZ21YNk9FU1J5MHBBZDVMV2s?oc=5"
+        },
+        {
+          "outlet": "Open Magazine",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlE3UVQwVUFKektfZ2hPdlBBUGwxekpWY2lBekw2MWg2TlFzdnNiWjVwcFV1cDFGcVFQWUV2OGdHcmtRRFBsQnI4NjI5SXh2eUN5YmtWNmRONzU2WElQUTJIZFdCRUdhcXlqZjBPME1EcE5uNjMwVUl5cFJMdnlpQ2w2dGxyWEdnWTZLN3l3aGl5Zw?oc=5"
+        }
+      ],
+      "source_count": 7,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "‘Nitish Setu Inaugurated’: PM Modi Opens Rs 4,280-Crore Ganga Bridge Connecting Patna and Vaishali in Bihar. A politics-related story. Covered by 7 outlets, including Republic World and India Today.",
+      "image": "images/nitish-setu-inaugurated-pm-modi-opens-rs-4-280-crore-ganga-b.jpg",
       "image_kind": "photo"
     },
     {
@@ -785,24 +738,12 @@
           "outlet": "Facebook",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxPempxa3d1eER4N3dOS1NJOHhXYWJTa0JSUzNpelgyNUU0TkNsOWFYRHBLTEJDcXAwU0xBaG1PekpxNG9oZXF0bWZMNE85OGhDdXlJV0FzcVRJVW1vODAxeVZCYzdQcU4zbmU3TTRlV09qRWVaUkhzNkJmN29oUG9sWFozam1PNGhTMUozQ29rNGhBcmNCT3JiUnZSVTBKNk4tNkxUamI1WUFsLVZqMy1IT0xtRXhYRGdsLVhDb05ycG02QllYZ0V2ak5jVFQzcHFobnJIRzNBeExLc2NTOWxRZUs5UWY1cjhLNE9ENWZrWTgtZ0FZX2Rsajl0UU9NVFV3RGZPYmF6NHhPMGFTZzV4R3RjWTI4VUVZY01MUExpQVl3Sm4zQk1JSTNuYUJ1R2hsY2FHRWFGcTgzeVR3OE4wNmpSY3hRZHR5ZGtQaDk5ak1URklVdkxxN2ZYa0x2cF9nVFRrMlhHaXFGNVZTcGotUXdlT0FiaVl5Z1FiN1Vmc1pEMWg0RFJ0Q2J0UUp5WmFSb3RNWVpaN3pQb1luZFJsMnhLcU9CV1hac2RRWGNGeGZvZmQySjZXV3MtcVQ2cmpocnhuUFVPSUMxWFJsZDhpODhWM2VMbkhQVVFodU15NUF6WVExbG5zZ1FMNXQ5M1lzNi1oREJwTXZhQzg1bE1LaEdxQlljVk9BSmJJZ0k1T0JjWVlUZmZIT3JCRDlTblR1LUNPRWFLX0hHTEhlNEZTaHdUYTRKZzB0dUpSaGJWZFVHMlNQVzJSRWo3VnB1TDM0OXkyZkJ3aHZGQmlBRDRYd1M2RmVuT1JoTWJrcHpRamx1OHpFSDhFMWpxX0JHb3V0M2oyOFhRc1Nta0NzQXhqZUFvbnVKczZEVWtJRUJNTUhnODFOMDBvQjVQWWVIMzdtSmtNc1o0bFlRbFd3RVFxLTJfeVZseHJUVU13S1hJd25CZ3pKZy1mVFVZNDlOUXNMQ21VU1VLdS0zNWdpYmxid2c0Z01wOFBreDA1S1pPSnNXb3dCSmlXeTJqTE9PWE51R3VQVUhLTGdwQ0dxRzgxS2trUy1NajdlSTBUVlRQeGlTbS1VbWVjUGMwekYyMUlHOENaSXdRSGx1ME1aZlh3Ulk2WkxNeVk4eXBINTRVTkhnMXBBc2RydnlhQ2xta1UtTzRub3FkS0V1Nk1rNWF6R1V3?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "PM मोदी और नीतीश कुमार का अलग अंदाज पटना एयरपोर्ट पर दिखा अलग अंदाज नीतीश कुमार ने PM का किया स्वागत गले मिले, हाथ मिलाया #PMModi #NarendraModi #NitishKumar #PMModiBiharVisit #PatnaAirport #ModiNitish। इसे 3 मीडिया संस्थानों ने कवर किया है, जिनमें India TV Hindi और Jagran शामिल हैं।",
-      "image": "images/pm-pm-pmmodi-narendramodi-nitishkumar-pmmodibiharvisit-patna.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "news-on-air",
-      "headline": "पीएम मोदी ने ‘नीतीश सेतु’ का उद्घाटन किया, पटना के कच्ची दरगाह को वैशाली के बिदुपुर से जोड़ता है यह पुल - News On AIR",
-      "summary": "",
-      "date": "2026-11-21",
-      "topics": [
-        "general"
-      ],
-      "sources": [
+        },
+        {
+          "outlet": "DD News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzVHdjFHTU9uWlFnc0hUTzZLcXMtUmxUbTdUYnRFSlc5NnlWczZfV3MyOTNBaGR4ajJsX2NyX2pWaVV3Nm5jbGhqX0JuOHJCREFKckFQWUk1WkpNTi00MFI4YTVXdVJJbzZTQWJiTENrcmFqNjQ2OFZWcFc4UTVtQW1ydFdYMS1RdjAtV056LXl4T1ZGZ05ueTBqdENhOEQwVjZ3RklWSlVEZUhqeC1V?oc=5"
+        },
         {
           "outlet": "AajTak",
           "type": "news",
@@ -814,16 +755,16 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13d2swVzJzVDBYWmJIZjd6TWJrUnJWZjRMOVJGaE1IcVlLLXVkSHcxcHJlVHFtc0JNelF0THA4VGtPbVd1QU44U0wyRzIxSjVwTVFJbTd3VUZvNnNWUVpIc1FBcFNEdlMtZ2xaX3BLbjA4dw?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पीएम मोदी ने ‘नीतीश सेतु’ का उद्घाटन किया, पटना के कच्ची दरगाह को वैशाली के बिदुपुर से जोड़ता है यह पुल। इसे AajTak और News On AIR ने रिपोर्ट किया है।",
-      "image": "images/news-on-air.jpg",
+      "source_count": 6,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "PM मोदी और नीतीश कुमार का अलग अंदाज पटना एयरपोर्ट पर दिखा अलग अंदाज नीतीश कुमार ने PM का किया स्वागत गले मिले, हाथ मिलाया #PMModi #NarendraModi #NitishKumar #PMModiBiharVisit #PatnaAirport #ModiNitish। इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें India TV Hindi और Jagran शामिल हैं।",
+      "image": "images/pm-pm-pmmodi-narendramodi-nitishkumar-pmmodibiharvisit-patna.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "icici-lombard-to-host-grievance-resolution-camp-in-patna-the",
-      "headline": "ICICI Lombard to host Grievance Resolution Camp in Patna - TheWire.in",
+      "id": "icici-lombard-to-host-grievance-resolution-camp-in-patna-bfs",
+      "headline": "ICICI Lombard to host Grievance Resolution Camp in Patna - bfsi.economictimes.indiatimes.com",
       "summary": "",
       "date": "2026-11-20",
       "topics": [
@@ -831,9 +772,9 @@
       ],
       "sources": [
         {
-          "outlet": "TheWire.in",
+          "outlet": "bfsi.economictimes.indiatimes.com",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXRYQmhrbWI4aS1sRHA0RDhrZjBZcXhyZWEwSFVwd0lfaS0yV3FHbzdfMndnTDNvYVNCRTBKSy1GV0QwM3EtZ3lseXZ2Y0p3WEpPVWpZRWhFczcxR3RsXzdON0ppQTV0Tjd6SXhXcGRzS1B3cGtHa0FVV2syeXA3QVhDWmJndWxBamFJVkloTXdrRjZwSmdmQ3Jxd9IBoAFBVV95cUxOczRKOEpaOFhLZU5PSWtfNTVBbDVLYnBhYUQtdEU2cDdoLVBNbXlYMDI4TUhNQmRDeWVoOFlBZDdudDBRTW8xTmJuSTdITWxnQjJOdVM4bUM1M3pzaTR1dEJmNWRpdG0xb0RIYU5VSkktQVA5NXZjeVc4TGxKVFJJOGRRQkV3WkNGWVRPWGtNa2gwQVZaTkdQMElJLVRNU0F3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3BObGctb0ViWk1OT0tncUVnUjBERkw2MlhTMWFUekIxc2RpN1RBeVIzeUtDbTc5M0ltLWh4STRyWUd6OW82emdCM21YSUttYzNGV0tkcDduU0h2N1Z4bTBKbFdsQzBFdmpDVDRqbjdWb2d2MmZwMTFJTWhER1hTWUF6dFhFRHlUZ25fZTVDQ1BpS0F2bFZEaXZEMktUeGQtb1NTZGdELV83eEZHSm9FVk1hbk9YXzVZ0gG-AUFVX3lxTE8ycF9IQ2dNQ1plZEt5TWxyZnBHRnFWVDktTF9xN2ctT3lYY1dueUcwMnRHNDAxZ3gxbE5iWV9teHl3SnI0NlRjNUxnU3ZUaUR3STItNzRGcEZtNzRjWGZXRGFjTjJsUG5GbjI2ZFlLX3JHLTFGYjNOcWpZby1JTnE1ZjFUbkMySElNZldrSU9CUS1ka24ycEhEQkluUEVuRnFyWUFqMktRWWNRcDBCZV9wczYyN3R4RTBtd3BmcVE?oc=5"
         },
         {
           "outlet": "ThePrint",
@@ -844,8 +785,8 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "ICICI Lombard to host Grievance Resolution Camp in Patna. Covered by TheWire.in and ThePrint.",
-      "image": "images/icici-lombard-to-host-grievance-resolution-camp-in-patna-the.jpg",
+      "brief": "ICICI Lombard to host Grievance Resolution Camp in Patna - bfsi.economictimes.indiatimes.com. Covered by bfsi.economictimes.indiatimes.com and ThePrint.",
+      "image": "images/icici-lombard-to-host-grievance-resolution-camp-in-patna-bfs.jpg",
       "image_kind": "photo"
     },
     {
