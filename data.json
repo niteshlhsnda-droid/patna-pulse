@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23 20:54 UTC",
-  "generated_at_ist": "24 Nov 2026, 02:24 AM IST",
+  "generated_at": "2026-11-23 21:35 UTC",
+  "generated_at_ist": "24 Nov 2026, 03:05 AM IST",
   "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -32,6 +32,44 @@
       "image_kind": "photo"
     },
     {
+      "id": "lucknow-airport-news-bad-weather-in-patna-forces-indigo-pune",
+      "headline": "Lucknow Airport News: Bad Weather in Patna Forces IndiGo Pune–Patna Flight with 187 Passengers to Divert - Aviation Jeta",
+      "summary": "",
+      "date": "2026-11-23",
+      "topics": [
+        "weather",
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTldodzg4eDR0UDhRYWcxNV9HRGExalpnNHB2RkZJZUVUMmk0U1lRYkFjTkVzQlNMbFNYRFpGQUZwTkZqZHF6X2RWdlZHaW1ncGpfcWNYTlVSZm9xV1pmY3ZaQ2xXVkxXV2JiY2kyUHlaX3dtYW5rc0pkOS1ZWHFqRnpqWU54Q1p3WE5LSFo4NEhYY2h2SGlVdl9xcXZHbTNOR3pTcTNVSG1uSnlGQmI1ZFMxbmlJSkN4YmNxNFRZamhtbVBOQ0J30gHMAUFVX3lxTFBqTTFIVThDaFA3WElXQXk3blhfUTl1d0tOWUlHMWh3WnFwZnh1NjM4TEI2TWQwMzRsVUxnc193WlRpcm5YREtteUF6amhoazM2UU95ZjJkelZoMHBkaWtWR0o2YUg4SE9zZjR4UFdEeDl1OHIweE5pWmVnSklQQzZsVVlxTEVaNHd3TEhCQlN2WlExR3JaVW1NQ25CSlhjMWVHTHRhWEFOb3g5V25mOVlUcDM5Rm44cHAycTF1OXZ6SEhUbWVTZ3VmSHc5MQ?oc=5"
+        },
+        {
+          "outlet": "CNBC TV18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmZSRndHRk41ZHYwS0x1VkhhZjU4Yl90dEZUQzVQdGhWY1VLTVJlaEt6Vk1HSk56VjVxVWRQV0NUN2daQ3QwRl9qeTNnSUhtaUU1ekJZVjFwdFdpS3ptMmI1SEZDbFNwMTZ6T2docGFxcUFHT3ZyRmtXdEExUk9PNFRjQWhWUmFuNjBBejhlZkJsVld4WUlpRUNuaklDenltdmVJMElVNmhjWjjSAbABQVVfeXFMTmhoU25XMGMtTmwtZjJfMTJFYTZ6cWNUdXBJZEFtZVc1bTZ0NTd4SnNkaFRseGtGTHdjZWo1RXd6a3puNGVGMTRaR1RqNDFHOEJUdE1fTVF4YmNVT3BwUy1Xbkc4aXhWUmREQURzZTZuTEstTXlrRkxvYnlPT0F3a1Zzb20wdkxRMXBEM3BXcVdIamh4bllsWk04b0NtUVpKQXBfRkJISDhRdXhJRWRCOUY?oc=5"
+        },
+        {
+          "outlet": "The Hans India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ2M1b2g3WkhTQ050cVpDZVhQVWFzaERjTDl6STA5V2FxLVJDaGgtVTF0UHd4ZjFXVVBGVjJXXy1CRllWN3VkR1ptbG5PWUcxUE42SC01WUNwQTRqMlJLMkliSi1JcGtRc3g3OTdmUFdCTDlTeE8wdmhIVVR5eEliWURERkJtZ3VoOXF2OEJFTVp2Rk12TFZIWlZBa1lnRDB3YmxXdjQ1WFdJbzBCamUwY2JFONIBuAFBVV95cUxOWnNNV2k4YUtYVW1NbUxUcHZOVTVPd1BGWmF4d2ZpSFhiNElqQVFVT2F0Uk9aRTByM18wVEZpVWFXM3JmLWFlRWpjYzZ6V2p0cTNOeGctZE4wbGRDUkNnYVhWMF9DVXk2VmZKXzA1dk1RRV9VZVZxRkF2dmtBOXhOZlNlRVVVSUpvTWEtXzF2NXIyNGFHQi1xcmJ1Qy1mWkg4MTdXZmxwYnBWNGxuNkc3OU5YVi02bXpu?oc=5"
+        },
+        {
+          "outlet": "Aviation Jeta",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTVHTkx6emItYnZIZ1BHaVBTTnkwU0pRc1BreEFvLTRjc0pfTnR4Z25uaEdKMTFENDZnUFZQTmdhdEt6OHg4cDNRRklEWWk0dUdNU3V4MTVJMDNTNW5WWmZ3Znp2UjJQY1ROS0JqbGNTRlBhNHBMY2FFWl9aTlItMUFoLS1GbFdmR0xYTGl3YjJOaU13cHBLU1BiaGktMDJRdWxTLWxhTlZhZDlwNGtwbloyVUZ6REh6WmhZRmZES0JrVHB1TkRmXw?oc=5"
+        }
+      ],
+      "source_count": 4,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Lucknow Airport News: Bad Weather in Patna Forces IndiGo Pune–Patna Flight with 187 Passengers to Divert. A weather-related story. Covered by 4 outlets, including Moneycontrol.com and CNBC TV18.",
+      "image": "images/lucknow-airport-news-bad-weather-in-patna-forces-indigo-pune.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "pm-modi-inaugurates-ai-centre-of-excellence-at-iit-patna-bw-",
       "headline": "PM Modi Inaugurates AI Centre Of Excellence At IIT-Patna - BW Education",
       "summary": "",
@@ -56,39 +94,6 @@
       "genuineness_label": "Corroborated",
       "brief": "PM Modi Inaugurates AI Centre Of Excellence At IIT-Patna. Covered by BW Education and Elets CIO.",
       "image": "images/pm-modi-inaugurates-ai-centre-of-excellence-at-iit-patna-bw-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "lucknow-airport-news-bad-weather-in-patna-forces-indigo-pune",
-      "headline": "Lucknow Airport News: Bad Weather in Patna Forces IndiGo Pune–Patna Flight with 187 Passengers to Divert - Aviation Jeta",
-      "summary": "",
-      "date": "2026-11-23",
-      "topics": [
-        "weather",
-        "civic"
-      ],
-      "sources": [
-        {
-          "outlet": "Aviation Jeta",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTVHTkx6emItYnZIZ1BHaVBTTnkwU0pRc1BreEFvLTRjc0pfTnR4Z25uaEdKMTFENDZnUFZQTmdhdEt6OHg4cDNRRklEWWk0dUdNU3V4MTVJMDNTNW5WWmZ3Znp2UjJQY1ROS0JqbGNTRlBhNHBMY2FFWl9aTlItMUFoLS1GbFdmR0xYTGl3YjJOaU13cHBLU1BiaGktMDJRdWxTLWxhTlZhZDlwNGtwbloyVUZ6REh6WmhZRmZES0JrVHB1TkRmXw?oc=5"
-        },
-        {
-          "outlet": "CNBC TV18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmZSRndHRk41ZHYwS0x1VkhhZjU4Yl90dEZUQzVQdGhWY1VLTVJlaEt6Vk1HSk56VjVxVWRQV0NUN2daQ3QwRl9qeTNnSUhtaUU1ekJZVjFwdFdpS3ptMmI1SEZDbFNwMTZ6T2docGFxcUFHT3ZyRmtXdEExUk9PNFRjQWhWUmFuNjBBejhlZkJsVld4WUlpRUNuaklDenltdmVJMElVNmhjWjjSAbABQVVfeXFMTmhoU25XMGMtTmwtZjJfMTJFYTZ6cWNUdXBJZEFtZVc1bTZ0NTd4SnNkaFRseGtGTHdjZWo1RXd6a3puNGVGMTRaR1RqNDFHOEJUdE1fTVF4YmNVT3BwUy1Xbkc4aXhWUmREQURzZTZuTEstTXlrRkxvYnlPT0F3a1Zzb20wdkxRMXBEM3BXcVdIamh4bllsWk04b0NtUVpKQXBfRkJISDhRdXhJRWRCOUY?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTldodzg4eDR0UDhRYWcxNV9HRGExalpnNHB2RkZJZUVUMmk0U1lRYkFjTkVzQlNMbFNYRFpGQUZwTkZqZHF6X2RWdlZHaW1ncGpfcWNYTlVSZm9xV1pmY3ZaQ2xXVkxXV2JiY2kyUHlaX3dtYW5rc0pkOS1ZWHFqRnpqWU54Q1p3WE5LSFo4NEhYY2h2SGlVdl9xcXZHbTNOR3pTcTNVSG1uSnlGQmI1ZFMxbmlJSkN4YmNxNFRZamhtbVBOQ0J30gHMAUFVX3lxTFBqTTFIVThDaFA3WElXQXk3blhfUTl1d0tOWUlHMWh3WnFwZnh1NjM4TEI2TWQwMzRsVUxnc193WlRpcm5YREtteUF6amhoazM2UU95ZjJkelZoMHBkaWtWR0o2YUg4SE9zZjR4UFdEeDl1OHIweE5pWmVnSklQQzZsVVlxTEVaNHd3TEhCQlN2WlExR3JaVW1NQ25CSlhjMWVHTHRhWEFOb3g5V25mOVlUcDM5Rm44cHAycTF1OXZ6SEhUbWVTZ3VmSHc5MQ?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Lucknow Airport News: Bad Weather in Patna Forces IndiGo Pune–Patna Flight with 187 Passengers to Divert. A weather-related story. Covered by 3 outlets, including Aviation Jeta and CNBC TV18.",
-      "image": "images/lucknow-airport-news-bad-weather-in-patna-forces-indigo-pune.jpg",
       "image_kind": "photo"
     },
     {
@@ -139,6 +144,11 @@
           "outlet": "Howl.Link",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBrU3RPRTYyUUo2RlZBd05UMl9PTkZHd3dZbGpwV19jYnFmdWRVUnpPdzU4alF0QlRMcW5V?oc=5"
+        },
+        {
+          "outlet": "Court Book",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFA3YkN1RkE3azZ4SFRPbEpBWnAwTTZwYTllRTF0Um1PaHZxVTdNcUJ0R1VjbHNPaThSbThsWndpQ0pfVnJRQ1N4VnQ4TDR4V0VTVnhBOWt4cnJyUkVhNkpYeE53eTItajYyeDgtZDJmWHViMlRPOHlEdjRySjJNak5tQldOTHhQd3Rvb0hfY3FLVE8xNzVHeXRDeWJyZEFNQ05PeFdNRS03YUM5TGxoQWF0Y01LWkROblg3ekdrUmJKbkFT?oc=5"
         },
         {
           "outlet": "The Hindu",
@@ -196,10 +206,10 @@
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2ZNdERNc2NJd2owSHlEa29ZWUFXN0ptT1o0akpqVXAxejluRzZadGlTXzlWMHRybmF0bzk3Wm5Ca2FOR2lTdllkQW1xN05UekpXbm10RHhycWo1LV9aZkNfc0lKbXNPS2Z6WnhPcUhwblJ2VnI3WlVvdnB1Q3R2aktsU2dzMEhIX0hfUTFlREtpaFVCLWQyYU1EeVdfenV1XzJESVRRYjZpcl81ZS1jT0MxNktXTmRHOGtvSE5SLWRWdlHSAcgBQVVfeXFMT3pjSlNDZ3dsMzFIWmE2VVJHYWk3dVhCRHd6Z3lsSmVzNTZxcU5UV05Gc3pQMG1FUlBlUDQ1VThRVUxQYzdRNDRGa1BCQ0Itcm10WTJoTkN3eFlURnRDUm9jb3YwUUpKTUdmYlJ3WHpjSFRncDVVdjg3UkRSZnZId195V1BiWXhKN2pVWFRQZHZxZkpwc1ZlVDVxYXdrdUZuOUI1UHkzM2J5dkNzSENDZ3NsQ003MHFnTUROekdPOFhBZUhYWnc5S1Y?oc=5"
         }
       ],
-      "source_count": 19,
+      "source_count": 20,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'Don't Act Like 'Bahubali' or 'Robin Hood'': Supreme Court Rebukes Bihar Judge Over Conviction Of Police Officer. A crime-related story. Covered by 19 outlets, including Live Law and NDTV.",
+      "brief": "'Don't Act Like 'Bahubali' or 'Robin Hood'': Supreme Court Rebukes Bihar Judge Over Conviction Of Police Officer. A crime-related story. Covered by 20 outlets, including Live Law and NDTV.",
       "image": "images/don-t-act-like-bahubali-or-robin-hood-supreme-court-rebukes-.jpg",
       "image_kind": "photo"
     },
@@ -576,6 +586,65 @@
       "image_kind": "photo"
     },
     {
+      "id": "pm-modi-inaugurates-nitish-setu-in-bihar-flags-off-100-pm-eb",
+      "headline": "PM Modi inaugurates Nitish Setu in Bihar, flags off 100 PM-eBuses as part of Rs 34,470-crore project... - Moneycontrol.com",
+      "summary": "",
+      "date": "2026-11-21",
+      "topics": [
+        "politics",
+        "civic",
+        "economy"
+      ],
+      "sources": [
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ3FMN21WNXVJWUtTaGZpYWNucTE4Z2dDT29GWHhjNHU2OW41OFFUSVJEM2pwRk9ROWtjaEl0dlJ3Q3FadHpaYlpaX0N2S1BSUmpMeUF0ajdWMGFhZkU5d09yQXh2QkxwTW5Ocl9VN21raGI3QUhUTTFsV3ROYmVqdFdwZmx4d0t3RmJ4YWYxcl9hZVVOdTVsT0NrOGtvNUlUQWNvbzFnTlNPQWx1azJPUjY3RE8zTDZSVFpkdDVZUzFjRk5keGNPVGJydnjSAdIBQVVfeXFMT0o1ek5XU0pqemhDR0pLeGtPTzB1UlViZVBpLUR0QjFoZFE3aTBGdVFKNm5hbkxpWnRWZFJFUzFXRllXMUlvazZTdEhtbkF5VlRBWkZWN2FscHFtbllEQXdJSVBDdmRfQW9lbjJWanFKQXpDbWFnNDRYVU8yNHBuZGdUVWRndy1pWVhnQWNxRWk1Mjk1cXg3aFRZZzZJeF9RWF8zSGg5eUUxdkVudnlRWjU1ZnMwQ3BwV01OUl8zV2tydDJyNWhPRE9RanZYV3dYUEFR?oc=5"
+        },
+        {
+          "outlet": "Bureaucrats India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUlmWVhHYUNuMjJWU2xjeEI5TmREOUoxZVptemlpWUowWndGNUlhcUpMVTl4cmFDVUw1YTFHcHpkeFZYV3BvWXdLN3F5dXdHYVNKbDFibWRydXlJM2hlZmhVcWZaVkcyV1FVd0xLclJrNDNESXNOOVY1a0d2OUdxQTdQdERBc1BDT1pCd2N5bGktX3hfcmY5aFJMZ0Y3QU1Va3BUZ190YnA0N3p4aXZ0U0luM25QUQ?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUlJa1JVMnBRUVQwdjdCczRGbDkyLTgxcHhFaUJoZG5hMVd5eWgtbnRBRXNjU0JLM2wwSUc3aEJDMmhsS3F3eW9fWVZTVk5UM2hIWDIzZXhzT0F4OG9IRE00ZmJXN2JXZVltZlVQSTYwZUU5bVhCRU9BS2RVUEREWWVMWW1qNWdQNU4yTWxNUVpDbmR4M25McHZOeDFNblNmN3BjYWlidkRJQ2_SAbABQVVfeXFMTUdQSVZBUENISjRfZnJsUEgwVkpkZXVRWG9rbzFBZ3JvUTNqVjdJU1NDWDVEYWI0SWE4ckk5YXRBZlJzd2NRLWtMRmY2MkFGTnVYWHk4elpWYzA4WnVKeXpIWUFsTFVRQTRYOTdfTXVkVFNjZnkwOVhqdFMxMC1VcFVPSHRGOVdURHRFalhERFdyRmRPZnk0bHBCcHJrbk9OVjZDWENjdER2eGtTanhrekI?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDBMYTFPdk1ncklSYzEwMEJlaXNrMzhqNjJGTndfYjB0WE1peWFaNHpkakszemd1RkRiUzZsT1RLNTZYcW1QN09IUjVROVltdXgxbXdhYWZ6YVRxV2Vjd0JRNE5vTXhNdFptNEZGWVl1b0dILW1NQXFMMFBWREhaSGEwenhjVnBNQUwxa05yb05vRXhNb1NUQ3NJczYyNGl5c0lHODVydWNWeU80WnBaUzRZM3dLOFlNbHhRRzlZX2JVMWFzTzZXNHFkZmxybWtF0gHXAUFVX3lxTE8ySzlqeDhBUkphTUFoMEtkcThBdUlWNHQzTi1HcWwwdTRHYWRWY2k3LWlIY3U5TE85NXlTUlVrcExOblFiOS1hN0NEZmRVOHhBOEJHWUZKQi1YUXo0dVVPNS1VVlRJSU10Zi1yM1pvZVo0YkViNHpNTlkyZDIwLUdUSkRHY2FzY29YUEc3Z1JXU2dVdjF6WkNGdEVwLVNZY19aQWRkcmFsZ01NdUtOVkZFRFBHa2lSY3N5ejVsMGZSWHRXcGNiWl9BZEh1OXUwUHFfeTBrajhJ?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVp5MHlCMmVYcDR1QlQxdmNhQ1ZkM21BSm43YXNfTkJLeFNYSjJxRXBfWjhsbXgzTDI2SGtfd1RoblJnNUNSUTRfcGFic3h2bjRueU5GS25FOU5kUl9obUxDSUhJOS1HWnZCMnBudnFlRFV1bEdERXRFMWtZX2E4WHZwSTZ4M1VsOHJmZmxnaDRySXU3V05NQmxJaUF6OTV4Ym5UQ1pGTjJfRjk1eGhjcdIBuAFBVV95cUxPOHN1clhmSE5TSjVhUkNxalZBRXRHTTJNalc3enlyUEJON1JRUnhFQktGeDVkZVJhMlJfaUZPc0UwRXVnWW42MFpzaTBQbzdLQUVGT3BFRnIwUm1fMXBFcFdwdEpHWk5MUU1xVDlMdnl5NXBnVzRhWU1ZNWt3MVZJQkZmZWJlZ1FMQjFtUXU4N19HTFNEaFlZM3hNeGhRUGR5Y2s3NnpvQ1VLOUQza0tEUEF1d1hzM1BY?oc=5"
+        },
+        {
+          "outlet": "DD News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGZXT1FNQjZsZkFuNmFsdzUyLW1UR0szaW9JMVBhNWhOWHE2aG1pQVZxckMtVEVkVlp2eWFzc21OcnkwTUw5ZDBLV0pUbnJnWS1idkRVWTU3TGZmTXpqRmlpekVIMEtzbTNvLUxUTjREcDlsaVNPUXBWeDFPQmNuQ1NzSEhZRmF2ejFaRWpieXBONTR4ZjdtZ21YNk9FU1J5MHBBZDVMV2s?oc=5"
+        },
+        {
+          "outlet": "Open Magazine",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlE3UVQwVUFKektfZ2hPdlBBUGwxekpWY2lBekw2MWg2TlFzdnNiWjVwcFV1cDFGcVFQWUV2OGdHcmtRRFBsQnI4NjI5SXh2eUN5YmtWNmRONzU2WElQUTJIZFdCRUdhcXlqZjBPME1EcE5uNjMwVUl5cFJMdnlpQ2w2dGxyWEdnWTZLN3l3aGl5Zw?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMnBfWTBGUWgxOHlKSEVaVElNc2RyUlJaNmdNRndGcW94LXJwTFVXSng5RXJzYlVHVjBJYmZFVkJ1aUZVU2I5ZXlpanFhTUFUWmU1LVBtSmlCc1dsLUlCQzNQQ3BqdkhjSmU4bVJwY1F2bmdkcmFBaVRYOExCNG1xeUN2R3EtZzlIZHFZa2Rub0hvcENkQl9BeEJxNnFtcko0UFVrYUJkQ2hmQXVjVEl3M005b1l2WFBwY2tWcDlBYTloNzR2VEVDWWRaNm1OOTliTWQ3VEhTNNIB3AFBVV95cUxQcDREOUY5MVFNV0toR0FVSE5ScllFbW5kSDJBa2FEeDlIMFZaYmlFZXJVcm1CYzFZWnJxdXdfa0RuTXd2QkNTUkZlY1A2X1AzeW1yRGxoUkNpMnJHU2Y3aDdoaXpqV3ZwWF9tUW9DbjhZWEpGX1VDVEdkd3Nob2hHUTQ3ZU1KWkl0SnJyUFIyQnBSSDk4WkJNZTBYSDQyUXpXa3I0dl9Lbnd4dXAtenZvb1RDTFhkTjItT2h1dkxFdUdzWGtvOFpaQk56TDAyS2ZtdTdQRU5RQ2ZHbkxR?oc=5"
+        }
+      ],
+      "source_count": 7,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "PM Modi inaugurates Nitish Setu in Bihar, flags off 100 PM-eBuses as part of Rs 34,470-crore project... A politics-related story. Covered by 7 outlets, including India Today and Bureaucrats India.",
+      "image": "images/pm-modi-inaugurates-nitish-setu-in-bihar-flags-off-100-pm-eb.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "bihar-pm-modi-meets-nitish-kumar-at-patna-airport-ahead-of-n",
       "headline": "Bihar: PM Modi meets Nitish Kumar at Patna Airport ahead of 'Nitish Setu' inauguration - ANI News",
       "summary": "",
@@ -601,70 +670,6 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar: PM Modi meets Nitish Kumar at Patna Airport ahead of 'Nitish Setu' inauguration. A politics-related story. Covered by DD News and ANI News.",
       "image": "images/bihar-pm-modi-meets-nitish-kumar-at-patna-airport-ahead-of-n.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "pm-modi-inaugurates-nitish-setu-in-bihar-flags-off-100-pm-eb",
-      "headline": "PM Modi inaugurates Nitish Setu in Bihar, flags off 100 PM-eBuses as part of Rs 34,470-crore project... - Moneycontrol.com",
-      "summary": "",
-      "date": "2026-11-21",
-      "topics": [
-        "politics",
-        "civic",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "Open Magazine",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlE3UVQwVUFKektfZ2hPdlBBUGwxekpWY2lBekw2MWg2TlFzdnNiWjVwcFV1cDFGcVFQWUV2OGdHcmtRRFBsQnI4NjI5SXh2eUN5YmtWNmRONzU2WElQUTJIZFdCRUdhcXlqZjBPME1EcE5uNjMwVUl5cFJMdnlpQ2w2dGxyWEdnWTZLN3l3aGl5Zw?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUlJa1JVMnBRUVQwdjdCczRGbDkyLTgxcHhFaUJoZG5hMVd5eWgtbnRBRXNjU0JLM2wwSUc3aEJDMmhsS3F3eW9fWVZTVk5UM2hIWDIzZXhzT0F4OG9IRE00ZmJXN2JXZVltZlVQSTYwZUU5bVhCRU9BS2RVUEREWWVMWW1qNWdQNU4yTWxNUVpDbmR4M25McHZOeDFNblNmN3BjYWlidkRJQ2_SAbABQVVfeXFMTUdQSVZBUENISjRfZnJsUEgwVkpkZXVRWG9rbzFBZ3JvUTNqVjdJU1NDWDVEYWI0SWE4ckk5YXRBZlJzd2NRLWtMRmY2MkFGTnVYWHk4elpWYzA4WnVKeXpIWUFsTFVRQTRYOTdfTXVkVFNjZnkwOVhqdFMxMC1VcFVPSHRGOVdURHRFalhERFdyRmRPZnk0bHBCcHJrbk9OVjZDWENjdER2eGtTanhrekI?oc=5"
-        },
-        {
-          "outlet": "Bureaucrats India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUlmWVhHYUNuMjJWU2xjeEI5TmREOUoxZVptemlpWUowWndGNUlhcUpMVTl4cmFDVUw1YTFHcHpkeFZYV3BvWXdLN3F5dXdHYVNKbDFibWRydXlJM2hlZmhVcWZaVkcyV1FVd0xLclJrNDNESXNOOVY1a0d2OUdxQTdQdERBc1BDT1pCd2N5bGktX3hfcmY5aFJMZ0Y3QU1Va3BUZ190YnA0N3p4aXZ0U0luM25QUQ?oc=5"
-        },
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWEhTSENrbjhoSF9BMFpfRWctcDFpVHpjUFYzUnpXa3FZRURZai04cGdUUkFfSTFFZnBsWkZoMWY5YjkxRnM4eWtmbHR5U2hqOWlZU1pfelVNc0hOSDdjdHlKUl9Jcl9iLXlHR280bnlzYnFtV0R4WHlLRHFDVU9aM3NhZTdlX0dxb1pnZ3JaOXBaNUZ1ZnRMNDMyQ3RxUXAxc0drTTAzaFlGVnVWX3dkSno1Sl9GcXh0Q1V4eEl0X0NKSzBjaU5rWVBYTzVydUFFZncxYS1Kd9IB5AFBVV95cUxQMWEwX1prU0h1YmE4RGtvY3p6WEZ3T2FMNEVaVVFWUWtHYkdsM0hwS1pZVlYyb1RPVG1kNHVING12X0J4ZFo2WlQyNDJ4Ql9GS1cyRHl3Qk5mWmhJV3drYW4tbDJPZ2c0NzJLTTQ4NVprLThxb1hjMWthNV9ud1RLczE5R3lheVBVMjUwTkh0b0FySXROeDVIQkZCZVdFYVdSd1loNFB0YjI0bzYycUhON1hXLWJCZDUtWGRuVzhvT3ZndVhtN1J4eDFmeDRkc2pxeXMwXzk4VE1ybjI1T0d3by1vRTM?oc=5"
-        },
-        {
-          "outlet": "Moneycontrol.com",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMnBfWTBGUWgxOHlKSEVaVElNc2RyUlJaNmdNRndGcW94LXJwTFVXSng5RXJzYlVHVjBJYmZFVkJ1aUZVU2I5ZXlpanFhTUFUWmU1LVBtSmlCc1dsLUlCQzNQQ3BqdkhjSmU4bVJwY1F2bmdkcmFBaVRYOExCNG1xeUN2R3EtZzlIZHFZa2Rub0hvcENkQl9BeEJxNnFtcko0UFVrYUJkQ2hmQXVjVEl3M005b1l2WFBwY2tWcDlBYTloNzR2VEVDWWRaNm1OOTliTWQ3VEhTNNIB3AFBVV95cUxQcDREOUY5MVFNV0toR0FVSE5ScllFbW5kSDJBa2FEeDlIMFZaYmlFZXJVcm1CYzFZWnJxdXdfa0RuTXd2QkNTUkZlY1A2X1AzeW1yRGxoUkNpMnJHU2Y3aDdoaXpqV3ZwWF9tUW9DbjhZWEpGX1VDVEdkd3Nob2hHUTQ3ZU1KWkl0SnJyUFIyQnBSSDk4WkJNZTBYSDQyUXpXa3I0dl9Lbnd4dXAtenZvb1RDTFhkTjItT2h1dkxFdUdzWGtvOFpaQk56TDAyS2ZtdTdQRU5RQ2ZHbkxR?oc=5"
-        },
-        {
-          "outlet": "The Hindu",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDBMYTFPdk1ncklSYzEwMEJlaXNrMzhqNjJGTndfYjB0WE1peWFaNHpkakszemd1RkRiUzZsT1RLNTZYcW1QN09IUjVROVltdXgxbXdhYWZ6YVRxV2Vjd0JRNE5vTXhNdFptNEZGWVl1b0dILW1NQXFMMFBWREhaSGEwenhjVnBNQUwxa05yb05vRXhNb1NUQ3NJczYyNGl5c0lHODVydWNWeU80WnBaUzRZM3dLOFlNbHhRRzlZX2JVMWFzTzZXNHFkZmxybWtF0gHXAUFVX3lxTE8ySzlqeDhBUkphTUFoMEtkcThBdUlWNHQzTi1HcWwwdTRHYWRWY2k3LWlIY3U5TE85NXlTUlVrcExOblFiOS1hN0NEZmRVOHhBOEJHWUZKQi1YUXo0dVVPNS1VVlRJSU10Zi1yM1pvZVo0YkViNHpNTlkyZDIwLUdUSkRHY2FzY29YUEc3Z1JXU2dVdjF6WkNGdEVwLVNZY19aQWRkcmFsZ01NdUtOVkZFRFBHa2lSY3N5ejVsMGZSWHRXcGNiWl9BZEh1OXUwUHFfeTBrajhJ?oc=5"
-        },
-        {
-          "outlet": "NDTV",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVp5MHlCMmVYcDR1QlQxdmNhQ1ZkM21BSm43YXNfTkJLeFNYSjJxRXBfWjhsbXgzTDI2SGtfd1RoblJnNUNSUTRfcGFic3h2bjRueU5GS25FOU5kUl9obUxDSUhJOS1HWnZCMnBudnFlRFV1bEdERXRFMWtZX2E4WHZwSTZ4M1VsOHJmZmxnaDRySXU3V05NQmxJaUF6OTV4Ym5UQ1pGTjJfRjk1eGhjcdIBuAFBVV95cUxPOHN1clhmSE5TSjVhUkNxalZBRXRHTTJNalc3enlyUEJON1JRUnhFQktGeDVkZVJhMlJfaUZPc0UwRXVnWW42MFpzaTBQbzdLQUVGT3BFRnIwUm1fMXBFcFdwdEpHWk5MUU1xVDlMdnl5NXBnVzRhWU1ZNWt3MVZJQkZmZWJlZ1FMQjFtUXU4N19HTFNEaFlZM3hNeGhRUGR5Y2s3NnpvQ1VLOUQza0tEUEF1d1hzM1BY?oc=5"
-        },
-        {
-          "outlet": "DD News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGZXT1FNQjZsZkFuNmFsdzUyLW1UR0szaW9JMVBhNWhOWHE2aG1pQVZxckMtVEVkVlp2eWFzc21OcnkwTUw5ZDBLV0pUbnJnWS1idkRVWTU3TGZmTXpqRmlpekVIMEtzbTNvLUxUTjREcDlsaVNPUXBWeDFPQmNuQ1NzSEhZRmF2ejFaRWpieXBONTR4ZjdtZ21YNk9FU1J5MHBBZDVMV2s?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ3FMN21WNXVJWUtTaGZpYWNucTE4Z2dDT29GWHhjNHU2OW41OFFUSVJEM2pwRk9ROWtjaEl0dlJ3Q3FadHpaYlpaX0N2S1BSUmpMeUF0ajdWMGFhZkU5d09yQXh2QkxwTW5Ocl9VN21raGI3QUhUTTFsV3ROYmVqdFdwZmx4d0t3RmJ4YWYxcl9hZVVOdTVsT0NrOGtvNUlUQWNvbzFnTlNPQWx1azJPUjY3RE8zTDZSVFpkdDVZUzFjRk5keGNPVGJydnjSAdIBQVVfeXFMT0o1ek5XU0pqemhDR0pLeGtPTzB1UlViZVBpLUR0QjFoZFE3aTBGdVFKNm5hbkxpWnRWZFJFUzFXRllXMUlvazZTdEhtbkF5VlRBWkZWN2FscHFtbllEQXdJSVBDdmRfQW9lbjJWanFKQXpDbWFnNDRYVU8yNHBuZGdUVWRndy1pWVhnQWNxRWk1Mjk1cXg3aFRZZzZJeF9RWF8zSGg5eUUxdkVudnlRWjU1ZnMwQ3BwV01OUl8zV2tydDJyNWhPRE9RanZYV3dYUEFR?oc=5"
-        }
-      ],
-      "source_count": 8,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "PM Modi inaugurates Nitish Setu in Bihar, flags off 100 PM-eBuses as part of Rs 34,470-crore project... A politics-related story. Covered by 8 outlets, including Open Magazine and India Today.",
-      "image": "images/pm-modi-inaugurates-nitish-setu-in-bihar-flags-off-100-pm-eb.jpg",
       "image_kind": "photo"
     },
     {
