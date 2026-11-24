@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23 23:54 UTC",
-  "generated_at_ist": "24 Nov 2026, 05:24 AM IST",
+  "generated_at": "2026-11-24 00:54 UTC",
+  "generated_at_ist": "24 Nov 2026, 06:24 AM IST",
   "story_count": 52,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -89,20 +89,35 @@
       ],
       "sources": [
         {
+          "outlet": "ET Education",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY3MteFB2YjJsaWk0dzBuUkNzalEzb1pVSUpuYnA0UGlrZFMwTmIzT3RyUzM2Y2pxbWxNYURTUVhfZ2VDUW5tSkN1UU1VNWRlSkFZZ1pERkRmUXVkNDZPV2d1TkJjTU1IVEVWTlFCQ3liMEtFbFFmQ1FEbnNJRW9RLWlWUHM3eC1mMjV6YmxPY0g5SG90dWRpczR6bGJfZllsVHlva1p3bk9ienVVRC1JMGc2RFYwMHI3Si1JMlY3OEhOdUNvZHBOSmRYOXpTREdzbllnMVBGVTBsRk90UVRwRjZubVJabC1zemJ4aS1jeUVaWE9OSzY4a2YzakU?oc=5"
+        },
+        {
           "outlet": "BW Education",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV21fLWNHWmE1OXJlOTJmSjMtdXBKUU5pdy0wWldXcEhTZk1wVWtrN0tHczYyeUNWYVFPYmRFNm5oeTRJWTdVQk5ldmJDT05JeU1JR2VMRVFQQ0wyU0lwemlMTU5hUF9PNTlmdVFuOU5iQlFtb05DV0YwSGdYMlFscFZfdEZwMHEteHlzdnNZNlNfaVFlNVhJNXRkRmcwNW0x?oc=5"
         },
         {
-          "outlet": "ET Education",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQd1JJaGRSMDdUNkwwUmhZRjAySWctSjl4R05zaWlDR3E0aDRDWWdMRWN0MjRBMzBkbjVMXzV5MXlIXzRBbnNZTnRpU01FbEVZbGYydk5JMjd0aTNrdV80cnhac0xSYnJaQTRKX3QxQVVORVVnWmd0dmpLQmtJcm1MQlhxZ1UxRWlldmxidzRFV2kyclVhdmxYRDBsd3FIR0huRE9iWmFrVG96UXNIbTc4Wi1DQmVoQW1ROG9EVTBpLXppelZ5LVR3Y3l2SHRIRGZSOWEtaWctZlVzQTRGQ2JOUTdza3ZFamxJaU9peVBYN2F0UjhpZkpIUThhOTR4Qk95RlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmJ3Z25DSlNfVm5ZMmdlcXJHNVpVYjRseFJCWUZJUGxfenNBMFRyVkR0ZVk2VENFSUNVSkVyMlBielRMOGRGWEtvOHAzYkZKVUFPYVJZRkw1T2c5Tk9yOENSc0ptdGZ2RnRCRVZjQkFKdi1zUmxjY2JTQ21PaU9Cc1ptOUpTdTRmVThwSmtFaE9yU296Yk1VVzVhRi01ejRsVDc2TzRzVnlBWngzTzZ3YzhHa3RvdDFaOFBWTmdnRHNQTlBCbnQ0bDB6TdIB0AFBVV95cUxPNWFIZWZTNFcyTW15M2xYb3E5aDh6MTdyb0Y1cm5wLXFHOUluWXZiZ3AzY1BSVkFiZkV1QXZ4LXNjbERTWUlnTEcxeURzYVFKRjhOZTE3YlZGYUJNRlk0Z1FvS2trWElZZ245cjFPcnFETVBmOERUVXFMMDFQWUlZeTYtc1FCREdUTm9iNHgxNjA0alFqRmFtVVZPWXQxSDlsdXF1VVRxZ3lwSFVBTmp4Wm83dndNQkxpRTlGRzctN3dYczllZG5DVzlkMzBJdmJ5?oc=5"
+        },
+        {
+          "outlet": "Elets CIO",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVll5bWg3dFUtWTRHaTF6NTZheFpCV0xXQXNqTkk2Y05CU2dHYzl2c2o2S3NRbFpFbngwcEc1ME9ROXBobHE2Z2JwQVVFWjEyOFdna2FtWFdXd1JCYUcxRVliN2dCNjFhYTRUZ0Y2OWNsRzhnOW9oVWZ2T00tTU5odUd1bHc?oc=5"
+        },
+        {
+          "outlet": "Jagran Josh",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaU11V1NJR2JPS0EtanFwb1g1a2JHYU1WcUpRX0Y5OGhIZlBIYmNkUXdLNGlicFdBdXZ6ODJtX0psVVpQdTZmZ25JRWJZalhFMXFkaWpCTU5nS1ljbFNOdGtJN0hCY2xHODdJMTBtZlhhTkV1NV9INm5tQWk3V2pidnZab3VycHdUY0xEVW9mTnVXOEdYODF4SVFDUDB0VVlXSWh3cFdjUW5wSmhaSTlyTkZNZnR5bDZ3dFJxZ0lWdV95RXIz0gHLAUFVX3lxTE9Ia1FjMUNyUUFBRGVJeG84cXJVajd1R0ZIdTVCc2F2LTBlM05XR25rTGlxQnpyako5c0pJVzM1LVFfR25RMDNTbzd5Qm9qaFhPLW44R1JmcGxhYnpJUVk2dlNmWmkyS1E2X2ZuNkdRNFJhbGJ3R2Q2RDBMN1JhM3NsZjRVLTI2VzJhMFBaNDRpMzY5VU03N21TdEg2YUxITDEyVjVTU0VTaC1mdThHNEdjVzlyVGFkTy10Vnh1VTkxS3hYZkVoVHVGWWFB?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "PM Modi inaugurates AI centre at IIT-Patna, lays foundation for Rs 400-crore research park. An economy-related story. Covered by BW Education and ET Education.",
+      "source_count": 5,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "PM Modi inaugurates AI centre at IIT-Patna, lays foundation for Rs 400-crore research park. An economy-related story. Covered by 5 outlets, including ET Education and BW Education.",
       "image": "images/pm-modi-inaugurates-ai-centre-at-iit-patna-lays-foundation-f.jpg",
       "image_kind": "photo"
     },
@@ -129,6 +144,11 @@
           "outlet": "Rediff.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYU8ydU42UzQ1QjNXeVRjMzNOaEFOeW9wRTNmVFdlZ0FKbFBhbGVIaUo3Z1J1YjBRdXZrUVdRclROQ3B1ckdyaXVnOVNHSUpNc1c0RWdMY05ZLUNzZldMUHdBMG9qRVR2cDBYblJuZUVTMXN5dGlyanJ4Zzc4R1Z3SjFTYXVuLThMeVF1djFGVjFuUG50bjc2YlNMOWrSAZ8BQVVfeXFMUEhiUkJsTjBBN2k0MGR4Vk5SeVJwNFVEOHdhMklIXzl6ZkpHZWxqUFZHa2tCNUcxUTBrRWl1U0JGa090RkRvRzFzdlE5NGRkaDdRdUdvaElWSGJWdFJUc21CWWJ6aHkwVi04clhoTGh5cEdoZjlsWHhVMHZOVWNLbTZ2RkR1Q01oeTY4UkZnTUJKMklfblZ6Tmt4SzNBRlJN?oc=5"
+        },
+        {
+          "outlet": "National Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYU1Oa1VuZ3JhWEN3TWxqbzk4MG1VTldUdlZTOUhKN0w2cVpJLUdvU2JBU3I5bVhBcUl6TnczTFRrdWpodkg3SlhfVTA5aVJpWGIzTFAzYW5kTnd2OUVWbFF5MkhnQnVya0xfVEhJT0NBTkRQQkxXQUZSWXJkN3NNelAzX0dWUV9xZ3pmbGNRdVo5bVBXZ3IxdXFJa2lkRm9fVzdmVXRfQ3RzdDE1LUZHZFFTbzBaM3BlTUtHVGItXzIxMVNCRGfSAdMBQVVfeXFMUGJqTXk0bEVwRUw4VFZYd0hRRUV2c3RZQzk4Nzd0UzVoRXQxS3pPYndlUlZoRDdfd2VmZHN1eXg2emhmRjgtYzVoTDdpREo1ejkyRG10U00wSUxKbHNqalZUT2QzZENTNS1rLVVUck5pWlNzS280dk45UVpfRWtVUXpyNUhCeDk2S0lObzgtVV84Mlg1UEphYkxxZGlOX2ZLU011RnM0QzBiWjNmS1hCWWJaTnViN2tlWWc5TS1rTGVXb3VXck1pQkpHN1A3V1Vkcm02NA?oc=5"
         },
         {
           "outlet": "Deccan Chronicle",
@@ -176,9 +196,9 @@
           "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBrU3RPRTYyUUo2RlZBd05UMl9PTkZHd3dZbGpwV19jYnFmdWRVUnpPdzU4alF0QlRMcW5V?oc=5"
         },
         {
-          "outlet": "Court Book",
+          "outlet": "Live Law",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFA3YkN1RkE3azZ4SFRPbEpBWnAwTTZwYTllRTF0Um1PaHZxVTdNcUJ0R1VjbHNPaThSbThsWndpQ0pfVnJRQ1N4VnQ4TDR4V0VTVnhBOWt4cnJyUkVhNkpYeE53eTItajYyeDgtZDJmWHViMlRPOHlEdjRySjJNak5tQldOTHhQd3Rvb0hfY3FLVE8xNzVHeXRDeWJyZEFNQ05PeFdNRS03YUM5TGxoQWF0Y01LWkROblg3ekdrUmJKbkFT?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOMW50OWpsZWItZHprc2JhWlZvR19rUk9TVlR4WlJseV9YdXJUdUJHR3pwTVlzVlpwbmMzd2gxM1cwV2ZtakFtN0tPcXRBMGFuNzVhV0ZKaGFsZWY5ZnNMdmFZbkxWN01meUFVUEVYNkVlTFZfdllnRnZqTUtyYm51NEZlc0ZHbmtLS1hJY2FPa3V0VUpza0xvQi16RVA0d2x3TXZ3amFaSnprS3kxRE9YUlpHSE81TjNCZHhpczRHbXZxMDV3LU1VRnR3OXBRcjhnTDFST0FaT2c1TDJJbjQ5enkzMEFBWmdfZnRjSjdscFFyakdERDJLLTAteTlWcGh5Y1ctMUtmamxXMk5KeEhVLUtKUS1NTkluckc4Um81T2xBRVR0TkEzMUhRTkZaREN1cU1GTERFbWFPalhoWEMySjFrMWlaYzluTFN4SXBfaHVrTnEtVXY5MnE5d3hBX1ZJRWpnUERZONIB7AJBVV95cUxNY2xXUEJSdFRma1lfWnd6RkpvVmZuS2tiZ0Y5T3JISFFDd2lrc04tVlRGVjNERXVjLVVoMWFITFkxSlh6c0RxcHdlX2wwLXBaRVplVUQxdHc1Y1ZuM2pod1hsTHNzZ0RwN2hkU0UySUU1NXhnai16OWp2c2FGbDNrdFc0ZEpIYzRKM19vcDdNZkNDOUNqQ1BoRHhvZmhYOEtNMW5YOXdKcVJ2Q3NoYUtfLTJrbk1mWk5nUzBpbk5jb1lKZ2hWeVA1ZnY0VHVUWS1GZzJDRThuQjVzeUVaZDl5VzdLVkxPdUkyR3Z3MkVNeFJpLXJudXZTNTM5SHVaYlNVdENNMU1BczBLYW1VZ3EyQnBHVFdYWnctVVZQVW92T3FaZ1RHVXFtYkhHN2RRYmdiS0oteUV5MjlvSlB2ajVqOTZJdnh2NlZ6TWV2M2NNQldVWWtJVXhBRGNaWDFXV1U5eVhySjBVNTZJRWJ6?oc=5"
         },
         {
           "outlet": "NDTV",
@@ -186,19 +206,9 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzliVDg0Z3pBa1h6X1BncXBqUHZEa3Vjai15QWxKV1BjWk9ZcUx5XzFpWDU4NWdqSy1TYUFMU1ZsYmV4TDFFem1hUTk4VzhvNG4zQ0htS0RwTE5ZTTJWa0pjbW12aVZiUUo1MFdJU0JfdWsyVlRidnRQSERPSkkxbnA3N0dpZEkyODhyLUtVaHN1VURZR284S3VSbjRlelpwN1Z0dWJYSTJhMXNZajhKUGxmcXZJYXJpOXZsb2tnWThlYnhyRjUtS9IB0AFBVV95cUxNRmRoYXpYRnozc3J1VDdSYVAxRjRsRWZCSUdyTmdtQUswdVRFWDlYZlUtWXhZVDJTZ1FOaUZPWmNxOWlfQTFhenhuZUctVHNYQXFQUXRvRmdacnB0eFRQLWRkT2hNSWhRMkF2anNBelNyOXFPUjUyMnJ3R0NOX0t4TXBNZlBMQzN2NmVQcEdUYmp6OGVJT2VUZHhVTHB2a3VXV0w0MTJDOVZhSkdqSjBIOUhrRDNhTEJPdmdrM1lFZldtVzRxYy1JTWRZdlU4OHph?oc=5"
         },
         {
-          "outlet": "Live Law",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOMW50OWpsZWItZHprc2JhWlZvR19rUk9TVlR4WlJseV9YdXJUdUJHR3pwTVlzVlpwbmMzd2gxM1cwV2ZtakFtN0tPcXRBMGFuNzVhV0ZKaGFsZWY5ZnNMdmFZbkxWN01meUFVUEVYNkVlTFZfdllnRnZqTUtyYm51NEZlc0ZHbmtLS1hJY2FPa3V0VUpza0xvQi16RVA0d2x3TXZ3amFaSnprS3kxRE9YUlpHSE81TjNCZHhpczRHbXZxMDV3LU1VRnR3OXBRcjhnTDFST0FaT2c1TDJJbjQ5enkzMEFBWmdfZnRjSjdscFFyakdERDJLLTAteTlWcGh5Y1ctMUtmamxXMk5KeEhVLUtKUS1NTkluckc4Um81T2xBRVR0TkEzMUhRTkZaREN1cU1GTERFbWFPalhoWEMySjFrMWlaYzluTFN4SXBfaHVrTnEtVXY5MnE5d3hBX1ZJRWpnUERZONIB7AJBVV95cUxNY2xXUEJSdFRma1lfWnd6RkpvVmZuS2tiZ0Y5T3JISFFDd2lrc04tVlRGVjNERXVjLVVoMWFITFkxSlh6c0RxcHdlX2wwLXBaRVplVUQxdHc1Y1ZuM2pod1hsTHNzZ0RwN2hkU0UySUU1NXhnai16OWp2c2FGbDNrdFc0ZEpIYzRKM19vcDdNZkNDOUNqQ1BoRHhvZmhYOEtNMW5YOXdKcVJ2Q3NoYUtfLTJrbk1mWk5nUzBpbk5jb1lKZ2hWeVA1ZnY0VHVUWS1GZzJDRThuQjVzeUVaZDl5VzdLVkxPdUkyR3Z3MkVNeFJpLXJudXZTNTM5SHVaYlNVdENNMU1BczBLYW1VZ3EyQnBHVFdYWnctVVZQVW92T3FaZ1RHVXFtYkhHN2RRYmdiS0oteUV5MjlvSlB2ajVqOTZJdnh2NlZ6TWV2M2NNQldVWWtJVXhBRGNaWDFXV1U5eVhySjBVNTZJRWJ6?oc=5"
-        },
-        {
           "outlet": "Bar and Bench",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnNyMkdkRWE0V1dGaVJsajl4VWVIU1ZjeFNwekZWNGRqNV9VeFpXR1JTb3pSb1hDb2JMYTlIZjZQcmJEUlZ5SHcwcndBNFVtcFItWTdSSGRYa2lEelNXclRXbS12b3ZIS0hmS01ycWR1QXh0TFpSaXFZVmZ0TVQzOHFOaURURmc1WHZZTnduMTktWTB6WjZRLUZSWXhsSGxFYkt4LURURWxIY3R0OUlsbEdmenRiaTdNN3pHYtIBygFBVV95cUxORjl2ZkJQTkI2REdSbmNWbGFfbEU2bmdMNF9KaGZvZ1JGbUt2N20wb18tMW9wVlVsRUo3a1U2N1gyM3E3T3lfbHVtWkJWcU9sNzZ3T1o0V2ZJdWI1UHJxcjRUQmtSTVpxWTBJVUlCOUlUc25MSUlaYWgxTlBxWnpLbVVrNVNYNFNEdFoxY1FPOWJlMnZLUmFJSUVwUWRXMnMwenFYdThsR1dzSmVxQl9CRWtYOFR1eEowQVhsQmRiTFowYzRmNjU0T0N3?oc=5"
-        },
-        {
-          "outlet": "National Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYU1Oa1VuZ3JhWEN3TWxqbzk4MG1VTldUdlZTOUhKN0w2cVpJLUdvU2JBU3I5bVhBcUl6TnczTFRrdWpodkg3SlhfVTA5aVJpWGIzTFAzYW5kTnd2OUVWbFF5MkhnQnVya0xfVEhJT0NBTkRQQkxXQUZSWXJkN3NNelAzX0dWUV9xZ3pmbGNRdVo5bVBXZ3IxdXFJa2lkRm9fVzdmVXRfQ3RzdDE1LUZHZFFTbzBaM3BlTUtHVGItXzIxMVNCRGfSAdMBQVVfeXFMUGJqTXk0bEVwRUw4VFZYd0hRRUV2c3RZQzk4Nzd0UzVoRXQxS3pPYndlUlZoRDdfd2VmZHN1eXg2emhmRjgtYzVoTDdpREo1ejkyRG10U00wSUxKbHNqalZUT2QzZENTNS1rLVVUck5pWlNzS280dk45UVpfRWtVUXpyNUhCeDk2S0lObzgtVV84Mlg1UEphYkxxZGlOX2ZLU011RnM0QzBiWjNmS1hCWWJaTnViN2tlWWc5TS1rTGVXb3VXck1pQkpHN1A3V1Vkcm02NA?oc=5"
         },
         {
           "outlet": "Telegraph India",
@@ -221,10 +231,10 @@
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXFMMUxOaEdxSFRUYTYtMVpMTFBkUUJxTkQwaWtTNGptTzNCM2RLUVBCQUxtVFFrcnBjeWNiZF9TUm5SdURZOW16cHp2UGdiNUhVY2MzZEsxYjhxdW8zSFlRd29wcDc1UmhZLXdVXzJpa3YzbDlUVzdXNjJsVFBZZzNlMHVLdmZielJhTHZJcmtRaElybGptQlQ1QlpqZzZad2RVajNmcFVBbHlZT04zaUhoOXdleGFJU2NVUFQxdXExZkNwZkp1UEt1b04yTWNyU3hXdks2b9IB3AFBVV95cUxQM2JmZG91aTNHd2NiWUtMR1BydlFkUnp1U3Q4NmhlSDhxVUpRUW9VaENtLUV2ekdJME9NSjVwbl84MHlLWGkyUENqYi1PMWM4dVprZnVjeWVWR19LRGxKd25jQWJFaEw0U0xYM0poRGdjbUdZQ3huMVFDQ0VZYUJHOEVPSFRfQ0gzSHZIc1RyZTZPdFgyeUpRMFZnRWI5cnB6Tk5KQWlHY1RiN2xiSGhJN3JHUzRIS2tEdGdkMFhZYlBQTEFnR1A2Njh2THo5MGlKLXM5NnJfaGx2TUN2?oc=5"
         }
       ],
-      "source_count": 21,
+      "source_count": 20,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "'Don't Act Like 'Bahubali' or 'Robin Hood'': Supreme Court Rebukes Bihar Judge Over Conviction Of Police Officer. A crime-related story. Covered by 21 outlets, including The Hindu and The Times of India.",
+      "brief": "'Don't Act Like 'Bahubali' or 'Robin Hood'': Supreme Court Rebukes Bihar Judge Over Conviction Of Police Officer. A crime-related story. Covered by 20 outlets, including The Hindu and The Times of India.",
       "image": "images/don-t-act-like-bahubali-or-robin-hood-supreme-court-rebukes-.jpg",
       "image_kind": "photo"
     },
@@ -387,23 +397,18 @@
           "outlet": "Construction World",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2Q4WjlxMC0tLVV0cDlGemd4RUVuT3FzMmdWQjQ4aFVYcVppNVNqczBsM0JUTVRyRzZGT2xuM25iaEV0T2g2M1VQa2xjc0RTYW1LVVJMUmdxUlRtT1kxa3ZwbG1XSkVycnZoT0R5UWFUcklaWFYyZ3kxNTg5ZGV5VWk5NkhfZTNlRWg1LW5PNzYzX0dUM1dSb1JkaWdiajE5NlRDSUp2WXJWUEktNzNBYWFmMUxtVDhYZS13QmdfMXRDNXV6RVZ2TWpzbkFBWS12MHF4UnJTRXo?oc=5"
-        },
-        {
-          "outlet": "PSU Watch",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDFOT2NnRFkyby03R2NOY3pzY1RkWHoyUXVDZzcwRlFETVNEVnc3M3ZqRDRDSEdXS2wxdlRQUUwtZlh1Z1czNGdWZkw2Ni1uM0Y1N2E0b1BoaTM4YkRCUmpxR2lHR1gtMGlEbV9NUjRzSmNWU3RqT0NfUUtWWEQ4TkhUUGkwSFgxMXNWbmRBREE0SmxxTGNJZ3k5ejJESzUzX05sb3BEeF9jbmx10gG6AUFVX3lxTE03ZVNhTmJpaDdxM1lxVG81MDRabWluenR4elVRM252N1NrWXVTX2ZhclEzQkNESllUZDVtNl9TbFJ3TWRMU1otYUEteHB4M1RFZVc0RUJIS1gwVXJxbnVKVjNsdW00cXpvOUdTVjdEX0otemhlbXBGOElTVV82YndLQ2VqbkZtTzE1enFJejBxMlBkbHNLc1JySkVvNzliNTVSYy1TQ1BoRjAzVWRySWhGbHp0ZVhkakJTUQ?oc=5"
         }
       ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Adani Energy Solutions Acquires 100% Stake in Vikramshila Power Transmission for Bihar Project. Covered by 3 outlets, including Kotak Neo and Construction World.",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Adani Energy Solutions Acquires 100% Stake in Vikramshila Power Transmission for Bihar Project. Covered by Kotak Neo and Construction World.",
       "image": "images/adani-energy-solutions-acquires-100-stake-in-vikramshila-pow.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "amar-ujala",
-      "headline": "बिहार: पटना में गंगा किनारे चला बुलडोजर, सर्वोच्च न्यायालय ने दिए थे अतिक्रमण हटाने के निर्देश - Amar Ujala",
+      "id": "31-dainik-bhaskar",
+      "headline": "कार्तिक पूर्णिमा: पटना के 31 घाटों पर गंगा स्नान: कंगन-दीघा घाट पर सबसे ज्यादा भीड़; कई जगहों पर ट्रैफिक रू... - Dainik Bhaskar",
       "summary": "",
       "date": "2026-11-23",
       "topics": [
@@ -426,14 +431,19 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkxOcHVXbW5UMjZLVTdvZVc3bmtiYlR5X0ZHbHdqN1Bnb2ZuMzNtaV9VYmwyRzZyQklva01GZi1EOHhqNHZ0Qk1sTFFqOUw3QlZRXzdjdVYtTFYzLWhxN0N2MVRPYzR0anlmVzVvdUlzQ1dHdlhuZzhGdmxkZ3BPOGgtNHh6MGhNR0hkbFJQTFpXNFoyYy1BVGl4NExRaklWODdFOVFCUmNvU0FJZG9nT0c4NzZudGp1S0840gHAAUFVX3lxTE5DN2VvNDM1Z1h2MC1UdkVLcG9pdDRFbDRsSlZnZERiNU93VGFXRF92WHV6VW9BUHUtTXpDUXllY2VVdHhkZTdVVEFwYm1WTU1TTGtWUndzaVNrMmxwdnQzWlM1T05oSWlWWEdSX3BqbFRxekYzeXhkY1BLLXAtM0lLdHFvMFk3UnFfZGZha2NQWE0zRUZrZEFqb2RYSE5DTDg0a2tpY0NZN1dOdnRBUnEzdE5wNG9NZ0taMVZrc0hxaQ?oc=5"
         },
         {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlBOemVRQ2hCdWc3UnIxSVFFUlFZbDFlQ0s0bjhBVnlDb21hQnA0VUZIMHFUeXRhQkl5WG83V2pGNElUYmU2RDFPX3BzY3h2Qk9OdHFRb1MwNGdYRWt0TGctUk83QjFLeDBEZXdjRjRKOW5KQ0M5RXEyc3JLYWVvbGw0LXdqelVrdTlWOTRMS2RJbWotTmgyTW9OQ0dVY3JVNlZZS1hXRXRnVkgzSzVZSNIBtgFBVV95cUxPbDdEejhzazBhczRyNzlvUFQ1OHp5cUxPTjRJb0M0bkdoNXBrb3ZRc1ZBSkh4cDlrWFVzZ0RDWlk1bFRjX1YtM0lYcHhUUU5OOGtWTUNFUlF1bGFQYmt1SjlVVVdqR3htc1NCaWVNWk45VUk2Q1J4WXA0N2I1QUJlZEhmem42Y3dLUmFyakJYVWZ1UHpDV1JaSXlSc1ZLdXJkSGNKbEo0RTE0MGptVlQ4RENIZEt4QQ?oc=5"
-        },
-        {
           "outlet": "Prabhat Khabar",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb003VHNrc3ZrV2ptT1I2NjcwNnNnaVI5M2E2c3Fhcy04ZThtNTJaeWJFa0lNdHNxZlczT3NvejV2TmR1NHdzcWNOQllDSFpJLW90N0RMc3ROelpObWppWk8zVnhsMlIybFB1QkVGbGtpcmFkQ3lhcE92dEJydFJBSXBRTHQyanVLNHg5dmkyV2ZpeFNEVEJBUTRRTXFHWXNBOHfSAacBQVVfeXFMTk9PSkhlZ1dQVlpfZTc1WTNmTTNGVFNWWGNTSmJFT2lBbzh4QUtfYXRKWWplQUlpOWttTkJpX0xoNVNTcGJad0Fxek94T2w3Mjd1TGRCOFBmeEpRQzBVNXVoVTNHR2pJUmJuZmtwaVhMOUVQTG54dUdFU3B0WG5SYUZZVy1kaUhxX1JtZXBzWi1FX1VlazZFZVlrSVB6dHNjNmx0YlRvZkU?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDdmUkRNa3NVa1QxT2wzZjRnanlBRm5pMTBEY0h1YzN1YVNtdXp2MFlRbV9hcjQ1WEx0Q295akpfbUFsR2FGMnpQd1RzbHlfTmtVdldiNEx6MUpEZ20tN1hra2FhUnZpX0QzNjF0TE5NbW1DMzFnb3JIazhBVVdEWlBnRWxpSm9sSlJSV2w3cVdnaTU5WDRHOGhENlIzdW1md0I1RENNYzh2QzRzLV9ENVJpckJyOUxRX2VpcmlhWVBTcDVR0gHKAUFVX3lxTE10Z2ltTHRzcUVBMEQxS1Z4N0xZbl9UVkRlVFFoWG1kMG1YWVNZVnF1OFhNOC1WaTFEcThpeFJGanBYTnJST2x4SFQyekVPY25rYW9fUWZ0TDI4eXN2dVZUNXd6SEcwM1c4cFczY0xPNTRQcVgybXlhOTBldEVybEdHSFNtUTF3TkNCMnBwenNkeG5CRklzaGRMTnhOUXF2OFBuVVUwb3Z5QUhGeGVtRnBjTFpoaEo5SGlXREdwajFoQ09zZENLUWNkQ0E?oc=5"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlBOemVRQ2hCdWc3UnIxSVFFUlFZbDFlQ0s0bjhBVnlDb21hQnA0VUZIMHFUeXRhQkl5WG83V2pGNElUYmU2RDFPX3BzY3h2Qk9OdHFRb1MwNGdYRWt0TGctUk83QjFLeDBEZXdjRjRKOW5KQ0M5RXEyc3JLYWVvbGw0LXdqelVrdTlWOTRMS2RJbWotTmgyTW9OQ0dVY3JVNlZZS1hXRXRnVkgzSzVZSNIBtgFBVV95cUxPbDdEejhzazBhczRyNzlvUFQ1OHp5cUxPTjRJb0M0bkdoNXBrb3ZRc1ZBSkh4cDlrWFVzZ0RDWlk1bFRjX1YtM0lYcHhUUU5OOGtWTUNFUlF1bGFQYmt1SjlVVVdqR3htc1NCaWVNWk45VUk2Q1J4WXA0N2I1QUJlZEhmem42Y3dLUmFyakJYVWZ1UHpDV1JaSXlSc1ZLdXJkSGNKbEo0RTE0MGptVlQ4RENIZEt4QQ?oc=5"
         },
         {
           "outlet": "Jagran",
@@ -458,19 +468,14 @@
         {
           "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTJiMUs5WF9La2EwdjlQZ2RqMEJyYlhqNHdqMTE2dmotMXFYd0hkbUpaNGdMUllpUGNxUFRkNEJ6eHp1aVU3RW1sSHY4dlFFWWUtN1lYQ2FLZnhnbTdfZHNVTVVMRi1QeDZDeFgyZUczV2lqNzRfa2tFVzhiVktUU3BET2w1dXVmLVVxUXloU1ZkV0nSAZgBQVVfeXFMUDlBUEhMZG1UNVlFSW5iVi1uSDQzQWR3RWxJTXRLdnpoelFNdDBTNUlDMWdVOEFnVnNMdHF5SGN4Zzh4eGw4WGE5MjRZNmJNV1B1d28wRnNBOENpR2Z2bkVlUGd4bmRBMHZZbmNKYmhsbXktWW5zeDQ2emJDVnRISE9ZZHEtYWFJcHZPdi1qSXNiYUNxYUdkcGc?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTE0ejBYd1FSaFNLdzRnUGlrSjljWEVIblltNFVTOS1iWTU3TS1mdlp6U2tmLWlnOTRnRlZlQkxYdWRtZVkzelE1UGNGZEtQSS1ocEtsTGVZWWxFcGgxLUxyT09yRU1ZUHZyQzZ4eDItQmE2bUtwVVlKekdvZnpVVEZBQ1l5OW1VYzJ0U1M1OWcxUzNCamo4S3NBM0ZqQURIS3pHSEgyWF9yNFlzaGMxdUIyNnlfVjlVVlo4NmJR0gHDAUFVX3lxTFBNb0V6ZEN0dVJmMVg1SFJPUGx5Ni04cGRzN2hoX2Fjb3ljUGdkNy1MVzNUV0F1cFR4RHAzZkVqc1pMSUNCdHZzM1JjLUhjV1BYTTdtTE00eHhuMFhIMFVFTC1DaFB1a0J4SzhzNV9fZGxnTHh4Y2JENnVFYUZCUDVBMlVaZUprUVF6WFE5cEViSF96OGtQNjVVNmhzT2FLSVFhQnFaQnhqai1ibjZZTWN0a24wXy0yNWpESS05ajlwQ3RwTQ?oc=5"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "बिहार: पटना में गंगा किनारे चला बुलडोजर, सर्वोच्च न्यायालय ने दिए थे अतिक्रमण हटाने के निर्देश। इसे 5 मीडिया संस्थानों ने कवर किया है, जिनमें AajTak और ABP News शामिल हैं।",
-      "image": "images/amar-ujala.jpg",
+      "brief": "कार्तिक पूर्णिमा: पटना के 31 घाटों पर गंगा स्नान: कंगन-दीघा घाट पर सबसे ज्यादा भीड़; कई जगहों पर ट्रैफिक रू... इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें AajTak और ABP News शामिल हैं।",
+      "image": "images/31-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -506,8 +511,40 @@
       "image_kind": "photo"
     },
     {
-      "id": "198-8-dainik-bhaskar",
-      "headline": "पटना में खराब मौसम से लखनऊ डायवर्ट हुई इंडिगो फ्लाइट: पुणे से जा रही थी; 198 लोग सवार थे, सुबह 8 बजे रवाना - Dainik Bhaskar",
+      "id": "dainik-bhaskar",
+      "headline": "पटना एयरपोर्ट पर पैसेंजर्स का हंगामा,फ्लाइट कैंसिल होने से नाराज: आधी रात पुणे जानेवाला विमान रद्द हुआ; यात... - Dainik Bhaskar",
+      "summary": "",
+      "date": "2026-11-23",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "News18 Hindi",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXFmNjZOVWJUa1RMSllYUklLWktFQ3hsSEdXcGs5N2JHNFdvT0diSm9TMUtOUUp1Ykt5QkQtbnRKSXFKVEE1aW44RDdLY1FrblFiTXlNZTNsT3g3SnRzSW14S2ZFQ1NnVXNQVXRhNUtZRE9kdnVQZXdjWUxhVlAyd21oZ0JKcjFFRFo0OGNXUXVZNlRuQWs3eDM0ZXAyYzRkODVPQndhQ0ktMGRyVk85aGlKT0Rkb2R2ajN30gHAAUFVX3lxTE1rVHdKcjl3amg0UjFYTUF5bW1ubW9WLU5VYmhvUDkzWGczZXNOYm1nWHB2VVEtbDZHQU85MG5PVkFKd3ZIblNzVVY1SHZKb1dnV0dJMnZyNkZGLW1hQlpvYzMyQVBCbjJuZldHVE5jVmI5QnNnREJyS1N0dXdreWFSaGZTdkY2MEF1Q1VtdXRFZHdMTWlvUjdWdlVjeDd0Q0tZbWYzdGh5aDJMTUQxbVFhMmNUVndjNmtqUHlicWR4Uw?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2pvbzdPc1hjX1FOcC1HNnVLWFJyTGxCSUVhbnlDTlBzQTlxMXVqTzZ5eXdXTlZGeVhGYV85cWVRS1dzQ010T0NPM0dRUXpVV3hIWjZudDJ1TzJOcjdlQ3RINGFmQ1p1ejZvX0psV04wMU85OUt2TDF0NmNaaV92bkRKYnkydWR2WWpRUzRSZlh5dWYwMHRMOUozRFIwZDFuSkl5QlJqZTJEZGkwN0l5a0EwcmdUU2xScjRoUVBUR3p4SFHSAcgBQVVfeXFMUGRFQmZzYkY5eWdmT3c0aDVRZDRjWXlwZjlJRkJvWEtrWUlBTnpmRWJsWnhtWWVlQVpaWGUtXzJEQkxsdnN2bVF2bEdzR2R6VDhCVUJkM0ozRHlJWmZZaWJVajc2N3I4ZzVzY01XbjA0d3BTbGNKNzBNYVFiaXViY1R6elN6aXJVV1gzendyVElEVUNjV2l0Uy1FZmJPN1I2ektnLXBvSm13N3FGRGdNUkRjazg1Q0JIZ1E5VEctNnBLYlBMSFNWbUM?oc=5"
+        },
+        {
+          "outlet": "Dainik Bhaskar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWhISmJSeVdJdXJEdzRhaHpFdnFzUnJCa0NXRHhxekVpOUtqUGR6UmlIaDhqTVNfaDNoWWdYeFZVZXpiSTVpSW1CZG11eG55aEJHNy1ZTXhHbmh6X1F5REx2OUtlaXdUMUtyUzByQjFvZ25ja1JBVXpPTjZDMEtHcUIxWW5EelV2aHB0SEdtejkzZ0dDWndUM2F5UjFkRFRaYWpsZWNwZlUxRXJXbmlrZ0RSZVRndWdkdi12SkEzUVXSAcYBQVVfeXFMTnFUZ3BSaXBTVU1zOXZhSk9oMTZRcm94S1F0V2Y3cEpmdEs0VVA2VW92amE4dXJhc0RjSnA5LWtEMGVXR2ZJWTlXM2ozVVNfTFdFUFZJenA2S3NxWVRGSkVMeDlhclBmNkNQdk9WN3ZNVjBQdmVaaVh4YnMtQjV6WE9kT3JpUGdORUMtUFJIbTdqZC0ya1V0VXI0eUNhT19XRHFyRUZVQkotSnpFbERScFo4aHFqdVdtclJSVTVZTEVEakthemRR?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना एयरपोर्ट पर पैसेंजर्स का हंगामा,फ्लाइट कैंसिल होने से नाराज: आधी रात पुणे जानेवाला विमान रद्द हुआ; यात... इसे News18 Hindi और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/dainik-bhaskar.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "jagran",
+      "headline": "पटना एयरपोर्ट पर आधी रात इंडिगो की फ्लाइट रद, पुणे जाने वाले यात्रियों ने किया हंगामा - Jagran",
       "summary": "",
       "date": "2026-11-23",
       "topics": [
@@ -523,33 +560,18 @@
           "outlet": "Jagran",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmJNVmZWbmJ5czVHQV9WQ1RVVDc5M1Zoc0tBRk9EeXR5T0o1WVA4Nnd6RVMzTDc2QkRIOXhPc2QtWmZLNEwyYnFVVDRnZkNIYjhsbkg3NTI3djlXYmo5SEpMdlFlbXRVdDIySS1fa1g4Z1pLZ0k4ekQ0X01Tck44ZlZ2WTlPcGlUSy03eWdCam5KSXZzRVpGSUZQazQ3cHJTSWZPZk4zMURBcGVadkE?oc=5"
-        },
-        {
-          "outlet": "Amar Ujala",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUxudm91ZGE4ck13UDU0cExsdUwxcjg5UzFPdjNtZVZHeExsVDJOWlhfMktaejFrN3dlaGN5cWFwZWgzV0JFdjdZOVdPRVJrRGxfRFFnS3QtVjVsYlQwdHVLLVNwR0ZEak91bzhCQlQyaW9RMzlCTjZra0NOcWk3WXktVWNrNVpqSXgwMl8tcEswTmh2Y1VDcnVibWEwRWJYWExob2FHNNIBrAFBVV95cUxPeVdrd0Jha08xbFhQM2s0WGN2T29qT3ZCOW0xSVlBRUhMa0p3RjMxY09PeUdGaW1TTF9sOGF4MnpmeWhDNkpfbEtoVjhVejB6UTNrT1JoeEpLTEVEdWdFOTdCamk3cGx1TElHQmlMcmZ2ZEJDakpscGllLXZfVUFyQjh1SUNIREo2QklyREduczVNSjdWNEhLQV9BY3FYQzdLSGs5Q0MtN25kdS1s?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdXBCcTVwQkRQMUlmaXVaTE96U1VHbUthODJ6WVh2eko2MHBHOGJGYzFKM2RnZXR5MmdiYmd6NVV2NU56SkhRczlFSDN6TU9GY2JEcm5acVNJY21wOVhMVzNiWGVjSzhiVGdJUW42UVl6RDNsWENqdzNabFNNQnNfZ1ZSZjhOSTZOSUVXdlAzSlB0bmVMZFhQb21lUmxqTWxpYlZpME1pcU93c3o5S1R2T3V3eVBUY21tY1E2VFFNY21OZ3VVYW1pOEhUd3JjeE1fUnI3VURKOEQzUWc?oc=5"
-        },
-        {
-          "outlet": "Dainik Bhaskar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVhQTUZUWU4zOGNDdG1GWndGY2YybzhrZjZ0V1BURzZCV1oxQUM2U2g4NFZXZWxLdElSZzktRU5Rbk9TLTYtQUhIOEoyQS1OTk5FWk5xWEhHQ3ZVY0g0YkVVMTZRTS03Y2FOd2dQanJNWUJzeVVUVmlZT2N5azByYmFXT29aMmtEa2ZHZ1hWSmw3ajVVcUxhRTB1dklFSEg2bm5Iem02V2Zwd1ZocmZrR2lvWUxFUXlxVG1MZzF2N1VLdEN5TURDWkZn0gHPAUFVX3lxTE52dmFNN2d0QlpnUlQ1NXBkM2FTMzFSMjN6THpIMU1kUVVhM1V3RWdfSFktcUl3ZnRqSWVZS1MtY0twYnB1ZHVRdVdUN2tIczVmellKZHZXdnFNOEVmeWpLT0VsLUQ5cWsxR2FXVUIyX0dxNHB1SDJydWM3bHVTS0dxSlB4c0luWEl0dkR0aEZhTFZWQ2ZzR0ZNMEQwTDBnVGRXbWo5em5ONzFmaUJOZ2dYeF9oVlgteERoT2xDZ1lpRzFBQ3FzSjhhT2gxZGxWMA?oc=5"
         }
       ],
-      "source_count": 4,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "पटना में खराब मौसम से लखनऊ डायवर्ट हुई इंडिगो फ्लाइट: पुणे से जा रही थी; 198 लोग सवार थे, सुबह 8 बजे रवाना। इसे 4 मीडिया संस्थानों ने कवर किया है, जिनमें Prabhat Khabar और Jagran शामिल हैं।",
-      "image": "images/198-8-dainik-bhaskar.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पटना एयरपोर्ट पर आधी रात इंडिगो की फ्लाइट रद, पुणे जाने वाले यात्रियों ने किया हंगामा। इसे Prabhat Khabar और Jagran ने रिपोर्ट किया है।",
+      "image": "images/jagran.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "jagran",
-      "headline": "मुजफ्फरपुर से पटना, दरभंगा और मोतिहारी जाना अब और आसान होगा, जल्द दौड़ेंगी इलेक्ट्रिक बसें - Jagran",
+      "id": "nh-30-maner-news-dainik-bhaskar",
+      "headline": "मनेर में ऑटो ने बाइक को मारी टक्कर, छह घायल: NH-30 पर हुआ हादसा, इलाज के लिए पटना रेफर - Maner News - Dainik Bhaskar",
       "summary": "",
       "date": "2026-11-23",
       "topics": [
@@ -557,21 +579,56 @@
       ],
       "sources": [
         {
-          "outlet": "Jagran",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaExjNVBBM20tRFlGb2d4dC1DMU91cHFvVHdCQ1Q4ZEV1ZnBaaUpRSk14Y1ZiYXhJaUlRZFZmYi11UllTLTJQMjRWcFJqWm84ZkVqc3h4NlNUX2Y0aC0weHFDWWZaQ1N0NzJ0SHhwYTR1c0MyUUNQdW1ldDFLdUJtcklpaTNVV1ppUlJBa21vT2UtTWJTN0RQd1kweVdyQlNaUGkwVXFLNS1XbEFMNk84bmwyc1NudFVmenR1ZlNtWTE5NG1CdjNoZFFfdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM256eF9BWXZoQ21BNWJwc1dfVEhSTVRLUXFKNUFXV0J2QXcyNG9YNHBXZTdZcTRxSTdnMWxrR0ZrOXpySXU2ZUYtOVVpVy1hSG1waWQ5SlVEbWZCaVhtcVZONzllU3JFSFg0clk1X3NWZXp5VW00ZzVldlY5a3N4Nk51NDVacXJHNzM0dlctYkVJOEh3WUl0bTNWQjPSAaIBQVVfeXFMUHlPeU5VTVptQ2dkN3hQV1JyTzU5RFBxRzRXbWZRMmhWdW52NzVYT2J5eEFhWGxxZDV1X24tamxiX2tick9Cdm5BQV9SSE9tRjEtaHQ1YmtfRWlWWTU4ZGZGWTVwMzNHYVdxb0tqYW5kTEpDN2t4M1ZseEhYVnhTdVlzOXJqSWFhbG5ZME00SnYzVUFaTC1tOWhaRkN5NFUyZ0ZR?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVS1OOElGanlTSzl3MWV5N2pUZDRMcFkyZ3VrVmxncWt5RWdUTEtXTmlHSksxcHlFQUFJQTVERVZxT1lycGRuWFpVUi1oQmhTMTlEWVZkLVNIWk9KRG9tV19ja3FLRzdJNU1Ra3ItRGhwSEM3enYxQ0lKMDAtQkdBb2owSEwzT3g4UFhGSjNJcTR0Vl9jNW1NeDRIdFZubkczaEd1UU5uaTBzNy1Jb0prc05fMzZ6aGkxU0ctdtIBwgFBVV95cUxOM2hBTVY3SnlIMVl1cC00SWJiWHFKdkd5ZHI1MnMxZmpCbFI2SmpibmZEaHZNdjBxVHdub0ZySFZ0RXJHamxJYmtYTlhEVzhPZklDMVdPYkxNOWRpTmFRQnV2VVYwMXNNQWZ2MkVOMld5dUZqNnUzRkloTkhEdTRDY2tjRlVrbjVSWVNmNmE2ckxGSXBuZFhpbUZmRFZCMHFhTEpxQ0Y5SXBXR2xXSFVQOHlZaGh0dEVpbFl4MTFEVmZpdw?oc=5"
         },
         {
           "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTZZQ3lpQ1hCdXY4R2FQUGdRN2JyOExhY3JsSVRwQmRRc251cUZCdHBKYnFhZ3dXU2EzemFJcHFRYWlmT2pXVXhFQjV1NG5lbjV3TUtmWU5NamIzblhxU3BOSXNVYVN3bnVXN1VGRFhpV29uYmtSVjBFYVJRRlZuNmNiT2J2ckRwSjdOZFhURk8yaG1oZGFtazZJUVFWQnJxbWw2YUFiS0JvOXdoZmo2aWxiV3BEMlJXLWNRZDFoWXNyZVdCc3ItYU1tZ25GMHhHc0Fr0gHYAUFVX3lxTE53TUJnNm5TRHpURkFldEJCLUljcHFnZVg0SGhQNG5SWExFOWpMUFg5ZUdFTFVheTVqaWhQU3JoWm5RcnUzNTltWV9DY24xMS04WDM3aVVNajljNHkxam5qUUpOQTNtdFhaaEstc2VuaVBGV1U1bDVHY0xzVWhLandoLTJQandOV2FSRWxjZFVvODJTQnNVSlIwbTJLb1p4U1NBc0pKa2ZYV0w2bld1NHFHZmU5NEszSWR4dFU1d3hYa2tBNjBINENGaDF2RzJnaWlEVmstTl9LeA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTzhPSnp4LVFfQUZIVWlzSmZNMkNuS1RpLWhRT25fX21jWTFjOE5JMXpGVDZGRFd1ZG1nSmQ2cmxiY2d5Y0MtajVwaHJYT0NnMm1mNlVJVy1uNmVvWTFBNlI1QmM2Q1NlS3lhTFU0VnRHTlZGWU00NU1LNEF1MWFtSEE1djJ0R0gzRXpacXN1c19MOWFVbk5sbVhMcTlXMnpKN3ZTRlJtemVTZDJfbktobmE1TmUzbGpXOW1mYnBtczRyWi1jZlJ5M2FzQTZPWDZJRjNEOFBn?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnpidnIyN0N3VmE0Vlh1XzRjVjF0bWJFWjNNVDQxbFloOTc0QmM4VUY4NkxIVm9ZZ2o5d1cwTXBWejR1bVV3RGtGMnhlOWhnX0hOeTRjTnVXOFN2cDNQVEx5d2tIRVBwYnp1X3pzc0NuVEE2eW1KR3FWeTZGWkF6SDU4cDR6YV9WWUJGMkw0NHVrNkhweHBaZjNacmdPUW1WajRqaGFDYTFyck1rLVlEc042b9IBuAFBVV95cUxQR3RGdUNXVF9KWkotV0puTWVrX25wdXR4M21sbzgwbTlHSkNIeExycVVhTHFJSy16TVF2cFJlZWJ6aC1ncEVhUjdrVWJscmtLZ2h2R09aSjRHZ0tzU1dyX1dqOEZoUEJuV1JKcmp1dGdiUUZwSHZjc3Y3anNlYjZXNVVNYVMwSFZJU2tBMnZnMnFZbUNPdHJVelAya3QzaVhpTWxfRjJsXzVINWRzOEtqMEtzS0pJZE11?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV29GTTVfN3ltVGRFdGlWb2wtcjdtUjBuVmU2STg0VW5kQlpKRC1KbGtzWXFkaHZIYmR1ZUdBdXU0TXR6TVBrZG4yYUlhTTM1WTJZX0xMYUxjX3lkNG5KOWJidGVDeUNGM3NObXJRclZzWHhqMGoyZ0I0SzBkeU9XYUNXWkQ3M0wtNFhhWXpHYUd3MHpsOXBTVi1WZVpmTTjSAaQBQVVfeXFMUEZnQnVSNnZBeGtTdlpQYzVoeHVlMlhLeTJkbERUZjEydkpGdDFoblMzc3h2dXk5d1JsbGdscGhXd0lBeS1ZYmNfcGFoRElPd0ZxNS1SSjZQRHhIRTlqT0djSEpZWEhILUtQbUJiZUJMZzlnQXhRdG53VnRhN3kyRHljUTVKWlIwb0RMX0lyMDZpRzJ2UnVuVUJwN05kMUxmd3FSU1o?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlhha3dDaFpiUFZOVUExVGk1S1AtWXJ5dDkxR2M4ejhYeF9OLXp4U2hJUzZzVUk2NDRScTE3NjJwX0RLbmxRN1Y2OUtPcVFCVm1IN2xnYUlULTF0NzZLMF83dE5nM2J0Vi10YXM1RTRVN1pfNHpTS0pYRllJOGc2NFBDWkJhdHk0TXlLWTNRbmRkY3FzRUtmdmswdlM3a1nSAaQBQVVfeXFMTXZPZzZJNnJ3YjFkdU8xeG5feUYzazlkR3FRMGtkbE1iUXk3YWgxMjRfLUtoRUxwNHpjd2RqalVlLV9OVjdkUC13RVd1dzhhbjhrUE9iR093MjIyQ0tvMHJaUklENFBQc1J2WG82MUM3VDFhVXRyMTF2MlNQNVhSRGtiUjZXdnNHYzRSenZwR21jamk3Rlkxb0JIa1lrWXNVU2g0Szc?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLS1PeVIyS0RmamxXanlBZUtMU0k4a1kwcHFyV3JOYUFhSVFKbXdteW5zMXRaX2IwYTJsVHlDZWx3Uk5SZktTcFJ6T1ZtZk1OcFhwMktRemhSLVpGNkM4emhuMW03UWRMNWZKMUdjWnlObVhpVDNNQXcxd0lJUnVHaFZtYjZWa0RoeG9paEpmWTB2dl9WTWY4SEdmUERSc1FwRFVaU3pRRWctclpzRUc4dGZ0OTJ6V1hw0gG-AUFVX3lxTFA3NV9KMTlVbVp5TFhfMS1EbVg5WVVmVFg3aVFsaFZyTjdhcmJtcnI2TWlLblItSFVwWDJhQWxBNVB0YTVUYXRCSnBnZno0UUdiTE9NZ3ZYRm12akxpZmQyX0NaUjY3cXFTODk5N2VRMTh5QzgtVl9kSkx2MmpwNG9OV3l4SmxIU1BickhnbjQxQWUwQXU5bllmRnJhU0RKYWNrYURYYlVYLWhBS2plOFJzTTdFU2JQQ2xSWjFRU2c?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS3FzNkhQN2JFVFUyUXlGaDRvYnlFTzNSRU9SdzQ2NkVSZ1V0WTRfT2h1dEVhb2tNcjROaFFPTmx4V09vdWVza0p3VG5wTHNTSXNlcGFOeVdOMTV3WERwWm1YR3drS1lfbUFreFotcjUtbFRaR09ROE5NeEZFNkdIWjJWRnNRNGp0cUZHRVZrWWkyVmRJM2NnUEQ0OW9PQlNBSVlLOHJFOFZYejVsRWkxY3JXLTlIeVQyUEZfRkNlX3NCaXJ1czFXdmFsWTAtc0x5VUY0WnV30gHbAUFVX3lxTE1FUUh1X0h1eVpoMjdNanF1ZjlPeXZTT3pvYllLMHRLS3F2TVpwdV9GRnhKUVZERDhXTF8xN3BzQk1XazkyWWVRV2FGQTVsR1lIVHNEbzVWaW80bnFodE8wdUlQaXR1dG9OUUtPTjQ3VTBERVRZYUw1YnZ1eDg5cVp3SVVJd1Vfa0ZKT010c1I4THg4WDFmUmNBQzQ0d2s3bXdMU29UMUxJLXJiY0c3c1hqdi02LXQ5RnlKaEdjNkd3MzZCdVA1NzhHVmRYRGNLOUx6eW9DcFIzY3UxMA?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1NIWVc0QTQwZmxPZTgwelVqWmp6dmRZS3FnMExiYWxBOUNoMUVUR1R5VkdkcVZmYnFBUjNGMFhQMlM4bldSRkQ3MUlKQ0F4TWw4bWtoS2Z2RWloX2RtaVh6ZWFwdTlwM25TZ01OR0RZWlk4alJLd1Z0akdFZGRleW9tYnQzVzQyWTQxWE5zNk1Cb3Nm0gGaAUFVX3lxTE55N2J4RTlMOHQtSlBwSDBRcGMzajNIMW1VMVpxLXhBOHRSS3FrWGRjLUp6SVBaVVRJZ2NNUVFiOEpPQ2pSN2cwYm1KVTVTRHE2c2hTSkN5cHl0TDJJbl9nTGl4cVNLc05KcHdDTzRaZlZDQUpCQ1hzRWk1b19hY0lKMDRQTElueTRvRGdScnJ1dm9JWGFKa1VTSVE?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "मुजफ्फरपुर से पटना, दरभंगा और मोतिहारी जाना अब और आसान होगा, जल्द दौड़ेंगी इलेक्ट्रिक बसें। इसे Jagran और Dainik Bhaskar ने रिपोर्ट किया है।",
-      "image": "images/jagran.jpg",
+      "brief": "मनेर में ऑटो ने बाइक को मारी टक्कर, छह घायल: NH-30 पर हुआ हादसा, इलाज के लिए पटना रेफर - Maner News। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
+      "image": "images/nh-30-maner-news-dainik-bhaskar.jpg",
       "image_kind": "photo"
     },
     {
@@ -602,35 +659,8 @@
       "image_kind": "photo"
     },
     {
-      "id": "4-jagran",
-      "headline": "पटना में बरात से लौट रही स्कॉर्पियो को हाइवा ने मारी टक्कर, 4 की मौत; शादी की खुशियां मातम में बदलीं - Jagran",
-      "summary": "",
-      "date": "2026-11-22",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWkwc2pTaXVGc3hKcUFnQWhQN3JnUXdhT0VxT2ZZVk40cFBTNVBYeTdfQ3lLQVFFVjdSWFVrdkZuVGxfUC16ajlIb3Q3TWt5am1kUnNxdWV6ZUVvRDYtNzVub0YzdGtXajJXSFJkTS1QZDFfSlhmaXZoX0pkdDQ4d3FiU09zSDBLSFBrMUlqNjYwemhRdDZSVlFXNVFEX19idDV5R1RSaWF4MGg3bURVd0lrYlhLTzUxUzNPYW9uNA?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc1FfUk9tOW9yWk4zekpJZ2ZNVXFUaENUbkNvc3AwNnl2MUo1TXluZkRCUWtWdWN2QU5ROElsMTF5TDVoa1g5ZFdiRURuQUJnSm9qZVRIQTZGWXdWazNoQzRDSE5oWGFwSjN6WVlSSDZHTDRrdHM3NVRNRmd1ZExjaFdqaVFSWWJDbkNGSzNUNGNpeFpzQm9fd3l5YjZOcVAtdmNWUTRFT1RHZmM2ZTl3aDdKeFFobXI2NDhmUEpOYVA0V1ZPaVBCTUFHZTRPdFpEdUZXX0M2S1ZOY25l0gHiAUFVX3lxTFBYY2NCZWs5Z2NJcmVXMU9Zd3Fic3l6MzdoM2JvUm55aGZhS05tRl9PS211UERLdklfZG02S3RHamFOSUh3em9pQzFPeWIxWUZVemJoT3FXYWkzWkxzVXJ5ZlNqSGhZdk5Eak9EcG1laXN1cUVValB2Ui1rVEhvbjNIeFIzN0k4clFYZ3ZqZXNvUmM3a3RLZWdfenlpLWxEWjRqM2F4UXJwa25RcFlXamFRNHJPQzg1TW5IWkttd2R2WDBZZ2pSWmFSX0F3R2h1eG1TQTBsVmlEWmQ2UTMxZkVBelE?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "पटना में बरात से लौट रही स्कॉर्पियो को हाइवा ने मारी टक्कर, 4 की मौत; शादी की खुशियां मातम में बदलीं। इसे Jagran और Hindustan ने रिपोर्ट किया है।",
-      "image": "images/4-jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "nitish-setu-inaugurated-pm-modi-opens-rs-4-280-crore-ganga-b",
-      "headline": "‘Nitish Setu Inaugurated’: PM Modi Opens Rs 4,280-Crore Ganga Bridge Connecting Patna and Vaishali in Bihar - Republic World",
+      "id": "pm-modi-inaugurates-nitish-setu-in-bihar-flags-off-100-pm-eb",
+      "headline": "PM Modi inaugurates Nitish Setu in Bihar, flags off 100 PM-eBuses as part of Rs 34,470-crore project... - Moneycontrol.com",
       "summary": "",
       "date": "2026-11-21",
       "topics": [
@@ -639,11 +669,6 @@
         "economy"
       ],
       "sources": [
-        {
-          "outlet": "Republic World",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM3p4Q3JkY2pEdDVCS1pZUGpjcmlDSW1TckZQc21yVmw3THJCaUZGaUxmbUFCaHppVDd3eXVHc1JuZURyR3R4LTZJbHBxWTNXd1NxQWQwNDNjM2VXWnNTZXpyWXJjZVZHNy1hZVdHa1lhUGRTazQyeG92MVZ0dFBmS2w0VS1aalVCRnhqN1JqbEw0MW9uN1pQMllpZGF3WHJyNWRGOXNWdUdnaEttVVpEQ3FnTkpoZWR2dnVHSldfRWp3NTB2TVZnRk04NjRGNXhubXo0bHFRSGVUYXU3RndNS1JIT185cVhmMGlsR29n0gHzAUFVX3lxTFBzay1iRUkzQjB3TnlOOTM3dm5XbUxiMmV0elNVR1lEN2Z5MHV3eHJGQ2hPT0hnd2ZNNDMxQTRQa0s5MlAwTHMzZjIxME4wWDVEbTNoa3E0NjRXaEFiSUdBUUZEeTYwdjlNTTJaMUFfVkNVZlFDc0MwVFVNWWEyWHhlTlJyMVhPWGYxekMyN1RLZVRzYlg3N2s4Rm15cnpkUkJXdzdNVnAwV2dvMlQwbWZBdGhDOVZ4TG90Tk9aR1dNN04xYTRIZTZMTFFPQ0wxcWdjZzh6ZXlkSWpGcERGUmVON1owZmlEQlZWSmhybWlCbzluZw?oc=5"
-        },
         {
           "outlet": "India Today",
           "type": "news",
@@ -678,13 +703,18 @@
           "outlet": "Open Magazine",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlE3UVQwVUFKektfZ2hPdlBBUGwxekpWY2lBekw2MWg2TlFzdnNiWjVwcFV1cDFGcVFQWUV2OGdHcmtRRFBsQnI4NjI5SXh2eUN5YmtWNmRONzU2WElQUTJIZFdCRUdhcXlqZjBPME1EcE5uNjMwVUl5cFJMdnlpQ2w2dGxyWEdnWTZLN3l3aGl5Zw?oc=5"
+        },
+        {
+          "outlet": "Moneycontrol.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMnBfWTBGUWgxOHlKSEVaVElNc2RyUlJaNmdNRndGcW94LXJwTFVXSng5RXJzYlVHVjBJYmZFVkJ1aUZVU2I5ZXlpanFhTUFUWmU1LVBtSmlCc1dsLUlCQzNQQ3BqdkhjSmU4bVJwY1F2bmdkcmFBaVRYOExCNG1xeUN2R3EtZzlIZHFZa2Rub0hvcENkQl9BeEJxNnFtcko0UFVrYUJkQ2hmQXVjVEl3M005b1l2WFBwY2tWcDlBYTloNzR2VEVDWWRaNm1OOTliTWQ3VEhTNNIB3AFBVV95cUxQcDREOUY5MVFNV0toR0FVSE5ScllFbW5kSDJBa2FEeDlIMFZaYmlFZXJVcm1CYzFZWnJxdXdfa0RuTXd2QkNTUkZlY1A2X1AzeW1yRGxoUkNpMnJHU2Y3aDdoaXpqV3ZwWF9tUW9DbjhZWEpGX1VDVEdkd3Nob2hHUTQ3ZU1KWkl0SnJyUFIyQnBSSDk4WkJNZTBYSDQyUXpXa3I0dl9Lbnd4dXAtenZvb1RDTFhkTjItT2h1dkxFdUdzWGtvOFpaQk56TDAyS2ZtdTdQRU5RQ2ZHbkxR?oc=5"
         }
       ],
       "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "‘Nitish Setu Inaugurated’: PM Modi Opens Rs 4,280-Crore Ganga Bridge Connecting Patna and Vaishali in Bihar. A politics-related story. Covered by 7 outlets, including Republic World and India Today.",
-      "image": "images/nitish-setu-inaugurated-pm-modi-opens-rs-4-280-crore-ganga-b.jpg",
+      "brief": "PM Modi inaugurates Nitish Setu in Bihar, flags off 100 PM-eBuses as part of Rs 34,470-crore project... A politics-related story. Covered by 7 outlets, including India Today and Bureaucrats India.",
+      "image": "images/pm-modi-inaugurates-nitish-setu-in-bihar-flags-off-100-pm-eb.jpg",
       "image_kind": "photo"
     },
     {
@@ -716,34 +746,14 @@
       "image_kind": "photo"
     },
     {
-      "id": "pm-pm-pmmodi-narendramodi-nitishkumar-pmmodibiharvisit-patna",
-      "headline": "PM मोदी और नीतीश कुमार का अलग अंदाज पटना एयरपोर्ट पर दिखा अलग अंदाज नीतीश कुमार ने PM का किया स्वागत गले मिले, हाथ मिलाया #PMModi #NarendraModi #NitishKumar #PMModiBiharVisit #PatnaAirport #ModiNitish - Facebook",
+      "id": "news-on-air",
+      "headline": "पीएम मोदी ने ‘नीतीश सेतु’ का उद्घाटन किया, पटना के कच्ची दरगाह को वैशाली के बिदुपुर से जोड़ता है यह पुल - News On AIR",
       "summary": "",
       "date": "2026-11-21",
       "topics": [
-        "politics"
+        "general"
       ],
       "sources": [
-        {
-          "outlet": "India TV Hindi",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRXJuU0IwblkzZ3NHb1JRUGdUNUtIS2hVSUZSZzl3M3hROVdhTk5LSkVUdWF5NWF2NGtuckRBREI2NzNhR2p2bVRCYUdqYzZuM0Vkd0ZJNXV2elBwbXBHeG1uY21DZXJsLW9nZllnQnV5c3prYkMyNVh5MmJKc2R5MG9lMXJrVFJiMWJZZVFDX3ZwV25vQlktRUt6MHl6WFFhMU5VREV6TjhUN0JFdWIwNGFSb2VJY3hvZ3Bsd1A1ck5Jd2NOWTY4LVJyUENaLWtZaFdZai1WSEI0Qy1vdGxmV3UxSFBwQ1c5M3Q3VFBkN003eEIzTjdYSdIB_gFBVV95cUxQTlFwYzNEMnItTWw3Ymc5cklBZExLeVBTdGZvOXRhel9Lei1jZHdnWEUxLWdVNXRESkg5TDB0aFJfT2tsbld4d01tX0FBNkdpMmk5M1NXYXNYSDRvNl9xLXNwNkthdTN5a1BROUNjRUJjbktPRldNaUJJQVoxNHFhb0tURUtfRUJUWFA2UTB0Z0gyYU85WHpNY1dDcFJ1VnZKaDVWSGx6bG16QjdoaGt3T0wwS0NxbmdUbmN2STk2NERXMGhFMENWRjhpRktDT1prRWI1SXV0M2pDRF9NNXdNSHJuTjJ1SXZFd0hEQjNwc3FVbXg4WmM1ZVRFU2I1QQ?oc=5"
-        },
-        {
-          "outlet": "Jagran",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3F4ZTZCaGtOVzJHc3dINjVzajhnbXlOSldzYTdYREo0dDhRVWZmYllucnFnbDBRdXdRZl9nNDEySERMZlM5b3l2SVY4QjZpdkYta3VkVWx6TFFMbVNQQ3o5WGtzbGpxaEhMWWtsc1hwMUdwd3dLbkkwRm5iLWpSaU55eWtNdGwwRWVNcHNUcUg1NkxKVlpNTmh3eWNLbHlLSjU1LTBqaENqRy0yTENLNnRDQWhtZw?oc=5"
-        },
-        {
-          "outlet": "Facebook",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxPempxa3d1eER4N3dOS1NJOHhXYWJTa0JSUzNpelgyNUU0TkNsOWFYRHBLTEJDcXAwU0xBaG1PekpxNG9oZXF0bWZMNE85OGhDdXlJV0FzcVRJVW1vODAxeVZCYzdQcU4zbmU3TTRlV09qRWVaUkhzNkJmN29oUG9sWFozam1PNGhTMUozQ29rNGhBcmNCT3JiUnZSVTBKNk4tNkxUamI1WUFsLVZqMy1IT0xtRXhYRGdsLVhDb05ycG02QllYZ0V2ak5jVFQzcHFobnJIRzNBeExLc2NTOWxRZUs5UWY1cjhLNE9ENWZrWTgtZ0FZX2Rsajl0UU9NVFV3RGZPYmF6NHhPMGFTZzV4R3RjWTI4VUVZY01MUExpQVl3Sm4zQk1JSTNuYUJ1R2hsY2FHRWFGcTgzeVR3OE4wNmpSY3hRZHR5ZGtQaDk5ak1URklVdkxxN2ZYa0x2cF9nVFRrMlhHaXFGNVZTcGotUXdlT0FiaVl5Z1FiN1Vmc1pEMWg0RFJ0Q2J0UUp5WmFSb3RNWVpaN3pQb1luZFJsMnhLcU9CV1hac2RRWGNGeGZvZmQySjZXV3MtcVQ2cmpocnhuUFVPSUMxWFJsZDhpODhWM2VMbkhQVVFodU15NUF6WVExbG5zZ1FMNXQ5M1lzNi1oREJwTXZhQzg1bE1LaEdxQlljVk9BSmJJZ0k1T0JjWVlUZmZIT3JCRDlTblR1LUNPRWFLX0hHTEhlNEZTaHdUYTRKZzB0dUpSaGJWZFVHMlNQVzJSRWo3VnB1TDM0OXkyZkJ3aHZGQmlBRDRYd1M2RmVuT1JoTWJrcHpRamx1OHpFSDhFMWpxX0JHb3V0M2oyOFhRc1Nta0NzQXhqZUFvbnVKczZEVWtJRUJNTUhnODFOMDBvQjVQWWVIMzdtSmtNc1o0bFlRbFd3RVFxLTJfeVZseHJUVU13S1hJd25CZ3pKZy1mVFVZNDlOUXNMQ21VU1VLdS0zNWdpYmxid2c0Z01wOFBreDA1S1pPSnNXb3dCSmlXeTJqTE9PWE51R3VQVUhLTGdwQ0dxRzgxS2trUy1NajdlSTBUVlRQeGlTbS1VbWVjUGMwekYyMUlHOENaSXdRSGx1ME1aZlh3Ulk2WkxNeVk4eXBINTRVTkhnMXBBc2RydnlhQ2xta1UtTzRub3FkS0V1Nk1rNWF6R1V3?oc=5"
-        },
-        {
-          "outlet": "DD News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzVHdjFHTU9uWlFnc0hUTzZLcXMtUmxUbTdUYnRFSlc5NnlWczZfV3MyOTNBaGR4ajJsX2NyX2pWaVV3Nm5jbGhqX0JuOHJCREFKckFQWUk1WkpNTi00MFI4YTVXdVJJbzZTQWJiTENrcmFqNjQ2OFZWcFc4UTVtQW1ydFdYMS1RdjAtV056LXl4T1ZGZ05ueTBqdENhOEQwVjZ3RklWSlVEZUhqeC1V?oc=5"
-        },
         {
           "outlet": "AajTak",
           "type": "news",
@@ -755,16 +765,16 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13d2swVzJzVDBYWmJIZjd6TWJrUnJWZjRMOVJGaE1IcVlLLXVkSHcxcHJlVHFtc0JNelF0THA4VGtPbVd1QU44U0wyRzIxSjVwTVFJbTd3VUZvNnNWUVpIc1FBcFNEdlMtZ2xaX3BLbjA4dw?oc=5"
         }
       ],
-      "source_count": 6,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "PM मोदी और नीतीश कुमार का अलग अंदाज पटना एयरपोर्ट पर दिखा अलग अंदाज नीतीश कुमार ने PM का किया स्वागत गले मिले, हाथ मिलाया #PMModi #NarendraModi #NitishKumar #PMModiBiharVisit #PatnaAirport #ModiNitish। इसे 6 मीडिया संस्थानों ने कवर किया है, जिनमें India TV Hindi और Jagran शामिल हैं।",
-      "image": "images/pm-pm-pmmodi-narendramodi-nitishkumar-pmmodibiharvisit-patna.jpg",
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "पीएम मोदी ने ‘नीतीश सेतु’ का उद्घाटन किया, पटना के कच्ची दरगाह को वैशाली के बिदुपुर से जोड़ता है यह पुल। इसे AajTak और News On AIR ने रिपोर्ट किया है।",
+      "image": "images/news-on-air.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "icici-lombard-to-host-grievance-resolution-camp-in-patna-bfs",
-      "headline": "ICICI Lombard to host Grievance Resolution Camp in Patna - bfsi.economictimes.indiatimes.com",
+      "id": "icici-lombard-to-host-grievance-resolution-camp-in-patna-the",
+      "headline": "ICICI Lombard to host Grievance Resolution Camp in Patna - TheWire.in",
       "summary": "",
       "date": "2026-11-20",
       "topics": [
@@ -772,9 +782,9 @@
       ],
       "sources": [
         {
-          "outlet": "bfsi.economictimes.indiatimes.com",
+          "outlet": "TheWire.in",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3BObGctb0ViWk1OT0tncUVnUjBERkw2MlhTMWFUekIxc2RpN1RBeVIzeUtDbTc5M0ltLWh4STRyWUd6OW82emdCM21YSUttYzNGV0tkcDduU0h2N1Z4bTBKbFdsQzBFdmpDVDRqbjdWb2d2MmZwMTFJTWhER1hTWUF6dFhFRHlUZ25fZTVDQ1BpS0F2bFZEaXZEMktUeGQtb1NTZGdELV83eEZHSm9FVk1hbk9YXzVZ0gG-AUFVX3lxTE8ycF9IQ2dNQ1plZEt5TWxyZnBHRnFWVDktTF9xN2ctT3lYY1dueUcwMnRHNDAxZ3gxbE5iWV9teHl3SnI0NlRjNUxnU3ZUaUR3STItNzRGcEZtNzRjWGZXRGFjTjJsUG5GbjI2ZFlLX3JHLTFGYjNOcWpZby1JTnE1ZjFUbkMySElNZldrSU9CUS1ka24ycEhEQkluUEVuRnFyWUFqMktRWWNRcDBCZV9wczYyN3R4RTBtd3BmcVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXRYQmhrbWI4aS1sRHA0RDhrZjBZcXhyZWEwSFVwd0lfaS0yV3FHbzdfMndnTDNvYVNCRTBKSy1GV0QwM3EtZ3lseXZ2Y0p3WEpPVWpZRWhFczcxR3RsXzdON0ppQTV0Tjd6SXhXcGRzS1B3cGtHa0FVV2syeXA3QVhDWmJndWxBamFJVkloTXdrRjZwSmdmQ3Jxd9IBoAFBVV95cUxOczRKOEpaOFhLZU5PSWtfNTVBbDVLYnBhYUQtdEU2cDdoLVBNbXlYMDI4TUhNQmRDeWVoOFlBZDdudDBRTW8xTmJuSTdITWxnQjJOdVM4bUM1M3pzaTR1dEJmNWRpdG0xb0RIYU5VSkktQVA5NXZjeVc4TGxKVFJJOGRRQkV3WkNGWVRPWGtNa2gwQVZaTkdQMElJLVRNU0F3?oc=5"
         },
         {
           "outlet": "ThePrint",
@@ -785,8 +795,8 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "ICICI Lombard to host Grievance Resolution Camp in Patna - bfsi.economictimes.indiatimes.com. Covered by bfsi.economictimes.indiatimes.com and ThePrint.",
-      "image": "images/icici-lombard-to-host-grievance-resolution-camp-in-patna-bfs.jpg",
+      "brief": "ICICI Lombard to host Grievance Resolution Camp in Patna. Covered by TheWire.in and ThePrint.",
+      "image": "images/icici-lombard-to-host-grievance-resolution-camp-in-patna-the.jpg",
       "image_kind": "photo"
     },
     {
