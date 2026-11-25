@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25 20:54 UTC",
-  "generated_at_ist": "26 Nov 2026, 02:24 AM IST",
+  "generated_at": "2026-11-25 21:36 UTC",
+  "generated_at_ist": "26 Nov 2026, 03:06 AM IST",
   "story_count": 51,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -15,9 +15,19 @@
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeTBwczhNRHQxTkI1T3dQWmkxMjdJeTZodk5ieDI1c2tocm9yTWVwdFp1Mm1RYklkelBWWXZDTTdoYm1tVV92eDBWUFNxc0JkYTlHdlN2S2tSUlpqa0R0dUtyUFJuYnJmTC1Dd2taUW1MUzdOanNPOUN2X0t4dXkwVmk2bkZ4T3Q3UU1sM29xa2N6RmkxT1pHdUZLa09nd0NzREtOV2lUSVBtdHhjVkMwVW5zc1JJZHd4RUZsMzZkV0FvOENxYWpyOEViV1E4Q1FTT2twMHEtN0FfWGZB0gHjAUFVX3lxTE9fRC1VaVFndk1yYVJrakVxaWw3Y1o2UlE1cTA0S0U3a295c1hObEZMZG1xcTJnZXg5QzhhT2pKNGxncnhGbzllS0xyQ2RsWkJKeVRnV3J4cTlMVDF2ZVJXTldfanRqZWZmNl9lNmhWdTRqYVhUOGxfenVRRjNfTjVHTmp4RHBobEN4MGo2Qnk2VEg2SDZHb2VoZEpoTUllLWEwaFVsQW5xdFFXTm1peG9oTnZEMHNpNmpCZUlrVDZkTWdPNkxkSllNeWZoNVllWndLT0xqREtyQ1N3QjFVRjNLOVhv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOc2hEMU5rZm1JYWJNRnlyWUdoeDd3dHcza1hYdVBOQTNYQ3o4ZDRxM21jWmttQVBqRkVUc01WMDB3NW5IVlBBV0ZjcnFYZDR6UWxhZllYeGJtUE82Y0dOYlMwU2p5Nzdua2o1eUh5ck9zZHJOc2p0dWJGeElTTFRkR3VRMnh6T3VJd1J0ZmNBQ2RlSEc0TTFJU0FCNXJ1dGpMeks5MHJidkhGb1BqSXRHRXR6Rmg1d05vbTFmSlR1LU81LTlOMElNcC1lM2FQUUpXcFVkb2ozWmdGaUtDTHQybTdocDRZZkE2Z2FxZnJiMktQbFQ3LXVuWWQtbVRCYk1kMi1USVg1T0tTY2NnanF6UDdOV3rSAZoCQVVfeXFMT3QyV2xOcXgtMTRxRS1uczNwWE9RQlkxcktWOXg1TTltcGlaZUt6TWdHRThJT01GSmw3NVdPcVJSdk5jTGFQZHR2b0lScTk4YXJKbFV1Y3ZCZkowUG9sRlJPd09zbjFjdU1iZzNCdnF0dmFjdFNxMlZLQ1lhN3RMZTRvcjBoS1JQX0pwZmhmV0RERndNRlpHSlJnS2VDTXdfZnE1NGhjUnpjM1Y5X05rbUZPcmtkSTBUUjdwUGRYNEQwTmlwX3JtMkZKUFFzcDlCUHFRMTJoYVRMaTZkTFVON3hUNzlCQXh5SVhhVFdNS2tYVTN3TUhGSTBrUFdXd0pDOGxkTl9BTHRPUmpPeVZicmdWRHpKZlN1aG13?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWGkwRFNGLV9HVFZyVnJldFVqeHdJTUV1MFVUYzBBQ1RiVDlCZnlucTlTdkVuN1VJVU0wRElZb3ZWSGdpemFVd3pIZFcxX21vbExxMlY1a2VsSEEyTlpRR21ONHVQUENoYnZwbVdoU1NSOUxPWlhVY1JraWlJcEZVUHFCVV9RWVdNVEdEeTNKclBWV19pWWZJMnZIdF9Db25jSWtlUkNOR0FTSmdDalJZY29ROWJEckFCazFiZm9HZEo1NElPYUhZd3RFaU53Zzg0MGJfUV94STg1eGI3ZU5ESU0wOGp4MWdxRnVLb2VB0gHzAUFVX3lxTE5CMFF6UlhZQU14aUZybzJlcl9kTlpMdkhvb0R0SnZ3MHcycmd1Z0tHR3lZeHVBZjZLN2tSWl9hb21jV3Z0dVZuZkJFSnIyUkpLT2JRZURfbnBaYW5GUTdQTDZoZkd5blc1ek1NejJkLTJUR1hYYkUtaWZOb1NYQjRfSzU5bE1vNzZJUzF2cDJqZ0VGRFdsaGRURXpmemdnUm5QM0ZTem50UmVOMWFXZHdLa180TmQ5SkRQS1Z0UERZTkhTWXJ0Y05sNDVEelVqaUhZZ3NDM3FveUtzOVlDUk1qZ3RVRXVkcWVURzVhRmtSWmhWVQ?oc=5"
+        },
+        {
+          "outlet": "Deccan Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNak9JcmE0T1RuREVNZGE0dVg0Tk9wZFE2LWY2aEZtaExxQmhpc0R3azJpV3FrRWI4SnFWUU9tYUNxVFR5aGdHR2RtdUpvcUhmTmEwWUdfN3E3WVlROWJSY2FYUVh6dXJqRUs1UzM0WEstRTNGQ0ZxNDRmOXkyanU1a2d5YVN4VGYtRlFQUzBQd1NNd3BNc0ZzUDFVLXF6Ri1JbHcyTkZ0aVRsbmtCbGgxUFNVRjc2NVpFaTJtbnVYa2ZoYUFyWnlkVllxalBsZkRCNUNVQ3JOTXdEOWR1ZjJwamV4c2p4SGZ2?oc=5"
         },
         {
           "outlet": "News18",
@@ -48,16 +58,6 @@
           "outlet": "Rediff.com",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTlktWGM3NDNwazlYaF9VcHJZM2R0LTI4aVJlX25OV1YwT3pqbUFfY1RCSElUZXlWMDdfMWNOVE9fOVRzR3hIQXYydm1CNG91djkyT29CVWM4ZnBYdXJPS3RTYk5VeVdtZGdsU19Yc3ZCTGhUcF9aUlNKSXJNYzFyenN0RGxiSnVMUUJuNXdtcmJyTkVuc3RsZnZpdVEtRUt2U1ZJZFdyYVdxZzTSAa4BQVVfeXFMUEctcmoyLUpxNUl0QlU4WThwWUNvWEt6OU5jQmJCN2RxM1dkWl9SeDVITW5QOVd2c18weklJd0pmX09sX2sxemZZUXJmZ0xwTk85ZUoxdUxMN3NYRF9FRloxQVFPbjhQWFFld0k3elAwbFd6WHRTNFQ4eFBzRU9hNUh6R3ZZSlFJd3VOOE04Y0ZfdVlvc19aTHZETi01OFFyeV9ZcWljTUk5RWQxaklR?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWGkwRFNGLV9HVFZyVnJldFVqeHdJTUV1MFVUYzBBQ1RiVDlCZnlucTlTdkVuN1VJVU0wRElZb3ZWSGdpemFVd3pIZFcxX21vbExxMlY1a2VsSEEyTlpRR21ONHVQUENoYnZwbVdoU1NSOUxPWlhVY1JraWlJcEZVUHFCVV9RWVdNVEdEeTNKclBWV19pWWZJMnZIdF9Db25jSWtlUkNOR0FTSmdDalJZY29ROWJEckFCazFiZm9HZEo1NElPYUhZd3RFaU53Zzg0MGJfUV94STg1eGI3ZU5ESU0wOGp4MWdxRnVLb2VB0gHzAUFVX3lxTE5CMFF6UlhZQU14aUZybzJlcl9kTlpMdkhvb0R0SnZ3MHcycmd1Z0tHR3lZeHVBZjZLN2tSWl9hb21jV3Z0dVZuZkJFSnIyUkpLT2JRZURfbnBaYW5GUTdQTDZoZkd5blc1ek1NejJkLTJUR1hYYkUtaWZOb1NYQjRfSzU5bE1vNzZJUzF2cDJqZ0VGRFdsaGRURXpmemdnUm5QM0ZTem50UmVOMWFXZHdLa180TmQ5SkRQS1Z0UERZTkhTWXJ0Y05sNDVEelVqaUhZZ3NDM3FveUtzOVlDUk1qZ3RVRXVkcWVURzVhRmtSWmhWVQ?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOc2hEMU5rZm1JYWJNRnlyWUdoeDd3dHcza1hYdVBOQTNYQ3o4ZDRxM21jWmttQVBqRkVUc01WMDB3NW5IVlBBV0ZjcnFYZDR6UWxhZllYeGJtUE82Y0dOYlMwU2p5Nzdua2o1eUh5ck9zZHJOc2p0dWJGeElTTFRkR3VRMnh6T3VJd1J0ZmNBQ2RlSEc0TTFJU0FCNXJ1dGpMeks5MHJidkhGb1BqSXRHRXR6Rmg1d05vbTFmSlR1LU81LTlOMElNcC1lM2FQUUpXcFVkb2ozWmdGaUtDTHQybTdocDRZZkE2Z2FxZnJiMktQbFQ3LXVuWWQtbVRCYk1kMi1USVg1T0tTY2NnanF6UDdOV3rSAZoCQVVfeXFMT3QyV2xOcXgtMTRxRS1uczNwWE9RQlkxcktWOXg1TTltcGlaZUt6TWdHRThJT01GSmw3NVdPcVJSdk5jTGFQZHR2b0lScTk4YXJKbFV1Y3ZCZkowUG9sRlJPd09zbjFjdU1iZzNCdnF0dmFjdFNxMlZLQ1lhN3RMZTRvcjBoS1JQX0pwZmhmV0RERndNRlpHSlJnS2VDTXdfZnE1NGhjUnpjM1Y5X05rbUZPcmtkSTBUUjdwUGRYNEQwTmlwX3JtMkZKUFFzcDlCUHFRMTJoYVRMaTZkTFVON3hUNzlCQXh5SVhhVFdNS2tYVTN3TUhGSTBrUFdXd0pDOGxkTl9BTHRPUmpPeVZicmdWRHpKZlN1aG13?oc=5"
         },
         {
           "outlet": "Hindustan Times",
@@ -95,15 +95,15 @@
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUkh0SzJLbEQ2RHB6ZEc4TG5CTlY2N3RocTV0V2gtT0RMeVBVQmluUnVOUkdocnBQQW5POTNqd29lTDZPSnJDYlA0Z1hTUEE4c1FsamkxYjdzeXg3T3VHNlVCYTA3eFRuUXpXUEhmeGNVa0Q4b0RCR09UNmQ2UFV1LW9WUmdnUklwbFhveDd6SlFTajlGZHRNMzRwMjVvakZtS0hFRnF2YldPSHRVeS1uLUI0REwzSUdHQnZhSW0tZ3lSd0NoMGllWEYwWHFhekl5M1RKdXp3eDl1UUdVQUVTczh3WkVIX05DTy1XMXp1Z9IB9AFBVV95cUxPel85aVZPNWRxVW1HTWNHcmtyUTNWaXJNWDBBSmlfenFLakh1NzVXN0FRc1pCN1ZxLXlyTkoxVmQ3QWRWNGVCWFZ3MVNBVjMzM0NydnpQLThES1hLV3dJaUF5enZlRVpMUHdBaUJjY1hTLU1lY2Y1Y0Vrek5SMGJKWXlOSXpRQ3RWQUxaUHVPcVFLSndXal82akxIN3dQMm10MFo1MzZvZGZnMVUwaUlTY0R6MzVXakMza04zbXFPRmtrUmRpWE0tdmFJVnVRdVlpMWFMcDhyM0w2SnVrWDNhYnRSbUpzTUlhNTBYZlFWeEE0UmJC?oc=5"
         },
         {
-          "outlet": "Deccan Herald",
+          "outlet": "The Hindu",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNak9JcmE0T1RuREVNZGE0dVg0Tk9wZFE2LWY2aEZtaExxQmhpc0R3azJpV3FrRWI4SnFWUU9tYUNxVFR5aGdHR2RtdUpvcUhmTmEwWUdfN3E3WVlROWJSY2FYUVh6dXJqRUs1UzM0WEstRTNGQ0ZxNDRmOXkyanU1a2d5YVN4VGYtRlFQUzBQd1NNd3BNc0ZzUDFVLXF6Ri1JbHcyTkZ0aVRsbmtCbGgxUFNVRjc2NVpFaTJtbnVYa2ZoYUFyWnlkVllxalBsZkRCNUNVQ3JOTXdEOWR1ZjJwamV4c2p4SGZ2?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeTBwczhNRHQxTkI1T3dQWmkxMjdJeTZodk5ieDI1c2tocm9yTWVwdFp1Mm1RYklkelBWWXZDTTdoYm1tVV92eDBWUFNxc0JkYTlHdlN2S2tSUlpqa0R0dUtyUFJuYnJmTC1Dd2taUW1MUzdOanNPOUN2X0t4dXkwVmk2bkZ4T3Q3UU1sM29xa2N6RmkxT1pHdUZLa09nd0NzREtOV2lUSVBtdHhjVkMwVW5zc1JJZHd4RUZsMzZkV0FvOENxYWpyOEViV1E4Q1FTT2twMHEtN0FfWGZB0gHjAUFVX3lxTE9fRC1VaVFndk1yYVJrakVxaWw3Y1o2UlE1cTA0S0U3a295c1hObEZMZG1xcTJnZXg5QzhhT2pKNGxncnhGbzllS0xyQ2RsWkJKeVRnV3J4cTlMVDF2ZVJXTldfanRqZWZmNl9lNmhWdTRqYVhUOGxfenVRRjNfTjVHTmp4RHBobEN4MGo2Qnk2VEg2SDZHb2VoZEpoTUllLWEwaFVsQW5xdFFXTm1peG9oTnZEMHNpNmpCZUlrVDZkTWdPNkxkSllNeWZoNVllWndLT0xqREtyQ1N3QjFVRjNLOVhv?oc=5"
         }
       ],
       "source_count": 14,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Comedian Yash Maheshwari apologises for vulgar joke about Bihar women’s sindoor tradition during Chhath Puja. A politics-related story. Covered by 14 outlets, including The Hindu and News18.",
+      "brief": "Comedian Yash Maheshwari apologises for vulgar joke about Bihar women’s sindoor tradition during Chhath Puja. A politics-related story. Covered by 14 outlets, including The Times of India and India Today.",
       "image": "images/comedian-yash-maheshwari-apologises-for-vulgar-joke-about-bi.jpg",
       "image_kind": "photo"
     },
@@ -319,17 +319,12 @@
           "outlet": "The Hans India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2I4X0UyZjVMdHo4cW9YbFN1SUhUeDRZVFFEa2pVMlZnR0NnZExCbkJpVlJtQnVhbU1ybjA1WllFZVE5b1dlSGwyZEh3d2pBT3JJX3F5cElfTFdaXzMwS19uUkg5bkw0Zkw4TXlSajBDXzE4Unl4azRTdnZqOTZwbFFpOHoxZmdOdXRoVHdyRUVTTkVRX2k0NnAxZnRValVuTDlnWmhUY0x5ZkxCYlM40gG0AUFVX3lxTE9zWTNDV2tyUWY5dk5ZaHRMTjloSlZmekUwSl9BbDNBLXNwTTVPdXhjdTF6TzlkUUNiTXdmMGkwRkxmOHM4bUw0UlFfeDZTdnBSRmdSNno1VmVHc0hTXzhoa1doZ2tRdXFiZldHSEFTUV9IOE5tS2YtT1ZDLXdxQy1BeF95ZWtDRG1aY2puLTlKTmtQU0tsWW1sRHJqYUN3SlZJVFE0YUZDVWxOeGhiWTQ1QThTcA?oc=5"
-        },
-        {
-          "outlet": "tennews.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkR2RzZZLU5ZN2JFR2padnBUXzdTVHo4dWphXzVvNjJhMktlT2RCNFFXa01hcVgyUTdGLTBfdkJnN0Q3dlRtYTlCN2NEOWVWQXFyZWxOMWl5czE0VGZJWmJTWkg1cHNhRzJqZ1RqdlExeGQ0dm1LVVJ5VGthaUJGR3IySkFZQQ?oc=5"
         }
       ],
-      "source_count": 6,
+      "source_count": 5,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Two killed, one injured as six armed criminals open fire at wedding in Bihar's Bhojpur. A crime-related story. Covered by 6 outlets, including National Herald and ThePrint.",
+      "brief": "Two killed, one injured as six armed criminals open fire at wedding in Bihar's Bhojpur. A crime-related story. Covered by 5 outlets, including National Herald and ThePrint.",
       "image": "images/two-killed-one-injured-as-six-armed-criminals-open-fire-at-w.jpg",
       "image_kind": "photo"
     },
