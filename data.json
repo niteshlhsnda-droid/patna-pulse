@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27 10:54 UTC",
-  "generated_at_ist": "27 Nov 2026, 04:24 PM IST",
-  "story_count": 51,
+  "generated_at": "2026-11-27 11:54 UTC",
+  "generated_at_ist": "27 Nov 2026, 05:24 PM IST",
+  "story_count": 49,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
     {
@@ -14,20 +14,25 @@
       ],
       "sources": [
         {
+          "outlet": "Telegraph India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb3BPSVFfVjFLUHVNdmZtMWtWaXZFbnhPWlR3UC1qaEhNcWtXZlpwOENUNnhXa0FBZERTNlQ3LUc2Y05Tb2JqazVwZEp5X0w3LS1YX2IyR3JTaTlQeGJpbzVzWFJSVFY3VmhyVGs4TUdEYkxPV2hSN3RnMm8yRFRUcTFzWllrQS15M0I0eVFhdFl2bDJvZkh4U1JOYnpXVkFJdzhBbEJwVFpZejBxZzVkeGtJYVg1d2JxVkliR1NtTDZ0c3BjTDl0Zy1tU3R3VjZvcExlcjFR0gHbAUFVX3lxTE96WlRPMlBWXzQ2TktwX0xPeTU5TUYxR194Q2d6WXpZM0VrN1M3bklsMDh5b1RJUS01cmVMXy0zcTZFWXNGWkFNVGJoUjdjUUdPQUEwdldfZWVWTENXX0EzNC1RMVQyZC02N0ZWcHltb2c0UERvcGthYUVCS1B2bWo3djdUR0F1QlZCX2haQWQ2bGR1bU1BeWQyM1ZQNDJta3pUblU2X0dWT090d1lpc1Nkd3BYbzBZZ09SVkJaNVE2M0wxVUtaN1o0SkZFTXBNU0VScEQ0UURZSjdmYw?oc=5"
+        },
+        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQWNxRU9hdnhzY29XLUxtZjg2TnpyVXc3VGFVSHRNZ0JxeUZhamdaQ2Ixa3FZRU5QSnBNcEtZUFpxYk02a0Y5OHNFeERTOWN2aHAtNlFZZktVbGRyMzhNZW5ub3ZBY2x6TmJKaVpSaUF1bmR3b29lZmNiaFRSeVZtRWp1ekFaVDJwdGFUN0lKeTNlVV9HZUhGejZWTGVXdlg2VGNJbDg3MmlORW1RRnRNNGRpbzQ1VTBiV0lLMC0zZ3MxLWtJU1pWT1FLMNIB0AFBVV95cUxQWkU2amlKdnZJZ3NRMFptRWxDZW9rU2NQMXczbVQyeDhhNmpPeVZETVF4c2t3cTlYNlJPOEJEX3JKSEstemZ0RDV1eFZCa3JsUktaZ2kwZkhnNlBUdk1pQWNtU0RocDJGSlljNG5rYzF0czR0amRyM09mdXFDZ0JGQlVhYlJ1enA0OGZUWGlNdXZ0emkwenZGSzJ2OWxJaGlYTEt0MGYyWDhFSzl3d0x5NEhscTI5U01yb21kVXc2Wmx6Z28wOXBUMVlGcFh0bm52?oc=5"
         },
         {
-          "outlet": "Telegraph India",
+          "outlet": "CNBC TV18",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb3BPSVFfVjFLUHVNdmZtMWtWaXZFbnhPWlR3UC1qaEhNcWtXZlpwOENUNnhXa0FBZERTNlQ3LUc2Y05Tb2JqazVwZEp5X0w3LS1YX2IyR3JTaTlQeGJpbzVzWFJSVFY3VmhyVGs4TUdEYkxPV2hSN3RnMm8yRFRUcTFzWllrQS15M0I0eVFhdFl2bDJvZkh4U1JOYnpXVkFJdzhBbEJwVFpZejBxZzVkeGtJYVg1d2JxVkliR1NtTDZ0c3BjTDl0Zy1tU3R3VjZvcExlcjFR0gHbAUFVX3lxTE96WlRPMlBWXzQ2TktwX0xPeTU5TUYxR194Q2d6WXpZM0VrN1M3bklsMDh5b1RJUS01cmVMXy0zcTZFWXNGWkFNVGJoUjdjUUdPQUEwdldfZWVWTENXX0EzNC1RMVQyZC02N0ZWcHltb2c0UERvcGthYUVCS1B2bWo3djdUR0F1QlZCX2haQWQ2bGR1bU1BeWQyM1ZQNDJta3pUblU2X0dWT090d1lpc1Nkd3BYbzBZZ09SVkJaNVE2M0wxVUtaN1o0SkZFTXBNU0VScEQ0UURZSjdmYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV2tMRGZ3cWpoQWN0N0FmaE53V0ZJWmctYy12MGZCZjRhb1ZmeUo5Tk9wWVhZNm5KWWVCTzYxQl9XWUpXdXZGcGhSZFdBLXMwLTVhdXhmMnJrRVN1Y055WUN0SHE2MDQxRHExT2RpRnBmUnY1aUxyU01nRkF3N3JQRy1WVWJnRUNWMDlsUGtSbmdkdlBoQ0xDMG83MFF2YWRLS2ZvaEpmdWI1SXI2c0MxenhrNWlhaU0zMXZxdkgyNmlEeVF0ekdSOWxQdjl5ZWh5WlpBNdIB2gFBVV95cUxNZmxhejlISjRIMFNvTlAwendjVng1Mml0WDY0NG1CaGVHZUpIcy1PNEpfcFVDNy0wLXhTVzZvWTExXzFtUHlWbUhZV21OTkFIazgxRE1ZbWgxSk4teFZZczR3VUVpakVaS2JKc2dVcFVYMGlYQ2pZVUt3UkM5VWs1c0VkaTBMeENCNzU1YjMzMnRGWjN2NUdPckdkdzJBVU84d1EwVTd3dmF5T0dTYUNXTGYxZ2J6RE92a0NUWXUtVlc5Q2FsU3hxZEFHam14ekdjeXVDVWN1TU1fZw?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna hospital building Gandhi visited in 1947 comes down despite appeals to save heritage. A health-related story. Covered by India Today and Telegraph India.",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Patna hospital building Gandhi visited in 1947 comes down despite appeals to save heritage. A health-related story. Covered by 3 outlets, including Telegraph India and India Today.",
       "image": "images/patna-hospital-building-gandhi-visited-in-1947-comes-down-de.jpg",
       "image_kind": "photo"
     },
@@ -42,14 +47,19 @@
       ],
       "sources": [
         {
-          "outlet": "India Today",
+          "outlet": "NewsBytes",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWXE1SzVtS25HWTVkXzlFcDRLaHJBa2xNbG5GZ2ZMU0R5azhrT29pQ2ZoUFJMdUVLcXNNbUJaVHVSTEhISkt3QkFaY2x3ckNtY1lyN1NWeXRyY0tWT290UDhqWmtXcHlDU21YTko0dHFZWnF1d2lEcTFaV3hhZzBWWnpxRzZVdjBRQW5uX1BsQzNRNDlZaXV3RmxiWHYweVVlVkVKcmV2RERHcDQzcTVKWlZ6YVVqbmszSTBhTURBc0kzeEpZbDNnVXBRZUlOa1lVRXR3SmVLNNIB3AFBVV95cUxQQzdmck1rUk9UVG5lRmRCN0gxR2lXYzRSLTFsNWdfNTgzZWJRVUFpamNKOXdHc2dycmVXVW14dDBNWVFCYzVQNDJOZWh6WG1nWGpZcF95bGdDb0J5Vkdib2sxRWF3VFpoMlR3d010bHFuTWFiNkZxMjJ6MndYQnphYjhGdlhaV2pUZFVaTF9QRHJFV2NGQVZGOFY0SmJHaGVrWTBveVR2eVl2OElObEoyVndFOXF0cS1PdHFRNG5yRW1ZOFo4dnMxdDdmODMzMU5lVkp1UjNXWTU3dGlB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXFJektKRXhkVkhBVTZ1UTlFZExkMkxPU0ZIUEp6YTdrakJMcGcxU0piTDlqVlFiTXpqcGpaYzUzRlFIbkE3VFFrOTg0WVlxcENHNXlHTDRvYy1OYXEwSmwyaS1XekdiTnhocWpFYVJTalQteWFtU2Jaa0paejhZYUs0ZmdnYk9nSXlLNkhBOXg1bDYxS2p5QmRsenF5TWk1TmFhb0pBZlRiQQ?oc=5"
         },
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXpKaFdrVV9aamhrVHd6MXdoemN6YzAxMWl0SWdfb3k2RGVHaTNZako4THJEQWh2MzFKTHhfd1JDaG1JMS05UzNZUVdPOTNnajZFclF4MTJhQXBVSm8tQ3hBVTZMbXk1eG9YS1ljS2dTc2R1T1BXN29aN0M4ZmlXcTJ4Z2FlNXZvYTZ4WHVnN3hHbGVtWUpodHlTN1J5QkxrWnFvdWlkM2c3VE5vQzVTLWU5OXFSOTZzYnJIdXBlalZYU0Rlamo3TGpnOHTSAdIBQVVfeXFMTnBQa1A0WWJBaFU4blRkM3ZtUWJXc2FDMHZSZkhlNGVVVFowenlsbzVqNnVaVkpROXRKRE9SeXdIV0YybVFOVG5yaF93QjdSTEVXT3p6Yno1UlBNUWRoY1NZVWgwdVJtR0d2MzloUlZ5VWdvUkhQcG5WYVQtVnFBWE8zTUo5T0c1X2otaC1VMmRNb2dKU0h6eUFUVWNZX2dacmpWX3QtRktoN3BxdGt6ZXVmY2JaZmRFczAza2JxMEc1MDNuZWptQ0g5V0RzdUxvZERn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQREFCaWN0N202NkJHcWI1Q2RFY3Fid2MwRFZFalMyNXA5YWVldEg0UnF4UFJheXljSEVmN3hXRzVfWllPQzFBSFpmclpJLWpseHV1d0Y4RlBURkhwNWRPcjczN01wN2l5a0o5RTlFS3M1UHVKcjB5ODBWRURlQ2luSkRFQXgyYm41MGJfY2Q5dG50aTQtMFB4UEU1Mnd1UGgtOWpzWVpqcTVMTF9ULWJtVUVkQjh6clI2NzViR3ZDN01VN2dlZXBvTndhcm5uR2twaEVBTUhUZXg2YS1Kd19aNmprdDhodkNuZ1B6eWRnOWF0X0hjUUl3R1hkMThBMExaalVrNGF1OHR1QzhBZzJJVmFB0gGXAkFVX3lxTE5GX2w3Zm1YMmpOOTh1N3l2a0pCOE9FTjBsZ2hUbEhOdkhYR3Z5SnoyLW83azREQWJmSGlPOUQwOU96WnZ1X3BYTi1rUlZLOWs2TjNvWlVUUkFXYTM4RkJ4LWUzQWJfTW1SenE1ZlhFR0J2S1piUGpnQ1EteFE1emJkY1pRdnIwczFDa3M4R3pZWjJIY3FoMGFUdGV6cjdVQjJuVlRpOWYwbThRdGdoVS1JVEVidEctN0J4X1U0d01pMXB4N3cyalVKcTBSRjFESkJFaDZQdzdTWnNUZmF4bWkxN2xOMGVrSEc4Zm1YWDB2N0ZEQm14RFl4SlFqYV9ncTNCbjM3MmQtQ2o3ZnkteGtxM0doY0gxZw?oc=5"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWkJmcFc5aHQ3YXlRWTdCcFJGMnVKQWZWXy11djdpbklPdmx5Nzl3RkNvcU5Edmc0bm5ZVEd3YjhYTWJsaXZKc3RtSFFmckhhcndBZ1JaN21FNW9IeTFpZ3g5eHo0MjFHUlh3aUU1eUxnWXlzTk4zd0gwOEFZenA2TkQtV0NlRnZsSlNfNHBtRGZHNHIxd0xTMnN6Sm5OUXk4dkZSZzFKa25xMmdHalFMM01VOGF6STJOUnd3dzZzSHVMV1ZwWW9GemJIS1NZcjNY0gHWAUFVX3lxTE9pOHdwOTNWOXVuOWFKSmdHQmxJcV8tckhpUmx1OTFlc0M5NmloSGJRNkk4SVB2UWhiZVhpVG5uOGtVV05aUnoxZWl1NFJJOVRqYnphRDgzeHl2TmdhcEdMeWNVeXA5Rk40WnBYZ2c5TUV3S1JVbjNtNm5aYkdXRjJvNVJqLVVnY0hQZmZRZ1hHbmY5Q1NmLURlVWYwRExtZm04QVloaG4yRUFmUEFFRXMzUXJNeG53eC1GQm9qcFJSWEdqNDg1d1hZVm5yTHhKdVVEeV9ZUlE?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -65,6 +75,11 @@
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb1NOQmoxTEpsX2RURVRDTGdSUElBaEVYVmFIQ1VmeFZwOEpJdnN2MUI2dktJZEJvcEdSMG1fMFQ0V2hKSGdhTFpEb1pjSm1pbDhob1NZNG42U0VBVjYtamNLVFFydllVMXFzUDNGZnlPVTN5TmNQRFAzZGlyV05pMmhFTlNxVkwtTkZhYmpEbWZjYm1wWmp5OFYyOTNyblV6WHYwa1dvb3VGVi0xYm9CZThmb1dHQjBzcmRxeTNBSzFOSVVteHZJWlBPVGFLNktNRk10VGlsYUZkOTR3RUV0aUh1cWd5Y2Jyb2JUWlBEMHpIand40gH6AUFVX3lxTE9ueVlzWjhSZksyZFZzbG5LWjZYdG9zWlkxSW5DLWtwMkszVTdISk5VZ3JtVFlOWHJVVkZCV2tyY3VMY3JZd3FqbnE0YU0zTm5SNDJRNW5DRzl1c0ZzdDJkNHpBdEhuQ3hybkpSSHJFWE5nQUZNcVhvdjNBTWlRUkFOSWpUdDRfTHAzODVFS0dueVY2TUV3eTFxVEpJUTloTDd0dmtFMHRfdllMS2JMS2toOWlXb0hpRUxfaGU4aW5LbTBOWU9DZUktaVVXeEJ5X3hHRFY4MC1wTkUzT2dhVVVla2tsNmg3dEZEUTVjdmVLTzBRNjFXZEZQeUE?oc=5"
+        },
+        {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWXE1SzVtS25HWTVkXzlFcDRLaHJBa2xNbG5GZ2ZMU0R5azhrT29pQ2ZoUFJMdUVLcXNNbUJaVHVSTEhISkt3QkFaY2x3ckNtY1lyN1NWeXRyY0tWT290UDhqWmtXcHlDU21YTko0dHFZWnF1d2lEcTFaV3hhZzBWWnpxRzZVdjBRQW5uX1BsQzNRNDlZaXV3RmxiWHYweVVlVkVKcmV2RERHcDQzcTVKWlZ6YVVqbmszSTBhTURBc0kzeEpZbDNnVXBRZUlOa1lVRXR3SmVLNNIB3AFBVV95cUxQQzdmck1rUk9UVG5lRmRCN0gxR2lXYzRSLTFsNWdfNTgzZWJRVUFpamNKOXdHc2dycmVXVW14dDBNWVFCYzVQNDJOZWh6WG1nWGpZcF95bGdDb0J5Vkdib2sxRWF3VFpoMlR3d010bHFuTWFiNkZxMjJ6MndYQnphYjhGdlhaV2pUZFVaTF9QRHJFV2NGQVZGOFY0SmJHaGVrWTBveVR2eVl2OElObEoyVndFOXF0cS1PdHFRNG5yRW1ZOFo4dnMxdDdmODMzMU5lVkp1UjNXWTU3dGlB?oc=5"
         },
         {
           "outlet": "The Indian Express",
@@ -92,29 +107,19 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR3lpUGZXZS1MckN6NF9Dd0pHeUJYZmdLVDhCeW5hRkJ3SklPM01GXzY4V2FWWGdycDJjYlJESGx5LXpMaC1HeXVmS0NWRWdSQ1NSNk1EM2djUjFuaWFpQW1mc3FheEZjMWg0MEFMdXp0LUpsX21KUldySnpsWG9SQVNKbkd4OHF1dE1zQkF1VllXMG5lMW5yM2szR3NSMHo1dkNwQWk3YldHUXFjd3dxX003VUYtSkE3RXgwOWVlWXdqTzNCNmNNQmcyTkR2SmRLVDRPa2JWeHV4RXRfMDZjaXEtSHRqdDkwMTVEQzc0b2s4Yl9sM3pYa1Vn0gH_AUFVX3lxTE9YRUpuREJrakJ6U2dXeWI1RV9CRm1RdXh2VURpNmVNQzNiZ1lOWnhHeDlVSUFRdVJESWw2ZVlmQ0tDZi14dG9nOGRMdGhlN2RycHMwZEkwWHAzUy03VHJHOEtQMVR3UTcwSHlleXFjZzdwU1pPSWNJTll1VXFNaXcyRk5MV3JwZV8zRHdkMS0xRzlkTkJGVFdVYlZRV2dRUTlOY2hSOUdNSXp2Q2Q3MXJLMlVEOElXa2hKRDd1TVRFV2t5QWh0ZTV3cTJXT1FZdi1WVXIyMUtjUTRQSHJRYkdiaFdiZnQ2UVJoS3h6VTgyeHJvMkhGTHlIeDlfX1JvMA?oc=5"
         },
         {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzBpYTB5RUhKcUt0bDhGZjNMdHRaaFc2RmFGcU5mMHJxcGI4c25mTlJycFNRMW43VHEyZWQ0NlUxVGN1blRqc2p4eVVqVFhmWFFlUEIta3ktQXpGaEE5OEQzYUVuUTQzWGk0Vlh3WXQ4ZkY3a2RvLWg0Z2JfSnpXWGlyTEh3T3hKV0tFaURWb09PckxDNHhhTE1NSnN6dmRvYVFoX0R5ZnlqeURRdnhHVVNaa3VTcHJKVWfSAcABQVVfeXFMUDJPamFqVk9aalpCbDlpWTNOV3RwSHduVWtaRVU1Y1JaQWRjeXVFWUVldjY5d1R2ZHFQa3cwY3Jra2JPYWZyeGVqRXZKRnFLRGFRMkd6d1pFbUNCbnMxZWVzNHZGcGFuNTU1VVZuMlhXRjE3dm1rTkh1dFAxZ1ZScjc5QUpnSF80SWtZcl9KV1V4TVNCUzIzaWxOS0ZJQXhqdGpmYVJCeExaRFpYNUVQYWx5NTBwM0VxXzB5TmJ3eGVl?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQREFCaWN0N202NkJHcWI1Q2RFY3Fid2MwRFZFalMyNXA5YWVldEg0UnF4UFJheXljSEVmN3hXRzVfWllPQzFBSFpmclpJLWpseHV1d0Y4RlBURkhwNWRPcjczN01wN2l5a0o5RTlFS3M1UHVKcjB5ODBWRURlQ2luSkRFQXgyYm41MGJfY2Q5dG50aTQtMFB4UEU1Mnd1UGgtOWpzWVpqcTVMTF9ULWJtVUVkQjh6clI2NzViR3ZDN01VN2dlZXBvTndhcm5uR2twaEVBTUhUZXg2YS1Kd19aNmprdDhodkNuZ1B6eWRnOWF0X0hjUUl3R1hkMThBMExaalVrNGF1OHR1QzhBZzJJVmFB0gGXAkFVX3lxTE5GX2w3Zm1YMmpOOTh1N3l2a0pCOE9FTjBsZ2hUbEhOdkhYR3Z5SnoyLW83azREQWJmSGlPOUQwOU96WnZ1X3BYTi1rUlZLOWs2TjNvWlVUUkFXYTM4RkJ4LWUzQWJfTW1SenE1ZlhFR0J2S1piUGpnQ1EteFE1emJkY1pRdnIwczFDa3M4R3pZWjJIY3FoMGFUdGV6cjdVQjJuVlRpOWYwbThRdGdoVS1JVEVidEctN0J4X1U0d01pMXB4N3cyalVKcTBSRjFESkJFaDZQdzdTWnNUZmF4bWkxN2xOMGVrSEc4Zm1YWDB2N0ZEQm14RFl4SlFqYV9ncTNCbjM3MmQtQ2o3ZnkteGtxM0doY0gxZw?oc=5"
-        },
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN0kyUDN4bVdFREJOWXh1a3pnelB1X3Q1cXJBYXdJSVhjaGplTHJHN2hwVjVUeXdXV0cyTzMtd1YzYmlNQWZweHZ4eWtHOHhqWW02TE5rU05rY21KUkZESlBaT3ZWM1FaM2xxOGl5aHpHeDdvSUJtdGZZX2Ytb0xqZ1dRbWlXZjMzT0NyZ3B0RWV0aUVaazI0TnJlQVpRMkh5ajdLXzJDdHFnVnkybGhjVGVuc0hEbHJxYVYtQzJIOGw0bUV5Vy1OaF9mUFdVcEJFQVdhOXBNUHdSMDItRmNSd3VrSzBRNXE0ZXpjd1ZPMmQ3ZlHSAfgBQVVfeXFMTUJvRVMydnZCNGZPY2x5Z2QzTm95eHRRcXBQdUJtaFgzd2d0cE9oS2MtSGpTaS1MNTBXZ0gwTEpYdEJfRTh4YXpGT05BTDI3UDBQWUdWa2R0Z2JhMHRLOURjYThObjQwRnBpLU52WUtsWS1DMmRuWERzaWgyckp1cEMzX1ZSUmFFdXpURktmbUFuWjkyWV81ekxfVWlxSkxvak81RjN4ZWM3ZnZjTnhTWUtZb0dqckVNeFZvX3ZlZkRndk82OWNsRjQzY2p6dERlQlF5QlFXaS1namVYcm5INGp3TU5SWE82MmxJOUNUc1I5cjZCemN2ZkE?oc=5"
-        },
-        {
           "outlet": "The Times of India",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPc2hJd2tvd291TThXblBDblB0c25UZWhreXIwUFdvWVZib1hNNi1LeVMxQTZKSVppZmVRSzVnQXpiTVFXY003WU9wV1BvNzB5VTNITVdpbFROdXducFREVHpTbEs0OU1EMWFabERtWTNTQWFWSHNKX2RwaGFNcUlpZ0hWY2Z2MjczM2QzYmkteVAyZXZUYkYxT0dkdDJqbWgxVmhOZWNsUmNBNDNDUEkxMVp6QlM0TnZQNkVQczM0eVBORDZqdkpFMV9kbmh2WmpyNDhyUGNzNTNqb3MtZ2NiZ0otVmhqbFZjMW9FMVVBQkVCNTRVRkFIUmJR0gH_AUFVX3lxTFBRVzNzemtFMG1OaHZFVTdQcVVLamVMcHBPNXhVaktKY2xVSFVIejJJNkJhMUM2QVFzVGJuQ0xBd1A5ZGFiM3NVaXV6ZXpvdE1iNkFEVTlOb0lqTS1rZDAxbFN6Tnoyd3lDaUxtWmt5N3QzdFVjT2IxRXMtaWNFbjJVbWp6QjhFZDlmaFNyVXlWNV9VSWpVRlJETU9GV2lDNFZTa0NQVENpcmtWMGhCZENqMi16WnlnaGdRTGNWa1N4bEg1dkY4TWt5blJMczBJeXBLV2V6Wm93dEVSMllic3BQRGdTNnRHc2pUNGI5bEw4Y2FEemhxaGZwZEExdi1nbw?oc=5"
         },
         {
-          "outlet": "Hindustan Times",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWkJmcFc5aHQ3YXlRWTdCcFJGMnVKQWZWXy11djdpbklPdmx5Nzl3RkNvcU5Edmc0bm5ZVEd3YjhYTWJsaXZKc3RtSFFmckhhcndBZ1JaN21FNW9IeTFpZ3g5eHo0MjFHUlh3aUU1eUxnWXlzTk4zd0gwOEFZenA2TkQtV0NlRnZsSlNfNHBtRGZHNHIxd0xTMnN6Sm5OUXk4dkZSZzFKa25xMmdHalFMM01VOGF6STJOUnd3dzZzSHVMV1ZwWW9GemJIS1NZcjNY0gHWAUFVX3lxTE9pOHdwOTNWOXVuOWFKSmdHQmxJcV8tckhpUmx1OTFlc0M5NmloSGJRNkk4SVB2UWhiZVhpVG5uOGtVV05aUnoxZWl1NFJJOVRqYnphRDgzeHl2TmdhcEdMeWNVeXA5Rk40WnBYZ2c5TUV3S1JVbjNtNm5aYkdXRjJvNVJqLVVnY0hQZmZRZ1hHbmY5Q1NmLURlVWYwRExtZm04QVloaG4yRUFmUEFFRXMzUXJNeG53eC1GQm9qcFJSWEdqNDg1d1hZVm5yTHhKdVVEeV9ZUlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXpKaFdrVV9aamhrVHd6MXdoemN6YzAxMWl0SWdfb3k2RGVHaTNZako4THJEQWh2MzFKTHhfd1JDaG1JMS05UzNZUVdPOTNnajZFclF4MTJhQXBVSm8tQ3hBVTZMbXk1eG9YS1ljS2dTc2R1T1BXN29aN0M4ZmlXcTJ4Z2FlNXZvYTZ4WHVnN3hHbGVtWUpodHlTN1J5QkxrWnFvdWlkM2c3VE5vQzVTLWU5OXFSOTZzYnJIdXBlalZYU0Rlamo3TGpnOHTSAdIBQVVfeXFMTnBQa1A0WWJBaFU4blRkM3ZtUWJXc2FDMHZSZkhlNGVVVFowenlsbzVqNnVaVkpROXRKRE9SeXdIV0YybVFOVG5yaF93QjdSTEVXT3p6Yno1UlBNUWRoY1NZVWgwdVJtR0d2MzloUlZ5VWdvUkhQcG5WYVQtVnFBWE8zTUo5T0c1X2otaC1VMmRNb2dKU0h6eUFUVWNZX2dacmpWX3QtRktoN3BxdGt6ZXVmY2JaZmRFczAza2JxMEc1MDNuZWptQ0g5V0RzdUxvZERn?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN0kyUDN4bVdFREJOWXh1a3pnelB1X3Q1cXJBYXdJSVhjaGplTHJHN2hwVjVUeXdXV0cyTzMtd1YzYmlNQWZweHZ4eWtHOHhqWW02TE5rU05rY21KUkZESlBaT3ZWM1FaM2xxOGl5aHpHeDdvSUJtdGZZX2Ytb0xqZ1dRbWlXZjMzT0NyZ3B0RWV0aUVaazI0TnJlQVpRMkh5ajdLXzJDdHFnVnkybGhjVGVuc0hEbHJxYVYtQzJIOGw0bUV5Vy1OaF9mUFdVcEJFQVdhOXBNUHdSMDItRmNSd3VrSzBRNXE0ZXpjd1ZPMmQ3ZlHSAfgBQVVfeXFMTUJvRVMydnZCNGZPY2x5Z2QzTm95eHRRcXBQdUJtaFgzd2d0cE9oS2MtSGpTaS1MNTBXZ0gwTEpYdEJfRTh4YXpGT05BTDI3UDBQWUdWa2R0Z2JhMHRLOURjYThObjQwRnBpLU52WUtsWS1DMmRuWERzaWgyckp1cEMzX1ZSUmFFdXpURktmbUFuWjkyWV81ekxfVWlxSkxvak81RjN4ZWM3ZnZjTnhTWUtZb0dqckVNeFZvX3ZlZkRndk82OWNsRjQzY2p6dERlQlF5QlFXaS1namVYcm5INGp3TU5SWE82MmxJOUNUc1I5cjZCemN2ZkE?oc=5"
         },
         {
           "outlet": "NDTV",
@@ -127,43 +132,16 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYTdpS0FrN3l2SmkyTGtSY3FWTW5mamh1NWxTdXNCaU5SZ3pnQThUUEtDdVZMUVM5bGM0NEg4czU5Vi1yOVlwa1ZMSkZFTmZlUEpIOXlhcVJSXzMtVTMxVkZENF83cUx1aEV0cVR6aGtJd3doanRrd1lRMWNNV2QzN2ZhVkt2dUtIV051cnkzWUZrbGp1clRxdzVFX3l3Ym01aTN5OXZxZnQzZU9rNFphcjFiMGxUODR0Q0NUcWU3SkdaYmR0QUdUSm80R3dXYm8?oc=5"
         },
         {
-          "outlet": "Vartha Bharati",
+          "outlet": "The Indian Express",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV214aEtKdUpCdl9pTTQzN0hTOHdXekdtOW91ekhQWTRYTDl3WHNDT1RRUjJEenktM3Vlc2pLMEhaTi1iMjFiZEx5NW42cUFycXBPam1sczRYN3JCVDA4Nkp3SlQzd1A0WEhuc1loNEp6dGVnalhOc3Y5eWxzc0NneWpqLVZXMms1N3NwcE5fRTFRTThUeVI1aTRvd05UaHowb0VlWldhb05HY0h6cGZLbGVfanh5TGMxSTJRdlJNOFAtWWNob1pRUnpGVGNHY3Z0ZWxoUG5UcVRMdVlQSmZadjhpb3AwY1pXWHBKY1g3V1MyOFl3amJiQ2hyR0JYdVnSAYQCQVVfeXFMT3BGa0czUTVncTM2VUpHRU1mQXB0TWlnYURuNVp6X3pFTjhvYVRaZmFReWZhcEdnRFBLTXhzeHNLLURaOEtjZ2FIVks5MnpIN09lM2dZTmhuNGktdnRHMmt2Q2FrMDROd05JUW93MUtwUGNHX2NyemhmZkppTU01S25XSFBqWDBmaFU4R2dPV1pqVU94d2I5MXRiWEJKSEtRaTNNZ291WWlRckFSb3E2WG83aVN3X0pWOXE3Q29RanQyUFJBalk4SXIxWlRzX0NZOUgycXAtYm1kaTNfYnhoSnJCR080NGtJLTQ4Wl9Ua2FGU1dPandLWjQzazFvT1ppcVJBa28?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzBpYTB5RUhKcUt0bDhGZjNMdHRaaFc2RmFGcU5mMHJxcGI4c25mTlJycFNRMW43VHEyZWQ0NlUxVGN1blRqc2p4eVVqVFhmWFFlUEIta3ktQXpGaEE5OEQzYUVuUTQzWGk0Vlh3WXQ4ZkY3a2RvLWg0Z2JfSnpXWGlyTEh3T3hKV0tFaURWb09PckxDNHhhTE1NSnN6dmRvYVFoX0R5ZnlqeURRdnhHVVNaa3VTcHJKVWfSAcABQVVfeXFMUDJPamFqVk9aalpCbDlpWTNOV3RwSHduVWtaRVU1Y1JaQWRjeXVFWUVldjY5d1R2ZHFQa3cwY3Jra2JPYWZyeGVqRXZKRnFLRGFRMkd6d1pFbUNCbnMxZWVzNHZGcGFuNTU1VVZuMlhXRjE3dm1rTkh1dFAxZ1ZScjc5QUpnSF80SWtZcl9KV1V4TVNCUzIzaWxOS0ZJQXhqdGpmYVJCeExaRFpYNUVQYWx5NTBwM0VxXzB5TmJ3eGVl?oc=5"
         }
       ],
       "source_count": 8,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Watch: Anant Singh 'kicks' driver as he greets crowd from SUV sunroof amid daughter Shivangi's wedding ce. A politics-related story. Covered by 8 outlets, including India Today and The Times of India.",
+      "brief": "Watch: Anant Singh 'kicks' driver as he greets crowd from SUV sunroof amid daughter Shivangi's wedding ce. A politics-related story. Covered by 8 outlets, including NewsBytes and The Times of India.",
       "image": "images/watch-anant-singh-kicks-driver-as-he-greets-crowd-from-suv-s.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "delhi-bihar-to-launch-regular-bus-services-on-18-routes-chec",
-      "headline": "Delhi, Bihar To Launch Regular Bus Services On 18 Routes: Check Destinations, Expected Fares - News18",
-      "summary": "",
-      "date": "2026-11-27",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORElGOFpqTk9SLThIYkNMNjktOWpHMnlvejNPQ3d1MHEyQWctcV9odVVPUXFNX09zcl8xZEhtUVFXdXZqWjhFY2hhNmlhRWtiNzhJT1RBSFIyZ3U1YUxpc1hiaXVWQWgwMFJPWFB1bjlTQjR3SGZoQjFGYkFJSzRlenliOVhWRlZzbnJFYXRLOUQ0NklYd3kyTTFsOUp6M2JVRDM2Um5QNXZ3MmM2ZVBKYtIBtwFBVV95cUxNMThPdDAweXdvQXl2OG5mUUpmNm5NM01aQzk3YmpIZG5PeWNWWGJvSU9MZmtSbWp4YXV3bnE0SWx6Ukd0QzFXVTVVS3N0NHpSOFVPSXpYeDdWOGpSbnZUZk9ZZ3V3Uy1JVjd1dkItbVJ4ZktWeVhFaHpGS0ZqSDREbWRTSWhxM0ZCRElyZmRHQ2NONXJZMzRsQzdmRUo4LTRNcVdHSmdjWjAweWFrT2xPTDliQ3BCNUE?oc=5"
-        },
-        {
-          "outlet": "News18",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcjVYU2RGamh6WkpJc2JlcVRWdDBoV2g3WG00SGpvT1U2c2NTaVNkUEdGTURjLU9qSGwxWk42MkN0TlJqWHNuYTRJRlVkRWtMb0Zsakw1NzZIR244bGs3SnJXMV95SGpYYk1rWFVRaVpqWE9iODBfdFh5czdEczQycnBZVk5yWHJuZWUxa0VNd2VRWlVNVXJ0TmFXakpoQ3FKRHVJYi1NR1RWUURQWUlwdUFqTzlrTExTZW5NODdUeVRzbFNBR256X01CTVV6ejctdjFtTURXUE4ydWZOYTVpRWoxNDRTZzlK0gHuAUFVX3lxTFB5NDNMandLeWhadXdMQlFRRjRTVlBXNFpwQzZFbVRScEl3TVpib2dIdTE0cVRIRjZSZ3hib1ZTR2FOUFVUS0xMcUNDYVd6YTBCQmtyRTlYTnpjaWo5RUpqYW0yU21mamg4eTI5TTNGVTJtbjlla3d5c3pyUFFDSlJQeUhtV3hOME91TXY0ZzhLREVrckxuZUxXdUpJR2tYOEFleXJZdnVzTmlMa3lKS3NoT1hBRjNOLUpTQzlYU09yeG5YRFRWQW0xZUE5WlRBZ3hqT1VNSXR6M0U3WVR5YVFOMENQeWxRcUMtMFoyR0E?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Delhi, Bihar To Launch Regular Bus Services On 18 Routes: Check Destinations, Expected Fares - News18. Covered by The Indian Express and News18.",
-      "image": "images/delhi-bihar-to-launch-regular-bus-services-on-18-routes-chec.jpg",
       "image_kind": "photo"
     },
     {
@@ -176,14 +154,14 @@
       ],
       "sources": [
         {
-          "outlet": "Cricbuzz",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0Fhd0l4Ym9NQktzWFZiVnlpWUM0RnZIbVdMQjM0cWg0T2pWWmtKOFRranRCTWhING9fQUJwMjhTWC1IZlpGc0lrM0hLYmF2NWpGVHkzVGVwZjV6TWROa1I0OENIZzNmSWxyb2FyR2RncVRkUVRxbk9XdzZ2NkxtRHVfaFRySElJUmtXeXVKc052clRfeHM3Zl9WZDRLMHY1Tlh0TWVHZ2lxclhMckhMeFZkMnE?oc=5"
-        },
-        {
           "outlet": "BCCI",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHRGT0VnaDBnR0NDTXF6OWpGSldaVDdqQVZBeXlWVklkbWpuSnIxYWRuVWZlZWdVOFo5UXVfdE9ScjVCd1lydk5qOFUwRTcwbVhjMEdDY0pQdUFFUmJKd3laZ0hOb2hVZDFOVjQ5WFBNVGRaLXBqck5xdXlxNFkyTFJib2JQTmhFbXJ3QVRGMXUtWHRlNnc?oc=5"
+        },
+        {
+          "outlet": "Cricbuzz",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0Fhd0l4Ym9NQktzWFZiVnlpWUM0RnZIbVdMQjM0cWg0T2pWWmtKOFRranRCTWhING9fQUJwMjhTWC1IZlpGc0lrM0hLYmF2NWpGVHkzVGVwZjV6TWROa1I0OENIZzNmSWxyb2FyR2RncVRkUVRxbk9XdzZ2NkxtRHVfaFRySElJUmtXeXVKc052clRfeHM3Zl9WZDRLMHY1Tlh0TWVHZ2lxclhMckhMeFZkMnE?oc=5"
         },
         {
           "outlet": "BCCI",
@@ -194,35 +172,8 @@
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Punjab vs Bihar, Match 103, 26 Nov 2026. Covered by Cricbuzz and BCCI.",
+      "brief": "Punjab vs Bihar, Match 103, 26 Nov 2026. Covered by BCCI and Cricbuzz.",
       "image": "images/punjab-vs-bihar-match-103-26-nov-2026-commentary-syed-mushta.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "newlywed-man-climbs-mobile-tower-in-bihar-after-wife-leaves-",
-      "headline": "Newlywed man climbs mobile tower in Bihar after wife leaves him over leg deformity - Mathrubhumi English",
-      "summary": "",
-      "date": "2026-11-27",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Mathrubhumi English",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2g2eVVhemk4NzVOWllKcFc2cF9RN3VxdzZacC1TSk9VTlozTmVMWUN5R1pVV3dMcmp4a3lJb3otS3BCQzZOWFVDVy1pQ296SlJoVVU5UTlEQTVvd011QUVJUXlTZVhPSF9sVWFVRmFQZmI4bXdtaWVUUm9MRTdLbUFFQTR4S2gwenVSM2c0WUV6aHBGM281VlRCNGRiWGpzekZWMGlHbWtPUdIBrwFBVV95cUxNazFIelV0YWRzeW1VTjczMHozSkFWWlJiUXBOaUYtNWFaTnRZVHVPbWNQRmdxeWVaejJUcTRROVdXRFo1aENPX1h4WFVablAzbTEtenhZdUVEOEgxZ3Aza0YzbzQwYmdNX2pXWW1tZURzb0w4V2ladWtTc25Ua1Vmano4c1hKZzNXNGs1ZnBiY1BUaEpPaHprVExaUm5wMVlNTjhpUXZHdUswbXhzVkU4?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczRFaVdxdEVEd1otZzBBb3NNVDRyRG1KSGo2VWN3anI0V3A0allvX3NxdUw3ZVdLaDBFMHBoaFpnOU1BSkRoNHJFQkJ4SmF0NV95aXNETW5iX24wOEU2RW9YS1plWkZyRmF1SFU0SEljLVB3S1FVdkFXV1JNWk9zal9kNnd6VG16cU4zUFhyb3ItS3hUZ19scl9UMDVRX1cwU3BYUEJCTk41U1BmdEQxYXh1d0hJZWVkZ3JSZ1pwd3I3QdIBxwFBVV95cUxPeG56TUprcXp3TmZyeUtGakNoMzBvUVdWaUIyM1lCN0JOMG9LcEwydTNhUm85cmtqU1dHTHNHUjhFQkJSdEY0eU4ycUVZdGFtWnlDOHFJOW8wZ0p5ZDFkekhzSDFWdm5laVRvQXl6Q2ZMZUtVRDVXWWMtZkpOTDBranlDVW1QZTVpU0ljOXFoZ3RtcnJybmo3X2x5WWFLUmxuU1hWQnYzaGxBMFJSc3BpekhkY1JuUWhQMUhVdTVaSmMxWXV3OWJN?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Newlywed man climbs mobile tower in Bihar after wife leaves him over leg deformity. Covered by Mathrubhumi English and ThePrint.",
-      "image": "images/newlywed-man-climbs-mobile-tower-in-bihar-after-wife-leaves-.jpg",
       "image_kind": "photo"
     },
     {
@@ -262,9 +213,29 @@
       ],
       "sources": [
         {
-          "outlet": "Dainik Bhaskar",
+          "outlet": "Prabhat Khabar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWhEUDYyQkdPRmdzUW4zVWxLMVR1aWNHU2tvdDd2RVRaaDV3OHM3NXBLdXU5dUZ1R0pwZm8yX1ZUWHRMSU5hd29GdHQ4c0J4bm5NLXkwQmIyWUFmaHpsZF9Rb09idWh0OTlfdXk4djJXMzBUUVd2MWJ2dS13VVYwSHBUX2pXMUQ5dkY0dkhGeW1aaHNZNGxTcEMxMHFRQ1hxTWpTZjB3OG9pMHfSAbABQVVfeXFMTzZkTUhUYU04aFlFdWxtQlNHbHlIcUFuRXpsU1luZHJRUUR2dmpJNHdpNXg5VXpQR0ZzYkVFd1NJcVY4bnpOczNjck1JTEdZZE1ZUHlSTkxPSmZVQnhjVXBuSlVVNnRxbkZfNXhUQjUxY2lWV2prU2h6SFFaQkhmTGRoOFVadE5LUFZZUngzRGlxWk9ha0pXMHNzSldJNXlpTjN5OGU3VnBLSlZlQTFMeS0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBfM0ZnT1hOMlVJalBLbjNzYW8wTEFyUUV3LS05WnAtZkFibnFMeGp1eXdRQTNjVWdOT09CaG90RTh3bU8tQjRIZnZaQl9BdDBiN0wzUHFUSVhabkJGTzZMZkF3V2dYV1U0T2FaaWpIRWFqMXNwTVdrUVBqakVnQUE1ZTZnOXJpQkh4SGFaU1U3c3RWX3lqNUl5WnlwQkFheXFFSUNzSUzSAa4BQVVfeXFMUEh5TFV5UjluWEpLNjFQRnJTTE13bTYxNmk1LUlwdkFDMm0yMFlCa0hMSGIycWd0V3hqMHAtbW1ETEhsRDBrSG1hc1N4amxrS0Q5eGNRTXFVUXk5OXloalY5RVFlM3hwU1R5Xy1fZ2l6dEFBc0JvQ3pyOHpBWWk1eDh1NXd6ZERHaGNKSXE3S3JMNkJvZWZ3REtNS0k5MGFGcklVNVVfX2JmZlNSX0dR?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXhmSEozOHVoaHJKZ3RRS0xCLXR6aGpqY0hMRml6dHhFM2lwRU9TOHFrRnpJZ2c5dWxkRWNPcURDSEJvSHdzUXNueXlDVkg0RG9xUGVDVE1LQnRkakJGS2JXVFBKLUhUbTROM3Jidk51NHlMdTBlYjVjSk9ILTFTVkd0a2c5RWdOc2lwYlZKWnbSAZYBQVVfeXFMTl9jaVBaR2k4Y3Fvb2UzbmN6Y1Z6eHlyYVV5RXFLLUI1TG10SWFjV01kNElFcUNUQkpJZXcxeC1QMzRrMzY2YkJDQW81djg0bHVMQUVvNWY0NU0tbHdCZWhLNGFiM0tHbjhsOHVROTMyUEhieHFhZ09aWFZRQ09ROGw1RmdDaVNvNTNJQUhha1dqLW1QOEV3?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVF9WWnBUVXRfV1d0bDd3bmVpOUpuWEVDcGFYZERoZmE3TkZteG5rbWNkOUZVdHRGRFZ6T3JWazRNVU1GWkQzZlZUOWw3NGxDaFlVYjBnbjlua1JReV8zWjRWUWRYQkxqeUtLalVROUlzSThuVDBnd01NbkV4RXJ3aUczSHlPZ3dwN3p1NEVCM1R3U2JMcDQ4TmNVeEdGQVRPdkHSAacBQVVfeXFMUGVMTXJPMFZFSFJNMWE0QWZWZjdqbzZ4aGYtQi1IWTBPOTNieEtsczRkYW9xZW13bjl5S3lEUFk1SG5XNlBvOEt0dWhiTS1CVGdPU3RDRzdtMzVpX3F3ZUp4R1laNDE5OS00MDMyVlF0Mmo5Qzh6RGgybWZBU0docUE5eGtWNTE4amk4UE0za2RqeHoyazNNSDRJRWRrbzBIT25mbGZYSDA?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUm9WRUtBdm5BSXR6a2xfdUsyOTZFYjl3RWZhaVhmQjgyVEtUTzVQV0VzLUFlQkFUSkxILTNLa09iRG1DQkc3eEEyVzlrelFzNjZKOEdyZzNqaW5QcXZnUURjRVVabDBCek9RbUVKWWo1ZFRmNm5SSkI5Qjdybl9HazVoNDBZVU5uUkFZbTNpT3lVUXZsbjhteFlWVzZNalRzNTFPVWIya2F6VWhBenpmbXJNRFR0QnPSAbwBQVVfeXFMUEZyRjlHUmY1SW1VQnlhV2IzVk5pVzFkOUo3TzZOdWowdzdkcXY1V0hDX1NhYWEyX3piRmN6cmgzV1UxQzhUVkFoYm5FbnVidnllLTVDUS1fcElPWXBRTEhKV0tBTmxMcmFmTTBqa0ViZlRGTmxoREl0ckVnak9zWjNWNVl4RmxZNGQxd3Z2ekhuUEZEQzhlV3ptN1B1UkN3R0hJcVZzdjRoMmMzX3NnZ05fQnN6MkVlakFULW0?oc=5"
+        },
+        {
+          "outlet": "Prabhat Khabar",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVnNrNVlOcjE4dVE1VWhHSlR4ZEtVcGVZN2tLaU8xMHpILUNuTXgxTXNfSVJqczh3QmxSTno3OUN1bXQzR1FEcjBvS1BDZ2tOdFpsczBpdTlpNnRMWjJubTgxOU9fZFBFUUhDODZOTHVEWjVhT3Z0SlBaZnppUW9fRUhrLTVwbU5RWXhUOWN1OS1nYnN2NGlFLVZnb19PTzNNU3pBMlNpQ3lsSDM3X0ljU9IBtgFBVV95cUxPNkRVcnpFRTlRTXU1blN2bXJ4MU9YcDhtYlFRczhDQjlPRlVtcjJOS1YySnhWYjVCX1JGTWN1LVRKVUlWZHByZlJRdGkyb3RBcU1xc1NYU2h3NWJBMnFUOTBmZTdlX25NdFNQTHQtNlpHbThTczhnQ3VYUkkweTRjR0hidHpwYkFyQXJBOVJhQVdMZEhkSDBSTzBFa0x2T2YtWWVsQXByT3BfVXZMZFJKQzhEUmJfZw?oc=5"
         },
         {
           "outlet": "Dainik Bhaskar",
@@ -292,9 +263,9 @@
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRngtSXVvMXRYUmttOUM5dHBHUGRXdUJsVHppaEM5SzYxNmJONy1BbkIwcFcwWnFMUEcwZDROckJVTlZDak41TnBpU3Q2OTJxTUVtbTZPa3dhRmhTYVVYN014SnR1SDZLMmhGNDNqaTJGWkx3RF9JeXh1eGljSzV6SUQ1dVhhWDJjVW5PNHBJLVdILTVGLU1OSWNUbFYtUkxfQmY0QmtFb1gwQUFOSTFpbjVLR3h2N25GTVlNbzlBa1dkdUZNTUlwamdCVGhkTjFQZktaQ2x0NNIB3AFBVV95cUxQWUYyY2tNbHA0ZTlKcjNmMnRBNF8zclI2UnpfOFFSTGdKWHFuQUlhNEFEMjdHZzRFV2FXNEUyTEJ0WTBFSzRDbk15ZnhZOFVPZXo4RUphdzZWSTljcXFQUzl3dTF2YTlUdm5ZOUNacHIzdVdsbmRKVE04RXRfQS00a0tUWjhJOGJWYjhobzVxamY0d1gtWFdwRVpTdVNmdmZVVWRQUWNpU2dlTU9KWHRzR1J3enFjX1NjZkRJY01FdGU3ZnRudDRUMHJocnBWYWpaZ0NYY04xa3hZbi1r?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVF9WWnBUVXRfV1d0bDd3bmVpOUpuWEVDcGFYZERoZmE3TkZteG5rbWNkOUZVdHRGRFZ6T3JWazRNVU1GWkQzZlZUOWw3NGxDaFlVYjBnbjlua1JReV8zWjRWUWRYQkxqeUtLalVROUlzSThuVDBnd01NbkV4RXJ3aUczSHlPZ3dwN3p1NEVCM1R3U2JMcDQ4TmNVeEdGQVRPdkHSAacBQVVfeXFMUGVMTXJPMFZFSFJNMWE0QWZWZjdqbzZ4aGYtQi1IWTBPOTNieEtsczRkYW9xZW13bjl5S3lEUFk1SG5XNlBvOEt0dWhiTS1CVGdPU3RDRzdtMzVpX3F3ZUp4R1laNDE5OS00MDMyVlF0Mmo5Qzh6RGgybWZBU0docUE5eGtWNTE4amk4UE0za2RqeHoyazNNSDRJRWRrbzBIT25mbGZYSDA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWhEUDYyQkdPRmdzUW4zVWxLMVR1aWNHU2tvdDd2RVRaaDV3OHM3NXBLdXU5dUZ1R0pwZm8yX1ZUWHRMSU5hd29GdHQ4c0J4bm5NLXkwQmIyWUFmaHpsZF9Rb09idWh0OTlfdXk4djJXMzBUUVd2MWJ2dS13VVYwSHBUX2pXMUQ5dkY0dkhGeW1aaHNZNGxTcEMxMHFRQ1hxTWpTZjB3OG9pMHfSAbABQVVfeXFMTzZkTUhUYU04aFlFdWxtQlNHbHlIcUFuRXpsU1luZHJRUUR2dmpJNHdpNXg5VXpQR0ZzYkVFd1NJcVY4bnpOczNjck1JTEdZZE1ZUHlSTkxPSmZVQnhjVXBuSlVVNnRxbkZfNXhUQjUxY2lWV2prU2h6SFFaQkhmTGRoOFVadE5LUFZZUngzRGlxWk9ha0pXMHNzSldJNXlpTjN5OGU3VnBLSlZlQTFMeS0?oc=5"
         },
         {
           "outlet": "Dainik Bhaskar",
@@ -302,75 +273,16 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ2ZORDctblN0WDI0blhVcTU4RV9fVjFGcm1PSDI3a0NCcnJTYUgtNlRXdExhaHFaSm0zeEdDU3g5NlRVSHNkc3Utem44Uk1YNUdnQzBfbkc0MDlCaElKeUZoV3hDSFRWbXNkZmM0TjlnZEp6OGV4R3V4ZHdCSXBheDhlSklLVkJQMWtuTGdOTjdxclM2dEhzajBQVkRMUnBGVFBIMGhqLTV0cUhOUW11QUpWYWpTNk9uRDVpWTVaZnUxbERySndpZUd4dE12V0MxWUFQQdIB2gFBVV95cUxOZnYyM3NmazljUEdwY1IzazZURDc3ck9ZRjlmZm1STzRqZC1OM3lidzlyM3h5R0w2VXNpNTNwVHJSRFhWRV94VF9wTVUyVzdEX1dkazVEd3RCdXRlS1YtRFJ0dkNnbjRqbXA0cDByQmM5UmpjLU9IbFd6MDJFeUQtQ0VVSFc2WVJEQndCci1ISGtzVFpMYTNfVy1TbWhJTWI2blNaWEhybzBTSDJURVQyMmRlQl84YkJTam1aRDRlbmNPaUdHaER3LW4wWTc0Z09TMG5uZWNfWGN3dw?oc=5"
         },
         {
-          "outlet": "Prabhat Khabar",
+          "outlet": "Dainik Bhaskar",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXhmSEozOHVoaHJKZ3RRS0xCLXR6aGpqY0hMRml6dHhFM2lwRU9TOHFrRnpJZ2c5dWxkRWNPcURDSEJvSHdzUXNueXlDVkg0RG9xUGVDVE1LQnRkakJGS2JXVFBKLUhUbTROM3Jidk51NHlMdTBlYjVjSk9ILTFTVkd0a2c5RWdOc2lwYlZKWnbSAZYBQVVfeXFMTl9jaVBaR2k4Y3Fvb2UzbmN6Y1Z6eHlyYVV5RXFLLUI1TG10SWFjV01kNElFcUNUQkpJZXcxeC1QMzRrMzY2YkJDQW81djg0bHVMQUVvNWY0NU0tbHdCZWhLNGFiM0tHbjhsOHVROTMyUEhieHFhZ09aWFZRQ09ROGw1RmdDaVNvNTNJQUhha1dqLW1QOEV3?oc=5"
-        },
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUm9WRUtBdm5BSXR6a2xfdUsyOTZFYjl3RWZhaVhmQjgyVEtUTzVQV0VzLUFlQkFUSkxILTNLa09iRG1DQkc3eEEyVzlrelFzNjZKOEdyZzNqaW5QcXZnUURjRVVabDBCek9RbUVKWWo1ZFRmNm5SSkI5Qjdybl9HazVoNDBZVU5uUkFZbTNpT3lVUXZsbjhteFlWVzZNalRzNTFPVWIya2F6VWhBenpmbXJNRFR0QnPSAbwBQVVfeXFMUEZyRjlHUmY1SW1VQnlhV2IzVk5pVzFkOUo3TzZOdWowdzdkcXY1V0hDX1NhYWEyX3piRmN6cmgzV1UxQzhUVkFoYm5FbnVidnllLTVDUS1fcElPWXBRTEhKV0tBTmxMcmFmTTBqa0ViZlRGTmxoREl0ckVnak9zWjNWNVl4RmxZNGQxd3Z2ekhuUEZEQzhlV3ptN1B1UkN3R0hJcVZzdjRoMmMzX3NnZ05fQnN6MkVlakFULW0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX2pBazRNX0VyS08zT01uVlRoejNOYVJBLUNfU3NwM05CNEwwOVdwNm03OWdMYmI5NF9vdXdFX2YwZXEyYmFlQ3FXRDNIeFduSzVteWpUYkRpLXN1eFVuQUpjUHJqM3FPYjZCemkzdXgtMnVvUktFbEJ0TFJIX1JXU1lSYTJLZldlem53S0VidjJSRnF6V3NzUlVlREdBc0pyd3U2OHBBa1NPdGJ2QzUxR1cyRUFQMkh4UXpOejMyeUwtRUtIdW9iYXo5WFpNRUl4MWtobNIB2gFBVV95cUxQTGNzc0NKemo0ZmRacGZpcnIxcThZVHRDNW1DX1BCTFU1SDlGRmhjMVA2aDRGLUlDaFNIOWZfN0pTQ1c4bExkaURvbThIS2tKWHV0Z29RQlkwMDI3TTE4em5DR0dFRS04U3BTcUU5aVlmM3pPbmRxWjFRR3JJQ1JjN2Jqb28zVzNsZmxxdFBld0I2MnRhdHZsdmtEVl9kbm5pTEFGam12OHVyb3pCaE9NLWpnTndEZUNOdWxNWGRHd01hWHcyNDFpSEVTN013Y3NzemdwSUVCbW9ndw?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "तीरंदाजी में भागलपुर के हिमांशु ने बाजी मारी, पटना के आयुष चैंपियन। इसे Dainik Bhaskar और Prabhat Khabar ने रिपोर्ट किया है।",
+      "brief": "तीरंदाजी में भागलपुर के हिमांशु ने बाजी मारी, पटना के आयुष चैंपियन। इसे Prabhat Khabar और Dainik Bhaskar ने रिपोर्ट किया है।",
       "image": "images/dainik-bhaskar.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "3-28-hindustan",
-      "headline": "आनंद मोहन की रिहाई रद्द होने पर बेटे चेतन आनंद के 3 सवाल, 28 नवंबर को पटना में बुलाई बैठक - Hindustan",
-      "summary": "",
-      "date": "2026-11-27",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "Prabhat Khabar",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcTVqYnVOa2ZFSDhSOWpzanBXR1U1QTlyT1l4VzZYZnZYU0xvaGZ6b24yNVd5VnJ2RW1OdWlUQ3BoalBfRkxwcUtfQnZkVHpoMTRCdnBhUzdpX1BtSnAzRjQ5MHp5N21ITUNocXZSc1huY0hXaWozbTlzSno1OUZ3bUZtdktLSWIxS2pac1dhYkM0R0NEMkV3dGdlcFpLbEx2dkptR3ExN0tQejNzb09MTzNtY2kxQXg4LV9jSF9MMDbSAcYBQVVfeXFMUGpmbzZyb1BaTkJRMTFDbGk2RVpfRFh0SHpleFltVXhKYXJJem9nczNCbEZKM1J2b1FIVDctUnRDWkp1MVdadUVHYkNZSzlWUW9aM0t4Y0JBNl94X1NTa01ISVpralFXVTdYOENYV2NORGNOUVNuUXFiUmg2Z3RCVGNLMXZQaXBfS0FFcGF3TVlWR1hRVkxYcVJ0UjlZQVotZ1FaYVdiXzdjTWVOMGJjM25STFVLaFJvSlVuNXRnMFFXSTZHY0Rn?oc=5"
-        },
-        {
-          "outlet": "Hindustan",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQjN3SWF1bzMwZ3ZqX1ZrcmZBam0xaEFrTlh5M28xb2RrOVVEOFZQakVKVjI4dHRGVGZHbTgzQmY5THNpbVE5R1lxbGRSSkMtR09KSVJ2aU82Xy14czNEWE1ieFpYWTFVZHZxc184bVlHSzNBYmsyM3VEcnFCMENRc2FDMzItandlbkdlQWRUcTRIbzFHZHNrVG4zbE1jbUpRRnNrQjdWWHdpcURYQ2oxdzBQZHlTMXFENklSOGFyWFJPdGc3NGVzYjZzVlJsQ1p2Vzc4bWFnY0I1OFBMdFR1a1dFRTdUeHdMeTZkQlRtYUhpQUFxWlhXek5jaFRWakl3V3o3YlRmVdIBjAJBVV95cUxPS3c0OEJmU0hPRzVlVFNKMmZVY0pkdHM1T0ZDOEhaSUdoQTVza1Etdmg0Q1BlSDRteEQ4NmV1YjliSzZ2dG5kem9hYlVvWDh0am4zZk1Vakh5VUZmMTZWRkxVbmVqc3V0aWhRLXhtRjZPYi01REpmNDB6OWxHczJyTWxKYjlrdDd6MDZqc0pkTTU4VmdpMWE5Ym0yMFJjY2xuT1lab1N0TTFHSVp3RlBRa18xLTVULWE5U25oLWduLU05aFBsSkV6TXQtUWthQ3pSSnRRc3A4cEd0SEFwS1NJR2ZkY3JvMEViTWpOVHRnSWVIa0RNdnh1a0tYaUozYVJ1emZKY1FQX3NSd1R6?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "आनंद मोहन की रिहाई रद्द होने पर बेटे चेतन आनंद के 3 सवाल, 28 नवंबर को पटना में बुलाई बैठक। इसे Prabhat Khabar और Hindustan ने रिपोर्ट किया है।",
-      "image": "images/3-28-hindustan.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "patna-high-court-summons-bihar-chief-secretary-over-five-yea",
-      "headline": "Patna High Court Summons Bihar Chief Secretary Over Five-Year Delay in Lokayukta Appointments - Law Trend",
-      "summary": "",
-      "date": "2026-11-26",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The Pioneer",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2dKdG04MEY5RERIY2J0UnFtWGMzbXUtd2ZWUlRXZEVzNENEMW5LV3hqRC0weDB2NnQ1UGFPU2RDRDNHZGR5d2FRVzRzLVU3RTdhVGpENkNvSktOYmR5eE43emc2MXNRYTdJRnRpNEd4cVJVb3RuMURBZ1BQS3I1MzBXSjhxZkJFMU9IQkhqc2dGb3c1SndnZ1RKdWnSAaoBQVVfeXFMUFRnQWlyRFpaODB5d3kyTzNpaFYtTHJlZ0NuN3FoRnRRbUxCbmtES1VJRGlaVG8td3V4YXJQLXBHbnBuelVjenRxWjVpNExwc3NNcl9HS2FEYm5pUVhtV0ZJeWZqM0JGT3p4Q3RzMk9XWTlwbzFRRTh6VVRvRk1peEM1REljTUxob0t3bnlfY012aXMwRHhZbzg0a3ZOcnE4bWhPMlc4V1Nrd2c?oc=5"
-        },
-        {
-          "outlet": "Law Trend",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEoyVzctOWNiaWdsNVFGTWwweERxbXdNRmFsWnAxelJMZ3VoQnpLZURXVVdhYjVONFQzX0d3cmFLcWtPNTRFX0dZMmpMVE9Ra3RfWUw4TVVyQWw5QU11R3E1dFdLNkdCOTdRUDZYREoxTzJob19GZGkwZHlickw4V0ZjaTFLd3FPRlBzdnUtc1pmUFNqa2QxQ0VXWGJ1ODE0OVRkWVJHMGkwaUE2T3lKNTVzcVo?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna High Court Summons Bihar Chief Secretary Over Five-Year Delay in Lokayukta Appointments. Covered by The Pioneer and Law Trend.",
-      "image": "images/patna-high-court-summons-bihar-chief-secretary-over-five-yea.jpg",
       "image_kind": "photo"
     },
     {
@@ -384,9 +296,9 @@
       ],
       "sources": [
         {
-          "outlet": "News18",
+          "outlet": "ThePrint",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOGYwTDBpZGNRdmVuQUpjbnM2c250QnlMMmppWWFoeVBoVV9uVGduQXFaZUVHbnJwamI0djBDQUMyZHVUdHdLbWJFT0hYNEZ6OS1YU3BKWmQ2akpaNzRvQmJxOVpaM2lfMG43WGQ2MldXV1c0YkdOeWU1WExRdDd3dm1GTFF5UC1jM3hHN3JYaVFKZDRxaG1Wc1Z1TnVRTDdOZ1R6c2RmdVhzVE5JVUVZX0szLU9hc3p5ZUo3Tko0dTROWVBMYVkzYTUzMjBUZHV2TzVlV9IB2gFBVV95cUxNMVBVWlhaaTRjdzdGTWFMd3ozZGNYX3ZweWlROXREMmwzQTFOM3NYWElkbWRXWGdQeWl0eW42Z01fSEZSLVNQUG91R3duaThLODA5M3czdnhvZVdSX0hadGVtUjh2STh5eFN4NENzTUF6LXAtOHJaV29ZS3ZGV0l4eTFTRHE4S2FvVklMOC1lWmlMU09lRkNrZWJkUm5PcnNxVGZxVmV6bllhX3N1TzZySmx3T19JSkRnc1ZJSnRzRVQwcTFBeEpTb2hOcF9qWUhTQ0tRTENZb1BOUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObS1FWGFwYUowWURYMGhVSVhCSWs1YWdZUkVqMjVzaHdvaFUyVUtBNF92QzcyNm93S184eXhhdldKVkNDRU56ei1xM19DODB0aWcwckxrREtNYzAwRzlhZDRmV1hfeXdsd0FSbTNnUGlLbmo2b1UtaWRJMkxRSzN4VEU2cEwzNEp5Wnd6bzVBUDI4R3d6cnhub0JVbXpaemVfZTdYeFhsbllWTGhvRDRaME1SY09XWk8xc3FQTVdZdC1SVjNzQ05UWGZtN3ZobmvSAdQBQVVfeXFMUGRrZW00S1NXRDRrOHNXMWFpOFNrcFozQUpyR1FlN3VhZmdicEFaOHVWQ3BNei1iWV9kNTRRcjl5OVFDUmxuTTNmdGs2Z29xMXg0azNsTG51RjI5OFZCQm5Ba0JVTkpsYm54c0ZXUzRjZFhOZ2hjb0swZTJtWERyQVhXaTRoZk55UjRXaE13aXNwSm55ZXRicUFwMGlNVloxek9nSXdZc3BoOEtkd0YtcFpwQ3UyR2FNM0l1bndwVVBST0dfZm5jbmpCdEtfd0ZIU0JxUGk?oc=5"
         },
         {
           "outlet": "The Times of India",
@@ -394,39 +306,14 @@
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnZqbzNPQjM4NjdYcHFZVzJrMjVBZksyNmRSUlpLZzUycHlWVktvTmNkbDV0bjJOWFE4V3JwblRROGhnUWFzVkd1Wjh4TTd5M1dCV0ljRS1hWWtvMmpxQnB4NmNfb01aaDd1bHY4VC13ZjRfalotMFZ3d0h6Z0sxOVJwSzRQV3RGWGw2eEFxUl9KdGNPUkxfWmh1M1lteXdOTFdGck9saEZjeVM2T3JFVFE4eWhPUGYyUWtzMWlJaURHa1l1UnRzSXc4S3J0akN1Y3JVSXdwYWpQZUlmZXZXVTUtRW04cjJHU2VhMG11Zk84U0gzaGtzWDBJbkc3eTRWdGxjUlhaNjLSAY4CQVVfeXFMUHZBOFBwcjg1czlhYUtydFNKZ1daS0Y5MEZESEpGNlBNOExrZk9iM09fbWpWR1QxX1hPYlI3a25jUnVYdGRxNzd1ZHVaUS1NTDF3dmpBeDdtNXpVZkxmNkFIcXgtQUJKVmZQcG9uaXJ5VjNZTEtMOFU3dkxGTk53M3oxSS16enNvUTZiWmdLcTdocUhTbnRVQlJLTVg4QVVvYW5sRGI4bWJvUUI4OFhrWlJDTzJURDBXV1NSUzdEbFNVRFZtMWJkVm5McHB4SnNFUEFzbWJ0R3Qxc3VyWU5MU0NNYVZtWFRrZlhIOFM5dFhyTFFKYVFtYUtBU1Z4eko3cUd5MlNQQVFyMllwMVR3?oc=5"
         },
         {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOc2hEMU5rZm1JYWJNRnlyWUdoeDd3dHcza1hYdVBOQTNYQ3o4ZDRxM21jWmttQVBqRkVUc01WMDB3NW5IVlBBV0ZjcnFYZDR6UWxhZllYeGJtUE82Y0dOYlMwU2p5Nzdua2o1eUh5ck9zZHJOc2p0dWJGeElTTFRkR3VRMnh6T3VJd1J0ZmNBQ2RlSEc0TTFJU0FCNXJ1dGpMeks5MHJidkhGb1BqSXRHRXR6Rmg1d05vbTFmSlR1LU81LTlOMElNcC1lM2FQUUpXcFVkb2ozWmdGaUtDTHQybTdocDRZZkE2Z2FxZnJiMktQbFQ3LXVuWWQtbVRCYk1kMi1USVg1T0tTY2NnanF6UDdOV3rSAZoCQVVfeXFMT3QyV2xOcXgtMTRxRS1uczNwWE9RQlkxcktWOXg1TTltcGlaZUt6TWdHRThJT01GSmw3NVdPcVJSdk5jTGFQZHR2b0lScTk4YXJKbFV1Y3ZCZkowUG9sRlJPd09zbjFjdU1iZzNCdnF0dmFjdFNxMlZLQ1lhN3RMZTRvcjBoS1JQX0pwZmhmV0RERndNRlpHSlJnS2VDTXdfZnE1NGhjUnpjM1Y5X05rbUZPcmtkSTBUUjdwUGRYNEQwTmlwX3JtMkZKUFFzcDlCUHFRMTJoYVRMaTZkTFVON3hUNzlCQXh5SVhhVFdNS2tYVTN3TUhGSTBrUFdXd0pDOGxkTl9BTHRPUmpPeVZicmdWRHpKZlN1aG13?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObS1FWGFwYUowWURYMGhVSVhCSWs1YWdZUkVqMjVzaHdvaFUyVUtBNF92QzcyNm93S184eXhhdldKVkNDRU56ei1xM19DODB0aWcwckxrREtNYzAwRzlhZDRmV1hfeXdsd0FSbTNnUGlLbmo2b1UtaWRJMkxRSzN4VEU2cEwzNEp5Wnd6bzVBUDI4R3d6cnhub0JVbXpaemVfZTdYeFhsbllWTGhvRDRaME1SY09XWk8xc3FQTVdZdC1SVjNzQ05UWGZtN3ZobmvSAdQBQVVfeXFMUGRrZW00S1NXRDRrOHNXMWFpOFNrcFozQUpyR1FlN3VhZmdicEFaOHVWQ3BNei1iWV9kNTRRcjl5OVFDUmxuTTNmdGs2Z29xMXg0azNsTG51RjI5OFZCQm5Ba0JVTkpsYm54c0ZXUzRjZFhOZ2hjb0swZTJtWERyQVhXaTRoZk55UjRXaE13aXNwSm55ZXRicUFwMGlNVloxek9nSXdZc3BoOEtkd0YtcFpwQ3UyR2FNM0l1bndwVVBST0dfZm5jbmpCdEtfd0ZIU0JxUGk?oc=5"
-        },
-        {
-          "outlet": "The Observer Post",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDBtSmZ2WEl3MmZkVXQ3c2dudWNITUExYldJMmNlbC1iMDRGdVo1TlVHZjhuTzl6MG9mZ1YxSTFIckhuaTE4Tks3ZXBqWnlYaGNNdmg4SUcwQXpKQ0laY0otd19rRTNldUJvMGZCQkp6czZqQlRrVk4yeXM2N3BRR2dDSXVmWWtOYi1QbnM4a0tPQ3pNYndDLTI2MlFXckZ0LUFXWWhXcUdKYkpDVU1z?oc=5"
-        },
-        {
           "outlet": "India Today",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWGkwRFNGLV9HVFZyVnJldFVqeHdJTUV1MFVUYzBBQ1RiVDlCZnlucTlTdkVuN1VJVU0wRElZb3ZWSGdpemFVd3pIZFcxX21vbExxMlY1a2VsSEEyTlpRR21ONHVQUENoYnZwbVdoU1NSOUxPWlhVY1JraWlJcEZVUHFCVV9RWVdNVEdEeTNKclBWV19pWWZJMnZIdF9Db25jSWtlUkNOR0FTSmdDalJZY29ROWJEckFCazFiZm9HZEo1NElPYUhZd3RFaU53Zzg0MGJfUV94STg1eGI3ZU5ESU0wOGp4MWdxRnVLb2VB0gHzAUFVX3lxTE5CMFF6UlhZQU14aUZybzJlcl9kTlpMdkhvb0R0SnZ3MHcycmd1Z0tHR3lZeHVBZjZLN2tSWl9hb21jV3Z0dVZuZkJFSnIyUkpLT2JRZURfbnBaYW5GUTdQTDZoZkd5blc1ek1NejJkLTJUR1hYYkUtaWZOb1NYQjRfSzU5bE1vNzZJUzF2cDJqZ0VGRFdsaGRURXpmemdnUm5QM0ZTem50UmVOMWFXZHdLa180TmQ5SkRQS1Z0UERZTkhTWXJ0Y05sNDVEelVqaUhZZ3NDM3FveUtzOVlDUk1qZ3RVRXVkcWVURzVhRmtSWmhWVQ?oc=5"
         },
         {
-          "outlet": "Udayavani",
+          "outlet": "The Observer Post",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0ItcFZoNmJsU3dCa0g3OHRwa3Fub3YxbmFEZTFBMGxBbVl5VjFPZWw1aXg2U3BUQllScWF6ZXFJMjZzSU9JbVhvbjUzY1MySUxHVDRmRDlWQ0Mwd2F2T2tKWXJYSUh4ZE1hcFZEb2x0YUx6U3hJVHQtc1hZcWhXS2FsXzl5dUNNV0NrSk5sRDVpUWdoVlg4VWRSaXRUTm04a3FUcktmVTdwd2tYazluWmJXWHpGTm9Oa0lZN19CZXEyMEM2dmVxMjdR?oc=5"
-        },
-        {
-          "outlet": "ETV Bharat",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjg1VkpRVEo3TlpHX1hZLThFdjFXc3psSEN4SHlzZU5KMVRFSmNSNFl1RzVWNURJcHM3R0ttbThMNDlDNWtwd2VRcUR0X2dtOWN1MXo3QTJaU2I1YmRoZDUtYXltMzJRUWI3X3VxMEZoekFrbnVLUnZHdUNXRm9qdjJUOWZUbWktcjY2RnhMc3hYRVNLX0hhVVNqMmZnWFFLeEdFWVRuVnAwSnRjamxPWmk4V2lkX1JTODE2MGNaWTJRNW9pRzhuVFhmaENkYWhTV1ln0gHYAUFVX3lxTE9fbkt2OGNPd1l4Y3NhRjVpZlRYMnpmTnRjR1MxeG5vZGo3dHdtQUNZQlJUQUJBZTVpVDJhdXdkX1F4ZGdVb0V4dEUtY1lZWjQ2em5wdnFrVHFCa0FOZ2ZQUGFfUnVpMy1pZkVyN0JxdmFnWXpmeFFoN2ctSFUydlRyYTZvSWdBV2YxRHNaU3MtWjV1OVIwNHJvOXNZMndqeWNhX0lsNU8zZ1l3ZjAyQnllSGE1Z3R1Y05QdUhjakY4N3FaekdDY0ExcURhc2QtM29FT2llLUVIYw?oc=5"
-        },
-        {
-          "outlet": "Deccan Herald",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNak9JcmE0T1RuREVNZGE0dVg0Tk9wZFE2LWY2aEZtaExxQmhpc0R3azJpV3FrRWI4SnFWUU9tYUNxVFR5aGdHR2RtdUpvcUhmTmEwWUdfN3E3WVlROWJSY2FYUVh6dXJqRUs1UzM0WEstRTNGQ0ZxNDRmOXkyanU1a2d5YVN4VGYtRlFQUzBQd1NNd3BNc0ZzUDFVLXF6Ri1JbHcyTkZ0aVRsbmtCbGgxUFNVRjc2NVpFaTJtbnVYa2ZoYUFyWnlkVllxalBsZkRCNUNVQ3JOTXdEOWR1ZjJwamV4c2p4SGZ2?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDBtSmZ2WEl3MmZkVXQ3c2dudWNITUExYldJMmNlbC1iMDRGdVo1TlVHZjhuTzl6MG9mZ1YxSTFIckhuaTE4Tks3ZXBqWnlYaGNNdmg4SUcwQXpKQ0laY0otd19rRTNldUJvMGZCQkp6czZqQlRrVk4yeXM2N3BRR2dDSXVmWWtOYi1QbnM4a0tPQ3pNYndDLTI2MlFXckZ0LUFXWWhXcUdKYkpDVU1z?oc=5"
         },
         {
           "outlet": "The Hindu",
@@ -459,9 +346,24 @@
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMFFEa0p6MG00d0dSNGVtaVcyZnNITTdQS1M5ek9RRWpJeUF1TGdxekVRZGVaa0VMMHRNNlAyYWpJZE1CSkx0RENjZTlnZngwUWZYVk9HOFJZN1pEbm95QW1ta0pVUUtwY212aHBNQ044cDU4UVBJeF8yMGlpM1hfWlRNczVyLUxpTUpjSVZwVjYzeUIwSTh1UjM2eGNYTk9ieGpZSlh2NzU3UHEwLVhEVURSMFhBS09GU0toeXc0ZjR3SnpSMVh4eHV0VEotSW9SZWp4OFNZeGNWZlNjT1c3ZGY3a0vSAeoBQVVfeXFMTmc2NXU3QVpkanE3MjJsS2tyZkxFT0l3Yi1wd05qRlJfbG1xOE8wdTRhLVd5U2xHNG9SamluMnhBb2d6WU5CckxWakhhemVIcDUxOWhQY0Q1Qmo1XzdxV095RW9kdmZVa1lsMnd0Z05sS3VCc2l0V3NUbkJYUmtob1B3Y2hSazEzcllZMWdoQVhILVZvOVAtZmR5UlNZZHFQbWp5OXVtRTR5amFpaUgtN1Uxbms3YzF5ek5QQXNldGZlRFBXRUxOaExRWHlIQVpFbGwxeUJoOXlETGY3YWNmNHdOSnRyRnltM2xn?oc=5"
         },
         {
-          "outlet": "Free Press Journal",
+          "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRTdmaVh1azJTc2JwbkZDeGp3TWdBdEhVSC1JdmFqc09GcnV1NzBtdlhJbXFUMlFzVVBuMllVQ3BVSERPTjJ1Q0NBX05HaU4wUW5GSnBudjlSc0JvRWZZd1JLYmhIRDNEVFd5a0hkaFBvMUZmXzhldjl1U3N5aTBFODdPZklhVlNuQjFmLW9HNWNIWkw5ME1pdG5hRW9GVFdyUHQtZ1htZU9PcUxpY1RTUDJqLWxGRF9aQnF6cmRXRnRpU0ZJdXBPdWw4blpzMVgzWDNVUXh6RmFwQdIB3wFBVV95cUxNelI4QkxYSHd0Qjl4bVZZTnJuR0NOb3JkcVlyWHcyZ0ZOVUgxbFNDdjdoSXN2TU5sb2lLUVJPbm1UejI0MlhscW9KWjNBY05zSXNJOUJoUFpRNjl4djl3WDltWS13eUdNUkNpcmV3VVVnQUhIdmlzaDVXU2xsdmlvdmh6OU5jMDA4b0xBa2x6M2Z2UGZXTDJfQV9pMDB4WVdMZWdFQzJlbElLLURMLXVXNDZDeFFEaVlpUEtLTzEtZXE5dUVYT09pd1pLS3BfS21LQ0RBeGFra3FyV21JZkRr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOc2hEMU5rZm1JYWJNRnlyWUdoeDd3dHcza1hYdVBOQTNYQ3o4ZDRxM21jWmttQVBqRkVUc01WMDB3NW5IVlBBV0ZjcnFYZDR6UWxhZllYeGJtUE82Y0dOYlMwU2p5Nzdua2o1eUh5ck9zZHJOc2p0dWJGeElTTFRkR3VRMnh6T3VJd1J0ZmNBQ2RlSEc0TTFJU0FCNXJ1dGpMeks5MHJidkhGb1BqSXRHRXR6Rmg1d05vbTFmSlR1LU81LTlOMElNcC1lM2FQUUpXcFVkb2ozWmdGaUtDTHQybTdocDRZZkE2Z2FxZnJiMktQbFQ3LXVuWWQtbVRCYk1kMi1USVg1T0tTY2NnanF6UDdOV3rSAZoCQVVfeXFMT3QyV2xOcXgtMTRxRS1uczNwWE9RQlkxcktWOXg1TTltcGlaZUt6TWdHRThJT01GSmw3NVdPcVJSdk5jTGFQZHR2b0lScTk4YXJKbFV1Y3ZCZkowUG9sRlJPd09zbjFjdU1iZzNCdnF0dmFjdFNxMlZLQ1lhN3RMZTRvcjBoS1JQX0pwZmhmV0RERndNRlpHSlJnS2VDTXdfZnE1NGhjUnpjM1Y5X05rbUZPcmtkSTBUUjdwUGRYNEQwTmlwX3JtMkZKUFFzcDlCUHFRMTJoYVRMaTZkTFVON3hUNzlCQXh5SVhhVFdNS2tYVTN3TUhGSTBrUFdXd0pDOGxkTl9BTHRPUmpPeVZicmdWRHpKZlN1aG13?oc=5"
+        },
+        {
+          "outlet": "Rediff.com",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTlktWGM3NDNwazlYaF9VcHJZM2R0LTI4aVJlX25OV1YwT3pqbUFfY1RCSElUZXlWMDdfMWNOVE9fOVRzR3hIQXYydm1CNG91djkyT29CVWM4ZnBYdXJPS3RTYk5VeVdtZGdsU19Yc3ZCTGhUcF9aUlNKSXJNYzFyenN0RGxiSnVMUUJuNXdtcmJyTkVuc3RsZnZpdVEtRUt2U1ZJZFdyYVdxZzTSAa4BQVVfeXFMUEctcmoyLUpxNUl0QlU4WThwWUNvWEt6OU5jQmJCN2RxM1dkWl9SeDVITW5QOVd2c18weklJd0pmX09sX2sxemZZUXJmZ0xwTk85ZUoxdUxMN3NYRF9FRloxQVFPbjhQWFFld0k3elAwbFd6WHRTNFQ4eFBzRU9hNUh6R3ZZSlFJd3VOOE04Y0ZfdVlvc19aTHZETi01OFFyeV9ZcWljTUk5RWQxaklR?oc=5"
+        },
+        {
+          "outlet": "Deccan Herald",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNak9JcmE0T1RuREVNZGE0dVg0Tk9wZFE2LWY2aEZtaExxQmhpc0R3azJpV3FrRWI4SnFWUU9tYUNxVFR5aGdHR2RtdUpvcUhmTmEwWUdfN3E3WVlROWJSY2FYUVh6dXJqRUs1UzM0WEstRTNGQ0ZxNDRmOXkyanU1a2d5YVN4VGYtRlFQUzBQd1NNd3BNc0ZzUDFVLXF6Ri1JbHcyTkZ0aVRsbmtCbGgxUFNVRjc2NVpFaTJtbnVYa2ZoYUFyWnlkVllxalBsZkRCNUNVQ3JOTXdEOWR1ZjJwamV4c2p4SGZ2?oc=5"
+        },
+        {
+          "outlet": "News18",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOGYwTDBpZGNRdmVuQUpjbnM2c250QnlMMmppWWFoeVBoVV9uVGduQXFaZUVHbnJwamI0djBDQUMyZHVUdHdLbWJFT0hYNEZ6OS1YU3BKWmQ2akpaNzRvQmJxOVpaM2lfMG43WGQ2MldXV1c0YkdOeWU1WExRdDd3dm1GTFF5UC1jM3hHN3JYaVFKZDRxaG1Wc1Z1TnVRTDdOZ1R6c2RmdVhzVE5JVUVZX0szLU9hc3p5ZUo3Tko0dTROWVBMYVkzYTUzMjBUZHV2TzVlV9IB2gFBVV95cUxNMVBVWlhaaTRjdzdGTWFMd3ozZGNYX3ZweWlROXREMmwzQTFOM3NYWElkbWRXWGdQeWl0eW42Z01fSEZSLVNQUG91R3duaThLODA5M3czdnhvZVdSX0hadGVtUjh2STh5eFN4NENzTUF6LXAtOHJaV29ZS3ZGV0l4eTFTRHE4S2FvVklMOC1lWmlMU09lRkNrZWJkUm5PcnNxVGZxVmV6bllhX3N1TzZySmx3T19JSkRnc1ZJSnRzRVQwcTFBeEpTb2hOcF9qWUhTQ0tRTENZb1BOUQ?oc=5"
         },
         {
           "outlet": "The Hindu",
@@ -474,11 +376,102 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcW9vbnRscEZqcmU3eXRwRHFTYlVRRlBQajdSa3VvaVBKUE5BN3Ztd3BvWWVIUmlfLXZSRVQ3RFA1VEhlV21mdHZfc2FsU01EcThPblVxQ0lZSDZGdUNUVWR4VVU2Q0Z0Qm1JV3lnRDM5R1JOTmYybklEZlFCa2ozV0IzWWM2MWEyUC1rZmxHV3I4X2RpSllyTTdHSWpRQmN1U0lOSFY1WTRkWjgtSzlqaHdjWHFQMjdqS3Zv0gHCAUFVX3lxTE01eFJBY0ZSQ2k0MktTSnhCQUpMcmZaNGpJbjJlTVFXU3JQRmJLOUhaQ2ZLbnFEUFROd2dwYUhzbW8tWFVlbnNxalUxdkJ2WURtZjJtbnFLMWxUWmtqVEF0TGdMSDFVd09aMDU2SDFwRFo1ZWJrWFhkeVlPa0o0Z2p5NmVrbG5UYXVQYXRUQThhUFp6b0FQLVVHWTI3WWJLbmV4b1NqdHFBOU8zbHVVeVprTU4tY1U4LVpKZ3ZzXzNwYnNB?oc=5"
         }
       ],
-      "source_count": 13,
+      "source_count": 11,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "After Patna FIR, Delhi BJP moves police against comedian Yash Maheshwari over Chhath Puja sindoor remarks. A politics-related story. Covered by 13 outlets, including News18 and The Times of India.",
+      "brief": "After Patna FIR, Delhi BJP moves police against comedian Yash Maheshwari over Chhath Puja sindoor remarks. A politics-related story. Covered by 11 outlets, including ThePrint and The Times of India.",
       "image": "images/after-patna-fir-delhi-bjp-moves-police-against-comedian-yash.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-cabinet-approves-industrial-land-acquisition-patna-wat",
+      "headline": "Bihar cabinet approves industrial land acquisition, Patna water project - Press Trust of India",
+      "summary": "",
+      "date": "2026-11-26",
+      "topics": [
+        "civic"
+      ],
+      "sources": [
+        {
+          "outlet": "Press Trust of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHlrY2h3LXRfTkpoNDJtdDcyMHRiazVwTm1kZmMzaHYtSng2NGhMMGtad2Q3R2RJUEFNOXJkZi1QQm8wbGp0Nk42blBuUTgzUlN2VFhCRWVGQkg0THlhQUtaWFJvOWdTZDBhT19fdnU2OTJ2R3ZQWmdKWTQ1eFlPLTFHMHk2U25Ub1o1Z3FmYlZKOWRIMF9GNVdXU2tFWFVrMUtSUUtHQlV0T0FUV3BLRjNaSVRnSlhV?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEkyN29hQ2x5bDlieng2emNVTW94MDl1akJFal9xNDZFcTNFZDZrajJISDdPTDJCc295ODFtM1JuVVZaNHd4M3F4STdmb2tVV1lRZzVRMUI3cVp2LWN1NmRxc2ZhajBVZUhkM09ZaVk4QkZPU19YamVBNHpZVlFNTGJOdFliQ0xiQV9qeXRSYzU4emhpSjRiWl8zMFBIbnlvX1gzWGJSeS1pTlNQbzZiWlZQMlJORlA2eXB4T2V3M2szRmx3c0dr0gHMAUFVX3lxTFBlcjZJaHFoMnA3R2R2alV1NkJmcXBSdzZmNW5ZdnNTZGlrT3FrLTdwZllLOG9PWGRUQ2RURFlYZGg0ODB1U20zR3RMSmlMZWpncE8wQVU0RGljQTVrTEVfMkRLQ3B3eUF3UUFvTjU1aVp2UkxKUldEYTdVX1J6QklMeERiTVJtakVvcms5ekFTYV9WNVlTcG5pYzRaQkdGSlRSV1pCNTlkU3hENnppMFphMG5aMy1GTEgtZW9HeDMxRjhSMUdMZ0p5WVBvaw?oc=5"
+        },
+        {
+          "outlet": "The Hindu",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV1Q3SVNnMzlRU2haQVk4U3VmTS04dXJNeFVrVmFWcWRrakdBX3VCMGU2cFVLQm9rb3BXa0JzaTRJT0ZzbjZ4M1ZnSGp3S1pBWnFpN0VtcjRPY19wS1JGbFBiM2ZydVhteHRpa1c3SlNNaGZMUzlWeWl1MVBkWVJYeUV6eFI4bXNYa1Y2Vmk3TFpZVE9mWE9ZdXRDVGRvelJKSFg0eEJNZ1ZrckpkS2ZrLVFqN1pLcHdZSFdhbDhoU0tIQVFVRHFIV9IBzwFBVV95cUxOaWswdS1paGYwUXR0enktR2VRREVwdnZCOHRBMDRkZDRNeVBSUDNoT2NGYnU5TFhTRG9kXzVZSGtISERMbklHaWFEbFItYjJwLVNxbmpub1U1dkZWYkxKc1loTE51czY3MjdaOGNXcWttZm5oekh2UEs5N0k0RmlybXBDVVFOeXU1a0dRNVVRczlvTlRrcWJocVFNUkJGVnNzLVJCbFh0UkpJQVhVMzJjNG5BQnFwdzRiUy1tVkxvTUpibURXRG5xOHl3ajNITEU?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar cabinet approves industrial land acquisition, Patna water project. A civic-infrastructure story. Covered by 3 outlets, including Press Trust of India and The Times of India.",
+      "image": "images/bihar-cabinet-approves-industrial-land-acquisition-patna-wat.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "bihar-cm-samrat-choudhary-attends-nitin-nabin-s-grih-pravesh",
+      "headline": "Bihar CM Samrat Choudhary attends Nitin Nabin's 'Grih Pravesh' ceremony in Patna - Devdiscourse",
+      "summary": "",
+      "date": "2026-11-26",
+      "topics": [
+        "politics"
+      ],
+      "sources": [
+        {
+          "outlet": "Inshorts",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVRXQmtCMWFNYV9rNk9WT1dLblRJTktKRG9oQm1sc1lHLVdxdXJvVUdkaG8xVThhcjlwd0xza2dyVE00SW92ZDRKZElfTEUwVlV3MjR2Q1NPMFdYbEpCZmg4WVFHakwwd28yR2RQZlo4LUNYLW91Ym55QS12clFPcDU4S2hsVS01b2lBTmtwQmFuSEs2emdCYjJhc0pTdVNFelduVzB3U24?oc=5"
+        },
+        {
+          "outlet": "ANI News",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDk2NGc4b2xkN1R4NnluSzBaNEdxaGhJZFByVzNQREFZdEhMdHh4dlAyc1lEdEZla3ZEd2JXWTgyVzVnNDQwbW9iY0tyQ25PYUVYalY2dGVpMTBaekc3Vko0ODZYSWRNSGtSZzUxckdtT09MZGhyQ3BaWFU4SnRwYzUybnRVQU9XT2dPMUdKT1l1SkNJVmNMazRRY1l4cXZFUFZlSnBmZFpxSkIxcUtNc2o0dEM4dDRwSWE4UXhOUGlhTjJnVWRSMktLYTcyNTRFX1lN?oc=5"
+        },
+        {
+          "outlet": "Devdiscourse",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOTVMU05JVkNmWFd4dS1iaHNvS2pONlM0VmlMR0ZWOW1rbFFwQzltOVJBV3l4MF9TZUlDMGo0UFFiX1lVRGJ1eWdIdGpTLW00UFJNMnNtV0cxVTduVWlMRldBalNxbl9hMlJ6aElJMC1sTUd1QnBqVFlIalBBVDVhNkZvUmxjWTFpX0pxNUtFd0NPWTJjdDJsSzUyWGdOMUdtYU1XZU1vaFNEbFdPY2swbGJGVTJCVVE5ay12YW5zbDRMVTUzNTBLdlFiMWZvcXJK0gHQAUFVX3lxTE05NUxTTklWQ2ZYV3h1LWJoc29Lak42UzRWaUxHRlY5bWtsUXBDOW05UkFXeXgwX1NlSUMwajRQUWJfWVVEYnV5Z0h0alMtbTRQUk0yc21XRzFVN25VaUxGV0FqU3FuX2EyUnpoSUkwLWxNR3VCcGpUWUhqUEFUNWE2Rm9SbGNZMWlfSnE1S0V3Q09ZMmN0MmxLNTJYZ04xR21hTVdlTW9oU0RsV09jazBsYkZVMkJVUTlrLXZhbnNsNExVNTM1MEt2UWIxZm9xcko?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Bihar CM Samrat Choudhary attends Nitin Nabin's 'Grih Pravesh' ceremony in Patna. A politics-related story. Covered by 3 outlets, including Inshorts and ANI News.",
+      "image": "images/bihar-cm-samrat-choudhary-attends-nitin-nabin-s-grih-pravesh.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "patna-high-court-summons-bihar-chief-secretary-over-five-yea",
+      "headline": "Patna High Court Summons Bihar Chief Secretary Over Five-Year Delay in Lokayukta Appointments - Law Trend",
+      "summary": "",
+      "date": "2026-11-26",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Pioneer",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2dKdG04MEY5RERIY2J0UnFtWGMzbXUtd2ZWUlRXZEVzNENEMW5LV3hqRC0weDB2NnQ1UGFPU2RDRDNHZGR5d2FRVzRzLVU3RTdhVGpENkNvSktOYmR5eE43emc2MXNRYTdJRnRpNEd4cVJVb3RuMURBZ1BQS3I1MzBXSjhxZkJFMU9IQkhqc2dGb3c1SndnZ1RKdWnSAaoBQVVfeXFMUFRnQWlyRFpaODB5d3kyTzNpaFYtTHJlZ0NuN3FoRnRRbUxCbmtES1VJRGlaVG8td3V4YXJQLXBHbnBuelVjenRxWjVpNExwc3NNcl9HS2FEYm5pUVhtV0ZJeWZqM0JGT3p4Q3RzMk9XWTlwbzFRRTh6VVRvRk1peEM1REljTUxob0t3bnlfY012aXMwRHhZbzg0a3ZOcnE4bWhPMlc4V1Nrd2c?oc=5"
+        },
+        {
+          "outlet": "Law Trend",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEoyVzctOWNiaWdsNVFGTWwweERxbXdNRmFsWnAxelJMZ3VoQnpLZURXVVdhYjVONFQzX0d3cmFLcWtPNTRFX0dZMmpMVE9Ra3RfWUw4TVVyQWw5QU11R3E1dFdLNkdCOTdRUDZYREoxTzJob19GZGkwZHlickw4V0ZjaTFLd3FPRlBzdnUtc1pmUFNqa2QxQ0VXWGJ1ODE0OVRkWVJHMGkwaUE2T3lKNTVzcVo?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Patna High Court Summons Bihar Chief Secretary Over Five-Year Delay in Lokayukta Appointments. Covered by The Pioneer and Law Trend.",
+      "image": "images/patna-high-court-summons-bihar-chief-secretary-over-five-yea.jpg",
       "image_kind": "photo"
     },
     {
@@ -494,12 +487,12 @@
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTGt1LXJUNjlxRjhSZktEUWhzOExxNnVHLXJLVU5OMVdDckRGTDdxaGVYTmlXcDdqcE9ESldPdFJNSjduNFVHRVlUQmpCWFA3QkRKQjEwVVBqRWs3MllYQ2NQR29YUWVLMlhTY0hGTllCMnJTT1Zha1gyX2d0N1lzTlVEblBwRTRDZTdWUHhZVkhwQkdLTVFxVHVBZVpJN3BCWURkLURtOU1WS0xDMjFxQ2czYnJfdlQtb1VoaW0wX2hMV0RyTjVNU19TTjkxY2FEYjZ2OGhycUxwa2FUQlZtOF9Cb2RFVjFfMDV1OTk3aW9IWUNKSWZheFdIbUFnYTFE0gGGAkFVX3lxTE16MUNKeHVvYmdnV1VabUpqZlNaU0txTGIwRGhJdkRxLWIxZ1AtSFFUcTA4RVRkd0JXT2dMdU44YjNpUFF4YjMwbm9JYUpZLTgzQmhZbFVXdGJ6dU5OWGI3VEp5WU1rOE1PMHlkTW1XYVB2b2s1YjlNczdKcjdjU1ZUNU1XTHBydU52Ym9RWVAzdmdMRi1ENWhYTGxjU3prQ2E5dk1xQzVoZHFfX2hybHVEYUNBcDZEc0k0cXBUSnlfQkRMSFZIeE1MTms5Ulk3MHI3YlpUbFNTNjdTemRQcDFuQkdqazhTQmV6enVycjA4ZnlEbWtrSWQ3eTUtWDFKYUUyeWNlT2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWlhlbkt6WkR2ZWdJY2RVOU9tUTJFR2RpdUkxRUlrb052OGJ1ZEhRT20zWkhBaW5fSUtZMS15X1ZEWTFFNE9tcHpEcFVVbVFMRTVkZmkxRWpDUV9mLUs5c1BzZ0hPRDhEd1hZdndtSU83WWRuRG9QRW9ILWhLVVFlNVBUaDVnQjJmUk5BSE1tN0tnaml0TVNISFRwV3ZMMlk5YXNubUw2MHRUdUsxVm5mZXVwSWlGb0swTlBqeWY0bVpxRFdjVGdfWmxB0gHPAUFVX3lxTFBUSUxRT3RtemdNbkJKSlF4YmtHMkQ0SWtkYV81cjQ4S2N5YnhzYUw2MTZrYnRyNjJJV3E1X05NaU0yVmx6XzdDS1k3QjQ0QUZYWUQ0M1NIM2NRMXAxMzR5QXF0elBfSzZEZXpzcmVQcW8tSkNETHphMHFEeEdjSTExNV8zQWhBdkNEeXd4WFpEMzNPUzBEajYwOEtnSzNPWVVVM2xlX3oxMVdBVnk5TEp2NkVCUVg1aV9scFRBTnItQ1N6WTFrN2EwUFBfNHNNNA?oc=5"
         },
         {
           "outlet": "The Times of India",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWlhlbkt6WkR2ZWdJY2RVOU9tUTJFR2RpdUkxRUlrb052OGJ1ZEhRT20zWkhBaW5fSUtZMS15X1ZEWTFFNE9tcHpEcFVVbVFMRTVkZmkxRWpDUV9mLUs5c1BzZ0hPRDhEd1hZdndtSU83WWRuRG9QRW9ILWhLVVFlNVBUaDVnQjJmUk5BSE1tN0tnaml0TVNISFRwV3ZMMlk5YXNubUw2MHRUdUsxVm5mZXVwSWlGb0swTlBqeWY0bVpxRFdjVGdfWmxB0gHPAUFVX3lxTFBUSUxRT3RtemdNbkJKSlF4YmtHMkQ0SWtkYV81cjQ4S2N5YnhzYUw2MTZrYnRyNjJJV3E1X05NaU0yVmx6XzdDS1k3QjQ0QUZYWUQ0M1NIM2NRMXAxMzR5QXF0elBfSzZEZXpzcmVQcW8tSkNETHphMHFEeEdjSTExNV8zQWhBdkNEeXd4WFpEMzNPUzBEajYwOEtnSzNPWVVVM2xlX3oxMVdBVnk5TEp2NkVCUVg1aV9scFRBTnItQ1N6WTFrN2EwUFBfNHNNNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTGt1LXJUNjlxRjhSZktEUWhzOExxNnVHLXJLVU5OMVdDckRGTDdxaGVYTmlXcDdqcE9ESldPdFJNSjduNFVHRVlUQmpCWFA3QkRKQjEwVVBqRWs3MllYQ2NQR29YUWVLMlhTY0hGTllCMnJTT1Zha1gyX2d0N1lzTlVEblBwRTRDZTdWUHhZVkhwQkdLTVFxVHVBZVpJN3BCWURkLURtOU1WS0xDMjFxQ2czYnJfdlQtb1VoaW0wX2hMV0RyTjVNU19TTjkxY2FEYjZ2OGhycUxwa2FUQlZtOF9Cb2RFVjFfMDV1OTk3aW9IWUNKSWZheFdIbUFnYTFE0gGGAkFVX3lxTE16MUNKeHVvYmdnV1VabUpqZlNaU0txTGIwRGhJdkRxLWIxZ1AtSFFUcTA4RVRkd0JXT2dMdU44YjNpUFF4YjMwbm9JYUpZLTgzQmhZbFVXdGJ6dU5OWGI3VEp5WU1rOE1PMHlkTW1XYVB2b2s1YjlNczdKcjdjU1ZUNU1XTHBydU52Ym9RWVAzdmdMRi1ENWhYTGxjU3prQ2E5dk1xQzVoZHFfX2hybHVEYUNBcDZEc0k0cXBUSnlfQkRMSFZIeE1MTms5Ulk3MHI3YlpUbFNTNjdTemRQcDFuQkdqazhTQmV6enVycjA4ZnlEbWtrSWQ3eTUtWDFKYUUyeWNlT2c?oc=5"
         },
         {
           "outlet": "The 420.in",
@@ -512,38 +505,6 @@
       "genuineness_label": "Corroborated",
       "brief": "CBI arrests Patna Registrar of Companies Ramesh Kumar while accepting Rs 3 lakh bribe in Lucknow. A crime-related story. Covered by The Times of India and The 420.in.",
       "image": "images/cbi-arrests-patna-registrar-of-companies-ramesh-kumar-while-.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "bihar-cm-samrat-choudhary-attends-nitin-nabin-s-grih-pravesh",
-      "headline": "Bihar CM Samrat Choudhary attends Nitin Nabin's 'Grih Pravesh' ceremony in Patna - Devdiscourse",
-      "summary": "",
-      "date": "2026-11-26",
-      "topics": [
-        "politics"
-      ],
-      "sources": [
-        {
-          "outlet": "ANI News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDk2NGc4b2xkN1R4NnluSzBaNEdxaGhJZFByVzNQREFZdEhMdHh4dlAyc1lEdEZla3ZEd2JXWTgyVzVnNDQwbW9iY0tyQ25PYUVYalY2dGVpMTBaekc3Vko0ODZYSWRNSGtSZzUxckdtT09MZGhyQ3BaWFU4SnRwYzUybnRVQU9XT2dPMUdKT1l1SkNJVmNMazRRY1l4cXZFUFZlSnBmZFpxSkIxcUtNc2o0dEM4dDRwSWE4UXhOUGlhTjJnVWRSMktLYTcyNTRFX1lN?oc=5"
-        },
-        {
-          "outlet": "Inshorts",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVRXQmtCMWFNYV9rNk9WT1dLblRJTktKRG9oQm1sc1lHLVdxdXJvVUdkaG8xVThhcjlwd0xza2dyVE00SW92ZDRKZElfTEUwVlV3MjR2Q1NPMFdYbEpCZmg4WVFHakwwd28yR2RQZlo4LUNYLW91Ym55QS12clFPcDU4S2hsVS01b2lBTmtwQmFuSEs2emdCYjJhc0pTdVNFelduVzB3U24?oc=5"
-        },
-        {
-          "outlet": "Devdiscourse",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOTVMU05JVkNmWFd4dS1iaHNvS2pONlM0VmlMR0ZWOW1rbFFwQzltOVJBV3l4MF9TZUlDMGo0UFFiX1lVRGJ1eWdIdGpTLW00UFJNMnNtV0cxVTduVWlMRldBalNxbl9hMlJ6aElJMC1sTUd1QnBqVFlIalBBVDVhNkZvUmxjWTFpX0pxNUtFd0NPWTJjdDJsSzUyWGdOMUdtYU1XZU1vaFNEbFdPY2swbGJGVTJCVVE5ay12YW5zbDRMVTUzNTBLdlFiMWZvcXJK0gHQAUFVX3lxTE05NUxTTklWQ2ZYV3h1LWJoc29Lak42UzRWaUxHRlY5bWtsUXBDOW05UkFXeXgwX1NlSUMwajRQUWJfWVVEYnV5Z0h0alMtbTRQUk0yc21XRzFVN25VaUxGV0FqU3FuX2EyUnpoSUkwLWxNR3VCcGpUWUhqUEFUNWE2Rm9SbGNZMWlfSnE1S0V3Q09ZMmN0MmxLNTJYZ04xR21hTVdlTW9oU0RsV09jazBsYkZVMkJVUTlrLXZhbnNsNExVNTM1MEt2UWIxZm9xcko?oc=5"
-        }
-      ],
-      "source_count": 3,
-      "genuineness": "verified",
-      "genuineness_label": "Verified",
-      "brief": "Bihar CM Samrat Choudhary attends Nitin Nabin's 'Grih Pravesh' ceremony in Patna. A politics-related story. Covered by 3 outlets, including ANI News and Inshorts.",
-      "image": "images/bihar-cm-samrat-choudhary-attends-nitin-nabin-s-grih-pravesh.jpg",
       "image_kind": "photo"
     },
     {
@@ -593,24 +554,19 @@
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUZtUEJkT2xTWlJuYWVvS1A0aUQyZUwxaFJOZTd3LXNvcHg3czdYdW1yMTkxb1hhVjFJSDNWVkh0QjJ2U292RDluZWhWMkVpVndrZGRNeUdJdTRRRzlxLWlpaUE5bjVHaUFKTDU1WUZCRUtGdlR1NVZ1LXljc09qZVV4VmVQTEpOT0tRSkx3TkFZbWFlSUFNVm5Rd09Kb20xZVBtMVhfRzBydVIxelk5el95RUk5TGt0dkdaNzIyR3BqamxLMUI3Qzhta1h2aTl1V2tfd3ZYRlBxd1l0WlBB0gHsAUFVX3lxTFBJd1Z6dkh2Y0pXUnJEVHJxQVZIWEg3cWlTS0FoWUJNTkdQdktMZ01ZYUp6R3JocW5mcVZuTEFiWHVINnE2a0xBZlVPaEt3REZFc2VZQmFZYk5rTkFFTkNRTldYekJ2WTZMc3JGUUZKLTZoSXFJdWgydkpsWlFycVdRMEVaQ0d0WEJDZExyZ2FSU0pfMGQ3Ni1zMG0yWTF1MFNaS01RS05vZC1uX19HLVQyNUd6SWZrNHBGc3BmU1MzeHZha05CRmZNNWxkaXpPZzF6VG1kY0loSnQ5MnJ1MncwQjJ1TTdobEhzUzZ3?oc=5"
         },
         {
+          "outlet": "Verdictum",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGkxT2wyRy15Y0hyRE56Vm1UM1VBM1VHc0ZXbDVMZ25nZTJYWFVLS19EWV9POU5uaHVxRC0wa1N3RGhnMXpPc3NSR0EtOGFiT2xqbjByWmdUNXdRRUxrNUQtV2diSjRFdzhYTEwySGxxY2l4cXZlcXUwTUF2eHplMHVmV0RLclNwNHR6bG5JdVctTTY2dEozZ3NuQmZFaERrQ050R1JkUElaZzd0em5LeHRpbks2S1FubUdCbmFuM3lId2lFVFBKVXZrWkhhWVp6aWdN0gHYAUFVX3lxTE9CTkpoS3JOd0JCc1BiSk1OblJJUnY4UHdEZVZxaFA5UXFjcW5SMGltWk9tUnMzbFliNnNhcERfZm40MUlwSkhCNHJSZ1hfWHpGUXdIekNPdVRXalg5X1gyWU11TGU1Umo2MHBDU3piNlBwR0VNeEI3QUxFaUVTWGFfTU1LY0pIOWRhMVZWZlhMT0pnaWt5YUlRNlZ0R1pXZjdJdVZkR0E5UDRKNGFkY1N1dTY5bklUbWdQUndPd0RfX3RfNDdUREZKOXUyeXFCSFZFRk1nTlE1aQ?oc=5"
+        },
+        {
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0RDV0NTRV9iUXMwWWlQa3lMYVFMclEyV3R4WlhSQnpDbDBZRkhwMG9aTWp5Mk4taWF5RGpmd1BOZUYtOXRDVUN2QkpOSnlRTmF1dmFRck1mSDJPU3hRX3hwS3ZpZWdfc1VQSEpOdWwxamZ0NUdYZDNRNHZwSjJyWkYyNjlFRU01aHl1QThEVzJFWndIMUowamt1c2toZl9tcU5CVS1IakJxQ1hIU1laaHJILW5TOTFtWEg3T1N0TTdUQUJzX013b05R0gHPAUFVX3lxTE5XOFZUbko4NWprSFd4R1FZbHJlbmJnYVNNa1VPRzBNQWdmSXBseWptOEQxZS1IazROSjNBMUVrak9KdWdJQi1PV3FCQmJlMEdBMGNNUk5VLXh0SGF3SDJYNXhQTTlhR3NqTUR2bGYxNzF0N21FX1pmN2N3OFpPMjZpanVvZkt3dEM0RGw1ZEYwVFFIcXZKOHFUWUpyYWZpRmJFWHFPMVlCTzFEODFUNy1lUGFtQXJEZ2hTWVRfdS0xcGtwdkpLemxNNUxYcnQ5dw?oc=5"
         },
         {
-          "outlet": "Swarajya",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTVQ2V2RpT1RreHVPa3QtczFlekMtUG9xbXZSV2p2Y0paV0hNN20tUks4S2lISDFlcXRjRlhyVDMyNGdCUlhVX2VmS2lVT05YeWJhM3lYVF9qdmY4c1NpMk45czNHeDFZVEhsa0FTa3ZmN09FZ2NLZEJMVnVJcmUzWE1XS1hER2pCMmg5Vm10TmJJbF9TZWtLS0g3bi1HTlY5cjd5al9PV25iS3BmaDU4dlo2R19YRW85MXpmbzlWMHZiTUdYZ3lIQ3NSRV91UdIB3gFBVV95cUxQMy1oNE9DT1h6UGVhbW9ISXJDaEx2cDF1Q0FUbkhXaUtwSjBOcXRZV2trNXpZTG8zU3lXQmNnbnhqRy1mT19VNzNrYnM2c1JTYjJKLVlBTld2dzVTQTI3ZER1OUg2NmxrWFZrZlR3eWdtd3JsaEdfR0ZjMUNwTHFqZXlVY3NNUHNmUlI3LTVtNm11NG5sQXM1VE85TDdBdTlXalBLNUVQRlNKTUI4WkR0a3Q3cHpldzJjVG9JbjNucF8xNG1leDV0eGZFY2Z3SzRDbUg1ajl3Z1QxeEc4OFE?oc=5"
-        },
-        {
           "outlet": "Hindustan Times",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaFVtVkVFdEVKRFFXeVZfWUhaVTUyRU9DblRHNFFub2NBSWFOc19HbkZvVEtfS3RZc3d1REhqUlc0LXBZNTR4OUl0UW5JZFoySWI5bXZERzR2TnF6djV2d21uMERFYWVEM3hiX0xsakhDQkJZeEJpd19zdmVlVWFOMGpHdkNJb1V3dlNTOFdtY0ZQdklEYUIwOGxzdzFEUEcwZWQ5SmE1bHA4RGlrZXd6UU5fUmhrTGRINkZLZElWdnFuZzl1dGxCUGljQkNleVhweWk0SnRIS0lEZ9IB3wFBVV95cUxPTThzcTg0U0NvdEIxOVJHRnozWGRpNnBteFUxaG5IMWptdG1OMVRQSEdsRzd6azF5SXBFeHh0bUhvaVdMZVFsQjhFaGJXcWd3aWVBMTlWdGpfclNYVER0VjNJcWZmRDJvMldqbDI0NTdOTEJCWm5KVllDN1gtNTJGUTdzR2hoV2pZRjJJQ1NuaEwxUnBnN1NkOFFFZEVmNEtBNW52Z1RTelgyZFdnVlhSMktsckNZTXpIRXBTellrY0RrdXNvZXc4Nmw2c2s3LWFCT0RtVWRaVXhOb0tsWWFr?oc=5"
-        },
-        {
-          "outlet": "India Today",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUEpsWDlNWlQ4MUNsWTVMaDhDSlJ5Y3lSdkZ0UHBMYkRWbVQxeWxoLWtIdHJVNHhQVWV3SmVJa2pfY0tPX0prcHFEZkxXeUJPV0NYVzRKSlJTLTdSV3RDYTF3ejhEY21XM0FuRG1aV291WmpveGJRV05pUTZVYXBHUGc4S2w4bEZsVk1NdFh5d2FhMlg4WjlyaTVsUkRWcTlMbXgtVmFxUm84RVRWNmZnOTNsVmtac3JzcWZFdmNLTnUybmdMdndIcmRIMkt5R0l5WVBEVmRqRm5HSHNtTHFkUzNVb1kwQVBQQW1aQnJIY0w3QnJtNUo2YlJsVl9xTTBicXc00gGIAkFVX3lxTE1pbVkxbDJsdGpYTU9GZHhNNlhvcFBhOTd3Rl9XYUk3MXhvbGFSLV9WTG9sNkFXSmIzV2FPRlM5SFlDeURaTnRvUE5HR0VFaTZvQmM0OENLWDJxVkZaRXcyQ3JVdEpwZ2JKa2FCTXJ3RWVwRTBzbW9qVHc1VWFGd3JDRzliN1g3bEJhWkVjZjItOGxxUEFqV0tPV21IaFdNVWt4YmhOM082dFMtYnp5RDlkT1Q5N1Y0c1d1QjA2c0xxWFBuTnpRMGNSQ1o5RWNfbnNWd2FKdzR1dlRUNkVNTGJfUGxRcXllNU1kV3BKamd1WGtsX3dmUjBfSTZuczBBUmNUYWE1dXJENA?oc=5"
         },
         {
           "outlet": "Live Law",
@@ -628,11 +584,6 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWGg3M3VFVXhPcHlDOHFnajVIbm5YeEQyN0pCQ3lKcmJubDZHS19pMGYtb0JpV21SYTZnSTZtd3VZODZTSDhUaEFvTlVILURLTVotOE5KOURKb2FiVi1mVXE2SXNPYVNhQ1I2SGxrSTVNWGZnWFlWUE1OWDNDTzY1QVlCbGZKUUY2UUJab3lKejh5UFFFVEVXOGZvRFE2UmkzVnh0ZFFQSzJTSE1fbUtxd29EeWZValhieTJuR0JWNWRVWVd1Vl9qR0FQbTFfeEU3d1lncVdmME0tOG95UUNjN3VB0gHnAUFVX3lxTFBkeXZQcDMxbXhGWEcteXlicm44SVJtS3JTeTI4cFo0SDJpUFN6eG41blhXSlI4d0paZVVQVlkyRlYwX3JrcmtjbDJTV2otejktVXN0OGdkRlVGVDBCZklJNXJRNHU0Y3c1Q0s1RTJNSjA4S1VtY0pSYUxXWkd4VUZnYXdHb1NaVTlST3Fla2RXdzdzUDgwT1lQd081ZkJoNjNzMnc0a3MyY1BiQWhDZUEzYi1HZ01QcUVIdEdBWUhKYm5tZG1EM3NuRENtamxHeWFrdVNLWWJBdUVlUThRT3Nra1R5MzI1aw?oc=5"
         },
         {
-          "outlet": "Scroll.in",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZzBZU3ZxQ0UwWUZCZ1Z5Z1V6bmMtaEpLdERXVG1Sa1c0NEw5enNsYTkwak9DZHRBUkZYRkVfWEFsYWF0Z0IwWF9nX3FNX01tbVBCcHpFSHdqbGdsU3FwS0dubjJxM1VGTmxjQTZzRjNLX1hGaDBHSEZsandxTDdmLTJoZVM3SXB3bDBmbGNJZ0tiTGZaWWN2bnZJcy1Zd2ozR3BabXEwa3p1Zk9nVEZudVMtTlPSAboBQVVfeXFMUHl5UmVVaTFrN1hYOVh6V2tzcDFvNDBZWGJLbzF4Q0plNlhRSXd1ZjRWWjNIYm1xSENvVkUwVUpVOWV3NXI3UWc1aGpxOWI5cnBZdFVCdUF1bWxzWUkwQkh5TlUwdjFieS1LRFJGbTNyUTFtdmdRdGRvWG1MY0RBQTlrM0hXVnhaOFpIRmxEQzRoYVB3MXU0UUZSS3BzeUdua05JNElnejBubUpLMXlSRHA0UVlSdEpmNGNR?oc=5"
-        },
-        {
           "outlet": "NDTV",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNejNmN0FSLUVaeFZDekltOGY2emxPSFJ1X2pPMGU1S0VpR2Z4bmJSdlNUZ1JvOWxvdDNtNVY5eUoyZlZBeHpZcVdoYm0tR3JGYUV4Y2k4d2IyZGsxNEdjYkdfV3Jnd0RjMGpEWFRnTW5PdUViZl9pVFIwOWVYSDFrd2ZrQk9NcW5CSmoyMmRmbVZjaUVDaTR5bFQ0U3VkbUdQNG1BZzdsLWE5MXJGaExiUWln?oc=5"
@@ -643,39 +594,39 @@
           "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOHdEbkl4ZUxmN2pySW9MZVJQdzNxSEN4LTg5NjhSQnhwVGNpM0JYNmR0M1pTdmhEU0wzcU05WV91dUVzcWFEN0FUMVpfRUo4U1pyTlpmM1ZZQmIyd2F2MkJWcXVja2hCNWlRWXA3VC1yWXFWZVRZOEhKOUdvZmNkMXNGMW15YTVKaVB5bDlQT2lNTEhVcjhOQ1EydUlVbnBQSnBjZi1EeUV3VEo3dHo3RjBRVjlQNHdQeGlsTlAyLWU2VTB2ZUpJT2hGMUFSSjdYdUt2d1AzUXRacWgwcmJhN09TXzVDSVZ1bWJnUmd6bUlLemt2bU03VFB4SnB6c2hTdnNGekxuUWpObkxsVDVjdlpJV1kxRGw0S2c?oc=5"
         }
       ],
-      "source_count": 12,
+      "source_count": 10,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Supreme Court quashes Bihar govt's remission for ex-MP Anand Mohan in IAS officer lynching case. A politics-related story. Covered by 12 outlets, including The Times of India and Telegraph India.",
+      "brief": "Supreme Court quashes Bihar govt's remission for ex-MP Anand Mohan in IAS officer lynching case. A politics-related story. Covered by 10 outlets, including The Times of India and Telegraph India.",
       "image": "images/supreme-court-quashes-bihar-govt-s-remission-for-ex-mp-anand.jpg",
       "image_kind": "photo"
     },
     {
-      "id": "from-rs-40-000-google-internship-to-over-rs-1-crore-iit-patn",
-      "headline": "From Rs 40,000 Google Internship to over Rs 1 Crore: IIT Patna graduate Shristi Shreya Singh shares her 8 year career journey - Education Times",
+      "id": "bihar-man-returns-to-his-village-for-a-wedding-shot-dead-ove",
+      "headline": "Bihar Man Returns To His Village For A Wedding, Shot Dead Over Brother's Love Marriage - Asianet Newsable",
       "summary": "",
       "date": "2026-11-26",
       "topics": [
-        "economy"
+        "general"
       ],
       "sources": [
         {
-          "outlet": "Education Times",
+          "outlet": "Inshorts",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOR1laeE5telFWUE9RWmZqTGcyXzd6dW1yUlZqRWFjb3FpQnp2MnF2b09CZXRSbFp0Vl9fWXdrMHktRVhjVTBUNjJtcXlHM2hDUEd1cUFwUWxFLUNjVkM2SFpObmVVUE1Qa2lTN05yempoR2lGME81b0x1STJZMG5yLWNQWU9kYV82QXhfTGJyRDJIV3dRTGhrWmVRT3V1dDV1N3ZJZzRER29LV3R6OXA1dmNncGtpM3N1Q1A4WXpNX1RZMGZUZ2JBVkZjRUhheGM3dnZwbUNVRmZRV3FuQ00tQ0tFTjRHNjVlNWl0YlJBd3FsMjhiZ0VZTzcxa01fYkpJcUJLSnBQUzhMOEJZMWptdWRhZEZNaVNU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVJZbTVNZTZiV2tHT2M0T0UzVUZybnROTmFIY3ltNUFnVEZBa0JZZmh5ZlIzX1otb2tIZWJHM2d2UG1tTGJCNVVIbnRGYllVcFVodC11NEtIQ3hVNWJiZ0xySVBQZWxFM0VsbDhUTk1GeHB5NTlpbDVPZmxyQnlqMW5YMk5IQUZ4alJNOWNzOXpTV3JzSXZzZDQyNmZOaFNUVUk4Vg?oc=5"
         },
         {
-          "outlet": "The Economic Times",
+          "outlet": "Asianet Newsable",
           "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOR0pvV1pOczg5Z0dSZ1FUa012UHNvaUhQZVRKbEJZS2dJWHg3bjFHS2ZJTFo5RDBQN2d6UXBITmprSlVPRDNFeDQ5dm9QYVEtUkI4Q21SaEcyYW1tN3A0YWxHdXZ1N19NaTV4Y0JoNkJSZGNFUTc4WEpQVUM3eHRlLWFLN0k5Y2JBVVRUQmRCS25HN1ZjZ29NRXlpcEdsT2dlb3BfN280S0YwUmZNZXc4ZXc1aGNha1pVTWNBaXNmRnB5QXhaNkRicmw5bl94cmxEYnBoai1kNDFNLXYydHZ6cHBqSDhvaFNmZzQ2NUl6b1B3b1pyaFBiZjN2OENUY0HSAYQCQVVfeXFMTVdnVDJXa0J5SWJxQlhuLVlfRWJoR0JfajNxUGRjQktRZWg3TDJCZkNkSi1BZHUzYW9uTmF6OUN0NmlTRF9veHlfR3lMcG5ibnBEQmRyS3hiaEE3dklJQTlBWjZyVTVHSmhESUJzclBrZ0FEeW45amRRVHpFbU9HUm5QTms3bE1GMFBMT1dxeEQ3RXIwZ0JsYTBLbHZORzZBWGU0WWFub0hEMnpyd2JpN0tqRU43WG1UM3BDdEtDZmt4N0cxV3FmUi1heGdVeTNCbjVneHhmOEdCdWNlMzVRSi1xZWhrTzJqckZHcXI0bm04WkNkTWZ0Wkd1WFBIOTV5VU5xRUg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZU43WXh1aEJQUkNLdnA1Qzg5WFA1VzYwS1J6d3g1allYMExRVGltUXl0WHVBWXpGZ1RMbEdTZXpqX04yMGMwYmJrdjNKXzl0QVZtd1FpVjVGcVNKeTF0ZzZlSnVIbHExOV9qV0xEYkhjd3F0ZnBSSllTWFNaRTYyQVpteXY2UVZJZ1hrdjNxRXBvNG5IRDZXT1lhOW1kbmxTRDlsVHVHTUVwcGJ4MDk0WlV4UGwxa0tVQ01ZTDJDSUYzT0YyM0lSMTVfcHZ5MmNaNzZTNTdRTTVCbUZ0U3c4VnBNb1hWaktF0gHuAUFVX3lxTE9hQnJmc2NXQkNodU9UaFF1YWlHS2JXNEtsNkU0M3UxM2hsTGJvNi1hOWxXR25nQ05ISUFkd3duYVRCY2d2dklqcU05cGRQcjJJRkdQNVF4M3lObFhDWm9LT0M5bnZSck1hMDBLMkI3RzN4VDI2U1RaNlNvOElzYlRWaVNiMjF2NEJsVUJNZEYyWWExdG8wUGp2M0lKYXViUXBPQXczcUNRMnZRTU5CcnY5M2xuSGZaNUFaS25MLXU4OWdrLWloMFRRT1lTaktDLXRQT2JGbFFteE83MzVTa05Ha1paSmk3U0pPTm56OVE?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "From Rs 40,000 Google Internship to over Rs 1 Crore: IIT Patna graduate Shristi Shreya Singh shares her 8 year career journey. An economy-related story. Covered by Education Times and The Economic Times.",
-      "image": "images/from-rs-40-000-google-internship-to-over-rs-1-crore-iit-patn.jpg",
-      "image_kind": "placeholder"
+      "brief": "Bihar Man Returns To His Village For A Wedding, Shot Dead Over Brother's Love Marriage. Covered by Inshorts and Asianet Newsable.",
+      "image": "images/bihar-man-returns-to-his-village-for-a-wedding-shot-dead-ove.jpg",
+      "image_kind": "photo"
     },
     {
       "id": "constitution-inspires-us-to-uphold-country-s-unity-strengthe",
@@ -695,13 +646,45 @@
           "outlet": "ThePrint",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmNkUVVEMlc4ZVVBQnN4ckszVkVoM3dSNVdHREJUQ2JqU25tTDJwUHhpWkFGQXJQWGEzSmdOcFNuWTR4NUxxakJRdVl6a3lTeEpGWlM5MTlkeHp0YzJ2b2hiN1lhN2NhY1hONjkwRGk1T1Z1a1dyaFA4QjQzd3ZSVTd5dGdKVWNXenRJcE5ncFFBazZ1eXF2VGRiemljWExVdGY3VVIzTVhpRjVqbml4VEhBbnVkZ1NzcG0wQ0xMT2dPclMtSFHSAcsBQVVfeXFMTkJZZWx2THlneXFnSFVzYW5mYk5WcGpscmNUMk90aks5ZkUxY2pGY3YwdHlnY0JienNpUzlDbm55V0JSTmxwT1ZIQVIzcVJyRmZJN2E2M0t0R0R4RXNiaUE5NTJFTG5naGZ2WWtiajNwRUFwTHZlOGNQWmVqNGZpbV83aUVkVFozSk1tZVhNQkNMeXllQjBWcFc3QjdjSlExeU5qWmxoajVhX3g2S3JfS3d4OUJrNjA5VElJR05yTDhpT0pEaUFRSnh1dXc?oc=5"
+        },
+        {
+          "outlet": "The Week",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdktGMjhKVXFQUmRkcmtzT3BIbGJDVXoxbXU0YXltUndndmNCSjhvTWs1aGIwcWZ2Zm5YUnRRYTRhWmdYZ2lyVV9wd2gxc2xzN2hvaS1mNHRIOUNkdnFNVDhiMlkzbm56NU00U3E0R3FGOVZlLTlpX1FyeW53WVpjaEJTMjdneVFJcjhjNmRjelB2SDB1cnV1V2EwdWgyVV9GUjZjSkFob3FKZ1RoRDdwUG10NmxjRnNDZlhfRUZJUmdLWUlDamxhUXlFVlVzNVpjRGFsSFAzZW9iejV0MzJSVUJxQzl0TXRuZnfSAe8BQVVfeXFMTlIyT0EwWTNCQ1JKSUhISklJS1RweExUQnhQaWNJU0FYb3M0cHNJaEhOZFpreTlNQ21aOF92RGVsdk5CYUJxOTFlemllRHdIZDFLWkxmYVU1QjZjMmpxX2gzZWhPMDRKVWdzdnlVcDQtaGlrQVJGTkItRUhtbHREN3ZTdkp6aVd4bnJGRUl0SmM5bXFjM3VTVHlFSjMzOGlGaEdYY3FTOTlBV3IzdS1VOVl3Z2dwdnpHY2lvMERnNDdfM05CSVY5Q2NpWlRrTFZxZHA4VEdQVTc4dWlsbm1OY1BNTG8zZnFfeHN1Y3V4Ync?oc=5"
+        }
+      ],
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Constitution inspires us to uphold country’s unity, strengthens democratic traditions: Bihar CM. Covered by 3 outlets, including ET Government and ThePrint.",
+      "image": "images/constitution-inspires-us-to-uphold-country-s-unity-strengthe.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "nobody-is-going-to-promote-us-ravi-kishan-reveals-why-he-own",
+      "headline": "\"Nobody Is Going To Promote Us\": Ravi Kishan Reveals Why He Owns The \"Bihar Ka Brad Pitt\" Tag - NDTV",
+      "summary": "",
+      "date": "2026-11-26",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ2h3VElEVVEwQU9ZM1pNaFozQmQzbUZYRTJNYU9DYXFrSDhCVm9haHpfUWdLajRwRVZON0tlQm1EejFJcnJYLVJDX2dRSmVmRjBuSVlqd0hieUFnM0pPWUsyRUpFdjN4WV9RcUJidFZBeXNWX1gwbzQ3VjB6WmRjaF8yamZHUmFmZDU4cUx3eW5lXzBFLWpDeUlBRUJXWFFPa3RYSldmakRvc29qSGdxeWpfTnllYVdWelpmTGJhVzMxS3BydHZUMFNuSll1Z9IB1AFBVV95cUxQTXRjUmstUExrNXdzX1psV0k3LUNHWjZUbTc5ZHZ3bmRYWHA4U1lzSzRjSGFobzFaUmhFMTB0eEVsLWFhQ0l0clBTZ2RoQ1NzSURsNS1OY2xXZFZJRjQxN2lQczczaHBwbWFZNVoxM2lzYWZSUGEtcTRyS0IwbDBmY2Q4bGdwaUk2dzR4NlhaQmM1ZmVyYUI2d1ZZcFhUZ1FxWWxjblRIWE5QUEdyOVJPWDd5RV9aWS1OV2ZRSHNudFMwcnp5Q08zekJDZlN5c2Q2T3hEQQ?oc=5"
+        },
+        {
+          "outlet": "NDTV",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjgwaHJsV20zLWlfcklHbHRVY1VucVJaX0FrZjgwMnRMdWp2M01pZlJsVnNFWkViU2xmX1JwQldxQV9wc1M5LU9HanBTcDd6WFVZRXlvTDk1bzM0ZFRkS3E1UHFIbWRNblA3ZEh0c1BnZERTWE1jd01aOVF2bWtwNW1VZW5fR2s4VlJiY01FZmllcUk5WmJ6SURvQ0RrZnE4R25JZVh3MkFrMmJiaFhzSEMyR3FHbW1jX1R2VHRYemdhOG5vM3dxRXh2b9IB0wFBVV95cUxONzRVM0ZxTjl6TmFJVTY1SnJ5R2haZi1teGxwSVRTNVQzcy12SVYwT29VSFAzZnE3NHM2akpRaTM2RHVvM3JLRDNBQ1VIbjBUdlM0SG1NdmtlTHVBUVhheER0Mnk2MjNNWW5KOWxBaXhsZ1lxa3dRbmZ2TGs4aEpZVzlhSkpENW12YXowSk5Oem9hckgtNW1yRGM2cFI2NjhiUXNrR1hBaVRrNmkyQTN0UldXaVFmQWhuNm9rWHllZTVONFhwYnAya1UxNlVueGt2SDFF?oc=5"
         }
       ],
       "source_count": 2,
       "genuineness": "corroborated",
       "genuineness_label": "Corroborated",
-      "brief": "Constitution inspires us to uphold country’s unity, strengthens democratic traditions: Bihar CM. Covered by ET Government and ThePrint.",
-      "image": "images/constitution-inspires-us-to-uphold-country-s-unity-strengthe.jpg",
+      "brief": "\"Nobody Is Going To Promote Us\": Ravi Kishan Reveals Why He Owns The \"Bihar Ka Brad Pitt\" Tag. Covered by The Indian Express and NDTV.",
+      "image": "images/nobody-is-going-to-promote-us-ravi-kishan-reveals-why-he-own.jpg",
       "image_kind": "photo"
     },
     {
@@ -756,33 +739,6 @@
       "genuineness_label": "Corroborated",
       "brief": "पटना एयरपोर्ट का देशभर में जलवा, यात्री सुविधाओं में संयुक्त दूसरा स्थान; दुनिया में 67वीं रैंक। इसे Jagran और Prabhat Khabar ने रिपोर्ट किया है।",
       "image": "images/67-jagran.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "national-milk-day-2026-to-be-celebrated-in-patna-with-launch",
-      "headline": "National Milk Day 2026 to be celebrated in Patna with launch of dairy initiatives and major infrastructure projects - DD News",
-      "summary": "",
-      "date": "2026-11-25",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "DD News",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS0I0YXh3U0tlZ3RQT3NqdE8xTUc1MXpZM2pHRW9JOGtjUlA5UWZKSUsxQzB0cTJFSEMzb3FYN0VUZURKcjZCT09SblZ1dkY0S3Q0Q0VxN0FKck0zSEd5Mnd4TTRCd2ZMaHJ6ekMtbHZyMzV4OXdUYkhoNTgxMVlIaVlfT1Vzd1ZXM1VLUWdOVWs5Q1B6aFNoZUhqRC16T2FpVl9WOFRPUV9PS1JXcm5pbUptczU5a0FTYmtXNEpQWWxUbWh3T0s1T09kT1pHNHpNQnFmN2F2cW4?oc=5"
-        },
-        {
-          "outlet": "India Tribune - Chicago",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZC1jTS1WZXRXaXp3MDlEYkZmUTlMMXlhWmZQUG9YajdZTnFCUVA1all6QVZCbWl2WHNPNUdELXhid1FSZ1VSN2ExaU5sNnJqZXV6YjFPY0tNV3ExNXFZamFxYXpPYW9QdHU0RjNfUHh0TzY1SHJRTGtMMU1ZOEp4Z01UYW5keWE5RTFPVjZtSFlDWGExVkJJcmJCRE9YYUtvcjJYQWRjbUlYRnNFMlgyUTFB?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "National Milk Day 2026 to be celebrated in Patna with launch of dairy initiatives and major infrastructure projects. Covered by DD News and India Tribune - Chicago.",
-      "image": "images/national-milk-day-2026-to-be-celebrated-in-patna-with-launch.jpg",
       "image_kind": "photo"
     },
     {
