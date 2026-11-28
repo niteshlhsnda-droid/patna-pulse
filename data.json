@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28 14:38 UTC",
-  "generated_at_ist": "28 Nov 2026, 08:08 PM IST",
+  "generated_at": "2026-11-28 15:54 UTC",
+  "generated_at_ist": "28 Nov 2026, 09:24 PM IST",
   "story_count": 48,
   "method": "RSS (Google News) + hand-verified web/social collection; genuineness = count of independent outlets per story",
   "stories": [
@@ -22,12 +22,22 @@
           "outlet": "Aviation Jeta",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbnVZTDBWR0ZYd0ZnUjhpQ1k3VU1idFdla05IU043UVJoLVFjMWM1amtnaTA0bUZubGpJUlBOaHg1cE9wWXBXcUttZTZjTlBNWUZwNTlNelJuQ3gxaVQ1ekxsd0xmMTdGZFlXMmtHMkhrX0kxWXhFUmd3UzZGY0trcFpjei1Sd2hoV2xiUVNqM0taem5ub3RqNWMzQllTQnhBenJtZkpsN28zM0txUHFUX2hzeDZoZms0cFIxaw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTW8tRmV6NjEwN2h1clB6T0FHd0R4UlR5T2ZSUy1VQUowUjMwMEstb1JmQnFtcF9VV0F1cjN1WnhXVkdRYVZNY2UybUNQRjNRNnRSQ0ZVUlNPckV2d0hGdEdCbnQtLW1qZkJ5RExqVDI1VURLYVlYTHRaTFp4SmUyTUhjWnlmLW1BRFNGUVRCc3VsRVl3cVV4MEtILVAwcWZ1SmpFZnhVOW1SREw2MlN1S3NsM2pCcmdpZGxUUmRuNEpEeW5RQ1VDR0tKcjY2dw?oc=5"
+        },
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcEJXcjZFU1RNUzVQaWpvMnVBaHltVG1nT0U1WTdsY0g4UXB2N3hIODBVODhFRTB5LURyRU9YcWI0LTRfMHRIS2pMdHNlSWYwNFd0VzRXYUpaOWhvZW1BUVdwZl9MSzhRTEVHZ1lGdjFycTFwVXlHV1ZQanRwTzN1OFZZaC1SU1gzZnNVWnRGMm9lLUtSYWlualRDTVRBZUk0UWs1ejlidC16em1pWG1CZExyMnpDWFVRMHNMeVhGaVdQLUJuVjh4Y2tvdlRIQXJzaVM4TmNkMEVTcnc2cVl6UmRkRS12Y29rS0pyLVhRVUhUYTE1NXJUNGtxTDRuOXZ6QUpMQjd1ZWNlVnpmRDhIcnoxbFNJek4tUzVXRGRR0gHTAUFVX3lxTE5KQ1U0V1dIZzNtVGdqc1pzQTV3RUs3X0FZMHNONnhoUllfVGZEbGFEZkdhRnBQQnVRdHExZWt6TUlFN3hUVFM3UWJuUmNval8xUnVvUmV3TTRJUUVmYlBZMGNPaEV2Zl9WcS1BV1JUaVhGV0tVeFhMcGYtenFNendDMmtEeUxaWUItLXRCS2F6elNLMzdlRVBnM2RJMEgyV1AzenE2bTVqZ1c3bjYwUjQ5S3FoWGZpd0Z4ZGRnTHZBek95WE9BcWtacDliWURoclgxOHc?oc=5"
         }
       ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Patna Airport News: Airport Appeals to Residents to Keep Surroundings Clean for Aviation Safety. A civic-infrastructure story. Covered by ThePrint and Aviation Jeta.",
+      "source_count": 3,
+      "genuineness": "verified",
+      "genuineness_label": "Verified",
+      "brief": "Patna Airport News: Airport Appeals to Residents to Keep Surroundings Clean for Aviation Safety. A civic-infrastructure story. Covered by 3 outlets, including ThePrint and Aviation Jeta.",
       "image": "images/patna-airport-news-airport-appeals-to-residents-to-keep-surr.jpg",
       "image_kind": "photo"
     },
@@ -58,6 +68,34 @@
       "brief": "11 Arrested In Patna For Illegal Liquor Sales At Resort. A crime-related story. Covered by Rediff.com and ThePrint.",
       "image": "images/11-arrested-in-patna-for-illegal-liquor-sales-at-resort-redi.jpg",
       "image_kind": "photo"
+    },
+    {
+      "id": "cm-for-opening-of-dav-schools-on-premises-of-police-lines-in",
+      "headline": "CM for opening of DAV schools on premises of police lines in state - The Times of India",
+      "summary": "",
+      "date": "2026-11-28",
+      "topics": [
+        "crime",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNTmFmcXJ1QUhvMlBNLW5MSGQxUkFTUjFvWXVHdEtGRGk1NUVxSVBhWU5aQjFSTEhBcEgwQTlOTUtJcUZkc2E3cFZLWkhyQWg4QWNPMTk0b3NFdGR1ejVxR3h3dF93NDMwcGMzZ00teVZ0ZGRIY2pYUndtYnVNZUszVVZfeWl2N1JSbWNoM21oc284eDBIb0pqcVJ6Rlg2R3FwRnlFVlFsQ21EVFowRWRweFFDR1N6blNmdEtIZUg1clZXbTROZ1kxaERONmY5ZHV0NDFMc3RLMVp2OEtGUDVBR3lrbzZqb0t6V1FGUENDQmZBTUMxWTVhMFNlMzBCOXBneWtMUDN5czRoeFFqQ2d3bWdkd05DM0lhVFNxMXJUTGhQMW1FaWfSAdsBQVVfeXFMUFNqS0xJRkdoU2NLTVZUbW1xY0lPVTNaRWpTQ2Q2T3hZWlJ1SkRoU2xoR2hYaF9rc3I5Q3NDMUlNaWx4UHhXMjJ2c2VDMWRTSzl3Si1JTFQxOVcxZER6SzQ2clRSaWUxYklqNElna1ItMzhDaFlRZDRLOEdEbFJpWGhPc1gwal9lZlFHM2J0Nk1hRl9PdXVDdTR4VzRiQ01ZRjAxVHpqbmZJelo4OWtHb3JZOGYwamNJR1JNYk5zS0h0bjQtZkNxdkxnTGVMRXZnNnNHWXhiNFhZWG44?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnVsM0p1QzE2b1NBNVVYTUlQTmFfQjJ4cF95UWtMVWpCYUZISmlwandVSXIwUzNOb2xMekRob3lSOEFaejgtM0hqVl9GOFNDTVgwUzdSWk51VHd0Z1B3Z0dSZWR4bEE3WmNkR3lpY0ZNZ1Zvb0hXXzdQbDNtUnRIOGU1WnpRVlNMOXAzdjZqLWNpRHhOdVBGaElqcHJrNmhiLXRkWEI0YmJ3UXZlbXVLOdIBtgFBVV95cUxOemJ3allvWHMyWHpfd2VVR29Ub3dLajh2cU1rc0pLZG9CSEFkM2tsSDd4WU03Qm1pMHVxXzZsNkJvWnF3NEpuVkJUUHdOUDh3LXZEbTJFZmZfWGUxSFlJaUVaSVBwTHozSzZKUnptVjJfRGNOb0JqaWdkNEltTXJTNnNlYzZacmZWbl81emxMMUFXa2hpaF9UU2huMF81SmNfc2ZvSXB2N3h0LXpxWjRxMjFLZXJhZw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "CM for opening of DAV schools on premises of police lines in state. A crime-related story. Covered by The Times of India and ThePrint.",
+      "image": "images/cm-for-opening-of-dav-schools-on-premises-of-police-lines-in.jpg",
+      "image_kind": "placeholder"
     },
     {
       "id": "patna-high-court-summons-bihar-chief-secretary-over-failure-",
@@ -183,15 +221,20 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORElGOFpqTk9SLThIYkNMNjktOWpHMnlvejNPQ3d1MHEyQWctcV9odVVPUXFNX09zcl8xZEhtUVFXdXZqWjhFY2hhNmlhRWtiNzhJT1RBSFIyZ3U1YUxpc1hiaXVWQWgwMFJPWFB1bjlTQjR3SGZoQjFGYkFJSzRlenliOVhWRlZzbnJFYXRLOUQ0NklYd3kyTTFsOUp6M2JVRDM2Um5QNXZ3MmM2ZVBKYtIBtwFBVV95cUxNMThPdDAweXdvQXl2OG5mUUpmNm5NM01aQzk3YmpIZG5PeWNWWGJvSU9MZmtSbWp4YXV3bnE0SWx6Ukd0QzFXVTVVS3N0NHpSOFVPSXpYeDdWOGpSbnZUZk9ZZ3V3Uy1JVjd1dkItbVJ4ZktWeVhFaHpGS0ZqSDREbWRTSWhxM0ZCRElyZmRHQ2NONXJZMzRsQzdmRUo4LTRNcVdHSmdjWjAweWFrT2xPTDliQ3BCNUE?oc=5"
         },
         {
+          "outlet": "India Today",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWtWOXlza25iUEZXX0ZMakdXU0NnSmF2T0lfUWFzTFFWN3NnczJ0eEx4OW9CVmRwNGJZUVFkLTF6NFRwVk5Ta1BZY2t1Z0lKcWQwblQ4aWNoX0dOMGUwMGV3U2pST1pUenRVck0wNngzaUhvMGFvYm9KR1haWUdocDZNVTBXYmI0ekJteUhJcEx5aTEzYWF2SE1pRFI3UEZnc2pxVFNVb1JnWFZmLVpqUXdTdi04UlVxMnkwcdIBwgFBVV95cUxPSnlfSG5TV05hcjhJQ1VTSFVCYW4ta243bU5WMXlxcDhDa3ZhMXdTY1JkVlo5eE1tbTNMMDBEa1F1bWhMUkg0cEJuU0Rub1k5TVRpWFNoM1YyS0hILUdLdDFmS0RmNGVCbTZ5Y1cteTg3SGc1Ym5KOVpjQ1ZDSXdJYlFydkdmV25QYzk1aUtTUlFxS0htd0pGLXJ2RlViZFFYb0NFLU1hLWhaaS12dGdSWjBkc1VzR2JFdmNNTEtFNmdyQQ?oc=5"
+        },
+        {
           "outlet": "The New Indian Express",
           "type": "news",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzAyLUgxOWtvUEFKZi1iRldDZFZpeGpVb2JEVmFhMGV3UkhxUVBQZmZXaUtiUTNKSDg5eGFWLUVZSzJraGVmR1VyUFdJNm9XelVQWldsZ09qbWxlMHBUQnJOOWlVSVZ0RlpTcVYySWJQbmNEV3BrYTViM2V3R3dXVkszVEU5bDBNOXhuNS1FaHBZQW9CbV9BeUQ4dlByaDN1MHMtVXVCaG9OcjlKVG1SdTd1R3lHbUJnc3Yzemh3UdIBzAFBVV95cUxObEF5Nk4yUGsyLTMwYjlBVkoyVW94Q1llZ2p3TGxIUEEtcjhBcEVOUDVXaTVxSTQ2Z09RT2QyVjJKNG8wSTM3RnBBdlk1Q2g2ZE01TWlybHdTV1VpN0pxdDVzVFRRYXRyb2t3eVgta0o4NV9fMThVemRhSEdOQTZmRTdSd01kdS02bVE5V19TMjRLeU8xRGM1MGZxb1B2OWhHdENsV2JUM0JRY3B4X2pWZlZZY1RHS0YyNldrUm4xOTZTMGZoX0w1c3VHQWI?oc=5"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "genuineness": "verified",
       "genuineness_label": "Verified",
-      "brief": "Delhi, Bihar launch interstate bus services across 18 routes connecting 13 destinations. An economy-related story. Covered by 6 outlets, including ET Auto and The Hindu.",
+      "brief": "Delhi, Bihar launch interstate bus services across 18 routes connecting 13 destinations. An economy-related story. Covered by 7 outlets, including ET Auto and The Hindu.",
       "image": "images/delhi-bihar-launch-interstate-bus-services-across-18-routes-.jpg",
       "image_kind": "photo"
     },
@@ -328,33 +371,6 @@
       "image_kind": "photo"
     },
     {
-      "id": "anand-mohan-to-return-to-jail-sc-strikes-down-bihar-remissio",
-      "headline": "Anand Mohan to return to jail: SC strikes down Bihar remission rule change, says victims’ must be heard - ThePrint",
-      "summary": "",
-      "date": "2026-11-27",
-      "topics": [
-        "general"
-      ],
-      "sources": [
-        {
-          "outlet": "The New Indian Express",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYTF4bWtKWU5MdmxjSE91STIwN29lWW9sTk0yeHZQanR5RUxPaEdSa241VFRTVEY5SGt6SHAzOUg2dmRMQ0VYalZSYTFTMEtCb0JnWGxDNkdKalJCYVdzUEFwTWdaeVg3d1ZRTG1oSkxiZXZETU1YNlVUQkJrbDhKSTk1dklwZElyeDNzRUN5TkltQkdxYnA3ei1sbkNCSWJCbmVicW9zSFJXYlprakR3ektXUzlFV2dQZzhyLWlob2ZVUDNmSVdxOTQwTTJJMzlPX1HSAd8BQVVfeXFMTllfdE9UM3NPSkJiS2w2MUNRam5hRVI3QThvX3hBMS1OYUtkUGduZWtLRnRvNndNZWtmSGtyQ0luV3JYRk1PR2JuRThBQlhjVFFDZ2d5Z1NsQl9lYWhkajlUOUY3eTV5dk5pUVFoTkUzbF9FdFZWSWdUYXZhOG9wQWZvdGhpNGZjMlRKS1E4Q3RnVndYRkFQcXBQVnlLOTY1Y1dqSkZzRHFpZ0VLVUN1M2M0V3E2ZklNVHdaalpvbFNTWXgxWVRHa2c3aWUzWlEzWFpPdUU2TkNGbVc4Tm5mOA?oc=5"
-        },
-        {
-          "outlet": "ThePrint",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTzRTSTZFbzNGa295Y1ROZThfeW5yTWtobXlZamNhdnI5ODhLVVRUZzlVXzNFVVFUXzh1R2Y4RW1VLTAzU1Qxakc4T3R5elNwNjRpclFNLXZYNzBRSXVESF9WXy1nZ1UwcnVBM2xHRThwLVhOZ0tWaVZrdHQ2R21BZTFwTnNXVWdYSTVOUnd2OHJKeWZ4STl0NnJDQTg4TURQaXI2VXlLbkRVWDF2Y0lheFU1QnFQMnV5b0NuRUhhdkxoYVNhU2VMZUZVR0ZKeGJ3WG5vZTFn0gHbAUFVX3lxTE0ySmxIcXpfaVZhOFhDak9WSnpsbTRkWURwcG9HSzUtd3F3aWFrQW1OWWVqQ1NGemZ6d3FpV3JiVmp0bm40TlJHTkRGQlcwUnJQSXo4NkR3ZmpUUzNyWXhmN1FZWW1qV3JnS0REM3B5RFRfWHVCclUtb2tUSHl1ay15VlJ3bm01SW00cmwyMlJtNHF1RVM3dThjanV6VEQtd2ZHQjYxakRwMlBzSXY3UUxLMFFYQjc4OWpacWtTWHJNZUlPSVJ5cU5LMHR2V2NmMC1sOWVLQ0pEQk55bw?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "Anand Mohan to return to jail: SC strikes down Bihar remission rule change, says victims’ must be heard. Covered by The New Indian Express and ThePrint.",
-      "image": "images/anand-mohan-to-return-to-jail-sc-strikes-down-bihar-remissio.jpg",
-      "image_kind": "photo"
-    },
-    {
       "id": "bihar-village-turns-wedding-venue-as-anant-singh-s-daughter-",
       "headline": "Bihar village turns wedding venue as Anant Singh’s daughter ties the knot - The Indian Express",
       "summary": "",
@@ -384,6 +400,33 @@
       "genuineness_label": "Corroborated",
       "brief": "Bihar village turns wedding venue as Anant Singh’s daughter ties the knot. Covered by NDTV and The Indian Express.",
       "image": "images/bihar-village-turns-wedding-venue-as-anant-singh-s-daughter-.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "anand-mohan-to-return-to-jail-sc-strikes-down-bihar-remissio",
+      "headline": "Anand Mohan to return to jail: SC strikes down Bihar remission rule change, says victims’ must be heard - ThePrint",
+      "summary": "",
+      "date": "2026-11-27",
+      "topics": [
+        "general"
+      ],
+      "sources": [
+        {
+          "outlet": "The New Indian Express",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYTF4bWtKWU5MdmxjSE91STIwN29lWW9sTk0yeHZQanR5RUxPaEdSa241VFRTVEY5SGt6SHAzOUg2dmRMQ0VYalZSYTFTMEtCb0JnWGxDNkdKalJCYVdzUEFwTWdaeVg3d1ZRTG1oSkxiZXZETU1YNlVUQkJrbDhKSTk1dklwZElyeDNzRUN5TkltQkdxYnA3ei1sbkNCSWJCbmVicW9zSFJXYlprakR3ektXUzlFV2dQZzhyLWlob2ZVUDNmSVdxOTQwTTJJMzlPX1HSAd8BQVVfeXFMTllfdE9UM3NPSkJiS2w2MUNRam5hRVI3QThvX3hBMS1OYUtkUGduZWtLRnRvNndNZWtmSGtyQ0luV3JYRk1PR2JuRThBQlhjVFFDZ2d5Z1NsQl9lYWhkajlUOUY3eTV5dk5pUVFoTkUzbF9FdFZWSWdUYXZhOG9wQWZvdGhpNGZjMlRKS1E4Q3RnVndYRkFQcXBQVnlLOTY1Y1dqSkZzRHFpZ0VLVUN1M2M0V3E2ZklNVHdaalpvbFNTWXgxWVRHa2c3aWUzWlEzWFpPdUU2TkNGbVc4Tm5mOA?oc=5"
+        },
+        {
+          "outlet": "ThePrint",
+          "type": "news",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTzRTSTZFbzNGa295Y1ROZThfeW5yTWtobXlZamNhdnI5ODhLVVRUZzlVXzNFVVFUXzh1R2Y4RW1VLTAzU1Qxakc4T3R5elNwNjRpclFNLXZYNzBRSXVESF9WXy1nZ1UwcnVBM2xHRThwLVhOZ0tWaVZrdHQ2R21BZTFwTnNXVWdYSTVOUnd2OHJKeWZ4STl0NnJDQTg4TURQaXI2VXlLbkRVWDF2Y0lheFU1QnFQMnV5b0NuRUhhdkxoYVNhU2VMZUZVR0ZKeGJ3WG5vZTFn0gHbAUFVX3lxTE0ySmxIcXpfaVZhOFhDak9WSnpsbTRkWURwcG9HSzUtd3F3aWFrQW1OWWVqQ1NGemZ6d3FpV3JiVmp0bm40TlJHTkRGQlcwUnJQSXo4NkR3ZmpUUzNyWXhmN1FZWW1qV3JnS0REM3B5RFRfWHVCclUtb2tUSHl1ay15VlJ3bm01SW00cmwyMlJtNHF1RVM3dThjanV6VEQtd2ZHQjYxakRwMlBzSXY3UUxLMFFYQjc4OWpacWtTWHJNZUlPSVJ5cU5LMHR2V2NmMC1sOWVLQ0pEQk55bw?oc=5"
+        }
+      ],
+      "source_count": 2,
+      "genuineness": "corroborated",
+      "genuineness_label": "Corroborated",
+      "brief": "Anand Mohan to return to jail: SC strikes down Bihar remission rule change, says victims’ must be heard. Covered by The New Indian Express and ThePrint.",
+      "image": "images/anand-mohan-to-return-to-jail-sc-strikes-down-bihar-remissio.jpg",
       "image_kind": "photo"
     },
     {
@@ -580,34 +623,6 @@
       "genuineness_label": "Verified",
       "brief": "YouTuber Yash Maheshwari's remarks on married women's sindoor during Chhath spark outrage; Patna Police r. A politics-related story. Covered by 7 outlets, including The Times of India and India Today.",
       "image": "images/youtuber-yash-maheshwari-s-remarks-on-married-women-s-sindoo.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "cbi-arrests-patna-registrar-of-companies-ramesh-kumar-while-",
-      "headline": "CBI arrests Patna Registrar of Companies Ramesh Kumar while accepting Rs 3 lakh bribe in Lucknow - The Times of India",
-      "summary": "",
-      "date": "2026-11-25",
-      "topics": [
-        "crime",
-        "economy"
-      ],
-      "sources": [
-        {
-          "outlet": "The Times of India",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTGt1LXJUNjlxRjhSZktEUWhzOExxNnVHLXJLVU5OMVdDckRGTDdxaGVYTmlXcDdqcE9ESldPdFJNSjduNFVHRVlUQmpCWFA3QkRKQjEwVVBqRWs3MllYQ2NQR29YUWVLMlhTY0hGTllCMnJTT1Zha1gyX2d0N1lzTlVEblBwRTRDZTdWUHhZVkhwQkdLTVFxVHVBZVpJN3BCWURkLURtOU1WS0xDMjFxQ2czYnJfdlQtb1VoaW0wX2hMV0RyTjVNU19TTjkxY2FEYjZ2OGhycUxwa2FUQlZtOF9Cb2RFVjFfMDV1OTk3aW9IWUNKSWZheFdIbUFnYTFE0gGGAkFVX3lxTE16MUNKeHVvYmdnV1VabUpqZlNaU0txTGIwRGhJdkRxLWIxZ1AtSFFUcTA4RVRkd0JXT2dMdU44YjNpUFF4YjMwbm9JYUpZLTgzQmhZbFVXdGJ6dU5OWGI3VEp5WU1rOE1PMHlkTW1XYVB2b2s1YjlNczdKcjdjU1ZUNU1XTHBydU52Ym9RWVAzdmdMRi1ENWhYTGxjU3prQ2E5dk1xQzVoZHFfX2hybHVEYUNBcDZEc0k0cXBUSnlfQkRMSFZIeE1MTms5Ulk3MHI3YlpUbFNTNjdTemRQcDFuQkdqazhTQmV6enVycjA4ZnlEbWtrSWQ3eTUtWDFKYUUyeWNlT2c?oc=5"
-        },
-        {
-          "outlet": "The420",
-          "type": "news",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHB6bWNGd2Z3eUtwUmZYY3d4SHpYVGR3UkVUQkwtR3BKdVpudXkxc2hGblVJcU5rVDl5SjI3TVdRbkVXY0VqYWRkZmVMZlppLU1jLXFVY3ZiZFdVYUhKYko2ZEpwWjNYcG9vSERfLU1qelhuTDA5X1d6MVl6UjlDaWp6c0w0S3FHQjhiZlVkRXQ2Tm92Y2UxdlFsVTB1QQ?oc=5"
-        }
-      ],
-      "source_count": 2,
-      "genuineness": "corroborated",
-      "genuineness_label": "Corroborated",
-      "brief": "CBI arrests Patna Registrar of Companies Ramesh Kumar while accepting Rs 3 lakh bribe in Lucknow. A crime-related story. Covered by The Times of India and The420.",
-      "image": "images/cbi-arrests-patna-registrar-of-companies-ramesh-kumar-while-.jpg",
       "image_kind": "photo"
     },
     {
